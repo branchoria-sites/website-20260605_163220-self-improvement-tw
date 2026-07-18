@@ -271,13 +271,13 @@ image: /assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_ph
 One of the simplest ways to stop “just one more episode” turning into a much later bedtime is to move the phone out of the bed area altogether. This sounds trivial, but it changes the problem from a test of [willpower]({{ 'willpower/' | relative_url }}) into a question of physical access. A phone beside the pillow combines streaming, messaging, social media, browsing, news, alarms and work notifications in the exact place where sleep should be the default behaviour.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_phone_out_of_bed_23d74a-Illustration-1-dark.svg" | relative_url }}" alt="Phone Distance illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_phone_out_of_bed_23d74a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_phone_out_of_bed_23d74a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research increasingly suggests that the issue is not only screen light. The phone's presence creates opportunities for stimulation, checking, scrolling and cognitive engagement at the moment when the brain is trying to disengage. In practical terms, a phone on a bedside table makes continuing an activity easy. A phone charging across the room makes continuing an activity slightly inconvenient—and that small inconvenience often matters more than [motivation]({{ 'motivation/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed Central“Leave your smartphone out of bed”: quantitative analysis of...by S Kheirinejad · 2022 · Cited by 75 — Our findings indica...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed Central“Leave your smartphone out of bed”: quantitative analysis of...by S Kheirinejad · 2022 · Cited by 75 — Our findings indica...</span></span></span>
+Research increasingly suggests that the issue is not only screen light. The phone's presence creates opportunities for stimulation, checking, scrolling and cognitive engagement at the moment when the brain is trying to disengage. In practical terms, a phone on a bedside table makes continuing an activity easy. A phone charging across the room makes continuing an activity slightly inconvenient—and that small inconvenience often matters more than [motivation]({{ 'motivation/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed Central“Leave your smartphone out of bed”: quantitative analysis of...by S Kheirinejad · 2022 · Cited by 75 — Our findings indica...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed Central“Leave your smartphone out of bed”: quantitative analysis of...by S Kheirinejad · 2022 · Cited by 75 — Our findings indica...</span></span></span>
 
 ## Why Reach Matters More Than Willpower
 
 Most people think of late-night phone use as a self-control problem. The evidence points to something more specific: access changes behaviour.
 
-A 2022 study combining smartphone-use records with sleep-tracking data found that smartphone use in bed was associated with longer sleep latency, more awake time and measurable changes in physiological indicators during sleep. The researchers summarised their practical implication in unusually direct language: “leave your smartphone out of bed”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed Central“Leave your smartphone out of bed”: quantitative analysis of...by S Kheirinejad · 2022 · Cited by 75 — Our findings indica...</span></span></span>
+A 2022 study combining smartphone-use records with sleep-tracking data found that smartphone use in bed was associated with longer sleep latency, more awake time and measurable changes in physiological indicators during sleep. The researchers summarised their practical implication in unusually direct language: “leave your smartphone out of bed”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed Central“Leave your smartphone out of bed”: quantitative analysis of...by S Kheirinejad · 2022 · Cited by 75 — Our findings indica...</span></span></span>
 
 The key insight is that distance creates friction. A phone within arm's reach allows dozens of tiny decisions:
 
@@ -286,14 +286,14 @@ The key insight is that distance creates friction. A phone within arm's reach al
 * Check a message.
 * Look at tomorrow's weather.
 * Finish a video.
-* Read one more article. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thensf.org/screen-use-disrupts-precious-sleep-time/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thensf.org">[thensf.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thensf.org</span><span class="citation-popover-snippet">National Sleep FoundationScreen Use Disrupts Precious Sleep Time13 Mar 2022 — Yes, you probably need your phone in the bedroom, but not i...</span></span></span>
+* Read one more article.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thensf.org/screen-use-disrupts-precious-sleep-time/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thensf.org">[thensf.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thensf.org</span><span class="citation-popover-snippet">National Sleep FoundationScreen Use Disrupts Precious Sleep Time13 Mar 2022 — Yes, you probably need your phone in the bedroom, but not i...</span></span></span>
 * See whether anyone replied.
 
 </div>
 
 Each action feels harmless on its own. Together they create a pathway away from sleep.
 
-Sleep-hygiene guidance increasingly reflects this behavioural reality. Sleep organisations recommend strengthening the mental association between bed and sleep by reducing wakeful activities in bed and keeping devices from becoming constant bedtime companions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sleepfoundation.org/sleep-habits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleepfoundation.org">[Sleep Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleepfoundation.org</span><span class="citation-popover-snippet">Sleep FoundationHealthy Sleep Habits: The Ultimate Sleep Improvement PlanWhat you can do: Try not to keep your phone or alarm clock right...</span></span></span>
+Sleep-hygiene guidance increasingly reflects this behavioural reality. Sleep organisations recommend strengthening the mental association between bed and sleep by reducing wakeful activities in bed and keeping devices from becoming constant bedtime companions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sleepfoundation.org/sleep-habits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleepfoundation.org">[Sleep Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleepfoundation.org</span><span class="citation-popover-snippet">Sleep FoundationHealthy Sleep Habits: The Ultimate Sleep Improvement PlanWhat you can do: Try not to keep your phone or alarm clock right...</span></span></span>
 
 This matters especially for people trying to stop at the end of an episode. A streaming service can only tempt you if the device remains immediately available. Moving the phone outside arm's reach removes the effortless continuation that makes late-night viewing so difficult to stop.
 
@@ -303,11 +303,11 @@ This matters especially for people trying to stop at the end of an episode. A st
 
 Phone discussions often become arguments about blue light. The evidence is more nuanced than many headlines suggest.
 
-There is substantial research showing that evening light exposure can affect circadian rhythms and melatonin regulation. However, reviews and recent reporting on sleep research suggest that blue light alone may not explain most real-world sleep disruption from smartphones. Content, emotional stimulation, habit loops and mental activation may be equally important—or more important—for many users. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/lifeandstyle/2024/nov/04/is-it-true-that-the-blue-light-from-night-time-scrolling-can-stop-you-sleeping" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Is it true that</span><span class="citation-popover-snippet">the blue light from night-time scrolling can stop you sleeping?Research indicates that while blue light from smartphones can disrupt our...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed Central“Leave your smartphone out of bed”: quantitative analysis of...by S Kheirinejad · 2022 · Cited by 75 — Our findings indica...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chronobiologyinmedicine.org/journal/view.php?number=167&amp;viewtype=pubreader" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chronobiologyinmedicine.org">[Chronobiology in Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chronobiologyinmedicine.org</span><span class="citation-popover-snippet">Impacts of Blue Light Exposure From Electronic Devices...A variety of scientific studies have shown that blue light exposure, especially...</span></span></span>
+There is substantial research showing that evening light exposure can affect circadian rhythms and melatonin regulation. However, reviews and recent reporting on sleep research suggest that blue light alone may not explain most real-world sleep disruption from smartphones. Content, emotional stimulation, habit loops and mental activation may be equally important—or more important—for many users.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/lifeandstyle/2024/nov/04/is-it-true-that-the-blue-light-from-night-time-scrolling-can-stop-you-sleeping" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Is it true that</span><span class="citation-popover-snippet">the blue light from night-time scrolling can stop you sleeping?Research indicates that while blue light from smartphones can disrupt our...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed Central“Leave your smartphone out of bed”: quantitative analysis of...by S Kheirinejad · 2022 · Cited by 75 — Our findings indica...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chronobiologyinmedicine.org/journal/view.php?number=167&amp;viewtype=pubreader" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chronobiologyinmedicine.org">[Chronobiology in Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chronobiologyinmedicine.org</span><span class="citation-popover-snippet">Impacts of Blue Light Exposure From Electronic Devices...A variety of scientific studies have shown that blue light exposure, especially...</span></span></span>
 
 This distinction strengthens the case for physical distance.
 
-If the problem were only light, a filter or night mode might solve most of it. But if the problem includes anticipation, notifications, social interaction, unfinished stories and endless content, then keeping the phone beside the pillow preserves the very triggers that delay sleep. Studies examining restrictions on in-bed smartphone use have found improvements in sleep quality that appear to be linked partly to reductions in pre-sleep cognitive arousal—the racing, engaged mental state that keeps people awake. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0306460323002204" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Can restricting while-in-bed smartphone use improve sleep...by Z Tu · 2023 · Cited by 20 — Restricting while-in-bed smartph...</span></span></span>
+If the problem were only light, a filter or night mode might solve most of it. But if the problem includes anticipation, notifications, social interaction, unfinished stories and endless content, then keeping the phone beside the pillow preserves the very triggers that delay sleep. Studies examining restrictions on in-bed smartphone use have found improvements in sleep quality that appear to be linked partly to reductions in pre-sleep cognitive arousal—the racing, engaged mental state that keeps people awake.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0306460323002204" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Can restricting while-in-bed smartphone use improve sleep...by Z Tu · 2023 · Cited by 20 — Restricting while-in-bed smartph...</span></span></span>
 
 In other words, the phone does not merely emit light. It emits possibilities.
 
@@ -332,7 +332,7 @@ A useful setup is surprisingly simple:
 
 The value of this arrangement is not technological. It is architectural. Once the phone has a designated sleeping place, reaching for it requires a conscious decision rather than an automatic movement.
 
-Some sleep experts argue that even if the phone remains in the bedroom, it should not remain in the bed itself. A screen-free bed creates a clearer boundary between wakeful activities and sleep. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thensf.org/screen-use-disrupts-precious-sleep-time/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thensf.org">[National Sleep Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thensf.org</span><span class="citation-popover-snippet">National Sleep FoundationScreen Use Disrupts Precious Sleep Time13 Mar 2022 — Yes, you probably need your phone in the bedroom, but not i...</span></span></span>
+Some sleep experts argue that even if the phone remains in the bedroom, it should not remain in the bed itself. A screen-free bed creates a clearer boundary between wakeful activities and sleep.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thensf.org/screen-use-disrupts-precious-sleep-time/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thensf.org">[National Sleep Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thensf.org</span><span class="citation-popover-snippet">National Sleep FoundationScreen Use Disrupts Precious Sleep Time13 Mar 2022 — Yes, you probably need your phone in the bedroom, but not i...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9ZXQSvQbBrE" title="The honest truth about screens at bedtime (it’s not what you think)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9ZXQSvQbBrE" target="_blank" rel="noopener noreferrer">The honest truth about screens at bedtime (it’s not what you think)</a></p><p class="youtube-embed-meta">Channel: BrainCraft &middot; Views: 35.1K &middot; Uploaded: March 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9ZXQSvQbBrE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9ZXQSvQbBrE">Open on YouTube</a></p></div></div></div>
 
@@ -355,7 +355,7 @@ Several practical approaches preserve accessibility while reducing temptation:
 
 </div>
 
-This last point is often overlooked. Sleep organisations note that checking a phone during a brief awakening can make returning to sleep harder because the device introduces light and mental stimulation precisely when the brain might otherwise drift back to sleep. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sleepfoundation.org/sleep-habits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleepfoundation.org">[Sleep Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleepfoundation.org</span><span class="citation-popover-snippet">Sleep FoundationHealthy Sleep Habits: The Ultimate Sleep Improvement PlanWhat you can do: Try not to keep your phone or alarm clock right...</span></span></span>
+This last point is often overlooked. Sleep organisations note that checking a phone during a brief awakening can make returning to sleep harder because the device introduces light and mental stimulation precisely when the brain might otherwise drift back to sleep.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sleepfoundation.org/sleep-habits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleepfoundation.org">[Sleep Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleepfoundation.org</span><span class="citation-popover-snippet">Sleep FoundationHealthy Sleep Habits: The Ultimate Sleep Improvement PlanWhat you can do: Try not to keep your phone or alarm clock right...</span></span></span>
 
 The objective is not perfection. The objective is reducing opportunities for unnecessary engagement.
 
@@ -369,7 +369,7 @@ Sometimes that works. Often it fails because the [environment]({{ 'environment/'
 
 The phone remains visible. Notifications remain possible. Streaming remains available. The next episode remains one tap away.
 
-Behavioural research repeatedly shows that environment shapes actions. The easiest behaviour tends to win, particularly when people are tired. Late at night, fatigue reduces the likelihood of making effortful choices and increases the appeal of [immediate rewards]({{ 'immediate-rewards/' | relative_url }}). A device within reach therefore becomes more influential than many people expect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed Central“Leave your smartphone out of bed”: quantitative analysis of...by S Kheirinejad · 2022 · Cited by 75 — Our findings indica...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed Central“Leave your smartphone out of bed”: quantitative analysis of...by S Kheirinejad · 2022 · Cited by 75 — Our findings indica...</span></span></span>
+Behavioural research repeatedly shows that environment shapes actions. The easiest behaviour tends to win, particularly when people are tired. Late at night, fatigue reduces the likelihood of making effortful choices and increases the appeal of [immediate rewards]({{ 'immediate-rewards/' | relative_url }}). A device within reach therefore becomes more influential than many people expect.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed Central“Leave your smartphone out of bed”: quantitative analysis of...by S Kheirinejad · 2022 · Cited by 75 — Our findings indica...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed Central“Leave your smartphone out of bed”: quantitative analysis of...by S Kheirinejad · 2022 · Cited by 75 — Our findings indica...</span></span></span>
 
 That is why moving the phone is disproportionately effective compared with more complicated sleep strategies. It does not require motivation at midnight. It requires a decision earlier in the evening.
 
@@ -378,194 +378,194 @@ For people trying to sleep before the next episode starts, that distinction matt
 <img src="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_phone_out_of_bed_23d74a-Illustration-3-dark.svg" | relative_url }}" alt="Phone Distance illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_phone_out_of_bed_23d74a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_phone_out_of_bed_23d74a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Your Phone Should Sleep Elsewhere. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Your Phone Should Sleep Elsewhere. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Strong on environment design, reducing friction, and changing behaviour by altering cues such as phone placement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Strong on environment design, reducing friction, and changing behaviour by altering cues such as phone placement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Minimalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S4NbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Minimalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Minimalism">Digital Minimalism</a>
-        </h4>
-        <p class="fr-book-author">By Cal Newport</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Minimalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S4NbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Minimalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Minimalism">Digital Minimalism</a>
+</h4>
+<p class="fr-book-author">By Cal Newport</p>
         
-        <p class="fr-book-desc">Directly addresses reducing smartphone dependence and intentional technology use.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses reducing smartphone dependence and intentional technology use.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Break+Up+with+Your+Phone+by+Catherine+Price&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Break Up with Your Phone on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rRVHDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Break Up with Your Phone" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Break+Up+with+Your+Phone+by+Catherine+Price&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Break Up with Your Phone">How to Break Up with Your Phone</a>
-        </h4>
-        <p class="fr-book-author">By Catherine Price</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Break+Up+with+Your+Phone+by+Catherine+Price&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Break Up with Your Phone on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rRVHDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Break Up with Your Phone" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Break+Up+with+Your+Phone+by+Catherine+Price&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Break Up with Your Phone">How to Break Up with Your Phone</a>
+</h4>
+<p class="fr-book-author">By Catherine Price</p>
         
-        <p class="fr-book-desc">Specifically focused on changing phone-use behaviour and creating healthier routines.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Break+Up+with+Your+Phone+by+Catherine+Price&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Specifically focused on changing phone-use behaviour and creating healthier routines.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Break+Up+with+Your+Phone+by+Catherine+Price&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why We Sleep on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZlU3DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why We Sleep" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why We Sleep">Why We Sleep</a>
-        </h4>
-        <p class="fr-book-author">By Matthew Walker</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why We Sleep on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZlU3DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why We Sleep" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why We Sleep">Why We Sleep</a>
+</h4>
+<p class="fr-book-author">By Matthew Walker</p>
         
-        <p class="fr-book-desc">Explains why protecting sleep from stimulation and disruption matters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why protecting sleep from stimulation and disruption matters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Minimalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Minimalism</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Break+Up+with+Your+Phone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Break Up with Your Phone</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Minimalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Minimalism</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Break+Up+with+Your+Phone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Break Up with Your Phone</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Silent Compact &amp; Portable Alarm Clock Travel Quartz Beep Alarm Clock Small Cute"><img src="https://i.ebayimg.com/images/g/2hUAAeSwgrxqJc1M/s-l225.jpg" alt="Listing image for Silent Compact &amp; Portable Alarm Clock Travel Quartz Beep Alarm Clock Small Cute" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">Silent Compact &amp; Portable Alarm Clock Travel Quartz Beep Alarm Clock Small Cute</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alarm clock">Search <span data-ebay-domain-label>eBay.co.uk</span>: alarm clock</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Silent Compact &amp; Portable Alarm Clock Travel Quartz Beep Alarm Clock Small Cute"><img src="https://i.ebayimg.com/images/g/2hUAAeSwgrxqJc1M/s-l225.jpg" alt="Listing image for Silent Compact &amp; Portable Alarm Clock Travel Quartz Beep Alarm Clock Small Cute" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">Silent Compact &amp; Portable Alarm Clock Travel Quartz Beep Alarm Clock Small Cute</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alarm clock">Search<span data-ebay-domain-label>eBay.co.uk</span>: alarm clock</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Digital LED Bedside Snooze Alarm Clock Time Temperature Day/Night Mode Clock UK"><img src="https://i.ebayimg.com/images/g/3woAAeSwlh1qG-Zi/s-l225.jpg" alt="Listing image for Digital LED Bedside Snooze Alarm Clock Time Temperature Day/Night Mode Clock UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">Digital LED Bedside Snooze Alarm Clock Time Temperature Day/Night Mode Clock UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alarm clock">Search <span data-ebay-domain-label>eBay.co.uk</span>: alarm clock</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Digital LED Bedside Snooze Alarm Clock Time Temperature Day/Night Mode Clock UK"><img src="https://i.ebayimg.com/images/g/3woAAeSwlh1qG-Zi/s-l225.jpg" alt="Listing image for Digital LED Bedside Snooze Alarm Clock Time Temperature Day/Night Mode Clock UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">Digital LED Bedside Snooze Alarm Clock Time Temperature Day/Night Mode Clock UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alarm clock">Search<span data-ebay-domain-label>eBay.co.uk</span>: alarm clock</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Silent Compact &amp; Portable Alarm Clock Travel Quartz Beep Alarm Clock Small Cute"><img src="https://i.ebayimg.com/images/g/fewAAeSw6m9pnAXk/s-l225.jpg" alt="Listing image for Silent Compact &amp; Portable Alarm Clock Travel Quartz Beep Alarm Clock Small Cute" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">Silent Compact &amp; Portable Alarm Clock Travel Quartz Beep Alarm Clock Small Cute</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alarm clock">Search <span data-ebay-domain-label>eBay.co.uk</span>: alarm clock</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Silent Compact &amp; Portable Alarm Clock Travel Quartz Beep Alarm Clock Small Cute"><img src="https://i.ebayimg.com/images/g/fewAAeSw6m9pnAXk/s-l225.jpg" alt="Listing image for Silent Compact &amp; Portable Alarm Clock Travel Quartz Beep Alarm Clock Small Cute" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">Silent Compact &amp; Portable Alarm Clock Travel Quartz Beep Alarm Clock Small Cute</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alarm clock">Search<span data-ebay-domain-label>eBay.co.uk</span>: alarm clock</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large Glow-in-the-Dark Alarm Clock,Easy Read, Silent Quartz Movement, Big Digits"><img src="https://i.ebayimg.com/images/g/IMUAAeSwxv5qImc5/s-l225.jpg" alt="Listing image for Large Glow-in-the-Dark Alarm Clock,Easy Read, Silent Quartz Movement, Big Digits" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">Large Glow-in-the-Dark Alarm Clock,Easy Read, Silent Quartz Movement, Big Digits</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alarm clock">Search <span data-ebay-domain-label>eBay.co.uk</span>: alarm clock</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large Glow-in-the-Dark Alarm Clock,Easy Read, Silent Quartz Movement, Big Digits"><img src="https://i.ebayimg.com/images/g/IMUAAeSwxv5qImc5/s-l225.jpg" alt="Listing image for Large Glow-in-the-Dark Alarm Clock,Easy Read, Silent Quartz Movement, Big Digits" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">Large Glow-in-the-Dark Alarm Clock,Easy Read, Silent Quartz Movement, Big Digits</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alarm clock">Search<span data-ebay-domain-label>eBay.co.uk</span>: alarm clock</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-your-phone-should-sleep-elsewhere-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alarm clock" data-ebay-reference="why-your-phone-should-sleep-elsewhere-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -581,7 +581,7 @@ For people trying to sleep before the next episode starts, that distinction matt
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -601,7 +601,7 @@ For people trying to sleep before the next episode starts, that distinction matt
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -633,7 +633,7 @@ For people trying to sleep before the next episode starts, that distinction matt
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -685,7 +685,7 @@ For people trying to sleep before the next episode starts, that distinction matt
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -730,7 +730,7 @@ For people trying to sleep before the next episode starts, that distinction matt
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -771,147 +771,147 @@ For people trying to sleep before the next episode starts, that distinction matt
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0306460323002204" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0306460323002204</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Can restricting while-in-bed smartphone use improve sleep...by Z Tu · 2023 · Cited by 20 — Restricting while-in-bed smartph...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0306460323002204" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0306460323002204</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can restricting while-in-bed smartphone use improve sleep...by Z Tu · 2023 · Cited by 20 — Restricting while-in-bed smartph...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022395616307786" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0022395616307786</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of smartphone use with and without blue light at...by JY Heo · 2017 · Cited by 279 — Use of blue light LED smartphones at night...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0022395616307786" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0022395616307786</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of smartphone use with and without blue light at...by JY Heo · 2017 · Cited by 279 — Use of blue light LED smartphones at night...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2352721823000347" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352721823000347</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bedtime screen use behaviors and sleep outcomesby JM Nagata · 2023 · Cited by 77 — Overall, 16% of adolescents had at least some trouble...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2352721823000347" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352721823000347</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bedtime screen use behaviors and sleep outcomesby JM Nagata · 2023 · Cited by 77 — Overall, 16% of adolescents had at least some trouble...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: time.com  
    Title: doom scroll phone night melatonin  
-   Link: <a href="https://time.com/7335087/doom-scroll-phone-night-melatonin/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/7335087/doom-scroll-phone-night-melatonin/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Using Your Phone at Night May Not Be as Bad as You Think20 Nov 2025 — A new study from Canada finds that blue light before bed might not...</p></details>
+   Link:<a href="https://time.com/7335087/doom-scroll-phone-night-melatonin/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/7335087/doom-scroll-phone-night-melatonin/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Using Your Phone at Night May Not Be as Bad as You Think20 Nov 2025 — A new study from Canada finds that blue light before bed might not...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed Central“Leave your smartphone out of bed”: quantitative analysis of...by S Kheirinejad · 2022 · Cited by 75 — Our findings indica...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed Central“Leave your smartphone out of bed”: quantitative analysis of...by S Kheirinejad · 2022 · Cited by 75 — Our findings indica...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8906383/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8906383/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralThe impact of bedtime technology use on sleep quality and...by SM AlShareef · 2022 · Cited by 65 — This large study streng...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8906383/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8906383/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralThe impact of bedtime technology use on sleep quality and...by SM AlShareef · 2022 · Cited by 65 — This large study streng...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: thensf.org  
-   Link: <a href="https://www.thensf.org/screen-use-disrupts-precious-sleep-time/" target="_blank" rel="noopener noreferrer nofollow">https://www.thensf.org/screen-use-disrupts-precious-sleep-time/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Sleep FoundationScreen Use Disrupts Precious Sleep Time13 Mar 2022 — Yes, you probably need your phone in the bedroom, but not i...</p></details>
+   Link:<a href="https://www.thensf.org/screen-use-disrupts-precious-sleep-time/" target="_blank" rel="noopener noreferrer nofollow">https://www.thensf.org/screen-use-disrupts-precious-sleep-time/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Sleep FoundationScreen Use Disrupts Precious Sleep Time13 Mar 2022 — Yes, you probably need your phone in the bedroom, but not i...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sleepfoundation.org  
-   Link: <a href="https://www.sleepfoundation.org/sleep-habits" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/sleep-habits</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep FoundationHealthy Sleep Habits: The Ultimate Sleep Improvement PlanWhat you can do: Try not to keep your phone or alarm clock right...</p></details>
+   Link:<a href="https://www.sleepfoundation.org/sleep-habits" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/sleep-habits</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep FoundationHealthy Sleep Habits: The Ultimate Sleep Improvement PlanWhat you can do: Try not to keep your phone or alarm clock right...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9424753/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9424753/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by MI Silvani · 2022 · Cited by 241 — The general consensus was that f blue light from electronic media negatively affects sleep quali...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9424753/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9424753/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by MI Silvani · 2022 · Cited by 241 — The general consensus was that f blue light from electronic media negatively affects sleep quali...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: chronobiologyinmedicine.org  
-   Link: <a href="https://www.chronobiologyinmedicine.org/journal/view.php?number=167&amp;viewtype=pubreader" target="_blank" rel="noopener noreferrer nofollow">https://www.chronobiologyinmedicine.org/journal/view.php?number=167&amp;viewtype=pubreader</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Impacts of Blue Light Exposure From Electronic Devices...A variety of scientific studies have shown that blue light exposure, especially...</p></details>
+   Link:<a href="https://www.chronobiologyinmedicine.org/journal/view.php?number=167&amp;viewtype=pubreader" target="_blank" rel="noopener noreferrer nofollow">https://www.chronobiologyinmedicine.org/journal/view.php?number=167&amp;viewtype=pubreader</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Impacts of Blue Light Exposure From Electronic Devices...A variety of scientific studies have shown that blue light exposure, especially...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: theguardian.com  
    Title: The Guardian Is it true that  
-   Link: <a href="https://www.theguardian.com/lifeandstyle/2024/nov/04/is-it-true-that-the-blue-light-from-night-time-scrolling-can-stop-you-sleeping" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/lifeandstyle/2024/nov/04/is-it-true-that-the-blue-light-from-night-time-scrolling-can-stop-you-sleeping</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the blue light from night-time scrolling can stop you sleeping?Research indicates that while blue light from smartphones can disrupt our...</p></details>
+   Link:<a href="https://www.theguardian.com/lifeandstyle/2024/nov/04/is-it-true-that-the-blue-light-from-night-time-scrolling-can-stop-you-sleeping" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/lifeandstyle/2024/nov/04/is-it-true-that-the-blue-light-from-night-time-scrolling-can-stop-you-sleeping</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the blue light from night-time scrolling can stop you sleeping?Research indicates that while blue light from smartphones can disrupt our...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sleepfoundation.org  
    Title: technology in the bedroom  
-   Link: <a href="https://www.sleepfoundation.org/bedroom-environment/technology-in-the-bedroom" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/bedroom-environment/technology-in-the-bedroom</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep FoundationTechnology in the Bedroom11 Jul 2025 — Looking at your phone or tablet can create light exposure and trigger your mind to...</p></details>
+   Link:<a href="https://www.sleepfoundation.org/bedroom-environment/technology-in-the-bedroom" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/bedroom-environment/technology-in-the-bedroom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep FoundationTechnology in the Bedroom11 Jul 2025 — Looking at your phone or tablet can create light exposure and trigger your mind to...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sleepfoundation.org  
    Title: how electronics affect sleep  
-   Link: <a href="https://www.sleepfoundation.org/how-sleep-works/how-electronics-affect-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/how-sleep-works/how-electronics-affect-sleep</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jul 10, 2025 — In fact, we recommend removing all of your electronic devices from your bedroom – and encourage your kids to do the same...</p></details>
+   Link:<a href="https://www.sleepfoundation.org/how-sleep-works/how-electronics-affect-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/how-sleep-works/how-electronics-affect-sleep</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jul 10, 2025 — In fact, we recommend removing all of your electronic devices from your bedroom – and encourage your kids to do the same...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: sleepfoundation.org  
-   Link: <a href="https://www.sleepfoundation.org/bedroom-environment/blue-light" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/bedroom-environment/blue-light</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Light: What It Is and How It Affects Sleep11 July 2025 — Make it a routine: Set an alarm that reminds you to turn off electronics tw...</p></details>
+   Link:<a href="https://www.sleepfoundation.org/bedroom-environment/blue-light" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/bedroom-environment/blue-light</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue Light: What It Is and How It Affects Sleep11 July 2025 — Make it a routine: Set an alarm that reminds you to turn off electronics tw...</p></details>
    Published: July 2025  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sleepfoundation.org  
    Title: sleep and social media  
-   Link: <a href="https://www.sleepfoundation.org/how-sleep-works/sleep-and-social-media" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/how-sleep-works/sleep-and-social-media</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep &amp; Social Media: Staying Connected Can Keep You Up10 Jul 2025 — Excessive use of social media close to bedtime can reduce sleep qual...</p></details>
+   Link:<a href="https://www.sleepfoundation.org/how-sleep-works/sleep-and-social-media" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/how-sleep-works/sleep-and-social-media</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep &amp; Social Media: Staying Connected Can Keep You Up10 Jul 2025 — Excessive use of social media close to bedtime can reduce sleep qual...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: sleepfoundation.org  
    Title: best alarm clocks  
-   Link: <a href="https://www.sleepfoundation.org/best-alarm-clocks" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/best-alarm-clocks</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of 2026 – Options for Heavy Sleepers3 days ago — Many experts believe it is best to keep devices like smartphones away from the sleep spa...</p></details>
+   Link:<a href="https://www.sleepfoundation.org/best-alarm-clocks" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/best-alarm-clocks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of 2026 – Options for Heavy Sleepers3 days ago — Many experts believe it is best to keep devices like smartphones away from the sleep spa...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: sleephealthfoundation.org.au  
-   Link: <a href="https://www.sleephealthfoundation.org.au/sleep-topics/technology-and-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.sleephealthfoundation.org.au/sleep-topics/technology-and-sleep</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Technology and SleepTechnology use in the evenings may delay bedtime and interfere with sleep. Using a bright screen for 1.5 hours or mor...</p></details>
+   Link:<a href="https://www.sleephealthfoundation.org.au/sleep-topics/technology-and-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.sleephealthfoundation.org.au/sleep-topics/technology-and-sleep</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Technology and SleepTechnology use in the evenings may delay bedtime and interfere with sleep. Using a bright screen for 1.5 hours or mor...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/blue-light-smartphone-screen-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/blue-light-smartphone-screen-sleep</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, recent evidence suggests the impact of blue light on sleep may be overstated. Studies indicate the amount of blue light emitted...</p></details>
+   Link:<a href="https://www.wired.com/story/blue-light-smartphone-screen-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/blue-light-smartphone-screen-sleep</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, recent evidence suggests the impact of blue light on sleep may be overstated. Studies indicate the amount of blue light emitted...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: healthyacadia.org  
    Title: better sleep better health why phones dont belong in kids bedrooms  
-   Link: <a href="https://healthyacadia.org/blog/better-sleep-better-health-why-phones-dont-belong-in-kids-bedrooms" target="_blank" rel="noopener noreferrer nofollow">https://healthyacadia.org/blog/better-sleep-better-health-why-phones-dont-belong-in-kids-bedrooms</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Better Sleep, Better Health: Why Phones Don&#x27;t Belong in...Dec 1, 2025 — A small change like keeping phones and screens out of the bedroo...</p></details>
+   Link:<a href="https://healthyacadia.org/blog/better-sleep-better-health-why-phones-dont-belong-in-kids-bedrooms" target="_blank" rel="noopener noreferrer nofollow">https://healthyacadia.org/blog/better-sleep-better-health-why-phones-dont-belong-in-kids-bedrooms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Better Sleep, Better Health: Why Phones Don&#x27;t Belong in...Dec 1, 2025 — A small change like keeping phones and screens out of the bedroo...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: clinicbarcelona.org  
    Title: insomnia and screens why blue light might not be the only culprit  
-   Link: <a href="https://www.clinicbarcelona.org/en/news/insomnia-and-screens-why-blue-light-might-not-be-the-only-culprit" target="_blank" rel="noopener noreferrer nofollow">https://www.clinicbarcelona.org/en/news/insomnia-and-screens-why-blue-light-might-not-be-the-only-culprit</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Insomnia and screens: more than just blue light—causes...26 Sept 2025 — A recent study has found that looking at screens before bedtime...</p></details>
+   Link:<a href="https://www.clinicbarcelona.org/en/news/insomnia-and-screens-why-blue-light-might-not-be-the-only-culprit" target="_blank" rel="noopener noreferrer nofollow">https://www.clinicbarcelona.org/en/news/insomnia-and-screens-why-blue-light-might-not-be-the-only-culprit</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Insomnia and screens: more than just blue light—causes...26 Sept 2025 — A recent study has found that looking at screens before bedtime...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: wral.com  
    Title: what s one small thing to help your sleep a real alarm clock  
-   Link: <a href="https://www.wral.com/story/what-s-one-small-thing-to-help-your-sleep-a-real-alarm-clock/21828129/" target="_blank" rel="noopener noreferrer nofollow">https://www.wral.com/story/what-s-one-small-thing-to-help-your-sleep-a-real-alarm-clock/21828129/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why your phone doesn&#x27;t make for the best alarm clockJan 26, 2025 — Switching out your phone for a dedicated alarm clock might help you sl...</p></details>
+   Link:<a href="https://www.wral.com/story/what-s-one-small-thing-to-help-your-sleep-a-real-alarm-clock/21828129/" target="_blank" rel="noopener noreferrer nofollow">https://www.wral.com/story/what-s-one-small-thing-to-help-your-sleep-a-real-alarm-clock/21828129/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why your phone doesn&#x27;t make for the best alarm clockJan 26, 2025 — Switching out your phone for a dedicated alarm clock might help you sl...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: tandfonline.com  
    Title: Do blue light filter applications improve sleep outcomes?  
-   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/15368378.2024.2327432" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/15368378.2024.2327432</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>M Rabiei · 2024 · Cited by 16 — Our findings matched what other studies have found before, that using blue light filters on smart...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/abs/10.1080/15368378.2024.2327432" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/15368378.2024.2327432</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>M Rabiei · 2024 · Cited by 16 — Our findings matched what other studies have found before, that using blue light filters on smart...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/everydayhealth/posts/is-your-phone-your-constant-companion-all-the-way-through-bedtime-it-might-be-me/1030239438965752/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/everydayhealth/posts/is-your-phone-your-constant-companion-all-the-way-through-bedtime-it-might-be-me/1030239438965752/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ces, like your cellphone, at least 30 minutes before bedtime.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/everydayhealth/posts/is-your-phone-your-constant-companion-all-the-way-through-bedtime-it-might-be-me/1030239438965752/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/everydayhealth/posts/is-your-phone-your-constant-companion-all-the-way-through-bedtime-it-might-be-me/1030239438965752/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ces, like your cellphone, at least 30 minutes before bedtime.Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: intermountainhealthcare.org  
    Title: why it is time to ditch the phone before bed  
-   Link: <a href="https://intermountainhealthcare.org/blogs/article/why-it-is-time-to-ditch-the-phone-before-bed" target="_blank" rel="noopener noreferrer nofollow">https://intermountainhealthcare.org/blogs/article/why-it-is-time-to-ditch-the-phone-before-bed</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why It&#x27;s Time to Ditch the Phone Before Bed27 Sept 2019 — The National Sleep Foundation recommends that you should stop using electronic...</p></details>
+   Link:<a href="https://intermountainhealthcare.org/blogs/article/why-it-is-time-to-ditch-the-phone-before-bed" target="_blank" rel="noopener noreferrer nofollow">https://intermountainhealthcare.org/blogs/article/why-it-is-time-to-ditch-the-phone-before-bed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why It&#x27;s Time to Ditch the Phone Before Bed27 Sept 2019 — The National Sleep Foundation recommends that you should stop using electronic...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/digitalminimalism/comments/1fxbg3e/did_you_sleep_better_after_removing_phone_from/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/digitalminimalism/comments/1fxbg3e/did_you_sleep_better_after_removing_phone_from/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>not scrolling or even reading on it right before sleep. I&#x27;ve always...</p></details>
+   Link:<a href="https://www.reddit.com/r/digitalminimalism/comments/1fxbg3e/did_you_sleep_better_after_removing_phone_from/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/digitalminimalism/comments/1fxbg3e/did_you_sleep_better_after_removing_phone_from/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>not scrolling or even reading on it right before sleep. I&#x27;ve always...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: health.clevelandclinic.org  
-   Link: <a href="https://health.clevelandclinic.org/put-the-phone-away-3-reasons-why-looking-at-it-before-bed-is-a-bad-habit" target="_blank" rel="noopener noreferrer nofollow">https://health.clevelandclinic.org/put-the-phone-away-3-reasons-why-looking-at-it-before-bed-is-a-bad-habit</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>clevelandclinic.org3 Reasons to Ditch Your Phone Before Bed20 May 2022 — Generally, however, tucking your devices away for the night an h...</p></details>
+   Link:<a href="https://health.clevelandclinic.org/put-the-phone-away-3-reasons-why-looking-at-it-before-bed-is-a-bad-habit" target="_blank" rel="noopener noreferrer nofollow">https://health.clevelandclinic.org/put-the-phone-away-3-reasons-why-looking-at-it-before-bed-is-a-bad-habit</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>clevelandclinic.org3 Reasons to Ditch Your Phone Before Bed20 May 2022 — Generally, however, tucking your devices away for the night an h...</p></details>
    Published: May 2022

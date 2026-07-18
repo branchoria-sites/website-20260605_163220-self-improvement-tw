@@ -277,13 +277,13 @@ image: /assets/images/self_improvement_tha_c01280_gym_after_work_1077e6_packed_g
 A packed gym bag looks trivial, but it solves one of the most common failure points in an after-work exercise routine: the transition between work and training. Many people intend to work out after work, yet the plan collapses when they realise they need to go home for clothes, cannot find their trainers, forgot a towel, or simply feel too tired to organise themselves. The gym bag works because it converts an intention into a prepared action.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_gym_after_work_1077e6_packed_gym_bag_commi_eedec3-Illustration-1-dark.svg" | relative_url }}" alt="Packed Bag illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_gym_after_work_1077e6_packed_gym_bag_commi_eedec3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_gym_after_work_1077e6_packed_gym_bag_commi_eedec3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Behaviour-change research consistently finds that planning and implementation intentions—specific “if–then” plans that connect a situation to a behaviour—help close the gap between wanting to exercise and actually exercising. A gym bag prepared before the workday begins is a physical version of that plan. Instead of deciding whether to go to the gym at 5.30 pm, the decision has largely been made earlier. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 71 — Recent meta-analyses d...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/31923898/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Intentions for Exercise and Physical Activityby J Kompf · 2020 · Cited by 34 — Implementation intentions are an effective behavior change...</span></span></span>
+Behaviour-change research consistently finds that planning and implementation intentions—specific “if–then” plans that connect a situation to a behaviour—help close the gap between wanting to exercise and actually exercising. A gym bag prepared before the workday begins is a physical version of that plan. Instead of deciding whether to go to the gym at 5.30 pm, the decision has largely been made earlier.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 71 — Recent meta-analyses d...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/31923898/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Intentions for Exercise and Physical Activityby J Kompf · 2020 · Cited by 34 — Implementation intentions are an effective behavior change...</span></span></span>
 
 ## Why the Gym Bag Matters Before Work
 
 The value of the bag is not primarily the equipment inside it. The value is that it reduces friction at the exact moment when [motivation]({{ 'motivation/' | relative_url }}) is weakest.
 
-Researchers studying habit formation and [behaviour change]({{ 'behaviour-change/' | relative_url }}) repeatedly find that environmental cues and planning matter because they reduce the mental effort required to act. People naturally select cues that minimise effort, such as keeping necessary items visible and readily available. Poorly defined plans and reliance on memory alone are associated with weaker follow-through. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 71 — Recent meta-analyses d...</span></span></span>
+Researchers studying habit formation and [behaviour change]({{ 'behaviour-change/' | relative_url }}) repeatedly find that environmental cues and planning matter because they reduce the mental effort required to act. People naturally select cues that minimise effort, such as keeping necessary items visible and readily available. Poorly defined plans and reliance on memory alone are associated with weaker follow-through.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 71 — Recent meta-analyses d...</span></span></span>
 
 For an after-work [gym routine]({{ 'gym-routine/' | relative_url }}), the packed bag creates three advantages:
 
@@ -295,7 +295,7 @@ For an after-work [gym routine]({{ 'gym-routine/' | relative_url }}), the packed
 
 </div>
 
-This is a form of environmental design, sometimes called choice architecture. Instead of relying on [willpower]({{ 'willpower/' | relative_url }}) at the end of a demanding workday, the [environment]({{ 'environment/' | relative_url }}) is arranged so that the desired behaviour becomes easier to execute. Research on choice architecture interventions shows that changing the decision environment can produce meaningful behaviour change across many domains. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 71 — Recent meta-analyses d...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 71 — Recent meta-analyses d...</span></span></span>
+This is a form of environmental design, sometimes called choice architecture. Instead of relying on [willpower]({{ 'willpower/' | relative_url }}) at the end of a demanding workday, the [environment]({{ 'environment/' | relative_url }}) is arranged so that the desired behaviour becomes easier to execute. Research on choice architecture interventions shows that changing the decision environment can produce meaningful behaviour change across many domains.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 71 — Recent meta-analyses d...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 71 — Recent meta-analyses d...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PzCqFAdB3g0" title="Importance of Behavior Change in Exercise Adherence, with Aaron Patterson, M.S." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PzCqFAdB3g0" target="_blank" rel="noopener noreferrer">Importance of Behavior Change in Exercise Adherence, with Aaron Patterson, M.S.</a></p><p class="youtube-embed-meta">Channel: Human Kinetics &middot; Views: 122 &middot; Uploaded: February 2026 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PzCqFAdB3g0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PzCqFAdB3g0">Open on YouTube</a></p></div></div></div>
 
@@ -328,9 +328,9 @@ Many successful exercisers go one step further and maintain permanent duplicates
 
 The gym bag exerts influence long before the workout begins.
 
-A packed bag sitting by the front door, beside a desk, or next to a work laptop functions as a cue. Habit researchers have found that visible environmental signals help trigger desired behaviours, while behaviours are less likely to occur when the relevant cues are hidden or absent. People often deliberately choose visible locations for [reminders]({{ 'reminders/' | relative_url }}) because visibility reduces effort and increases the likelihood of remembering. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 71 — Recent meta-analyses d...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://jamesclear.com/choice-architecture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamesclear.com">[James Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamesclear.com</span><span class="citation-popover-snippet">To Change Your Behavior, Change Your Environment. Every habit is initiated by a cue, and we are more likely to notice cues...</span></span></span>
+A packed bag sitting by the front door, beside a desk, or next to a work laptop functions as a cue. Habit researchers have found that visible environmental signals help trigger desired behaviours, while behaviours are less likely to occur when the relevant cues are hidden or absent. People often deliberately choose visible locations for [reminders]({{ 'reminders/' | relative_url }}) because visibility reduces effort and increases the likelihood of remembering.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 71 — Recent meta-analyses d...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://jamesclear.com/choice-architecture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamesclear.com">[James Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamesclear.com</span><span class="citation-popover-snippet">To Change Your Behavior, Change Your Environment. Every habit is initiated by a cue, and we are more likely to notice cues...</span></span></span>
 
-This matters because after-work exercise is vulnerable to what psychologists call the intention–behaviour gap. Many people genuinely intend to exercise but fail to act when the moment arrives. Implementation intentions help by connecting a specific cue to a specific action: “If I finish work at 5.30 pm, then I go directly to the gym.” Evidence from reviews and meta-analyses shows that implementation-intention strategies can improve physical activity participation and adherence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 71 — Recent meta-analyses d...</span></span></span> PubMed The packed bag strengthens that process by making the plan tangible. It is difficult to forget a commitment that is physically sitting beside <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/31923898/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Intentions for Exercise and Physical Activityby J Kompf · 2020 · Cited by 34 — Implementation intentions are an effective behavior change...</span></span></span> you all day.
+This matters because after-work exercise is vulnerable to what psychologists call the intention–behaviour gap. Many people genuinely intend to exercise but fail to act when the moment arrives. Implementation intentions help by connecting a specific cue to a specific action: “If I finish work at 5.30 pm, then I go directly to the gym.” Evidence from reviews and meta-analyses shows that implementation-intention strategies can improve physical activity participation and adherence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 71 — Recent meta-analyses d...</span></span></span> PubMed The packed bag strengthens that process by making the plan tangible. It is difficult to forget a commitment that is physically sitting beside<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/31923898/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Intentions for Exercise and Physical Activityby J Kompf · 2020 · Cited by 34 — Implementation intentions are an effective behavior change...</span></span></span> you all day.
 
 A simple sequence often emerges:
 
@@ -352,7 +352,7 @@ Each step reinforces the next, reducing the number of fresh decisions required.
 
 Many people assume exercise consistency comes from high motivation. In reality, motivation fluctuates.
 
-The packed gym bag is effective because it shifts dependence away from feelings and towards preparation. Behaviour-change researchers note that planning is especially valuable because intentions alone frequently fail to produce action. Action planning helps bridge that gap by specifying what happens, where it happens, and when it happens. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bmjopen.bmj.com/content/bmjopen/12/8/e058229.full.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmjopen.bmj.com">[BMJ Open]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmjopen.bmj.com</span><span class="citation-popover-snippet">BMJ OpenBehaviour change techniques that constitute effective...by H Lin · 2022 · Cited by 43 — Objectives Action planning is a brief an...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span>
+The packed gym bag is effective because it shifts dependence away from feelings and towards preparation. Behaviour-change researchers note that planning is especially valuable because intentions alone frequently fail to produce action. Action planning helps bridge that gap by specifying what happens, where it happens, and when it happens.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bmjopen.bmj.com/content/bmjopen/12/8/e058229.full.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmjopen.bmj.com">[BMJ Open]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmjopen.bmj.com</span><span class="citation-popover-snippet">BMJ OpenBehaviour change techniques that constitute effective...by H Lin · 2022 · Cited by 43 — Objectives Action planning is a brief an...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span>
 
 On a good day, motivation may be enough.
 
@@ -380,7 +380,7 @@ Instead, include items that [support]({{ 'support/' | relative_url }}) a reduced
 
 </div>
 
-This approach aligns with research suggesting that planning should include coping strategies for predictable obstacles. Planning what to do when barriers appear is often more effective than relying solely on ideal-case intentions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 71 — Recent meta-analyses d...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment39</span><span class="citation-popover-snippet">Cambridge University Press &amp; Assessment39 - Planning and Implementation Intention InterventionsA meta-analysis of action planning interve...</span></span></span>
+This approach aligns with research suggesting that planning should include coping strategies for predictable obstacles. Planning what to do when barriers appear is often more effective than relying solely on ideal-case intentions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 71 — Recent meta-analyses d...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment39</span><span class="citation-popover-snippet">Cambridge University Press &amp; Assessment39 - Planning and Implementation Intention InterventionsA meta-analysis of action planning interve...</span></span></span>
 
 A tired evening then becomes: “I will do the short version” rather than “I will skip entirely.”
 
@@ -391,274 +391,274 @@ The most important moment in an after-work gym routine often occurs the night be
 
 Packing a gym bag requires only a few minutes, but it changes the structure of the following day. It turns exercise from a future possibility into a prepared commitment. The bag acts simultaneously as a cue, a planning tool, a friction reducer, and a visible reminder.
 
-Research on implementation intentions, action planning, cues, and environmental design points in the same direction: behaviour becomes more reliable when the desired action is prepared in advance and supported by the environment rather than left to memory or motivation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 71 — Recent meta-analyses d...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 71 — Recent meta-analyses d...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/31923898/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed For after-work training]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Intentions for Exercise and Physical Activityby J Kompf · 2020 · Cited by 34 — Implementation intentions are an effective behavior change...</span></span></span>, a packed gym bag is one of the simplest examples of that principle in practice. It does not guarantee a workout, but it makes the workout significantly easier to start when the working day ends.
+Research on implementation intentions, action planning, cues, and environmental design points in the same direction: behaviour becomes more reliable when the desired action is prepared in advance and supported by the environment rather than left to memory or motivation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 71 — Recent meta-analyses d...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 71 — Recent meta-analyses d...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/31923898/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed For after-work training]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Intentions for Exercise and Physical Activityby J Kompf · 2020 · Cited by 34 — Implementation intentions are an effective behavior change...</span></span></span>, a packed gym bag is one of the simplest examples of that principle in practice. It does not guarantee a workout, but it makes the workout significantly easier to start when the working day ends.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v_Q7b0KjpTw" title="How To Pack The Perfect Gym Bag" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v_Q7b0KjpTw" target="_blank" rel="noopener noreferrer">How To Pack The Perfect Gym Bag</a></p><p class="youtube-embed-meta">Channel: BuzzFeed Nifty &middot; Views: 209.0K &middot; Uploaded: March 2018 &middot; Length: 2 minutes 24 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v_Q7b0KjpTw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v_Q7b0KjpTw">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Gym Bag Matters Before Work. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Gym Bag Matters Before Work. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Environment design and preparation are core themes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Environment design and preparation are core themes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
-        </h4>
-        <p class="fr-book-author">By B. J. Fogg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
+</h4>
+<p class="fr-book-author">By B. J. Fogg</p>
         
-        <p class="fr-book-desc">Shows how prompts and preparation improve follow-through.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how prompts and preparation improve follow-through.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Better+Than+Before+by+Gretchen+Rubin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Better Than Before on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zk-TEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Better Than Before" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Better+Than+Before+by+Gretchen+Rubin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Better Than Before">Better Than Before</a>
-        </h4>
-        <p class="fr-book-author">By Gretchen Rubin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Better+Than+Before+by+Gretchen+Rubin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Better Than Before on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zk-TEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Better Than Before" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Better+Than+Before+by+Gretchen+Rubin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Better Than Before">Better Than Before</a>
+</h4>
+<p class="fr-book-author">By Gretchen Rubin</p>
         
-        <p class="fr-book-desc">Covers practical habit-building tactics and reminders.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Better+Than+Before+by+Gretchen+Rubin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers practical habit-building tactics and reminders.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Better+Than+Before+by+Gretchen+Rubin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
-        </h4>
-        <p class="fr-book-author">By Charles Duhigg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
+</h4>
+<p class="fr-book-author">By Charles Duhigg</p>
         
-        <p class="fr-book-desc">Explains cue-driven behaviour and routine formation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cue-driven behaviour and routine formation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Better+Than+Before&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Better Than Before</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Better+Than+Before&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Better Than Before</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Travel Shoe Bag Zip Storage Pouch Luggage Organiser Carry Handle Travel Gym"><img src="{{ '/assets/images/marketplace-covers/66522e43e3db01945bdd.jpg' | relative_url }}" alt="Listing image for Travel Shoe Bag Zip Storage Pouch Luggage Organiser Carry Handle Travel Gym" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Travel Shoe Bag Zip Storage Pouch Luggage Organiser Carry Handle Travel Gym</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for gym organizer pouch">Search <span data-ebay-domain-label>eBay.co.uk</span>: gym organizer pouch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Travel Shoe Bag Zip Storage Pouch Luggage Organiser Carry Handle Travel Gym"><img src="{{ '/assets/images/marketplace-covers/66522e43e3db01945bdd.jpg' | relative_url }}" alt="Listing image for Travel Shoe Bag Zip Storage Pouch Luggage Organiser Carry Handle Travel Gym" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Travel Shoe Bag Zip Storage Pouch Luggage Organiser Carry Handle Travel Gym</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for gym organizer pouch">Search<span data-ebay-domain-label>eBay.co.uk</span>: gym organizer pouch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Portable Magnetic Water Bottle Bag Fitness Phone Holder Sleeve Gym Pouch"><img src="{{ '/assets/images/marketplace-covers/6795b79e5d3f6c701152.jpg' | relative_url }}" alt="Listing image for Portable Magnetic Water Bottle Bag Fitness Phone Holder Sleeve Gym Pouch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Portable Magnetic Water Bottle Bag Fitness Phone Holder Sleeve Gym Pouch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for gym organizer pouch">Search <span data-ebay-domain-label>eBay.co.uk</span>: gym organizer pouch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Portable Magnetic Water Bottle Bag Fitness Phone Holder Sleeve Gym Pouch"><img src="{{ '/assets/images/marketplace-covers/6795b79e5d3f6c701152.jpg' | relative_url }}" alt="Listing image for Portable Magnetic Water Bottle Bag Fitness Phone Holder Sleeve Gym Pouch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Portable Magnetic Water Bottle Bag Fitness Phone Holder Sleeve Gym Pouch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for gym organizer pouch">Search<span data-ebay-domain-label>eBay.co.uk</span>: gym organizer pouch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for M-TAS ORGANIZER GYM MAGNET POUCH ELITE BLACK🇺🇦"><img src="{{ '/assets/images/marketplace-covers/53989bea05b7942b8781.jpg' | relative_url }}" alt="Listing image for M-TAS ORGANIZER GYM MAGNET POUCH ELITE BLACK🇺🇦" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">M-TAS ORGANIZER GYM MAGNET POUCH ELITE BLACK🇺🇦</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for gym organizer pouch">Search <span data-ebay-domain-label>eBay.co.uk</span>: gym organizer pouch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for M-TAS ORGANIZER GYM MAGNET POUCH ELITE BLACK🇺🇦"><img src="{{ '/assets/images/marketplace-covers/53989bea05b7942b8781.jpg' | relative_url }}" alt="Listing image for M-TAS ORGANIZER GYM MAGNET POUCH ELITE BLACK🇺🇦" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">M-TAS ORGANIZER GYM MAGNET POUCH ELITE BLACK🇺🇦</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for gym organizer pouch">Search<span data-ebay-domain-label>eBay.co.uk</span>: gym organizer pouch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Travel Bag S/M/L/XL Waterproof Pouch Luggage Lightweight Organiser Gym Packing"><img src="{{ '/assets/images/marketplace-covers/6c29e872662b26ec9844.jpg' | relative_url }}" alt="Listing image for Travel Bag S/M/L/XL Waterproof Pouch Luggage Lightweight Organiser Gym Packing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Travel Bag S/M/L/XL Waterproof Pouch Luggage Lightweight Organiser Gym Packing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for gym organizer pouch">Search <span data-ebay-domain-label>eBay.co.uk</span>: gym organizer pouch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Travel Bag S/M/L/XL Waterproof Pouch Luggage Lightweight Organiser Gym Packing"><img src="{{ '/assets/images/marketplace-covers/6c29e872662b26ec9844.jpg' | relative_url }}" alt="Listing image for Travel Bag S/M/L/XL Waterproof Pouch Luggage Lightweight Organiser Gym Packing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Travel Bag S/M/L/XL Waterproof Pouch Luggage Lightweight Organiser Gym Packing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for gym organizer pouch">Search<span data-ebay-domain-label>eBay.co.uk</span>: gym organizer pouch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=gym+organizer+pouch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=packed-bag-why-the-gym-bag-matters-before-work-self-improvement-that-works-gym-organizer-pouch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -674,7 +674,7 @@ Research on implementation intentions, action planning, cues, and environmental 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -694,7 +694,7 @@ Research on implementation intentions, action planning, cues, and environmental 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -726,7 +726,7 @@ Research on implementation intentions, action planning, cues, and environmental 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -756,7 +756,7 @@ Research on implementation intentions, action planning, cues, and environmental 
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -814,116 +814,116 @@ Research on implementation intentions, action planning, cues, and environmental 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cancercontrol.cancer.gov  
-   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</p></details>
+   Link:<a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: bmjopen.bmj.com  
-   Link: <a href="https://bmjopen.bmj.com/content/bmjopen/12/8/e058229.full.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bmjopen.bmj.com/content/bmjopen/12/8/e058229.full.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BMJ OpenBehaviour change [techniques](&amp;#123;&amp;#123; &#x27;techniques/&#x27; | relative_url &amp;#125;&amp;#125;) that constitute effective...by H Lin · 2022 · Cited by 43 — Objectives Action planning is a brief an...</p></details>
+   Link:<a href="https://bmjopen.bmj.com/content/bmjopen/12/8/e058229.full.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bmjopen.bmj.com/content/bmjopen/12/8/e058229.full.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BMJ OpenBehaviour change [techniques](&amp;#123;&amp;#123; &#x27;techniques/&#x27; | relative_url &amp;#125;&amp;#125;) that constitute effective...by H Lin · 2022 · Cited by 43 — Objectives Action planning is a brief an...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cambridge.org  
    Title: University Press & Assessment39  
-   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment39 - Planning and Implementation Intention InterventionsA meta-analysis of action planning interve...</p></details>
+   Link:<a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment39 - Planning and Implementation Intention InterventionsA meta-analysis of action planning interve...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralTime for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 71 — Recent meta-analyses d...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralTime for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 71 — Recent meta-analyses d...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/31923898/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31923898/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Intentions for Exercise and Physical Activityby J Kompf · 2020 · Cited by 34 — Implementation intentions are an effective behavior change...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/31923898/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31923898/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Intentions for Exercise and Physical Activityby J Kompf · 2020 · Cited by 34 — Implementation intentions are an effective behavior change...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7106637/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7106637/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralWhat influences the selection of contextual cues when starting a...March 30, 2020 — Cue selection was primarily influenced...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7106637/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7106637/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralWhat influences the selection of contextual cues when starting a...March 30, 2020 — Cue selection was primarily influenced...</p></details>
    Published: March 30, 2020  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: today.duke.edu  
-   Link: <a href="https://today.duke.edu/2007/12/habit.html" target="_blank" rel="noopener noreferrer nofollow">https://today.duke.edu/2007/12/habit.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Duke TodayKey to Changing Habits Is In Environment, Not Willpower...Dec 13, 2007 — &quot;Many of our repeated behaviors are cued by everyday...</p></details>
+   Link:<a href="https://today.duke.edu/2007/12/habit.html" target="_blank" rel="noopener noreferrer nofollow">https://today.duke.edu/2007/12/habit.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Duke TodayKey to Changing Habits Is In Environment, Not Willpower...Dec 13, 2007 — &quot;Many of our repeated behaviors are cued by everyday...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central The effectiveness of nudging: A meta-analysis of choice  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8740589/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8740589/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Mertens · 2021 · Cited by 1027 — Our results show that choice architecture interventions overall promote behavior change with a s...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8740589/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8740589/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by S Mertens · 2021 · Cited by 1027 — Our results show that choice architecture interventions overall promote behavior change with a s...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7140383/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7140383/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralChoice architecture interventions to change physical activity...by LL Landais · 2020 · Cited by 109 — Choice architecture...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7140383/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7140383/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralChoice architecture interventions to change physical activity...by LL Landais · 2020 · Cited by 109 — Choice architecture...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: jamesclear.com  
-   Link: <a href="https://jamesclear.com/choice-architecture" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/choice-architecture</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>To Change Your Behavior, Change Your Environment. Every habit is initiated by a cue, and we are more likely to notice cues...</p></details>
+   Link:<a href="https://jamesclear.com/choice-architecture" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/choice-architecture</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>To Change Your Behavior, Change Your Environment. Every habit is initiated by a cue, and we are more likely to notice cues...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Impact of implementation intentions on physical activity  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6235272/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6235272/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by MAV da Silva · 2018 · Cited by 102 — The aim of this study was to verify the efficacy of using theory-based strategies on implement...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6235272/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6235272/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by MAV da Silva · 2018 · Cited by 102 — The aim of this study was to verify the efficacy of using theory-based strategies on implement...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: behavior.rare.org  
-   Link: <a href="https://behavior.rare.org/science/choice-architecture/" target="_blank" rel="noopener noreferrer nofollow">https://behavior.rare.org/science/choice-architecture/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Architecture - Behavior Change for the EnvironmentChoice architecture works because of the reliance on cognitive biases, habits, routines...</p></details>
+   Link:<a href="https://behavior.rare.org/science/choice-architecture/" target="_blank" rel="noopener noreferrer nofollow">https://behavior.rare.org/science/choice-architecture/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Architecture - Behavior Change for the EnvironmentChoice architecture works because of the reliance on cognitive biases, habits, routines...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/nature-index/topics/l4/nudging-and-choice-architecture-in-behavioral-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/nudging-and-choice-architecture-in-behavioral-policy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nudging and Choice Architecture in Behavioral PolicyBehavioral policy employs subtle interventions, known as nudges, to steer individuals...</p></details>
+   Link:<a href="https://www.nature.com/nature-index/topics/l4/nudging-and-choice-architecture-in-behavioral-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/nudging-and-choice-architecture-in-behavioral-policy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nudging and Choice Architecture in Behavioral PolicyBehavioral policy employs subtle interventions, known as nudges, to steer individuals...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/nature-index/topics/l4/behavioral-strategies-for-goal-achievement" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/behavioral-strategies-for-goal-achievement</a>  
+   Link:<a href="https://www.nature.com/nature-index/topics/l4/behavioral-strategies-for-goal-achievement" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/behavioral-strategies-for-goal-achievement</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/269517913_Choice_Architecture" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/269517913_Choice_Architecture</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Choice ArchitectureIn this paper we analyze some of the tools that are available to choice architects. Our goal is to show how choi...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/269517913_Choice_Architecture" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/269517913_Choice_Architecture</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Choice ArchitectureIn this paper we analyze some of the tools that are available to choice architects. Our goal is to show how choi...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/373187982_Meta-Analysis_of_Implementation_Intentions_Interventions_in_Promoting_Physical_Activity_among_University_Students" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/373187982_Meta-Analysis_of_Implementation_Intentions_Interventions_in_Promoting_Physical_Activity_among_University_Students</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meta-Analysis of Implementation Intentions Interventions in...Aug 7, 2023 — Implementation intentions (II) have demonstrated their effic...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/373187982_Meta-Analysis_of_Implementation_Intentions_Interventions_in_Promoting_Physical_Activity_among_University_Students" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/373187982_Meta-Analysis_of_Implementation_Intentions_Interventions_in_Promoting_Physical_Activity_among_University_Students</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meta-Analysis of Implementation Intentions Interventions in...Aug 7, 2023 — Implementation intentions (II) have demonstrated their effic...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: eprints.bournemouth.ac.uk  
-   Link: <a href="https://eprints.bournemouth.ac.uk/37442/7/British%20J%20Health%20Psychol%20-%202022%20-%20B%20sch%20-%20What%20do%20older%20adults%20think%20about%20when%20formulating%20implementation%20intentions%20for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.bournemouth.ac.uk/37442/7/British%20J%20Health%20Psychol%20-%202022%20-%20B%20sch%20-%20What%20do%20older%20adults%20think%20about%20when%20formulating%20implementation%20intentions%20for.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>do older adults think about when formulating...by VD Bösch · 2022 · Cited by 4 — Having a clear goal like these recommendations could en...</p></details>
+   Link:<a href="https://eprints.bournemouth.ac.uk/37442/7/British%20J%20Health%20Psychol%20-%202022%20-%20B%20sch%20-%20What%20do%20older%20adults%20think%20about%20when%20formulating%20implementation%20intentions%20for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.bournemouth.ac.uk/37442/7/British%20J%20Health%20Psychol%20-%202022%20-%20B%20sch%20-%20What%20do%20older%20adults%20think%20about%20when%20formulating%20implementation%20intentions%20for.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>do older adults think about when formulating...by VD Bösch · 2022 · Cited by 4 — Having a clear goal like these recommendations could en...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/choice-architecture" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/choice-architecture</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Choice ArchitectureChoice architecture refers to the deliberate crafting of decision-making environments. By subtly shaping how options a...</p></details>
+   Link:<a href="https://thedecisionlab.com/reference-guide/psychology/choice-architecture" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/choice-architecture</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Choice ArchitectureChoice architecture refers to the deliberate crafting of decision-making environments. By subtly shaping how options a...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pure-oai.bham.ac.uk  
-   Link: <a href="https://pure-oai.bham.ac.uk/ws/portalfiles/portal/11726716/Implementation_intentions_May_2007_physical_activity_.doc" target="_blank" rel="noopener noreferrer nofollow">https://pure-oai.bham.ac.uk/ws/portalfiles/portal/11726716/Implementation_intentions_May_2007_physical_activity_.doc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to the theory of planned behaviour, a person&#x27;s...by LD Nikos — To examine this hypothesis, we conducted a separate regression analysis r...</p></details>
+   Link:<a href="https://pure-oai.bham.ac.uk/ws/portalfiles/portal/11726716/Implementation_intentions_May_2007_physical_activity_.doc" target="_blank" rel="noopener noreferrer nofollow">https://pure-oai.bham.ac.uk/ws/portalfiles/portal/11726716/Implementation_intentions_May_2007_physical_activity_.doc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to the theory of planned behaviour, a person&#x27;s...by LD Nikos — To examine this hypothesis, we conducted a separate regression analysis r...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: topics.consensus.app  
-   Link: <a href="https://topics.consensus.app/news/meta-analysis-shows-planning-workouts-enhances-exercise-adherence-and-habit-formation-evidence-review" target="_blank" rel="noopener noreferrer nofollow">https://topics.consensus.app/news/meta-analysis-shows-planning-workouts-enhances-exercise-adherence-and-habit-formation-evidence-review</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>consensus.appMeta-analysis shows planning workouts enhances...22 Jan 2026 — Related studies consistently find that exercise adherence is...</p></details>
+   Link:<a href="https://topics.consensus.app/news/meta-analysis-shows-planning-workouts-enhances-exercise-adherence-and-habit-formation-evidence-review" target="_blank" rel="noopener noreferrer nofollow">https://topics.consensus.app/news/meta-analysis-shows-planning-workouts-enhances-exercise-adherence-and-habit-formation-evidence-review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>consensus.appMeta-analysis shows planning workouts enhances...22 Jan 2026 — Related studies consistently find that exercise adherence is...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: discovery.ucl.ac.uk  
-   Link: <a href="https://discovery.ucl.ac.uk/1557155/1/Manu%20Savani%20Final%20Thesis%20%28For%20Printers%20May%202017%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/1557155/1/Manu%20Savani%20Final%20Thesis%20%28For%20Printers%20May%202017%29.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Experiments on Health Behaviour ChangeResults indicate commitment devices improve health behaviours, but have mixed effects on weight los...</p></details>
+   Link:<a href="https://discovery.ucl.ac.uk/1557155/1/Manu%20Savani%20Final%20Thesis%20%28For%20Printers%20May%202017%29.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/1557155/1/Manu%20Savani%20Final%20Thesis%20%28For%20Printers%20May%202017%29.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Experiments on Health Behaviour ChangeResults indicate commitment devices improve health behaviours, but have mixed effects on weight los...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: teuscher-coaching.com  
-   Link: <a href="https://www.teuscher-coaching.com/improving-your-habits-with-choice-architecture/" target="_blank" rel="noopener noreferrer nofollow">https://www.teuscher-coaching.com/improving-your-habits-with-choice-architecture/</a>
+   Link:<a href="https://www.teuscher-coaching.com/improving-your-habits-with-choice-architecture/" target="_blank" rel="noopener noreferrer nofollow">https://www.teuscher-coaching.com/improving-your-habits-with-choice-architecture/</a>

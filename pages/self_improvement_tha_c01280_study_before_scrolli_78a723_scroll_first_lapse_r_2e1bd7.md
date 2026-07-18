@@ -277,20 +277,20 @@ image: /assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_sc
 A student who scrolls before studying has not failed. The real risk is what happens next. One accidental check of messages or short videos can become an hour of avoidance if the lapse triggers guilt, frustration or an “I’ve already ruined today” mindset. Effective self-improvement depends less on never slipping and more on recovering quickly when slips occur.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_scroll_first_lapse_r_2e1bd7-Illustration-1-dark.svg" | relative_url }}" alt="Recovery illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_scroll_first_lapse_r_2e1bd7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_scroll_first_lapse_r_2e1bd7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The most useful recovery rule is simple: treat a scroll-first lapse as a small deviation, not as evidence that the study session is lost. Behaviour-change research distinguishes between a lapse and a relapse. A lapse is a single departure from the intended behaviour; a relapse is a pattern that returns someone to their old routine. The goal of recovery is to stop the first from becoming the second. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8450373/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Physical Activity Maintenance: A Critical Narrative Review and...by RE Rhodes · 2021 · Cited by 115 — A relapse is a series of lapses...</span></span></span>
+The most useful recovery rule is simple: treat a scroll-first lapse as a small deviation, not as evidence that the study session is lost. Behaviour-change research distinguishes between a lapse and a relapse. A lapse is a single departure from the intended behaviour; a relapse is a pattern that returns someone to their old routine. The goal of recovery is to stop the first from becoming the second.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8450373/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Physical Activity Maintenance: A Critical Narrative Review and...by RE Rhodes · 2021 · Cited by 115 — A relapse is a series of lapses...</span></span></span>
 
 ## Why Failure Needs a Script, Not Shame
 
 Many students assume that the correct response to procrastination is self-criticism. The evidence points in a different direction.
 
-Research on self-compassion and procrastination repeatedly finds that harsh self-judgement can trap people in a cycle of negative emotion and further avoidance, while a more forgiving response is associated with better recovery and less future procrastination. Studies suggest that accepting a mistake without excusing it helps people re-engage with their goals instead of protecting themselves from uncomfortable feelings through more distraction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/22645164/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-compassion increases self-improvement motivationby JG Breines · 2012 · Cited by 1429 — These findings suggest that, somewhat p...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://eprints.whiterose.ac.uk/id/eprint/91791/1/Procrastination%20and%20self%20compassion%20rev2%20FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.whiterose.ac.uk">[White Rose Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.whiterose.ac.uk</span><span class="citation-popover-title">Procrastination and self compassion rev2 FINAL</span><span class="citation-popover-snippet">White Rose Research OnlineProcrastination and self compassion rev2 FINAL.pdfby FM Sirois · 2014 · Cited by 586 — Research demonstrating t...</span></span></span>
+Research on self-compassion and procrastination repeatedly finds that harsh self-judgement can trap people in a cycle of negative emotion and further avoidance, while a more forgiving response is associated with better recovery and less future procrastination. Studies suggest that accepting a mistake without excusing it helps people re-engage with their goals instead of protecting themselves from uncomfortable feelings through more distraction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/22645164/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-compassion increases self-improvement motivationby JG Breines · 2012 · Cited by 1429 — These findings suggest that, somewhat p...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://eprints.whiterose.ac.uk/id/eprint/91791/1/Procrastination%20and%20self%20compassion%20rev2%20FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.whiterose.ac.uk">[White Rose Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.whiterose.ac.uk</span><span class="citation-popover-title">Procrastination and self compassion rev2 FINAL</span><span class="citation-popover-snippet">White Rose Research OnlineProcrastination and self compassion rev2 FINAL.pdfby FM Sirois · 2014 · Cited by 586 — Research demonstrating t...</span></span></span>
 
 This creates an important distinction:
 
 * **Shame response:** “I wasted twenty minutes. I have no discipline.”
 * **Recovery response:** “I started scrolling. That was not the plan. What is the next study action?”
 
-The second response is not softer because standards are lower. It is more effective because it keeps attention on behaviour rather than [identity]({{ 'identity/' | relative_url }}). Research suggests that self-compassion can support self-regulation and [motivation]({{ 'motivation/' | relative_url }}) for improvement after mistakes rather than reducing effort. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/22645164/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-compassion increases self-improvement motivationby JG Breines · 2012 · Cited by 1429 — These findings suggest that, somewhat p...</span></span></span>
+The second response is not softer because standards are lower. It is more effective because it keeps attention on behaviour rather than [identity]({{ 'identity/' | relative_url }}). Research suggests that self-compassion can support self-regulation and [motivation]({{ 'motivation/' | relative_url }}) for improvement after mistakes rather than reducing effort.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/22645164/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-compassion increases self-improvement motivationby JG Breines · 2012 · Cited by 1429 — These findings suggest that, somewhat p...</span></span></span>
 
 A practical recovery script can be as short as:
 
@@ -327,7 +327,7 @@ The final step matters most. The purpose is not productivity; it is re-entry. Ex
 
 </div>
 
-Habit research shows that repeated behaviour in a consistent context strengthens the desired routine over time. Recovery actions should therefore be small enough to start even when motivation is low. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCRelapse on the Road to Recovery: Learning the Lessons of Failure</span><span class="citation-popover-snippet">Abstract. Among individuals seeking to change health-related behaviors, relapse is a common experience. Whether it occurs very soon after...</span></span></span>
+Habit research shows that repeated behaviour in a consistent context strengthens the desired routine over time. Recovery actions should therefore be small enough to start even when motivation is low.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCRelapse on the Road to Recovery: Learning the Lessons of Failure</span><span class="citation-popover-snippet">Abstract. Among individuals seeking to change health-related behaviors, relapse is a common experience. Whether it occurs very soon after...</span></span></span>
 
 Students often make the mistake of trying to compensate for lost time with an ambitious restart: “Now I need three perfect hours.” That creates another barrier. The fastest route back is usually the smallest possible study action.
 
@@ -337,7 +337,7 @@ Students often make the mistake of trying to compensate for lost time with an am
 
 One reason recovery fails is that students decide what to do only after the lapse has happened.
 
-Implementation-intention research suggests that pre-deciding responses to predictable obstacles can improve goal pursuit. Instead of relying on [willpower]({{ 'willpower/' | relative_url }}) in the moment, the person creates an automatic script linked to a specific cue. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://iaap-journals.onlinelibrary.wiley.com/doi/10.1111/aphw.12017" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iaap-journals.onlinelibrary.wiley.com">[2iaap-journals.onlinelibrary.wiley.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iaap-journals.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Implementation Intention and Action Planning Interventions in...8 Oct 2013 — The purpose of this paper is to provide an overview of the...</span></span></span>
+Implementation-intention research suggests that pre-deciding responses to predictable obstacles can improve goal pursuit. Instead of relying on [willpower]({{ 'willpower/' | relative_url }}) in the moment, the person creates an automatic script linked to a specific cue. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://iaap-journals.onlinelibrary.wiley.com/doi/10.1111/aphw.12017" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iaap-journals.onlinelibrary.wiley.com">[2iaap-journals.onlinelibrary.wiley.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iaap-journals.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Implementation Intention and Action Planning Interventions in...8 Oct 2013 — The purpose of this paper is to provide an overview of the...</span></span></span>
 
 For studying before scrolling, examples include:
 
@@ -349,7 +349,7 @@ For studying before scrolling, examples include:
 
 </div>
 
-Research on implementation intentions indicates that these plans help translate intentions into action and can reduce the influence of competing habits. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/22645164/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-compassion increases self-improvement motivationby JG Breines · 2012 · Cited by 1429 — These findings suggest that, somewhat p...</span></span></span>
+Research on implementation intentions indicates that these plans help translate intentions into action and can reduce the influence of competing habits. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/22645164/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-compassion increases self-improvement motivationby JG Breines · 2012 · Cited by 1429 — These findings suggest that, somewhat p...</span></span></span>
 
 The key is specificity. “Try harder next time” is not a recovery plan. “If I scroll first, I will read one page before touching my phone again” is.
 
@@ -372,7 +372,7 @@ Students frequently fall into one of three traps:
 
 “I will make up for this later tonight.”
 
-All three convert a small mistake into a larger one. Behaviour-change models increasingly recognise the importance of recovery self-efficacy: confidence that a person can resume the target behaviour after a setback. People who believe recovery is possible are less likely to let a lapse grow into a sustained pattern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-the-health-action-process-approach/F98F89B77F3CA0F2A450BB19729FA644" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; Assessment7 - Changing Behavior Using the Health Action Process...Behavioral intention bridges the motivati...</span></span></span>
+All three convert a small mistake into a larger one. Behaviour-change models increasingly recognise the importance of recovery self-efficacy: confidence that a person can resume the target behaviour after a setback. People who believe recovery is possible are less likely to let a lapse grow into a sustained pattern.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-the-health-action-process-approach/F98F89B77F3CA0F2A450BB19729FA644" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; Assessment7 - Changing Behavior Using the Health Action Process...Behavioral intention bridges the motivati...</span></span></span>
 
 A practical rule is to measure success by recovery speed rather than lapse [frequency]({{ 'frequency/' | relative_url }}).
 
@@ -392,7 +392,7 @@ That metric keeps attention on behaviour under your control.
 
 A lapse is information. The most useful question is not “Why am I like this?” but “What made scrolling easy?”
 
-Research on coping planning emphasises anticipating barriers and designing responses before they occur. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abdn.elsevierpure.com/en/publications/action-planning-and-coping-planning-for-long-term-lifestyle-chang/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abdn.elsevierpure.com">[Aberdeen Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abdn.elsevierpure.com</span><span class="citation-popover-title">action planning and coping planning for long term lifestyle chang</span><span class="citation-popover-snippet">It bridges the gap between behavioural intentions and health behaviour To...Read more...</span></span></span>
+Research on coping planning emphasises anticipating barriers and designing responses before they occur.<span class="citation-chip-wrap"><a class="citation-chip" href="https://abdn.elsevierpure.com/en/publications/action-planning-and-coping-planning-for-long-term-lifestyle-chang/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abdn.elsevierpure.com">[Aberdeen Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abdn.elsevierpure.com</span><span class="citation-popover-title">action planning and coping planning for long term lifestyle chang</span><span class="citation-popover-snippet">It bridges the gap between behavioural intentions and health behaviour To...Read more...</span></span></span>
 
 After a scroll-first lapse, review the [environment]({{ 'environment/' | relative_url }}) briefly:
 
@@ -420,7 +420,7 @@ Examples:
 
 </div>
 
-Research on [behaviour change]({{ 'behaviour-change/' | relative_url }}) consistently finds that planning for obstacles and restructuring the environment are more reliable than relying on motivation alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abdn.elsevierpure.com/en/publications/action-planning-and-coping-planning-for-long-term-lifestyle-chang/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abdn.elsevierpure.com">[Aberdeen Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abdn.elsevierpure.com</span><span class="citation-popover-title">action planning and coping planning for long term lifestyle chang</span><span class="citation-popover-snippet">It bridges the gap between behavioural intentions and health behaviour To...Read more...</span></span></span>
+Research on [behaviour change]({{ 'behaviour-change/' | relative_url }}) consistently finds that planning for obstacles and restructuring the environment are more reliable than relying on motivation alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://abdn.elsevierpure.com/en/publications/action-planning-and-coping-planning-for-long-term-lifestyle-chang/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abdn.elsevierpure.com">[Aberdeen Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abdn.elsevierpure.com</span><span class="citation-popover-title">action planning and coping planning for long term lifestyle chang</span><span class="citation-popover-snippet">It bridges the gap between behavioural intentions and health behaviour To...Read more...</span></span></span>
 
 A good recovery system therefore has two outputs: resume studying now, and make one change that reduces the chance of the same lapse tomorrow.
 
@@ -429,277 +429,277 @@ A good recovery system therefore has two outputs: resume studying now, and make 
 
 The most effective recovery rule is forgiving but demanding:
 
-* Forgiving about the lapse. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dailygood.org/story/841/the-relationship-between-self-compassion-and-procrastination-linda-graham/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailygood.org">[dailygood.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailygood.org</span><span class="citation-popover-title">the relationship between self compassion and procrastination linda graham</span><span class="citation-popover-snippet">self-evaluations that might result from that failure. Unconsciously... self-forgiving about failures experienced less procrastination la...</span></span></span>
+* Forgiving about the lapse.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dailygood.org/story/841/the-relationship-between-self-compassion-and-procrastination-linda-graham/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailygood.org">[dailygood.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailygood.org</span><span class="citation-popover-title">the relationship between self compassion and procrastination linda graham</span><span class="citation-popover-snippet">self-evaluations that might result from that failure. Unconsciously... self-forgiving about failures experienced less procrastination la...</span></span></span>
 * Demanding about the restart.
 
 Students who study before scrolling will occasionally fail to follow the sequence. That is normal. What matters is preventing a brief detour from becoming the defining event of the evening.
 
-The fastest recoveries share the same pattern: acknowledge the lapse without drama, follow a pre-written if-then script, complete a tiny study action, and make one adjustment to the environment. The objective is not perfection. The objective is shortening the distance between noticing the mistake and returning to work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 896 — Psychological theory and evide...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — In the present review, we first summarize studies on the cognitive processes that are central to t...</span></span></span>
+The fastest recoveries share the same pattern: acknowledge the lapse without drama, follow a pre-written if-then script, complete a tiny study action, and make one adjustment to the environment. The objective is not perfection. The objective is shortening the distance between noticing the mistake and returning to work.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 896 — Psychological theory and evide...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — In the present review, we first summarize studies on the cognitive processes that are central to t...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How to Recover After Scrolling First. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How to Recover After Scrolling First. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Emphasizes recovering from missed habits and returning to the system quickly.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Emphasizes recovering from missed habits and returning to the system quickly.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Carol S. Dweck</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
-        <p class="fr-book-desc">Supports a recovery-oriented perspective instead of treating mistakes as permanent failures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
+</h4>
+<p class="fr-book-author">By Carol S. Dweck</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
+<p class="fr-book-desc">Supports a recovery-oriented perspective instead of treating mistakes as permanent failures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Now+Habit+by+Neil+Fiore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Now Habit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XmA9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Now Habit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Now+Habit+by+Neil+Fiore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Now Habit">The Now Habit</a>
-        </h4>
-        <p class="fr-book-author">By Neil Fiore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Now+Habit+by+Neil+Fiore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Now Habit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XmA9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Now Habit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Now+Habit+by+Neil+Fiore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Now Habit">The Now Habit</a>
+</h4>
+<p class="fr-book-author">By Neil Fiore</p>
         
-        <p class="fr-book-desc">Focuses on overcoming guilt, avoidance, and restarting after lapses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Now+Habit+by+Neil+Fiore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on overcoming guilt, avoidance, and restarting after lapses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Now+Habit+by+Neil+Fiore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Self-Compassion+by+Kristin+Neff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Self-Compassion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PDAEzLL9mscC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Self-Compassion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Self-Compassion+by+Kristin+Neff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Self-Compassion">Self-Compassion</a>
-        </h4>
-        <p class="fr-book-author">By Kristin Neff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Self-Compassion+by+Kristin+Neff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Self-Compassion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PDAEzLL9mscC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Self-Compassion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Self-Compassion+by+Kristin+Neff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Self-Compassion">Self-Compassion</a>
+</h4>
+<p class="fr-book-author">By Kristin Neff</p>
         
-        <p class="fr-book-desc">Matches the article&#x27;s emphasis on responding to lapses without shame.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Self-Compassion+by+Kristin+Neff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the article&#x27;s emphasis on responding to lapses without shame.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Self-Compassion+by+Kristin+Neff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Now+Habit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Now Habit</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Now+Habit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Now Habit</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Muhammad Ali Dream Motivational Quote Canvas Wall Art Picture Print"><img src="{{ '/assets/images/marketplace-covers/c420d04fa46cf995b7dc.jpg' | relative_url }}" alt="Listing image for Muhammad Ali Dream Motivational Quote Canvas Wall Art Picture Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Muhammad Ali Dream Motivational Quote Canvas Wall Art Picture Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Muhammad Ali Dream Motivational Quote Canvas Wall Art Picture Print"><img src="{{ '/assets/images/marketplace-covers/c420d04fa46cf995b7dc.jpg' | relative_url }}" alt="Listing image for Muhammad Ali Dream Motivational Quote Canvas Wall Art Picture Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Muhammad Ali Dream Motivational Quote Canvas Wall Art Picture Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rocky Motivational Quote Canvas Wall Art Picture Print"><img src="{{ '/assets/images/marketplace-covers/f40c97414ab72f71986c.jpg' | relative_url }}" alt="Listing image for Rocky Motivational Quote Canvas Wall Art Picture Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Rocky Motivational Quote Canvas Wall Art Picture Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rocky Motivational Quote Canvas Wall Art Picture Print"><img src="{{ '/assets/images/marketplace-covers/f40c97414ab72f71986c.jpg' | relative_url }}" alt="Listing image for Rocky Motivational Quote Canvas Wall Art Picture Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Rocky Motivational Quote Canvas Wall Art Picture Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rudyard Kipling IF Poem Canvas Wall Art Framed Motivational Quote Print Decor"><img src="{{ '/assets/images/marketplace-covers/3e3353db022f6bf74f7a.jpg' | relative_url }}" alt="Listing image for Rudyard Kipling IF Poem Canvas Wall Art Framed Motivational Quote Print Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Rudyard Kipling IF Poem Canvas Wall Art Framed Motivational Quote Print Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rudyard Kipling IF Poem Canvas Wall Art Framed Motivational Quote Print Decor"><img src="{{ '/assets/images/marketplace-covers/3e3353db022f6bf74f7a.jpg' | relative_url }}" alt="Listing image for Rudyard Kipling IF Poem Canvas Wall Art Framed Motivational Quote Print Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Rudyard Kipling IF Poem Canvas Wall Art Framed Motivational Quote Print Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gym Motivational Posters Work Out Insperational Quotes Wall Art"><img src="{{ '/assets/images/marketplace-covers/4d2a471cca3e54fc14d8.jpg' | relative_url }}" alt="Listing image for Gym Motivational Posters Work Out Insperational Quotes Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Gym Motivational Posters Work Out Insperational Quotes Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gym Motivational Posters Work Out Insperational Quotes Wall Art"><img src="{{ '/assets/images/marketplace-covers/4d2a471cca3e54fc14d8.jpg' | relative_url }}" alt="Listing image for Gym Motivational Posters Work Out Insperational Quotes Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Gym Motivational Posters Work Out Insperational Quotes Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-eccc97-how-to-recover-after-scrolling-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -715,7 +715,7 @@ The fastest recoveries share the same pattern: acknowledge the lapse without dra
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -735,7 +735,7 @@ The fastest recoveries share the same pattern: acknowledge the lapse without dra
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -767,7 +767,7 @@ The fastest recoveries share the same pattern: acknowledge the lapse without dra
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -797,7 +797,7 @@ The fastest recoveries share the same pattern: acknowledge the lapse without dra
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -855,158 +855,158 @@ The fastest recoveries share the same pattern: acknowledge the lapse without dra
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8450373/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8450373/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Physical Activity Maintenance: A Critical Narrative Review and...by RE Rhodes · 2021 · Cited by 115 — A relapse is a series of lapses...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8450373/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8450373/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Physical Activity Maintenance: A Critical Narrative Review and...by RE Rhodes · 2021 · Cited by 115 — A relapse is a series of lapses...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCRelapse on the Road to Recovery: Learning the Lessons of Failure  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Abstract. Among individuals seeking to change health-related behaviors, relapse is a common experience. Whether it occurs very soon after...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Abstract. Among individuals seeking to change health-related behaviors, relapse is a common experience. Whether it occurs very soon after...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 896 — Psychological theory and evide...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 896 — Psychological theory and evide...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCPromoting the translation of intentions into action by  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by F Wieber · 2015 · Cited by 215 — In the present review, we first summarize studies on the cognitive processes that are central to t...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by F Wieber · 2015 · Cited by 215 — In the present review, we first summarize studies on the cognitive processes that are central to t...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: iaap-journals.onlinelibrary.wiley.com  
-   Link: <a href="https://iaap-journals.onlinelibrary.wiley.com/doi/10.1111/aphw.12017" target="_blank" rel="noopener noreferrer nofollow">https://iaap-journals.onlinelibrary.wiley.com/doi/10.1111/aphw.12017</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Intention and Action Planning Interventions in...8 Oct 2013 — The purpose of this paper is to provide an overview of the...</p></details>
+   Link:<a href="https://iaap-journals.onlinelibrary.wiley.com/doi/10.1111/aphw.12017" target="_blank" rel="noopener noreferrer nofollow">https://iaap-journals.onlinelibrary.wiley.com/doi/10.1111/aphw.12017</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Intention and Action Planning Interventions in...8 Oct 2013 — The purpose of this paper is to provide an overview of the...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-the-health-action-process-approach/F98F89B77F3CA0F2A450BB19729FA644" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-the-health-action-process-approach/F98F89B77F3CA0F2A450BB19729FA644</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment7 - Changing Behavior Using the Health Action Process...Behavioral intention bridges the motivati...</p></details>
+   Link:<a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-the-health-action-process-approach/F98F89B77F3CA0F2A450BB19729FA644" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-the-health-action-process-approach/F98F89B77F3CA0F2A450BB19729FA644</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment7 - Changing Behavior Using the Health Action Process...Behavioral intention bridges the motivati...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8997544/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8997544/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Physical Exercise through Action and Coping...by ZQC Wee · 2022 · Cited by 19 — A study that examined how two types of planning (Action...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8997544/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8997544/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Physical Exercise through Action and Coping...by ZQC Wee · 2022 · Cited by 19 — A study that examined how two types of planning (Action...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/ko/%EC%82%AC%EC%A0%84/%EC%98%81%EC%96%B4/implementation" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/ko/%EC%82%AC%EC%A0%84/%EC%98%81%EC%96%B4/implementation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge English Dictionary에서의 의미the act of putting a plan into action or of starting to use something: implementation of a change/pol...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/ko/%EC%82%AC%EC%A0%84/%EC%98%81%EC%96%B4/implementation" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/ko/%EC%82%AC%EC%A0%84/%EC%98%81%EC%96%B4/implementation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge English Dictionary에서의 의미the act of putting a plan into action or of starting to use something: implementation of a change/pol...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/journals/behavioural-and-cognitive-psychotherapy/article/using-implementation-intentions-to-prevent-relapse-after-psychological-treatment-for-depression-the-smart-intervention/98BE5D6BAD7576EBDD7989BF5EA1C69A" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/behavioural-and-cognitive-psychotherapy/article/using-implementation-intentions-to-prevent-relapse-after-psychological-treatment-for-depression-the-smart-intervention/98BE5D6BAD7576EBDD7989BF5EA1C69A</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Using Implementation Intentions to Prevent Relapse after...by M Lucock · 2018 · Cited by 10 — The SMArT intervention is a promising appr...</p></details>
+   Link:<a href="https://www.cambridge.org/core/journals/behavioural-and-cognitive-psychotherapy/article/using-implementation-intentions-to-prevent-relapse-after-psychological-treatment-for-depression-the-smart-intervention/98BE5D6BAD7576EBDD7989BF5EA1C69A" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/behavioural-and-cognitive-psychotherapy/article/using-implementation-intentions-to-prevent-relapse-after-psychological-treatment-for-depression-the-smart-intervention/98BE5D6BAD7576EBDD7989BF5EA1C69A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Using Implementation Intentions to Prevent Relapse after...by M Lucock · 2018 · Cited by 10 — The SMArT intervention is a promising appr...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>39 - Planning and Implementation Intention InterventionsThus, implementation intentions may be useful to break “bad habits” or undesired...</p></details>
+   Link:<a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>39 - Planning and Implementation Intention InterventionsThus, implementation intentions may be useful to break “bad habits” or undesired...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: self-compassion.org  
-   Link: <a href="https://self-compassion.org/wp-content/uploads/publications/scmotivationprocrastination.pdf" target="_blank" rel="noopener noreferrer nofollow">https://self-compassion.org/wp-content/uploads/publications/scmotivationprocrastination.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AMERICAN JOURNAL OF PSYCHOLOGICAL RESEARCHby JG Williams · 2008 — In addition, we will include other factors, such as fear of failure, ac...</p></details>
+   Link:<a href="https://self-compassion.org/wp-content/uploads/publications/scmotivationprocrastination.pdf" target="_blank" rel="noopener noreferrer nofollow">https://self-compassion.org/wp-content/uploads/publications/scmotivationprocrastination.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AMERICAN JOURNAL OF PSYCHOLOGICAL RESEARCHby JG Williams · 2008 — In addition, we will include other factors, such as fear of failure, ac...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: self-compassion.org  
-   Link: <a href="https://self-compassion.org/wp-content/uploads/publications/Procrastination.pdf" target="_blank" rel="noopener noreferrer nofollow">https://self-compassion.org/wp-content/uploads/publications/Procrastination.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Stress: Exploring the Role of...6 Feb 2013 — Research demonstrating the link between having less self-compassion and fear of failure...</p></details>
+   Link:<a href="https://self-compassion.org/wp-content/uploads/publications/Procrastination.pdf" target="_blank" rel="noopener noreferrer nofollow">https://self-compassion.org/wp-content/uploads/publications/Procrastination.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Stress: Exploring the Role of...6 Feb 2013 — Research demonstrating the link between having less self-compassion and fear of failure...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: self-compassion.org  
-   Link: <a href="https://self-compassion.org/wp-content/uploads/2021/11/Yang-et-al.-2021-Perceived-social-[support" target="_blank" rel="noopener noreferrer nofollow">https://self-compassion.org/wp-content/uploads/2021/11/Yang-et-al.-2021-Perceived-social-[support</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nding oneself in face of failure, which consist of three components: self-kindness (versus self-judgment)...Read more...</p></details>
+   Link:<a href="https://self-compassion.org/wp-content/uploads/2021/11/Yang-et-al.-2021-Perceived-social-[support" target="_blank" rel="noopener noreferrer nofollow">https://self-compassion.org/wp-content/uploads/2021/11/Yang-et-al.-2021-Perceived-social-[support</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nding oneself in face of failure, which consist of three components: self-kindness (versus self-judgment)...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/22645164/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22645164/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-compassion increases self-improvement motivationby JG Breines · 2012 · Cited by 1429 — These findings suggest that, somewhat p...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/22645164/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22645164/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-compassion increases self-improvement motivationby JG Breines · 2012 · Cited by 1429 — These findings suggest that, somewhat p...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: eprints.whiterose.ac.uk  
    Title: Procrastination and self compassion rev2 FINAL  
-   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/91791/1/Procrastination%20and%20self%20compassion%20rev2%20FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/91791/1/Procrastination%20and%20self%20compassion%20rev2%20FINAL.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>White Rose Research OnlineProcrastination and self compassion rev2 FINAL.pdfby FM Sirois · 2014 · Cited by 586 — Research demonstrating t...</p></details>
+   Link:<a href="https://eprints.whiterose.ac.uk/id/eprint/91791/1/Procrastination%20and%20self%20compassion%20rev2%20FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/91791/1/Procrastination%20and%20self%20compassion%20rev2%20FINAL.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>White Rose Research OnlineProcrastination and self compassion rev2 FINAL.pdfby FM Sirois · 2014 · Cited by 586 — Research demonstrating t...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: thriva.co  
    Title: implementation intentions  
-   Link: <a href="https://thriva.co/hub/behaviour-change/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://thriva.co/hub/behaviour-change/implementation-intentions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Track and improve your healthImplementation Intentions: The Science of &#x27;If-Then&#x27;...20 Nov 2024 — This strategy, developed by ps...</p></details>
+   Link:<a href="https://thriva.co/hub/behaviour-change/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://thriva.co/hub/behaviour-change/implementation-intentions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Track and improve your healthImplementation Intentions: The Science of &#x27;If-Then&#x27;...20 Nov 2024 — This strategy, developed by ps...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/18851764/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/18851764/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>However, the effect of forming implementation intentions was smaller among...Read more...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/18851764/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/18851764/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, the effect of forming implementation intentions was smaller among...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: abdn.elsevierpure.com  
    Title: action planning and coping planning for long term lifestyle chang  
-   Link: <a href="https://abdn.elsevierpure.com/en/publications/action-planning-and-coping-planning-for-long-term-lifestyle-chang/" target="_blank" rel="noopener noreferrer nofollow">https://abdn.elsevierpure.com/en/publications/action-planning-and-coping-planning-for-long-term-lifestyle-chang/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It bridges the gap between behavioural intentions and health behaviour To...Read more...</p></details>
+   Link:<a href="https://abdn.elsevierpure.com/en/publications/action-planning-and-coping-planning-for-long-term-lifestyle-chang/" target="_blank" rel="noopener noreferrer nofollow">https://abdn.elsevierpure.com/en/publications/action-planning-and-coping-planning-for-long-term-lifestyle-chang/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It bridges the gap between behavioural intentions and health behaviour To...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Keywords: depression; implementation intentions;  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/29665889/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29665889/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Intentions to Prevent Relapse after...by M Lucock · 2018 · Cited by 10 — Conclusions: Implementation intentions are a pro...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/29665889/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29665889/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Intentions to Prevent Relapse after...by M Lucock · 2018 · Cited by 10 — Conclusions: Implementation intentions are a pro...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: aura.american.edu  
-   Link: <a href="https://aura.american.edu/articles/thesis/The_Effect_of_Self-Compassion_Writing_Exercises_on_Procrastination_in_College_Students_with_ADHD/28996334" target="_blank" rel="noopener noreferrer nofollow">https://aura.american.edu/articles/thesis/The_Effect_of_Self-Compassion_Writing_Exercises_on_Procrastination_in_College_Students_with_ADHD/28996334</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of Self-Compassion Writing Exercises on...by A Fuchs · 2025 — The present study investigated the effect of self-compassion writin...</p></details>
+   Link:<a href="https://aura.american.edu/articles/thesis/The_Effect_of_Self-Compassion_Writing_Exercises_on_Procrastination_in_College_Students_with_ADHD/28996334" target="_blank" rel="noopener noreferrer nofollow">https://aura.american.edu/articles/thesis/The_Effect_of_Self-Compassion_Writing_Exercises_on_Procrastination_in_College_Students_with_ADHD/28996334</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of Self-Compassion Writing Exercises on...by A Fuchs · 2025 — The present study investigated the effect of self-compassion writin...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: jfmh.mums.ac.ir  
-   Link: <a href="https://jfmh.mums.ac.ir/m/article_14398.html?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://jfmh.mums.ac.ir/m/article_14398.html?lang=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>mediating role of shame and guiltThe present study examined the relationship between academic procrastination and self-compassion... rev...</p></details>
+   Link:<a href="https://jfmh.mums.ac.ir/m/article_14398.html?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://jfmh.mums.ac.ir/m/article_14398.html?lang=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mediating role of shame and guiltThe present study examined the relationship between academic procrastination and self-compassion... rev...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: theonlinegp.com  
-   Link: <a href="https://www.theonlinegp.com/blog/transform-your-life-in-30-days-the-science-backed-guide-to-building-habits-that-actually-stick" target="_blank" rel="noopener noreferrer nofollow">https://www.theonlinegp.com/blog/transform-your-life-in-30-days-the-science-backed-guide-to-building-habits-that-actually-stick</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Transform Your Life in 30 Days: The Science-Backed...Aug 12, 2025 — The gap between intention and implementation stems from fundamental...</p></details>
+   Link:<a href="https://www.theonlinegp.com/blog/transform-your-life-in-30-days-the-science-backed-guide-to-building-habits-that-actually-stick" target="_blank" rel="noopener noreferrer nofollow">https://www.theonlinegp.com/blog/transform-your-life-in-30-days-the-science-backed-guide-to-building-habits-that-actually-stick</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Transform Your Life in 30 Days: The Science-Backed...Aug 12, 2025 — The gap between intention and implementation stems from fundamental...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: wp.nyu.edu  
-   Link: <a href="https://wp.nyu.edu/motivationlab/wp-content/uploads/sites/6235/2019/02/cohen-gollwitzer-2006-if-then-plans-and-the-intentional-control-of-thoughts-feelings-and-actions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wp.nyu.edu/motivationlab/wp-content/uploads/sites/6235/2019/02/cohen-gollwitzer-2006-if-then-plans-and-the-intentional-control-of-thoughts-feelings-and-actions.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>oing goal pursuit with imple- mentation intentions protected it from the intrusive influences of the primed competing goals.Read more...</p></details>
+   Link:<a href="https://wp.nyu.edu/motivationlab/wp-content/uploads/sites/6235/2019/02/cohen-gollwitzer-2006-if-then-plans-and-the-intentional-control-of-thoughts-feelings-and-actions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wp.nyu.edu/motivationlab/wp-content/uploads/sites/6235/2019/02/cohen-gollwitzer-2006-if-then-plans-and-the-intentional-control-of-thoughts-feelings-and-actions.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>oing goal pursuit with imple- mentation intentions protected it from the intrusive influences of the primed competing goals.Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: dailygood.org  
    Title: the relationship between self compassion and procrastination linda graham  
-   Link: <a href="https://www.dailygood.org/story/841/the-relationship-between-self-compassion-and-procrastination-linda-graham/" target="_blank" rel="noopener noreferrer nofollow">https://www.dailygood.org/story/841/the-relationship-between-self-compassion-and-procrastination-linda-graham/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>self-evaluations that might result from that failure. Unconsciously... self-forgiving about failures experienced less procrastination la...</p></details>
+   Link:<a href="https://www.dailygood.org/story/841/the-relationship-between-self-compassion-and-procrastination-linda-graham/" target="_blank" rel="noopener noreferrer nofollow">https://www.dailygood.org/story/841/the-relationship-between-self-compassion-and-procrastination-linda-graham/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>self-evaluations that might result from that failure. Unconsciously... self-forgiving about failures experienced less procrastination la...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: robertchapman.blogspot.com  
    Title: Stacking the Deck for Behavior Change: The Role of Implementation  
-   Link: <a href="https://robertchapman.blogspot.com/2018/01/stacking-deck-for-behavior-change-role.html" target="_blank" rel="noopener noreferrer nofollow">https://robertchapman.blogspot.com/2018/01/stacking-deck-for-behavior-change-role.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 31, 2018 — Implementation intentions employ a when, where, how reasoning when developing a plan intended to increase the likeliho...</p></details>
+   Link:<a href="https://robertchapman.blogspot.com/2018/01/stacking-deck-for-behavior-change-role.html" target="_blank" rel="noopener noreferrer nofollow">https://robertchapman.blogspot.com/2018/01/stacking-deck-for-behavior-change-role.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 31, 2018 — Implementation intentions employ a when, where, how reasoning when developing a plan intended to increase the likeliho...</p></details>
    Published: January 31, 2018  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/B9780123694294500318" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/B9780123694294500318</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Overview of Relapse PreventionThis chapter provides a concise overview of the original model and specific relapse prevention intervention...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/B9780123694294500318" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/B9780123694294500318</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Overview of Relapse PreventionThis chapter provides a concise overview of the original model and specific relapse prevention intervention...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/46723410_Planning_is_for_doing_Implementation_intentions_go_beyond_the_mere_creation_of_goal-directed_association" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/46723410_Planning_is_for_doing_Implementation_intentions_go_beyond_the_mere_creation_of_goal-directed_association</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>engthened cue-behavior associations as the mechanism underlying the effectiveness...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/46723410_Planning_is_for_doing_Implementation_intentions_go_beyond_the_mere_creation_of_goal-directed_association" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/46723410_Planning_is_for_doing_Implementation_intentions_go_beyond_the_mere_creation_of_goal-directed_association</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>engthened cue-behavior associations as the mechanism underlying the effectiveness...Read more...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/10503307.2021.1959079" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10503307.2021.1959079</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ity of a brief relapse intervention following remission from depression which incorporates...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/10503307.2021.1959079" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10503307.2021.1959079</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ity of a brief relapse intervention following remission from depression which incorporates...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10049005/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10049005/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Stress: A Conceptual Review of Why...by FM Sirois · 2023 · Cited by 203 — Not surprisingly, low mindfulness and self-compassion acco...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10049005/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10049005/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Stress: A Conceptual Review of Why...by FM Sirois · 2023 · Cited by 203 — Not surprisingly, low mindfulness and self-compassion acco...</p></details>

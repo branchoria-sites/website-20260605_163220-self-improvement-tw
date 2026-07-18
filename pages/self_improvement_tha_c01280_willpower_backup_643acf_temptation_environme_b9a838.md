@@ -268,14 +268,14 @@ image: /assets/images/self_improvement_tha_c01280_willpower_backup_643acf_tempta
 
 ## Introduction
 
-Self-improvement becomes easier when temptation never reaches full strength. One of the most practical lessons from behavioural science is that self-control works best when it acts as a backup system rather than the main engine of change. Instead of repeatedly fighting urges in the moment, people can redesign their surroundings so that the desired action is easier, more visible and more automatic, while the tempting action becomes less convenient. Researchers describe these approaches as “situational strategies” because they intervene before an impulse grows into a difficult internal battle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4736542/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCSituational Strategies for Self-Control</span><span class="citation-popover-snippet">self-control strategies can be organized using the process model of self-control (Duckworth, Gendler, &amp; Gross, 2014). This framework pred...</span></span></span>
+Self-improvement becomes easier when temptation never reaches full strength. One of the most practical lessons from behavioural science is that self-control works best when it acts as a backup system rather than the main engine of change. Instead of repeatedly fighting urges in the moment, people can redesign their surroundings so that the desired action is easier, more visible and more automatic, while the tempting action becomes less convenient. Researchers describe these approaches as “situational strategies” because they intervene before an impulse grows into a difficult internal battle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4736542/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCSituational Strategies for Self-Control</span><span class="citation-popover-snippet">self-control strategies can be organized using the process model of self-control (Duckworth, Gendler, &amp; Gross, 2014). This framework pred...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_temptation_environme_b9a838-Illustration-1-dark.svg" | relative_url }}" alt="Temptation Setup illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_temptation_environme_b9a838-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_temptation_environme_b9a838-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because most failures of consistency do not happen after careful deliberation. They happen when the easiest option is also the most tempting one: the phone is beside the bed, snacks are within arm’s reach, entertainment is one click away, or spending requires no pause. Environmental design changes the structure of those moments. Rather than asking, “How can I be stronger?”, it asks, “How can I make the better choice the path of least resistance?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/news/releases/effective-self-control-strategies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">effective self control strategies</span><span class="citation-popover-snippet">Association for Psychological ScienceEffective Self-Control Strategies Involve Much More Than...14 Feb 2019 — They observe that in some...</span></span></span>
+This matters because most failures of consistency do not happen after careful deliberation. They happen when the easiest option is also the most tempting one: the phone is beside the bed, snacks are within arm’s reach, entertainment is one click away, or spending requires no pause. Environmental design changes the structure of those moments. Rather than asking, “How can I be stronger?”, it asks, “How can I make the better choice the path of least resistance?”<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/news/releases/effective-self-control-strategies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">effective self control strategies</span><span class="citation-popover-snippet">Association for Psychological ScienceEffective Self-Control Strategies Involve Much More Than...14 Feb 2019 — They observe that in some...</span></span></span>
 
 ## Can Your Environment Do the Resisting?
 
-The process model of self-control developed by Angela Duckworth, Tamar Gendler and James Gross argues that the earliest interventions are often the most effective. Instead of waiting until temptation is intense and then trying to suppress it, people can select or modify situations before the conflict fully develops. In practice, that means changing what is available, visible, accessible or expected. PMC PubMed This idea challenges a common image of discipline. Many people imagine that disciplined individuals constantly resist powerful urges. Yet evi <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/psychology/choice-architecture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[thedecisionlab.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">Choice ArchitectureChoice architecture refers to the deliberate crafting of decision-making environments. By subtly shaping how options a...</span></span></span> dence suggests that people with higher trait self-control often avoid temptation more successfully than they resist it. They are more likely to arrange circumstances that reduce exposure to distractions and temptations before those temptations demand effortful restraint. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0191886914005339" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Trait self-control and the avoidance of temptationby MR Ent · 2015 · Cited by 329 — The present research suggests that high...</span></span></span>
+The process model of self-control developed by Angela Duckworth, Tamar Gendler and James Gross argues that the earliest interventions are often the most effective. Instead of waiting until temptation is intense and then trying to suppress it, people can select or modify situations before the conflict fully develops. In practice, that means changing what is available, visible, accessible or expected. PMC PubMed This idea challenges a common image of discipline. Many people imagine that disciplined individuals constantly resist powerful urges. Yet evi<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/psychology/choice-architecture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[thedecisionlab.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">Choice ArchitectureChoice architecture refers to the deliberate crafting of decision-making environments. By subtly shaping how options a...</span></span></span> dence suggests that people with higher trait self-control often avoid temptation more successfully than they resist it. They are more likely to arrange circumstances that reduce exposure to distractions and temptations before those temptations demand effortful restraint.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0191886914005339" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Trait self-control and the avoidance of temptationby MR Ent · 2015 · Cited by 329 — The present research suggests that high...</span></span></span>
 
 The practical implication is simple: every temptation has a setup phase. Long before someone scrolls for an hour, overeats, procrastinates or makes an impulsive purchase, the [environment]({{ 'environment/' | relative_url }}) has often already made that outcome easier.
 
@@ -283,20 +283,20 @@ The practical implication is simple: every temptation has a setup phase. Long be
 
 Many people treat avoidance as if it were a form of surrender. They assume real self-control means standing face-to-face with temptation and winning every time. Behavioural research points in a different direction.
 
-A useful comparison is between carrying biscuits in a desk drawer and keeping them out of the room entirely. Both approaches aim at the same outcome, but only one requires repeated acts of resistance. The second strategy removes dozens of decisions and moments of friction. The individual has not become weaker; they have become more efficient. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/news/releases/effective-self-control-strategies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">effective self control strategies</span><span class="citation-popover-snippet">Association for Psychological ScienceEffective Self-Control Strategies Involve Much More Than...14 Feb 2019 — They observe that in some...</span></span></span>
+A useful comparison is between carrying biscuits in a desk drawer and keeping them out of the room entirely. Both approaches aim at the same outcome, but only one requires repeated acts of resistance. The second strategy removes dozens of decisions and moments of friction. The individual has not become weaker; they have become more efficient.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/news/releases/effective-self-control-strategies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">effective self control strategies</span><span class="citation-popover-snippet">Association for Psychological ScienceEffective Self-Control Strategies Involve Much More Than...14 Feb 2019 — They observe that in some...</span></span></span>
 
 This principle appears across many domains:
 
 * People who want to focus often work better when distracting websites are blocked before work begins.
 * People trying to sleep better often benefit from charging devices outside the bedroom.
 * People attempting to eat differently often succeed more consistently when healthier foods are more accessible than less healthy alternatives.
-* People trying to save money frequently rely on automatic transfers rather than repeated spending decisions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/news/releases/effective-self-control-strategies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">effective self control strategies</span><span class="citation-popover-snippet">Association for Psychological ScienceEffective Self-Control Strategies Involve Much More Than...14 Feb 2019 — They observe that in some...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7140383/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Choice architecture interventions to change physical activity...by LL Landais · 2020 · Cited by 105 — Choice architecture interventio...</span></span></span>
+* People trying to save money frequently rely on automatic transfers rather than repeated spending decisions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/news/releases/effective-self-control-strategies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">effective self control strategies</span><span class="citation-popover-snippet">Association for Psychological ScienceEffective Self-Control Strategies Involve Much More Than...14 Feb 2019 — They observe that in some...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7140383/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Choice architecture interventions to change physical activity...by LL Landais · 2020 · Cited by 105 — Choice architecture interventio...</span></span></span>
 
-In each case, the environment absorbs part of the self-control burden. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/self-control" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">Self Control</span><span class="citation-popover-snippet">an overviewOne way people overcome the challenge of self-control is by actively inhibiting the thoughts, feelings, and behavioral tendenc...</span></span></span>
+In each case, the environment absorbs part of the self-control burden.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/self-control" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">Self Control</span><span class="citation-popover-snippet">an overviewOne way people overcome the challenge of self-control is by actively inhibiting the thoughts, feelings, and behavioral tendenc...</span></span></span>
 
 ## Home and Work Friction Points
 
-Environmental design works largely through friction. Friction is any small obstacle that slows a behaviour down. Even minor increases or decreases in friction can meaningfully influence what people do repeatedly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pure.mpg.de/rest/items/item_3188203_12/component/file_3363457/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.mpg.de">[MPG.PuRe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.mpg.de</span><span class="citation-popover-snippet">MPG.PuReSelf-Nudging and the Citizen Choice Architectby S Reijula · 2022 · Cited by 214 — Self-deployed changes of accessibility, default...</span></span></span>
+Environmental design works largely through friction. Friction is any small obstacle that slows a behaviour down. Even minor increases or decreases in friction can meaningfully influence what people do repeatedly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pure.mpg.de/rest/items/item_3188203_12/component/file_3363457/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.mpg.de">[MPG.PuRe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.mpg.de</span><span class="citation-popover-snippet">MPG.PuReSelf-Nudging and the Citizen Choice Architectby S Reijula · 2022 · Cited by 214 — Self-deployed changes of accessibility, default...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0rJTbJOeFMA" title="James Blunt - High (Official Original Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0rJTbJOeFMA" target="_blank" rel="noopener noreferrer">James Blunt - High (Official Original Video)</a></p><p class="youtube-embed-meta">Channel: James Blunt &middot; Views: 30.8M &middot; Uploaded: May 2007 &middot; Length: 3 minutes 51 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0rJTbJOeFMA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0rJTbJOeFMA">Open on YouTube</a></p></div></div></div>
 
@@ -338,16 +338,16 @@ Environmental redesign at work can include:
 
 </div>
 
-Research on choice architecture shows that subtle changes in the decision environment can alter behaviour without requiring major changes in [motivation]({{ 'motivation/' | relative_url }}). The environment influences what feels normal, obvious and easy at the moment of choice. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/psychology/choice-architecture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">Choice ArchitectureChoice architecture refers to the deliberate crafting of decision-making environments. By subtly shaping how options a...</span></span></span>
+Research on choice architecture shows that subtle changes in the decision environment can alter behaviour without requiring major changes in [motivation]({{ 'motivation/' | relative_url }}). The environment influences what feels normal, obvious and easy at the moment of choice. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/psychology/choice-architecture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">Choice ArchitectureChoice architecture refers to the deliberate crafting of decision-making environments. By subtly shaping how options a...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_temptation_environme_b9a838-Illustration-2-dark.svg" | relative_url }}" alt="Temptation Setup illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_temptation_environme_b9a838-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_temptation_environme_b9a838-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Power of Defaults
 
 One of the strongest environmental tools is the default option.
 
-A default is what happens when no active decision is made. Because people tend to follow the easiest available path, [defaults]({{ 'defaults/' | relative_url }}) often shape behaviour more strongly than intentions do. Choice architecture research has repeatedly demonstrated the influence of defaults across domains ranging from health decisions to workplace behaviour. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/psychology/choice-architecture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">Choice ArchitectureChoice architecture refers to the deliberate crafting of decision-making environments. By subtly shaping how options a...</span></span></span>
+A default is what happens when no active decision is made. Because people tend to follow the easiest available path, [defaults]({{ 'defaults/' | relative_url }}) often shape behaviour more strongly than intentions do. Choice architecture research has repeatedly demonstrated the influence of defaults across domains ranging from health decisions to workplace behaviour. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/psychology/choice-architecture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">Choice ArchitectureChoice architecture refers to the deliberate crafting of decision-making environments. By subtly shaping how options a...</span></span></span>
 
-For self-improvement, effective defaults include: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/news/releases/effective-self-control-strategies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[psychologicalscience.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">effective self control strategies</span><span class="citation-popover-snippet">Association for Psychological ScienceEffective Self-Control Strategies Involve Much More Than...14 Feb 2019 — They observe that in some...</span></span></span>
+For self-improvement, effective defaults include:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/news/releases/effective-self-control-strategies.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[psychologicalscience.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">effective self control strategies</span><span class="citation-popover-snippet">Association for Psychological ScienceEffective Self-Control Strategies Involve Much More Than...14 Feb 2019 — They observe that in some...</span></span></span>
 
 * Automatic savings transfers.
 * Pre-planned meals.
@@ -411,278 +411,278 @@ Reduce the effort required for the preferred action:
 
 </div>
 
-Environmental design is strongest when it simultaneously increases friction for the unwanted behaviour and decreases friction for the desired one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pure.mpg.de/rest/items/item_3188203_12/component/file_3363457/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.mpg.de">[MPG.PuRe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.mpg.de</span><span class="citation-popover-snippet">MPG.PuReSelf-Nudging and the Citizen Choice Architectby S Reijula · 2022 · Cited by 214 — Self-deployed changes of accessibility, default...</span></span></span>
+Environmental design is strongest when it simultaneously increases friction for the unwanted behaviour and decreases friction for the desired one.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pure.mpg.de/rest/items/item_3188203_12/component/file_3363457/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.mpg.de">[MPG.PuRe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.mpg.de</span><span class="citation-popover-snippet">MPG.PuReSelf-Nudging and the Citizen Choice Architectby S Reijula · 2022 · Cited by 214 — Self-deployed changes of accessibility, default...</span></span></span>
 
 ## Small Changes, Large Effects
 
 Environmental redesign can feel almost trivial compared with dramatic stories of [willpower]({{ 'willpower/' | relative_url }}) and determination. Yet its strength comes from repetition. A tiny obstacle encountered once is insignificant. A tiny obstacle encountered fifty times a week can reshape behaviour.
 
-This is why effective self-improvement often looks surprisingly mundane. It is not always a story of heroic resistance. More often, it is a story of rearranged rooms, altered defaults, hidden cues, blocked distractions and small amounts of friction placed in exactly the right locations. By the time temptation arrives, much of the decision has already been made. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9420799/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">environmental and inhibitory control strategies to...by NA Cáceres · 2022 · Cited by 5 — This research addresses the oft-debated questio...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0191886914005339" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Trait self-control and the avoidance of temptationby MR Ent · 2015 · Cited by 329 — The present research suggests that high...</span></span></span>
+This is why effective self-improvement often looks surprisingly mundane. It is not always a story of heroic resistance. More often, it is a story of rearranged rooms, altered defaults, hidden cues, blocked distractions and small amounts of friction placed in exactly the right locations. By the time temptation arrives, much of the decision has already been made.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9420799/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">environmental and inhibitory control strategies to...by NA Cáceres · 2022 · Cited by 5 — This research addresses the oft-debated questio...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0191886914005339" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Trait self-control and the avoidance of temptationby MR Ent · 2015 · Cited by 329 — The present research suggests that high...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Your Environment Do the Resisting?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Your Environment Do the Resisting?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Directly teaches habit formation through environmental cues, friction reduction, and making desired behaviors the path of least resistance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Directly teaches habit formation through environmental cues, friction reduction, and making desired behaviors the path of least resistance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rrlPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Power of Habit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
-        </h4>
-        <p class="fr-book-author">By Charles Duhigg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rrlPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Power of Habit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
+</h4>
+<p class="fr-book-author">By Charles Duhigg</p>
         
-        <p class="fr-book-desc">Explains habit loops, behavioral triggers, and how changing situations and cues can reshape behavior.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains habit loops, behavioral triggers, and how changing situations and cues can reshape behavior.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Change+by+Katy+Milkman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Change on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AHInEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Change" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Change+by+Katy+Milkman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Change">How to Change</a>
-        </h4>
-        <p class="fr-book-author">By Katy Milkman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Change+by+Katy+Milkman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Change on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AHInEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Change" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Change+by+Katy+Milkman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Change">How to Change</a>
+</h4>
+<p class="fr-book-author">By Katy Milkman</p>
         
-        <p class="fr-book-desc">Focuses on overcoming self-control problems using evidence-based strategies, including changing environments and systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Change+by+Katy+Milkman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on overcoming self-control problems using evidence-based strategies, including changing environments and systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Change+by+Katy+Milkman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Better+Than+Before+by+Gretchen+Rubin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Better Than Before on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zk-TEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Better Than Before" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Better+Than+Before+by+Gretchen+Rubin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Better Than Before">Better Than Before</a>
-        </h4>
-        <p class="fr-book-author">By Gretchen Rubin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Better+Than+Before+by+Gretchen+Rubin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Better Than Before on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zk-TEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Better Than Before" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Better+Than+Before+by+Gretchen+Rubin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Better Than Before">Better Than Before</a>
+</h4>
+<p class="fr-book-author">By Gretchen Rubin</p>
         
-        <p class="fr-book-desc">Explores practical ways to structure surroundings, routines, and expectations to support consistent behavior.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Better+Than+Before+by+Gretchen+Rubin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores practical ways to structure surroundings, routines, and expectations to support consistent behavior.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Better+Than+Before+by+Gretchen+Rubin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Power+of+Habit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Power of Habit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Change&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Change</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Power+of+Habit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Power of Habit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Change&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Change</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage For Office"><img src="{{ '/assets/images/marketplace-covers/4099560f2fd851fe1c13.jpg' | relative_url }}" alt="Listing image for Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage For Office" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage For Office</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage For Office"><img src="{{ '/assets/images/marketplace-covers/4099560f2fd851fe1c13.jpg' | relative_url }}" alt="Listing image for Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage For Office" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage For Office</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer"><img src="{{ '/assets/images/marketplace-covers/acce59ee37094e6800bd.jpg' | relative_url }}" alt="Listing image for OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer"><img src="{{ '/assets/images/marketplace-covers/acce59ee37094e6800bd.jpg' | relative_url }}" alt="Listing image for OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver"><img src="{{ '/assets/images/marketplace-covers/8ef2fda3ba43e1e28efb.jpg' | relative_url }}" alt="Listing image for 4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver"><img src="{{ '/assets/images/marketplace-covers/8ef2fda3ba43e1e28efb.jpg' | relative_url }}" alt="Listing image for 4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mesh Pen Pot Pencil Holder Desk Stationery Organiser Office Home Storage"><img src="{{ '/assets/images/marketplace-covers/60a4dbd611649d82c998.jpg' | relative_url }}" alt="Listing image for Mesh Pen Pot Pencil Holder Desk Stationery Organiser Office Home Storage" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Mesh Pen Pot Pencil Holder Desk Stationery Organiser Office Home Storage</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mesh Pen Pot Pencil Holder Desk Stationery Organiser Office Home Storage"><img src="{{ '/assets/images/marketplace-covers/60a4dbd611649d82c998.jpg' | relative_url }}" alt="Listing image for Mesh Pen Pot Pencil Holder Desk Stationery Organiser Office Home Storage" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Mesh Pen Pot Pencil Holder Desk Stationery Organiser Office Home Storage</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=temptation-setup-can-your-environment-do-the-resisting-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -698,7 +698,7 @@ This is why effective self-improvement often looks surprisingly mundane. It is n
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -718,7 +718,7 @@ This is why effective self-improvement often looks surprisingly mundane. It is n
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -750,7 +750,7 @@ This is why effective self-improvement often looks surprisingly mundane. It is n
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -780,7 +780,7 @@ This is why effective self-improvement often looks surprisingly mundane. It is n
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -838,139 +838,139 @@ This is why effective self-improvement often looks surprisingly mundane. It is n
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCSituational Strategies for Self-Control  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4736542/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4736542/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>self-control strategies can be organized using the process model of self-control (Duckworth, Gendler, &amp; Gross, 2014). This framework pred...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4736542/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4736542/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>self-control strategies can be organized using the process model of self-control (Duckworth, Gendler, &amp; Gross, 2014). This framework pred...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7140383/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7140383/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Choice architecture interventions to change physical activity...by LL Landais · 2020 · Cited by 105 — Choice architecture interventio...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7140383/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7140383/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Choice architecture interventions to change physical activity...by LL Landais · 2020 · Cited by 105 — Choice architecture interventio...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0191886914005339" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0191886914005339</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Trait self-control and the avoidance of temptationby MR Ent · 2015 · Cited by 329 — The present research suggests that high...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0191886914005339" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0191886914005339</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trait self-control and the avoidance of temptationby MR Ent · 2015 · Cited by 329 — The present research suggests that high...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9420799/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9420799/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>environmental and inhibitory control strategies to...by NA Cáceres · 2022 · Cited by 5 — This research addresses the oft-debated questio...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9420799/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9420799/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>environmental and inhibitory control strategies to...by NA Cáceres · 2022 · Cited by 5 — This research addresses the oft-debated questio...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pure.mpg.de  
-   Link: <a href="https://pure.mpg.de/rest/items/item_3188203_12/component/file_3363457/content" target="_blank" rel="noopener noreferrer nofollow">https://pure.mpg.de/rest/items/item_3188203_12/component/file_3363457/content</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MPG.PuReSelf-Nudging and the Citizen Choice Architectby S Reijula · 2022 · Cited by 214 — Self-deployed changes of accessibility, default...</p></details>
+   Link:<a href="https://pure.mpg.de/rest/items/item_3188203_12/component/file_3363457/content" target="_blank" rel="noopener noreferrer nofollow">https://pure.mpg.de/rest/items/item_3188203_12/component/file_3363457/content</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MPG.PuReSelf-Nudging and the Citizen Choice Architectby S Reijula · 2022 · Cited by 214 — Self-deployed changes of accessibility, default...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCNudging to move: a scoping review of the use of choice  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6724306/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6724306/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Forberger · 2019 · Cited by 156 — This paper aims to (1) give an overview of the scope of interventions using choice architecture...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6724306/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6724306/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by S Forberger · 2019 · Cited by 156 — This paper aims to (1) give an overview of the scope of interventions using choice architecture...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0749597820303848" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0749597820303848</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior changeby AL Duckworth · 2020 · Cited by 130 — We propose the process model of behavior change as a parsimonious framework for or...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0749597820303848" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0749597820303848</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior changeby AL Duckworth · 2020 · Cited by 130 — We propose the process model of behavior change as a parsimonious framework for or...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4731333/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4731333/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>than Resisting Temptation: Beneficial Habits Mediate the...by BM Galla · 2015 · Cited by 767 — Indeed, it is intuitive to liken self-con...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4731333/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4731333/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>than Resisting Temptation: Beneficial Habits Mediate the...by BM Galla · 2015 · Cited by 767 — Indeed, it is intuitive to liken self-con...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: self.inc  
-   Link: <a href="https://www.self.inc/" target="_blank" rel="noopener noreferrer nofollow">https://www.self.inc/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Build Credit, Build Savings and Access CashBuild credit and savings with Self. The Credit Builder Account and Self Visa® Credit Ca...</p></details>
+   Link:<a href="https://www.self.inc/" target="_blank" rel="noopener noreferrer nofollow">https://www.self.inc/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Build Credit, Build Savings and Access CashBuild credit and savings with Self. The Credit Builder Account and Self Visa® Credit Ca...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2352250X2400071X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352250X2400071X</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>James Gross: Writing – review &amp; editing. Declaration of competing interest. The authors declare that they have no...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2352250X2400071X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352250X2400071X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>James Gross: Writing – review &amp; editing. Declaration of competing interest. The authors declare that they have no...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sciencedirect.com  
    Title: Self Control  
-   Link: <a href="https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/self-control" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/self-control</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>an overviewOne way people overcome the challenge of self-control is by actively inhibiting the thoughts, feelings, and behavioral tendenc...</p></details>
+   Link:<a href="https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/self-control" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/self-control</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>an overviewOne way people overcome the challenge of self-control is by actively inhibiting the thoughts, feelings, and behavioral tendenc...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: psychologicalscience.org  
    Title: effective self control strategies  
-   Link: <a href="https://www.psychologicalscience.org/news/releases/effective-self-control-strategies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/news/releases/effective-self-control-strategies.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceEffective Self-Control Strategies Involve Much More Than...14 Feb 2019 — They observe that in some...</p></details>
+   Link:<a href="https://www.psychologicalscience.org/news/releases/effective-self-control-strategies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/news/releases/effective-self-control-strategies.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Association for Psychological ScienceEffective Self-Control Strategies Involve Much More Than...14 Feb 2019 — They observe that in some...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/choice-architecture" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/choice-architecture</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Choice ArchitectureChoice architecture refers to the deliberate crafting of decision-making environments. By subtly shaping how options a...</p></details>
+   Link:<a href="https://thedecisionlab.com/reference-guide/psychology/choice-architecture" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/choice-architecture</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Choice ArchitectureChoice architecture refers to the deliberate crafting of decision-making environments. By subtly shaping how options a...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12294546/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12294546/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>at Work - Effect of Nudges on Stand-Up Workingby M Celis · 2025 — This field experiment investigates the effectiveness of behavioral nudg...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12294546/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12294546/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>at Work - Effect of Nudges on Stand-Up Workingby M Celis · 2025 — This field experiment investigates the effectiveness of behavioral nudg...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: angeladuckworth.com  
-   Link: <a href="https://angeladuckworth.com/tag/self-control/" target="_blank" rel="noopener noreferrer nofollow">https://angeladuckworth.com/tag/self-control/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Angela DuckworthDuckworth, A. L., Gendler, T. S., &amp; Gross, J. J. (2014). Self-control in school-age children. Educational Psychologist, 4...</p></details>
+   Link:<a href="https://angeladuckworth.com/tag/self-control/" target="_blank" rel="noopener noreferrer nofollow">https://angeladuckworth.com/tag/self-control/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Angela DuckworthDuckworth, A. L., Gendler, T. S., &amp; Gross, J. J. (2014). Self-control in school-age children. Educational Psychologist, 4...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: csap.yale.edu  
-   Link: <a href="https://csap.yale.edu/sites/default/files/files/bsw-ad-5-10-2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://csap.yale.edu/sites/default/files/files/bsw-ad-5-10-2021.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>change - Center for the Study of American Politicsby AL Duckworth · 2020 · Cited by 139 — This supplemental issue collects papers by part...</p></details>
+   Link:<a href="https://csap.yale.edu/sites/default/files/files/bsw-ad-5-10-2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://csap.yale.edu/sites/default/files/files/bsw-ad-5-10-2021.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>change - Center for the Study of American Politicsby AL Duckworth · 2020 · Cited by 139 — This supplemental issue collects papers by part...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nanohabits.com  
-   Link: <a href="https://www.nanohabits.com/learn/designing-environment-for-habits" target="_blank" rel="noopener noreferrer nofollow">https://www.nanohabits.com/learn/designing-environment-for-habits</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Designing an Environment Where Good Habits HappenBehavior is shaped by what is visible, close, and easy. Learn how small environmental sh...</p></details>
+   Link:<a href="https://www.nanohabits.com/learn/designing-environment-for-habits" target="_blank" rel="noopener noreferrer nofollow">https://www.nanohabits.com/learn/designing-environment-for-habits</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Designing an Environment Where Good Habits HappenBehavior is shaped by what is visible, close, and easy. Learn how small environmental sh...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/Trait-self-control-and-the-avoidance-of-temptation-Ent-Baumeister/0cff1161825dee3e0ff154fc499371efd5a955dc" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Trait-self-control-and-the-avoidance-of-temptation-Ent-Baumeister/0cff1161825dee3e0ff154fc499371efd5a955dc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Trait self-control and the avoidance of temptationHigh trait self-control has been traditionally described as a keen ability to resist te...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/Trait-self-control-and-the-avoidance-of-temptation-Ent-Baumeister/0cff1161825dee3e0ff154fc499371efd5a955dc" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Trait-self-control-and-the-avoidance-of-temptation-Ent-Baumeister/0cff1161825dee3e0ff154fc499371efd5a955dc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trait self-control and the avoidance of temptationHigh trait self-control has been traditionally described as a keen ability to resist te...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: raybwilliams.medium.com  
-   Link: <a href="https://raybwilliams.medium.com/why-we-get-willpower-wrong-and-what-its-costing-us-635e07973460" target="_blank" rel="noopener noreferrer nofollow">https://raybwilliams.medium.com/why-we-get-willpower-wrong-and-what-its-costing-us-635e07973460</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We Get Willpower Wrong, And What It&#x27;s Costing UsWendy Wood&#x27;s research shows that behavior is much more affected by environmental friction...</p></details>
+   Link:<a href="https://raybwilliams.medium.com/why-we-get-willpower-wrong-and-what-its-costing-us-635e07973460" target="_blank" rel="noopener noreferrer nofollow">https://raybwilliams.medium.com/why-we-get-willpower-wrong-and-what-its-costing-us-635e07973460</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We Get Willpower Wrong, And What It&#x27;s Costing UsWendy Wood&#x27;s research shows that behavior is much more affected by environmental friction...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: dictionary.com  
-   Link: <a href="https://www.dictionary.com/browse/high" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/high</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HIGH Definition &amp; MeaningHIGH definition: having a great or considerable extent or reach upward or vertically; lofty; tall. See examples...</p></details>
+   Link:<a href="https://www.dictionary.com/browse/high" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/high</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HIGH Definition &amp; MeaningHIGH definition: having a great or considerable extent or reach upward or vertically; lofty; tall. See examples...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/high" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/high</a>  
+   Link:<a href="https://www.merriam-webster.com/dictionary/high" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/high</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/384352065_The_process_model_of_self-control_Developing_a_measure_of_self-control_strategies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/384352065_The_process_model_of_self-control_Developing_a_measure_of_self-control_strategies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Situational strategies encompass various attempts to control the situation... Duckworth, Gendler, &amp; Gross, 2016). In step 2, the...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/384352065_The_process_model_of_self-control_Developing_a_measure_of_self-control_strategies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/384352065_The_process_model_of_self-control_Developing_a_measure_of_self-control_strategies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Situational strategies encompass various attempts to control the situation... Duckworth, Gendler, &amp; Gross, 2016). In step 2, the...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: collinsdictionary.com  
    Title: HIG H definition in American Englishhigh in American English · 1  
-   Link: <a href="https://www.collinsdictionary.com/us/dictionary/english/high" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/us/dictionary/english/high</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of more than normal height; lofty; tall [not used of persons] · 2. extending upward a (specified) distance · 3. situated far above...Rea...</p></details>
+   Link:<a href="https://www.collinsdictionary.com/us/dictionary/english/high" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/us/dictionary/english/high</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of more than normal height; lofty; tall [not used of persons] · 2. extending upward a (specified) distance · 3. situated far above...Rea...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: goalsandprogress.com  
-   Link: <a href="https://goalsandprogress.com/home-environment-design-for-better-habits/" target="_blank" rel="noopener noreferrer nofollow">https://goalsandprogress.com/home-environment-design-for-better-habits/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Environment Design for Habits: Set Up Your Home for ChangeEnvironment design for habits uses choice architecture, friction, and cue place...</p></details>
+   Link:<a href="https://goalsandprogress.com/home-environment-design-for-better-habits/" target="_blank" rel="noopener noreferrer nofollow">https://goalsandprogress.com/home-environment-design-for-better-habits/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Environment Design for Habits: Set Up Your Home for ChangeEnvironment design for habits uses choice architecture, friction, and cue place...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: emotrab.ufba.br  
    Title: Emotion regulationCurrent status and future prospectsGross2015  
-   Link: <a href="https://emotrab.ufba.br/wp-content/uploads/2020/08/Emotion-regulationCurrent-status-and-future-prospectsGross2015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://emotrab.ufba.br/wp-content/uploads/2020/08/Emotion-regulationCurrent-status-and-future-prospectsGross2015.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>L., Gendler, T.S., &amp; Gross, J. J. (in press). Self-con- trol in school-age children. Educational Psychologist. Dunning, J. P., &amp; Hajcak, G...</p></details>
+   Link:<a href="https://emotrab.ufba.br/wp-content/uploads/2020/08/Emotion-regulationCurrent-status-and-future-prospectsGross2015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://emotrab.ufba.br/wp-content/uploads/2020/08/Emotion-regulationCurrent-status-and-future-prospectsGross2015.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>L., Gendler, T.S., &amp; Gross, J. J. (in press). Self-con- trol in school-age children. Educational Psychologist. Dunning, J. P., &amp; Hajcak, G...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: curee.co.uk  
-   Link: <a href="https://www.curee.co.uk/files/RMHolyRosary/Resources/The_process_model_of_self_control.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.curee.co.uk/files/RMHolyRosary/Resources/The_process_model_of_self_control.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ehaviour, and built upon the efforts of Magen &amp; Gross (2010) in exploring how the...</p></details>
+   Link:<a href="https://www.curee.co.uk/files/RMHolyRosary/Resources/The_process_model_of_self_control.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.curee.co.uk/files/RMHolyRosary/Resources/The_process_model_of_self_control.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ehaviour, and built upon the efforts of Magen &amp; Gross (2010) in exploring how the...</p></details>

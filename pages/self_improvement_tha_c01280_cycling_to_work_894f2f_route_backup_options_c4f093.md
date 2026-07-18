@@ -277,17 +277,17 @@ image: /assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_route_b
 One of the most common mistakes in cycle commuting is assuming that the shortest route is automatically the best route. On a map, a direct route may save five minutes. In practice, it may include hostile junctions, fast traffic, poor lighting, awkward road surfaces, or sections that feel manageable on a sunny morning but intimidating when riding home in darkness, rain, or fatigue. A route that works only under ideal conditions is fragile. A route that still works when you are tired, running late, dealing with a headwind, or riding with a minor mechanical problem is far more valuable for building a sustainable commuting habit.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_route_backup_options_c4f093-Illustration-1-dark.svg" | relative_url }}" alt="Route Backup illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_route_backup_options_c4f093-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_route_backup_options_c4f093-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Night-before preparation should therefore include route preparation. Instead of relying on a single path between home and work, experienced commuters often maintain a primary route and at least one backup. The goal is not maximum speed but consistent, low-stress travel that remains workable across changing conditions. Research on cycling route choice repeatedly finds that cyclists place high value on lower traffic stress, quieter streets, safer infrastructure, and predictable riding conditions rather than simply minimising distance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0965856425003106" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Cycling route choice preferences: A taste heterogeneity...by T Lilasathapornkit · 2025 · Cited by 11 — The study highlighte...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://osf.io/download/6946e68576605f66b0e077b3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osf.io">[OSF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osf.io</span><span class="citation-popover-snippet">Modelling cycling route choice using a map-based public...by S Tiwari · Cited by 1 — The results show that cyclists strongly prefer r...</span></span></span>
+Night-before preparation should therefore include route preparation. Instead of relying on a single path between home and work, experienced commuters often maintain a primary route and at least one backup. The goal is not maximum speed but consistent, low-stress travel that remains workable across changing conditions. Research on cycling route choice repeatedly finds that cyclists place high value on lower traffic stress, quieter streets, safer infrastructure, and predictable riding conditions rather than simply minimising distance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0965856425003106" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Cycling route choice preferences: A taste heterogeneity...by T Lilasathapornkit · 2025 · Cited by 11 — The study highlighte...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://osf.io/download/6946e68576605f66b0e077b3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osf.io">[OSF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osf.io</span><span class="citation-popover-snippet">Modelling cycling route choice using a map-based public...by S Tiwari · Cited by 1 — The results show that cyclists strongly prefer r...</span></span></span>
 
 ## Why the Shortest Bike Route May Fail
 
 A commuting route is tested by reality, not by mapping software.
 
-The shortest route often reflects the priorities of motor traffic networks. Busy arterial roads, complex roundabouts, multi-lane junctions, and heavily trafficked corridors may be efficient for cars while creating substantial stress for cyclists. Many route-planning tools now explicitly offer "quiet", "balanced", or low-traffic alternatives because cyclists frequently prefer routes that trade a small amount of time for a large reduction in stress. Cycling UK <span class="citation-chip-wrap"><a class="citation-chip" href="https://cycle.travel/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cycle.travel">[Cycle Travel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cycle.travel</span><span class="citation-popover-title">Travelcycle.travel &#124; route-planner and maps</span><span class="citation-popover-snippet">route-planner and maps - traffic-free &amp; quiet roadsPlan a bike route on quiet, scenic roads and paths. Free, easy-to-use cycle route pl...</span></span></span>
+The shortest route often reflects the priorities of motor traffic networks. Busy arterial roads, complex roundabouts, multi-lane junctions, and heavily trafficked corridors may be efficient for cars while creating substantial stress for cyclists. Many route-planning tools now explicitly offer "quiet", "balanced", or low-traffic alternatives because cyclists frequently prefer routes that trade a small amount of time for a large reduction in stress. Cycling UK<span class="citation-chip-wrap"><a class="citation-chip" href="https://cycle.travel/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cycle.travel">[Cycle Travel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cycle.travel</span><span class="citation-popover-title">Travelcycle.travel &#124; route-planner and maps</span><span class="citation-popover-snippet">route-planner and maps - traffic-free &amp; quiet roadsPlan a bike route on quiet, scenic roads and paths. Free, easy-to-use cycle route pl...</span></span></span>
 
 This matters because commuting is repetitive. A junction that feels uncomfortable once may feel unbearable after encountering it ten times a week. A rider who repeatedly experiences close passes, difficult right turns, or aggressive traffic is more likely to abandon the commute altogether than a rider whose journey is slightly longer but calmer.
 
-Research into route choice consistently finds strong preferences for lower traffic stress and separation from motor traffic. Cyclists often accept longer journeys when those routes provide quieter roads, safer infrastructure, or a more comfortable riding experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://osf.io/download/6946e68576605f66b0e077b3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osf.io">[OSF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osf.io</span><span class="citation-popover-snippet">Modelling cycling route choice using a map-based public...by S Tiwari · Cited by 1 — The results show that cyclists strongly prefer r...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/15568318.2021.1999539" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineWhat aspects of traffic intensity most influence cycling...by N Grudgings · 2023 · Cited by 13 — The results impl...</span></span></span>
+Research into route choice consistently finds strong preferences for lower traffic stress and separation from motor traffic. Cyclists often accept longer journeys when those routes provide quieter roads, safer infrastructure, or a more comfortable riding experience.<span class="citation-chip-wrap"><a class="citation-chip" href="https://osf.io/download/6946e68576605f66b0e077b3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osf.io">[OSF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osf.io</span><span class="citation-popover-snippet">Modelling cycling route choice using a map-based public...by S Tiwari · Cited by 1 — The results show that cyclists strongly prefer r...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/15568318.2021.1999539" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineWhat aspects of traffic intensity most influence cycling...by N Grudgings · 2023 · Cited by 13 — The results impl...</span></span></span>
 
 For self-improvement purposes, the relevant question is not "What is the fastest route today?" but "Which route am I still willing to ride in November, after a long day, in the rain?"
 
@@ -305,11 +305,11 @@ Useful route testing focuses on four practical factors:
 
 **Road surface quality.** Potholes, drainage covers, broken tarmac, gravel, and debris become much more significant in darkness or wet weather. What feels minor in daylight may become a genuine hazard during a winter commute.
 
-**Lighting conditions.** Well-lit streets can feel substantially safer and easier to navigate than isolated paths. Some riders deliberately choose slightly longer routes through populated, illuminated areas rather than darker shortcuts, particularly during winter commuting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cyclingweekly.com/news/our-plan-wasnt-to-be-rowdy-or-reckless-we-were-just-taking-up-some-space-the-women-reclaiming-night-rides-reminding-us-all-of-the-safety-issues-female-cyclists-face" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cyclingweekly.com">[Cycling Weekly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cyclingweekly.com</span><span class="citation-popover-snippet">Despite strong interest in night-time cycling, many women avoid it due to safety concerns, often choosing longer, populated routes over q...</span></span></span>
+**Lighting conditions.** Well-lit streets can feel substantially safer and easier to navigate than isolated paths. Some riders deliberately choose slightly longer routes through populated, illuminated areas rather than darker shortcuts, particularly during winter commuting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cyclingweekly.com/news/our-plan-wasnt-to-be-rowdy-or-reckless-we-were-just-taking-up-some-space-the-women-reclaiming-night-rides-reminding-us-all-of-the-safety-issues-female-cyclists-face" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cyclingweekly.com">[Cycling Weekly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cyclingweekly.com</span><span class="citation-popover-snippet">Despite strong interest in night-time cycling, many women avoid it due to safety concerns, often choosing longer, populated routes over q...</span></span></span>
 
-**Traffic behaviour.** Traffic volume alone does not determine stress. A quieter road with higher speeds may feel worse than a busier street with slower traffic and dedicated cycling space. Studies of cyclist preferences repeatedly show that perceived traffic stress strongly influences route choice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://osf.io/download/6946e68576605f66b0e077b3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osf.io">[OSF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osf.io</span><span class="citation-popover-snippet">Modelling cycling route choice using a map-based public...by S Tiwari · Cited by 1 — The results show that cyclists strongly prefer r...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/15568318.2021.1999539" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineWhat aspects of traffic intensity most influence cycling...by N Grudgings · 2023 · Cited by 13 — The results impl...</span></span></span>
+**Traffic behaviour.** Traffic volume alone does not determine stress. A quieter road with higher speeds may feel worse than a busier street with slower traffic and dedicated cycling space. Studies of cyclist preferences repeatedly show that perceived traffic stress strongly influences route choice.<span class="citation-chip-wrap"><a class="citation-chip" href="https://osf.io/download/6946e68576605f66b0e077b3/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osf.io">[OSF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osf.io</span><span class="citation-popover-snippet">Modelling cycling route choice using a map-based public...by S Tiwari · Cited by 1 — The results show that cyclists strongly prefer r...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/15568318.2021.1999539" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineWhat aspects of traffic intensity most influence cycling...by N Grudgings · 2023 · Cited by 13 — The results impl...</span></span></span>
 
-A useful exercise is to ride alternative routes at least once before relying on them. Experienced commuters often spend a weekend exploring different links between familiar points, gradually discovering calmer roads and more comfortable crossings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.londoncyclist.co.uk/route-planning-tips/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: londoncyclist.co.uk">[London Cyclist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">londoncyclist.co.uk</span><span class="citation-popover-title">route planning tips</span><span class="citation-popover-snippet">London CyclistRoute Planning tips3 Jun 2016 — The best way to find a new route is to cycle around the roads between your location and des...</span></span></span>
+A useful exercise is to ride alternative routes at least once before relying on them. Experienced commuters often spend a weekend exploring different links between familiar points, gradually discovering calmer roads and more comfortable crossings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.londoncyclist.co.uk/route-planning-tips/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: londoncyclist.co.uk">[London Cyclist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">londoncyclist.co.uk</span><span class="citation-popover-title">route planning tips</span><span class="citation-popover-snippet">London CyclistRoute Planning tips3 Jun 2016 — The best way to find a new route is to cycle around the roads between your location and des...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_route_backup_options_c4f093-Illustration-2-dark.svg" | relative_url }}" alt="Route Backup illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_route_backup_options_c4f093-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_route_backup_options_c4f093-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Build Routes for Different Conditions
@@ -328,7 +328,7 @@ A practical approach is to maintain three versions:
 
 This flexibility reduces the psychological pressure created by unexpected conditions. If strong winds, roadworks, flooding, or unusual traffic make one route unattractive, another option already exists.
 
-Several modern cycling planners explicitly [support]({{ 'support/' | relative_url }}) this thinking by offering route styles that prioritise quiet roads, cycleways, or traffic-free sections rather than pure speed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cyclinguk.org/article/how-use-cycling-uks-journey-planner" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cyclinguk.org">[Cycling UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cyclinguk.org</span><span class="citation-popover-snippet">Note that this last option might involve quite busy main roads, so keep that in mind when making your selection...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cyclinguk.org/journey-planner" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cyclinguk.org">[Cycling UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cyclinguk.org</span><span class="citation-popover-snippet">Journey plannerJourney planner · Routes · Places · Off-road routing · Cycle route inspiration and advice.Read more...</span></span></span>
+Several modern cycling planners explicitly [support]({{ 'support/' | relative_url }}) this thinking by offering route styles that prioritise quiet roads, cycleways, or traffic-free sections rather than pure speed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cyclinguk.org/article/how-use-cycling-uks-journey-planner" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cyclinguk.org">[Cycling UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cyclinguk.org</span><span class="citation-popover-snippet">Note that this last option might involve quite busy main roads, so keep that in mind when making your selection...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cyclinguk.org/journey-planner" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cyclinguk.org">[Cycling UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cyclinguk.org</span><span class="citation-popover-snippet">Journey plannerJourney planner · Routes · Places · Off-road routing · Cycle route inspiration and advice.Read more...</span></span></span>
 
 The key insight is that route planning is not a one-time decision. It is an ongoing process of reducing friction and increasing reliability.
 
@@ -351,7 +351,7 @@ If a tyre fails beyond a simple puncture repair, weather deteriorates unexpected
 
 </div>
 
-Cycle-rail planning has become an increasingly recognised part of active travel policy because combining cycling with rail travel can make journeys more resilient and adaptable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://activetravelengland.gov.uk/sites/default/files/2024-10/Cycle-rail%20guidance%20-%20Cycle-rail%20toolkit%203%20-%20accessible%20version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: activetravelengland.gov.uk">[Active Travel England]</a><span class="citation-popover" role="note"><span class="citation-popover-source">activetravelengland.gov.uk</span><span class="citation-popover-title">Active Travel England Cycle-rail guidance</span><span class="citation-popover-snippet">Active Travel EnglandCycle-rail guidanceSeptember 21, 2023 — “Cycling facilities, such as safer bike routes and more bike parking, will m...</span><span class="citation-popover-meta">Published: September 21, 2023</span></span></span>
+Cycle-rail planning has become an increasingly recognised part of active travel policy because combining cycling with rail travel can make journeys more resilient and adaptable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://activetravelengland.gov.uk/sites/default/files/2024-10/Cycle-rail%20guidance%20-%20Cycle-rail%20toolkit%203%20-%20accessible%20version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: activetravelengland.gov.uk">[Active Travel England]</a><span class="citation-popover" role="note"><span class="citation-popover-source">activetravelengland.gov.uk</span><span class="citation-popover-title">Active Travel England Cycle-rail guidance</span><span class="citation-popover-snippet">Active Travel EnglandCycle-rail guidanceSeptember 21, 2023 — “Cycling facilities, such as safer bike routes and more bike parking, will m...</span><span class="citation-popover-meta">Published: September 21, 2023</span></span></span>
 
 Even mechanical failures become less stressful when the rider already knows the nearest station, bike shop, or alternative transport connection. The backup plan may never be used, but its existence reduces uncertainty.
 
@@ -367,178 +367,178 @@ Creating route backups the night before a commute is therefore not merely a safe
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iEYnyqWcC8E" title="Commuting Advice From Other Cyclists On Their Ride To Work!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iEYnyqWcC8E" target="_blank" rel="noopener noreferrer">Commuting Advice From Other Cyclists On Their Ride To Work!</a></p><p class="youtube-embed-meta">Channel: Global Cycling Network &middot; Views: 121.4K &middot; Uploaded: May 2024 &middot; Length: 4 minutes 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iEYnyqWcC8E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iEYnyqWcC8E">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Shortest Bike Route May Fail. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Shortest Bike Route May Fail. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Supports creating backup systems and reducing friction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Supports creating backup systems and reducing friction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cyclist%27s+Training+Bible+by+Joe+Friel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cyclist&#x27;s Training Bible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Ovg5CgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Cyclist&#x27;s Training Bible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cyclist%27s+Training+Bible+by+Joe+Friel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cyclist&#x27;s Training Bible">The Cyclist&#x27;s Training Bible</a>
-        </h4>
-        <p class="fr-book-author">By Joe Friel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cyclist%27s+Training+Bible+by+Joe+Friel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cyclist&#x27;s Training Bible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Ovg5CgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Cyclist&#x27;s Training Bible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cyclist%27s+Training+Bible+by+Joe+Friel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cyclist&#x27;s Training Bible">The Cyclist&#x27;s Training Bible</a>
+</h4>
+<p class="fr-book-author">By Joe Friel</p>
         
-        <p class="fr-book-desc">Encourages structured route and ride planning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cyclist%27s+Training+Bible+by+Joe+Friel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages structured route and ride planning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cyclist%27s+Training+Bible+by+Joe+Friel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bike+for+Life+by+Roy+M.+Wallack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bike for Life on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ToZKDgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bike for Life" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bike+for+Life+by+Roy+M.+Wallack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bike for Life">Bike for Life</a>
-        </h4>
-        <p class="fr-book-author">By Roy M. Wallack</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bike+for+Life+by+Roy+M.+Wallack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bike for Life on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ToZKDgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bike for Life" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bike+for+Life+by+Roy+M.+Wallack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bike for Life">Bike for Life</a>
+</h4>
+<p class="fr-book-author">By Roy M. Wallack</p>
         
-        <p class="fr-book-desc">Supports safe and sustainable riding.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bike+for+Life+by+Roy+M.+Wallack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports safe and sustainable riding.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bike+for+Life+by+Roy+M.+Wallack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Zinn+%26+the+Art+of+Road+Bike+Maintenance+by+Lennard+Zinn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Zinn &amp; the Art of Road Bike Maintenance on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DjCpPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Zinn &amp; the Art of Road Bike Maintenance" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Zinn+%26+the+Art+of+Road+Bike+Maintenance+by+Lennard+Zinn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Zinn &amp; the Art of Road Bike Maintenance">Zinn &amp; the Art of Road Bike Maintenance</a>
-        </h4>
-        <p class="fr-book-author">By Lennard Zinn</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Zinn+%26+the+Art+of+Road+Bike+Maintenance+by+Lennard+Zinn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Zinn &amp; the Art of Road Bike Maintenance on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DjCpPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Zinn &amp; the Art of Road Bike Maintenance" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Zinn+%26+the+Art+of+Road+Bike+Maintenance+by+Lennard+Zinn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Zinn &amp; the Art of Road Bike Maintenance">Zinn &amp; the Art of Road Bike Maintenance</a>
+</h4>
+<p class="fr-book-author">By Lennard Zinn</p>
         
-        <p class="fr-book-desc">Relevant for mechanical contingency planning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Zinn+%26+the+Art+of+Road+Bike+Maintenance+by+Lennard+Zinn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant for mechanical contingency planning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Zinn+%26+the+Art+of+Road+Bike+Maintenance+by+Lennard+Zinn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cyclist%27s+Training+Bible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cyclist&#x27;s Training Bible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bike+for+Life&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bike for Life</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cyclist%27s+Training+Bible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cyclist&#x27;s Training Bible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bike+for+Life&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bike for Life</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-    </div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=bike+repair+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=route-backup-why-the-shortest-bike-route-may-fail-self-improvement-that-works-bike-repair-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Blackburn At Home Bicycle Repair Kit: Be Your Own Bike Mechanic"><img src="{{ '/assets/images/marketplace-covers/7df3e818ac9a4b58d6b1.jpg' | relative_url }}" alt="Listing image for Blackburn At Home Bicycle Repair Kit: Be Your Own Bike Mechanic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=bike+repair+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=route-backup-why-the-shortest-bike-route-may-fail-self-improvement-that-works-bike-repair-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Blackburn At Home Bicycle Repair Kit: Be Your Own Bike Mechanic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=bike+repair+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=route-backup-why-the-shortest-bike-route-may-fail-self-improvement-that-works-bike-repair-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bike repair kit">Search <span data-ebay-domain-label>eBay.com</span>: bike repair kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=bike+repair+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=route-backup-why-the-shortest-bike-route-may-fail-self-improvement-that-works-bike-repair-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=bike+repair+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=route-backup-why-the-shortest-bike-route-may-fail-self-improvement-that-works-bike-repair-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Blackburn At Home Bicycle Repair Kit: Be Your Own Bike Mechanic"><img src="{{ '/assets/images/marketplace-covers/7df3e818ac9a4b58d6b1.jpg' | relative_url }}" alt="Listing image for Blackburn At Home Bicycle Repair Kit: Be Your Own Bike Mechanic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=bike+repair+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=route-backup-why-the-shortest-bike-route-may-fail-self-improvement-that-works-bike-repair-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Blackburn At Home Bicycle Repair Kit: Be Your Own Bike Mechanic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=bike+repair+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=route-backup-why-the-shortest-bike-route-may-fail-self-improvement-that-works-bike-repair-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bike repair kit">Search<span data-ebay-domain-label>eBay.com</span>: bike repair kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=bike+repair+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=route-backup-why-the-shortest-bike-route-may-fail-self-improvement-that-works-bike-repair-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=bike+repair+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=route-backup-why-the-shortest-bike-route-may-fail-self-improvement-that-works-bike-repair-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DURATECH 31PCS Bike Tool Kit Bicycle Tool Kit Bike Repair Tool Kit w/Storage Box"><img src="{{ '/assets/images/marketplace-covers/0ec25c8e61208bab962e.jpg' | relative_url }}" alt="Listing image for DURATECH 31PCS Bike Tool Kit Bicycle Tool Kit Bike Repair Tool Kit w/Storage Box" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=bike+repair+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=route-backup-why-the-shortest-bike-route-may-fail-self-improvement-that-works-bike-repair-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">DURATECH 31PCS Bike Tool Kit Bicycle Tool Kit Bike Repair Tool Kit w/Storage Box</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=bike+repair+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=route-backup-why-the-shortest-bike-route-may-fail-self-improvement-that-works-bike-repair-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bike repair kit">Search <span data-ebay-domain-label>eBay.com</span>: bike repair kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=bike+repair+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=route-backup-why-the-shortest-bike-route-may-fail-self-improvement-that-works-bike-repair-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=bike+repair+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=route-backup-why-the-shortest-bike-route-may-fail-self-improvement-that-works-bike-repair-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DURATECH 31PCS Bike Tool Kit Bicycle Tool Kit Bike Repair Tool Kit w/Storage Box"><img src="{{ '/assets/images/marketplace-covers/0ec25c8e61208bab962e.jpg' | relative_url }}" alt="Listing image for DURATECH 31PCS Bike Tool Kit Bicycle Tool Kit Bike Repair Tool Kit w/Storage Box" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=bike+repair+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=route-backup-why-the-shortest-bike-route-may-fail-self-improvement-that-works-bike-repair-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">DURATECH 31PCS Bike Tool Kit Bicycle Tool Kit Bike Repair Tool Kit w/Storage Box</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=bike+repair+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=route-backup-why-the-shortest-bike-route-may-fail-self-improvement-that-works-bike-repair-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bike repair kit">Search<span data-ebay-domain-label>eBay.com</span>: bike repair kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=bike+repair+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=route-backup-why-the-shortest-bike-route-may-fail-self-improvement-that-works-bike-repair-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=bike+repair+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=route-backup-why-the-shortest-bike-route-may-fail-self-improvement-that-works-bike-repair-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROCKBROS Bicycle Repair Tool Kit with14pcs Hexwrench Patch Bike Pump Tyre Tools"><img src="{{ '/assets/images/marketplace-covers/62b18e83b2c1ebae5c56.jpg' | relative_url }}" alt="Listing image for ROCKBROS Bicycle Repair Tool Kit with14pcs Hexwrench Patch Bike Pump Tyre Tools" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=bike+repair+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=route-backup-why-the-shortest-bike-route-may-fail-self-improvement-that-works-bike-repair-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">ROCKBROS Bicycle Repair Tool Kit with14pcs Hexwrench Patch Bike Pump Tyre Tools</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=bike+repair+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=route-backup-why-the-shortest-bike-route-may-fail-self-improvement-that-works-bike-repair-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bike repair kit">Search <span data-ebay-domain-label>eBay.com</span>: bike repair kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=bike+repair+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=route-backup-why-the-shortest-bike-route-may-fail-self-improvement-that-works-bike-repair-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=bike+repair+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=route-backup-why-the-shortest-bike-route-may-fail-self-improvement-that-works-bike-repair-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROCKBROS Bicycle Repair Tool Kit with14pcs Hexwrench Patch Bike Pump Tyre Tools"><img src="{{ '/assets/images/marketplace-covers/62b18e83b2c1ebae5c56.jpg' | relative_url }}" alt="Listing image for ROCKBROS Bicycle Repair Tool Kit with14pcs Hexwrench Patch Bike Pump Tyre Tools" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=bike+repair+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=route-backup-why-the-shortest-bike-route-may-fail-self-improvement-that-works-bike-repair-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">ROCKBROS Bicycle Repair Tool Kit with14pcs Hexwrench Patch Bike Pump Tyre Tools</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=bike+repair+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=route-backup-why-the-shortest-bike-route-may-fail-self-improvement-that-works-bike-repair-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bike repair kit">Search<span data-ebay-domain-label>eBay.com</span>: bike repair kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=bike+repair+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=route-backup-why-the-shortest-bike-route-may-fail-self-improvement-that-works-bike-repair-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=bike+repair+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=route-backup-why-the-shortest-bike-route-may-fail-self-improvement-that-works-bike-repair-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Complete 31 Pieces Bike Repair Kit Repair Tool Bicycle Tool Kit with Storage Box"><img src="{{ '/assets/images/marketplace-covers/823a78a77a165743cd0d.jpg' | relative_url }}" alt="Listing image for Complete 31 Pieces Bike Repair Kit Repair Tool Bicycle Tool Kit with Storage Box" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=bike+repair+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=route-backup-why-the-shortest-bike-route-may-fail-self-improvement-that-works-bike-repair-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Complete 31 Pieces Bike Repair Kit Repair Tool Bicycle Tool Kit with Storage Box</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=bike+repair+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=route-backup-why-the-shortest-bike-route-may-fail-self-improvement-that-works-bike-repair-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bike repair kit">Search <span data-ebay-domain-label>eBay.com</span>: bike repair kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=bike+repair+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=route-backup-why-the-shortest-bike-route-may-fail-self-improvement-that-works-bike-repair-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=bike+repair+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=route-backup-why-the-shortest-bike-route-may-fail-self-improvement-that-works-bike-repair-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=bike+repair+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=route-backup-why-the-shortest-bike-route-may-fail-self-improvement-that-works-bike-repair-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Complete 31 Pieces Bike Repair Kit Repair Tool Bicycle Tool Kit with Storage Box"><img src="{{ '/assets/images/marketplace-covers/823a78a77a165743cd0d.jpg' | relative_url }}" alt="Listing image for Complete 31 Pieces Bike Repair Kit Repair Tool Bicycle Tool Kit with Storage Box" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=bike+repair+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=route-backup-why-the-shortest-bike-route-may-fail-self-improvement-that-works-bike-repair-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Complete 31 Pieces Bike Repair Kit Repair Tool Bicycle Tool Kit with Storage Box</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=bike+repair+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=route-backup-why-the-shortest-bike-route-may-fail-self-improvement-that-works-bike-repair-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bike repair kit">Search<span data-ebay-domain-label>eBay.com</span>: bike repair kit</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=bike+repair+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=route-backup-why-the-shortest-bike-route-may-fail-self-improvement-that-works-bike-repair-kit&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=bike+repair+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=route-backup-why-the-shortest-bike-route-may-fail-self-improvement-that-works-bike-repair-kit&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -554,7 +554,7 @@ Creating route backups the night before a commute is therefore not merely a safe
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -574,7 +574,7 @@ Creating route backups the night before a commute is therefore not merely a safe
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -606,7 +606,7 @@ Creating route backups the night before a commute is therefore not merely a safe
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -636,7 +636,7 @@ Creating route backups the night before a commute is therefore not merely a safe
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -694,115 +694,115 @@ Creating route backups the night before a commute is therefore not merely a safe
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0965856425003106" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0965856425003106</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cycling route choice preferences: A taste heterogeneity...by T Lilasathapornkit · 2025 · Cited by 11 — The study highlighte...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0965856425003106" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0965856425003106</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cycling route choice preferences: A taste heterogeneity...by T Lilasathapornkit · 2025 · Cited by 11 — The study highlighte...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: osf.io  
-   Link: <a href="https://osf.io/download/6946e68576605f66b0e077b3/" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/download/6946e68576605f66b0e077b3/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Modelling cycling route choice using a map-based public...by S Tiwari · Cited by 1 — The results show that cyclists strongly prefer r...</p></details>
+   Link:<a href="https://osf.io/download/6946e68576605f66b0e077b3/" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/download/6946e68576605f66b0e077b3/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Modelling cycling route choice using a map-based public...by S Tiwari · Cited by 1 — The results show that cyclists strongly prefer r...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cyclinguk.org  
-   Link: <a href="https://www.cyclinguk.org/article/how-use-cycling-uks-journey-planner" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclinguk.org/article/how-use-cycling-uks-journey-planner</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Note that this last option might involve quite busy main roads, so keep that in mind when making your selection...Read more...</p></details>
+   Link:<a href="https://www.cyclinguk.org/article/how-use-cycling-uks-journey-planner" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclinguk.org/article/how-use-cycling-uks-journey-planner</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Note that this last option might involve quite busy main roads, so keep that in mind when making your selection...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cycle.travel  
    Title: Travelcycle.travel | route-planner and maps  
-   Link: <a href="https://cycle.travel/" target="_blank" rel="noopener noreferrer nofollow">https://cycle.travel/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>route-planner and maps - traffic-free &amp; quiet roadsPlan a bike route on quiet, scenic roads and paths. Free, easy-to-use cycle route pl...</p></details>
+   Link:<a href="https://cycle.travel/" target="_blank" rel="noopener noreferrer nofollow">https://cycle.travel/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>route-planner and maps - traffic-free &amp; quiet roadsPlan a bike route on quiet, scenic roads and paths. Free, easy-to-use cycle route pl...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cyclinguk.org  
-   Link: <a href="https://www.cyclinguk.org/journey-planner" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclinguk.org/journey-planner</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Journey plannerJourney planner · Routes · Places · Off-road routing · Cycle route inspiration and advice.Read more...</p></details>
+   Link:<a href="https://www.cyclinguk.org/journey-planner" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclinguk.org/journey-planner</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Journey plannerJourney planner · Routes · Places · Off-road routing · Cycle route inspiration and advice.Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/15568318.2021.1999539" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/15568318.2021.1999539</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineWhat aspects of traffic intensity most influence cycling...by N Grudgings · 2023 · Cited by 13 — The results impl...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/15568318.2021.1999539" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/15568318.2021.1999539</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineWhat aspects of traffic intensity most influence cycling...by N Grudgings · 2023 · Cited by 13 — The results impl...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cyclingweekly.com  
-   Link: <a href="https://www.cyclingweekly.com/news/our-plan-wasnt-to-be-rowdy-or-reckless-we-were-just-taking-up-some-space-the-women-reclaiming-night-rides-reminding-us-all-of-the-safety-issues-female-cyclists-face" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclingweekly.com/news/our-plan-wasnt-to-be-rowdy-or-reckless-we-were-just-taking-up-some-space-the-women-reclaiming-night-rides-reminding-us-all-of-the-safety-issues-female-cyclists-face</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite strong interest in night-time cycling, many women avoid it due to safety concerns, often choosing longer, populated routes over q...</p></details>
+   Link:<a href="https://www.cyclingweekly.com/news/our-plan-wasnt-to-be-rowdy-or-reckless-we-were-just-taking-up-some-space-the-women-reclaiming-night-rides-reminding-us-all-of-the-safety-issues-female-cyclists-face" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclingweekly.com/news/our-plan-wasnt-to-be-rowdy-or-reckless-we-were-just-taking-up-some-space-the-women-reclaiming-night-rides-reminding-us-all-of-the-safety-issues-female-cyclists-face</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Despite strong interest in night-time cycling, many women avoid it due to safety concerns, often choosing longer, populated routes over q...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: londoncyclist.co.uk  
    Title: route planning tips  
-   Link: <a href="https://www.londoncyclist.co.uk/route-planning-tips/" target="_blank" rel="noopener noreferrer nofollow">https://www.londoncyclist.co.uk/route-planning-tips/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>London CyclistRoute Planning tips3 Jun 2016 — The best way to find a new route is to cycle around the roads between your location and des...</p></details>
+   Link:<a href="https://www.londoncyclist.co.uk/route-planning-tips/" target="_blank" rel="noopener noreferrer nofollow">https://www.londoncyclist.co.uk/route-planning-tips/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>London CyclistRoute Planning tips3 Jun 2016 — The best way to find a new route is to cycle around the roads between your location and des...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: activetravelengland.gov.uk  
    Title: Active Travel England Cycle-rail guidance  
-   Link: <a href="https://activetravelengland.gov.uk/sites/default/files/2024-10/Cycle-rail%20guidance%20-%20Cycle-rail%20toolkit%203%20-%20accessible%20version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://activetravelengland.gov.uk/sites/default/files/2024-10/Cycle-rail%20guidance%20-%20Cycle-rail%20toolkit%203%20-%20accessible%20version.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Active Travel EnglandCycle-rail guidanceSeptember 21, 2023 — “Cycling facilities, such as safer bike routes and more bike parking, will m...</p></details>
+   Link:<a href="https://activetravelengland.gov.uk/sites/default/files/2024-10/Cycle-rail%20guidance%20-%20Cycle-rail%20toolkit%203%20-%20accessible%20version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://activetravelengland.gov.uk/sites/default/files/2024-10/Cycle-rail%20guidance%20-%20Cycle-rail%20toolkit%203%20-%20accessible%20version.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Active Travel EnglandCycle-rail guidanceSeptember 21, 2023 — “Cycling facilities, such as safer bike routes and more bike parking, will m...</p></details>
    Published: September 21, 2023  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cyclinguk.org  
-   Link: <a href="https://www.cyclinguk.org/article/beginners-guide-commuting" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclinguk.org/article/beginners-guide-commuting</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A beginners&#x27; guide to … commutingUse trusted online resources. There&#x27;s a lot to think about when starting out: where to lock your bike, h...</p></details>
+   Link:<a href="https://www.cyclinguk.org/article/beginners-guide-commuting" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclinguk.org/article/beginners-guide-commuting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A beginners&#x27; guide to … commutingUse trusted online resources. There&#x27;s a lot to think about when starting out: where to lock your bike, h...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cyclinguk.org  
-   Link: <a href="https://www.cyclinguk.org/article/beginners-guide-road-positioning-cycling" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclinguk.org/article/beginners-guide-road-positioning-cycling</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A beginners&#x27; guide to … road positioning for cyclingStart on quieter streets, get used to looking over your shoulder and signal your inte...</p></details>
+   Link:<a href="https://www.cyclinguk.org/article/beginners-guide-road-positioning-cycling" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclinguk.org/article/beginners-guide-road-positioning-cycling</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A beginners&#x27; guide to … road positioning for cyclingStart on quieter streets, get used to looking over your shoulder and signal your inte...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CyclingUK/posts/what-if-the-daily-commute-could-be-the-best-part-of-your-dayusing-your-cycle-as-/1249421937226711/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CyclingUK/posts/what-if-the-daily-commute-could-be-the-best-part-of-your-dayusing-your-cycle-as-/1249421937226711/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>healthy, and fun. Our...</p></details>
+   Link:<a href="https://www.facebook.com/CyclingUK/posts/what-if-the-daily-commute-could-be-the-best-part-of-your-dayusing-your-cycle-as-/1249421937226711/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CyclingUK/posts/what-if-the-daily-commute-could-be-the-best-part-of-your-dayusing-your-cycle-as-/1249421937226711/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>healthy, and fun. Our...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: bicycleinfrastructuremanuals.com  
-   Link: <a href="https://bicycleinfrastructuremanuals.com/manuals3/NZ-cycle-network-and-route-planning.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bicycleinfrastructuremanuals.com/manuals3/NZ-cycle-network-and-route-planning.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cycle network and route planning guideCycle route planning is the organisation of the most appropriate facilities and treatments into a c...</p></details>
+   Link:<a href="https://bicycleinfrastructuremanuals.com/manuals3/NZ-cycle-network-and-route-planning.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bicycleinfrastructuremanuals.com/manuals3/NZ-cycle-network-and-route-planning.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cycle network and route planning guideCycle route planning is the organisation of the most appropriate facilities and treatments into a c...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: raleigh.co.uk  
-   Link: <a href="https://raleigh.co.uk/en-gb/blogs/news-guides/cycling-to-work-for-beginners" target="_blank" rel="noopener noreferrer nofollow">https://raleigh.co.uk/en-gb/blogs/news-guides/cycling-to-work-for-beginners</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cycling to Work for BeginnersIf you&#x27;re new to the cycling commute or you&#x27;re still a bit unsure whether it&#x27;s feasible for you, we&#x27;ve put t...</p></details>
+   Link:<a href="https://raleigh.co.uk/en-gb/blogs/news-guides/cycling-to-work-for-beginners" target="_blank" rel="noopener noreferrer nofollow">https://raleigh.co.uk/en-gb/blogs/news-guides/cycling-to-work-for-beginners</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cycling to Work for BeginnersIf you&#x27;re new to the cycling commute or you&#x27;re still a bit unsure whether it&#x27;s feasible for you, we&#x27;ve put t...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: britishcycling.org.uk  
-   Link: <a href="https://www.britishcycling.org.uk/commuting/article/Daily-Commuting-Tips" target="_blank" rel="noopener noreferrer nofollow">https://www.britishcycling.org.uk/commuting/article/Daily-Commuting-Tips</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Daily Commuting TipsDaily tips to help you get the most from your commute. Over the next four weeks we will be giving you a new commuting...</p></details>
+   Link:<a href="https://www.britishcycling.org.uk/commuting/article/Daily-Commuting-Tips" target="_blank" rel="noopener noreferrer nofollow">https://www.britishcycling.org.uk/commuting/article/Daily-Commuting-Tips</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Daily Commuting TipsDaily tips to help you get the most from your commute. Over the next four weeks we will be giving you a new commuting...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cyclescheme.co.uk  
-   Link: <a href="https://www.cyclescheme.co.uk/community/how-to/how-to-plan-your-route-to-work" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclescheme.co.uk/community/how-to/how-to-plan-your-route-to-work</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to plan your route to workPlanning your cycling [commute routes](&amp;#123;&amp;#123; &#x27;commute-route/&#x27; | relative_url &amp;#125;&amp;#125;) are easiest to research digitally, but let&#x27;s start with the old school...</p></details>
+   Link:<a href="https://www.cyclescheme.co.uk/community/how-to/how-to-plan-your-route-to-work" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclescheme.co.uk/community/how-to/how-to-plan-your-route-to-work</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to plan your route to workPlanning your cycling [commute routes](&amp;#123;&amp;#123; &#x27;commute-route/&#x27; | relative_url &amp;#125;&amp;#125;) are easiest to research digitally, but let&#x27;s start with the old school...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: networkrailmediacentre.co.uk  
-   Link: <a href="https://www.networkrailmediacentre.co.uk/news/network-rail-and-cycling-uk-launch-partnership-as-a-fifth-of-brits-say-theyre-considering-cycling-for-their-journey-to-work" target="_blank" rel="noopener noreferrer nofollow">https://www.networkrailmediacentre.co.uk/news/network-rail-and-cycling-uk-launch-partnership-as-a-fifth-of-brits-say-theyre-considering-cycling-for-their-journey-to-work</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Network Rail and Cycling UK launch partnership as a fifth...3 Aug 2020 — Together, they will be offering cyclists practical tips on wher...</p></details>
+   Link:<a href="https://www.networkrailmediacentre.co.uk/news/network-rail-and-cycling-uk-launch-partnership-as-a-fifth-of-brits-say-theyre-considering-cycling-for-their-journey-to-work" target="_blank" rel="noopener noreferrer nofollow">https://www.networkrailmediacentre.co.uk/news/network-rail-and-cycling-uk-launch-partnership-as-a-fifth-of-brits-say-theyre-considering-cycling-for-their-journey-to-work</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Network Rail and Cycling UK launch partnership as a fifth...3 Aug 2020 — Together, they will be offering cyclists practical tips on wher...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: epicroadrides.com  
-   Link: <a href="https://epicroadrides.com/cycling-blog/best-cycling-routes-uk-ireland/" target="_blank" rel="noopener noreferrer nofollow">https://epicroadrides.com/cycling-blog/best-cycling-routes-uk-ireland/</a>  
+   Link:<a href="https://epicroadrides.com/cycling-blog/best-cycling-routes-uk-ireland/" target="_blank" rel="noopener noreferrer nofollow">https://epicroadrides.com/cycling-blog/best-cycling-routes-uk-ireland/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: bike-components.de  
-   Link: <a href="https://www.bike-components.de/blog/en/guides/cycling-commute-tips/" target="_blank" rel="noopener noreferrer nofollow">https://www.bike-components.de/blog/en/guides/cycling-commute-tips/</a>  
+   Link:<a href="https://www.bike-components.de/blog/en/guides/cycling-commute-tips/" target="_blank" rel="noopener noreferrer nofollow">https://www.bike-components.de/blog/en/guides/cycling-commute-tips/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: bikeforgood.org.uk  
-   Link: <a href="https://www.bikeforgood.org.uk/blog/planning-cycle-routes/" target="_blank" rel="noopener noreferrer nofollow">https://www.bikeforgood.org.uk/blog/planning-cycle-routes/</a>  
+   Link:<a href="https://www.bikeforgood.org.uk/blog/planning-cycle-routes/" target="_blank" rel="noopener noreferrer nofollow">https://www.bikeforgood.org.uk/blog/planning-cycle-routes/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: content.tfl.gov.uk  
-   Link: <a href="https://content.tfl.gov.uk/smart-commuting-toolkit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://content.tfl.gov.uk/smart-commuting-toolkit.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>commuting toolkitSmart commuting could include avoiding busy public transport routes, introducing policies to allow commuting at quieter...</p></details>
+   Link:<a href="https://content.tfl.gov.uk/smart-commuting-toolkit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://content.tfl.gov.uk/smart-commuting-toolkit.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>commuting toolkitSmart commuting could include avoiding busy public transport routes, introducing policies to allow commuting at quieter...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: usandco.com  
-   Link: <a href="https://usandco.com/london-bike-commuting-tips/" target="_blank" rel="noopener noreferrer nofollow">https://usandco.com/london-bike-commuting-tips/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Take the back roads · 2. Buying cycling equipment · 3. Breathe easy · 4. Store your bike safely · 5. Get your...Read more...</p></details>
+   Link:<a href="https://usandco.com/london-bike-commuting-tips/" target="_blank" rel="noopener noreferrer nofollow">https://usandco.com/london-bike-commuting-tips/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Take the back roads · 2. Buying cycling equipment · 3. Breathe easy · 4. Store your bike safely · 5. Get your...Read more...</p></details>

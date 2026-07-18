@@ -268,7 +268,7 @@ image: /assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_co
 
 ## Introduction
 
-A reward works best when it strengthens the habit you are trying to build rather than distracting from it. In self-improvement, this principle is known as reward congruence: the reward fits the behaviour, reinforces its value, and makes repeating it easier. The safest [rewards]({{ 'rewards/' | relative_url }}) do not feel like payment for suffering. Instead, they make the activity itself more satisfying, meaningful, or visible. Research on habit formation suggests that pleasure and intrinsic value accelerate the growth of habit strength, while [motivation]({{ 'motivation/' | relative_url }}) research warns that rewards can undermine engagement when they feel controlling or disconnected from the activity itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Pleasure and intrinsic motivation can aid habit formation through promoting greater increase in habit strength per behaviour repetition...</span></span></span> PubMed The practical question is not whether to reward yourself <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/30572936/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">study of the impact of perceived reward on...by G Judah · 2018 · Cited by 94 — Pleasure and intrinsic motivation can aid habit formation...</span></span></span>, but what kind of reward teaches your brain to want more of the behaviour rather than more of the reward.
+A reward works best when it strengthens the habit you are trying to build rather than distracting from it. In self-improvement, this principle is known as reward congruence: the reward fits the behaviour, reinforces its value, and makes repeating it easier. The safest [rewards]({{ 'rewards/' | relative_url }}) do not feel like payment for suffering. Instead, they make the activity itself more satisfying, meaningful, or visible. Research on habit formation suggests that pleasure and intrinsic value accelerate the growth of habit strength, while [motivation]({{ 'motivation/' | relative_url }}) research warns that rewards can undermine engagement when they feel controlling or disconnected from the activity itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Pleasure and intrinsic motivation can aid habit formation through promoting greater increase in habit strength per behaviour repetition...</span></span></span> PubMed The practical question is not whether to reward yourself<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/30572936/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">study of the impact of perceived reward on...by G Judah · 2018 · Cited by 94 — Pleasure and intrinsic motivation can aid habit formation...</span></span></span>, but what kind of reward teaches your brain to want more of the behaviour rather than more of the reward.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_congruent_rewards_3d14e2-Illustration-1-dark.svg" | relative_url }}" alt="Congruent Rewards illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_congruent_rewards_3d14e2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_congruent_rewards_3d14e2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Makes a Reward Congruent?
@@ -279,15 +279,15 @@ Three characteristics usually distinguish a congruent reward:
 
 * **It stays close to the behaviour.** The reward emerges from the activity or immediately supports it.
 * **It reinforces competence.** The reward helps you notice improvement, completion, or skill development.
-* **It supports autonomy.** It feels like encouragement rather than control or coercion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.self.inc/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: self.inc">[self]</a><span class="citation-popover" role="note"><span class="citation-popover-source">self.inc</span><span class="citation-popover-snippet">Build Credit, Build Savings and Access CashBuild credit and savings with Self. The Credit Builder Account and Self Visa® Credit Ca...</span></span></span> Determination Theory <span class="citation-chip-wrap"><a class="citation-chip" href="https://positivepsychology.com/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: positivepsychology.com">[Self Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">positivepsychology.com</span><span class="citation-popover-snippet">and How It Explains MotivationJun 21, 2018 — Even when pursuing extrinsic rewards like wealth or fame, we are more satisfied and self-act...</span></span></span>
+* **It supports autonomy.** It feels like encouragement rather than control or coercion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.self.inc/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: self.inc">[self]</a><span class="citation-popover" role="note"><span class="citation-popover-source">self.inc</span><span class="citation-popover-snippet">Build Credit, Build Savings and Access CashBuild credit and savings with Self. The Credit Builder Account and Self Visa® Credit Ca...</span></span></span> Determination Theory<span class="citation-chip-wrap"><a class="citation-chip" href="https://positivepsychology.com/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: positivepsychology.com">[Self Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">positivepsychology.com</span><span class="citation-popover-snippet">and How It Explains MotivationJun 21, 2018 — Even when pursuing extrinsic rewards like wealth or fame, we are more satisfied and self-act...</span></span></span>
 
 Consider two runners. One promises themselves a large dessert after every run. The other tracks distance, enjoys a favourite running route, and finishes with a satisfying recovery routine. Both receive a reward, but only the second reward strengthens the experience of being a runner. The first reward may eventually become the main attraction.
 
-This distinction aligns with findings from Self-Determination Theory, which suggests that motivation is more durable when people experience autonomy, competence, and personal ownership rather than feeling controlled by external incentives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.self.inc/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: self.inc">[self]</a><span class="citation-popover" role="note"><span class="citation-popover-source">self.inc</span><span class="citation-popover-snippet">Build Credit, Build Savings and Access CashBuild credit and savings with Self. The Credit Builder Account and Self Visa® Credit Ca...</span></span></span>
+This distinction aligns with findings from Self-Determination Theory, which suggests that motivation is more durable when people experience autonomy, competence, and personal ownership rather than feeling controlled by external incentives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.self.inc/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: self.inc">[self]</a><span class="citation-popover" role="note"><span class="citation-popover-source">self.inc</span><span class="citation-popover-snippet">Build Credit, Build Savings and Access CashBuild credit and savings with Self. The Credit Builder Account and Self Visa® Credit Ca...</span></span></span>
 
 ## Why Congruent Rewards Help Habits Become Automatic
 
-Habit formation depends on repetition, but repetition alone is not the whole story. Research examining habit development found that pleasure and intrinsic motivation increase the growth of habit strength for each repetition. In other words, two people may perform the same behaviour equally often, yet the one who experiences it as more rewarding tends to develop a stronger habit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Pleasure and intrinsic motivation can aid habit formation through promoting greater increase in habit strength per behaviour repetition...</span></span></span>
+Habit formation depends on repetition, but repetition alone is not the whole story. Research examining habit development found that pleasure and intrinsic motivation increase the growth of habit strength for each repetition. In other words, two people may perform the same behaviour equally often, yet the one who experiences it as more rewarding tends to develop a stronger habit.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Pleasure and intrinsic motivation can aid habit formation through promoting greater increase in habit strength per behaviour repetition...</span></span></span>
 
 This matters because habits are not simply repeated actions. They are learned associations between a context and a behaviour. When the behaviour consistently ends with a satisfying, relevant experience, the brain has more reason to repeat the entire sequence.
 
@@ -301,7 +301,7 @@ A congruent reward therefore strengthens multiple links at once:
 
 </div>
 
-Over time, the activity begins to carry some of its own reward value. This is one reason many long-term exercisers, readers, musicians, and skilled professionals continue even when no external prize is available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Pleasure and intrinsic motivation can aid habit formation through promoting greater increase in habit strength per behaviour repetition...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Pleasure and intrinsic motivation can aid habit formation through promoting greater increase in habit strength per behaviour repetition...</span></span></span>
+Over time, the activity begins to carry some of its own reward value. This is one reason many long-term exercisers, readers, musicians, and skilled professionals continue even when no external prize is available.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Pleasure and intrinsic motivation can aid habit formation through promoting greater increase in habit strength per behaviour repetition...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Pleasure and intrinsic motivation can aid habit formation through promoting greater increase in habit strength per behaviour repetition...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yhLHfPZEKgU" title="360 ‒ How to change your habits: why they form and how to build or break them" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yhLHfPZEKgU" target="_blank" rel="noopener noreferrer">360 ‒ How to change your habits: why they form and how to build or break them</a></p><p class="youtube-embed-meta">Channel: Peter Attia MD &middot; Views: 85.5K &middot; Uploaded: August 2025 &middot; Length: 2 hours 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yhLHfPZEKgU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yhLHfPZEKgU">Open on YouTube</a></p></div></div></div>
 
@@ -368,13 +368,13 @@ Examples include:
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Playing a favourite piece after technical practice.
-* Recording progress over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.walshmedicalmedia.com/open-access/the-temporality-of-rewards-analysis-of-the-impacts-of-positive-and-negative-habits-130929.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walshmedicalmedia.com">[walshmedicalmedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walshmedicalmedia.com</span><span class="citation-popover-snippet">Analysis of the Impacts of Positive and Negative HabitsThis study explores the relationship between positive and negative habits and thei...</span></span></span>
+* Recording progress over time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.walshmedicalmedia.com/open-access/the-temporality-of-rewards-analysis-of-the-impacts-of-positive-and-negative-habits-130929.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walshmedicalmedia.com">[walshmedicalmedia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walshmedicalmedia.com</span><span class="citation-popover-snippet">Analysis of the Impacts of Positive and Negative HabitsThis study explores the relationship between positive and negative habits and thei...</span></span></span>
 * Sharing a completed performance with supportive peers.
 * Revisiting a skill that once felt difficult and noticing improvement.
 
 </div>
 
-These rewards strengthen competence, one of the strongest drivers of sustained motivation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.self.inc/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: self.inc">[self]</a><span class="citation-popover" role="note"><span class="citation-popover-source">self.inc</span><span class="citation-popover-snippet">Build Credit, Build Savings and Access CashBuild credit and savings with Self. The Credit Builder Account and Self Visa® Credit Ca...</span></span></span>
+These rewards strengthen competence, one of the strongest drivers of sustained motivation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.self.inc/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: self.inc">[self]</a><span class="citation-popover" role="note"><span class="citation-popover-source">self.inc</span><span class="citation-popover-snippet">Build Credit, Build Savings and Access CashBuild credit and savings with Self. The Credit Builder Account and Self Visa® Credit Ca...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Z2pmq88IGfo" title="The Science of Habit Formation: Cue, Craving, Response &amp; Reward" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Z2pmq88IGfo" target="_blank" rel="noopener noreferrer">The Science of Habit Formation: Cue, Craving, Response &amp; Reward</a></p><p class="youtube-embed-meta">Channel: Fran Palokaj &middot; Views: 807 &middot; Uploaded: April 2024 &middot; Length: 2 minutes 38 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Z2pmq88IGfo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Z2pmq88IGfo">Open on YouTube</a></p></div></div></div>
 
@@ -392,7 +392,7 @@ Similarly:
 
 When the reward is dramatically more attractive than the habit, the habit may start to feel like an entrance fee.
 
-Research on motivation repeatedly finds that rewards are most problematic when they are experienced as controlling or when they replace existing interest in the activity. The issue is not the presence of rewards but the relationship between the reward and the behaviour being rewarded. <span class="citation-chip-wrap"><a class="citation-chip" href="https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yukaichou.com">[Yu-kai Chou]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yukaichou.com</span><span class="citation-popover-snippet">Yu-kai ChouSelf-Determination Theory: Deci &amp; Ryan&#x27;s 6 Mini-Theories6 May 2026 — CET addresses how external events (rewards, feedback, dea...</span><span class="citation-popover-meta">Published: May 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://positivepsychology.com/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: positivepsychology.com">[Self Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">positivepsychology.com</span><span class="citation-popover-snippet">and How It Explains MotivationJun 21, 2018 — Even when pursuing extrinsic rewards like wealth or fame, we are more satisfied and self-act...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://positivepsychology.com/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: positivepsychology.com">[Self Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">positivepsychology.com</span><span class="citation-popover-snippet">and How It Explains MotivationJun 21, 2018 — Even when pursuing extrinsic rewards like wealth or fame, we are more satisfied and self-act...</span></span></span>
+Research on motivation repeatedly finds that rewards are most problematic when they are experienced as controlling or when they replace existing interest in the activity. The issue is not the presence of rewards but the relationship between the reward and the behaviour being rewarded.<span class="citation-chip-wrap"><a class="citation-chip" href="https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yukaichou.com">[Yu-kai Chou]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yukaichou.com</span><span class="citation-popover-snippet">Yu-kai ChouSelf-Determination Theory: Deci &amp; Ryan&#x27;s 6 Mini-Theories6 May 2026 — CET addresses how external events (rewards, feedback, dea...</span><span class="citation-popover-meta">Published: May 2026</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://positivepsychology.com/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: positivepsychology.com">[Self Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">positivepsychology.com</span><span class="citation-popover-snippet">and How It Explains MotivationJun 21, 2018 — Even when pursuing extrinsic rewards like wealth or fame, we are more satisfied and self-act...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://positivepsychology.com/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: positivepsychology.com">[Self Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">positivepsychology.com</span><span class="citation-popover-snippet">and How It Explains MotivationJun 21, 2018 — Even when pursuing extrinsic rewards like wealth or fame, we are more satisfied and self-act...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_congruent_rewards_3d14e2-Illustration-3-dark.svg" | relative_url }}" alt="Congruent Rewards illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_congruent_rewards_3d14e2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_congruent_rewards_3d14e2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Simple Test for Reward Design
@@ -418,197 +418,197 @@ Many rewards lose effectiveness because they require constant escalation. A smal
 
 A runner can continue enjoying improved fitness, better routes, and personal records. A writer can continue enjoying completed drafts and growing skill. A musician can continue enjoying greater fluency and expressive freedom.
 
-These rewards scale naturally because they emerge from the habit itself. Instead of teaching, “Do this to get something else,” they teach, “Doing this is becoming rewarding.” That lesson is far more likely to survive long enough for a behaviour to become part of everyday life. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Pleasure and intrinsic motivation can aid habit formation through promoting greater increase in habit strength per behaviour repetition...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/30572936/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">study of the impact of perceived reward on...by G Judah · 2018 · Cited by 94 — Pleasure and intrinsic motivation can aid habit formation...</span></span></span>
+These rewards scale naturally because they emerge from the habit itself. Instead of teaching, “Do this to get something else,” they teach, “Doing this is becoming rewarding.” That lesson is far more likely to survive long enough for a behaviour to become part of everyday life.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Pleasure and intrinsic motivation can aid habit formation through promoting greater increase in habit strength per behaviour repetition...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/30572936/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">study of the impact of perceived reward on...by G Judah · 2018 · Cited by 94 — Pleasure and intrinsic motivation can aid habit formation...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Reward Should Fit the Habit. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Reward Should Fit the Habit. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Explains habit loops, identity-based habits, and rewards that reinforce desired behaviour.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Explains habit loops, identity-based habits, and rewards that reinforce desired behaviour.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rrlPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Power of Habit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
-        </h4>
-        <p class="fr-book-author">By Charles Duhigg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rrlPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Power of Habit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
+</h4>
+<p class="fr-book-author">By Charles Duhigg</p>
         
-        <p class="fr-book-desc">Covers cue-routine-reward loops and how rewards strengthen habits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers cue-routine-reward loops and how rewards strengthen habits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
-        </h4>
-        <p class="fr-book-author">By B. J. Fogg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
+</h4>
+<p class="fr-book-author">By B. J. Fogg</p>
         
-        <p class="fr-book-desc">Emphasises positive feelings and immediate reinforcement after behaviours.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasises positive feelings and immediate reinforcement after behaviours.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Drive+by+Daniel+H.+Pink&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=pYc-DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Drive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Drive+by+Daniel+H.+Pink&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drive">Drive</a>
-        </h4>
-        <p class="fr-book-author">By Daniel H. Pink</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Drive+by+Daniel+H.+Pink&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=pYc-DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Drive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Drive+by+Daniel+H.+Pink&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drive">Drive</a>
+</h4>
+<p class="fr-book-author">By Daniel H. Pink</p>
         
-        <p class="fr-book-desc">Explores intrinsic motivation and why some rewards support rather than undermine engagement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Drive+by+Daniel+H.+Pink&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores intrinsic motivation and why some rewards support rather than undermine engagement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Drive+by+Daniel+H.+Pink&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Power+of+Habit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Power of Habit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Power+of+Habit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Power of Habit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A5 Leather Habit Tracker Journal Refillable Undated Notebook - Brown"><img src="https://i.ebayimg.com/images/g/ovgAAeSw~J5of48n/s-l225.jpg" alt="Listing image for A5 Leather Habit Tracker Journal Refillable Undated Notebook - Brown" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">A5 Leather Habit Tracker Journal Refillable Undated Notebook - Brown</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A5 Leather Habit Tracker Journal Refillable Undated Notebook - Brown"><img src="https://i.ebayimg.com/images/g/ovgAAeSw~J5of48n/s-l225.jpg" alt="Listing image for A5 Leather Habit Tracker Journal Refillable Undated Notebook - Brown" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">A5 Leather Habit Tracker Journal Refillable Undated Notebook - Brown</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A5 Leather Habit Tracker Journal Refillable Undated Notebook - Raven"><img src="https://i.ebayimg.com/images/g/2VQAAeSw7PJof5NW/s-l225.jpg" alt="Listing image for A5 Leather Habit Tracker Journal Refillable Undated Notebook - Raven" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">A5 Leather Habit Tracker Journal Refillable Undated Notebook - Raven</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A5 Leather Habit Tracker Journal Refillable Undated Notebook - Raven"><img src="https://i.ebayimg.com/images/g/2VQAAeSw7PJof5NW/s-l225.jpg" alt="Listing image for A5 Leather Habit Tracker Journal Refillable Undated Notebook - Raven" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">A5 Leather Habit Tracker Journal Refillable Undated Notebook - Raven</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Yearly Habit Tracker 10 Pack - A5 Inserts for Binder / Journal / Diary"><img src="https://i.ebayimg.com/images/g/-agAAeSw5bBqDMPx/s-l225.jpg" alt="Listing image for Yearly Habit Tracker 10 Pack - A5 Inserts for Binder / Journal / Diary" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">Yearly Habit Tracker 10 Pack - A5 Inserts for Binder / Journal / Diary</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Yearly Habit Tracker 10 Pack - A5 Inserts for Binder / Journal / Diary"><img src="https://i.ebayimg.com/images/g/-agAAeSw5bBqDMPx/s-l225.jpg" alt="Listing image for Yearly Habit Tracker 10 Pack - A5 Inserts for Binder / Journal / Diary" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">Yearly Habit Tracker 10 Pack - A5 Inserts for Binder / Journal / Diary</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HABIT TRACKER BY BRIGHT DAY FITNESS JOURNAL PLANNER AND ACTIVITY RECORDER"><img src="https://i.ebayimg.com/images/g/BykAAOSwuTBlEtyP/s-l225.jpg" alt="Listing image for HABIT TRACKER BY BRIGHT DAY FITNESS JOURNAL PLANNER AND ACTIVITY RECORDER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">HABIT TRACKER BY BRIGHT DAY FITNESS JOURNAL PLANNER AND ACTIVITY RECORDER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HABIT TRACKER BY BRIGHT DAY FITNESS JOURNAL PLANNER AND ACTIVITY RECORDER"><img src="https://i.ebayimg.com/images/g/BykAAOSwuTBlEtyP/s-l225.jpg" alt="Listing image for HABIT TRACKER BY BRIGHT DAY FITNESS JOURNAL PLANNER AND ACTIVITY RECORDER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">HABIT TRACKER BY BRIGHT DAY FITNESS JOURNAL PLANNER AND ACTIVITY RECORDER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-reward-should-fit-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="the-reward-should-fit-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -624,7 +624,7 @@ These rewards scale naturally because they emerge from the habit itself. Instead
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -644,7 +644,7 @@ These rewards scale naturally because they emerge from the habit itself. Instead
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -676,7 +676,7 @@ These rewards scale naturally because they emerge from the habit itself. Instead
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -728,7 +728,7 @@ These rewards scale naturally because they emerge from the habit itself. Instead
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -773,7 +773,7 @@ These rewards scale naturally because they emerge from the habit itself. Instead
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -814,179 +814,179 @@ These rewards scale naturally because they emerge from the habit itself. Instead
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pleasure and intrinsic motivation can aid habit formation through promoting greater increase in habit strength per behaviour repetition...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pleasure and intrinsic motivation can aid habit formation through promoting greater increase in habit strength per behaviour repetition...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/30572936/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/30572936/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>study of the impact of perceived reward on...by G Judah · 2018 · Cited by 94 — Pleasure and intrinsic motivation can aid habit formation...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/30572936/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/30572936/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>study of the impact of perceived reward on...by G Judah · 2018 · Cited by 94 — Pleasure and intrinsic motivation can aid habit formation...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: selfdeterminationtheory.org  
    Title: 2000 RyanDeci SDT  
-   Link: <a href="https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self Determination TheorySelf-Determination Theory and the Facilitation of Intrinsic...by RM Ryan · 2000 · Cited by 88470 — SDT is an ap...</p></details>
+   Link:<a href="https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self Determination TheorySelf-Determination Theory and the Facilitation of Intrinsic...by RM Ryan · 2000 · Cited by 88470 — SDT is an ap...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: selfdeterminationtheory.org  
    Title: 1987 DeciRyan JPSP  
-   Link: <a href="https://selfdeterminationtheory.org/SDT/documents/1987_DeciRyan_JPSP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/SDT/documents/1987_DeciRyan_JPSP.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The [Support](&amp;#123;&amp;#123; &#x27;support/&#x27; | relative_url &amp;#125;&amp;#125;) of Autonomy and the Control of Behaviorby EL Deci · 1987 · Cited by 6705 — These events tend to limit self-determination and...</p></details>
+   Link:<a href="https://selfdeterminationtheory.org/SDT/documents/1987_DeciRyan_JPSP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/SDT/documents/1987_DeciRyan_JPSP.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The [Support](&amp;#123;&amp;#123; &#x27;support/&#x27; | relative_url &amp;#125;&amp;#125;) of Autonomy and the Control of Behaviorby EL Deci · 1987 · Cited by 6705 — These events tend to limit self-determination and...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: simplypsychology.org  
    Title: self determination theory  
-   Link: <a href="https://www.simplypsychology.org/self-determination-theory.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/self-determination-theory.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory Of Motivation1 Apr 2026 — Environments that offer genuine choice, self-direction, and non-controlling feedback...</p></details>
+   Link:<a href="https://www.simplypsychology.org/self-determination-theory.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/self-determination-theory.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory Of Motivation1 Apr 2026 — Environments that offer genuine choice, self-direction, and non-controlling feedback...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4346087/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4346087/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by MS Hagger · 2014 · Cited by 374 — Self-determination theory suggests that fostering autonomous forms of motivation for behaviors th...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4346087/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4346087/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by MS Hagger · 2014 · Cited by 374 — Self-determination theory suggests that fostering autonomous forms of motivation for behaviors th...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9372943/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9372943/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralEffects of behavioral performance, intrinsic reward value, and...by M Kilb · 2022 · Cited by 20 — We found that behavioral...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9372943/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9372943/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralEffects of behavioral performance, intrinsic reward value, and...by M Kilb · 2022 · Cited by 20 — We found that behavioral...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central The Emerging Neuroscience of Intrinsic Motivation  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5364176/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5364176/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralThe Emerging Neuroscience of Intrinsic Motivation - PMC - NIHby SI Di Domenico · 2017 · Cited by 890 — Intrinsic motivation...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5364176/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5364176/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralThe Emerging Neuroscience of Intrinsic Motivation - PMC - NIHby SI Di Domenico · 2017 · Cited by 890 — Intrinsic motivation...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: yukaichou.com  
-   Link: <a href="https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/" target="_blank" rel="noopener noreferrer nofollow">https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Yu-kai ChouSelf-Determination Theory: Deci &amp; Ryan&#x27;s 6 Mini-Theories6 May 2026 — CET addresses how external events (rewards, feedback, dea...</p></details>
+   Link:<a href="https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/" target="_blank" rel="noopener noreferrer nofollow">https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Yu-kai ChouSelf-Determination Theory: Deci &amp; Ryan&#x27;s 6 Mini-Theories6 May 2026 — CET addresses how external events (rewards, feedback, dea...</p></details>
    Published: May 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sciencedirect.com  
    Title: Self-Determination Theory  
-   Link: <a href="https://www.sciencedirect.com/topics/social-sciences/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/social-sciences/self-determination-theory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>an overviewSelf-determination theory is defined as a framework that explores the relationship between personality, human motivation, and...</p></details>
+   Link:<a href="https://www.sciencedirect.com/topics/social-sciences/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/social-sciences/self-determination-theory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>an overviewSelf-determination theory is defined as a framework that explores the relationship between personality, human motivation, and...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: selfdeterminationtheory.org  
    Title: 2003 Gagne The Role of [Autonomy Support](&#123;&#123; 'autonomy-support/' | relative_url &#125;&#125;)  
-   Link: <a href="https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2003_Gagne_The_Role_of_Autonomy_Support.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2003_Gagne_The_Role_of_Autonomy_Support.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of Autonomy Support and...by M Gagné · 2003 · Cited by 2754 — Self-determination theory (Deci &amp; Ryan, 1985a, 1991, 2000) propos...</p></details>
+   Link:<a href="https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2003_Gagne_The_Role_of_Autonomy_Support.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2003_Gagne_The_Role_of_Autonomy_Support.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of Autonomy Support and...by M Gagné · 2003 · Cited by 2754 — Self-determination theory (Deci &amp; Ryan, 1985a, 1991, 2000) propos...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: self.inc  
-   Link: <a href="https://www.self.inc/" target="_blank" rel="noopener noreferrer nofollow">https://www.self.inc/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Build Credit, Build Savings and Access CashBuild credit and savings with Self. The Credit Builder Account and Self Visa® Credit Ca...</p></details>
+   Link:<a href="https://www.self.inc/" target="_blank" rel="noopener noreferrer nofollow">https://www.self.inc/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Build Credit, Build Savings and Access CashBuild credit and savings with Self. The Credit Builder Account and Self Visa® Credit Ca...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: open.ncl.ac.uk  
    Title: self determination theory  
-   Link: <a href="https://open.ncl.ac.uk/theories/20/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://open.ncl.ac.uk/theories/20/self-determination-theory/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ncl.ac.ukSelf-Determination Theory: A review14 Mar 2026 — Self-Determination Theory aims to understand the interplay between personality...</p></details>
+   Link:<a href="https://open.ncl.ac.uk/theories/20/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://open.ncl.ac.uk/theories/20/self-determination-theory/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ncl.ac.ukSelf-Determination Theory: A review14 Mar 2026 — Self-Determination Theory aims to understand the interplay between personality...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Self determination theory  
-   Link: <a href="https://en.wikipedia.org/wiki/Self-determination_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Self-determination_theory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-determination theoryInitially intrinsically motivated behavior becomes controlled by external rewards, which undermines their aut...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Self-determination_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Self-determination_theory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-determination theoryInitially intrinsically motivated behavior becomes controlled by external rewards, which undermines their aut...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: studocu.vn  
-   Link: <a href="https://www.studocu.vn/vn/document/truong-dai-hoc-bach-khoa-ha-noi/english/101016-jcedpsych-sgdgfdg/109651630" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.vn/vn/document/truong-dai-hoc-bach-khoa-ha-noi/english/101016-jcedpsych-sgdgfdg/109651630</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>l- internalized (and thus autonomous) forms of extrinsic motivation predict an array...Read more...</p></details>
+   Link:<a href="https://www.studocu.vn/vn/document/truong-dai-hoc-bach-khoa-ha-noi/english/101016-jcedpsych-sgdgfdg/109651630" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.vn/vn/document/truong-dai-hoc-bach-khoa-ha-noi/english/101016-jcedpsych-sgdgfdg/109651630</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>l- internalized (and thus autonomous) forms of extrinsic motivation predict an array...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=_juPDoa3GBY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_juPDoa3GBY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory ExplainedSelf-determination Theory argues that we do what we do because we are motivated by three basic needs t...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_juPDoa3GBY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_juPDoa3GBY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory ExplainedSelf-determination Theory argues that we do what we do because we are motivated by three basic needs t...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: apa.org  
    Title: intrinsic motivation  
-   Link: <a href="https://www.apa.org/members/content/intrinsic-motivation" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/members/content/intrinsic-motivation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The intrinsic motivation of Richard Ryan and Edward Deci18 Dec 2017 — Deci and Ryan developed the Self-Determination Theory of motivation...</p></details>
+   Link:<a href="https://www.apa.org/members/content/intrinsic-motivation" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/members/content/intrinsic-motivation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The intrinsic motivation of Richard Ryan and Edward Deci18 Dec 2017 — Deci and Ryan developed the Self-Determination Theory of motivation...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: suebehaviouraldesign.com  
    Title: self determination theory explained  
-   Link: <a href="https://www.suebehaviouraldesign.com/en/blog/self-determination-theory-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.suebehaviouraldesign.com/en/blog/self-determination-theory-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory: 3 needs that drive intrinsic...1 Mar 2026 — Self-Determination Theory (SDT): autonomy, competence and related...</p></details>
+   Link:<a href="https://www.suebehaviouraldesign.com/en/blog/self-determination-theory-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.suebehaviouraldesign.com/en/blog/self-determination-theory-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory: 3 needs that drive intrinsic...1 Mar 2026 — Self-Determination Theory (SDT): autonomy, competence and related...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: bcltraining.com  
-   Link: <a href="https://bcltraining.com/learning-library/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://bcltraining.com/learning-library/self-determination-theory/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory | BCL Learning LibrarySelf-Determination Theory explains how autonomy, competence, and relatedness drive motiva...</p></details>
+   Link:<a href="https://bcltraining.com/learning-library/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://bcltraining.com/learning-library/self-determination-theory/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory | BCL Learning LibrarySelf-Determination Theory explains how autonomy, competence, and relatedness drive motiva...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: positivepsychology.com  
    Title: self determination theory  
-   Link: <a href="https://positivepsychology.com/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://positivepsychology.com/self-determination-theory/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and How It Explains MotivationJun 21, 2018 — Even when pursuing extrinsic rewards like wealth or fame, we are more satisfied and self-act...</p></details>
+   Link:<a href="https://positivepsychology.com/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://positivepsychology.com/self-determination-theory/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and How It Explains MotivationJun 21, 2018 — Even when pursuing extrinsic rewards like wealth or fame, we are more satisfied and self-act...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: How to change your habits: why they form and how to build or break them  
-   Link: <a href="https://www.youtube.com/watch?v=yhLHfPZEKgU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yhLHfPZEKgU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory Explained...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=yhLHfPZEKgU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yhLHfPZEKgU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory Explained...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Self-Determination Theory Explained  
-   Link: <a href="https://www.youtube.com/watch?v=ZpAwJKq8TOc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZpAwJKq8TOc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Identity-based Habits | James Clear...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZpAwJKq8TOc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZpAwJKq8TOc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Identity-based Habits | James Clear...</p></details>
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/317690916_Self-Determination_Theory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/317690916_Self-Determination_Theory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Self-Determination TheoryPDF | Self-determination theory (SDT) is a broad theory of human personality and motivation concerned with...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/317690916_Self-Determination_Theory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/317690916_Self-Determination_Theory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Self-Determination TheoryPDF | Self-determination theory (SDT) is a broad theory of human personality and motivation concerned with...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/227619111_Self-Determination_Theory_and_Work_Motivation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227619111_Self-Determination_Theory_and_Work_Motivation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Self-Determination Theory and Work MotivationThis article describes self-determination theory as a theory of work motivation and sh...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/227619111_Self-Determination_Theory_and_Work_Motivation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227619111_Self-Determination_Theory_and_Work_Motivation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Self-Determination Theory and Work MotivationThis article describes self-determination theory as a theory of work motivation and sh...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Time to Form a Habit: A Systematic Review and...4 Dec 2024 — While habits can start forming within about two months, the time requ...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Time to Form a Habit: A Systematic Review and...4 Dec 2024 — While habits can start forming within about two months, the time requ...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/6235705_Habit_Formation_and_Multiple_Means_to_Goal_Attainment_Repeated_Retrieval_of_Target_Means_Causes_Inhibited_Access_to_Competitors" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/6235705_Habit_Formation_and_Multiple_Means_to_Goal_Attainment_Repeated_Retrieval_of_Target_Means_Causes_Inhibited_Access_to_Competitors</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Three studies examined the cognitive processes underlying the formation of goal-directed habits in a multiple means context. Repeated...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/6235705_Habit_Formation_and_Multiple_Means_to_Goal_Attainment_Repeated_Retrieval_of_Target_Means_Causes_Inhibited_Access_to_Competitors" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/6235705_Habit_Formation_and_Multiple_Means_to_Goal_Attainment_Repeated_Retrieval_of_Target_Means_Causes_Inhibited_Access_to_Competitors</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Three studies examined the cognitive processes underlying the formation of goal-directed habits in a multiple means context. Repeated...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: walshmedicalmedia.com  
-   Link: <a href="https://www.walshmedicalmedia.com/open-access/the-temporality-of-rewards-analysis-of-the-impacts-of-positive-and-negative-habits-130929.html" target="_blank" rel="noopener noreferrer nofollow">https://www.walshmedicalmedia.com/open-access/the-temporality-of-rewards-analysis-of-the-impacts-of-positive-and-negative-habits-130929.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of the Impacts of Positive and Negative HabitsThis study explores the relationship between positive and negative habits and thei...</p></details>
+   Link:<a href="https://www.walshmedicalmedia.com/open-access/the-temporality-of-rewards-analysis-of-the-impacts-of-positive-and-negative-habits-130929.html" target="_blank" rel="noopener noreferrer nofollow">https://www.walshmedicalmedia.com/open-access/the-temporality-of-rewards-analysis-of-the-impacts-of-positive-and-negative-habits-130929.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of the Impacts of Positive and Negative HabitsThis study explores the relationship between positive and negative habits and thei...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/forming-habit-repetition-reward-context-wendy-wood" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/forming-habit-repetition-reward-context-wendy-wood</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forming A Habit: Repetition, Reward, &amp; ContextJust give it repetition, rewards, and contexts. These are key to change unwanted habits and...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/forming-habit-repetition-reward-context-wendy-wood" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/forming-habit-repetition-reward-context-wendy-wood</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forming A Habit: Repetition, Reward, &amp; ContextJust give it repetition, rewards, and contexts. These are key to change unwanted habits and...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: therapyroute.com  
-   Link: <a href="https://www.therapyroute.com/article/habit-formation-by-therapyroute" target="_blank" rel="noopener noreferrer nofollow">https://www.therapyroute.com/article/habit-formation-by-therapyroute</a>  
+   Link:<a href="https://www.therapyroute.com/article/habit-formation-by-therapyroute" target="_blank" rel="noopener noreferrer nofollow">https://www.therapyroute.com/article/habit-formation-by-therapyroute</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: superbly.education  
-   Link: <a href="https://superbly.education/understanding-the-impact-of-rewards-on-habit-formation-in-classroom-behaviour/" target="_blank" rel="noopener noreferrer nofollow">https://superbly.education/understanding-the-impact-of-rewards-on-habit-formation-in-classroom-behaviour/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>accelerate the formation of habits through repeated behavioural performance.Read more...</p></details>
+   Link:<a href="https://superbly.education/understanding-the-impact-of-rewards-on-habit-formation-in-classroom-behaviour/" target="_blank" rel="noopener noreferrer nofollow">https://superbly.education/understanding-the-impact-of-rewards-on-habit-formation-in-classroom-behaviour/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>accelerate the formation of habits through repeated behavioural performance.Read more...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: dornsife.usc.edu  
    Title: Neal.Wood.Quinn.2006 Habits a repeat performance  
-   Link: <a href="https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Neal.Wood_.Quinn_.2006_Habits_a_repeat_performance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Neal.Wood_.Quinn_.2006_Habits_a_repeat_performance.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>usc.eduHabits—A Repeat Performanceby DT Neal · Cited by 957 — The cognitive revolution radically re- shaped the behaviorist view that hab...</p></details>
+   Link:<a href="https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Neal.Wood_.Quinn_.2006_Habits_a_repeat_performance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Neal.Wood_.Quinn_.2006_Habits_a_repeat_performance.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>usc.eduHabits—A Repeat Performanceby DT Neal · Cited by 957 — The cognitive revolution radically re- shaped the behaviorist view that hab...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: discovery.ucl.ac.uk  
    Title: Gardner & Lally Accepted SDT and PA habit paper  
-   Link: <a href="https://discovery.ucl.ac.uk/1349432/1/Gardner%20%26%20Lally%20-%20Accepted%20SDT%20and%20PA%20habit%20paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/1349432/1/Gardner%20%26%20Lally%20-%20Accepted%20SDT%20and%20PA%20habit%20paper.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Intrinsic Motivation Strengthen Physical Activity Habit...1 Within Self-Determination Theory, the term &#x27;regulation&#x27; refers to regulation...</p></details>
+   Link:<a href="https://discovery.ucl.ac.uk/1349432/1/Gardner%20%26%20Lally%20-%20Accepted%20SDT%20and%20PA%20habit%20paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/1349432/1/Gardner%20%26%20Lally%20-%20Accepted%20SDT%20and%20PA%20habit%20paper.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Intrinsic Motivation Strengthen Physical Activity Habit...1 Within Self-Determination Theory, the term &#x27;regulation&#x27; refers to regulation...</p></details>

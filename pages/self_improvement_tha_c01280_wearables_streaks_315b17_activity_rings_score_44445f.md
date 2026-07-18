@@ -268,7 +268,7 @@ image: /assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_activ
 
 ## Introduction
 
-Activity rings are one of the most effective examples of visible [feedback]({{ 'feedback/' | relative_url }}) in self-improvement. A ring that fills as you move, exercise or stand turns an abstract health goal into something concrete and immediate. Instead of waiting weeks to notice improved fitness, you receive feedback throughout the day. That simplicity is a major reason activity rings have become one of the most popular features of modern [wearables]({{ 'wearables/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.apple.com/uk/watch/close-your-rings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apple.com">[Apple]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apple.com</span><span class="citation-popover-snippet">Apple Watch - Close Your RingsMove. Exercise. Stand. Close the three Activity rings on your Apple Watch every day to live a healthie...</span></span></span>
+Activity rings are one of the most effective examples of visible [feedback]({{ 'feedback/' | relative_url }}) in self-improvement. A ring that fills as you move, exercise or stand turns an abstract health goal into something concrete and immediate. Instead of waiting weeks to notice improved fitness, you receive feedback throughout the day. That simplicity is a major reason activity rings have become one of the most popular features of modern [wearables]({{ 'wearables/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.apple.com/uk/watch/close-your-rings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apple.com">[Apple]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apple.com</span><span class="citation-popover-snippet">Apple Watch - Close Your RingsMove. Exercise. Stand. Close the three Activity rings on your Apple Watch every day to live a healthie...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_activity_rings_score_44445f-Illustration-1-dark.svg" | relative_url }}" alt="Activity Rings illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_activity_rings_score_44445f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_activity_rings_score_44445f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The danger is that the ring can quietly become the goal. A system originally designed to encourage movement can end up encouraging ring closure at all costs. When that happens, the user stops asking, “What does my body need today?” and starts asking, “What do I need to do to make the circle complete?” Self-improvement works best when the metric serves the behaviour, not when the behaviour serves the metric.
@@ -277,7 +277,7 @@ The danger is that the ring can quietly become the goal. A system originally des
 
 Activity rings work because they solve a [motivation]({{ 'motivation/' | relative_url }}) problem. Health benefits are delayed, but ring progress is immediate.
 
-Apple’s system tracks three daily targets: movement, exercise and standing. The visual design is intentionally simple. As progress accumulates, the rings close, providing a visible sign that effort is producing results. <span class="citation-chip-wrap"><a class="citation-chip" href="https://support.apple.com/guide/watch/stay-fit-with-apple-watch-apd9c3cfe913/watchos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.apple.com">[Apple Support]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.apple.com</span><span class="citation-popover-snippet">Apple SupportStay fit with Apple WatchThe Activity screen showing the three rings—Move, Exercise, and Stand. Close each ring. Your Apple...</span></span></span>
+Apple’s system tracks three daily targets: movement, exercise and standing. The visual design is intentionally simple. As progress accumulates, the rings close, providing a visible sign that effort is producing results.<span class="citation-chip-wrap"><a class="citation-chip" href="https://support.apple.com/guide/watch/stay-fit-with-apple-watch-apd9c3cfe913/watchos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.apple.com">[Apple Support]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.apple.com</span><span class="citation-popover-snippet">Apple SupportStay fit with Apple WatchThe Activity screen showing the three rings—Move, Exercise, and Stand. Close each ring. Your Apple...</span></span></span>
 
 This creates several advantages:
 
@@ -288,7 +288,7 @@ This creates several advantages:
 
 A twenty-minute walk may not noticeably improve fitness by tomorrow, but seeing a ring move from 60% to 80% complete provides an immediate reward. The watch effectively shortens the feedback loop.
 
-This is particularly useful for people who struggle with consistency. The ring offers a simple question throughout the day: have you moved enough yet? As a behavioural prompt, that can be remarkably effective. Apple has repeatedly positioned ring closure as a daily encouragement to remain active rather than sedentary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.apple.com/uk/newsroom/2025/04/get-active-with-apple-watch/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apple.com">[Apple]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apple.com</span><span class="citation-popover-title">get active with apple watch</span><span class="citation-popover-snippet">14 Apr 2025 — The Activity app is one of the most beloved Apple Watch features, encouraging users to close their three Activity rings — M...</span></span></span>
+This is particularly useful for people who struggle with consistency. The ring offers a simple question throughout the day: have you moved enough yet? As a behavioural prompt, that can be remarkably effective. Apple has repeatedly positioned ring closure as a daily encouragement to remain active rather than sedentary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.apple.com/uk/newsroom/2025/04/get-active-with-apple-watch/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apple.com">[Apple]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apple.com</span><span class="citation-popover-title">get active with apple watch</span><span class="citation-popover-snippet">14 Apr 2025 — The Activity app is one of the most beloved Apple Watch features, encouraging users to close their three Activity rings — M...</span></span></span>
 
 The problem emerges when the reward generated by the ring becomes more important than the underlying purpose of movement.
 
@@ -310,7 +310,7 @@ Exercise adaptation occurs partly during recovery. Rest days are not interruptio
 
 Yet daily ring closure can make recovery feel psychologically uncomfortable. If a user believes every ring must close every day, a planned recovery day may appear as a broken record rather than a successful training decision.
 
-This tension has become significant enough that Apple introduced features allowing users to customise goals by day and even pause rings without losing streaks. Those changes acknowledge that rigid daily targets do not always match real life or sound training practice. Apple [Support]({{ 'support/' | relative_url }}) <span class="citation-chip-wrap"><a class="citation-chip" href="https://support.apple.com/guide/watch/stay-fit-with-apple-watch-apd9c3cfe913/watchos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.apple.com">[Apple Support]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.apple.com</span><span class="citation-popover-snippet">Apple SupportStay fit with Apple WatchThe Activity screen showing the three rings—Move, Exercise, and Stand. Close each ring. Your Apple...</span></span></span>
+This tension has become significant enough that Apple introduced features allowing users to customise goals by day and even pause rings without losing streaks. Those changes acknowledge that rigid daily targets do not always match real life or sound training practice. Apple [Support]({{ 'support/' | relative_url }})<span class="citation-chip-wrap"><a class="citation-chip" href="https://support.apple.com/guide/watch/stay-fit-with-apple-watch-apd9c3cfe913/watchos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.apple.com">[Apple Support]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.apple.com</span><span class="citation-popover-snippet">Apple SupportStay fit with Apple WatchThe Activity screen showing the three rings—Move, Exercise, and Stand. Close each ring. Your Apple...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kZI5_EsgVyU" title="Apple Watch Activity Rings Explained - a healthy OBSESSION [2021]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kZI5_EsgVyU" target="_blank" rel="noopener noreferrer">Apple Watch Activity Rings Explained - a healthy OBSESSION [2021]</a></p><p class="youtube-embed-meta">Channel: Nikias Molina &middot; Views: 142.0K &middot; Uploaded: March 2021 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kZI5_EsgVyU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kZI5_EsgVyU">Open on YouTube</a></p></div></div></div>
 
@@ -322,7 +322,7 @@ Some users preserve long streaks by keeping goals permanently easy. In that case
 
 The scoreboard shows success while fitness plateaus.
 
-The visible streak becomes evidence of consistency, yet the underlying behaviour may no longer be demanding enough to produce meaningful adaptation. A long streak can therefore conceal stagnation as easily as it can demonstrate discipline. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tomsguide.com/wellness/smartwatches/breaking-your-apple-watch-move-streak-could-help-you-get-fitter-heres-how" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tomsguide.com">[Tom&#x27;s Guide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tomsguide.com</span><span class="citation-popover-title">Tom&#x27;s Guide Are you obsessed with filling your Apple Watch rings?</span><span class="citation-popover-snippet">Here&#x27;s why you need to break your streakFebruary 5, 2026 — This article from Tom&#x27;s Guide explores the psychological and fitness-related i...</span><span class="citation-popover-meta">Published: February 5, 2026</span></span></span>
+The visible streak becomes evidence of consistency, yet the underlying behaviour may no longer be demanding enough to produce meaningful adaptation. A long streak can therefore conceal stagnation as easily as it can demonstrate discipline.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tomsguide.com/wellness/smartwatches/breaking-your-apple-watch-move-streak-could-help-you-get-fitter-heres-how" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tomsguide.com">[Tom&#x27;s Guide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tomsguide.com</span><span class="citation-popover-title">Tom&#x27;s Guide Are you obsessed with filling your Apple Watch rings?</span><span class="citation-popover-snippet">Here&#x27;s why you need to break your streakFebruary 5, 2026 — This article from Tom&#x27;s Guide explores the psychological and fitness-related i...</span><span class="citation-popover-meta">Published: February 5, 2026</span></span></span>
 
 ### The Ring Encourages Completion, Not Context
 
@@ -366,7 +366,7 @@ Goals should reflect actual circumstances.
 
 Training volume, age, injury status, work demands, travel and recovery needs all change over time. A goal that was appropriate six months ago may no longer fit.
 
-Apple explicitly allows users to adjust goals, create different targets for different days and temporarily change goals when circumstances require it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://support.apple.com/guide/watch/stay-fit-with-apple-watch-apd9c3cfe913/watchos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.apple.com">[Apple Support]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.apple.com</span><span class="citation-popover-snippet">Apple SupportStay fit with Apple WatchThe Activity screen showing the three rings—Move, Exercise, and Stand. Close each ring. Your Apple...</span></span></span>
+Apple explicitly allows users to adjust goals, create different targets for different days and temporarily change goals when circumstances require it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://support.apple.com/guide/watch/stay-fit-with-apple-watch-apd9c3cfe913/watchos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.apple.com">[Apple Support]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.apple.com</span><span class="citation-popover-snippet">Apple SupportStay fit with Apple WatchThe Activity screen showing the three rings—Move, Exercise, and Stand. Close each ring. Your Apple...</span></span></span>
 
 A useful target is challenging enough to encourage action but realistic enough to achieve without constant negotiation.
 
@@ -375,7 +375,7 @@ A useful target is challenging enough to encourage action but realistic enough t
 
 Recovery should not be treated as accidental failure.
 
-If you know certain days are intended for lighter activity, create lighter targets for those days. If illness or injury requires a break, pause the rings rather than forcing activity that conflicts with recovery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://support.apple.com/guide/watch/stay-fit-with-apple-watch-apd9c3cfe913/watchos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.apple.com">[Apple Support]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.apple.com</span><span class="citation-popover-snippet">Apple SupportStay fit with Apple WatchThe Activity screen showing the three rings—Move, Exercise, and Stand. Close each ring. Your Apple...</span></span></span>
+If you know certain days are intended for lighter activity, create lighter targets for those days. If illness or injury requires a break, pause the rings rather than forcing activity that conflicts with recovery.<span class="citation-chip-wrap"><a class="citation-chip" href="https://support.apple.com/guide/watch/stay-fit-with-apple-watch-apd9c3cfe913/watchos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.apple.com">[Apple Support]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.apple.com</span><span class="citation-popover-snippet">Apple SupportStay fit with Apple WatchThe Activity screen showing the three rings—Move, Exercise, and Stand. Close each ring. Your Apple...</span></span></span>
 
 The goal is sustainable behaviour, not uninterrupted scoreboard perfection.
 
@@ -421,178 +421,178 @@ A healthy relationship with the ring views it as feedback. An unhealthy relation
 For self-improvement that works, the ring should remain a dashboard, not a destination. Its purpose is to point toward movement, exercise and recovery decisions that matter in real life. Once the circle becomes more important than the behaviour it represents, the scoreboard has taken over.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Activity Rings Help and When They Hurt. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Activity Rings Help and When They Hurt. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Directly relevant to feedback loops and progress tracking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Directly relevant to feedback loops and progress tracking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
-        </h4>
-        <p class="fr-book-author">By B. J. Fogg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
+</h4>
+<p class="fr-book-author">By B. J. Fogg</p>
         
-        <p class="fr-book-desc">Promotes humane goals rather than perfection.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes humane goals rather than perfection.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Spark+by+John+J.+Ratey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spark on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eP-nMgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Spark" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Spark+by+John+J.+Ratey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spark">Spark</a>
-        </h4>
-        <p class="fr-book-author">By John J. Ratey</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Spark+by+John+J.+Ratey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Spark on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eP-nMgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Spark" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Spark+by+John+J.+Ratey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spark">Spark</a>
+</h4>
+<p class="fr-book-author">By John J. Ratey</p>
         
-        <p class="fr-book-desc">Keeps attention on health outcomes rather than ring closure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Spark+by+John+J.+Ratey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Keeps attention on health outcomes rather than ring closure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Spark+by+John+J.+Ratey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
-        </h4>
-        <p class="fr-book-author">By Charles Duhigg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
+</h4>
+<p class="fr-book-author">By Charles Duhigg</p>
         
-        <p class="fr-book-desc">Helps explain why activity rings motivate behavior.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain why activity rings motivate behavior.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Spark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Spark</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Spark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Spark</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-    </div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=activity-rings-when-activity-rings-help-and-when-they-hurt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=activity-rings-when-activity-rings-help-and-when-they-hurt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=activity-rings-when-activity-rings-help-and-when-they-hurt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=activity-rings-when-activity-rings-help-and-when-they-hurt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=activity-rings-when-activity-rings-help-and-when-they-hurt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=activity-rings-when-activity-rings-help-and-when-they-hurt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=activity-rings-when-activity-rings-help-and-when-they-hurt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=activity-rings-when-activity-rings-help-and-when-they-hurt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=activity-rings-when-activity-rings-help-and-when-they-hurt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=activity-rings-when-activity-rings-help-and-when-they-hurt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=activity-rings-when-activity-rings-help-and-when-they-hurt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=activity-rings-when-activity-rings-help-and-when-they-hurt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=activity-rings-when-activity-rings-help-and-when-they-hurt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=activity-rings-when-activity-rings-help-and-when-they-hurt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=activity-rings-when-activity-rings-help-and-when-they-hurt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=activity-rings-when-activity-rings-help-and-when-they-hurt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=activity-rings-when-activity-rings-help-and-when-they-hurt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=activity-rings-when-activity-rings-help-and-when-they-hurt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=activity-rings-when-activity-rings-help-and-when-they-hurt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=activity-rings-when-activity-rings-help-and-when-they-hurt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=activity-rings-when-activity-rings-help-and-when-they-hurt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=activity-rings-when-activity-rings-help-and-when-they-hurt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=activity-rings-when-activity-rings-help-and-when-they-hurt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=activity-rings-when-activity-rings-help-and-when-they-hurt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=activity-rings-when-activity-rings-help-and-when-they-hurt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=activity-rings-when-activity-rings-help-and-when-they-hurt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=activity-rings-when-activity-rings-help-and-when-they-hurt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=activity-rings-when-activity-rings-help-and-when-they-hurt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=activity-rings-when-activity-rings-help-and-when-they-hurt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=activity-rings-when-activity-rings-help-and-when-they-hurt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=activity-rings-when-activity-rings-help-and-when-they-hurt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=activity-rings-when-activity-rings-help-and-when-they-hurt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=activity-rings-when-activity-rings-help-and-when-they-hurt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=activity-rings-when-activity-rings-help-and-when-they-hurt-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -608,7 +608,7 @@ For self-improvement that works, the ring should remain a dashboard, not a desti
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -628,7 +628,7 @@ For self-improvement that works, the ring should remain a dashboard, not a desti
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -660,7 +660,7 @@ For self-improvement that works, the ring should remain a dashboard, not a desti
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -690,7 +690,7 @@ For self-improvement that works, the ring should remain a dashboard, not a desti
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -748,216 +748,216 @@ For self-improvement that works, the ring should remain a dashboard, not a desti
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: apple.com  
-   Link: <a href="https://www.apple.com/uk/watch/close-your-rings/" target="_blank" rel="noopener noreferrer nofollow">https://www.apple.com/uk/watch/close-your-rings/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Apple Watch - Close Your RingsMove. Exercise. Stand. Close the three Activity rings on your Apple Watch every day to live a healthie...</p></details>
+   Link:<a href="https://www.apple.com/uk/watch/close-your-rings/" target="_blank" rel="noopener noreferrer nofollow">https://www.apple.com/uk/watch/close-your-rings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Apple Watch - Close Your RingsMove. Exercise. Stand. Close the three Activity rings on your Apple Watch every day to live a healthie...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: apple.com  
    Title: get active with apple watch  
-   Link: <a href="https://www.apple.com/uk/newsroom/2025/04/get-active-with-apple-watch/" target="_blank" rel="noopener noreferrer nofollow">https://www.apple.com/uk/newsroom/2025/04/get-active-with-apple-watch/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>14 Apr 2025 — The Activity app is one of the most beloved Apple Watch features, encouraging users to close their three Activity rings — M...</p></details>
+   Link:<a href="https://www.apple.com/uk/newsroom/2025/04/get-active-with-apple-watch/" target="_blank" rel="noopener noreferrer nofollow">https://www.apple.com/uk/newsroom/2025/04/get-active-with-apple-watch/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>14 Apr 2025 — The Activity app is one of the most beloved Apple Watch features, encouraging users to close their three Activity rings — M...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: support.apple.com  
-   Link: <a href="https://support.apple.com/guide/watch/stay-fit-with-apple-watch-apd9c3cfe913/watchos" target="_blank" rel="noopener noreferrer nofollow">https://support.apple.com/guide/watch/stay-fit-with-apple-watch-apd9c3cfe913/watchos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Apple SupportStay fit with Apple WatchThe Activity screen showing the three rings—Move, Exercise, and Stand. Close each ring. Your Apple...</p></details>
+   Link:<a href="https://support.apple.com/guide/watch/stay-fit-with-apple-watch-apd9c3cfe913/watchos" target="_blank" rel="noopener noreferrer nofollow">https://support.apple.com/guide/watch/stay-fit-with-apple-watch-apd9c3cfe913/watchos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Apple SupportStay fit with Apple WatchThe Activity screen showing the three rings—Move, Exercise, and Stand. Close each ring. Your Apple...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: support.apple.com  
-   Link: <a href="https://support.apple.com/guide/watch/track-daily-activity-apd3bf6d85a6/watchos" target="_blank" rel="noopener noreferrer nofollow">https://support.apple.com/guide/watch/track-daily-activity-apd3bf6d85a6/watchos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>daily activity with Apple WatchThe blue Stand ring shows how many times in the day you&#x27;ve stood and moved for at least 1 minute per hour...</p></details>
+   Link:<a href="https://support.apple.com/guide/watch/track-daily-activity-apd3bf6d85a6/watchos" target="_blank" rel="noopener noreferrer nofollow">https://support.apple.com/guide/watch/track-daily-activity-apd3bf6d85a6/watchos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>daily activity with Apple WatchThe blue Stand ring shows how many times in the day you&#x27;ve stood and moved for at least 1 minute per hour...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: apple.com  
-   Link: <a href="https://www.apple.com/watch/close-your-rings/" target="_blank" rel="noopener noreferrer nofollow">https://www.apple.com/watch/close-your-rings/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Close Your RingsClose your Exercise ring by completing at least 30 minutes of activity at or above a brisk walk. The Exercise ring shows...</p></details>
+   Link:<a href="https://www.apple.com/watch/close-your-rings/" target="_blank" rel="noopener noreferrer nofollow">https://www.apple.com/watch/close-your-rings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close Your RingsClose your Exercise ring by completing at least 30 minutes of activity at or above a brisk walk. The Exercise ring shows...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: support.apple.com  
-   Link: <a href="https://support.apple.com/guide/watch/adjust-your-activity-ring-goals-apd29b30023c/watchos" target="_blank" rel="noopener noreferrer nofollow">https://support.apple.com/guide/watch/adjust-your-activity-ring-goals-apd29b30023c/watchos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>· Turn the Digital Crown to a ring, then tap the Change Goals button. · Tap one of the following: Change for Today:...Read more...</p></details>
+   Link:<a href="https://support.apple.com/guide/watch/adjust-your-activity-ring-goals-apd29b30023c/watchos" target="_blank" rel="noopener noreferrer nofollow">https://support.apple.com/guide/watch/adjust-your-activity-ring-goals-apd29b30023c/watchos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>· Turn the Digital Crown to a ring, then tap the Change Goals button. · Tap one of the following: Change for Today:...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: support.apple.com  
-   Link: <a href="https://support.apple.com/en-my/guide/iphone/iph9a08e004e/ios" target="_blank" rel="noopener noreferrer nofollow">https://support.apple.com/en-my/guide/iphone/iph9a08e004e/ios</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>· Tap the Activity rings, scroll down, then tap Pause Rings. · Tap a duration, or tap Custom to set a custom duration.Read more...</p></details>
+   Link:<a href="https://support.apple.com/en-my/guide/iphone/iph9a08e004e/ios" target="_blank" rel="noopener noreferrer nofollow">https://support.apple.com/en-my/guide/iphone/iph9a08e004e/ios</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>· Tap the Activity rings, scroll down, then tap Pause Rings. · Tap a duration, or tap Custom to set a custom duration.Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: apple.com  
    Title: watchos 11 brings powerful health and fitness insights  
-   Link: <a href="https://www.apple.com/newsroom/2024/06/watchos-11-brings-powerful-health-and-fitness-insights/" target="_blank" rel="noopener noreferrer nofollow">https://www.apple.com/newsroom/2024/06/watchos-11-brings-powerful-health-and-fitness-insights/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Jun 2024 — watchOS 11 makes Apple Watch an even more essential companion by offering users additional actionable insights into their h...</p></details>
+   Link:<a href="https://www.apple.com/newsroom/2024/06/watchos-11-brings-powerful-health-and-fitness-insights/" target="_blank" rel="noopener noreferrer nofollow">https://www.apple.com/newsroom/2024/06/watchos-11-brings-powerful-health-and-fitness-insights/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Jun 2024 — watchOS 11 makes Apple Watch an even more essential companion by offering users additional actionable insights into their h...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: apple.com  
-   Link: <a href="https://www.apple.com/uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.apple.com/uk/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Apple (United Kingdom)Discover the world of Apple and everything iPhone, iPad, Apple Watch, Mac and Apple TV, plus accessories, entertain...</p></details>
+   Link:<a href="https://www.apple.com/uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.apple.com/uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Apple (United Kingdom)Discover the world of Apple and everything iPhone, iPad, Apple Watch, Mac and Apple TV, plus accessories, entertain...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: discussions.apple.com  
-   Link: <a href="https://discussions.apple.com/thread/254880647" target="_blank" rel="noopener noreferrer nofollow">https://discussions.apple.com/thread/254880647</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to change my watch circle goals?May 22, 2023 — I used to see my step’s quantity in my watch after the last update it disappeared it used...</p></details>
+   Link:<a href="https://discussions.apple.com/thread/254880647" target="_blank" rel="noopener noreferrer nofollow">https://discussions.apple.com/thread/254880647</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to change my watch circle goals?May 22, 2023 — I used to see my step’s quantity in my watch after the last update it disappeared it used...</p></details>
    Published: May 22, 2023  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: support.apple.com  
-   Link: <a href="https://support.apple.com/en-gb/118638" target="_blank" rel="noopener noreferrer nofollow">https://support.apple.com/en-gb/118638</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Find out more about how to share your activity from Apple...</p></details>
+   Link:<a href="https://support.apple.com/en-gb/118638" target="_blank" rel="noopener noreferrer nofollow">https://support.apple.com/en-gb/118638</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Find out more about how to share your activity from Apple...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: apple.com  
-   Link: <a href="https://www.apple.com/ie/watch/close-your-rings/" target="_blank" rel="noopener noreferrer nofollow">https://www.apple.com/ie/watch/close-your-rings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apple Watch - Close Your RingsHow to change your daily Move goal. · Open the Activity app. · Use the Digital Crown to scroll down. · Tap...</p></details>
+   Link:<a href="https://www.apple.com/ie/watch/close-your-rings/" target="_blank" rel="noopener noreferrer nofollow">https://www.apple.com/ie/watch/close-your-rings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Apple Watch - Close Your RingsHow to change your daily Move goal. · Open the Activity app. · Use the Digital Crown to scroll down. · Tap...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: discussions.apple.com  
-   Link: <a href="https://discussions.apple.com/thread/250923213" target="_blank" rel="noopener noreferrer nofollow">https://discussions.apple.com/thread/250923213</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>exactly does the stand activity workI have been trying to understand the behaviour of the stand activity but am still unable to. Q. How d...</p></details>
+   Link:<a href="https://discussions.apple.com/thread/250923213" target="_blank" rel="noopener noreferrer nofollow">https://discussions.apple.com/thread/250923213</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>exactly does the stand activity workI have been trying to understand the behaviour of the stand activity but am still unable to. Q. How d...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: developer.apple.com  
    Title: activity rings  
-   Link: <a href="https://developer.apple.com/design/human-interface-guidelines/activity-rings" target="_blank" rel="noopener noreferrer nofollow">https://developer.apple.com/design/human-interface-guidelines/activity-rings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>are designed to consistently represent progress in these specific areas.Read more...</p></details>
+   Link:<a href="https://developer.apple.com/design/human-interface-guidelines/activity-rings" target="_blank" rel="noopener noreferrer nofollow">https://developer.apple.com/design/human-interface-guidelines/activity-rings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>are designed to consistently represent progress in these specific areas.Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: discussions.apple.com  
-   Link: <a href="https://discussions.apple.com/thread/255700055" target="_blank" rel="noopener noreferrer nofollow">https://discussions.apple.com/thread/255700055</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rings not working. Move and exe…30 Jul 2024 — The first (and simplest) thing to try if something isn&#x27;t working right is to restart your A...</p></details>
+   Link:<a href="https://discussions.apple.com/thread/255700055" target="_blank" rel="noopener noreferrer nofollow">https://discussions.apple.com/thread/255700055</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rings not working. Move and exe…30 Jul 2024 — The first (and simplest) thing to try if something isn&#x27;t working right is to restart your A...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: discussions.apple.com  
-   Link: <a href="https://discussions.apple.com/thread/255646346" target="_blank" rel="noopener noreferrer nofollow">https://discussions.apple.com/thread/255646346</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>are my Apple Watch rings not displaye…17 Jun 2024 — Hi, I’ve been a very active Apple Watch user and I’m currently experiencing an issue...</p></details>
+   Link:<a href="https://discussions.apple.com/thread/255646346" target="_blank" rel="noopener noreferrer nofollow">https://discussions.apple.com/thread/255646346</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>are my Apple Watch rings not displaye…17 Jun 2024 — Hi, I’ve been a very active Apple Watch user and I’m currently experiencing an issue...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: discussions.apple.com  
-   Link: <a href="https://discussions.apple.com/thread/253349138" target="_blank" rel="noopener noreferrer nofollow">https://discussions.apple.com/thread/253349138</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>move ring&#x27;s goal of a past day9 Nov 2021 — Hello everyone is it possible modify the move ring’s goal of a past day? my Apple Watch went o...</p></details>
+   Link:<a href="https://discussions.apple.com/thread/253349138" target="_blank" rel="noopener noreferrer nofollow">https://discussions.apple.com/thread/253349138</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>move ring&#x27;s goal of a past day9 Nov 2021 — Hello everyone is it possible modify the move ring’s goal of a past day? my Apple Watch went o...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Apple Watch Activity Rings Explained  
-   Link: <a href="https://www.youtube.com/watch?v=kZI5_EsgVyU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kZI5_EsgVyU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why I Stopped Wearing My Apple Watch After 7 Years...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kZI5_EsgVyU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kZI5_EsgVyU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why I Stopped Wearing My Apple Watch After 7 Years...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Things Go South When You Trust DATA Too Much  
-   Link: <a href="https://www.youtube.com/watch?v=OU5W-b_e8a4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OU5W-b_e8a4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>APPLE WATCH FITNESS REVIEW (Will it help you reach your goals?)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OU5W-b_e8a4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OU5W-b_e8a4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>APPLE WATCH FITNESS REVIEW (Will it help you reach your goals?)...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: APPLE WATCH FITNESS REVIEW (Will it help you reach your goals?)  
-   Link: <a href="https://www.youtube.com/watch?v=zniOTH8CfE8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zniOTH8CfE8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fixing My TOXIC Workout Obsessions...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zniOTH8CfE8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zniOTH8CfE8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fixing My TOXIC Workout Obsessions...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: tomsguide.com  
    Title: Tom's Guide Are you obsessed with filling your Apple Watch rings?  
-   Link: <a href="https://www.tomsguide.com/wellness/smartwatches/breaking-your-apple-watch-move-streak-could-help-you-get-fitter-heres-how" target="_blank" rel="noopener noreferrer nofollow">https://www.tomsguide.com/wellness/smartwatches/breaking-your-apple-watch-move-streak-could-help-you-get-fitter-heres-how</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s why you need to break your streakFebruary 5, 2026 — This article from Tom&#x27;s Guide explores the psychological and fitness-related i...</p></details>
+   Link:<a href="https://www.tomsguide.com/wellness/smartwatches/breaking-your-apple-watch-move-streak-could-help-you-get-fitter-heres-how" target="_blank" rel="noopener noreferrer nofollow">https://www.tomsguide.com/wellness/smartwatches/breaking-your-apple-watch-move-streak-could-help-you-get-fitter-heres-how</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s why you need to break your streakFebruary 5, 2026 — This article from Tom&#x27;s Guide explores the psychological and fitness-related i...</p></details>
    Published: February 5, 2026  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: conveyorofrandomness.medium.com  
    Title: apple watch activity rings why you should close your rings 76e68b365abc  
-   Link: <a href="https://conveyorofrandomness.medium.com/apple-watch-activity-rings-why-you-should-close-your-rings-76e68b365abc" target="_blank" rel="noopener noreferrer nofollow">https://conveyorofrandomness.medium.com/apple-watch-activity-rings-why-you-should-close-your-rings-76e68b365abc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch Activity Rings — Why you should close your rings?I&#x27;m going to share with you, why I think closing your activity rings every day can...</p></details>
+   Link:<a href="https://conveyorofrandomness.medium.com/apple-watch-activity-rings-why-you-should-close-your-rings-76e68b365abc" target="_blank" rel="noopener noreferrer nofollow">https://conveyorofrandomness.medium.com/apple-watch-activity-rings-why-you-should-close-your-rings-76e68b365abc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Watch Activity Rings — Why you should close your rings?I&#x27;m going to share with you, why I think closing your activity rings every day can...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: theverge.com  
    Title: Apple agrees to pay i Phone owners $250 million for not delivering AI Siri  
-   Link: <a href="https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement</a>  
+   Link:<a href="https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=2ZiWsnzA9F4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2ZiWsnzA9F4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Set Daily Custom Move, Exercise, and Stand Goals in iOS 18With iOS 18, the Fitness app now allows you to customise your daily move, exerc...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2ZiWsnzA9F4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2ZiWsnzA9F4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Set Daily Custom Move, Exercise, and Stand Goals in iOS 18With iOS 18, the Fitness app now allows you to customise your daily move, exerc...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=50-fQwVCIq8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=50-fQwVCIq8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apple Watch Activity Rings: My Healthy OBSESSION (2025)The activity rings are for everybody. They&#x27;re not only for the triathletes or for...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=50-fQwVCIq8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=50-fQwVCIq8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Apple Watch Activity Rings: My Healthy OBSESSION (2025)The activity rings are for everybody. They&#x27;re not only for the triathletes or for...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: tomsguide.com  
-   Link: <a href="https://www.tomsguide.com/phones/iphones/apple-usd250-million-settlement-how-to-get-your-payment-and-when-theyre-going-out" target="_blank" rel="noopener noreferrer nofollow">https://www.tomsguide.com/phones/iphones/apple-usd250-million-settlement-how-to-get-your-payment-and-when-theyre-going-out</a>  
+   Link:<a href="https://www.tomsguide.com/phones/iphones/apple-usd250-million-settlement-how-to-get-your-payment-and-when-theyre-going-out" target="_blank" rel="noopener noreferrer nofollow">https://www.tomsguide.com/phones/iphones/apple-usd250-million-settlement-how-to-get-your-payment-and-when-theyre-going-out</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: tomsguide.com  
    Title: apple watch rings what they mean and how to close them  
-   Link: <a href="https://www.tomsguide.com/reference/apple-watch-rings-what-they-mean-and-how-to-close-them" target="_blank" rel="noopener noreferrer nofollow">https://www.tomsguide.com/reference/apple-watch-rings-what-they-mean-and-how-to-close-them</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Open the Activity app on your Apple Watch · 2. Scroll down to the bottom of Activity app home page · 3. Click Change Goals. · 4. Adjust Move...</p></details>
+   Link:<a href="https://www.tomsguide.com/reference/apple-watch-rings-what-they-mean-and-how-to-close-them" target="_blank" rel="noopener noreferrer nofollow">https://www.tomsguide.com/reference/apple-watch-rings-what-they-mean-and-how-to-close-them</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Open the Activity app on your Apple Watch · 2. Scroll down to the bottom of Activity app home page · 3. Click Change Goals. · 4. Adjust Move...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: marketscreener.com  
    Title: Apple to Let Users Choose Rival AI Models  
-   Link: <a href="https://www.marketscreener.com/news/apple-to-let-users-choose-rival-ai-models-ce7f58d2dd8eff2d" target="_blank" rel="noopener noreferrer nofollow">https://www.marketscreener.com/news/apple-to-let-users-choose-rival-ai-models-ce7f58d2dd8eff2d</a>  
+   Link:<a href="https://www.marketscreener.com/news/apple-to-let-users-choose-rival-ai-models-ce7f58d2dd8eff2d" target="_blank" rel="noopener noreferrer nofollow">https://www.marketscreener.com/news/apple-to-let-users-choose-rival-ai-models-ce7f58d2dd8eff2d</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: assemblymag.com  
    Title: Apple Manufacturing Academy Accelerates AI Applications  
-   Link: <a href="https://www.assemblymag.com/articles/100051-apple-manufacturing-academy-accelerates-ai-applications" target="_blank" rel="noopener noreferrer nofollow">https://www.assemblymag.com/articles/100051-apple-manufacturing-academy-accelerates-ai-applications</a>  
+   Link:<a href="https://www.assemblymag.com/articles/100051-apple-manufacturing-academy-accelerates-ai-applications" target="_blank" rel="noopener noreferrer nofollow">https://www.assemblymag.com/articles/100051-apple-manufacturing-academy-accelerates-ai-applications</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: Wikipedia  
    Title: Apple Inc  
-   Link: <a href="https://en.wikipedia.org/wiki/Apple_Inc" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Apple_Inc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apple Inc.Apple Inc. is an American multinational technology company headquartered in Cupertino, California, in Silicon Valley, and kn...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Apple_Inc" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Apple_Inc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Apple Inc.Apple Inc. is an American multinational technology company headquartered in Cupertino, California, in Silicon Valley, and kn...</p></details>
 
 ### Additional References
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/395112553_Reprogramming_the_Psychology_of_Success_The_Reflections_of_Wearable_Technologies_in_Athletes%27_Emotional_and_Motivational_Dynamics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395112553_Reprogramming_the_Psychology_of_Success_The_Reflections_of_Wearable_Technologies_in_Athletes%27_Emotional_and_Motivational_Dynamics</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Reprogramming the Psychology of Success31 Aug 2025 — This study explores how wearable technologies are integrated into athletes&#x27; em...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/395112553_Reprogramming_the_Psychology_of_Success_The_Reflections_of_Wearable_Technologies_in_Athletes%27_Emotional_and_Motivational_Dynamics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/395112553_Reprogramming_the_Psychology_of_Success_The_Reflections_of_Wearable_Technologies_in_Athletes%27_Emotional_and_Motivational_Dynamics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Reprogramming the Psychology of Success31 Aug 2025 — This study explores how wearable technologies are integrated into athletes&#x27; em...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/AppleWatch/comments/qw4dp8/is_there_any_way_to_fix_move_ring_retroactively/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AppleWatch/comments/qw4dp8/is_there_any_way_to_fix_move_ring_retroactively/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is there any way to fix move ring retroactively? Just realized...IMHO it&#x27;s not possible to change the rings after midnight. You still ca...</p></details>
+   Link:<a href="https://www.reddit.com/r/AppleWatch/comments/qw4dp8/is_there_any_way_to_fix_move_ring_retroactively/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AppleWatch/comments/qw4dp8/is_there_any_way_to_fix_move_ring_retroactively/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is there any way to fix move ring retroactively? Just realized...IMHO it&#x27;s not possible to change the rings after midnight. You still ca...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=a9eh-WWqDCU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a9eh-WWqDCU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Change Your Activity Goals On iPhone and Apple...This video tutorial provides a step-by-step guide to changing and customizing yo...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=a9eh-WWqDCU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=a9eh-WWqDCU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How To Change Your Activity Goals On iPhone and Apple...This video tutorial provides a step-by-step guide to changing and customizing yo...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=aRKu3NTgrOw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aRKu3NTgrOw</a>  
+   Link:<a href="https://www.youtube.com/watch?v=aRKu3NTgrOw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aRKu3NTgrOw</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: idownloadblog.com  
-   Link: <a href="https://www.idownloadblog.com/2020/10/08/change-activity-goals-apple-watch/" target="_blank" rel="noopener noreferrer nofollow">https://www.idownloadblog.com/2020/10/08/change-activity-goals-apple-watch/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to change Move, Exercise, and Stand goals on Apple...14 Nov 2025 — Open the Fitness app on iPhone and tap the Activity tile at the top...</p></details>
+   Link:<a href="https://www.idownloadblog.com/2020/10/08/change-activity-goals-apple-watch/" target="_blank" rel="noopener noreferrer nofollow">https://www.idownloadblog.com/2020/10/08/change-activity-goals-apple-watch/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to change Move, Exercise, and Stand goals on Apple...14 Nov 2025 — Open the Fitness app on iPhone and tap the Activity tile at the top...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: dergipark.org.tr  
-   Link: <a href="https://dergipark.org.tr/en/download/article-file/5198863" target="_blank" rel="noopener noreferrer nofollow">https://dergipark.org.tr/en/download/article-file/5198863</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>athletes&#x27; emotional and motivational experiences through a qualitative...Read more...</p></details>
+   Link:<a href="https://dergipark.org.tr/en/download/article-file/5198863" target="_blank" rel="noopener noreferrer nofollow">https://dergipark.org.tr/en/download/article-file/5198863</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>athletes&#x27; emotional and motivational experiences through a qualitative...Read more...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: defysportsperformance.com  
-   Link: <a href="https://defysportsperformance.com/blog/closing-your-rings/" target="_blank" rel="noopener noreferrer nofollow">https://defysportsperformance.com/blog/closing-your-rings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Closing Your Rings (Apple Watch/Fitness Tracker)The activity rings allow you to set a Move goal, Activity goal and Stand goal...</p></details>
+   Link:<a href="https://defysportsperformance.com/blog/closing-your-rings/" target="_blank" rel="noopener noreferrer nofollow">https://defysportsperformance.com/blog/closing-your-rings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Closing Your Rings (Apple Watch/Fitness Tracker)The activity rings allow you to set a Move goal, Activity goal and Stand goal...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: kirkville.com  
    Title: change activity goals on the apple watch in watchos 7  
-   Link: <a href="https://kirkville.com/change-activity-goals-on-the-apple-watch-in-watchos-7/" target="_blank" rel="noopener noreferrer nofollow">https://kirkville.com/change-activity-goals-on-the-apple-watch-in-watchos-7/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>16 Sept 2020 — Open the Activity app on your watch, then scroll to the bottom with the digital crown. Tap Change Goals.Read more...</p></details>
+   Link:<a href="https://kirkville.com/change-activity-goals-on-the-apple-watch-in-watchos-7/" target="_blank" rel="noopener noreferrer nofollow">https://kirkville.com/change-activity-goals-on-the-apple-watch-in-watchos-7/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>16 Sept 2020 — Open the Activity app on your watch, then scroll to the bottom with the digital crown. Tap Change Goals.Read more...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/crows-feet/your-fitness-tracker-may-be-teaching-you-the-wrong-health-lesson-after-50-7a93c8c46532" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/crows-feet/your-fitness-tracker-may-be-teaching-you-the-wrong-health-lesson-after-50-7a93c8c46532</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>, reduce their waistline, improve blood pressure, and...Read more...</p></details>
+   Link:<a href="https://medium.com/crows-feet/your-fitness-tracker-may-be-teaching-you-the-wrong-health-lesson-after-50-7a93c8c46532" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/crows-feet/your-fitness-tracker-may-be-teaching-you-the-wrong-health-lesson-after-50-7a93c8c46532</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>, reduce their waistline, improve blood pressure, and...Read more...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: fitstraps.co.uk  
    Title: the ultimate move goal apple watch guide  
-   Link: <a href="https://fitstraps.co.uk/blogs/news/the-ultimate-move-goal-apple-watch-guide" target="_blank" rel="noopener noreferrer nofollow">https://fitstraps.co.uk/blogs/news/the-ultimate-move-goal-apple-watch-guide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Apr 2025 — The Move goal on your Apple Watch is designed to promote consistent daily activity by setting a personalised target for acti...</p></details>
+   Link:<a href="https://fitstraps.co.uk/blogs/news/the-ultimate-move-goal-apple-watch-guide" target="_blank" rel="noopener noreferrer nofollow">https://fitstraps.co.uk/blogs/news/the-ultimate-move-goal-apple-watch-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>9 Apr 2025 — The Move goal on your Apple Watch is designed to promote consistent daily activity by setting a personalised target for acti...</p></details>

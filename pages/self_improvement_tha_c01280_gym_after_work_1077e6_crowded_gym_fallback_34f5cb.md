@@ -274,7 +274,7 @@ image: /assets/images/self_improvement_tha_c01280_gym_after_work_1077e6_crowded_
 
 ## Introduction
 
-A packed gym after work is one of the most predictable reasons a good training plan falls apart. The problem is rarely [motivation]({{ 'motivation/' | relative_url }}). It is that a workout designed around one squat rack, one bench, or one machine becomes impossible when twenty other people have the same idea between roughly 5 pm and 7:30 pm, the busiest period in many facilities. Peak-hour crowding is a recognised source of frustration, longer waits, and disrupted training routines. <span class="citation-chip-wrap"><a class="citation-chip" href="https://resources.rework.com/libraries/gym-fitness-growth/peak-hour-management" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: resources.rework.com">[Resources Rework]</a><span class="citation-popover" role="note"><span class="citation-popover-source">resources.rework.com</span><span class="citation-popover-title">5-7:30pm evening peak represent roughly 5-6 hours of high</span><span class="citation-popover-snippet">Peak Hour Management &amp; Capacity Planning for GymsMarch 19, 2026 — Overcrowding during peak hours is one of the top three...</span><span class="citation-popover-meta">Published: March 19, 2026</span></span></span>
+A packed gym after work is one of the most predictable reasons a good training plan falls apart. The problem is rarely [motivation]({{ 'motivation/' | relative_url }}). It is that a workout designed around one squat rack, one bench, or one machine becomes impossible when twenty other people have the same idea between roughly 5 pm and 7:30 pm, the busiest period in many facilities. Peak-hour crowding is a recognised source of frustration, longer waits, and disrupted training routines.<span class="citation-chip-wrap"><a class="citation-chip" href="https://resources.rework.com/libraries/gym-fitness-growth/peak-hour-management" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: resources.rework.com">[Resources Rework]</a><span class="citation-popover" role="note"><span class="citation-popover-source">resources.rework.com</span><span class="citation-popover-title">5-7:30pm evening peak represent roughly 5-6 hours of high</span><span class="citation-popover-snippet">Peak Hour Management &amp; Capacity Planning for GymsMarch 19, 2026 — Overcrowding during peak hours is one of the top three...</span><span class="citation-popover-meta">Published: March 19, 2026</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_gym_after_work_1077e6_crowded_gym_fallback_34f5cb-Illustration-1-dark.svg" | relative_url }}" alt="Crowded Gym illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_gym_after_work_1077e6_crowded_gym_fallback_34f5cb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_gym_after_work_1077e6_crowded_gym_fallback_34f5cb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The solution is not to abandon structure. It is to build a workout that can survive equipment shortages. A crowd-proof after-work routine treats exercises as movement patterns rather than fixed pieces of equipment. If the rack is occupied, the session continues. If the cable station is full, there is another route to the same training effect. This approach turns a common evening obstacle into a manageable logistics problem and makes consistency far more likely.
@@ -285,7 +285,7 @@ The evening rush creates a specific set of bottlenecks. Some are obvious, while 
 
 The most common problem is dependency on a single piece of equipment. A programme that requires a squat rack, a bench press station, and a cable machine in a fixed order can collapse if even one station has a queue. Waiting five minutes for one exercise may not seem significant, but repeated delays stretch a 45-minute workout into an hour or more.
 
-Another issue is decision fatigue. After work, energy and attention are already reduced. When the planned equipment is unavailable, many people spend several minutes wandering, checking stations, and mentally redesigning the session. Research on action planning and implementation intentions suggests that pre-planned responses to predictable obstacles make behaviours more likely to occur consistently. In other words, deciding the alternative before arriving is more effective than improvising under pressure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/31923898/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Implementation Intentions for Exercise and Physical Activityby J Kompf · 2020 · Cited by 34 — Implementation intentions are an effe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://d-nb.info/1104173190/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[2D-NB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Action planning comprises...Read more...</span></span></span>
+Another issue is decision fatigue. After work, energy and attention are already reduced. When the planned equipment is unavailable, many people spend several minutes wandering, checking stations, and mentally redesigning the session. Research on action planning and implementation intentions suggests that pre-planned responses to predictable obstacles make behaviours more likely to occur consistently. In other words, deciding the alternative before arriving is more effective than improvising under pressure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/31923898/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Implementation Intentions for Exercise and Physical Activityby J Kompf · 2020 · Cited by 34 — Implementation intentions are an effe...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://d-nb.info/1104173190/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[2D-NB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Action planning comprises...Read more...</span></span></span>
 
 There is also a psychological effect. A crowded gym can create the feeling that the workout is already compromised. Once that mindset appears, people often shorten the session, skip exercises, or leave early. Yet the training benefit frequently depends more on completing enough quality work than on using one specific machine.
 
@@ -309,27 +309,27 @@ Possible swaps include:
 
 </div>
 
-These exercises continue to train the major muscles of the legs and hips without requiring a rack. Practical gym guides routinely recommend goblet squats and similar movements as substitutes when rack access is limited. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.riversfitness.co.uk/blog/gym-machines-alternative-exercises" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riversfitness.co.uk">[Rivers Fitness]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riversfitness.co.uk</span><span class="citation-popover-title">Rivers Fitness Busy Gym?</span><span class="citation-popover-snippet">Alternatives to Gym Machines &#124; Exercises &amp;...January 9, 2024 — 9 Jan 2026 — Busy Gym? Alternatives to Gym Machines &#124; Exercises &amp; How to...</span><span class="citation-popover-meta">Published: January 9, 2024</span></span></span>
+These exercises continue to train the major muscles of the legs and hips without requiring a rack. Practical gym guides routinely recommend goblet squats and similar movements as substitutes when rack access is limited.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.riversfitness.co.uk/blog/gym-machines-alternative-exercises" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riversfitness.co.uk">[Rivers Fitness]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riversfitness.co.uk</span><span class="citation-popover-title">Rivers Fitness Busy Gym?</span><span class="citation-popover-snippet">Alternatives to Gym Machines &#124; Exercises &amp;...January 9, 2024 — 9 Jan 2026 — Busy Gym? Alternatives to Gym Machines &#124; Exercises &amp; How to...</span><span class="citation-popover-meta">Published: January 9, 2024</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/j_P8zySigqg" title="Complete Leg Day in ONE Power Rack: Zercher Squat, Glute/Hamstring Workout | Judd Lienhard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=j_P8zySigqg" target="_blank" rel="noopener noreferrer">Complete Leg Day in ONE Power Rack: Zercher Squat, Glute/Hamstring Workout | Judd Lienhard</a></p><p class="youtube-embed-meta">Channel: Judd Lienhard &middot; Views: 10.4K &middot; Uploaded: February 2026 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=j_P8zySigqg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=j_P8zySigqg">Open on YouTube</a></p></div></div></div>
 
 ### When Every Bench Is Taken
 
-Bench congestion is common during peak hours, particularly in gyms where strength training has grown in popularity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/gyms-outdated-cardio-no-squat-racks-2024-9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-snippet">Long cardio sessions are becoming less common, with gym-goers favoring activities like squats, deadlifts, and hip thrusts. This trend is...</span></span></span>
+Bench congestion is common during peak hours, particularly in gyms where strength training has grown in popularity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/gyms-outdated-cardio-no-squat-racks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-snippet">Long cardio sessions are becoming less common, with gym-goers favoring activities like squats, deadlifts, and hip thrusts. This trend is...</span></span></span>
 
 Instead of waiting:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Perform standing dumbbell presses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.muscleandfitness.com/workouts/workout-tips/10-killer-substitutes-crowded-exercise-machines/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muscleandfitness.com">[muscleandfitness.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muscleandfitness.com</span><span class="citation-popover-snippet">First, there&#x27;s usually a bench you can use. Second, by alternating between sides, you&#x27;ll increase the time under tension...Read more...</span></span></span>
+* Perform standing dumbbell presses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.muscleandfitness.com/workouts/workout-tips/10-killer-substitutes-crowded-exercise-machines/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muscleandfitness.com">[muscleandfitness.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muscleandfitness.com</span><span class="citation-popover-snippet">First, there&#x27;s usually a bench you can use. Second, by alternating between sides, you&#x27;ll increase the time under tension...Read more...</span></span></span>
 * Use floor presses.
 * Use push-ups with varied hand positions.
 * Try incline push-ups on a stable surface.
-* Use chest press machines if available. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eliteclubs.com/5-substitutes-for-crowded-fitness-center-machines/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eliteclubs.com">[eliteclubs.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eliteclubs.com</span><span class="citation-popover-snippet">Rowing Machine · 3. Chest Press Machine · 4. The Lat Pull-Down Machine.Read more...</span></span></span>
+* Use chest press machines if available.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eliteclubs.com/5-substitutes-for-crowded-fitness-center-machines/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eliteclubs.com">[eliteclubs.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eliteclubs.com</span><span class="citation-popover-snippet">Rowing Machine · 3. Chest Press Machine · 4. The Lat Pull-Down Machine.Read more...</span></span></span>
 
 </div>
 
-Alternating dumbbell pressing variations are frequently recommended as practical substitutes because they require less specialised equipment and often provide a comparable training stimulus. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.muscleandfitness.com/workouts/workout-tips/10-killer-substitutes-crowded-exercise-machines/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muscleandfitness.com">[Muscle &amp; Fitness]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muscleandfitness.com</span><span class="citation-popover-snippet">First, there&#x27;s usually a bench you can use. Second, by alternating between sides, you&#x27;ll increase the time under tension...Read more...</span></span></span>
+Alternating dumbbell pressing variations are frequently recommended as practical substitutes because they require less specialised equipment and often provide a comparable training stimulus.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.muscleandfitness.com/workouts/workout-tips/10-killer-substitutes-crowded-exercise-machines/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muscleandfitness.com">[Muscle &amp; Fitness]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muscleandfitness.com</span><span class="citation-popover-snippet">First, there&#x27;s usually a bench you can use. Second, by alternating between sides, you&#x27;ll increase the time under tension...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_gym_after_work_1077e6_crowded_gym_fallback_34f5cb-Illustration-2-dark.svg" | relative_url }}" alt="Crowded Gym illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_gym_after_work_1077e6_crowded_gym_fallback_34f5cb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_gym_after_work_1077e6_crowded_gym_fallback_34f5cb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### When Cable Stations and Pulldown Machines Are Busy
@@ -348,13 +348,13 @@ Alternatives include:
 
 </div>
 
-Many crowded-gym [substitution]({{ 'substitution/' | relative_url }}) guides recommend these movements because they target similar muscle groups while using equipment that is usually easier to access. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.riversfitness.co.uk/blog/gym-machines-alternative-exercises" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riversfitness.co.uk">[Rivers Fitness]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riversfitness.co.uk</span><span class="citation-popover-title">Rivers Fitness Busy Gym?</span><span class="citation-popover-snippet">Alternatives to Gym Machines &#124; Exercises &amp;...January 9, 2024 — 9 Jan 2026 — Busy Gym? Alternatives to Gym Machines &#124; Exercises &amp; How to...</span><span class="citation-popover-meta">Published: January 9, 2024</span></span></span>
+Many crowded-gym [substitution]({{ 'substitution/' | relative_url }}) guides recommend these movements because they target similar muscle groups while using equipment that is usually easier to access.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.riversfitness.co.uk/blog/gym-machines-alternative-exercises" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: riversfitness.co.uk">[Rivers Fitness]</a><span class="citation-popover" role="note"><span class="citation-popover-source">riversfitness.co.uk</span><span class="citation-popover-title">Rivers Fitness Busy Gym?</span><span class="citation-popover-snippet">Alternatives to Gym Machines &#124; Exercises &amp;...January 9, 2024 — 9 Jan 2026 — Busy Gym? Alternatives to Gym Machines &#124; Exercises &amp; How to...</span><span class="citation-popover-meta">Published: January 9, 2024</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AIEogSK20OM" title="How To Modify Your Workouts in a Crowded Gym" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AIEogSK20OM" target="_blank" rel="noopener noreferrer">How To Modify Your Workouts in a Crowded Gym</a></p><p class="youtube-embed-meta">Channel: Total Fitness Bodybuilding &middot; Views: 19.9K &middot; Uploaded: March 2015 &middot; Length: 4 minutes 43 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AIEogSK20OM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AIEogSK20OM">Open on YouTube</a></p></div></div></div>
 
 ### Machines Versus Free Weights: Do Swaps Reduce Results?
 
-A common fear is that changing equipment means sacrificing progress. Current evidence does not [support]({{ 'support/' | relative_url }}) that concern. Research comparing machine-based and free-weight strength training generally finds that both approaches can effectively build strength and muscle when training effort and volume are appropriately matched. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10426227/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Effect of free-weight vs</span><span class="citation-popover-snippet">machine-based strength training on...by ME Haugen · 2023 · Cited by 59 — There has been observed a higher maximum load lifted with machi...</span></span></span>
+A common fear is that changing equipment means sacrificing progress. Current evidence does not [support]({{ 'support/' | relative_url }}) that concern. Research comparing machine-based and free-weight strength training generally finds that both approaches can effectively build strength and muscle when training effort and volume are appropriately matched.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10426227/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Effect of free-weight vs</span><span class="citation-popover-snippet">machine-based strength training on...by ME Haugen · 2023 · Cited by 59 — There has been observed a higher maximum load lifted with machi...</span></span></span>
 
 For a crowded-gym strategy, this is important. If the leg press is free but the squat rack is occupied, using the available machine is usually far more productive than waiting fifteen minutes for the "perfect" exercise.
 
@@ -370,7 +370,7 @@ Movement GoalFirst ChoiceBackup ABackup BSquat patternBarbell squatGoblet squatW
 
 The key is that the workout objective remains unchanged. Only the tool changes.
 
-This reflects a broader behaviour-change principle known as coping planning: anticipating barriers and deciding in advance how to respond. Studies of physical activity consistently show that planning for obstacles helps close the gap between intention and action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://d-nb.info/1104173190/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[D-NB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Action planning comprises...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kops.uni-konstanz.de/server/api/core/bitstreams/70e0d221-a03b-4547-81e2-cb7896003748/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kops.uni-konstanz.de">[Kops]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kops.uni-konstanz.de</span><span class="citation-popover-snippet">mediates between intentions and physical activityby U Scholz · Cited by 305 — Research suggests that the prediction of behaviour change c...</span></span></span>
+This reflects a broader behaviour-change principle known as coping planning: anticipating barriers and deciding in advance how to respond. Studies of physical activity consistently show that planning for obstacles helps close the gap between intention and action.<span class="citation-chip-wrap"><a class="citation-chip" href="https://d-nb.info/1104173190/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[D-NB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Action planning comprises...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://kops.uni-konstanz.de/server/api/core/bitstreams/70e0d221-a03b-4547-81e2-cb7896003748/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kops.uni-konstanz.de">[Kops]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kops.uni-konstanz.de</span><span class="citation-popover-snippet">mediates between intentions and physical activityby U Scholz · Cited by 305 — Research suggests that the prediction of behaviour change c...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_gym_after_work_1077e6_crowded_gym_fallback_34f5cb-Illustration-3-dark.svg" | relative_url }}" alt="Crowded Gym illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_gym_after_work_1077e6_crowded_gym_fallback_34f5cb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_gym_after_work_1077e6_crowded_gym_fallback_34f5cb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Fastest Way to Train in a Busy Gym
@@ -384,12 +384,12 @@ One effective method is to claim a small area with a pair of dumbbells and perfo
 1. Goblet squats.
 2. Dumbbell Romanian deadlifts.
 3. Dumbbell rows.
-4. Dumbbell floor presses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.muscleandfitness.com/workouts/workout-tips/10-killer-substitutes-crowded-exercise-machines/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muscleandfitness.com">[muscleandfitness.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muscleandfitness.com</span><span class="citation-popover-snippet">First, there&#x27;s usually a bench you can use. Second, by alternating between sides, you&#x27;ll increase the time under tension...Read more...</span></span></span>
+4. Dumbbell floor presses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.muscleandfitness.com/workouts/workout-tips/10-killer-substitutes-crowded-exercise-machines/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: muscleandfitness.com">[muscleandfitness.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">muscleandfitness.com</span><span class="citation-popover-snippet">First, there&#x27;s usually a bench you can use. Second, by alternating between sides, you&#x27;ll increase the time under tension...Read more...</span></span></span>
 5. Loaded carries or walking lunges.
 
 </div>
 
-Minimal-equipment routines are specifically valued in crowded gyms because they eliminate waiting and keep training density high. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fitandwell.com/news/this-minimal-equipment-workout-is-perfect-for-a-crowded-gym" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fitandwell.com">[Fit&amp;Well]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fitandwell.com</span><span class="citation-popover-snippet">Fit&amp;WellThis minimal equipment workout is perfect for a crowded gymDecember 5, 2022 — 4 Dec 2022 — If you want to try this session at hom...</span><span class="citation-popover-meta">Published: December 5, 2022</span></span></span>
+Minimal-equipment routines are specifically valued in crowded gyms because they eliminate waiting and keep training density high.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fitandwell.com/news/this-minimal-equipment-workout-is-perfect-for-a-crowded-gym" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fitandwell.com">[Fit&amp;Well]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fitandwell.com</span><span class="citation-popover-snippet">Fit&amp;WellThis minimal equipment workout is perfect for a crowded gymDecember 5, 2022 — 4 Dec 2022 — If you want to try this session at hom...</span><span class="citation-popover-meta">Published: December 5, 2022</span></span></span>
 
 Another option is to combine strength and conditioning. Alternate a strength exercise with a short cardio interval on whatever equipment becomes available. This keeps the session moving and reduces idle time.
 
@@ -404,178 +404,178 @@ For most people pursuing general fitness, health, muscle gain, or weight managem
 The practical rule is simple: if waiting exceeds a few minutes and an effective alternative exists, switch immediately and keep the session alive. A workout completed with substitutions is almost always more valuable than a workout abandoned because the gym was too busy.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What to Do When the Gym Is Packed. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What to Do When the Gym Is Packed. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Encourages flexible systems that survive obstacles.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Encourages flexible systems that survive obstacles.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
-        </h4>
-        <p class="fr-book-author">By B. J. Fogg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
+</h4>
+<p class="fr-book-author">By B. J. Fogg</p>
         
-        <p class="fr-book-desc">Focuses on adapting behaviour when conditions are imperfect.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on adapting behaviour when conditions are imperfect.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bigger+Leaner+Stronger+by+Michael+Matthews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bigger Leaner Stronger on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wnX_vQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Bigger Leaner Stronger" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bigger+Leaner+Stronger+by+Michael+Matthews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bigger Leaner Stronger">Bigger Leaner Stronger</a>
-        </h4>
-        <p class="fr-book-author">By Michael Matthews</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bigger+Leaner+Stronger+by+Michael+Matthews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bigger Leaner Stronger on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wnX_vQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Bigger Leaner Stronger" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bigger+Leaner+Stronger+by+Michael+Matthews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bigger Leaner Stronger">Bigger Leaner Stronger</a>
+</h4>
+<p class="fr-book-author">By Michael Matthews</p>
         
-        <p class="fr-book-desc">Provides practical strength-training alternatives and planning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bigger+Leaner+Stronger+by+Michael+Matthews&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides practical strength-training alternatives and planning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bigger+Leaner+Stronger+by+Michael+Matthews&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+New+Rules+of+Lifting+by+Lou+Schuler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The New Rules of Lifting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XK5PEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The New Rules of Lifting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+New+Rules+of+Lifting+by+Lou+Schuler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The New Rules of Lifting">The New Rules of Lifting</a>
-        </h4>
-        <p class="fr-book-author">By Lou Schuler, Alwyn Cosgrove</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+New+Rules+of+Lifting+by+Lou+Schuler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The New Rules of Lifting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XK5PEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The New Rules of Lifting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+New+Rules+of+Lifting+by+Lou+Schuler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The New Rules of Lifting">The New Rules of Lifting</a>
+</h4>
+<p class="fr-book-author">By Lou Schuler, Alwyn Cosgrove</p>
         
-        <p class="fr-book-desc">Encourages movement-pattern thinking over equipment dependence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+New+Rules+of+Lifting+by+Lou+Schuler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages movement-pattern thinking over equipment dependence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+New+Rules+of+Lifting+by+Lou+Schuler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bigger+Leaner+Stronger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bigger Leaner Stronger</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bigger+Leaner+Stronger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bigger Leaner Stronger</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-    </div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowded-gym-what-to-do-when-the-gym-is-packed-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gatorade 32 Oz Contour Squeeze Sport Water Bottle Workout Fitness, 2 Pack"><img src="{{ '/assets/images/marketplace-covers/d0877b88f41a4f83e2d0.jpg' | relative_url }}" alt="Listing image for Gatorade 32 Oz Contour Squeeze Sport Water Bottle Workout Fitness, 2 Pack" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowded-gym-what-to-do-when-the-gym-is-packed-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Gatorade 32 Oz Contour Squeeze Sport Water Bottle Workout Fitness, 2 Pack</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowded-gym-what-to-do-when-the-gym-is-packed-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for workout water bottle">Search <span data-ebay-domain-label>eBay.com</span>: workout water bottle</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowded-gym-what-to-do-when-the-gym-is-packed-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowded-gym-what-to-do-when-the-gym-is-packed-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gatorade 32 Oz Contour Squeeze Sport Water Bottle Workout Fitness, 2 Pack"><img src="{{ '/assets/images/marketplace-covers/d0877b88f41a4f83e2d0.jpg' | relative_url }}" alt="Listing image for Gatorade 32 Oz Contour Squeeze Sport Water Bottle Workout Fitness, 2 Pack" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowded-gym-what-to-do-when-the-gym-is-packed-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Gatorade 32 Oz Contour Squeeze Sport Water Bottle Workout Fitness, 2 Pack</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowded-gym-what-to-do-when-the-gym-is-packed-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for workout water bottle">Search<span data-ebay-domain-label>eBay.com</span>: workout water bottle</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowded-gym-what-to-do-when-the-gym-is-packed-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowded-gym-what-to-do-when-the-gym-is-packed-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Battle Bottle - Half Gallon Insulated Water Bottle with Paracord Handle - Large"><img src="{{ '/assets/images/marketplace-covers/4bf718d2f157ca01cd7a.jpg' | relative_url }}" alt="Listing image for Battle Bottle - Half Gallon Insulated Water Bottle with Paracord Handle - Large" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowded-gym-what-to-do-when-the-gym-is-packed-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Battle Bottle - Half Gallon Insulated Water Bottle with Paracord Handle - Large</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowded-gym-what-to-do-when-the-gym-is-packed-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for workout water bottle">Search <span data-ebay-domain-label>eBay.com</span>: workout water bottle</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowded-gym-what-to-do-when-the-gym-is-packed-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowded-gym-what-to-do-when-the-gym-is-packed-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Battle Bottle - Half Gallon Insulated Water Bottle with Paracord Handle - Large"><img src="{{ '/assets/images/marketplace-covers/4bf718d2f157ca01cd7a.jpg' | relative_url }}" alt="Listing image for Battle Bottle - Half Gallon Insulated Water Bottle with Paracord Handle - Large" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowded-gym-what-to-do-when-the-gym-is-packed-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Battle Bottle - Half Gallon Insulated Water Bottle with Paracord Handle - Large</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowded-gym-what-to-do-when-the-gym-is-packed-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for workout water bottle">Search<span data-ebay-domain-label>eBay.com</span>: workout water bottle</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowded-gym-what-to-do-when-the-gym-is-packed-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowded-gym-what-to-do-when-the-gym-is-packed-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dumbbell Water Bottle -Fitness Gym Sports Drink Bottle (Price per Unit)"><img src="{{ '/assets/images/marketplace-covers/d09223e7728a037f3ca9.jpg' | relative_url }}" alt="Listing image for Dumbbell Water Bottle -Fitness Gym Sports Drink Bottle (Price per Unit)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowded-gym-what-to-do-when-the-gym-is-packed-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Dumbbell Water Bottle -Fitness Gym Sports Drink Bottle (Price per Unit)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowded-gym-what-to-do-when-the-gym-is-packed-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for workout water bottle">Search <span data-ebay-domain-label>eBay.com</span>: workout water bottle</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowded-gym-what-to-do-when-the-gym-is-packed-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowded-gym-what-to-do-when-the-gym-is-packed-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dumbbell Water Bottle -Fitness Gym Sports Drink Bottle (Price per Unit)"><img src="{{ '/assets/images/marketplace-covers/d09223e7728a037f3ca9.jpg' | relative_url }}" alt="Listing image for Dumbbell Water Bottle -Fitness Gym Sports Drink Bottle (Price per Unit)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowded-gym-what-to-do-when-the-gym-is-packed-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Dumbbell Water Bottle -Fitness Gym Sports Drink Bottle (Price per Unit)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowded-gym-what-to-do-when-the-gym-is-packed-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for workout water bottle">Search<span data-ebay-domain-label>eBay.com</span>: workout water bottle</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowded-gym-what-to-do-when-the-gym-is-packed-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowded-gym-what-to-do-when-the-gym-is-packed-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gatorade 32 Oz Contour Squeeze Sport Water Bottle Workout Fitness, 2 Pack"><img src="{{ '/assets/images/marketplace-covers/e83c4b4ce919af2f6ecb.jpg' | relative_url }}" alt="Listing image for Gatorade 32 Oz Contour Squeeze Sport Water Bottle Workout Fitness, 2 Pack" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowded-gym-what-to-do-when-the-gym-is-packed-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Gatorade 32 Oz Contour Squeeze Sport Water Bottle Workout Fitness, 2 Pack</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowded-gym-what-to-do-when-the-gym-is-packed-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for workout water bottle">Search <span data-ebay-domain-label>eBay.com</span>: workout water bottle</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowded-gym-what-to-do-when-the-gym-is-packed-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowded-gym-what-to-do-when-the-gym-is-packed-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowded-gym-what-to-do-when-the-gym-is-packed-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gatorade 32 Oz Contour Squeeze Sport Water Bottle Workout Fitness, 2 Pack"><img src="{{ '/assets/images/marketplace-covers/e83c4b4ce919af2f6ecb.jpg' | relative_url }}" alt="Listing image for Gatorade 32 Oz Contour Squeeze Sport Water Bottle Workout Fitness, 2 Pack" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowded-gym-what-to-do-when-the-gym-is-packed-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Gatorade 32 Oz Contour Squeeze Sport Water Bottle Workout Fitness, 2 Pack</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowded-gym-what-to-do-when-the-gym-is-packed-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for workout water bottle">Search<span data-ebay-domain-label>eBay.com</span>: workout water bottle</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowded-gym-what-to-do-when-the-gym-is-packed-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=crowded-gym-what-to-do-when-the-gym-is-packed-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -591,7 +591,7 @@ The practical rule is simple: if waiting exceeds a few minutes and an effective 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -611,7 +611,7 @@ The practical rule is simple: if waiting exceeds a few minutes and an effective 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -643,7 +643,7 @@ The practical rule is simple: if waiting exceeds a few minutes and an effective 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -673,7 +673,7 @@ The practical rule is simple: if waiting exceeds a few minutes and an effective 
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -731,110 +731,110 @@ The practical rule is simple: if waiting exceeds a few minutes and an effective 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: resources.rework.com  
    Title: 5-7:30pm evening peak represent roughly 5-6 hours of high  
-   Link: <a href="https://resources.rework.com/libraries/gym-fitness-growth/peak-hour-management" target="_blank" rel="noopener noreferrer nofollow">https://resources.rework.com/libraries/gym-fitness-growth/peak-hour-management</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Peak Hour Management &amp; Capacity Planning for GymsMarch 19, 2026 — Overcrowding during peak hours is one of the top three...</p></details>
+   Link:<a href="https://resources.rework.com/libraries/gym-fitness-growth/peak-hour-management" target="_blank" rel="noopener noreferrer nofollow">https://resources.rework.com/libraries/gym-fitness-growth/peak-hour-management</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Peak Hour Management &amp; Capacity Planning for GymsMarch 19, 2026 — Overcrowding during peak hours is one of the top three...</p></details>
    Published: March 19, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: d-nb.info  
-   Link: <a href="https://d-nb.info/1104173190/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1104173190/34</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Action planning comprises...Read more...</p></details>
+   Link:<a href="https://d-nb.info/1104173190/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1104173190/34</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Action planning comprises...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/31923898/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31923898/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Intentions for Exercise and Physical Activityby J Kompf · 2020 · Cited by 34 — Implementation intentions are an effe...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/31923898/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31923898/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Intentions for Exercise and Physical Activityby J Kompf · 2020 · Cited by 34 — Implementation intentions are an effe...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: riversfitness.co.uk  
    Title: Rivers Fitness Busy Gym?  
-   Link: <a href="https://www.riversfitness.co.uk/blog/gym-machines-alternative-exercises" target="_blank" rel="noopener noreferrer nofollow">https://www.riversfitness.co.uk/blog/gym-machines-alternative-exercises</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Alternatives to Gym Machines | Exercises &amp;...January 9, 2024 — 9 Jan 2026 — Busy Gym? Alternatives to Gym Machines | Exercises &amp; How to...</p></details>
+   Link:<a href="https://www.riversfitness.co.uk/blog/gym-machines-alternative-exercises" target="_blank" rel="noopener noreferrer nofollow">https://www.riversfitness.co.uk/blog/gym-machines-alternative-exercises</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alternatives to Gym Machines | Exercises &amp;...January 9, 2024 — 9 Jan 2026 — Busy Gym? Alternatives to Gym Machines | Exercises &amp; How to...</p></details>
    Published: January 9, 2024  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: eliteclubs.com  
-   Link: <a href="https://eliteclubs.com/5-substitutes-for-crowded-fitness-center-machines/" target="_blank" rel="noopener noreferrer nofollow">https://eliteclubs.com/5-substitutes-for-crowded-fitness-center-machines/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rowing Machine · 3. Chest Press Machine · 4. The Lat Pull-Down Machine.Read more...</p></details>
+   Link:<a href="https://eliteclubs.com/5-substitutes-for-crowded-fitness-center-machines/" target="_blank" rel="noopener noreferrer nofollow">https://eliteclubs.com/5-substitutes-for-crowded-fitness-center-machines/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rowing Machine · 3. Chest Press Machine · 4. The Lat Pull-Down Machine.Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: businessinsider.com  
-   Link: <a href="https://www.businessinsider.com/gyms-outdated-cardio-no-squat-racks-2024-9" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/gyms-outdated-cardio-no-squat-racks-2024-9</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Long cardio sessions are becoming less common, with gym-goers favoring activities like squats, deadlifts, and hip thrusts. This trend is...</p></details>
+   Link:<a href="https://www.businessinsider.com/gyms-outdated-cardio-no-squat-racks" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/gyms-outdated-cardio-no-squat-racks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Long cardio sessions are becoming less common, with gym-goers favoring activities like squats, deadlifts, and hip thrusts. This trend is...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: muscleandfitness.com  
-   Link: <a href="https://www.muscleandfitness.com/workouts/workout-tips/10-killer-substitutes-crowded-exercise-machines/" target="_blank" rel="noopener noreferrer nofollow">https://www.muscleandfitness.com/workouts/workout-tips/10-killer-substitutes-crowded-exercise-machines/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>First, there&#x27;s usually a bench you can use. Second, by alternating between sides, you&#x27;ll increase the time under tension...Read more...</p></details>
+   Link:<a href="https://www.muscleandfitness.com/workouts/workout-tips/10-killer-substitutes-crowded-exercise-machines/" target="_blank" rel="noopener noreferrer nofollow">https://www.muscleandfitness.com/workouts/workout-tips/10-killer-substitutes-crowded-exercise-machines/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>First, there&#x27;s usually a bench you can use. Second, by alternating between sides, you&#x27;ll increase the time under tension...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Effect of free-weight vs  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10426227/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10426227/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>machine-based strength training on...by ME Haugen · 2023 · Cited by 59 — There has been observed a higher maximum load lifted with machi...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10426227/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10426227/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>machine-based strength training on...by ME Haugen · 2023 · Cited by 59 — There has been observed a higher maximum load lifted with machi...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: fitandwell.com  
-   Link: <a href="https://www.fitandwell.com/news/this-minimal-equipment-workout-is-perfect-for-a-crowded-gym" target="_blank" rel="noopener noreferrer nofollow">https://www.fitandwell.com/news/this-minimal-equipment-workout-is-perfect-for-a-crowded-gym</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fit&amp;WellThis minimal equipment workout is perfect for a crowded gymDecember 5, 2022 — 4 Dec 2022 — If you want to try this session at hom...</p></details>
+   Link:<a href="https://www.fitandwell.com/news/this-minimal-equipment-workout-is-perfect-for-a-crowded-gym" target="_blank" rel="noopener noreferrer nofollow">https://www.fitandwell.com/news/this-minimal-equipment-workout-is-perfect-for-a-crowded-gym</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fit&amp;WellThis minimal equipment workout is perfect for a crowded gymDecember 5, 2022 — 4 Dec 2022 — If you want to try this session at hom...</p></details>
    Published: December 5, 2022  
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: kops.uni-konstanz.de  
-   Link: <a href="https://kops.uni-konstanz.de/server/api/core/bitstreams/70e0d221-a03b-4547-81e2-cb7896003748/content" target="_blank" rel="noopener noreferrer nofollow">https://kops.uni-konstanz.de/server/api/core/bitstreams/70e0d221-a03b-4547-81e2-cb7896003748/content</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>mediates between intentions and physical activityby U Scholz · Cited by 305 — Research suggests that the prediction of [behaviour change](&amp;#123;&amp;#123; &#x27;behaviour-change/&#x27; | relative_url &amp;#125;&amp;#125;) c...</p></details>
+   Link:<a href="https://kops.uni-konstanz.de/server/api/core/bitstreams/70e0d221-a03b-4547-81e2-cb7896003748/content" target="_blank" rel="noopener noreferrer nofollow">https://kops.uni-konstanz.de/server/api/core/bitstreams/70e0d221-a03b-4547-81e2-cb7896003748/content</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mediates between intentions and physical activityby U Scholz · Cited by 305 — Research suggests that the prediction of [behaviour change](&amp;#123;&amp;#123; &#x27;behaviour-change/&#x27; | relative_url &amp;#125;&amp;#125;) c...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cfspotnyc.com  
-   Link: <a href="https://cfspotnyc.com/blog/benefits-of-24-7-gym-access-for-busy-professionals/" target="_blank" rel="noopener noreferrer nofollow">https://cfspotnyc.com/blog/benefits-of-24-7-gym-access-for-busy-professionals/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Benefits of 24/7 Gym Access for Busy Professionals?During peak hours, equipment availability becomes a bottleneck, leading to extended wa...</p></details>
+   Link:<a href="https://cfspotnyc.com/blog/benefits-of-24-7-gym-access-for-busy-professionals/" target="_blank" rel="noopener noreferrer nofollow">https://cfspotnyc.com/blog/benefits-of-24-7-gym-access-for-busy-professionals/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Benefits of 24/7 Gym Access for Busy Professionals?During peak hours, equipment availability becomes a bottleneck, leading to extended wa...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: rx30fit.com  
-   Link: <a href="https://rx30fit.com/blog/benefits-of-24-7-gym-access-for-busy-professionals/" target="_blank" rel="noopener noreferrer nofollow">https://rx30fit.com/blog/benefits-of-24-7-gym-access-for-busy-professionals/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It allows us to tailor workout schedules around hectic routines, enhancing consistency and achieving ideal time management.Read more...</p></details>
+   Link:<a href="https://rx30fit.com/blog/benefits-of-24-7-gym-access-for-busy-professionals/" target="_blank" rel="noopener noreferrer nofollow">https://rx30fit.com/blog/benefits-of-24-7-gym-access-for-busy-professionals/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It allows us to tailor workout schedules around hectic routines, enhancing consistency and achieving ideal time management.Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: atfitnesstx.com  
    Title: Benefits of 24/7 Gym Access for Busy Professionals Reduced Gym Crowds  
-   Link: <a href="https://atfitnesstx.com/blog/benefits-of-24-7-gym-access-for-busy-professionals/" target="_blank" rel="noopener noreferrer nofollow">https://atfitnesstx.com/blog/benefits-of-24-7-gym-access-for-busy-professionals/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>With 24/7 gym access, you can work out during off-peak hours, ensuring minimal wait times for equipment. This flexibility means...Read more...</p></details>
+   Link:<a href="https://atfitnesstx.com/blog/benefits-of-24-7-gym-access-for-busy-professionals/" target="_blank" rel="noopener noreferrer nofollow">https://atfitnesstx.com/blog/benefits-of-24-7-gym-access-for-busy-professionals/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>With 24/7 gym access, you can work out during off-peak hours, ensuring minimal wait times for equipment. This flexibility means...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pure.amsterdamumc.nl  
    Title: Promoting an active choice among physically inactive adults  
-   Link: <a href="https://pure.amsterdamumc.nl/ws/portalfiles/portal/149117967/Promoting-an-active-choice-among-physically-inactive-adults.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.amsterdamumc.nl/ws/portalfiles/portal/149117967/Promoting-an-active-choice-among-physically-inactive-adults.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>an active choice among physically inactive adultsby LL Landais · 2022 · Cited by 5 — Previous research has demonstrated that health-promo...</p></details>
+   Link:<a href="https://pure.amsterdamumc.nl/ws/portalfiles/portal/149117967/Promoting-an-active-choice-among-physically-inactive-adults.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.amsterdamumc.nl/ws/portalfiles/portal/149117967/Promoting-an-active-choice-among-physically-inactive-adults.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>an active choice among physically inactive adultsby LL Landais · 2022 · Cited by 5 — Previous research has demonstrated that health-promo...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/233472164_A_meta-analytic_review_of_the_effect_of_implementation_intentions_on_physical_activity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/233472164_A_meta-analytic_review_of_the_effect_of_implementation_intentions_on_physical_activity</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>aviours, but mixed results are observed regarding physical activity.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/233472164_A_meta-analytic_review_of_the_effect_of_implementation_intentions_on_physical_activity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/233472164_A_meta-analytic_review_of_the_effect_of_implementation_intentions_on_physical_activity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>aviours, but mixed results are observed regarding physical activity.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Effect of free-weight vs  
-   Link: <a href="https://www.researchgate.net/publication/373141419_Effect_of_free-weight_vs_machine-based_strength_training_on_maximal_strength_hypertrophy_and_jump_performance_-_a_systematic_review_and_meta-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/373141419_Effect_of_free-weight_vs_machine-based_strength_training_on_maximal_strength_hypertrophy_and_jump_performance_-_a_systematic_review_and_meta-analysis</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>machine-based strength...2 Aug 2023 — The purpose of this meta-analysis was to summarize the data on the effect of free-weight versus ma...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/373141419_Effect_of_free-weight_vs_machine-based_strength_training_on_maximal_strength_hypertrophy_and_jump_performance_-_a_systematic_review_and_meta-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/373141419_Effect_of_free-weight_vs_machine-based_strength_training_on_maximal_strength_hypertrophy_and_jump_performance_-_a_systematic_review_and_meta-analysis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>machine-based strength...2 Aug 2023 — The purpose of this meta-analysis was to summarize the data on the effect of free-weight versus ma...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: eprints.whiterose.ac.uk  
-   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/225167/1/British%20J%20Health%20Psychol%20-%202025%20-%20Divine%20-%20Reinforcing%20implementation%20intentions%20with%20imagery%20increases%20physical%20activity.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/225167/1/British%20J%20Health%20Psychol%20-%202025%20-%20Divine%20-%20Reinforcing%20implementation%20intentions%20with%20imagery%20increases%20physical%20activity.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>• Mental imagery can increase physical activity...Read more...</p></details>
+   Link:<a href="https://eprints.whiterose.ac.uk/id/eprint/225167/1/British%20J%20Health%20Psychol%20-%202025%20-%20Divine%20-%20Reinforcing%20implementation%20intentions%20with%20imagery%20increases%20physical%20activity.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/225167/1/British%20J%20Health%20Psychol%20-%202025%20-%20Divine%20-%20Reinforcing%20implementation%20intentions%20with%20imagery%20increases%20physical%20activity.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>• Mental imagery can increase physical activity...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: acefitness.org  
    Title: beginner strength training workout  
-   Link: <a href="https://www.acefitness.org/resources/everyone/blog/3714/beginner-strength-training-workout/?srsltid=AfmBOooSqUXEG5qnsIPOabBgGu9rf0wGCrQyX4n8uJMUNqiJuX0ak6pS" target="_blank" rel="noopener noreferrer nofollow">https://www.acefitness.org/resources/everyone/blog/3714/beginner-strength-training-workout/?srsltid=AfmBOooSqUXEG5qnsIPOabBgGu9rf0wGCrQyX4n8uJMUNqiJuX0ak6pS</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Feb 2014 — Here are a few tips and six beginner strength training workouts targeting the major muscles of the body to get you started w...</p></details>
+   Link:<a href="https://www.acefitness.org/resources/everyone/blog/3714/beginner-strength-training-workout/?srsltid=AfmBOooSqUXEG5qnsIPOabBgGu9rf0wGCrQyX4n8uJMUNqiJuX0ak6pS" target="_blank" rel="noopener noreferrer nofollow">https://www.acefitness.org/resources/everyone/blog/3714/beginner-strength-training-workout/?srsltid=AfmBOooSqUXEG5qnsIPOabBgGu9rf0wGCrQyX4n8uJMUNqiJuX0ak6pS</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 Feb 2014 — Here are a few tips and six beginner strength training workouts targeting the major muscles of the body to get you started w...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cambridge.org  
    Title: University Press & Assessment39  
-   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment39 - Planning and Implementation Intention InterventionsThis chapter provides resources and best-p...</p></details>
+   Link:<a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment39 - Planning and Implementation Intention InterventionsThis chapter provides resources and best-p...</p></details>

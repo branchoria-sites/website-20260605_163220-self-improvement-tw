@@ -271,7 +271,7 @@ image: /assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_cue_chec
 A [weekly review]({{ 'weekly-review/' | relative_url }}) often reveals a surprising pattern: the habit did not fail halfway through. It never started. The person intended to read, exercise, write, stretch or practise a skill, but the behaviour never reached the launch point.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_cue_checks_habits_253e47-Illustration-1-dark.svg" | relative_url }}" alt="Cue Check illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_cue_checks_habits_253e47-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_cue_checks_habits_253e47-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-When this happens repeatedly, the problem is often not [motivation]({{ 'motivation/' | relative_url }}). It is the cue. A cue is the reminder, situation or trigger that makes a behaviour easy to begin at the right moment. Habit research consistently shows that behaviours become linked to recurring contexts and prompts. When the cue is absent, unclear, badly timed or buried among competing demands, the intended action may never even enter awareness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26361052/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Psychology of Habitby W Wood · 2016 · Cited by 1896 — As the proverbial creatures of habit, people tend to repeat the same behavior...</span></span></span>
+When this happens repeatedly, the problem is often not [motivation]({{ 'motivation/' | relative_url }}). It is the cue. A cue is the reminder, situation or trigger that makes a behaviour easy to begin at the right moment. Habit research consistently shows that behaviours become linked to recurring contexts and prompts. When the cue is absent, unclear, badly timed or buried among competing demands, the intended action may never even enter awareness.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26361052/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Psychology of Habitby W Wood · 2016 · Cited by 1896 — As the proverbial creatures of habit, people tend to repeat the same behavior...</span></span></span>
 
 During a weekly review, one of the most useful questions is therefore: “What was supposed to remind me to start?” If the answer is vague, missing or unreliable, the review has likely identified the real bottleneck.
 
@@ -281,7 +281,7 @@ Many habit plans contain a goal but no reliable starting signal.
 
 A person may decide to meditate every day, exercise more often or study regularly. Yet when asked exactly what should trigger the behaviour, the answer is often something like “when I have time”, “after work”, or “sometime in the evening”. These are intentions, not cues.
 
-Research on habits describes them as responses that become associated with specific recurring contexts. Repetition in a stable situation helps create a cue–behaviour link. Without a recognisable cue, there is nothing consistent for the brain to connect with the desired action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 894 — Habit-formation adv...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineDeveloping habit-based health behaviour change...by B Gardner · 2023 · Cited by 157 — Habits are inherently idios...</span></span></span>
+Research on habits describes them as responses that become associated with specific recurring contexts. Repetition in a stable situation helps create a cue–behaviour link. Without a recognisable cue, there is nothing consistent for the brain to connect with the desired action.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 894 — Habit-formation adv...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineDeveloping habit-based health behaviour change...by B Gardner · 2023 · Cited by 157 — Habits are inherently idios...</span></span></span>
 
 During a weekly review, look for these [warning signs]({{ 'warning-signs/' | relative_url }}):
 
@@ -302,7 +302,7 @@ A useful test is simple: if someone asked what exact event should occur immediat
 
 “Exercise more in the morning” is not.
 
-Implementation-intention research repeatedly finds that specifying the exact situation in which an action will occur helps bridge the gap between intention and behaviour. The more clearly the cue is defined, the easier it becomes to recognise the moment for action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 894 — Habit-formation adv...</span></span></span>
+Implementation-intention research repeatedly finds that specifying the exact situation in which an action will occur helps bridge the gap between intention and behaviour. The more clearly the cue is defined, the easier it becomes to recognise the moment for action.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 894 — Habit-formation adv...</span></span></span>
 
 ## Why Timing and Location Change the Prompt
 
@@ -312,7 +312,7 @@ Many habits fail because the cue arrives during a moment of conflict.
 
 Consider someone who plans to stretch after arriving home from work. On paper, the cue seems obvious. In reality, arriving home may coincide with hunger, children needing attention, messages waiting to be answered and the desire to sit down. The cue exists, but it competes with stronger behaviours.
 
-Research on habit formation repeatedly highlights the importance of stable contexts. Consistent environments make cue recognition easier and increase [automaticity]({{ 'automaticity/' | relative_url }}) over time. When context changes constantly, the cue becomes weaker and less reliable. PubMed Central <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Context Stability in Habit Building Increases Automaticity...by M Stojanovic · 2022 · Cited by 25 — In this paper, we investigate the ef...</span></span></span>
+Research on habit formation repeatedly highlights the importance of stable contexts. Consistent environments make cue recognition easier and increase [automaticity]({{ 'automaticity/' | relative_url }}) over time. When context changes constantly, the cue becomes weaker and less reliable. PubMed Central<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Context Stability in Habit Building Increases Automaticity...by M Stojanovic · 2022 · Cited by 25 — In this paper, we investigate the ef...</span></span></span>
 
 During a review, examine the actual conditions surrounding the cue:
 
@@ -332,7 +332,7 @@ The lesson is that cue quality depends on context. The same reminder can succeed
 
 Not every failed habit suffers from a missing cue. Sometimes the cue is present but ineffective.
 
-The Fogg Behaviour Model argues that behaviour occurs when motivation, ability and a prompt converge at the same moment. If the prompt appears but the behaviour still does not happen, the action may be too difficult or inconvenient to perform in that context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://productmindset.substack.com/p/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: productmindset.substack.com">[Fogg Behavior Model]</a><span class="citation-popover" role="note"><span class="citation-popover-source">productmindset.substack.com</span><span class="citation-popover-snippet">Behavior Model - Product Mindset&#x27;s Newsletter - SubstackFogg&#x27;s behavior model is made up of three elements that predict behavior: motivat...</span></span></span>
+The Fogg Behaviour Model argues that behaviour occurs when motivation, ability and a prompt converge at the same moment. If the prompt appears but the behaviour still does not happen, the action may be too difficult or inconvenient to perform in that context.<span class="citation-chip-wrap"><a class="citation-chip" href="https://productmindset.substack.com/p/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: productmindset.substack.com">[Fogg Behavior Model]</a><span class="citation-popover" role="note"><span class="citation-popover-source">productmindset.substack.com</span><span class="citation-popover-snippet">Behavior Model - Product Mindset&#x27;s Newsletter - SubstackFogg&#x27;s behavior model is made up of three elements that predict behavior: motivat...</span></span></span>
 
 For example:
 
@@ -378,7 +378,7 @@ Examples include:
 
 </div>
 
-Research on habit formation shows that linking behaviour to recurring contexts supports the development of cue–response associations. Studies have found that connecting behaviours to routines or specific times can effectively [support]({{ 'support/' | relative_url }}) habit formation when repeated consistently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26361052/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Psychology of Habitby W Wood · 2016 · Cited by 1896 — As the proverbial creatures of habit, people tend to repeat the same behavior...</span></span></span>
+Research on habit formation shows that linking behaviour to recurring contexts supports the development of cue–response associations. Studies have found that connecting behaviours to routines or specific times can effectively [support]({{ 'support/' | relative_url }}) habit formation when repeated consistently.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26361052/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Psychology of Habitby W Wood · 2016 · Cited by 1896 — As the proverbial creatures of habit, people tend to repeat the same behavior...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/k-TCLz37IPE" title="The Fogg Behavior Model: How to Turn Learning into Action" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=k-TCLz37IPE" target="_blank" rel="noopener noreferrer">The Fogg Behavior Model: How to Turn Learning into Action</a></p><p class="youtube-embed-meta">Channel: Growth Engineering &middot; Views: 918 &middot; Uploaded: September 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=k-TCLz37IPE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=k-TCLz37IPE">Open on YouTube</a></p></div></div></div>
 
@@ -409,7 +409,7 @@ Use:
 
 “If I finish lunch, then I will stretch for two minutes.”
 
-Implementation-intention research consistently shows benefits from specifying the exact cue and response pair. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Evidence shows that established habits are cue-contingent, share...Read more...</span></span></span>
+Implementation-intention research consistently shows benefits from specifying the exact cue and response pair.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Evidence shows that established habits are cue-contingent, share...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_cue_checks_habits_253e47-Illustration-3-dark.svg" | relative_url }}" alt="Cue Check illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_cue_checks_habits_253e47-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_weekly_reviews_0ef084_cue_checks_habits_253e47-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Move the Cue Earlier
@@ -429,7 +429,7 @@ For the next week, ask:
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * What other behaviours occur immediately after this cue?
-* Which behaviour usually wins? <span class="citation-chip-wrap"><a class="citation-chip" href="https://effectiveselfhelp.org/research/a-guide-to-forming-habits-you-ll-keep/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: effectiveselfhelp.org">[effectiveselfhelp.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">effectiveselfhelp.org</span><span class="citation-popover-snippet">Behaviour change: a guide to forming habits you&#x27;ll keepImplementation intentions involve &#x27;specifying the behaviour one will perform in th...</span></span></span>
+* Which behaviour usually wins?<span class="citation-chip-wrap"><a class="citation-chip" href="https://effectiveselfhelp.org/research/a-guide-to-forming-habits-you-ll-keep/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: effectiveselfhelp.org">[effectiveselfhelp.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">effectiveselfhelp.org</span><span class="citation-popover-snippet">Behaviour change: a guide to forming habits you&#x27;ll keepImplementation intentions involve &#x27;specifying the behaviour one will perform in th...</span></span></span>
 * Can the cue be moved to a quieter moment?
 
 </div>
@@ -453,194 +453,194 @@ Habits grow through repeated cue–behaviour pairings in stable contexts. When t
 For many stalled habits, the weekly review does not reveal a motivation problem at all. It reveals that the starting signal was never strong enough to be noticed.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Habit Never Even Started. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Habit Never Even Started. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Strong coverage of cues, triggers and environment design.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Strong coverage of cues, triggers and environment design.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rrlPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Power of Habit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
-        </h4>
-        <p class="fr-book-author">By Charles Duhigg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rrlPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Power of Habit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
+</h4>
+<p class="fr-book-author">By Charles Duhigg</p>
         
-        <p class="fr-book-desc">Habit loop framework centres on cues.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Habit loop framework centres on cues.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
-        </h4>
-        <p class="fr-book-author">By B. J. Fogg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
+</h4>
+<p class="fr-book-author">By B. J. Fogg</p>
         
-        <p class="fr-book-desc">Explains prompts and triggers for starting behaviour.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains prompts and triggers for starting behaviour.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hooked on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KLJPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hooked" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hooked">Hooked</a>
-        </h4>
-        <p class="fr-book-author">By Nir Eyal</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hooked on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=KLJPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hooked" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hooked">Hooked</a>
+</h4>
+<p class="fr-book-author">By Nir Eyal</p>
         
-        <p class="fr-book-desc">Useful for understanding how prompts initiate actions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how prompts initiate actions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Power+of+Habit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Power of Habit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Power+of+Habit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Power of Habit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cork Pin Notice Board 3 types of Pins to choose 60x40 cm - Habit tracker"><img src="https://i.ebayimg.com/images/g/YPAAAOSwjjdk-G-v/s-l225.jpg" alt="Listing image for Cork Pin Notice Board 3 types of Pins to choose 60x40 cm - Habit tracker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Cork Pin Notice Board 3 types of Pins to choose 60x40 cm - Habit tracker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cork Pin Notice Board 3 types of Pins to choose 60x40 cm - Habit tracker"><img src="https://i.ebayimg.com/images/g/YPAAAOSwjjdk-G-v/s-l225.jpg" alt="Listing image for Cork Pin Notice Board 3 types of Pins to choose 60x40 cm - Habit tracker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Cork Pin Notice Board 3 types of Pins to choose 60x40 cm - Habit tracker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Big Pinboard Cork Board with 100 Pcs Pins 140x100 cm - Habit tracker"><img src="https://i.ebayimg.com/images/g/eFQAAOSwLShk~u7k/s-l225.jpg" alt="Listing image for Big Pinboard Cork Board with 100 Pcs Pins 140x100 cm - Habit tracker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Big Pinboard Cork Board with 100 Pcs Pins 140x100 cm - Habit tracker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Big Pinboard Cork Board with 100 Pcs Pins 140x100 cm - Habit tracker"><img src="https://i.ebayimg.com/images/g/eFQAAOSwLShk~u7k/s-l225.jpg" alt="Listing image for Big Pinboard Cork Board with 100 Pcs Pins 140x100 cm - Habit tracker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Big Pinboard Cork Board with 100 Pcs Pins 140x100 cm - Habit tracker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cork Pin Notice Board 3 types of Pins to choose 70x100 cm - Habit tracker"><img src="https://i.ebayimg.com/images/g/E6sAAOSwx01k~wKq/s-l225.jpg" alt="Listing image for Cork Pin Notice Board 3 types of Pins to choose 70x100 cm - Habit tracker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Cork Pin Notice Board 3 types of Pins to choose 70x100 cm - Habit tracker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cork Pin Notice Board 3 types of Pins to choose 70x100 cm - Habit tracker"><img src="https://i.ebayimg.com/images/g/E6sAAOSwx01k~wKq/s-l225.jpg" alt="Listing image for Cork Pin Notice Board 3 types of Pins to choose 70x100 cm - Habit tracker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Cork Pin Notice Board 3 types of Pins to choose 70x100 cm - Habit tracker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cork Pin Notice Board 3 types of Pins to choose 80x120 cm - Habit tracker"><img src="https://i.ebayimg.com/images/g/Cd8AAOSwanBk~wkm/s-l225.jpg" alt="Listing image for Cork Pin Notice Board 3 types of Pins to choose 80x120 cm - Habit tracker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Cork Pin Notice Board 3 types of Pins to choose 80x120 cm - Habit tracker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cork Pin Notice Board 3 types of Pins to choose 80x120 cm - Habit tracker"><img src="https://i.ebayimg.com/images/g/Cd8AAOSwanBk~wkm/s-l225.jpg" alt="Listing image for Cork Pin Notice Board 3 types of Pins to choose 80x120 cm - Habit tracker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Cork Pin Notice Board 3 types of Pins to choose 80x120 cm - Habit tracker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-never-even-started-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="why-the-habit-never-even-started-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -656,7 +656,7 @@ For many stalled habits, the weekly review does not reveal a motivation problem 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -676,7 +676,7 @@ For many stalled habits, the weekly review does not reveal a motivation problem 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -708,7 +708,7 @@ For many stalled habits, the weekly review does not reveal a motivation problem 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -760,7 +760,7 @@ For many stalled habits, the weekly review does not reveal a motivation problem 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -805,7 +805,7 @@ For many stalled habits, the weekly review does not reveal a motivation problem 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -846,171 +846,171 @@ For many stalled habits, the weekly review does not reveal a motivation problem 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence shows that established habits are cue-contingent, share...Read more...</p></details>
+   Link:<a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence shows that established habits are cue-contingent, share...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cambridge.org  
    Title: University Press & Assessment Habit Interventions (Chapter 41)  
-   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/habit-interventions/420CFDC7EE75036CC4D08EE137108E45" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/habit-interventions/420CFDC7EE75036CC4D08EE137108E45</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentHabit Interventions (Chapter 41) - The Handbook of...The central BCT involved in habit formation...</p></details>
+   Link:<a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/habit-interventions/420CFDC7EE75036CC4D08EE137108E45" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/habit-interventions/420CFDC7EE75036CC4D08EE137108E45</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentHabit Interventions (Chapter 41) - The Handbook of...The central BCT involved in habit formation...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cancercontrol.cancer.gov  
-   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</p></details>
+   Link:<a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cambridge.org  
    Title: University Press & Assessment39  
-   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment39 - Planning and Implementation Intention InterventionsThus, implementation intentions may be use...</p></details>
+   Link:<a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment39 - Planning and Implementation Intention InterventionsThus, implementation intentions may be use...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: Tiny Habits | My Thoughts as a Behavior Change Expert  
-   Link: <a href="http://www.youtube.com/watch?v=vfVQWCh1rTk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=vfVQWCh1rTk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg behavior model in 2 minutes and 30 seconds...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=vfVQWCh1rTk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=vfVQWCh1rTk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg behavior model in 2 minutes and 30 seconds...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: Fogg behavior model in 2 minutes and 30 seconds  
-   Link: <a href="http://www.youtube.com/watch?v=jsbF9z6adAo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=jsbF9z6adAo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Does Habit Formation Impact UX Design Choices...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=jsbF9z6adAo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=jsbF9z6adAo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Does Habit Formation Impact UX Design Choices...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26361052/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26361052/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology of Habitby W Wood · 2016 · Cited by 1896 — As the proverbial creatures of habit, people tend to repeat the same behavior...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26361052/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26361052/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology of Habitby W Wood · 2016 · Cited by 1896 — As the proverbial creatures of habit, people tend to repeat the same behavior...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 894 — Habit-formation adv...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 894 — Habit-formation adv...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineDeveloping habit-based health [behaviour change](&amp;#123;&amp;#123; &#x27;behaviour-change/&#x27; | relative_url &amp;#125;&amp;#125;)...by B Gardner · 2023 · Cited by 157 — Habits are inherently idios...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineDeveloping habit-based health [behaviour change](&amp;#123;&amp;#123; &#x27;behaviour-change/&#x27; | relative_url &amp;#125;&amp;#125;)...by B Gardner · 2023 · Cited by 157 — Habits are inherently idios...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10585941/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10585941/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralInstant habits versus flexible tenacity: Do implementation...by T van Timmeren · 2022 · Cited by 11 — Implementation inten...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10585941/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10585941/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralInstant habits versus flexible tenacity: Do implementation...by T van Timmeren · 2022 · Cited by 11 — Implementation inten...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/29191800/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29191800/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Intention and Reminder Effects on...30 Nov 2017 — The aim of this experiment was to manipulate the effects of implementation intentions...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/29191800/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29191800/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Intention and Reminder Effects on...30 Nov 2017 — The aim of this experiment was to manipulate the effects of implementation intentions...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9226889/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9226889/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralContext Stability in Habit Building Increases Automaticity and...by M Stojanovic · 2022 · Cited by 21 — In this paper, we...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9226889/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9226889/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralContext Stability in Habit Building Increases Automaticity and...by M Stojanovic · 2022 · Cited by 21 — In this paper, we...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Context Stability in Habit Building Increases Automaticity...by M Stojanovic · 2022 · Cited by 25 — In this paper, we investigate the ef...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Context Stability in Habit Building Increases Automaticity...by M Stojanovic · 2022 · Cited by 25 — In this paper, we investigate the ef...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Science of Habit Formation to Evidence-Based...by AG Harvey · 2021 · Cited by 55 — Also, implementation intentions to perform altern...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Science of Habit Formation to Evidence-Based...by AG Harvey · 2021 · Cited by 55 — Also, implementation intentions to perform altern...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: behaviormodel.org  
-   Link: <a href="https://www.behaviormodel.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.behaviormodel.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior ModelFogg Behavior Model - BJ FoggThe Fogg Behavior Model shows that three elements must converge at the same moment for a...</p></details>
+   Link:<a href="https://www.behaviormodel.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.behaviormodel.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior ModelFogg Behavior Model - BJ FoggThe Fogg Behavior Model shows that three elements must converge at the same moment for a...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/33405284/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/33405284/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit formation following routine-based versus time...by J Keller · 2021 · Cited by 153 — Conclusions: Linking one&#x27;s nutrition beh...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/33405284/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/33405284/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Habit formation following routine-based versus time...by J Keller · 2021 · Cited by 153 — Conclusions: Linking one&#x27;s nutrition beh...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/39387277/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/39387277/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>micro-randomized trial to understand and promote habit...by D Baretta · 2025 · Cited by 13 — We examined the habit formation trajectory...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/39387277/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/39387277/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>micro-randomized trial to understand and promote habit...by D Baretta · 2025 · Cited by 13 — We examined the habit formation trajectory...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: northbeam.io  
    Title: fogg behavior model motivation ability and prompts  
-   Link: <a href="https://www.northbeam.io/blog/fogg-behavior-model-motivation-ability-and-prompts" target="_blank" rel="noopener noreferrer nofollow">https://www.northbeam.io/blog/fogg-behavior-model-motivation-ability-and-prompts</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior Model: Motivation, Ability, and Prompts29 Oct 2025 — The Fogg Behavior Model explains that behavior occurs when Motivation...</p></details>
+   Link:<a href="https://www.northbeam.io/blog/fogg-behavior-model-motivation-ability-and-prompts" target="_blank" rel="noopener noreferrer nofollow">https://www.northbeam.io/blog/fogg-behavior-model-motivation-ability-and-prompts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior Model: Motivation, Ability, and Prompts29 Oct 2025 — The Fogg Behavior Model explains that behavior occurs when Motivation...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: vocus.cc  
-   Link: <a href="https://vocus.cc/article/63a096c8fd89780001022028" target="_blank" rel="noopener noreferrer nofollow">https://vocus.cc/article/63a096c8fd89780001022028</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>法格行為模型（Fogg Behavior Model）Dec 19, 2022 — 法格行為模型是用來拆解人類行為的一個公式，任何行為都可以拆解成三要素：動機（Motivation）、能力（Ability）、觸發點（Trigger）。 · 可以簡化為公式：行為（...Re...</p></details>
+   Link:<a href="https://vocus.cc/article/63a096c8fd89780001022028" target="_blank" rel="noopener noreferrer nofollow">https://vocus.cc/article/63a096c8fd89780001022028</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>法格行為模型（Fogg Behavior Model）Dec 19, 2022 — 法格行為模型是用來拆解人類行為的一個公式，任何行為都可以拆解成三要素：動機（Motivation）、能力（Ability）、觸發點（Trigger）。 · 可以簡化為公式：行為（...Re...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: productmindset.substack.com  
    Title: fogg behavior model  
-   Link: <a href="https://productmindset.substack.com/p/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow">https://productmindset.substack.com/p/fogg-behavior-model</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior Model - Product Mindset&#x27;s Newsletter - SubstackFogg&#x27;s behavior model is made up of three elements that predict behavior: motivat...</p></details>
+   Link:<a href="https://productmindset.substack.com/p/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow">https://productmindset.substack.com/p/fogg-behavior-model</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior Model - Product Mindset&#x27;s Newsletter - SubstackFogg&#x27;s behavior model is made up of three elements that predict behavior: motivat...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior ModelIt involves manipulating motivation, ability, and prompts to encourage desired actions and facilitate positive behavio...</p></details>
+   Link:<a href="https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior ModelIt involves manipulating motivation, ability, and prompts to encourage desired actions and facilitate positive behavio...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: oxford-review.com  
    Title: Habit Formation  
-   Link: <a href="https://oxford-review.com/habit-formation-what-the-neuroscience-is-saying/" target="_blank" rel="noopener noreferrer nofollow">https://oxford-review.com/habit-formation-what-the-neuroscience-is-saying/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What the Neuroscience is SayingStress and fatigue increase habitual behaviour; Context changes can disrupt existing habits; Working memor...</p></details>
+   Link:<a href="https://oxford-review.com/habit-formation-what-the-neuroscience-is-saying/" target="_blank" rel="noopener noreferrer nofollow">https://oxford-review.com/habit-formation-what-the-neuroscience-is-saying/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What the Neuroscience is SayingStress and fatigue increase habitual behaviour; Context changes can disrupt existing habits; Working memor...</p></details>
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/49832449_Breaking_Habits_With_Implementation_Intentions_A_Test_of_Underlying_Processes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/49832449_Breaking_Habits_With_Implementation_Intentions_A_Test_of_Underlying_Processes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Breaking Habits With Implementation IntentionsImplementation intentions specifying the replacement of a habitual response with an a...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/49832449_Breaking_Habits_With_Implementation_Intentions_A_Test_of_Underlying_Processes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/49832449_Breaking_Habits_With_Implementation_Intentions_A_Test_of_Underlying_Processes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Breaking Habits With Implementation IntentionsImplementation intentions specifying the replacement of a habitual response with an a...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/322222649_Habit_Formation_and_Change" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/322222649_Habit_Formation_and_Change</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Habit Formation and ChangeThis review highlights emerging findings, topics, and new directions in research on habitual behavior.Rea...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/322222649_Habit_Formation_and_Change" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/322222649_Habit_Formation_and_Change</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Habit Formation and ChangeThis review highlights emerging findings, topics, and new directions in research on habitual behavior.Rea...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/37367761_Implementation_Intentions_and_Health_Behaviour" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/37367761_Implementation_Intentions_and_Health_Behaviour</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Implementation Intentions and Health BehaviourIntentions are the culmination of the decision making process; they signal the end of...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/37367761_Implementation_Intentions_and_Health_Behaviour" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/37367761_Implementation_Intentions_and_Health_Behaviour</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Implementation Intentions and Health BehaviourIntentions are the culmination of the decision making process; they signal the end of...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/365790456_Habit_formation_in_context_Context-specific_and_context-free_measures_for_tracking_fruit_consumption_habit_formation_and_behaviour" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/365790456_Habit_formation_in_context_Context-specific_and_context-free_measures_for_tracking_fruit_consumption_habit_formation_and_behaviour</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Habit formation in context: Context‐specific and...28 Nov 2022 — This study compared context‐specific and context‐free measures of...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/365790456_Habit_formation_in_context_Context-specific_and_context-free_measures_for_tracking_fruit_consumption_habit_formation_and_behaviour" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/365790456_Habit_formation_in_context_Context-specific_and_context-free_measures_for_tracking_fruit_consumption_habit_formation_and_behaviour</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Habit formation in context: Context‐specific and...28 Nov 2022 — This study compared context‐specific and context‐free measures of...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/design-bootcamp/designing-with-intention-applying-bj-foggs-behavioral-model-in-ai-experiences-05ea6dca3069" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/design-bootcamp/designing-with-intention-applying-bj-foggs-behavioral-model-in-ai-experiences-05ea6dca3069</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Applying BJ Fogg&#x27;s Behavioral Model in AI ExperiencesHow Understanding Motivation, Ability, and Prompts Can Enhance User Engagement and D...</p></details>
+   Link:<a href="https://medium.com/design-bootcamp/designing-with-intention-applying-bj-foggs-behavioral-model-in-ai-experiences-05ea6dca3069" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/design-bootcamp/designing-with-intention-applying-bj-foggs-behavioral-model-in-ai-experiences-05ea6dca3069</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Applying BJ Fogg&#x27;s Behavioral Model in AI ExperiencesHow Understanding Motivation, Ability, and Prompts Can Enhance User Engagement and D...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: behaviordesign.stanford.edu  
-   Link: <a href="https://behaviordesign.stanford.edu/resources/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow">https://behaviordesign.stanford.edu/resources/fogg-behavior-model</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior Design LabFogg Behavior ModelThe Fogg Behavior Model shows that three elements must converge at the same moment for a behavior t...</p></details>
+   Link:<a href="https://behaviordesign.stanford.edu/resources/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow">https://behaviordesign.stanford.edu/resources/fogg-behavior-model</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior Design LabFogg Behavior ModelThe Fogg Behavior Model shows that three elements must converge at the same moment for a behavior t...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: effectiveselfhelp.org  
-   Link: <a href="https://effectiveselfhelp.org/research/a-guide-to-forming-habits-you-ll-keep/" target="_blank" rel="noopener noreferrer nofollow">https://effectiveselfhelp.org/research/a-guide-to-forming-habits-you-ll-keep/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour change: a guide to forming habits you&#x27;ll keepImplementation intentions involve &#x27;specifying the behaviour one will perform in th...</p></details>
+   Link:<a href="https://effectiveselfhelp.org/research/a-guide-to-forming-habits-you-ll-keep/" target="_blank" rel="noopener noreferrer nofollow">https://effectiveselfhelp.org/research/a-guide-to-forming-habits-you-ll-keep/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour change: a guide to forming habits you&#x27;ll keepImplementation intentions involve &#x27;specifying the behaviour one will perform in th...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: behaviormodel.org  
-   Link: <a href="https://www.behaviormodel.org/prompts" target="_blank" rel="noopener noreferrer nofollow">https://www.behaviormodel.org/prompts</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Prompts in the Fogg Behavior ModelLearn how prompts activate behavior in the Fogg Behavior Model and how to design effective triggers tha...</p></details>
+   Link:<a href="https://www.behaviormodel.org/prompts" target="_blank" rel="noopener noreferrer nofollow">https://www.behaviormodel.org/prompts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Prompts in the Fogg Behavior ModelLearn how prompts activate behavior in the Fogg Behavior Model and how to design effective triggers tha...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: digitalcharitylab.org  
-   Link: <a href="https://digitalcharitylab.org/2019/06/behavior-motivation-ability-prompt-the-fogg-behaviorial-model-and-digital-charities/" target="_blank" rel="noopener noreferrer nofollow">https://digitalcharitylab.org/2019/06/behavior-motivation-ability-prompt-the-fogg-behaviorial-model-and-digital-charities/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior = Motivation + Ability + Prompt: The Fogg...27 Jun 2019 — Three elements must converge at the same moment for a behavior to occ...</p></details>
+   Link:<a href="https://digitalcharitylab.org/2019/06/behavior-motivation-ability-prompt-the-fogg-behaviorial-model-and-digital-charities/" target="_blank" rel="noopener noreferrer nofollow">https://digitalcharitylab.org/2019/06/behavior-motivation-ability-prompt-the-fogg-behaviorial-model-and-digital-charities/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior = Motivation + Ability + Prompt: The Fogg...27 Jun 2019 — Three elements must converge at the same moment for a behavior to occ...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: osf.io  
-   Link: <a href="https://osf.io/download/dc39t/" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/download/dc39t/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>support for the notion that implementation intentions enhance automaticity by transferring control of behaviour...Read...</p></details>
+   Link:<a href="https://osf.io/download/dc39t/" target="_blank" rel="noopener noreferrer nofollow">https://osf.io/download/dc39t/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>support for the notion that implementation intentions enhance automaticity by transferring control of behaviour...Read...</p></details>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /self-improvement-tha-c01280-habit/
 description: Focused pages that expand on Automaticity.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: self_improvement_tha_c01280_habit_automaticity_947f0e
 parent_title: Automaticity
@@ -16,7 +16,7 @@ parent_permalink: /automaticity/
 
 # Explore Topics in Automaticity
 
-The following pages expand on the main **[Automaticity]({{ '/automaticity/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Automaticity]({{ '/automaticity/' | relative_url }})** page and cover its key branches in.
 
 - [Start Cue]({{ '/start-cue/' | relative_url }})
 - [Daily Anchors]({{ '/daily-anchors/' | relative_url }})

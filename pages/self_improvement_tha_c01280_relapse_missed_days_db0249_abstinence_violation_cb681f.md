@@ -274,12 +274,12 @@ image: /assets/images/self_improvement_tha_c01280_relapse_missed_days_db0249_abs
 
 ## Introduction
 
-The abstinence violation effect is a psychological trap that turns a small slip into a larger setback. The missed workout, skipped study session, unplanned takeaway, or lost evening of productive work is rarely the main problem. The bigger risk is the interpretation: “I have blown it”, “I have no discipline”, or “I am back where I started.” Research on relapse prevention suggests that these thoughts can create guilt, shame, and a loss of confidence that make another lapse more likely. In other words, the damage often comes less from the missed action and more from the [meaning]({{ 'meaning/' | relative_url }}) attached to it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6760427/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Relapse Prevention: An Overview of Marlatt&#x27;s Cognitive</span><span class="citation-popover-snippet">by ME Larimer · 1999 · Cited by 1154 — Lapse-management strategies focus on halting the lapse and combating the abstinence violation e...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/psychology/abstinence-violation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect For everyday self-improvement goals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Abstinence Violation</span><span class="citation-popover-snippet">Abstinence Violation - an overviewMarlatt (1985) describes an abstinence violation effect (AVE) that leads people to respond...</span></span></span>, understanding this mechanism matters because consistency is not usually destroyed by one mistake. It is destroyed when one mistake is treated as evidence of permanent failure.
+The abstinence violation effect is a psychological trap that turns a small slip into a larger setback. The missed workout, skipped study session, unplanned takeaway, or lost evening of productive work is rarely the main problem. The bigger risk is the interpretation: “I have blown it”, “I have no discipline”, or “I am back where I started.” Research on relapse prevention suggests that these thoughts can create guilt, shame, and a loss of confidence that make another lapse more likely. In other words, the damage often comes less from the missed action and more from the [meaning]({{ 'meaning/' | relative_url }}) attached to it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6760427/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Relapse Prevention: An Overview of Marlatt&#x27;s Cognitive</span><span class="citation-popover-snippet">by ME Larimer · 1999 · Cited by 1154 — Lapse-management strategies focus on halting the lapse and combating the abstinence violation e...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/psychology/abstinence-violation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect For everyday self-improvement goals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Abstinence Violation</span><span class="citation-popover-snippet">Abstinence Violation - an overviewMarlatt (1985) describes an abstinence violation effect (AVE) that leads people to respond...</span></span></span>, understanding this mechanism matters because consistency is not usually destroyed by one mistake. It is destroyed when one mistake is treated as evidence of permanent failure.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_relapse_missed_days_db0249_abstinence_violation_cb681f-Illustration-1-dark.svg" | relative_url }}" alt="Guilt spiral illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_relapse_missed_days_db0249_abstinence_violation_cb681f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_relapse_missed_days_db0249_abstinence_violation_cb681f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why One Slip Can Become a Spiral
 
-The abstinence violation effect (AVE) emerged from psychologist G. Alan Marlatt's work on relapse prevention. The core idea is simple: after a lapse, people may respond with self-blame, guilt, shame, and a sense that they have lost control. Those reactions reduce confidence and increase the chance that the lapse becomes a wider relapse. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6760427/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Relapse Prevention: An Overview of Marlatt&#x27;s Cognitive</span><span class="citation-popover-snippet">by ME Larimer · 1999 · Cited by 1154 — Lapse-management strategies focus on halting the lapse and combating the abstinence violation e...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/psychology/abstinence-violation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect In practical self-improvement]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Abstinence Violation</span><span class="citation-popover-snippet">Abstinence Violation - an overviewMarlatt (1985) describes an abstinence violation effect (AVE) that leads people to respond...</span></span></span>, the sequence often looks like this:
+The abstinence violation effect (AVE) emerged from psychologist G. Alan Marlatt's work on relapse prevention. The core idea is simple: after a lapse, people may respond with self-blame, guilt, shame, and a sense that they have lost control. Those reactions reduce confidence and increase the chance that the lapse becomes a wider relapse.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6760427/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Relapse Prevention: An Overview of Marlatt&#x27;s Cognitive</span><span class="citation-popover-snippet">by ME Larimer · 1999 · Cited by 1154 — Lapse-management strategies focus on halting the lapse and combating the abstinence violation e...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/psychology/abstinence-violation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect In practical self-improvement]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Abstinence Violation</span><span class="citation-popover-snippet">Abstinence Violation - an overviewMarlatt (1985) describes an abstinence violation effect (AVE) that leads people to respond...</span></span></span>, the sequence often looks like this:
 
 1. A person misses a planned behaviour.
 2. They interpret the miss as a personal failure.
@@ -287,15 +287,15 @@ The abstinence violation effect (AVE) emerged from psychologist G. Alan Marlatt'
 4. [Motivation]({{ 'motivation/' | relative_url }}) becomes tied to repairing self-esteem rather than doing the next action.
 5. Another lapse becomes more likely.
 
-The mechanism is partly attributional. People often explain the setback as something stable and personal: “I am lazy”, “I lack [willpower]({{ 'willpower/' | relative_url }})”, or “I always do this.” When a lapse is attributed to a fixed character flaw rather than a temporary circumstance, feelings of helplessness increase and self-efficacy—the belief that one can succeed next time—falls. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/281298055_Abstinence_Violation_Effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Abstinence Violation EffectThe abstinence violation effect (AVE) refers to the negative cognitive (ie, internal, stable...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://amactraining.co.uk/resources/free-learning-material/models-and-theories-of-health-behaviour-change-index/models-and-theories-of-health-behaviour-10/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amactraining.co.uk">[Amac Training]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amactraining.co.uk</span><span class="citation-popover-snippet">Models and theories of health behaviour (10): Relapse...There are two main components to the abstinence violation effect: When the cause...</span></span></span>
+The mechanism is partly attributional. People often explain the setback as something stable and personal: “I am lazy”, “I lack [willpower]({{ 'willpower/' | relative_url }})”, or “I always do this.” When a lapse is attributed to a fixed character flaw rather than a temporary circumstance, feelings of helplessness increase and self-efficacy—the belief that one can succeed next time—falls.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/281298055_Abstinence_Violation_Effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Abstinence Violation EffectThe abstinence violation effect (AVE) refers to the negative cognitive (ie, internal, stable...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://amactraining.co.uk/resources/free-learning-material/models-and-theories-of-health-behaviour-change-index/models-and-theories-of-health-behaviour-10/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amactraining.co.uk">[Amac Training]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amactraining.co.uk</span><span class="citation-popover-snippet">Models and theories of health behaviour (10): Relapse...There are two main components to the abstinence violation effect: When the cause...</span></span></span>
 
 This is why two people can experience the same missed day but have completely different outcomes. One sees a scheduling problem. The other sees evidence of personal inadequacy.
 
 ## How Guilt Lowers Confidence After a Lapse
 
-A common misunderstanding is that guilt automatically improves future behaviour. Moderate regret can encourage correction, but the abstinence violation effect describes something different: guilt and shame becoming so strong that they undermine action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.guilford.com/excerpts/marlatt.pdf?srsltid=AfmBOoqRoLQ9HxWhzQFNeMe5DgfK0K_QidZzzM7bWi6yjDOP2SUY39JN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guilford.com">[Guilford Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guilford.com</span><span class="citation-popover-snippet">Guilford PressRelapse Prevention for Alcohol and Drug ProblemsIndividuals who choose to indulge may be vulnerable to the “absti- nence vi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mayo.edu/research/documents/032813a-relapse-prev-and-follow-up-gauvinpdf/doc-10022942" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mayo.edu">[Mayo Clinic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mayo.edu</span><span class="citation-popover-snippet">Mayo ClinicRelapse Prevention and Follow-UpAbstinence Violation Effect (AVE). • Lapse creates dissonance with self imposed rule (abstinen...</span></span></span>
+A common misunderstanding is that guilt automatically improves future behaviour. Moderate regret can encourage correction, but the abstinence violation effect describes something different: guilt and shame becoming so strong that they undermine action.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.guilford.com/excerpts/marlatt.pdf?srsltid=AfmBOoqRoLQ9HxWhzQFNeMe5DgfK0K_QidZzzM7bWi6yjDOP2SUY39JN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guilford.com">[Guilford Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guilford.com</span><span class="citation-popover-snippet">Guilford PressRelapse Prevention for Alcohol and Drug ProblemsIndividuals who choose to indulge may be vulnerable to the “absti- nence vi...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mayo.edu/research/documents/032813a-relapse-prev-and-follow-up-gauvinpdf/doc-10022942" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mayo.edu">[Mayo Clinic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mayo.edu</span><span class="citation-popover-snippet">Mayo ClinicRelapse Prevention and Follow-UpAbstinence Violation Effect (AVE). • Lapse creates dissonance with self imposed rule (abstinen...</span></span></span>
 
-Research on lapse experiences has repeatedly linked setbacks with increased negative emotion and reduced self-efficacy. In smoking-cessation research, for example, lapses were associated with greater discouragement and lower confidence about remaining abstinent in the future. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1023/A%3A1021853301255" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Nature Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer Nature LinkThe Abstinence Violation Effect Following Smoking Lapses...by S Shiffman · 1997 · Cited by 70 — Lapses resulted in i...</span></span></span>
+Research on lapse experiences has repeatedly linked setbacks with increased negative emotion and reduced self-efficacy. In smoking-cessation research, for example, lapses were associated with greater discouragement and lower confidence about remaining abstinent in the future.<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1023/A%3A1021853301255" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Nature Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer Nature LinkThe Abstinence Violation Effect Following Smoking Lapses...by S Shiffman · 1997 · Cited by 70 — Lapses resulted in i...</span></span></span>
 
 The same pattern appears in everyday goals:
 
@@ -315,7 +315,7 @@ When self-improvement becomes a test of self-worth, every setback feels larger t
 
 ## The What-the-Hell Pattern Beyond Dieting
 
-The abstinence violation effect is closely related to what researchers and psychologists often call the “what-the-hell effect”. This phenomenon was first studied extensively in dieting. Restrained eaters who believed they had broken their diet sometimes responded by eating substantially more than they otherwise would have. The reasoning was not logical nutrition management but psychological surrender: “The diet is already ruined, so it does not matter anymore.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologytoday.com/us/blog/science-of-choice/201505/why-dieters-fail" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">Psychology Today Why Dieters Fail?</span><span class="citation-popover-snippet">Psychology TodayWhy Dieters Fail?May 29, 2015 — This motivational explanation of overeating has been termed the “what-the-hell-effect” by...</span><span class="citation-popover-meta">Published: May 29, 2015</span></span></span> ScienceDirect The same pattern appears far beyond food. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/psychology/abstinence-violation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Abstinence Violation</span><span class="citation-popover-snippet">Abstinence Violation - an overviewMarlatt (1985) describes an abstinence violation effect (AVE) that leads people to respond...</span></span></span>
+The abstinence violation effect is closely related to what researchers and psychologists often call the “what-the-hell effect”. This phenomenon was first studied extensively in dieting. Restrained eaters who believed they had broken their diet sometimes responded by eating substantially more than they otherwise would have. The reasoning was not logical nutrition management but psychological surrender: “The diet is already ruined, so it does not matter anymore.”<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologytoday.com/us/blog/science-of-choice/201505/why-dieters-fail" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">Psychology Today Why Dieters Fail?</span><span class="citation-popover-snippet">Psychology TodayWhy Dieters Fail?May 29, 2015 — This motivational explanation of overeating has been termed the “what-the-hell-effect” by...</span><span class="citation-popover-meta">Published: May 29, 2015</span></span></span> ScienceDirect The same pattern appears far beyond food.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/psychology/abstinence-violation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Abstinence Violation</span><span class="citation-popover-snippet">Abstinence Violation - an overviewMarlatt (1985) describes an abstinence violation effect (AVE) that leads people to respond...</span></span></span>
 
 A person aiming to read daily misses one evening and then skips the rest of the week.
 
@@ -323,7 +323,7 @@ Someone trying to reduce social media use spends twenty minutes scrolling, decid
 
 A new exerciser misses Monday's session and unconsciously postpones restarting until the following week.
 
-The common feature is all-or-nothing thinking. Once the ideal standard has been violated, the goal is treated as invalid. Researchers studying self-regulation setbacks describe similar processes in which people catastrophise an initial violation and conclude that further effort is pointless. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kinsalecbt.com/2024/04/04/how-to-combat-the-what-the-hell-effect/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kinsalecbt.com">[PubMed Central&#124; Kinsale CBT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kinsalecbt.com</span><span class="citation-popover-title">how to combat the what the hell effect</span><span class="citation-popover-snippet">How to combat the what-the-hell effectApr 4, 2024 — The what-the-hell effect refers to the tendency for people to abandon self-control ef...</span></span></span>
+The common feature is all-or-nothing thinking. Once the ideal standard has been violated, the goal is treated as invalid. Researchers studying self-regulation setbacks describe similar processes in which people catastrophise an initial violation and conclude that further effort is pointless.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kinsalecbt.com/2024/04/04/how-to-combat-the-what-the-hell-effect/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kinsalecbt.com">[PubMed Central&#124; Kinsale CBT]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kinsalecbt.com</span><span class="citation-popover-title">how to combat the what the hell effect</span><span class="citation-popover-snippet">How to combat the what-the-hell effectApr 4, 2024 — The what-the-hell effect refers to the tendency for people to abandon self-control ef...</span></span></span>
 
 This is one reason highly rigid rules can be surprisingly fragile. If success is defined as perfection, then ordinary human inconsistency creates repeated opportunities for perceived failure.
 
@@ -345,7 +345,7 @@ Common examples include:
 
 The irony is that ambitious people are often especially vulnerable. High standards can improve performance, but when standards become absolute, they increase the risk that a minor deviation will be interpreted as complete failure.
 
-Research on relapse prevention consistently emphasises that a lapse and a relapse are not the same event. The distinction matters because treating them as identical encourages the very spiral people are trying to avoid. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6760427/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Relapse Prevention: An Overview of Marlatt&#x27;s Cognitive</span><span class="citation-popover-snippet">by ME Larimer · 1999 · Cited by 1154 — Lapse-management strategies focus on halting the lapse and combating the abstinence violation e...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/281298055_Abstinence_Violation_Effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Abstinence Violation EffectThe abstinence violation effect (AVE) refers to the negative cognitive (ie, internal, stable...</span></span></span>
+Research on relapse prevention consistently emphasises that a lapse and a relapse are not the same event. The distinction matters because treating them as identical encourages the very spiral people are trying to avoid.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6760427/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Relapse Prevention: An Overview of Marlatt&#x27;s Cognitive</span><span class="citation-popover-snippet">by ME Larimer · 1999 · Cited by 1154 — Lapse-management strategies focus on halting the lapse and combating the abstinence violation e...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/281298055_Abstinence_Violation_Effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Abstinence Violation EffectThe abstinence violation effect (AVE) refers to the negative cognitive (ie, internal, stable...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jkafQlNX3eE" title="All-or-Nothing Thinking: A Cognitive Distortion That Leads to Depression (#3)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jkafQlNX3eE" target="_blank" rel="noopener noreferrer">All-or-Nothing Thinking: A Cognitive Distortion That Leads to Depression (#3)</a></p><p class="youtube-embed-meta">Channel: Therapy in a Nutshell &middot; Views: 260.6K &middot; Uploaded: July 2020 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jkafQlNX3eE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jkafQlNX3eE">Open on YouTube</a></p></div></div></div>
 
@@ -361,7 +361,7 @@ Instead of saying, “I am inconsistent,” say, “I missed yesterday's workout
 
 The first statement attacks the self. The second analyses the situation.
 
-Research on the AVE suggests that viewing lapses as temporary setbacks rather than proof of failure helps protect confidence and reduces the likelihood of further relapse. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/psychology/abstinence-violation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Abstinence Violation</span><span class="citation-popover-snippet">Abstinence Violation - an overviewMarlatt (1985) describes an abstinence violation effect (AVE) that leads people to respond...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://lagunatreatment.com/relapse/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lagunatreatment.com">[Laguna]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lagunatreatment.com</span><span class="citation-popover-snippet">Laguna Treatment CenterAbstinence Violation Effect &amp; Relapse Rates By DrugApr 9, 2025 — Marlatt considered the abstinence violation affec...</span></span></span>
+Research on the AVE suggests that viewing lapses as temporary setbacks rather than proof of failure helps protect confidence and reduces the likelihood of further relapse.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/psychology/abstinence-violation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Abstinence Violation</span><span class="citation-popover-snippet">Abstinence Violation - an overviewMarlatt (1985) describes an abstinence violation effect (AVE) that leads people to respond...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://lagunatreatment.com/relapse/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lagunatreatment.com">[Laguna]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lagunatreatment.com</span><span class="citation-popover-snippet">Laguna Treatment CenterAbstinence Violation Effect &amp; Relapse Rates By DrugApr 9, 2025 — Marlatt considered the abstinence violation affec...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_relapse_missed_days_db0249_abstinence_violation_cb681f-Illustration-3-dark.svg" | relative_url }}" alt="Guilt spiral illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_relapse_missed_days_db0249_abstinence_violation_cb681f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_relapse_missed_days_db0249_abstinence_violation_cb681f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Focus on the next repetition
@@ -392,278 +392,278 @@ This keeps attention on design rather than self-condemnation.
 
 ### Protect self-efficacy
 
-Self-efficacy is one of the most important predictors of persistence across behaviour-change models. Successful recovery from a lapse can actually strengthen confidence by proving that setbacks are manageable rather than catastrophic. Taylor & Francis Online <span class="citation-chip-wrap"><a class="citation-chip" href="https://figshare.le.ac.uk/ndownloader/files/18252980" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: figshare.le.ac.uk">[Figshare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">figshare.le.ac.uk</span><span class="citation-popover-title">Figshare IS THERE AN ABSTINENCE MAINTENANCE EFFECT?</span><span class="citation-popover-snippet">by A DZIALDOWSKI — Successful coping is thought to increase self-efficacy at remaining abstinent in the future, and to decrease the likel...</span></span></span>
+Self-efficacy is one of the most important predictors of persistence across behaviour-change models. Successful recovery from a lapse can actually strengthen confidence by proving that setbacks are manageable rather than catastrophic. Taylor & Francis Online<span class="citation-chip-wrap"><a class="citation-chip" href="https://figshare.le.ac.uk/ndownloader/files/18252980" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: figshare.le.ac.uk">[Figshare]</a><span class="citation-popover" role="note"><span class="citation-popover-source">figshare.le.ac.uk</span><span class="citation-popover-title">Figshare IS THERE AN ABSTINENCE MAINTENANCE EFFECT?</span><span class="citation-popover-snippet">by A DZIALDOWSKI — Successful coping is thought to increase self-efficacy at remaining abstinent in the future, and to decrease the likel...</span></span></span>
 
 ## The Real Lesson of the Abstinence Violation Effect
 
 The abstinence violation effect exposes a weakness in many popular ideas about discipline. People often assume that failure comes from insufficient commitment. In reality, many spirals begin because commitment is interpreted too rigidly.
 
-A missed day does not automatically become a relapse. The turning point is the story that follows. When a lapse is treated as evidence of permanent failure, guilt and lowered confidence can create the conditions for another lapse. When it is treated as a specific, temporary error, recovery becomes much easier. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/psychology/abstinence-violation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Abstinence Violation</span><span class="citation-popover-snippet">Abstinence Violation - an overviewMarlatt (1985) describes an abstinence violation effect (AVE) that leads people to respond...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.guilford.com/excerpts/marlatt.pdf?srsltid=AfmBOoqRoLQ9HxWhzQFNeMe5DgfK0K_QidZzzM7bWi6yjDOP2SUY39JN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guilford.com">[guilford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guilford.com</span><span class="citation-popover-snippet">Guilford PressRelapse Prevention for Alcohol and Drug ProblemsIndividuals who choose to indulge may be vulnerable to the “absti- nence vi...</span></span></span> For self-improvement that works, the critical skill is not avoiding every slip. It is preventing one slip from becoming two. The person who recovers quickly after an imperfect day often makes more long-term progress than the person who demands perfection and collapses when it inevitably fails.
+A missed day does not automatically become a relapse. The turning point is the story that follows. When a lapse is treated as evidence of permanent failure, guilt and lowered confidence can create the conditions for another lapse. When it is treated as a specific, temporary error, recovery becomes much easier.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/psychology/abstinence-violation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">ScienceDirect Abstinence Violation</span><span class="citation-popover-snippet">Abstinence Violation - an overviewMarlatt (1985) describes an abstinence violation effect (AVE) that leads people to respond...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.guilford.com/excerpts/marlatt.pdf?srsltid=AfmBOoqRoLQ9HxWhzQFNeMe5DgfK0K_QidZzzM7bWi6yjDOP2SUY39JN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guilford.com">[guilford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guilford.com</span><span class="citation-popover-snippet">Guilford PressRelapse Prevention for Alcohol and Drug ProblemsIndividuals who choose to indulge may be vulnerable to the “absti- nence vi...</span></span></span> For self-improvement that works, the critical skill is not avoiding every slip. It is preventing one slip from becoming two. The person who recovers quickly after an imperfect day often makes more long-term progress than the person who demands perfection and collapses when it inevitably fails.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why One Slip Can Become a Spiral. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why One Slip Can Become a Spiral. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Willpower+Instinct+by+Kelly+McGonigal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Willpower Instinct on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4x1aDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Willpower Instinct" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Willpower+Instinct+by+Kelly+McGonigal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Willpower Instinct">The Willpower Instinct</a>
-        </h4>
-        <p class="fr-book-author">By Kelly McGonigal</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Willpower+Instinct+by+Kelly+McGonigal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Willpower Instinct on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4x1aDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Willpower Instinct" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Willpower+Instinct+by+Kelly+McGonigal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Willpower Instinct">The Willpower Instinct</a>
+</h4>
+<p class="fr-book-author">By Kelly McGonigal</p>
         
-        <p class="fr-book-desc">Explains self-criticism, setbacks and recovery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Willpower+Instinct+by+Kelly+McGonigal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains self-criticism, setbacks and recovery.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Willpower+Instinct+by+Kelly+McGonigal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Carol S. Dweck</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
-        <p class="fr-book-desc">Helps counter all-or-nothing interpretations of mistakes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
+</h4>
+<p class="fr-book-author">By Carol S. Dweck</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
+<p class="fr-book-desc">Helps counter all-or-nothing interpretations of mistakes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Promotes identity-based recovery after lapses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Promotes identity-based recovery after lapses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Feeling+Good+by+David+D.+Burns&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Feeling Good on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=f_5FAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Feeling Good" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Feeling+Good+by+David+D.+Burns&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Feeling Good">Feeling Good</a>
-        </h4>
-        <p class="fr-book-author">By David D. Burns</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Feeling+Good+by+David+D.+Burns&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Feeling Good on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=f_5FAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Feeling Good" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Feeling+Good+by+David+D.+Burns&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Feeling Good">Feeling Good</a>
+</h4>
+<p class="fr-book-author">By David D. Burns</p>
         
-        <p class="fr-book-desc">Useful for challenging self-defeating thoughts after slips.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Feeling+Good+by+David+D.+Burns&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for challenging self-defeating thoughts after slips.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Feeling+Good+by+David+D.+Burns&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Willpower+Instinct&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Willpower Instinct</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Willpower+Instinct&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Willpower Instinct</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/72cf51fc129cd58e3c35.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/72cf51fc129cd58e3c35.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gym Motivational Posters Work Out Insperational Quotes Wall Art"><img src="{{ '/assets/images/marketplace-covers/4d2a471cca3e54fc14d8.jpg' | relative_url }}" alt="Listing image for Gym Motivational Posters Work Out Insperational Quotes Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Gym Motivational Posters Work Out Insperational Quotes Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gym Motivational Posters Work Out Insperational Quotes Wall Art"><img src="{{ '/assets/images/marketplace-covers/4d2a471cca3e54fc14d8.jpg' | relative_url }}" alt="Listing image for Gym Motivational Posters Work Out Insperational Quotes Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Gym Motivational Posters Work Out Insperational Quotes Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quotes Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/79bcfa06dda89ad237ca.jpg' | relative_url }}" alt="Listing image for Motivational Quotes Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quotes Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quotes Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/79bcfa06dda89ad237ca.jpg' | relative_url }}" alt="Listing image for Motivational Quotes Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quotes Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/889e8acbca3b73af071f.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/889e8acbca3b73af071f.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guilt-spiral-why-one-slip-can-become-a-spiral-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -679,7 +679,7 @@ A missed day does not automatically become a relapse. The turning point is the s
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -699,7 +699,7 @@ A missed day does not automatically become a relapse. The turning point is the s
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -731,7 +731,7 @@ A missed day does not automatically become a relapse. The turning point is the s
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -761,7 +761,7 @@ A missed day does not automatically become a relapse. The turning point is the s
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -819,207 +819,207 @@ A missed day does not automatically become a relapse. The turning point is the s
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Abstinence Violation  
-   Link: <a href="https://www.sciencedirect.com/topics/psychology/abstinence-violation" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/abstinence-violation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Abstinence Violation - an overviewMarlatt (1985) describes an abstinence violation effect (AVE) that leads people to respond...</p></details>
+   Link:<a href="https://www.sciencedirect.com/topics/psychology/abstinence-violation" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/abstinence-violation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Abstinence Violation - an overviewMarlatt (1985) describes an abstinence violation effect (AVE) that leads people to respond...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: guilford.com  
-   Link: <a href="https://www.guilford.com/excerpts/marlatt.pdf?srsltid=AfmBOoqRoLQ9HxWhzQFNeMe5DgfK0K_QidZzzM7bWi6yjDOP2SUY39JN" target="_blank" rel="noopener noreferrer nofollow">https://www.guilford.com/excerpts/marlatt.pdf?srsltid=AfmBOoqRoLQ9HxWhzQFNeMe5DgfK0K_QidZzzM7bWi6yjDOP2SUY39JN</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Guilford PressRelapse Prevention for Alcohol and Drug ProblemsIndividuals who choose to indulge may be vulnerable to the “absti- nence vi...</p></details>
+   Link:<a href="https://www.guilford.com/excerpts/marlatt.pdf?srsltid=AfmBOoqRoLQ9HxWhzQFNeMe5DgfK0K_QidZzzM7bWi6yjDOP2SUY39JN" target="_blank" rel="noopener noreferrer nofollow">https://www.guilford.com/excerpts/marlatt.pdf?srsltid=AfmBOoqRoLQ9HxWhzQFNeMe5DgfK0K_QidZzzM7bWi6yjDOP2SUY39JN</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guilford PressRelapse Prevention for Alcohol and Drug ProblemsIndividuals who choose to indulge may be vulnerable to the “absti- nence vi...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/281298055_Abstinence_Violation_Effect" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/281298055_Abstinence_Violation_Effect</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Abstinence Violation EffectThe abstinence violation effect (AVE) refers to the negative cognitive (ie, internal, stable...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/281298055_Abstinence_Violation_Effect" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/281298055_Abstinence_Violation_Effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Abstinence Violation EffectThe abstinence violation effect (AVE) refers to the negative cognitive (ie, internal, stable...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1023/A%3A1021853301255" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1023/A%3A1021853301255</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer Nature LinkThe Abstinence Violation Effect Following Smoking Lapses...by S Shiffman · 1997 · Cited by 70 — Lapses resulted in i...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1023/A%3A1021853301255" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1023/A%3A1021853301255</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Springer Nature LinkThe Abstinence Violation Effect Following Smoking Lapses...by S Shiffman · 1997 · Cited by 70 — Lapses resulted in i...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: mayo.edu  
-   Link: <a href="https://www.mayo.edu/research/documents/032813a-relapse-prev-and-follow-up-gauvinpdf/doc-10022942" target="_blank" rel="noopener noreferrer nofollow">https://www.mayo.edu/research/documents/032813a-relapse-prev-and-follow-up-gauvinpdf/doc-10022942</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mayo ClinicRelapse Prevention and Follow-UpAbstinence Violation Effect (AVE). • Lapse creates dissonance with self imposed rule (abstinen...</p></details>
+   Link:<a href="https://www.mayo.edu/research/documents/032813a-relapse-prev-and-follow-up-gauvinpdf/doc-10022942" target="_blank" rel="noopener noreferrer nofollow">https://www.mayo.edu/research/documents/032813a-relapse-prev-and-follow-up-gauvinpdf/doc-10022942</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mayo ClinicRelapse Prevention and Follow-UpAbstinence Violation Effect (AVE). • Lapse creates dissonance with self imposed rule (abstinen...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: link.springer.com  
    Title: Nature Link Relapse prevention for addictive behaviors  
-   Link: <a href="https://link.springer.com/article/10.1186/1747-597X-6-17" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/1747-597X-6-17</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>prevention for addictive behaviors - Springer Natureby CS Hendershot · 2011 · Cited by 644 — In these analyses, CBT/RP-based self-help in...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1186/1747-597X" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/1747-597X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>prevention for addictive behaviors - Springer Natureby CS Hendershot · 2011 · Cited by 644 — In these analyses, CBT/RP-based self-help in...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0195666304001230" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0195666304001230</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Longitudinal investigations of abstinence violation effect in binge eaters..Read more...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0195666304001230" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0195666304001230</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Longitudinal investigations of abstinence violation effect in binge eaters..Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: kinsalecbt.com  
    Title: how to combat the what the hell effect  
-   Link: <a href="https://www.kinsalecbt.com/2024/04/04/how-to-combat-the-what-the-hell-effect/" target="_blank" rel="noopener noreferrer nofollow">https://www.kinsalecbt.com/2024/04/04/how-to-combat-the-what-the-hell-effect/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to combat the what-the-hell effectApr 4, 2024 — The what-the-hell effect refers to the tendency for people to abandon self-control ef...</p></details>
+   Link:<a href="https://www.kinsalecbt.com/2024/04/04/how-to-combat-the-what-the-hell-effect/" target="_blank" rel="noopener noreferrer nofollow">https://www.kinsalecbt.com/2024/04/04/how-to-combat-the-what-the-hell-effect/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to combat the what-the-hell effectApr 4, 2024 — The what-the-hell effect refers to the tendency for people to abandon self-control ef...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
    Title: Research Gate Understanding the setback effect in everyday self‐regulation  
-   Link: <a href="https://www.researchgate.net/publication/366813117_Understanding_the_setback_effect_in_everyday_self-regulation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/366813117_Understanding_the_setback_effect_in_everyday_self-regulation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>what-the-hell effect (Herman. &amp;Mack,1975), suggesting that after a diet violation people perceive. future self-regulation to have become...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/366813117_Understanding_the_setback_effect_in_everyday_self-regulation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/366813117_Understanding_the_setback_effect_in_everyday_self-regulation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>what-the-hell effect (Herman. &amp;Mack,1975), suggesting that after a diet violation people perceive. future self-regulation to have become...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/Susan-Collins-6/publication/281298055_Abstinence_Violation_Effect/links/5600d24e08aeafc8ac8c7a55/Abstinence-Violation-Effect.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Susan-Collins-6/publication/281298055_Abstinence_Violation_Effect/links/5600d24e08aeafc8ac8c7a55/Abstinence-Violation-Effect.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Abstinence Violation EffectThe term relapse may be used to describe a prolonged return to substance use, whereas lapse may be used to des...</p></details>
+   Link:<a href="https://www.researchgate.net/profile/Susan-Collins-6/publication/281298055_Abstinence_Violation_Effect/links/5600d24e08aeafc8ac8c7a55/Abstinence-Violation-Effect.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Susan-Collins-6/publication/281298055_Abstinence_Violation_Effect/links/5600d24e08aeafc8ac8c7a55/Abstinence-Violation-Effect.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Abstinence Violation EffectThe term relapse may be used to describe a prolonged return to substance use, whereas lapse may be used to des...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/rwe/10.1007/978-1-4419-1005-9_623" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/rwe/10.1007/978-1-4419-1005-9_623</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer Nature LinkAbstinence Violation Effect | Springer Nature LinkThe term relapse may be used to describe a prolonged return to subs...</p></details>
+   Link:<a href="https://link.springer.com/rwe/10.1007/978" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/rwe/10.1007/978</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Springer Nature LinkAbstinence Violation Effect | Springer Nature LinkThe term relapse may be used to describe a prolonged return to subs...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1471015300000052" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1471015300000052</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dietary restraint, attributional styles for eating, and...by KJ Rotenberg · 2000 · Cited by 42 — Herman and Polivy (1984) referred to th...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S1471015300000052" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1471015300000052</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dietary restraint, attributional styles for eating, and...by KJ Rotenberg · 2000 · Cited by 42 — Herman and Polivy (1984) referred to th...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
    Title: Additionally, outcome was moderated by several variables.Read more  
-   Link: <a href="https://www.researchgate.net/publication/12848483_Efficacy_of_relapse_prevention_A_meta-analytic_review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/12848483_Efficacy_of_relapse_prevention_A_meta-analytic_review</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Efficacy of Relapse Prevention: A Meta-Analytic ReviewResults indicated that RP was generally effective, particularly for alcohol problems...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/12848483_Efficacy_of_relapse_prevention_A_meta-analytic_review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/12848483_Efficacy_of_relapse_prevention_A_meta-analytic_review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Efficacy of Relapse Prevention: A Meta-Analytic ReviewResults indicated that RP was generally effective, particularly for alcohol problems...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/397709191_The_Psychological_Architecture_of_Binge_Eating_Disorder_A_Psychobehavioral_Analysis_of_Core_Symptoms_Comorbidities_and_Underlying_Mechanisms" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397709191_The_Psychological_Architecture_of_Binge_Eating_Disorder_A_Psychobehavioral_Analysis_of_Core_Symptoms_Comorbidities_and_Underlying_Mechanisms</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychological Architecture of Binge Eating DisorderNov 20, 2025 — This &quot;abstinence violation effect&quot; is a powerful cognitive driver of...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/397709191_The_Psychological_Architecture_of_Binge_Eating_Disorder_A_Psychobehavioral_Analysis_of_Core_Symptoms_Comorbidities_and_Underlying_Mechanisms" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/397709191_The_Psychological_Architecture_of_Binge_Eating_Disorder_A_Psychobehavioral_Analysis_of_Core_Symptoms_Comorbidities_and_Underlying_Mechanisms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychological Architecture of Binge Eating DisorderNov 20, 2025 — This &quot;abstinence violation effect&quot; is a powerful cognitive driver of...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/289037779_The_Abstinence_Violation_Effect_Investigating_Lapse_and_Relapse_Phenomena_using_the_Relapse_Prevention_Model_with_Domestically_Violent_Men" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/289037779_The_Abstinence_Violation_Effect_Investigating_Lapse_and_Relapse_Phenomena_using_the_Relapse_Prevention_Model_with_Domestically_Violent_Men</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Abstinence Violation Effect: Investigating Lapse and...6 Aug 2025 — The Abstinence Violation Effect: Investigating Lapse and Relapse...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/289037779_The_Abstinence_Violation_Effect_Investigating_Lapse_and_Relapse_Phenomena_using_the_Relapse_Prevention_Model_with_Domestically_Violent_Men" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/289037779_The_Abstinence_Violation_Effect_Investigating_Lapse_and_Relapse_Phenomena_using_the_Relapse_Prevention_Model_with_Domestically_Violent_Men</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Abstinence Violation Effect: Investigating Lapse and...6 Aug 2025 — The Abstinence Violation Effect: Investigating Lapse and Relapse...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Relapse Prevention: An Overview of Marlatt's Cognitive  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6760427/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6760427/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by ME Larimer · 1999 · Cited by 1154 — Lapse-management strategies focus on halting the lapse and combating the abstinence violation e...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6760427/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6760427/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by ME Larimer · 1999 · Cited by 1154 — Lapse-management strategies focus on halting the lapse and combating the abstinence violation e...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: amactraining.co.uk  
-   Link: <a href="https://amactraining.co.uk/resources/free-learning-material/models-and-theories-of-health-behaviour-change-index/models-and-theories-of-health-behaviour-10/" target="_blank" rel="noopener noreferrer nofollow">https://amactraining.co.uk/resources/free-learning-material/models-and-theories-of-health-behaviour-change-index/models-and-theories-of-health-behaviour-10/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Models and theories of health behaviour (10): Relapse...There are two main components to the abstinence violation effect: When the cause...</p></details>
+   Link:<a href="https://amactraining.co.uk/resources/free-learning-material/models-and-theories-of-health-behaviour-change-index/models-and-theories-of-health-behaviour-10/" target="_blank" rel="noopener noreferrer nofollow">https://amactraining.co.uk/resources/free-learning-material/models-and-theories-of-health-behaviour-change-index/models-and-theories-of-health-behaviour-10/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Models and theories of health behaviour (10): Relapse...There are two main components to the abstinence violation effect: When the cause...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: psychologytoday.com  
    Title: Psychology Today Why Dieters Fail?  
-   Link: <a href="https://www.psychologytoday.com/us/blog/science-of-choice/201505/why-dieters-fail" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/blog/science-of-choice/201505/why-dieters-fail</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology TodayWhy Dieters Fail?May 29, 2015 — This motivational explanation of overeating has been termed the “what-the-hell-effect” by...</p></details>
+   Link:<a href="https://www.psychologytoday.com/us/blog/science-of-choice/201505/why-dieters-fail" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/blog/science-of-choice/201505/why-dieters-fail</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology TodayWhy Dieters Fail?May 29, 2015 — This motivational explanation of overeating has been termed the “what-the-hell-effect” by...</p></details>
    Published: May 29, 2015  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Beyond prevention: Regulating responses to self  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9291624/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9291624/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by MA Adriaanse · 2021 · Cited by 16 —... dieters violate their dieting goals once, they experience a “what the hell effect”: They ca...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9291624/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9291624/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by MA Adriaanse · 2021 · Cited by 16 —... dieters violate their dieting goals once, they experience a “what the hell effect”: They ca...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: lagunatreatment.com  
-   Link: <a href="https://lagunatreatment.com/relapse/" target="_blank" rel="noopener noreferrer nofollow">https://lagunatreatment.com/relapse/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Laguna Treatment CenterAbstinence Violation Effect &amp; Relapse Rates By DrugApr 9, 2025 — Marlatt considered the abstinence violation affec...</p></details>
+   Link:<a href="https://lagunatreatment.com/relapse/" target="_blank" rel="noopener noreferrer nofollow">https://lagunatreatment.com/relapse/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Laguna Treatment CenterAbstinence Violation Effect &amp; Relapse Rates By DrugApr 9, 2025 — Marlatt considered the abstinence violation affec...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: figshare.le.ac.uk  
    Title: Figshare IS THERE AN ABSTINENCE MAINTENANCE EFFECT?  
-   Link: <a href="https://figshare.le.ac.uk/ndownloader/files/18252980" target="_blank" rel="noopener noreferrer nofollow">https://figshare.le.ac.uk/ndownloader/files/18252980</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by A DZIALDOWSKI — Successful coping is thought to increase self-efficacy at remaining abstinent in the future, and to decrease the likel...</p></details>
+   Link:<a href="https://figshare.le.ac.uk/ndownloader/files/18252980" target="_blank" rel="noopener noreferrer nofollow">https://figshare.le.ac.uk/ndownloader/files/18252980</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by A DZIALDOWSKI — Successful coping is thought to increase self-efficacy at remaining abstinent in the future, and to decrease the likel...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Abstinence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Abstinence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AbstinenceAbstinence is the practice of self-enforced restraint from indulging in bodily activities that are widely experienced as giv...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Abstinence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Abstinence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AbstinenceAbstinence is the practice of self-enforced restraint from indulging in bodily activities that are widely experienced as giv...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5844157/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5844157/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>prevention - PMC - NIHby J Menon · 2018 · Cited by 152 — Relapse prevention (RP) is a strategy for reducing the likelihood and severity o...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5844157/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5844157/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>prevention - PMC - NIHby J Menon · 2018 · Cited by 152 — Relapse prevention (RP) is a strategy for reducing the likelihood and severity o...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: psychologytoday.com  
    Title: the abstinence violation effect and overcoming it  
-   Link: <a href="https://www.psychologytoday.com/ca/blog/stigma-addiction-and-mental-health/202309/the-abstinence-violation-effect-and-overcoming-it" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/ca/blog/stigma-addiction-and-mental-health/202309/the-abstinence-violation-effect-and-overcoming-it</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jan 2, 2024 — AVE occurs when someone who is striving for abstinence from a particular behavior or substance experiences a setback, such...</p></details>
+   Link:<a href="https://www.psychologytoday.com/ca/blog/stigma-addiction-and-mental-health/202309/the-abstinence-violation-effect-and-overcoming-it" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/ca/blog/stigma-addiction-and-mental-health/202309/the-abstinence-violation-effect-and-overcoming-it</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jan 2, 2024 — AVE occurs when someone who is striving for abstinence from a particular behavior or substance experiences a setback, such...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: psychologytoday.com  
    Title: why dieters fail  
-   Link: <a href="https://www.psychologytoday.com/ie/blog/science-of-choice/201505/why-dieters-fail" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/ie/blog/science-of-choice/201505/why-dieters-fail</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>?29 May 2015 — This motivational explanation of overeating has been termed the “what-the-hell-effect” by Polivy and Herman (1985). Once t...</p></details>
+   Link:<a href="https://www.psychologytoday.com/ie/blog/science-of-choice/201505/why-dieters-fail" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/ie/blog/science-of-choice/201505/why-dieters-fail</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?29 May 2015 — This motivational explanation of overeating has been termed the “what-the-hell-effect” by Polivy and Herman (1985). Once t...</p></details>
    Published: May 2015  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: rehabcenter.net  
    Title: abstinence violation effect  
-   Link: <a href="https://www.rehabcenter.net/abstinence-violation-effect/" target="_blank" rel="noopener noreferrer nofollow">https://www.rehabcenter.net/abstinence-violation-effect/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is The Abstinence Violation Effect?Feb 4, 2019 — The abstinence violation effect (AVE) describes the detrimental reaction a person h...</p></details>
+   Link:<a href="https://www.rehabcenter.net/abstinence-violation-effect/" target="_blank" rel="noopener noreferrer nofollow">https://www.rehabcenter.net/abstinence-violation-effect/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Is The Abstinence Violation Effect?Feb 4, 2019 — The abstinence violation effect (AVE) describes the detrimental reaction a person h...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: integritytogetherllc.com  
    Title: abstinence violation effect  
-   Link: <a href="https://integritytogetherllc.com/addiction/abstinence-violation-effect/" target="_blank" rel="noopener noreferrer nofollow">https://integritytogetherllc.com/addiction/abstinence-violation-effect/</a>  
+   Link:<a href="https://integritytogetherllc.com/addiction/abstinence-violation-effect/" target="_blank" rel="noopener noreferrer nofollow">https://integritytogetherllc.com/addiction/abstinence-violation-effect/</a>  
 
 ### Additional References
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/abstinence" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/abstinence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABSTINENCE Definition &amp; Meaning1. The practice of abstaining from something: the practice of not doing or having something that is wante...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/abstinence" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/abstinence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABSTINENCE Definition &amp; Meaning1. The practice of abstaining from something: the practice of not doing or having something that is wante...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: rakefetcohenbenarye.com  
-   Link: <a href="https://rakefetcohenbenarye.com/2023/10/12/the-abstinence-violation-effect-and-the-project-of-plant-based-meals-for-soldiers/" target="_blank" rel="noopener noreferrer nofollow">https://rakefetcohenbenarye.com/2023/10/12/the-abstinence-violation-effect-and-the-project-of-plant-based-meals-for-soldiers/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Abstinence Violation Effect and the project of plant-...12 Oct 2023 — The Abstinence Violation Effect, Fresh Start Effect, and the &quot;...</p></details>
+   Link:<a href="https://rakefetcohenbenarye.com/2023/10/12/the-abstinence-violation-effect-and-the-project-of-plant-based-meals-for-soldiers/" target="_blank" rel="noopener noreferrer nofollow">https://rakefetcohenbenarye.com/2023/10/12/the-abstinence-violation-effect-and-the-project-of-plant-based-meals-for-soldiers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Abstinence Violation Effect and the project of plant-...12 Oct 2023 — The Abstinence Violation Effect, Fresh Start Effect, and the &quot;...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: prairieviewpsychology.ca  
    Title: abstinence violation effect understanding its impact on addiction recovery  
-   Link: <a href="https://www.prairieviewpsychology.ca/blog/abstinence-violation-effect-understanding-its-impact-on-addiction-recovery" target="_blank" rel="noopener noreferrer nofollow">https://www.prairieviewpsychology.ca/blog/abstinence-violation-effect-understanding-its-impact-on-addiction-recovery</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Does the Abstinence Violation Effect Impact Addiction...Aug 27, 2025 — The Abstinence Violation Effect is characterized by intense f...</p></details>
+   Link:<a href="https://www.prairieviewpsychology.ca/blog/abstinence-violation-effect-understanding-its-impact-on-addiction-recovery" target="_blank" rel="noopener noreferrer nofollow">https://www.prairieviewpsychology.ca/blog/abstinence-violation-effect-understanding-its-impact-on-addiction-recovery</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Does the Abstinence Violation Effect Impact Addiction...Aug 27, 2025 — The Abstinence Violation Effect is characterized by intense f...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=LwTfZmFgMjs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LwTfZmFgMjs</a>  
+   Link:<a href="https://www.youtube.com/watch?v=LwTfZmFgMjs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LwTfZmFgMjs</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DWvV2gTiMyH/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWvV2gTiMyH/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>overeating after small deviations... extended periods off routine... increased guilt → decreased adherence...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DWvV2gTiMyH/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWvV2gTiMyH/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>overeating after small deviations... extended periods off routine... increased guilt → decreased adherence...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: craigleetherapy.co.uk  
    Title: how the abstinence violation effect fuels bing eating and how to stop  
-   Link: <a href="https://www.craigleetherapy.co.uk/blog-1/how-the-abstinence-violation-effect-fuels-bing-eating-and-how-to-stop" target="_blank" rel="noopener noreferrer nofollow">https://www.craigleetherapy.co.uk/blog-1/how-the-abstinence-violation-effect-fuels-bing-eating-and-how-to-stop</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How The Abstinence Violation Effect Fuels Binge Eating (And...Apr 17, 2025 — You then decide to stop off at the shops on the way home be...</p></details>
+   Link:<a href="https://www.craigleetherapy.co.uk/blog-1/how-the-abstinence-violation-effect-fuels-bing-eating-and-how-to-stop" target="_blank" rel="noopener noreferrer nofollow">https://www.craigleetherapy.co.uk/blog-1/how-the-abstinence-violation-effect-fuels-bing-eating-and-how-to-stop</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How The Abstinence Violation Effect Fuels Binge Eating (And...Apr 17, 2025 — You then decide to stop off at the shops on the way home be...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: jstor.org  
    Title: Journal of. Consulting and Clinical Psychology, 55(2), 145-149.Rea  
-   Link: <a href="https://www.jstor.org/stable/45091962" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/45091962</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Relapse Prevention Model of Behavioral Maintenanceby M ROSE-COLLEY · 1992 · Cited by 14 — Abstinence violation effect: Validation of an a...</p></details>
+   Link:<a href="https://www.jstor.org/stable/45091962" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/45091962</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Relapse Prevention Model of Behavioral Maintenanceby M ROSE-COLLEY · 1992 · Cited by 14 — Abstinence violation effect: Validation of an a...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: alturarecovery.com  
-   Link: <a href="https://alturarecovery.com/abstinence-violation-effect/" target="_blank" rel="noopener noreferrer nofollow">https://alturarecovery.com/abstinence-violation-effect/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>As the visual below shows, a simple lapse can quickly snowball into a full relapse...Read more...</p></details>
+   Link:<a href="https://alturarecovery.com/abstinence-violation-effect/" target="_blank" rel="noopener noreferrer nofollow">https://alturarecovery.com/abstinence-violation-effect/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>As the visual below shows, a simple lapse can quickly snowball into a full relapse...Read more...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: forbes.com  
    Title: 3 ways to overcome the what the hell effect by a psychologist  
-   Link: <a href="https://www.forbes.com/sites/traversmark/2024/06/06/3-ways-to-overcome-the-what-the-hell-effect-by-a-psychologist/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/traversmark/2024/06/06/3-ways-to-overcome-the-what-the-hell-effect-by-a-psychologist/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Ways To Overcome The &#x27;What-The-Hell&#x27; Effect—By A...Jun 6, 2024 — The “what-the-hell effect” occurs when people abandon their initial g...</p></details>
+   Link:<a href="https://www.forbes.com/sites/traversmark/2024/06/06/3-ways-to-overcome-the-what-the-hell-effect-by-a-psychologist/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/traversmark/2024/06/06/3-ways-to-overcome-the-what-the-hell-effect-by-a-psychologist/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 Ways To Overcome The &#x27;What-The-Hell&#x27; Effect—By A...Jun 6, 2024 — The “what-the-hell effect” occurs when people abandon their initial g...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: magazine.utoronto.ca  
    Title: does dieting affect how you think janet polivy psychologist  
-   Link: <a href="https://magazine.utoronto.ca/research-ideas/health/does-dieting-affect-how-you-think-janet-polivy-psychologist/" target="_blank" rel="noopener noreferrer nofollow">https://magazine.utoronto.ca/research-ideas/health/does-dieting-affect-how-you-think-janet-polivy-psychologist/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dieting Affect How You Think?Aug 18, 2010 — But dieters ate significantly more. Polivy thinks it has to do with what she calls the “what...</p></details>
+   Link:<a href="https://magazine.utoronto.ca/research-ideas/health/does-dieting-affect-how-you-think-janet-polivy-psychologist/" target="_blank" rel="noopener noreferrer nofollow">https://magazine.utoronto.ca/research-ideas/health/does-dieting-affect-how-you-think-janet-polivy-psychologist/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dieting Affect How You Think?Aug 18, 2010 — But dieters ate significantly more. Polivy thinks it has to do with what she calls the “what...</p></details>

@@ -268,7 +268,7 @@ image: /assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97_im
 
 ## Introduction
 
-[Saving]({{ 'saving/' | relative_url }}) before spending works best when saved money is protected from the same forces that encourage unplanned purchases. Modern shopping systems are designed to remove delays: one-click checkout, stored payment cards, digital wallets and personalised recommendations all reduce the time between wanting something and buying it. The result is that a momentary urge can become a completed transaction before reflection has a chance to occur. Research on digital purchasing consistently finds that reducing payment friction increases impulse buying, while deliberate barriers can interrupt that process and restore conscious decision-making. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/0718-1876/20/4/266" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">From Browsing to Buying: Determinants of Impulse Buying...by M Escobar-Farfán · 2025 · Cited by 4 — Credit card use facilitates impu...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://acr-journal.com/article/the-silent-wallet-how-payment-mode-transparency-shapes-spending-behaviour-in-gen-z-consumers-1857/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acr-journal.com">[Advances in Consumer Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acr-journal.com</span><span class="citation-popover-snippet">Advances in Consumer ResearchThe Silent Wallet: How Payment Mode Transparency...by K Karthikeyan · 2025 — Findings reveal that reduced t...</span></span></span>
+[Saving]({{ 'saving/' | relative_url }}) before spending works best when saved money is protected from the same forces that encourage unplanned purchases. Modern shopping systems are designed to remove delays: one-click checkout, stored payment cards, digital wallets and personalised recommendations all reduce the time between wanting something and buying it. The result is that a momentary urge can become a completed transaction before reflection has a chance to occur. Research on digital purchasing consistently finds that reducing payment friction increases impulse buying, while deliberate barriers can interrupt that process and restore conscious decision-making.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/0718-1876/20/4/266" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">From Browsing to Buying: Determinants of Impulse Buying...by M Escobar-Farfán · 2025 · Cited by 4 — Credit card use facilitates impu...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://acr-journal.com/article/the-silent-wallet-how-payment-mode-transparency-shapes-spending-behaviour-in-gen-z-consumers-1857/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acr-journal.com">[Advances in Consumer Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acr-journal.com</span><span class="citation-popover-snippet">Advances in Consumer ResearchThe Silent Wallet: How Payment Mode Transparency...by K Karthikeyan · 2025 — Findings reveal that reduced t...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97_impulse_spending_fri_dda01c-Illustration-1-dark.svg" | relative_url }}" alt="Spending friction illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97_impulse_spending_fri_dda01c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97_impulse_spending_fri_dda01c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Friction rules are therefore not punishments. They are small obstacles placed between impulse and action. A few extra seconds, a mandatory wait or a separate account can be enough to protect money that has already been saved.
@@ -277,9 +277,9 @@ Friction rules are therefore not punishments. They are small obstacles placed be
 
 The mechanism is simple. Saving plans depend on decisions made in advance, but impulse spending happens in the moment. When retailers remove every obstacle between desire and purchase, the balance shifts toward the momentary decision.
 
-Digital payment systems reduce what behavioural researchers sometimes call the "pain of paying"—the immediate awareness that money is leaving your possession. Credit cards, mobile wallets and one-tap payments create psychological distance from the transaction, making purchases feel easier and less consequential. Studies of online purchasing behaviour repeatedly identify reduced payment friction as a factor that increases impulsive spending. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/0718-1876/20/4/266" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">From Browsing to Buying: Determinants of Impulse Buying...by M Escobar-Farfán · 2025 · Cited by 4 — Credit card use facilitates impu...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://acr-journal.com/article/the-silent-wallet-how-payment-mode-transparency-shapes-spending-behaviour-in-gen-z-consumers-1857/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acr-journal.com">[Advances in Consumer Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acr-journal.com</span><span class="citation-popover-snippet">Advances in Consumer ResearchThe Silent Wallet: How Payment Mode Transparency...by K Karthikeyan · 2025 — Findings reveal that reduced t...</span></span></span>
+Digital payment systems reduce what behavioural researchers sometimes call the "pain of paying"—the immediate awareness that money is leaving your possession. Credit cards, mobile wallets and one-tap payments create psychological distance from the transaction, making purchases feel easier and less consequential. Studies of online purchasing behaviour repeatedly identify reduced payment friction as a factor that increases impulsive spending.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/0718-1876/20/4/266" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">From Browsing to Buying: Determinants of Impulse Buying...by M Escobar-Farfán · 2025 · Cited by 4 — Credit card use facilitates impu...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://acr-journal.com/article/the-silent-wallet-how-payment-mode-transparency-shapes-spending-behaviour-in-gen-z-consumers-1857/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acr-journal.com">[Advances in Consumer Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acr-journal.com</span><span class="citation-popover-snippet">Advances in Consumer ResearchThe Silent Wallet: How Payment Mode Transparency...by K Karthikeyan · 2025 — Findings reveal that reduced t...</span></span></span>
 
-The growth of online commerce has intensified this effect. Research reviews of digital shopping environments note that platform design, social influence, urgency cues and streamlined checkout processes can all encourage unplanned purchases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jmsr-online.com/article/understanding-the-psychology-of-impulse-buying-in-e-commerce-a-behavioral-review-314/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmsr-online.com">[Journal of Marketing &amp; Social Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmsr-online.com</span><span class="citation-popover-snippet">Journal of Marketing &amp; Social ResearchUnderstanding the Psychology of Impulse Buying in E-...by R Chaudhary · 2025 · Cited by 7 — Online...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2451958825000910" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Impulse buying in live streaming e-commerce: A systematic...by Y Li · 2025 · Cited by 25 — This paper presents a systematic literature r...</span></span></span>
+The growth of online commerce has intensified this effect. Research reviews of digital shopping environments note that platform design, social influence, urgency cues and streamlined checkout processes can all encourage unplanned purchases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://jmsr-online.com/article/understanding-the-psychology-of-impulse-buying-in-e-commerce-a-behavioral-review-314/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmsr-online.com">[Journal of Marketing &amp; Social Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmsr-online.com</span><span class="citation-popover-snippet">Journal of Marketing &amp; Social ResearchUnderstanding the Psychology of Impulse Buying in E-...by R Chaudhary · 2025 · Cited by 7 — Online...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2451958825000910" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Impulse buying in live streaming e-commerce: A systematic...by Y Li · 2025 · Cited by 25 — This paper presents a systematic literature r...</span></span></span>
 
 For someone following a save-first system, this creates a specific risk. Money that was intentionally moved into savings can gradually leak away through many small decisions that each felt harmless on their own.
 
@@ -293,13 +293,13 @@ The most effective friction rules tend to be simple enough to maintain yet incon
 
 Deleting saved card information is one of the clearest examples. A purchase that previously required a single click now requires finding a wallet, locating a card and manually entering details. That short interruption creates a decision point.
 
-Research and behavioural interventions focused on online shopping consistently identify payment friction as a practical way to reduce impulse purchases. Studies of e-commerce behaviour show that convenience accelerates spontaneous buying, while additional checkout steps encourage reconsideration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/0718-1876/20/4/266" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">From Browsing to Buying: Determinants of Impulse Buying...by M Escobar-Farfán · 2025 · Cited by 4 — Credit card use facilitates impu...</span></span></span> ResearchGate The goal is not to make purchases impossible. The goal is to prevent purchases from happening faster than conscious thought. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/362685652_Rein_it_in_Nudge-based_interventions_to_cope_with_online_impulse_buying_among_young_adults" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Rein it in. Nudge-based interventions to cope with online...14 Aug 2022 — This research discusses possible nudge-based interventions for...</span></span></span>
+Research and behavioural interventions focused on online shopping consistently identify payment friction as a practical way to reduce impulse purchases. Studies of e-commerce behaviour show that convenience accelerates spontaneous buying, while additional checkout steps encourage reconsideration.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mdpi.com/0718-1876/20/4/266" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">From Browsing to Buying: Determinants of Impulse Buying...by M Escobar-Farfán · 2025 · Cited by 4 — Credit card use facilitates impu...</span></span></span> ResearchGate The goal is not to make purchases impossible. The goal is to prevent purchases from happening faster than conscious thought.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/362685652_Rein_it_in_Nudge-based_interventions_to_cope_with_online_impulse_buying_among_young_adults" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Rein it in. Nudge-based interventions to cope with online...14 Aug 2022 — This research discusses possible nudge-based interventions for...</span></span></span>
 
 ### The 24-hour rule
 
 A waiting rule creates friction in time rather than effort. Instead of buying immediately, the item is placed on a list or left in the shopping basket for a defined period.
 
-A 24-hour rule works well for routine purchases. More expensive items may justify a 72-hour or seven-day waiting period. Cooling-off periods are widely recommended because emotional excitement tends to fade with time, allowing the purchase to be judged against longer-term priorities rather than immediate desire. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.alibaba.com/product-insights/psychological-tricks-to-stop-impulse-buying-online-without-deleting-your-credit-card.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alibaba.com">[Alibaba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alibaba.com</span><span class="citation-popover-title">During the wait</span><span class="citation-popover-snippet">Psychological Tricks To Stop Impulse Buying Online...20 Mar 2026 — This delay leverages a concept known as “cooling-off periods,”...</span></span></span>
+A 24-hour rule works well for routine purchases. More expensive items may justify a 72-hour or seven-day waiting period. Cooling-off periods are widely recommended because emotional excitement tends to fade with time, allowing the purchase to be judged against longer-term priorities rather than immediate desire.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.alibaba.com/product-insights/psychological-tricks-to-stop-impulse-buying-online-without-deleting-your-credit-card.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alibaba.com">[Alibaba]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alibaba.com</span><span class="citation-popover-title">During the wait</span><span class="citation-popover-snippet">Psychological Tricks To Stop Impulse Buying Online...20 Mar 2026 — This delay leverages a concept known as “cooling-off periods,”...</span></span></span>
 
 Many purchases lose their appeal surprisingly quickly. If the desire disappears after a day or two, the friction rule has served its purpose.
 
@@ -308,7 +308,7 @@ Many purchases lose their appeal surprisingly quickly. If the desire disappears 
 
 Another form of friction involves physical or digital separation.
 
-Instead of keeping savings beside everyday spending money, some savers place emergency funds in a different institution. Access remains available when genuinely needed, but transfers are no longer instantaneous or invisible. This separation reduces accidental spending and creates a brief pause before money is moved. Financial guidance on emergency savings frequently recommends keeping reserves in dedicated accounts rather than mixing them with everyday spending balances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumerfinance.gov">[Consumer Financial Protection Bureau]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumerfinance.gov</span><span class="citation-popover-title">an essential guide to building an emergency fund</span><span class="citation-popover-snippet">Consumer Financial Protection BureauAn essential guide to building an emergency fund29 Oct 2025 — In general, emergency savings can be us...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://servicecu.org/resources/blog/detail/checking-and-savings/emergency-savings-why-every-first-responder-needs-a-fund/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: servicecu.org">[Service Credit Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">servicecu.org</span><span class="citation-popover-snippet">Service Credit UnionEmergency Savings: Why Every First Responder Needs a...22 Feb 2024 — Opt for a higher-yield savings account, keeping...</span></span></span>
+Instead of keeping savings beside everyday spending money, some savers place emergency funds in a different institution. Access remains available when genuinely needed, but transfers are no longer instantaneous or invisible. This separation reduces accidental spending and creates a brief pause before money is moved. Financial guidance on emergency savings frequently recommends keeping reserves in dedicated accounts rather than mixing them with everyday spending balances.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumerfinance.gov">[Consumer Financial Protection Bureau]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumerfinance.gov</span><span class="citation-popover-title">an essential guide to building an emergency fund</span><span class="citation-popover-snippet">Consumer Financial Protection BureauAn essential guide to building an emergency fund29 Oct 2025 — In general, emergency savings can be us...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://servicecu.org/resources/blog/detail/checking-and-savings/emergency-savings-why-every-first-responder-needs-a-fund/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: servicecu.org">[Service Credit Union]</a><span class="citation-popover" role="note"><span class="citation-popover-source">servicecu.org</span><span class="citation-popover-snippet">Service Credit UnionEmergency Savings: Why Every First Responder Needs a...22 Feb 2024 — Opt for a higher-yield savings account, keeping...</span></span></span>
 
 The key is that the money remains accessible but not effortlessly spendable.
 
@@ -319,7 +319,7 @@ Friction is useful only when applied selectively.
 
 A common mistake is to build so many barriers that essential financial tasks become difficult. If emergency savings require multiple days, complicated procedures or penalties to access, the system can fail when it is needed most.
 
-An emergency fund exists for unexpected expenses such as car repairs, medical costs, urgent home repairs or temporary income loss. The money should therefore be available within a reasonable timeframe. Consumer financial guidance emphasises that emergency savings are meant to be used when genuine [emergencies]({{ 'emergencies/' | relative_url }}) occur. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumerfinance.gov">[Consumer Financial Protection Bureau]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumerfinance.gov</span><span class="citation-popover-title">an essential guide to building an emergency fund</span><span class="citation-popover-snippet">Consumer Financial Protection BureauAn essential guide to building an emergency fund29 Oct 2025 — In general, emergency savings can be us...</span></span></span>
+An emergency fund exists for unexpected expenses such as car repairs, medical costs, urgent home repairs or temporary income loss. The money should therefore be available within a reasonable timeframe. Consumer financial guidance emphasises that emergency savings are meant to be used when genuine [emergencies]({{ 'emergencies/' | relative_url }}) occur.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumerfinance.gov">[Consumer Financial Protection Bureau]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumerfinance.gov</span><span class="citation-popover-title">an essential guide to building an emergency fund</span><span class="citation-popover-snippet">Consumer Financial Protection BureauAn essential guide to building an emergency fund29 Oct 2025 — In general, emergency savings can be us...</span></span></span>
 
 A practical distinction is:
 
@@ -330,7 +330,7 @@ A practical distinction is:
 
 </div>
 
-The most successful systems often combine the two. Saving and investing are automated so that beneficial actions happen effortlessly, while discretionary spending receives additional checkpoints and pauses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.investopedia.com/friction-maxxing-goes-viral-here-s-what-it-means-for-your-spending-11947155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: investopedia.com">[Investopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">investopedia.com</span><span class="citation-popover-title">Friction Maxxing&#x27; Goes Viral-Here&#x27;s What It Means For Your Spending</span><span class="citation-popover-snippet">Triggered by easy digital checkout methods such as one-click purchasing, Face ID, and mobile payments, impulse buys have surged, with a L...</span></span></span>
+The most successful systems often combine the two. Saving and investing are automated so that beneficial actions happen effortlessly, while discretionary spending receives additional checkpoints and pauses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.investopedia.com/friction-maxxing-goes-viral-here-s-what-it-means-for-your-spending-11947155" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: investopedia.com">[Investopedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">investopedia.com</span><span class="citation-popover-title">Friction Maxxing&#x27; Goes Viral-Here&#x27;s What It Means For Your Spending</span><span class="citation-popover-snippet">Triggered by easy digital checkout methods such as one-click purchasing, Face ID, and mobile payments, impulse buys have surged, with a L...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2OTeiruHMYg" title="The Pain of Paying: Why Spending Money Literally Hurts | Brainfluence Brief" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2OTeiruHMYg" target="_blank" rel="noopener noreferrer">The Pain of Paying: Why Spending Money Literally Hurts | Brainfluence Brief</a></p><p class="youtube-embed-meta">Channel: Roger Dooley &middot; Views: 241 &middot; Uploaded: December 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2OTeiruHMYg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2OTeiruHMYg">Open on YouTube</a></p></div></div></div>
 
@@ -340,274 +340,274 @@ The best friction rules are small enough to survive everyday life.
 
 A person who creates a twenty-step approval process for every purchase will eventually abandon it. A person who removes stored cards, waits one day before non-essential purchases and keeps emergency savings in a separate account can often maintain those habits for years.
 
-The strength of spending friction is not that it guarantees perfect decisions. Its value comes from restoring a moment of choice. In a marketplace built to eliminate hesitation, even a brief pause can protect savings from becoming spending. <span class="citation-chip-wrap"><a class="citation-chip" href="https://theweek.com/personal-finance/friction-maxxing-save-money-overspending-impulse-buying" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theweek.com">[theweek.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theweek.com</span><span class="citation-popover-snippet">How &#x27;friction maxxing&#x27; can help you stop impulse buyingApril 24, 2026 — Apr 24, 2026 — Slow down and be more intentional about your finances...</span><span class="citation-popover-meta">Published: April 24, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slowmoneymovement.com/blog/stop-impulse-spending" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slowmoneymovement.com">[2slowmoneymovement.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slowmoneymovement.com</span><span class="citation-popover-snippet">How To Stop Impulse Spending - The Slow Money Movement18 Mar 2026 — But by deliberately adding friction back into the process, people can...</span></span></span>
+The strength of spending friction is not that it guarantees perfect decisions. Its value comes from restoring a moment of choice. In a marketplace built to eliminate hesitation, even a brief pause can protect savings from becoming spending.<span class="citation-chip-wrap"><a class="citation-chip" href="https://theweek.com/personal-finance/friction-maxxing-save-money-overspending-impulse-buying" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theweek.com">[theweek.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theweek.com</span><span class="citation-popover-snippet">How &#x27;friction maxxing&#x27; can help you stop impulse buyingApril 24, 2026 — Apr 24, 2026 — Slow down and be more intentional about your finances...</span><span class="citation-popover-meta">Published: April 24, 2026</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.slowmoneymovement.com/blog/stop-impulse-spending" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: slowmoneymovement.com">[2slowmoneymovement.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">slowmoneymovement.com</span><span class="citation-popover-snippet">How To Stop Impulse Spending - The Slow Money Movement18 Mar 2026 — But by deliberately adding friction back into the process, people can...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wAGf8x4KCoc" title="Friction Maxxing: The Psychological Trick to Stop Impulse Spending with Hanna Horvath" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wAGf8x4KCoc" target="_blank" rel="noopener noreferrer">Friction Maxxing: The Psychological Trick to Stop Impulse Spending with Hanna Horvath</a></p><p class="youtube-embed-meta">Channel: Moolala: Money Made Simple - Bruce Sellery &middot; Views: 116 &middot; Uploaded: March 2026 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wAGf8x4KCoc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wAGf8x4KCoc">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The tiny barriers that stop impulse buys. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The tiny barriers that stop impulse buys. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Psychology+of+Money+by+Morgan+Housel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of Money on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5HrrDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Psychology of Money" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Psychology+of+Money+by+Morgan+Housel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Money">The Psychology of Money</a>
-        </h4>
-        <p class="fr-book-author">By Morgan Housel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Psychology+of+Money+by+Morgan+Housel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of Money on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5HrrDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Psychology of Money" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Psychology+of+Money+by+Morgan+Housel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Money">The Psychology of Money</a>
+</h4>
+<p class="fr-book-author">By Morgan Housel</p>
         
-        <p class="fr-book-desc">Covers behavioural drivers of spending decisions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Psychology+of+Money+by+Morgan+Housel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers behavioural drivers of spending decisions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Psychology+of+Money+by+Morgan+Housel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Shows how environmental friction changes behaviour.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Shows how environmental friction changes behaviour.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Your+Money+or+Your+Life+by+Vicki+Robin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Your Money or Your Life on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=i3tXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Your Money or Your Life" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Your+Money+or+Your+Life+by+Vicki+Robin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Your Money or Your Life">Your Money or Your Life</a>
-        </h4>
-        <p class="fr-book-author">By Vicki Robin, Joe Dominguez</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Your+Money+or+Your+Life+by+Vicki+Robin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Your Money or Your Life on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=i3tXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Your Money or Your Life" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Your+Money+or+Your+Life+by+Vicki+Robin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Your Money or Your Life">Your Money or Your Life</a>
+</h4>
+<p class="fr-book-author">By Vicki Robin, Joe Dominguez</p>
         
-        <p class="fr-book-desc">Encourages conscious spending and reduced impulse purchases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Your+Money+or+Your+Life+by+Vicki+Robin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages conscious spending and reduced impulse purchases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Your+Money+or+Your+Life+by+Vicki+Robin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nudge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Wf1AEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Nudge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nudge">Nudge</a>
-        </h4>
-        <p class="fr-book-author">By Richard H. Thaler, Cass R. Sunstein</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nudge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Wf1AEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Nudge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nudge">Nudge</a>
+</h4>
+<p class="fr-book-author">By Richard H. Thaler, Cass R. Sunstein</p>
         
-        <p class="fr-book-desc">Explains how choice architecture affects spending.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how choice architecture affects spending.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Psychology+of+Money&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Psychology of Money</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Your+Money+or+Your+Life&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Your Money or Your Life</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Psychology+of+Money&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Psychology of Money</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Your+Money+or+Your+Life&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Your Money or Your Life</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hard Time Saving Money Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/53a387b9666494d876a6.jpg' | relative_url }}" alt="Listing image for Hard Time Saving Money Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Hard Time Saving Money Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for money saving poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: money saving poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hard Time Saving Money Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/53a387b9666494d876a6.jpg' | relative_url }}" alt="Listing image for Hard Time Saving Money Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Hard Time Saving Money Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for money saving poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: money saving poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Saving money is for losers Framed A Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/efd8f3fcb4305cbca980.jpg' | relative_url }}" alt="Listing image for Saving money is for losers Framed A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Saving money is for losers Framed A Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for money saving poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: money saving poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Saving money is for losers Framed A Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/efd8f3fcb4305cbca980.jpg' | relative_url }}" alt="Listing image for Saving money is for losers Framed A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Saving money is for losers Framed A Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for money saving poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: money saving poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Saving and Growing Money Poster Wall Art Print pick size A4/A3/A2/90x60cm"><img src="{{ '/assets/images/marketplace-covers/3303b74456d8fb77a1b7.jpg' | relative_url }}" alt="Listing image for Saving and Growing Money Poster Wall Art Print pick size A4/A3/A2/90x60cm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Saving and Growing Money Poster Wall Art Print pick size A4/A3/A2/90x60cm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for money saving poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: money saving poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Saving and Growing Money Poster Wall Art Print pick size A4/A3/A2/90x60cm"><img src="{{ '/assets/images/marketplace-covers/3303b74456d8fb77a1b7.jpg' | relative_url }}" alt="Listing image for Saving and Growing Money Poster Wall Art Print pick size A4/A3/A2/90x60cm" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Saving and Growing Money Poster Wall Art Print pick size A4/A3/A2/90x60cm</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for money saving poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: money saving poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1951 Rest As You Ride. in Money Saving Coaches Go Union Pacific - 11x17 Poster"><img src="{{ '/assets/images/marketplace-covers/7773315acb71fe25f4e0.jpg' | relative_url }}" alt="Listing image for 1951 Rest As You Ride. in Money Saving Coaches Go Union Pacific - 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">1951 Rest As You Ride. in Money Saving Coaches Go Union Pacific - 11x17 Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for money saving poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: money saving poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1951 Rest As You Ride. in Money Saving Coaches Go Union Pacific - 11x17 Poster"><img src="{{ '/assets/images/marketplace-covers/7773315acb71fe25f4e0.jpg' | relative_url }}" alt="Listing image for 1951 Rest As You Ride. in Money Saving Coaches Go Union Pacific - 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">1951 Rest As You Ride. in Money Saving Coaches Go Union Pacific - 11x17 Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for money saving poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: money saving poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=spending-friction-the-tiny-barriers-that-stop-impulse-buys-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -623,7 +623,7 @@ The strength of spending friction is not that it guarantees perfect decisions. I
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -643,7 +643,7 @@ The strength of spending friction is not that it guarantees perfect decisions. I
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -675,7 +675,7 @@ The strength of spending friction is not that it guarantees perfect decisions. I
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -705,7 +705,7 @@ The strength of spending friction is not that it guarantees perfect decisions. I
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -763,154 +763,154 @@ The strength of spending friction is not that it guarantees perfect decisions. I
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/0718-1876/20/4/266" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/0718-1876/20/4/266</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>From Browsing to Buying: Determinants of Impulse Buying...by M Escobar-Farfán · 2025 · Cited by 4 — Credit card use facilitates impu...</p></details>
+   Link:<a href="https://www.mdpi.com/0718-1876/20/4/266" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/0718-1876/20/4/266</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From Browsing to Buying: Determinants of Impulse Buying...by M Escobar-Farfán · 2025 · Cited by 4 — Credit card use facilitates impu...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2451958825000910" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2451958825000910</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Impulse buying in live streaming e-commerce: A systematic...by Y Li · 2025 · Cited by 25 — This paper presents a systematic literature r...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2451958825000910" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2451958825000910</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Impulse buying in live streaming e-commerce: A systematic...by Y Li · 2025 · Cited by 25 — This paper presents a systematic literature r...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0001691825009060" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0001691825009060</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Key determinants of online impulse buying behaviorby TTA Ngo · 2025 · Cited by 11 — This study focused on TikTok Shop to examine how fact...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0001691825009060" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0001691825009060</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Key determinants of online impulse buying behaviorby TTA Ngo · 2025 · Cited by 11 — This study focused on TikTok Shop to examine how fact...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/362685652_Rein_it_in_Nudge-based_interventions_to_cope_with_online_impulse_buying_among_young_adults" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362685652_Rein_it_in_Nudge-based_interventions_to_cope_with_online_impulse_buying_among_young_adults</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rein it in. Nudge-based interventions to cope with online...14 Aug 2022 — This research discusses possible nudge-based interventions for...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/362685652_Rein_it_in_Nudge-based_interventions_to_cope_with_online_impulse_buying_among_young_adults" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362685652_Rein_it_in_Nudge-based_interventions_to_cope_with_online_impulse_buying_among_young_adults</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rein it in. Nudge-based interventions to cope with online...14 Aug 2022 — This research discusses possible nudge-based interventions for...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: alibaba.com  
    Title: During the wait  
-   Link: <a href="https://www.alibaba.com/product-insights/psychological-tricks-to-stop-impulse-buying-online-without-deleting-your-credit-card.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alibaba.com/product-insights/psychological-tricks-to-stop-impulse-buying-online-without-deleting-your-credit-card.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological Tricks To Stop Impulse Buying Online...20 Mar 2026 — This delay leverages a concept known as “cooling-off periods,”...</p></details>
+   Link:<a href="https://www.alibaba.com/product-insights/psychological-tricks-to-stop-impulse-buying-online-without-deleting-your-credit-card.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alibaba.com/product-insights/psychological-tricks-to-stop-impulse-buying-online-without-deleting-your-credit-card.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psychological Tricks To Stop Impulse Buying Online...20 Mar 2026 — This delay leverages a concept known as “cooling-off periods,”...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: investopedia.com  
    Title: 'Friction Maxxing' Goes Viral-Here's What It Means For Your Spending  
-   Link: <a href="https://www.investopedia.com/friction-maxxing-goes-viral-here-s-what-it-means-for-your-spending-11947155" target="_blank" rel="noopener noreferrer nofollow">https://www.investopedia.com/friction-maxxing-goes-viral-here-s-what-it-means-for-your-spending-11947155</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Triggered by easy digital checkout methods such as one-click purchasing, Face ID, and mobile payments, impulse buys have surged, with a L...</p></details>
+   Link:<a href="https://www.investopedia.com/friction-maxxing-goes-viral-here-s-what-it-means-for-your-spending-11947155" target="_blank" rel="noopener noreferrer nofollow">https://www.investopedia.com/friction-maxxing-goes-viral-here-s-what-it-means-for-your-spending-11947155</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Triggered by easy digital checkout methods such as one-click purchasing, Face ID, and mobile payments, impulse buys have surged, with a L...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: investopedia.com  
-   Link: <a href="https://www.investopedia.com/friction-maxxing-is-going-viral-heres-how-it-could-transform-your-spending-habits-11898285" target="_blank" rel="noopener noreferrer nofollow">https://www.investopedia.com/friction-maxxing-is-going-viral-heres-how-it-could-transform-your-spending-habits-11898285</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Originating from digital culture critique, it encourages consumers to slow down, think, and delay purchases, especially in environments w...</p></details>
+   Link:<a href="https://www.investopedia.com/friction-maxxing-is-going-viral-heres-how-it-could-transform-your-spending-habits-11898285" target="_blank" rel="noopener noreferrer nofollow">https://www.investopedia.com/friction-maxxing-is-going-viral-heres-how-it-could-transform-your-spending-habits-11898285</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Originating from digital culture critique, it encourages consumers to slow down, think, and delay purchases, especially in environments w...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: theweek.com  
-   Link: <a href="https://theweek.com/personal-finance/friction-maxxing-save-money-overspending-impulse-buying" target="_blank" rel="noopener noreferrer nofollow">https://theweek.com/personal-finance/friction-maxxing-save-money-overspending-impulse-buying</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How &#x27;friction maxxing&#x27; can help you stop impulse buyingApril 24, 2026 — Apr 24, 2026 — Slow down and be more intentional about your finances...</p></details>
+   Link:<a href="https://theweek.com/personal-finance/friction-maxxing-save-money-overspending-impulse-buying" target="_blank" rel="noopener noreferrer nofollow">https://theweek.com/personal-finance/friction-maxxing-save-money-overspending-impulse-buying</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How &#x27;friction maxxing&#x27; can help you stop impulse buyingApril 24, 2026 — Apr 24, 2026 — Slow down and be more intentional about your finances...</p></details>
    Published: April 24, 2026  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: slowmoneymovement.com  
-   Link: <a href="https://www.slowmoneymovement.com/blog/stop-impulse-spending" target="_blank" rel="noopener noreferrer nofollow">https://www.slowmoneymovement.com/blog/stop-impulse-spending</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Stop Impulse Spending - The Slow Money Movement18 Mar 2026 — But by deliberately adding friction back into the process, people can...</p></details>
+   Link:<a href="https://www.slowmoneymovement.com/blog/stop-impulse-spending" target="_blank" rel="noopener noreferrer nofollow">https://www.slowmoneymovement.com/blog/stop-impulse-spending</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How To Stop Impulse Spending - The Slow Money Movement18 Mar 2026 — But by deliberately adding friction back into the process, people can...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: lifetips.alibaba.com  
    Title: delete saved payment info to reduce online impulse buyi  
-   Link: <a href="https://lifetips.alibaba.com/tech-efficiency/delete-saved-payment-info-to-reduce-online-impulse-buyi" target="_blank" rel="noopener noreferrer nofollow">https://lifetips.alibaba.com/tech-efficiency/delete-saved-payment-info-to-reduce-online-impulse-buyi</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Empirical evidence from controlled A/B tests (n = 8,432...Read more...</p></details>
+   Link:<a href="https://lifetips.alibaba.com/tech-efficiency/delete-saved-payment-info-to-reduce-online-impulse-buyi" target="_blank" rel="noopener noreferrer nofollow">https://lifetips.alibaba.com/tech-efficiency/delete-saved-payment-info-to-reduce-online-impulse-buyi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Empirical evidence from controlled A/B tests (n = 8,432...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2405844024117744" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2405844024117744</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A comprehensive study on factors influencing online...by TTA Ngo · 2024 · Cited by 138 — This research analyzes the influence of product...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2405844024117744" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2405844024117744</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A comprehensive study on factors influencing online...by TTA Ngo · 2024 · Cited by 138 — This research analyzes the influence of product...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/396678555_Click_to_Buy_Behavioral_Insights_into_Impulse_Buying_Triggers_in_E-Commerce_Environments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396678555_Click_to_Buy_Behavioral_Insights_into_Impulse_Buying_Triggers_in_E-Commerce_Environments</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Click to Buy: Behavioral Insights into Impulse...19 Oct 2025 — This review discusses drivers of impulse buying in online settings...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/396678555_Click_to_Buy_Behavioral_Insights_into_Impulse_Buying_Triggers_in_E-Commerce_Environments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396678555_Click_to_Buy_Behavioral_Insights_into_Impulse_Buying_Triggers_in_E-Commerce_Environments</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Click to Buy: Behavioral Insights into Impulse...19 Oct 2025 — This review discusses drivers of impulse buying in online settings...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: acr-journal.com  
-   Link: <a href="https://acr-journal.com/article/the-silent-wallet-how-payment-mode-transparency-shapes-spending-behaviour-in-gen-z-consumers-1857/" target="_blank" rel="noopener noreferrer nofollow">https://acr-journal.com/article/the-silent-wallet-how-payment-mode-transparency-shapes-spending-behaviour-in-gen-z-consumers-1857/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Advances in Consumer ResearchThe Silent Wallet: How Payment Mode Transparency...by K Karthikeyan · 2025 — Findings reveal that reduced t...</p></details>
+   Link:<a href="https://acr-journal.com/article/the-silent-wallet-how-payment-mode-transparency-shapes-spending-behaviour-in-gen-z-consumers-1857/" target="_blank" rel="noopener noreferrer nofollow">https://acr-journal.com/article/the-silent-wallet-how-payment-mode-transparency-shapes-spending-behaviour-in-gen-z-consumers-1857/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Advances in Consumer ResearchThe Silent Wallet: How Payment Mode Transparency...by K Karthikeyan · 2025 — Findings reveal that reduced t...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: acr-journal.com  
-   Link: <a href="https://acr-journal.com/article/download/pdf/1857/" target="_blank" rel="noopener noreferrer nofollow">https://acr-journal.com/article/download/pdf/1857/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Advances in Consumer ResearchThe Silent Wallet: How Payment Mode Transparency...7 Nov 2025 — emotional friction, increase impulse buying...</p></details>
+   Link:<a href="https://acr-journal.com/article/download/pdf/1857/" target="_blank" rel="noopener noreferrer nofollow">https://acr-journal.com/article/download/pdf/1857/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Advances in Consumer ResearchThe Silent Wallet: How Payment Mode Transparency...7 Nov 2025 — emotional friction, increase impulse buying...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: jmsr-online.com  
-   Link: <a href="https://jmsr-online.com/article/understanding-the-psychology-of-impulse-buying-in-e-commerce-a-behavioral-review-314/" target="_blank" rel="noopener noreferrer nofollow">https://jmsr-online.com/article/understanding-the-psychology-of-impulse-buying-in-e-commerce-a-behavioral-review-314/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Marketing &amp; Social ResearchUnderstanding the Psychology of Impulse Buying in E-...by R Chaudhary · 2025 · Cited by 7 — Online...</p></details>
+   Link:<a href="https://jmsr-online.com/article/understanding-the-psychology-of-impulse-buying-in-e-commerce-a-behavioral-review-314/" target="_blank" rel="noopener noreferrer nofollow">https://jmsr-online.com/article/understanding-the-psychology-of-impulse-buying-in-e-commerce-a-behavioral-review-314/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Marketing &amp; Social ResearchUnderstanding the Psychology of Impulse Buying in E-...by R Chaudhary · 2025 · Cited by 7 — Online...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: consumerfinance.gov  
    Title: an essential guide to building an emergency fund  
-   Link: <a href="https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Financial Protection BureauAn essential guide to building an emergency fund29 Oct 2025 — In general, emergency savings can be us...</p></details>
+   Link:<a href="https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Financial Protection BureauAn essential guide to building an emergency fund29 Oct 2025 — In general, emergency savings can be us...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: servicecu.org  
-   Link: <a href="https://servicecu.org/resources/blog/detail/checking-and-savings/emergency-savings-why-every-first-responder-needs-a-fund/" target="_blank" rel="noopener noreferrer nofollow">https://servicecu.org/resources/blog/detail/checking-and-savings/emergency-savings-why-every-first-responder-needs-a-fund/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Service Credit UnionEmergency Savings: Why Every First Responder Needs a...22 Feb 2024 — Opt for a higher-yield savings account, keeping...</p></details>
+   Link:<a href="https://servicecu.org/resources/blog/detail/checking-and-savings/emergency-savings-why-every-first-responder-needs-a-fund/" target="_blank" rel="noopener noreferrer nofollow">https://servicecu.org/resources/blog/detail/checking-and-savings/emergency-savings-why-every-first-responder-needs-a-fund/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Service Credit UnionEmergency Savings: Why Every First Responder Needs a...22 Feb 2024 — Opt for a higher-yield savings account, keeping...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: files.consumerfinance.gov  
-   Link: <a href="https://files.consumerfinance.gov/f/documents/cfpb_mem_emergency-savings-financial-security_report_2022-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.consumerfinance.gov/f/documents/cfpb_mem_emergency-savings-financial-security_report_2022-3.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>At the same time...Read more...</p></details>
+   Link:<a href="https://files.consumerfinance.gov/f/documents/cfpb_mem_emergency-savings-financial-security_report_2022-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.consumerfinance.gov/f/documents/cfpb_mem_emergency-savings-financial-security_report_2022-3.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>At the same time...Read more...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/big-problems/reducing-online-impulse-buying-for-smarter-purchases" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/big-problems/reducing-online-impulse-buying-for-smarter-purchases</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reducing Online Impulse Buying for Smarter PurchasesBehavioral science suggests that introducing deliberate friction points into digital...</p></details>
+   Link:<a href="https://thedecisionlab.com/big-problems/reducing-online-impulse-buying-for-smarter-purchases" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/big-problems/reducing-online-impulse-buying-for-smarter-purchases</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reducing Online Impulse Buying for Smarter PurchasesBehavioral science suggests that introducing deliberate friction points into digital...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: studocu.vn  
-   Link: <a href="https://www.studocu.vn/vn/document/truong-dai-hoc-fpt/marketing-research/a-comprehensive-study-on-factors-influencing-online-impulse-buying-behavior-in/124060308" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.vn/vn/document/truong-dai-hoc-fpt/marketing-research/a-comprehensive-study-on-factors-influencing-online-impulse-buying-behavior-in/124060308</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lsive buying behaviors in this demographic, using the Shopee video platform as...Read more...</p></details>
+   Link:<a href="https://www.studocu.vn/vn/document/truong-dai-hoc-fpt/marketing-research/a-comprehensive-study-on-factors-influencing-online-impulse-buying-behavior-in/124060308" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.vn/vn/document/truong-dai-hoc-fpt/marketing-research/a-comprehensive-study-on-factors-influencing-online-impulse-buying-behavior-in/124060308</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lsive buying behaviors in this demographic, using the Shopee video platform as...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ithinkfi.org  
    Title: understanding emergency funds savings accounts in 2025  
-   Link: <a href="https://www.ithinkfi.org/blog/blog-detail/ithink-blog/2025/10/01/understanding-emergency-funds---savings-accounts-in-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.ithinkfi.org/blog/blog-detail/ithink-blog/2025/10/01/understanding-emergency-funds---savings-accounts-in-2025</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Emergency Funds &amp; Savings Accounts in...1 Oct 2025 — Understand key differences between emergency funds and savings accoun...</p></details>
+   Link:<a href="https://www.ithinkfi.org/blog/blog-detail/ithink-blog/2025/10/01/understanding-emergency-funds---savings-accounts-in-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.ithinkfi.org/blog/blog-detail/ithink-blog/2025/10/01/understanding-emergency-funds---savings-accounts-in-2025</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Emergency Funds &amp; Savings Accounts in...1 Oct 2025 — Understand key differences between emergency funds and savings accoun...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
    Title: Friction maxxing adds deliberate barriers to spending  
-   Link: <a href="https://www.facebook.com/Investopedia/posts/friction-maxxing-adds-deliberate-barriers-to-spending-learn-how-small-delays-can/1383274273824377/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Investopedia/posts/friction-maxxing-adds-deliberate-barriers-to-spending-learn-how-small-delays-can/1383274273824377/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Postpone purchases, try a no-spend challenge, and remove saved card information to add friction to online buying. Unsubscribe from retail...</p></details>
+   Link:<a href="https://www.facebook.com/Investopedia/posts/friction-maxxing-adds-deliberate-barriers-to-spending-learn-how-small-delays-can/1383274273824377/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Investopedia/posts/friction-maxxing-adds-deliberate-barriers-to-spending-learn-how-small-delays-can/1383274273824377/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Postpone purchases, try a no-spend challenge, and remove saved card information to add friction to online buying. Unsubscribe from retail...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: corporate.vanguard.com  
    Title: emergency savings may hold key financial well being  
-   Link: <a href="https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/emergency-savings-may-hold-key-financial-well-being.html" target="_blank" rel="noopener noreferrer nofollow">https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/emergency-savings-may-hold-key-financial-well-being.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>savings may hold key to financial well-being29 Apr 2025 — Vanguard research highlights the profound impact that emergency savings have on...</p></details>
+   Link:<a href="https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/emergency-savings-may-hold-key-financial-well-being.html" target="_blank" rel="noopener noreferrer nofollow">https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/emergency-savings-may-hold-key-financial-well-being.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>savings may hold key to financial well-being29 Apr 2025 — Vanguard research highlights the profound impact that emergency savings have on...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/964686622/CASE-STUDY-BEHAVIOUR-ECONOMICS-CEC-1" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/964686622/CASE-STUDY-BEHAVIOUR-ECONOMICS-CEC-1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>izing barriers which typically prompt reconsideration or decision...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/964686622/CASE-STUDY-BEHAVIOUR-ECONOMICS-CEC-1" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/964686622/CASE-STUDY-BEHAVIOUR-ECONOMICS-CEC-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>izing barriers which typically prompt reconsideration or decision...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: myfsbonline.com  
-   Link: <a href="https://www.myfsbonline.com/education/financial-wellness/what-is-an-emergency-fund" target="_blank" rel="noopener noreferrer nofollow">https://www.myfsbonline.com/education/financial-wellness/what-is-an-emergency-fund</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>With the right savings in place, you can cover urgent expenses...Read more...</p></details>
+   Link:<a href="https://www.myfsbonline.com/education/financial-wellness/what-is-an-emergency-fund" target="_blank" rel="noopener noreferrer nofollow">https://www.myfsbonline.com/education/financial-wellness/what-is-an-emergency-fund</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>With the right savings in place, you can cover urgent expenses...Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: empeople.com  
    Title: 7 psychology backed ways to curb overspending  
-   Link: <a href="https://empeople.com/learn/empeople-insights/7-psychology-backed-ways-to-curb-overspending/" target="_blank" rel="noopener noreferrer nofollow">https://empeople.com/learn/empeople-insights/7-psychology-backed-ways-to-curb-overspending/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Psychology-Backed Ways to Curb OverspendingMar 3, 2026 — Understand the psychology behind overspending and learn seven research-backed...</p></details>
+   Link:<a href="https://empeople.com/learn/empeople-insights/7-psychology-backed-ways-to-curb-overspending/" target="_blank" rel="noopener noreferrer nofollow">https://empeople.com/learn/empeople-insights/7-psychology-backed-ways-to-curb-overspending/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>7 Psychology-Backed Ways to Curb OverspendingMar 3, 2026 — Understand the psychology behind overspending and learn seven research-backed...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: jpmorganchase.com  
    Title: building financial security and resilience  
-   Link: <a href="https://www.jpmorganchase.com/institute/all-topics/financial-health-wealth-creation/building-financial-security-and-resilience" target="_blank" rel="noopener noreferrer nofollow">https://www.jpmorganchase.com/institute/all-topics/financial-health-wealth-creation/building-financial-security-and-resilience</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to unexpected...18 Sept 2025 — This report explores how easily households can increase their financial security through saving by answer...</p></details>
+   Link:<a href="https://www.jpmorganchase.com/institute/all-topics/financial-health-wealth-creation/building-financial-security-and-resilience" target="_blank" rel="noopener noreferrer nofollow">https://www.jpmorganchase.com/institute/all-topics/financial-health-wealth-creation/building-financial-security-and-resilience</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to unexpected...18 Sept 2025 — This report explores how easily households can increase their financial security through saving by answer...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11336989/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11336989/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>comprehensive study on factors influencing online impulse...by TTA Ngo · 2024 · Cited by 112 — One-click purchasing options further simp...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11336989/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11336989/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>comprehensive study on factors influencing online impulse...by TTA Ngo · 2024 · Cited by 112 — One-click purchasing options further simp...</p></details>

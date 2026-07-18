@@ -287,7 +287,7 @@ The daily dashboard contains behaviours under direct control: whether you exerci
 
 The review calendar contains outcomes: body weight, fitness performance, sleep quality, mood trends, savings balances or other end results. These metrics answer whether the current strategy deserves continuation, adjustment or replacement.
 
-Research on goal progress monitoring consistently finds that monitoring helps goal attainment, particularly when information is recorded and used for self-regulation. However, effective monitoring is not the same as constant evaluation. Monitoring provides information; interpretation requires enough data to identify a pattern rather than a fluctuation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Does monitoring goal progress promote goal attainment?</span><span class="citation-popover-snippet">B Harkin · 2016 · Cited by 750 — Taken together, the findings suggest that monitoring goal progress is an effective self-regulati...</span></span></span>
+Research on goal progress monitoring consistently finds that monitoring helps goal attainment, particularly when information is recorded and used for self-regulation. However, effective monitoring is not the same as constant evaluation. Monitoring provides information; interpretation requires enough data to identify a pattern rather than a fluctuation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Does monitoring goal progress promote goal attainment?</span><span class="citation-popover-snippet">B Harkin · 2016 · Cited by 750 — Taken together, the findings suggest that monitoring goal progress is an effective self-regulati...</span></span></span>
 
 A practical rule is:
 
@@ -307,13 +307,13 @@ The biggest mistake in outcome tracking is assuming every measurement reflects g
 
 ### Weight is not the same as fat loss
 
-Body weight can move substantially from one day to the next because of hydration, food volume, digestion, salt intake, hormonal changes and exercise-related fluid shifts. Studies of large populations show predictable weekly weight rhythms, with weight often rising after weekends and falling during the working week. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5644907/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Weight Rhythms: Weight Increases during Weekends and...by AL Orsama · 2014 · Cited by 83 — A pattern of daily weight changes was foun...</span></span></span>
+Body weight can move substantially from one day to the next because of hydration, food volume, digestion, salt intake, hormonal changes and exercise-related fluid shifts. Studies of large populations show predictable weekly weight rhythms, with weight often rising after weekends and falling during the working week.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5644907/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Weight Rhythms: Weight Increases during Weekends and...by AL Orsama · 2014 · Cited by 83 — A pattern of daily weight changes was foun...</span></span></span>
 
-Even health organisations note that body weight can fluctuate by one or more kilograms within a day under normal conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sgh.com.sg/news/patient-care/how-often-should-you-weigh-yourself" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgh.com.sg">[Singapore General Hospital]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgh.com.sg</span><span class="citation-popover-title">how often should you weigh yourself</span><span class="citation-popover-snippet">Singapore General HospitalHow often should you weigh yourself?15 Feb 2023 — Body weight can fluctuate by 1 to 2kg during a single day...</span></span></span>
+Even health organisations note that body weight can fluctuate by one or more kilograms within a day under normal conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sgh.com.sg/news/patient-care/how-often-should-you-weigh-yourself" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sgh.com.sg">[Singapore General Hospital]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sgh.com.sg</span><span class="citation-popover-title">how often should you weigh yourself</span><span class="citation-popover-snippet">Singapore General HospitalHow often should you weigh yourself?15 Feb 2023 — Body weight can fluctuate by 1 to 2kg during a single day...</span></span></span>
 
-This means that a single weigh-in often tells a story about yesterday's meals and water balance rather than long-term body composition. Trend lines and weekly averages are usually more informative than isolated readings. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2807660" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamanetwork.com">[JAMA Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamanetwork.com</span><span class="citation-popover-snippet">Weekly, Seasonal, and Festive Period Weight Gain Among...by C Maher · 2023 · Cited by 12 — In this cohort study of 368 adults, weight fl...</span></span></span>
+This means that a single weigh-in often tells a story about yesterday's meals and water balance rather than long-term body composition. Trend lines and weekly averages are usually more informative than isolated readings. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2807660" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamanetwork.com">[JAMA Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamanetwork.com</span><span class="citation-popover-snippet">Weekly, Seasonal, and Festive Period Weight Gain Among...by C Maher · 2023 · Cited by 12 — In this cohort study of 368 adults, weight fl...</span></span></span>
 
-Interestingly, research has found that frequent self-weighing can [support]({{ 'support/' | relative_url }}) weight management when it functions as information gathering rather than emotional judgement. The problem is not collecting the data; the problem is treating each measurement as a verdict on success or failure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4380831/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by DM Steinberg · 2015 · Cited by 149 — Weighing everyday led to greater adoption of weight control behaviors and produced greater wei...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8277333/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCFrequency of Self-Weighing and Weight Change</span><span class="citation-popover-snippet">of Self-Weighing and Weight Change - PMC - NIHby AL Vuorinen · 2021 · Cited by 26 — Frequent self-weighing is associated with successful...</span></span></span>
+Interestingly, research has found that frequent self-weighing can [support]({{ 'support/' | relative_url }}) weight management when it functions as information gathering rather than emotional judgement. The problem is not collecting the data; the problem is treating each measurement as a verdict on success or failure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4380831/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by DM Steinberg · 2015 · Cited by 149 — Weighing everyday led to greater adoption of weight control behaviors and produced greater wei...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8277333/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCFrequency of Self-Weighing and Weight Change</span><span class="citation-popover-snippet">of Self-Weighing and Weight Change - PMC - NIHby AL Vuorinen · 2021 · Cited by 26 — Frequent self-weighing is associated with successful...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MHj9R9u5a8Y" title="Best Wearables for Sleep: Scientific Rankings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MHj9R9u5a8Y" target="_blank" rel="noopener noreferrer">Best Wearables for Sleep: Scientific Rankings</a></p><p class="youtube-embed-meta">Channel: The Quantified Scientist &middot; Views: 116.2K &middot; Uploaded: October 2025 &middot; Length: 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MHj9R9u5a8Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MHj9R9u5a8Y">Open on YouTube</a></p></div></div></div>
 
@@ -325,9 +325,9 @@ When mood tracking becomes a search for daily proof of improvement, ordinary var
 
 ### Sleep scores are estimates, not judgements
 
-Consumer sleep trackers can be useful for identifying broad trends, but sleep metrics contain uncertainty. Research comparing [wearables]({{ 'wearables/' | relative_url }}) with laboratory sleep measurements shows meaningful limitations in accuracy, particularly for sleep stages and certain sleep parameters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7849816/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEffect of wearables on sleep in healthy individuals</span><span class="citation-popover-snippet">Although some have shown unacceptably high variability...Read more...</span></span></span>
+Consumer sleep trackers can be useful for identifying broad trends, but sleep metrics contain uncertainty. Research comparing [wearables]({{ 'wearables/' | relative_url }}) with laboratory sleep measurements shows meaningful limitations in accuracy, particularly for sleep stages and certain sleep parameters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7849816/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEffect of wearables on sleep in healthy individuals</span><span class="citation-popover-snippet">Although some have shown unacceptably high variability...Read more...</span></span></span>
 
-Sleep experts increasingly recommend focusing on long-term patterns rather than obsessing over nightly scores. Even high-quality devices are better at highlighting trends than providing perfect night-by-night assessments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/best-sleep-trackers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">It reviews and compares various types of sleep trackers—smart rings, wristbands, and mattress covers—focusing on accuracy, comfort, app u...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/lifeandstyle/2025/oct/20/smart-watch-wearable-sleep-trackers-data-harder-to-sleep" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Individuals like Annie use wearables such as smartwatches and rings to monitor sleep quality, guiding lifestyle decisions including daily...</span></span></span>
+Sleep experts increasingly recommend focusing on long-term patterns rather than obsessing over nightly scores. Even high-quality devices are better at highlighting trends than providing perfect night-by-night assessments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/best-sleep-trackers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">It reviews and compares various types of sleep trackers—smart rings, wristbands, and mattress covers—focusing on accuracy, comfort, app u...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/lifeandstyle/2025/oct/20/smart-watch-wearable-sleep-trackers-data-harder-to-sleep" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Individuals like Annie use wearables such as smartwatches and rings to monitor sleep quality, guiding lifestyle decisions including daily...</span></span></span>
 
 A single low sleep score may reflect normal variability, device limitations or temporary circumstances. It is rarely a reliable basis for changing an entire sleep strategy.
 
@@ -430,178 +430,178 @@ When outcomes are reviewed at appropriate intervals, they become tools for learn
 The difference is not the metric itself. It is the rhythm of review. A daily dashboard helps you act. A review calendar helps you learn whether those actions are working. Together they provide [feedback]({{ 'feedback/' | relative_url }}) without turning every day into a pass-or-fail test.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When should outcomes be reviewed?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When should outcomes be reviewed?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Distinguishes process measures from outcomes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Distinguishes process measures from outcomes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Measure+What+Matters+by+John+Doerr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Measure What Matters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VEtTDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Measure What Matters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Measure+What+Matters+by+John+Doerr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Measure What Matters">Measure What Matters</a>
-        </h4>
-        <p class="fr-book-author">By John Doerr</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Measure+What+Matters+by+John+Doerr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Measure What Matters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VEtTDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Measure What Matters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Measure+What+Matters+by+John+Doerr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Measure What Matters">Measure What Matters</a>
+</h4>
+<p class="fr-book-author">By John Doerr</p>
         
-        <p class="fr-book-desc">Centers on review cycles and meaningful measurement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Measure+What+Matters+by+John+Doerr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Centers on review cycles and meaningful measurement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Measure+What+Matters+by+John+Doerr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Change+by+Katy+Milkman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Change on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AHInEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Change" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Change+by+Katy+Milkman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Change">How to Change</a>
-        </h4>
-        <p class="fr-book-author">By Katy Milkman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Change+by+Katy+Milkman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Change on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AHInEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Change" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Change+by+Katy+Milkman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Change">How to Change</a>
+</h4>
+<p class="fr-book-author">By Katy Milkman</p>
         
-        <p class="fr-book-desc">Helps readers evaluate whether strategies are working.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Change+by+Katy+Milkman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers evaluate whether strategies are working.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Change+by+Katy+Milkman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
-        </h4>
-        <p class="fr-book-author">By Charles Duhigg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
+</h4>
+<p class="fr-book-author">By Charles Duhigg</p>
         
-        <p class="fr-book-desc">Supports outcome review through habit loops.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports outcome review through habit loops.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Measure+What+Matters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Measure What Matters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Change&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Change</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Measure+What+Matters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Measure What Matters</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Change&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Change</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-    </div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outcome-metrics-matter-because-they-when-should-outcomes-be-reviewed-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outcome-metrics-matter-because-they-when-should-outcomes-be-reviewed-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outcome-metrics-matter-because-they-when-should-outcomes-be-reviewed-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outcome-metrics-matter-because-they-when-should-outcomes-be-reviewed-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outcome-metrics-matter-because-they-when-should-outcomes-be-reviewed-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outcome-metrics-matter-because-they-when-should-outcomes-be-reviewed-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outcome-metrics-matter-because-they-when-should-outcomes-be-reviewed-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outcome-metrics-matter-because-they-when-should-outcomes-be-reviewed-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outcome-metrics-matter-because-they-when-should-outcomes-be-reviewed-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outcome-metrics-matter-because-they-when-should-outcomes-be-reviewed-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outcome-metrics-matter-because-they-when-should-outcomes-be-reviewed-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outcome-metrics-matter-because-they-when-should-outcomes-be-reviewed-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outcome-metrics-matter-because-they-when-should-outcomes-be-reviewed-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outcome-metrics-matter-because-they-when-should-outcomes-be-reviewed-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outcome-metrics-matter-because-they-when-should-outcomes-be-reviewed-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outcome-metrics-matter-because-they-when-should-outcomes-be-reviewed-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outcome-metrics-matter-because-they-when-should-outcomes-be-reviewed-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outcome-metrics-matter-because-they-when-should-outcomes-be-reviewed-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outcome-metrics-matter-because-they-when-should-outcomes-be-reviewed-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outcome-metrics-matter-because-they-when-should-outcomes-be-reviewed-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outcome-metrics-matter-because-they-when-should-outcomes-be-reviewed-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outcome-metrics-matter-because-they-when-should-outcomes-be-reviewed-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outcome-metrics-matter-because-they-when-should-outcomes-be-reviewed-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outcome-metrics-matter-because-they-when-should-outcomes-be-reviewed-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outcome-metrics-matter-because-they-when-should-outcomes-be-reviewed-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outcome-metrics-matter-because-they-when-should-outcomes-be-reviewed-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outcome-metrics-matter-because-they-when-should-outcomes-be-reviewed-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outcome-metrics-matter-because-they-when-should-outcomes-be-reviewed-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outcome-metrics-matter-because-they-when-should-outcomes-be-reviewed-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outcome-metrics-matter-because-they-when-should-outcomes-be-reviewed-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outcome-metrics-matter-because-they-when-should-outcomes-be-reviewed-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outcome-metrics-matter-because-they-when-should-outcomes-be-reviewed-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outcome-metrics-matter-because-they-when-should-outcomes-be-reviewed-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=outcome-metrics-matter-because-they-when-should-outcomes-be-reviewed-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -617,7 +617,7 @@ The difference is not the metric itself. It is the rhythm of review. A daily das
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -637,7 +637,7 @@ The difference is not the metric itself. It is the rhythm of review. A daily das
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -669,7 +669,7 @@ The difference is not the metric itself. It is the rhythm of review. A daily das
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -699,7 +699,7 @@ The difference is not the metric itself. It is the rhythm of review. A daily das
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -757,111 +757,111 @@ The difference is not the metric itself. It is the rhythm of review. A daily das
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5644907/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5644907/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Weight Rhythms: Weight Increases during Weekends and...by AL Orsama · 2014 · Cited by 83 — A pattern of daily weight changes was foun...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5644907/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5644907/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weight Rhythms: Weight Increases during Weekends and...by AL Orsama · 2014 · Cited by 83 — A pattern of daily weight changes was foun...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4380831/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4380831/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by DM Steinberg · 2015 · Cited by 149 — Weighing everyday led to greater adoption of weight control behaviors and produced greater wei...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4380831/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4380831/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by DM Steinberg · 2015 · Cited by 149 — Weighing everyday led to greater adoption of weight control behaviors and produced greater wei...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCFrequency of Self-Weighing and Weight Change  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8277333/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8277333/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of Self-Weighing and Weight Change - PMC - NIHby AL Vuorinen · 2021 · Cited by 26 — Frequent self-weighing is associated with successful...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8277333/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8277333/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Self-Weighing and Weight Change - PMC - NIHby AL Vuorinen · 2021 · Cited by 26 — Frequent self-weighing is associated with successful...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCEffect of wearables on sleep in healthy individuals  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7849816/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7849816/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Although some have shown unacceptably high variability...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7849816/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7849816/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Although some have shown unacceptably high variability...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/best-sleep-trackers" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/best-sleep-trackers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It reviews and compares various types of sleep trackers—smart rings, wristbands, and mattress covers—focusing on accuracy, comfort, app u...</p></details>
+   Link:<a href="https://www.wired.com/story/best-sleep-trackers" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/best-sleep-trackers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It reviews and compares various types of sleep trackers—smart rings, wristbands, and mattress covers—focusing on accuracy, comfort, app u...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med Does monitoring goal progress promote goal attainment?  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26479070/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>B Harkin · 2016 · Cited by 750 — Taken together, the findings suggest that monitoring goal progress is an effective self-regulati...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26479070/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>B Harkin · 2016 · Cited by 750 — Taken together, the findings suggest that monitoring goal progress is an effective self-regulati...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: jamanetwork.com  
-   Link: <a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2807660" target="_blank" rel="noopener noreferrer nofollow">https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2807660</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Weekly, Seasonal, and Festive Period Weight Gain Among...by C Maher · 2023 · Cited by 12 — In this cohort study of 368 adults, weight fl...</p></details>
+   Link:<a href="https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2807660" target="_blank" rel="noopener noreferrer nofollow">https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2807660</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weekly, Seasonal, and Festive Period Weight Gain Among...by C Maher · 2023 · Cited by 12 — In this cohort study of 368 adults, weight fl...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sgh.com.sg  
    Title: how often should you weigh yourself  
-   Link: <a href="https://www.sgh.com.sg/news/patient-care/how-often-should-you-weigh-yourself" target="_blank" rel="noopener noreferrer nofollow">https://www.sgh.com.sg/news/patient-care/how-often-should-you-weigh-yourself</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Singapore General HospitalHow often should you weigh yourself?15 Feb 2023 — Body weight can fluctuate by 1 to 2kg during a single day...</p></details>
+   Link:<a href="https://www.sgh.com.sg/news/patient-care/how-often-should-you-weigh-yourself" target="_blank" rel="noopener noreferrer nofollow">https://www.sgh.com.sg/news/patient-care/how-often-should-you-weigh-yourself</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Singapore General HospitalHow often should you weigh yourself?15 Feb 2023 — Body weight can fluctuate by 1 to 2kg during a single day...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/lifeandstyle/2025/oct/20/smart-watch-wearable-sleep-trackers-data-harder-to-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/lifeandstyle/2025/oct/20/smart-watch-wearable-sleep-trackers-data-harder-to-sleep</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Individuals like Annie use wearables such as smartwatches and rings to monitor sleep quality, guiding lifestyle decisions including daily...</p></details>
+   Link:<a href="https://www.theguardian.com/lifeandstyle/2025/oct/20/smart-watch-wearable-sleep-trackers-data-harder-to-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/lifeandstyle/2025/oct/20/smart-watch-wearable-sleep-trackers-data-harder-to-sleep</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Individuals like Annie use wearables such as smartwatches and rings to monitor sleep quality, guiding lifestyle decisions including daily...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: psychiatry.ucsd.edu  
    Title: goal progress  
-   Link: <a href="https://psychiatry.ucsd.edu/research/programs-centers/instep/tools-resource/definitions/team-processes/action-phase/goal-progress.html" target="_blank" rel="noopener noreferrer nofollow">https://psychiatry.ucsd.edu/research/programs-centers/instep/tools-resource/definitions/team-processes/action-phase/goal-progress.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Progress MonitoringTracking task and progress toward mission accomplishment, interpreting system information in terms of what needs to be...</p></details>
+   Link:<a href="https://psychiatry.ucsd.edu/research/programs-centers/instep/tools-resource/definitions/team-processes/action-phase/goal-progress.html" target="_blank" rel="noopener noreferrer nofollow">https://psychiatry.ucsd.edu/research/programs-centers/instep/tools-resource/definitions/team-processes/action-phase/goal-progress.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Progress MonitoringTracking task and progress toward mission accomplishment, interpreting system information in terms of what needs to be...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: clinicaltrials.gov  
-   Link: <a href="https://clinicaltrials.gov/study/NCT01369004" target="_blank" rel="noopener noreferrer nofollow">https://clinicaltrials.gov/study/NCT01369004</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The WEIGH Study: Weighing to Improve and Gain HealthThe objective of the WEIGH Study (Weighing to Improve and Gain Health) is to test the...</p></details>
+   Link:<a href="https://clinicaltrials.gov/study/NCT01369004" target="_blank" rel="noopener noreferrer nofollow">https://clinicaltrials.gov/study/NCT01369004</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The WEIGH Study: Weighing to Improve and Gain HealthThe objective of the WEIGH Study (Weighing to Improve and Gain Health) is to test the...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: catalystfitnessflorida.com  
-   Link: <a href="https://catalystfitnessflorida.com/why-its-important-to-focus-on-your-weekly-weight-average-instead-of-daily-fluctuations/" target="_blank" rel="noopener noreferrer nofollow">https://catalystfitnessflorida.com/why-its-important-to-focus-on-your-weekly-weight-average-instead-of-daily-fluctuations/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tracking Weight: Why Weekly Averages MatterWhen you calculate your weekly weight average, you smooth out the daily highs and lows, giving...</p></details>
+   Link:<a href="https://catalystfitnessflorida.com/why-its-important-to-focus-on-your-weekly-weight-average-instead-of-daily-fluctuations/" target="_blank" rel="noopener noreferrer nofollow">https://catalystfitnessflorida.com/why-its-important-to-focus-on-your-weekly-weight-average-instead-of-daily-fluctuations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tracking Weight: Why Weekly Averages MatterWhen you calculate your weekly weight average, you smooth out the daily highs and lows, giving...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: labfront.com  
-   Link: <a href="https://www.labfront.com/course-video/how-consumer-wearables-measure-sleep-quality" target="_blank" rel="noopener noreferrer nofollow">https://www.labfront.com/course-video/how-consumer-wearables-measure-sleep-quality</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep 5.1 How Consumer Wearables Measure Sleep QualityWe cover the physiological measures used by consumer wearables like Apple Watch, Ga...</p></details>
+   Link:<a href="https://www.labfront.com/course-video/how-consumer-wearables-measure-sleep-quality" target="_blank" rel="noopener noreferrer nofollow">https://www.labfront.com/course-video/how-consumer-wearables-measure-sleep-quality</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep 5.1 How Consumer Wearables Measure Sleep QualityWe cover the physiological measures used by consumer wearables like Apple Watch, Ga...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: t3.com  
-   Link: <a href="https://www.t3.com/active/fitness-trackers/why-your-smartwatch-thinks-you-slept-badly" target="_blank" rel="noopener noreferrer nofollow">https://www.t3.com/active/fitness-trackers/why-your-smartwatch-thinks-you-slept-badly</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Smartwatches, such as the Apple Watch and Samsung Galaxy Watch, use motion sensors and optical heart rate data to estimate sleep quality...</p></details>
+   Link:<a href="https://www.t3.com/active/fitness-trackers/why-your-smartwatch-thinks-you-slept-badly" target="_blank" rel="noopener noreferrer nofollow">https://www.t3.com/active/fitness-trackers/why-your-smartwatch-thinks-you-slept-badly</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Smartwatches, such as the Apple Watch and Samsung Galaxy Watch, use motion sensors and optical heart rate data to estimate sleep quality...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: healthline.com  
-   Link: <a href="https://www.healthline.com/health/weight-fluctuation" target="_blank" rel="noopener noreferrer nofollow">https://www.healthline.com/health/weight-fluctuation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The average adult&#x27;s weight fluctuates up to 5 or 6 pounds per day. It all comes down to what and when you eat and drink.Read more...</p></details>
+   Link:<a href="https://www.healthline.com/health/weight-fluctuation" target="_blank" rel="noopener noreferrer nofollow">https://www.healthline.com/health/weight-fluctuation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The average adult&#x27;s weight fluctuates up to 5 or 6 pounds per day. It all comes down to what and when you eat and drink.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: eprints.whiterose.ac.uk  
-   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/87431/1/bul%20harkin%20raw%20final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/87431/1/bul%20harkin%20raw%20final.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Harkin · 2016 · Cited by 750 — Moderation tests revealed that progress monitoring had larger effects on goal attainment when the out...</p></details>
+   Link:<a href="https://eprints.whiterose.ac.uk/id/eprint/87431/1/bul%20harkin%20raw%20final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/87431/1/bul%20harkin%20raw%20final.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by B Harkin · 2016 · Cited by 750 — Moderation tests revealed that progress monitoring had larger effects on goal attainment when the out...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: blog.nasm.org  
    Title: research in review will weighing in every day improve weight control behaviors  
-   Link: <a href="https://blog.nasm.org/fitness/research-in-review-will-weighing-in-every-day-improve-weight-control-behaviors" target="_blank" rel="noopener noreferrer nofollow">https://blog.nasm.org/fitness/research-in-review-will-weighing-in-every-day-improve-weight-control-behaviors</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Everyday Weight Control...Results: Overall compliance of self-weighing was high: 51% weighed ever day; 76% weighed more than or equal to...</p></details>
+   Link:<a href="https://blog.nasm.org/fitness/research-in-review-will-weighing-in-every-day-improve-weight-control-behaviors" target="_blank" rel="noopener noreferrer nofollow">https://blog.nasm.org/fitness/research-in-review-will-weighing-in-every-day-improve-weight-control-behaviors</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Everyday Weight Control...Results: Overall compliance of self-weighing was high: 51% weighed ever day; 76% weighed more than or equal to...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=MHj9R9u5a8Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MHj9R9u5a8Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Best Wearables for Sleep: Scientific RankingsWe will see which devices are good at tracking your deep sleep RAM sleep and light sleep and...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MHj9R9u5a8Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MHj9R9u5a8Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Best Wearables for Sleep: Scientific RankingsWe will see which devices are good at tracking your deep sleep RAM sleep and light sleep and...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: eprints.whiterose.ac.uk  
    Title: whiterose.ac.uk Does Monitoring Goal Progress Promote Goal Attainment?  
-   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/91437/" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/91437/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Harkin · 2016 · Cited by 750 — Moderation tests revealed that progress monitoring had larger effects on goal attainment when the out...</p></details>
+   Link:<a href="https://eprints.whiterose.ac.uk/id/eprint/91437/" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/91437/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by B Harkin · 2016 · Cited by 750 — Moderation tests revealed that progress monitoring had larger effects on goal attainment when the out...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ovid.com  
-   Link: <a href="https://www.ovid.com/journals/plbul/fulltext/10.1037/bul0000025~does-monitoring-goal-progress-promote-goal-attainment-a" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/plbul/fulltext/10.1037/bul0000025~does-monitoring-goal-progress-promote-goal-attainment-a</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Does Monitoring Goal Progress Promote Goal...by B Harkin · 2016 · Cited by 750 — Taken together, the findings suggest that monitoring goa...</p></details>
+   Link:<a href="https://www.ovid.com/journals/plbul/fulltext/10.1037/bul0000025~does-monitoring-goal-progress-promote-goal-attainment-a" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/plbul/fulltext/10.1037/bul0000025~does-monitoring-goal-progress-promote-goal-attainment-a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Does Monitoring Goal Progress Promote Goal...by B Harkin · 2016 · Cited by 750 — Taken together, the findings suggest that monitoring goa...</p></details>

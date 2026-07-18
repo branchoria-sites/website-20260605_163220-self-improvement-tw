@@ -505,32 +505,32 @@ image: /assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06-ov
 The next-episode trap is not mainly a failure of character. It is a predictable collision between tired decision-making, streaming design, emotional reward and an evening [environment]({{ 'environment/' | relative_url }}) that has not been set up in advance. A better bedtime system treats “sleep before the next episode” as a design problem: remove the late cue, make stopping easier than continuing, give yourself a small reward for shutting down, and move the phone or remote out of reach before fatigue has a vote.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06-overview.webp" | relative_url }}" alt="Overview image for Sleep First" loading="eager" decoding="sync" fetchpriority="high">
-This matters because binge-viewing is enjoyable, common and often genuinely relaxing, yet it can push sleep later than intended. Ofcom-linked reporting on UK viewing habits found that around a third of binge viewers said the temptation to watch another episode had cost them sleep and left them tired, while most also described binge viewing as relaxing and enjoyable. That tension is the whole problem: the behaviour is not absurd; it works in the short term, just at the wrong time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.broadbandtvnews.com/2017/08/03/ofcom-report-uncovers-a-nation-of-binge-viewers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: broadbandtvnews.com">[Broadband TV News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">broadbandtvnews.com</span><span class="citation-popover-snippet">Broadband TV NewsOfcom report uncovers a nation of &#x27;binge viewers&#x27;August 3, 2017 — 3 Aug 2017 — But around a third (32%) of adults admit...</span><span class="citation-popover-meta">Published: August 3, 2017</span></span></span>
+This matters because binge-viewing is enjoyable, common and often genuinely relaxing, yet it can push sleep later than intended. Ofcom-linked reporting on UK viewing habits found that around a third of binge viewers said the temptation to watch another episode had cost them sleep and left them tired, while most also described binge viewing as relaxing and enjoyable. That tension is the whole problem: the behaviour is not absurd; it works in the short term, just at the wrong time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.broadbandtvnews.com/2017/08/03/ofcom-report-uncovers-a-nation-of-binge-viewers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: broadbandtvnews.com">[Broadband TV News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">broadbandtvnews.com</span><span class="citation-popover-snippet">Broadband TV NewsOfcom report uncovers a nation of &#x27;binge viewers&#x27;August 3, 2017 — 3 Aug 2017 — But around a third (32%) of adults admit...</span><span class="citation-popover-meta">Published: August 3, 2017</span></span></span>
 
 ## Why one more episode is such a strong late cue
 
 The late-night streaming decision is unusually unfair. By the time the credits roll, the viewer is tired, comfortable and already inside the story. The choice is not “sleep or television” in the abstract; it is “leave the warm, rewarding, frictionless thing right now, or let the next thing happen automatically”. That is why advice such as “just be disciplined” usually fails. It asks the weakest part of the evening to do the hardest work.
 
-Research on binge viewing and sleep points to a specific mechanism: cognitive pre-sleep arousal. In a 2017 study of young adults published in the *Journal of Clinical Sleep Medicine*, higher binge-viewing [frequency]({{ 'frequency/' | relative_url }}) was associated with poorer sleep quality, more fatigue and more insomnia symptoms, while ordinary television viewing was not associated in the same way. The authors found that cognitive pre-sleep arousal helped explain the relationship, [meaning]({{ 'meaning/' | relative_url }}) the problem was not only the screen but the mental activation created by continuing an engaging narrative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCBinge Viewing, Sleep, and the Role of Pre-Sleep Arousal</span><span class="citation-popover-snippet">by L Exelmans · 2017 · Cited by 287 — This study provides initial evidence that modern viewing styles such as binge viewing may negati...</span></span></span>
+Research on binge viewing and sleep points to a specific mechanism: cognitive pre-sleep arousal. In a 2017 study of young adults published in the *Journal of Clinical Sleep Medicine*, higher binge-viewing [frequency]({{ 'frequency/' | relative_url }}) was associated with poorer sleep quality, more fatigue and more insomnia symptoms, while ordinary television viewing was not associated in the same way. The authors found that cognitive pre-sleep arousal helped explain the relationship, [meaning]({{ 'meaning/' | relative_url }}) the problem was not only the screen but the mental activation created by continuing an engaging narrative.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCBinge Viewing, Sleep, and the Role of Pre-Sleep Arousal</span><span class="citation-popover-snippet">by L Exelmans · 2017 · Cited by 287 — This study provides initial evidence that modern viewing styles such as binge viewing may negati...</span></span></span>
 
 That distinction is useful. Watching a single calm programme at 8.30 pm is not the same behavioural problem as starting a suspenseful series at 10.45 pm with [autoplay]({{ 'autoplay/' | relative_url }}) enabled. The second situation combines several triggers: unresolved plot, low effort to continue, an immediate reward, and a delayed cost that will be paid tomorrow morning. [Self improvement]({{ 'self-improvement-that-works/' | relative_url }}) works here when it changes that situation before it becomes a live negotiation.
 
-The evidence is not one-sided enough to justify panic. A 2023 sleep-laboratory study found that suspenseful series and cliffhangers did not produce large impairments in objective sleep architecture among healthy young adults, although cliffhangers produced subtler changes in sleep-related brain activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1389945723000072" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Pre-sleep arousal induced by suspenseful series and...by S Baselgia · 2023 · Cited by 21 — The association between binge-wa...</span></span></span> The practical conclusion is not “never watch television at night”. It is more precise: do not build your bedtime around the most stimulating, unfinished, automatically continuing content when you are already trying to protect sleep.
+The evidence is not one-sided enough to justify panic. A 2023 sleep-laboratory study found that suspenseful series and cliffhangers did not produce large impairments in objective sleep architecture among healthy young adults, although cliffhangers produced subtler changes in sleep-related brain activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1389945723000072" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Pre-sleep arousal induced by suspenseful series and...by S Baselgia · 2023 · Cited by 21 — The association between binge-wa...</span></span></span> The practical conclusion is not “never watch television at night”. It is more precise: do not build your bedtime around the most stimulating, unfinished, automatically continuing content when you are already trying to protect sleep.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06-Illustration-1-dark.svg" | relative_url }}" alt="Sleep First illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Streaming design makes stopping feel like the active choice
 
 The next episode used to require a small action: get up, change disc, choose a channel, wait for the next broadcast. Streaming removed much of that friction. Autoplay matters because it reverses the default. Without a boundary, continuing happens by design and stopping becomes the interruption.
 
-Current platform settings show that this is not merely a personal habit issue. Netflix’s own help page explains that users can toggle “Autoplay Next Episode” on or off in profile playback settings, and YouTube’s help page similarly explains how to turn autoplay on or off on mobile, desktop, television and casting setups. <span class="citation-chip-wrap"><a class="citation-chip" href="https://help.netflix.com/en/node/121518" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.netflix.com">[Netflix Help Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.netflix.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Those controls exist because autoplay is a real behavioural feature, not a neutral background detail.
+Current platform settings show that this is not merely a personal habit issue. Netflix’s own help page explains that users can toggle “Autoplay Next Episode” on or off in profile playback settings, and YouTube’s help page similarly explains how to turn autoplay on or off on mobile, desktop, television and casting setups.<span class="citation-chip-wrap"><a class="citation-chip" href="https://help.netflix.com/en/node/121518" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.netflix.com">[Netflix Help Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.netflix.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Those controls exist because autoplay is a real behavioural feature, not a neutral background detail.
 
-An experimental study of Netflix users published as a 2024 preprint found that disabling autoplay significantly reduced average daily watching and average session length. The study was small, with 76 US Netflix users, so it should not be treated as a final verdict on all streaming behaviour. But it fits the everyday observation: when the next episode does not start by itself, people regain a decision point. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2412.16040" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+An experimental study of Netflix users published as a 2024 preprint found that disabling autoplay significantly reduced average daily watching and average session length. The study was small, with 76 US Netflix users, so it should not be treated as a final verdict on all streaming behaviour. But it fits the everyday observation: when the next episode does not start by itself, people regain a decision point.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2412.16040" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 A useful bedtime system therefore starts with the service settings, not the pillow. The strongest change is to make “stop” the default before the evening begins:
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
-* Turn off next-episode autoplay on the main streaming profiles used at night. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.broadbandtvnews.com/2017/08/03/ofcom-report-uncovers-a-nation-of-binge-viewers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: broadbandtvnews.com">[broadbandtvnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">broadbandtvnews.com</span><span class="citation-popover-snippet">Broadband TV NewsOfcom report uncovers a nation of &#x27;binge viewers&#x27;August 3, 2017 — 3 Aug 2017 — But around a third (32%) of adults admit...</span><span class="citation-popover-meta">Published: August 3, 2017</span></span></span>
+* Turn off next-episode autoplay on the main streaming profiles used at night.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.broadbandtvnews.com/2017/08/03/ofcom-report-uncovers-a-nation-of-binge-viewers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: broadbandtvnews.com">[broadbandtvnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">broadbandtvnews.com</span><span class="citation-popover-snippet">Broadband TV NewsOfcom report uncovers a nation of &#x27;binge viewers&#x27;August 3, 2017 — 3 Aug 2017 — But around a third (32%) of adults admit...</span><span class="citation-popover-meta">Published: August 3, 2017</span></span></span>
 * Turn off preview autoplay where it causes browsing drift.
 * Remove the app from the bedside device if it repeatedly becomes a sleep-delay cue.
 * Use a television timer, router schedule or device downtime setting as a backup rather than the main act of willpower.
@@ -546,7 +546,7 @@ The principle is simple: when energy is high, design the evening; when energy is
 
 A phone beside the bed is not just a phone. It is a remote control, alarm clock, message inbox, streaming device, social feed, shopping centre and escape hatch. Saying “I will not use it” while leaving it within reach is a weak boundary because it keeps the cue visible and the action easy.
 
-Sleep organisations commonly advise reducing screens near bedtime, although the exact degree of harm depends on brightness, content, timing and the person. The National Sleep Foundation says light exposure within two hours of bedtime can disrupt the sleep cycle by affecting melatonin release, and Harvard Health advises avoiding bright screens for two to three hours before bed where possible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thensf.org/screen-use-disrupts-precious-sleep-time/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thensf.org">[National Sleep Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thensf.org</span><span class="citation-popover-title">screen use disrupts precious sleep time</span><span class="citation-popover-snippet">screen use disrupts precious sleep time</span></span></span> The Sleep Health Foundation takes a balanced view: evening technology use may delay bedtime, bright-screen use for 1.5 hours or more can increase alertness, not everyone is affected in the same way, and passive uses may be less disruptive than interactive ones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sleephealthfoundation.org.au/sleep-topics/technology-and-sleep" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleephealthfoundation.org.au">[Sleep Health Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleephealthfoundation.org.au</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Sleep organisations commonly advise reducing screens near bedtime, although the exact degree of harm depends on brightness, content, timing and the person. The National Sleep Foundation says light exposure within two hours of bedtime can disrupt the sleep cycle by affecting melatonin release, and Harvard Health advises avoiding bright screens for two to three hours before bed where possible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thensf.org/screen-use-disrupts-precious-sleep-time/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thensf.org">[National Sleep Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thensf.org</span><span class="citation-popover-title">screen use disrupts precious sleep time</span><span class="citation-popover-snippet">screen use disrupts precious sleep time</span></span></span> The Sleep Health Foundation takes a balanced view: evening technology use may delay bedtime, bright-screen use for 1.5 hours or more can increase alertness, not everyone is affected in the same way, and passive uses may be less disruptive than interactive ones.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sleephealthfoundation.org.au/sleep-topics/technology-and-sleep" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleephealthfoundation.org.au">[Sleep Health Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleephealthfoundation.org.au</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For the next-episode trap, the most important boundary is often not blue light but reach. A phone that must be picked up to stop, skip, browse or “just check something” keeps the evening open. The practical fix is to move control points away from the bed:
 
@@ -563,7 +563,7 @@ The point is not moral purity about screens. It is to separate bedtime from inte
 <img src="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06-Illustration-2-dark.svg" | relative_url }}" alt="Sleep First illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A realistic shutdown routine beats a heroic bedtime promise
 
-A good shutdown routine is short enough to survive a tired night. It should not depend on becoming a different person at 11 pm. Behaviour-change research supports this kind of planning: implementation intentions, often called “if-then” plans, are designed to turn goals into specific responses to specific situations, and a meta-analysis of 94 tests found a medium-to-large positive effect on goal attainment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Implementation Intentions and Goal Achievement</span><span class="citation-popover-snippet">Research Gate(PDF) Implementation Intentions and Goal Achievement</span></span></span>
+A good shutdown routine is short enough to survive a tired night. It should not depend on becoming a different person at 11 pm. Behaviour-change research supports this kind of planning: implementation intentions, often called “if-then” plans, are designed to turn goals into specific responses to specific situations, and a meta-analysis of 94 tests found a medium-to-large positive effect on goal attainment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Implementation Intentions and Goal Achievement</span><span class="citation-popover-snippet">Research Gate(PDF) Implementation Intentions and Goal Achievement</span></span></span>
 
 For streaming, the plan should target the exact danger moment. “Sleep earlier” is too vague. Better examples are:
 
@@ -576,7 +576,7 @@ For streaming, the plan should target the exact danger moment. “Sleep earlier�
 
 </div>
 
-The [Behaviour Change]({{ 'behaviour-change/' | relative_url }}) Technique Taxonomy identifies active ingredients such as action planning, prompts and cues, self-monitoring, environmental restructuring and self-reward. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> A bedtime system can use all of these without becoming complicated:
+The [Behaviour Change]({{ 'behaviour-change/' | relative_url }}) Technique Taxonomy identifies active ingredients such as action planning, prompts and cues, self-monitoring, environmental restructuring and self-reward.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> A bedtime system can use all of these without becoming complicated:
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -588,7 +588,7 @@ The [Behaviour Change]({{ 'behaviour-change/' | relative_url }}) Technique Taxon
 
 </div>
 
-The reward matters because late-night streaming is often not just entertainment; it is compensation. Many people watch late because the day gave them little private, enjoyable time. A 2024 *Time* article on bedtime procrastination described this pattern: after work, chores or childcare, people delay sleep because the late evening feels like the only time that belongs to them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/6957353/bedtime-procrastination-how-to-go-to-sleep/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">How to Stop Procrastinating at Bedtime and Actually Go to Sleep</span><span class="citation-popover-snippet">How to Stop Procrastinating at Bedtime and Actually Go to Sleep</span></span></span> If the routine only removes the reward, it will feel like punishment. If it moves reward earlier or makes morning feel better, it has a better chance.
+The reward matters because late-night streaming is often not just entertainment; it is compensation. Many people watch late because the day gave them little private, enjoyable time. A 2024 *Time* article on bedtime procrastination described this pattern: after work, chores or childcare, people delay sleep because the late evening feels like the only time that belongs to them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/6957353/bedtime-procrastination-how-to-go-to-sleep/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">How to Stop Procrastinating at Bedtime and Actually Go to Sleep</span><span class="citation-popover-snippet">How to Stop Procrastinating at Bedtime and Actually Go to Sleep</span></span></span> If the routine only removes the reward, it will feel like punishment. If it moves reward earlier or makes morning feel better, it has a better chance.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9ZXQSvQbBrE" title="The honest truth about screens at bedtime (it’s not what you think)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9ZXQSvQbBrE" target="_blank" rel="noopener noreferrer">The honest truth about screens at bedtime (it’s not what you think)</a></p><p class="youtube-embed-meta">Channel: BrainCraft &middot; Views: 35.1K &middot; Uploaded: March 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9ZXQSvQbBrE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9ZXQSvQbBrE">Open on YouTube</a></p></div></div></div>
 
@@ -602,7 +602,7 @@ The most reliable approach is a fixed sequence that starts before the first epis
 
 **Close the loop physically.** Stand up when the credits begin. Put the remote away, switch off the television, plug the phone in outside the bedroom, and turn on the same low-light cue each night. The body learns routines through repeated context.
 
-**Replace the reward, do not simply remove it.** The replacement should be easy and mildly pleasant: wash face, lay out tomorrow’s clothes, read three pages, listen to a ten-minute wind-down, stretch, or make a warm drink earlier in the evening. Sleep Foundation guidance describes adult bedtime routines as repeated activities in the same order during the 30 to 60 minutes before bed, which is exactly the kind of predictable sequence the next-episode trap lacks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sleepfoundation.org/sleep-hygiene/bedtime-routine-for-adults" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleepfoundation.org">[Sleep Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleepfoundation.org</span><span class="citation-popover-title">Sleep Foundation How to Build a Better Bedtime Routine for Adults</span><span class="citation-popover-snippet">Sleep Foundation How to Build a Better Bedtime Routine for Adults</span></span></span>
+**Replace the reward, do not simply remove it.** The replacement should be easy and mildly pleasant: wash face, lay out tomorrow’s clothes, read three pages, listen to a ten-minute wind-down, stretch, or make a warm drink earlier in the evening. Sleep Foundation guidance describes adult bedtime routines as repeated activities in the same order during the 30 to 60 minutes before bed, which is exactly the kind of predictable sequence the next-episode trap lacks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sleepfoundation.org/sleep-hygiene/bedtime-routine-for-adults" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleepfoundation.org">[Sleep Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleepfoundation.org</span><span class="citation-popover-title">Sleep Foundation How to Build a Better Bedtime Routine for Adults</span><span class="citation-popover-snippet">Sleep Foundation How to Build a Better Bedtime Routine for Adults</span></span></span>
 
 This system works best when it is measured lightly. Track only two things for a week: planned stop time and actual stop time. That prevents the common self-improvement mistake of turning sleep into a perfection project. The question is not “Did I become a disciplined sleeper?” It is “Which cue caused the overrun, and what should be redesigned before tomorrow night?”
 
@@ -626,269 +626,269 @@ A workable rule is: entertainment is chosen while awake; sleep is protected whil
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NP7xT8NeZ8k" title="How to STOP Binge Watching YouTube (and 2x Productivity)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NP7xT8NeZ8k" target="_blank" rel="noopener noreferrer">How to STOP Binge Watching YouTube (and 2x Productivity)</a></p><p class="youtube-embed-meta">Channel: Mike Dee &middot; Views: 12.5K &middot; Uploaded: January 2023 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NP7xT8NeZ8k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NP7xT8NeZ8k">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How to Stop the Next Episode Trap. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How to Stop the Next Episode Trap. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why We Sleep on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZlU3DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why We Sleep" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why We Sleep">Why We Sleep</a>
-        </h4>
-        <p class="fr-book-author">By Matthew Walker</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why We Sleep on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZlU3DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why We Sleep" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why We Sleep">Why We Sleep</a>
+</h4>
+<p class="fr-book-author">By Matthew Walker</p>
         
-        <p class="fr-book-desc">Explains the consequences of delayed sleep and sleep loss.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the consequences of delayed sleep and sleep loss.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Minimalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S4NbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Minimalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Minimalism">Digital Minimalism</a>
-        </h4>
-        <p class="fr-book-author">By Cal Newport</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Minimalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S4NbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Minimalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Minimalism">Digital Minimalism</a>
+</h4>
+<p class="fr-book-author">By Cal Newport</p>
         
-        <p class="fr-book-desc">Helps reduce evening screen overuse.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps reduce evening screen overuse.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Provides practical shutdown-routine and cue-design ideas.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Provides practical shutdown-routine and cue-design ideas.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Carol S. Dweck</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
-        <p class="fr-book-desc">Addresses beliefs and learning approaches that support improvement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
+</h4>
+<p class="fr-book-author">By Carol S. Dweck</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
+<p class="fr-book-desc">Addresses beliefs and learning approaches that support improvement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+We+Sleep&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why We Sleep</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Minimalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Minimalism</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+We+Sleep&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why We Sleep</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Minimalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Minimalism</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-stop-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stop Playing With Yourself Framed A Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/c00c96ed43616ea70941.jpg' | relative_url }}" alt="Listing image for Stop Playing With Yourself Framed A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-stop-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Stop Playing With Yourself Framed A Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-stop-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for stop poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: stop poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-stop-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-stop-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stop Playing With Yourself Framed A Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/c00c96ed43616ea70941.jpg' | relative_url }}" alt="Listing image for Stop Playing With Yourself Framed A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-stop-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Stop Playing With Yourself Framed A Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-stop-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for stop poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: stop poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-stop-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-stop-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Red Stop Sign on Black Background Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a53476f8487f43f1a36c.jpg' | relative_url }}" alt="Listing image for Red Stop Sign on Black Background Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-stop-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Red Stop Sign on Black Background Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-stop-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for stop poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: stop poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-stop-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-stop-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Red Stop Sign on Black Background Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a53476f8487f43f1a36c.jpg' | relative_url }}" alt="Listing image for Red Stop Sign on Black Background Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-stop-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Red Stop Sign on Black Background Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-stop-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for stop poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: stop poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-stop-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-stop-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stop-Over Forever 1964 Original British Film Movie Poster Crime Drama"><img src="{{ '/assets/images/marketplace-covers/11b685d542e7981f6058.jpg' | relative_url }}" alt="Listing image for Stop-Over Forever 1964 Original British Film Movie Poster Crime Drama" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-stop-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Stop-Over Forever 1964 Original British Film Movie Poster Crime Drama</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-stop-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for stop poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: stop poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-stop-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-stop-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stop-Over Forever 1964 Original British Film Movie Poster Crime Drama"><img src="{{ '/assets/images/marketplace-covers/11b685d542e7981f6058.jpg' | relative_url }}" alt="Listing image for Stop-Over Forever 1964 Original British Film Movie Poster Crime Drama" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-stop-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Stop-Over Forever 1964 Original British Film Movie Poster Crime Drama</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-stop-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for stop poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: stop poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-stop-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-stop-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Banksy Stop and Search Dorothy&#x27;s basket - Canvas -Framed or Just Print Available"><img src="{{ '/assets/images/marketplace-covers/b4f44edc84ef1ff8bed8.jpg' | relative_url }}" alt="Listing image for Banksy Stop and Search Dorothy&#x27;s basket - Canvas -Framed or Just Print Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-stop-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Banksy Stop and Search Dorothy&#x27;s basket - Canvas -Framed or Just Print Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-stop-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for stop poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: stop poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-stop-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-stop-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-stop-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Banksy Stop and Search Dorothy&#x27;s basket - Canvas -Framed or Just Print Available"><img src="{{ '/assets/images/marketplace-covers/b4f44edc84ef1ff8bed8.jpg' | relative_url }}" alt="Listing image for Banksy Stop and Search Dorothy&#x27;s basket - Canvas -Framed or Just Print Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-stop-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Banksy Stop and Search Dorothy&#x27;s basket - Canvas -Framed or Just Print Available</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-stop-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for stop poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: stop poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-stop-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=stop+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sleep-first-how-to-stop-the-next-episode-trap-self-improvement-that-works-stop-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -904,7 +904,7 @@ A workable rule is: entertainment is chosen while awake; sleep is protected whil
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -924,7 +924,7 @@ A workable rule is: entertainment is chosen while awake; sleep is protected whil
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -956,7 +956,7 @@ A workable rule is: entertainment is chosen while awake; sleep is protected whil
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -986,7 +986,7 @@ A workable rule is: entertainment is chosen while awake; sleep is protected whil
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -1044,216 +1044,216 @@ A workable rule is: entertainment is chosen while awake; sleep is protected whil
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCBinge Viewing, Sleep, and the Role of Pre-Sleep Arousal  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by L Exelmans · 2017 · Cited by 287 — This study provides initial evidence that modern viewing styles such as binge viewing may negati...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by L Exelmans · 2017 · Cited by 287 — This study provides initial evidence that modern viewing styles such as binge viewing may negati...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: jcsm.aasm.org  
-   Link: <a href="https://jcsm.aasm.org/doi/abs/10.5664/jcsm.6704" target="_blank" rel="noopener noreferrer nofollow">https://jcsm.aasm.org/doi/abs/10.5664/jcsm.6704</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Binge Viewing, Sleep, and the Role of Pre-Sleep Arousalby L Exelmans · 2017 · Cited by 285 — Higher binge viewing frequency was assoc...</p></details>
+   Link:<a href="https://jcsm.aasm.org/doi/abs/10.5664/jcsm.6704" target="_blank" rel="noopener noreferrer nofollow">https://jcsm.aasm.org/doi/abs/10.5664/jcsm.6704</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Binge Viewing, Sleep, and the Role of Pre-Sleep Arousalby L Exelmans · 2017 · Cited by 285 — Higher binge viewing frequency was assoc...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1389945723000072" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1389945723000072</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pre-sleep arousal induced by suspenseful series and...by S Baselgia · 2023 · Cited by 21 — The association between binge-wa...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1389945723000072" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1389945723000072</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pre-sleep arousal induced by suspenseful series and...by S Baselgia · 2023 · Cited by 21 — The association between binge-wa...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: help.netflix.com  
-   Link: <a href="https://help.netflix.com/en/node/121518" target="_blank" rel="noopener noreferrer nofollow">https://help.netflix.com/en/node/121518</a>  
+   Link:<a href="https://help.netflix.com/en/node/121518" target="_blank" rel="noopener noreferrer nofollow">https://help.netflix.com/en/node/121518</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2412.16040" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2412.16040</a>  
+   Link:<a href="https://arxiv.org/abs/2412.16040" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2412.16040</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: health.harvard.edu  
    Title: blue light has a dark side  
-   Link: <a href="https://www.health.harvard.edu/healthy-aging-and-longevity/blue-light-has-a-dark-side" target="_blank" rel="noopener noreferrer nofollow">https://www.health.harvard.edu/healthy-aging-and-longevity/blue-light-has-a-dark-side</a>  
+   Link:<a href="https://www.health.harvard.edu/healthy-aging-and-longevity/blue-light-has-a-dark-side" target="_blank" rel="noopener noreferrer nofollow">https://www.health.harvard.edu/healthy-aging-and-longevity/blue-light-has-a-dark-side</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Implementation Intentions and Goal Achievement  
-   Link: <a href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes</a>  
+   Link:<a href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: time.com  
    Title: How to Stop Procrastinating at Bedtime and Actually Go to Sleep  
-   Link: <a href="https://time.com/6957353/bedtime-procrastination-how-to-go-to-sleep/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6957353/bedtime-procrastination-how-to-go-to-sleep/</a>  
+   Link:<a href="https://time.com/6957353/bedtime-procrastination-how-to-go-to-sleep/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6957353/bedtime-procrastination-how-to-go-to-sleep/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
    Title: 377270365 Binge Watching Sleep Quality and Fatigue among Emerging Adults  
-   Link: <a href="https://www.researchgate.net/publication/377270365_Binge_Watching_Sleep_Quality_and_Fatigue_among_Emerging_Adults" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377270365_Binge_Watching_Sleep_Quality_and_Fatigue_among_Emerging_Adults</a>  
+   Link:<a href="https://www.researchgate.net/publication/377270365_Binge_Watching_Sleep_Quality_and_Fatigue_among_Emerging_Adults" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377270365_Binge_Watching_Sleep_Quality_and_Fatigue_among_Emerging_Adults</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions</a>  
+   Link:<a href="https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
    Title: 318641198 Binge Viewing Sleep and the Role of Pre Sleep Arousal  
-   Link: <a href="https://www.researchgate.net/publication/318641198_Binge_Viewing_Sleep_and_the_Role_of_Pre-Sleep_Arousal" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/318641198_Binge_Viewing_Sleep_and_the_Role_of_Pre-Sleep_Arousal</a>  
+   Link:<a href="https://www.researchgate.net/publication/318641198_Binge_Viewing_Sleep_and_the_Role_of_Pre-Sleep_Arousal" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/318641198_Binge_Viewing_Sleep_and_the_Role_of_Pre-Sleep_Arousal</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/372055333_To_Binge_Watch_TV_Series_How_a_Leisure_Activity_May_Affect_Sleep_Mood_and_Quality_of_Life" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/372055333_To_Binge_Watch_TV_Series_How_a_Leisure_Activity_May_Affect_Sleep_Mood_and_Quality_of_Life</a>  
+   Link:<a href="https://www.researchgate.net/publication/372055333_To_Binge_Watch_TV_Series_How_a_Leisure_Activity_May_Affect_Sleep_Mood_and_Quality_of_Life" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/372055333_To_Binge_Watch_TV_Series_How_a_Leisure_Activity_May_Affect_Sleep_Mood_and_Quality_of_Life</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: help.netflix.com  
-   Link: <a href="https://help.netflix.com/en/node/2102" target="_blank" rel="noopener noreferrer nofollow">https://help.netflix.com/en/node/2102</a>  
+   Link:<a href="https://help.netflix.com/en/node/2102" target="_blank" rel="noopener noreferrer nofollow">https://help.netflix.com/en/node/2102</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: help.netflix.com  
-   Link: <a href="https://help.netflix.com/en/node/100365" target="_blank" rel="noopener noreferrer nofollow">https://help.netflix.com/en/node/100365</a>  
+   Link:<a href="https://help.netflix.com/en/node/100365" target="_blank" rel="noopener noreferrer nofollow">https://help.netflix.com/en/node/100365</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=9ZXQSvQbBrE&amp;vl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9ZXQSvQbBrE&amp;vl=en</a>  
+   Link:<a href="https://www.youtube.com/watch?v=9ZXQSvQbBrE&amp;vl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9ZXQSvQbBrE&amp;vl=en</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=KZQtsHvd4ss" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KZQtsHvd4ss</a>  
+   Link:<a href="https://www.youtube.com/watch?v=KZQtsHvd4ss" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KZQtsHvd4ss</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=qJCTE7BXWg4&amp;vl=en-GB" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qJCTE7BXWg4&amp;vl=en-GB</a>  
+   Link:<a href="https://www.youtube.com/watch?v=qJCTE7BXWg4&amp;vl=en-GB" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qJCTE7BXWg4&amp;vl=en-GB</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2405844024038799" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2405844024038799</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2405844024038799" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2405844024038799</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1389945724003186" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1389945724003186</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1389945724003186" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1389945724003186</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/cognitive-neuroeconomics/you-me-and-autoplay-the-neuroscience-behind-binge-regret-0f41155c58dd" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/cognitive-neuroeconomics/you-me-and-autoplay-the-neuroscience-behind-binge-regret-0f41155c58dd</a>  
+   Link:<a href="https://medium.com/cognitive-neuroeconomics/you-me-and-autoplay-the-neuroscience-behind-binge-regret-0f41155c58dd" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/cognitive-neuroeconomics/you-me-and-autoplay-the-neuroscience-behind-binge-regret-0f41155c58dd</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: How binge watching TV affects your sleep  
-   Link: <a href="https://www.youtube.com/watch?v=-_2fHG8Icuw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-_2fHG8Icuw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I Feel Like I&#x27;m Wasting Time: How to Stop Binge-Watching as an Avoidance Technique...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-_2fHG8Icuw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-_2fHG8Icuw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I Feel Like I&#x27;m Wasting Time: How to Stop Binge-Watching as an Avoidance Technique...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=UoyVWdYyONk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UoyVWdYyONk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Binge-Watching Affects Your Health | WebMD...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=UoyVWdYyONk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=UoyVWdYyONk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Binge-Watching Affects Your Health | WebMD...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: How Binge-Watching Affects Your Health | Web MD  
-   Link: <a href="https://www.youtube.com/watch?v=s9X-bm6MpPE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s9X-bm6MpPE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to STOP Binge Watching YouTube (and 2x Productivity)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=s9X-bm6MpPE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s9X-bm6MpPE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to STOP Binge Watching YouTube (and 2x Productivity)...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: How to STOP Binge Watching You Tube (and 2x Productivity)  
-   Link: <a href="https://www.youtube.com/watch?v=NP7xT8NeZ8k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NP7xT8NeZ8k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Life without internet (pros &amp; cons) ·· Learnings from my time offline ·· Digital Minimalism...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NP7xT8NeZ8k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NP7xT8NeZ8k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Life without internet (pros &amp; cons) ·· Learnings from my time offline ·· Digital Minimalism...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Z9_DfuoHcbk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Z9_DfuoHcbk</a>  
+   Link:<a href="https://www.youtube.com/watch?v=Z9_DfuoHcbk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Z9_DfuoHcbk</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: broadbandtvnews.com  
-   Link: <a href="https://www.broadbandtvnews.com/2017/08/03/ofcom-report-uncovers-a-nation-of-binge-viewers/" target="_blank" rel="noopener noreferrer nofollow">https://www.broadbandtvnews.com/2017/08/03/ofcom-report-uncovers-a-nation-of-binge-viewers/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Broadband TV NewsOfcom report uncovers a nation of &#x27;binge viewers&#x27;August 3, 2017 — 3 Aug 2017 — But around a third (32%) of adults admit...</p></details>
+   Link:<a href="https://www.broadbandtvnews.com/2017/08/03/ofcom-report-uncovers-a-nation-of-binge-viewers/" target="_blank" rel="noopener noreferrer nofollow">https://www.broadbandtvnews.com/2017/08/03/ofcom-report-uncovers-a-nation-of-binge-viewers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Broadband TV NewsOfcom report uncovers a nation of &#x27;binge viewers&#x27;August 3, 2017 — 3 Aug 2017 — But around a third (32%) of adults admit...</p></details>
    Published: August 3, 2017  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: thensf.org  
    Title: screen use disrupts precious sleep time  
-   Link: <a href="https://www.thensf.org/screen-use-disrupts-precious-sleep-time/" target="_blank" rel="noopener noreferrer nofollow">https://www.thensf.org/screen-use-disrupts-precious-sleep-time/</a>  
+   Link:<a href="https://www.thensf.org/screen-use-disrupts-precious-sleep-time/" target="_blank" rel="noopener noreferrer nofollow">https://www.thensf.org/screen-use-disrupts-precious-sleep-time/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: sleephealthfoundation.org.au  
-   Link: <a href="https://www.sleephealthfoundation.org.au/sleep-topics/technology-and-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.sleephealthfoundation.org.au/sleep-topics/technology-and-sleep</a>  
+   Link:<a href="https://www.sleephealthfoundation.org.au/sleep-topics/technology-and-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.sleephealthfoundation.org.au/sleep-topics/technology-and-sleep</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23512568/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23512568/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: sleepfoundation.org  
    Title: Sleep Foundation How to Build a Better Bedtime Routine for Adults  
-   Link: <a href="https://www.sleepfoundation.org/sleep-hygiene/bedtime-routine-for-adults" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/sleep-hygiene/bedtime-routine-for-adults</a>  
+   Link:<a href="https://www.sleepfoundation.org/sleep-hygiene/bedtime-routine-for-adults" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/sleep-hygiene/bedtime-routine-for-adults</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: sleepfoundation.org  
    Title: watching tv before sleep most popular bedtime routine  
-   Link: <a href="https://www.sleepfoundation.org/sleep-news/watching-tv-before-sleep-most-popular-bedtime-routine" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/sleep-news/watching-tv-before-sleep-most-popular-bedtime-routine</a>  
+   Link:<a href="https://www.sleepfoundation.org/sleep-news/watching-tv-before-sleep-most-popular-bedtime-routine" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/sleep-news/watching-tv-before-sleep-most-popular-bedtime-routine</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: sleepfoundation.org  
    Title: blue light  
-   Link: <a href="https://www.sleepfoundation.org/bedroom-environment/blue-light" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/bedroom-environment/blue-light</a>  
+   Link:<a href="https://www.sleepfoundation.org/bedroom-environment/blue-light" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/bedroom-environment/blue-light</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: sleepfoundation.org  
    Title: how blue light affects kids sleep  
-   Link: <a href="https://www.sleepfoundation.org/children-and-sleep/how-blue-light-affects-kids-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/children-and-sleep/how-blue-light-affects-kids-sleep</a>  
+   Link:<a href="https://www.sleepfoundation.org/children-and-sleep/how-blue-light-affects-kids-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/children-and-sleep/how-blue-light-affects-kids-sleep</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/28728618/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/28728618/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/28728618/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/28728618/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: thriva.co  
    Title: implementation intentions  
-   Link: <a href="https://thriva.co/hub/behaviour-change/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://thriva.co/hub/behaviour-change/implementation-intentions</a>  
+   Link:<a href="https://thriva.co/hub/behaviour-change/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://thriva.co/hub/behaviour-change/implementation-intentions</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: psychopediajournals.com  
-   Link: <a href="https://psychopediajournals.com/index.php/ijiap/article/view/637" target="_blank" rel="noopener noreferrer nofollow">https://psychopediajournals.com/index.php/ijiap/article/view/637</a>  
+   Link:<a href="https://psychopediajournals.com/index.php/ijiap/article/view/637" target="_blank" rel="noopener noreferrer nofollow">https://psychopediajournals.com/index.php/ijiap/article/view/637</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: chronobiologyinmedicine.org  
-   Link: <a href="https://www.chronobiologyinmedicine.org/journal/view.php?number=167" target="_blank" rel="noopener noreferrer nofollow">https://www.chronobiologyinmedicine.org/journal/view.php?number=167</a>  
+   Link:<a href="https://www.chronobiologyinmedicine.org/journal/view.php?number=167" target="_blank" rel="noopener noreferrer nofollow">https://www.chronobiologyinmedicine.org/journal/view.php?number=167</a>  
 
 ### Additional References
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: cancercontrol.cancer.gov  
-   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
+   Link:<a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/Binge-Viewing%2C-Sleep%2C-and-the-Role-of-Pre-Sleep-Exelmans-Bulck/ca2b38584efd1a80c613f4edad291d7c7ef0625e" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Binge-Viewing%2C-Sleep%2C-and-the-Role-of-Pre-Sleep-Exelmans-Bulck/ca2b38584efd1a80c613f4edad291d7c7ef0625e</a>  
+   Link:<a href="https://www.semanticscholar.org/paper/Binge-Viewing%2C-Sleep%2C-and-the-Role-of-Pre-Sleep-Exelmans-Bulck/ca2b38584efd1a80c613f4edad291d7c7ef0625e" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Binge-Viewing%2C-Sleep%2C-and-the-Role-of-Pre-Sleep-Exelmans-Bulck/ca2b38584efd1a80c613f4edad291d7c7ef0625e</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: consultant360.com  
-   Link: <a href="https://www.consultant360.com/exclusives/binge-watching-linked-poorer-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.consultant360.com/exclusives/binge-watching-linked-poorer-sleep</a>  
+   Link:<a href="https://www.consultant360.com/exclusives/binge-watching-linked-poorer-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.consultant360.com/exclusives/binge-watching-linked-poorer-sleep</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/893194526/PDF-Binge-Watching-3" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/893194526/PDF-Binge-Watching-3</a>  
+   Link:<a href="https://www.scribd.com/document/893194526/PDF-Binge-Watching-3" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/893194526/PDF-Binge-Watching-3</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ClevelandClinic/posts/binge-watching-can-disrupt-sleep-and-leave-you-feeling-fatigued-the-next-day-lea/1175599401282014/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ClevelandClinic/posts/binge-watching-can-disrupt-sleep-and-leave-you-feeling-fatigued-the-next-day-lea/1175599401282014/</a>  
+   Link:<a href="https://www.facebook.com/ClevelandClinic/posts/binge-watching-can-disrupt-sleep-and-leave-you-feeling-fatigued-the-next-day-lea/1175599401282014/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ClevelandClinic/posts/binge-watching-can-disrupt-sleep-and-leave-you-feeling-fatigued-the-next-day-lea/1175599401282014/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: kidshealth.org  
-   Link: <a href="https://kidshealth.org/en/teens/blue-light.html" target="_blank" rel="noopener noreferrer nofollow">https://kidshealth.org/en/teens/blue-light.html</a>  
+   Link:<a href="https://kidshealth.org/en/teens/blue-light.html" target="_blank" rel="noopener noreferrer nofollow">https://kidshealth.org/en/teens/blue-light.html</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/youtube/comments/1cikl1f/how_do_i_turn_off_auto_play/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/youtube/comments/1cikl1f/how_do_i_turn_off_auto_play/</a>  
+   Link:<a href="https://www.reddit.com/r/youtube/comments/1cikl1f/how_do_i_turn_off_auto_play/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/youtube/comments/1cikl1f/how_do_i_turn_off_auto_play/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: webmd.com  
-   Link: <a href="https://www.webmd.com/sleep-disorders/sleep-blue-light" target="_blank" rel="noopener noreferrer nofollow">https://www.webmd.com/sleep-disorders/sleep-blue-light</a>  
+   Link:<a href="https://www.webmd.com/sleep-disorders/sleep-blue-light" target="_blank" rel="noopener noreferrer nofollow">https://www.webmd.com/sleep-disorders/sleep-blue-light</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: phwwhocc.co.uk  
-   Link: <a href="https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-[Techniques" target="_blank" rel="noopener noreferrer nofollow">https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-[Techniques</a>  
+   Link:<a href="https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-[Techniques" target="_blank" rel="noopener noreferrer nofollow">https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-[Techniques</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: nationalelfservice.net  
-   Link: <a href="https://www.nationalelfservice.net/social-care/support-planning/implementation-intentions-helping-people-achieve-their-goals/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalelfservice.net/social-care/support-planning/implementation-intentions-helping-people-achieve-their-goals/</a>
+   Link:<a href="https://www.nationalelfservice.net/social-care/support-planning/implementation-intentions-helping-people-achieve-their-goals/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalelfservice.net/social-care/support-planning/implementation-intentions-helping-people-achieve-their-goals/</a>

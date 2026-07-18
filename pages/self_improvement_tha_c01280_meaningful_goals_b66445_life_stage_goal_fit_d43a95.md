@@ -277,11 +277,11 @@ image: /assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_life_s
 A meaningful goal is not automatically the right goal. In [self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}), the test is not only whether a goal reflects your values, but whether it fits the realities of your current life. A goal that matched your circumstances at twenty may become destructive at forty. A target that was ambitious and healthy before illness, parenthood, caregiving responsibilities or a demanding career transition may become a source of chronic frustration later.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_life_stage_goal_fit_d43a95-Illustration-1-dark.svg" | relative_url }}" alt="Life Fit illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_life_stage_goal_fit_d43a95-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_life_stage_goal_fit_d43a95-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This is one reason some people mistake misalignment for boredom. They assume they have lost discipline when the deeper problem is that the goal no longer fits their available time, energy, obligations or opportunities. Research on goal adjustment, lifespan development and self-concordant goals suggests that successful goal pursuit is not simply persistence. It also involves repeatedly redesigning goals to fit changing life conditions while staying connected to underlying values. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.carleton.ca/goallab/wp-content/uploads/Why-do-people-set-more-self-concordant-goals.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carleton.ca">[Carleton University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carleton.ca</span><span class="citation-popover-snippet">Carleton UniversityWhy do people set more self-concordant goals in...January 29, 2015 — by M Milyavskaya · 2015 · Cited by 35 — Goal sel...</span><span class="citation-popover-meta">Published: January 29, 2015</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447622/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Selection, optimization and compensation strategies and their...by L Zając-Lamparska · 2021 · Cited by 13 — The model of selection, o...</span></span></span>
+This is one reason some people mistake misalignment for boredom. They assume they have lost discipline when the deeper problem is that the goal no longer fits their available time, energy, obligations or opportunities. Research on goal adjustment, lifespan development and self-concordant goals suggests that successful goal pursuit is not simply persistence. It also involves repeatedly redesigning goals to fit changing life conditions while staying connected to underlying values.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.carleton.ca/goallab/wp-content/uploads/Why-do-people-set-more-self-concordant-goals.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carleton.ca">[Carleton University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carleton.ca</span><span class="citation-popover-snippet">Carleton UniversityWhy do people set more self-concordant goals in...January 29, 2015 — by M Milyavskaya · 2015 · Cited by 35 — Goal sel...</span><span class="citation-popover-meta">Published: January 29, 2015</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447622/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Selection, optimization and compensation strategies and their...by L Zając-Lamparska · 2021 · Cited by 13 — The model of selection, o...</span></span></span>
 
 ## How life stage changes the right goal design
 
-The idea that goals should change across life stages is not a modern excuse for lowering standards. It is a long-standing finding in lifespan psychology. People develop under changing constraints and opportunities. Education, work, health, family formation, caregiving, retirement and ageing alter what can realistically be pursued and how much investment a goal requires. <span class="citation-chip-wrap"><a class="citation-chip" href="https://courses.lumenlearning.com/wm-lifespandevelopment/chapter/the-lifespan-perspective/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: courses.lumenlearning.com">[Lumen Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">courses.lumenlearning.com</span><span class="citation-popover-snippet">Lumen LearningThe Lifespan Perspective &#124; Lifespan DevelopmentLifespan development involves the exploration of biological, cognitive, and...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://open.library.okstate.edu/successfulaging/chapter/chapter-3-psychological-and-sociological-theories-of-aging/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.library.okstate.edu">[Open OKState]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.library.okstate.edu</span><span class="citation-popover-title">Baltes</span><span class="citation-popover-snippet">Open OKStateChapter 3: Life-Span and Life Course Theories of Agingby A Bishop · 2022 · Cited by 1 — To better represent developmental dyn...</span></span></span>
+The idea that goals should change across life stages is not a modern excuse for lowering standards. It is a long-standing finding in lifespan psychology. People develop under changing constraints and opportunities. Education, work, health, family formation, caregiving, retirement and ageing alter what can realistically be pursued and how much investment a goal requires.<span class="citation-chip-wrap"><a class="citation-chip" href="https://courses.lumenlearning.com/wm-lifespandevelopment/chapter/the-lifespan-perspective/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: courses.lumenlearning.com">[Lumen Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">courses.lumenlearning.com</span><span class="citation-popover-snippet">Lumen LearningThe Lifespan Perspective &#124; Lifespan DevelopmentLifespan development involves the exploration of biological, cognitive, and...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://open.library.okstate.edu/successfulaging/chapter/chapter-3-psychological-and-sociological-theories-of-aging/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.library.okstate.edu">[Open OKState]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.library.okstate.edu</span><span class="citation-popover-title">Baltes</span><span class="citation-popover-snippet">Open OKStateChapter 3: Life-Span and Life Course Theories of Agingby A Bishop · 2022 · Cited by 1 — To better represent developmental dyn...</span></span></span>
 
 The same underlying value may therefore require different goal designs at different points in life.
 
@@ -297,7 +297,7 @@ Consider someone who values learning:
 
 The value remains stable. The expression changes.
 
-Research on self-concordance—the degree to which goals fit a person's genuine interests and values—shows that people make better progress and experience greater wellbeing when goals feel personally endorsed rather than externally imposed. But self-concordance is not fixed. As [identity]({{ 'identity/' | relative_url }}) and circumstances evolve, previously [meaningful goals]({{ 'meaning/' | relative_url }}) can lose their fit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2001_SheldonHouserMarko_JHP-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: selfdeterminationtheory.org">[Self Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">selfdeterminationtheory.org</span><span class="citation-popover-snippet">Self Determination TheorySelf-concordance, goal attainment, and the pursuit of...August 9, 2001 — by KM Sheldon · 2001 · Cited by 1180 —...</span><span class="citation-popover-meta">Published: August 9, 2001</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.carleton.ca/goallab/wp-content/uploads/Why-do-people-set-more-self-concordant-goals.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carleton.ca">[carleton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carleton.ca</span><span class="citation-popover-snippet">Carleton UniversityWhy do people set more self-concordant goals in...January 29, 2015 — by M Milyavskaya · 2015 · Cited by 35 — Goal sel...</span><span class="citation-popover-meta">Published: January 29, 2015</span></span></span> Longitudinal research following young adults over major life transitions has found that personal goals shift as people move from education into work, relationships and other adult responsibilities. These changes are not necessarily signs of inconsistency. They often reflect adaptation to new developmental tasks and realities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychology.hku.hk/ftbcstudies/refbase/docs/salmela-aro/2007/52_Salmela-Aro_etal2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychology.hku.hk">[HKU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychology.hku.hk</span><span class="citation-popover-title">Department of Psychology Personal Goals During Emerging Adulthood</span><span class="citation-popover-snippet">Department of PsychologyPersonal Goals During Emerging AdulthoodJune 30, 2010 — by K Salmela-Aro · 2007 · Cited by 383 — To examine...</span><span class="citation-popover-meta">Published: June 30, 2010</span></span></span> - Department of Psychology
+Research on self-concordance—the degree to which goals fit a person's genuine interests and values—shows that people make better progress and experience greater wellbeing when goals feel personally endorsed rather than externally imposed. But self-concordance is not fixed. As [identity]({{ 'identity/' | relative_url }}) and circumstances evolve, previously [meaningful goals]({{ 'meaning/' | relative_url }}) can lose their fit.<span class="citation-chip-wrap"><a class="citation-chip" href="https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2001_SheldonHouserMarko_JHP-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: selfdeterminationtheory.org">[Self Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">selfdeterminationtheory.org</span><span class="citation-popover-snippet">Self Determination TheorySelf-concordance, goal attainment, and the pursuit of...August 9, 2001 — by KM Sheldon · 2001 · Cited by 1180 —...</span><span class="citation-popover-meta">Published: August 9, 2001</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.carleton.ca/goallab/wp-content/uploads/Why-do-people-set-more-self-concordant-goals.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carleton.ca">[carleton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carleton.ca</span><span class="citation-popover-snippet">Carleton UniversityWhy do people set more self-concordant goals in...January 29, 2015 — by M Milyavskaya · 2015 · Cited by 35 — Goal sel...</span><span class="citation-popover-meta">Published: January 29, 2015</span></span></span> Longitudinal research following young adults over major life transitions has found that personal goals shift as people move from education into work, relationships and other adult responsibilities. These changes are not necessarily signs of inconsistency. They often reflect adaptation to new developmental tasks and realities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychology.hku.hk/ftbcstudies/refbase/docs/salmela-aro/2007/52_Salmela-Aro_etal2007.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychology.hku.hk">[HKU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychology.hku.hk</span><span class="citation-popover-title">Department of Psychology Personal Goals During Emerging Adulthood</span><span class="citation-popover-snippet">Department of PsychologyPersonal Goals During Emerging AdulthoodJune 30, 2010 — by K Salmela-Aro · 2007 · Cited by 383 — To examine...</span><span class="citation-popover-meta">Published: June 30, 2010</span></span></span> - Department of Psychology
 
 A useful question is therefore not, “Is this still a good goal?” but, “Is this goal still designed for the life I actually have?”
 
@@ -323,7 +323,7 @@ A person who once pursued rapid career advancement may discover that family comm
 
 The key distinction is that progress itself starts feeling disconnected from what matters. The discomfort comes not from repetition but from pursuing the wrong destination.
 
-Research on self-concordance suggests that goals inconsistent with deeper values are harder to sustain and contribute less to wellbeing even when achieved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2001_SheldonHouserMarko_JHP-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: selfdeterminationtheory.org">[Self Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">selfdeterminationtheory.org</span><span class="citation-popover-snippet">Self Determination TheorySelf-concordance, goal attainment, and the pursuit of...August 9, 2001 — by KM Sheldon · 2001 · Cited by 1180 —...</span><span class="citation-popover-meta">Published: August 9, 2001</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.carleton.ca/goallab/wp-content/uploads/Why-do-people-set-more-self-concordant-goals.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carleton.ca">[Carleton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carleton.ca</span><span class="citation-popover-snippet">Carleton UniversityWhy do people set more self-concordant goals in...January 29, 2015 — by M Milyavskaya · 2015 · Cited by 35 — Goal sel...</span><span class="citation-popover-meta">Published: January 29, 2015</span></span></span>
+Research on self-concordance suggests that goals inconsistent with deeper values are harder to sustain and contribute less to wellbeing even when achieved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2001_SheldonHouserMarko_JHP-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: selfdeterminationtheory.org">[Self Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">selfdeterminationtheory.org</span><span class="citation-popover-snippet">Self Determination TheorySelf-concordance, goal attainment, and the pursuit of...August 9, 2001 — by KM Sheldon · 2001 · Cited by 1180 —...</span><span class="citation-popover-meta">Published: August 9, 2001</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.carleton.ca/goallab/wp-content/uploads/Why-do-people-set-more-self-concordant-goals.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carleton.ca">[Carleton]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carleton.ca</span><span class="citation-popover-snippet">Carleton UniversityWhy do people set more self-concordant goals in...January 29, 2015 — by M Milyavskaya · 2015 · Cited by 35 — Goal sel...</span><span class="citation-popover-meta">Published: January 29, 2015</span></span></span>
 
 ### When the problem is overload
 
@@ -333,7 +333,7 @@ The goal may still be meaningful and aligned, but the required effort exceeds av
 
 A parent caring for young children while working full-time might still value fitness. The issue is not that exercise has become meaningless. The issue is that a six-day training programme was designed for a different season of life.
 
-The lifespan development literature repeatedly emphasises adaptation under changing constraints. Successful development is not maximising every possible objective. It involves choosing where limited resources should go at a given time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11266181/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">self-concordant goals: a longitudinal study on the...by L Cao · 2024 · Cited by 5 — This study investigates the relationship between ego...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/233793054_Modeling_success_in_lifespan_psychology_-_The_principles_of_selection_optimization_and_compensation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) Modeling success in lifespan psychologyThis chapter provides an overview on the life-span model selection, optimization, and compen...</span></span></span>
+The lifespan development literature repeatedly emphasises adaptation under changing constraints. Successful development is not maximising every possible objective. It involves choosing where limited resources should go at a given time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11266181/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">self-concordant goals: a longitudinal study on the...by L Cao · 2024 · Cited by 5 — This study investigates the relationship between ego...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/233793054_Modeling_success_in_lifespan_psychology_-_The_principles_of_selection_optimization_and_compensation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) Modeling success in lifespan psychologyThis chapter provides an overview on the life-span model selection, optimization, and compen...</span></span></span>
 
 Many abandoned goals are not victims of boredom. They are victims of overload disguised as a motivation problem.
 
@@ -346,7 +346,7 @@ The model argues that effective adaptation depends on three processes:
 
 * **Selection:** choosing fewer priorities.
 * **Optimization:** investing resources in those priorities.
-* **Compensation:** finding alternative methods when resources or abilities change. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3119533/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Adjustment Capacities, Coping, and Subjective Well-Beingby C Wrosch · 2011 · Cited by 170 — This study examined the associations between...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/rwe/10.1007/978-981-287-082-7_130" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Management Through Selection, Optimization, and...31 Jan 2017 — Selection, optimization, and compensation as foundation of... Goals as...</span></span></span>
+* **Compensation:** finding alternative methods when resources or abilities change.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3119533/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Adjustment Capacities, Coping, and Subjective Well-Beingby C Wrosch · 2011 · Cited by 170 — This study examined the associations between...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/rwe/10.1007/978" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Management Through Selection, Optimization, and...31 Jan 2017 — Selection, optimization, and compensation as foundation of... Goals as...</span></span></span>
 
 This matters because many people imagine growth as adding goals indefinitely. Real life often [rewards]({{ 'rewards/' | relative_url }}) subtraction.
 
@@ -362,7 +362,7 @@ Meaningful goals survive boredom more easily when they compete with fewer equall
 
 ## How to revise a goal without treating adjustment as failure
 
-One of the strongest findings in goal-adjustment research is that wellbeing is often protected not only by persistence but also by the ability to disengage from unattainable goals and re-engage with new ones. People who can redirect effort when circumstances change tend to report better psychological outcomes than those who remain trapped pursuing impossible objectives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://europepmc.org/article/med/15018681" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: europepmc.org">[Europe PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">europepmc.org</span><span class="citation-popover-snippet">Europe PMCgoal disengagement, goal reengagement, and subjective...by C Wrosch · 2003 · Cited by 1568 — The findings confirmed that goal...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cmu.edu/dietrich/psychology/pdf/scales/GAS_article.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cmu.edu">[Carnegie Mellon University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cmu.edu</span><span class="citation-popover-title">GAS article</span><span class="citation-popover-snippet">Carnegie Mellon UniversityAdaptive Self-Regulation of Unattainable Goalsby C Wrosch · 2003 · Cited by 1570 — The overall aim of the prese...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4145404/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Adjustment Capacities, Subjective Well-Being, and...by C Wrosch · 2013 · Cited by 282 — This article addresses how individuals can adjus...</span></span></span>
+One of the strongest findings in goal-adjustment research is that wellbeing is often protected not only by persistence but also by the ability to disengage from unattainable goals and re-engage with new ones. People who can redirect effort when circumstances change tend to report better psychological outcomes than those who remain trapped pursuing impossible objectives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://europepmc.org/article/med/15018681" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: europepmc.org">[Europe PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">europepmc.org</span><span class="citation-popover-snippet">Europe PMCgoal disengagement, goal reengagement, and subjective...by C Wrosch · 2003 · Cited by 1568 — The findings confirmed that goal...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cmu.edu/dietrich/psychology/pdf/scales/GAS_article.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cmu.edu">[Carnegie Mellon University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cmu.edu</span><span class="citation-popover-title">GAS article</span><span class="citation-popover-snippet">Carnegie Mellon UniversityAdaptive Self-Regulation of Unattainable Goalsby C Wrosch · 2003 · Cited by 1570 — The overall aim of the prese...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4145404/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Adjustment Capacities, Subjective Well-Being, and...by C Wrosch · 2013 · Cited by 282 — This article addresses how individuals can adjus...</span></span></span>
 
 This is especially important during major life transitions.
 
@@ -397,7 +397,7 @@ Original goalUnderlying valueRevised life-stage versionTrain for elite competiti
 
 The value continues. The target adapts.
 
-Research on goal re-engagement suggests that finding meaningful alternative goals after letting go of an unattainable one is particularly important for wellbeing and sense of purpose. Adjustment works best when something new replaces what was lost. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cmu.edu/dietrich/psychology/pdf/scales/GAS_article.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cmu.edu">[Carnegie Mellon University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cmu.edu</span><span class="citation-popover-title">GAS article</span><span class="citation-popover-snippet">Carnegie Mellon UniversityAdaptive Self-Regulation of Unattainable Goalsby C Wrosch · 2003 · Cited by 1570 — The overall aim of the prese...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s11031-022-09941-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">for psychological well-being during COVID-19by JM Hamm · 2022 · Cited by 36 — Goal adjustment capacities (ie, goal disengagement and goal...</span></span></span>
+Research on goal re-engagement suggests that finding meaningful alternative goals after letting go of an unattainable one is particularly important for wellbeing and sense of purpose. Adjustment works best when something new replaces what was lost.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cmu.edu/dietrich/psychology/pdf/scales/GAS_article.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cmu.edu">[Carnegie Mellon University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cmu.edu</span><span class="citation-popover-title">GAS article</span><span class="citation-popover-snippet">Carnegie Mellon UniversityAdaptive Self-Regulation of Unattainable Goalsby C Wrosch · 2003 · Cited by 1570 — The overall aim of the prese...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s11031-022-09941-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">for psychological well-being during COVID-19by JM Hamm · 2022 · Cited by 36 — Goal adjustment capacities (ie, goal disengagement and goal...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_life_stage_goal_fit_d43a95-Illustration-3-dark.svg" | relative_url }}" alt="Life Fit illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_life_stage_goal_fit_d43a95-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_life_stage_goal_fit_d43a95-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The hidden cost of chasing an outdated version of yourself
@@ -417,194 +417,194 @@ That flexibility is not a compromise with self-improvement. It is one of the rea
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gqgyFcbq-K4" title="5 Tips for Goal Adjustment, Embracing Change, Building Resilience, Problem-Solving &amp; Personal Growth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gqgyFcbq-K4" target="_blank" rel="noopener noreferrer">5 Tips for Goal Adjustment, Embracing Change, Building Resilience, Problem-Solving &amp; Personal Growth</a></p><p class="youtube-embed-meta">Channel: NextGenMillen &middot; Views: 16 &middot; Uploaded: May 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gqgyFcbq-K4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gqgyFcbq-K4">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When a Good Goal No Longer Fits. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When a Good Goal No Longer Fits. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+7+Habits+of+Highly+Effective+People+by+Stephen+R.+Covey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The 7 Habits of Highly Effective People on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8HvdtAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The 7 Habits of Highly Effective People" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+7+Habits+of+Highly+Effective+People+by+Stephen+R.+Covey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The 7 Habits of Highly Effective People">The 7 Habits of Highly Effective People</a>
-        </h4>
-        <p class="fr-book-author">By Stephen R. Covey</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+7+Habits+of+Highly+Effective+People+by+Stephen+R.+Covey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The 7 Habits of Highly Effective People on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8HvdtAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The 7 Habits of Highly Effective People" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+7+Habits+of+Highly+Effective+People+by+Stephen+R.+Covey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The 7 Habits of Highly Effective People">The 7 Habits of Highly Effective People</a>
+</h4>
+<p class="fr-book-author">By Stephen R. Covey</p>
         
-        <p class="fr-book-desc">Helps align goals with evolving values and responsibilities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+7+Habits+of+Highly+Effective+People+by+Stephen+R.+Covey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps align goals with evolving values and responsibilities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+7+Habits+of+Highly+Effective+People+by+Stephen+R.+Covey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Designing+Your+Life+by+Bill+Burnett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Designing Your Life on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=L3oRDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Designing Your Life" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Designing+Your+Life+by+Bill+Burnett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Designing Your Life">Designing Your Life</a>
-        </h4>
-        <p class="fr-book-author">By Bill Burnett, Dave Evans</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Designing+Your+Life+by+Bill+Burnett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Designing Your Life on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=L3oRDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Designing Your Life" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Designing+Your+Life+by+Bill+Burnett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Designing Your Life">Designing Your Life</a>
+</h4>
+<p class="fr-book-author">By Bill Burnett, Dave Evans</p>
         
-        <p class="fr-book-desc">Focused on adapting goals to changing circumstances.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Designing+Your+Life+by+Bill+Burnett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focused on adapting goals to changing circumstances.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Designing+Your+Life+by+Bill+Burnett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Links habits to identity and long-term goals.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Links habits to identity and long-term goals.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Transitions+by+William+Bridges&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Transitions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7aDBswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Transitions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Transitions+by+William+Bridges&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Transitions">Transitions</a>
-        </h4>
-        <p class="fr-book-author">By William Bridges, Susan Bridges</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Transitions+by+William+Bridges&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Transitions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7aDBswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Transitions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Transitions+by+William+Bridges&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Transitions">Transitions</a>
+</h4>
+<p class="fr-book-author">By William Bridges, Susan Bridges</p>
         
-        <p class="fr-book-desc">Directly addresses major life-stage transitions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Transitions+by+William+Bridges&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses major life-stage transitions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Transitions+by+William+Bridges&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+7+Habits+of+Highly+Effective+People&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The 7 Habits of Highly Effective People</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Designing+Your+Life&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Designing Your Life</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+7+Habits+of+Highly+Effective+People&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The 7 Habits of Highly Effective People</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Designing+Your+Life&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Designing Your Life</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fundraising Thermometer Chart Goal Tracker Decal - 48&quot;x12&quot; - Dry Erase Goal S..."><img src="https://i.ebayimg.com/images/g/L1wAAOSw8zJm4Ai~/s-l225.jpg" alt="Listing image for Fundraising Thermometer Chart Goal Tracker Decal - 48&quot;x12&quot; - Dry Erase Goal S..." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer">Fundraising Thermometer Chart Goal Tracker Decal - 48&quot;x12&quot; - Dry Erase Goal S...</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracker poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal tracker poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fundraising Thermometer Chart Goal Tracker Decal - 48&quot;x12&quot; - Dry Erase Goal S..."><img src="https://i.ebayimg.com/images/g/L1wAAOSw8zJm4Ai~/s-l225.jpg" alt="Listing image for Fundraising Thermometer Chart Goal Tracker Decal - 48&quot;x12&quot; - Dry Erase Goal S..." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer">Fundraising Thermometer Chart Goal Tracker Decal - 48&quot;x12&quot; - Dry Erase Goal S...</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracker poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: goal tracker poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weight Loss Progress Tracker Chart, 6 Stone Goal, A4 Size with Gold Star Sticker"><img src="https://i.ebayimg.com/images/g/e7IAAeSwKv1oxGNN/s-l225.jpg" alt="Listing image for Weight Loss Progress Tracker Chart, 6 Stone Goal, A4 Size with Gold Star Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer">Weight Loss Progress Tracker Chart, 6 Stone Goal, A4 Size with Gold Star Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracker poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal tracker poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weight Loss Progress Tracker Chart, 6 Stone Goal, A4 Size with Gold Star Sticker"><img src="https://i.ebayimg.com/images/g/e7IAAeSwKv1oxGNN/s-l225.jpg" alt="Listing image for Weight Loss Progress Tracker Chart, 6 Stone Goal, A4 Size with Gold Star Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer">Weight Loss Progress Tracker Chart, 6 Stone Goal, A4 Size with Gold Star Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracker poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: goal tracker poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PROGRESS TRACKER POSTER &amp; 2 A4 Sheets PINK HEART STICKERS Chart Weight YOUR GOAL"><img src="https://i.ebayimg.com/images/g/5mcAAOSwW6Nc7qZF/s-l225.jpg" alt="Listing image for PROGRESS TRACKER POSTER &amp; 2 A4 Sheets PINK HEART STICKERS Chart Weight YOUR GOAL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer">PROGRESS TRACKER POSTER &amp; 2 A4 Sheets PINK HEART STICKERS Chart Weight YOUR GOAL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracker poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal tracker poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PROGRESS TRACKER POSTER &amp; 2 A4 Sheets PINK HEART STICKERS Chart Weight YOUR GOAL"><img src="https://i.ebayimg.com/images/g/5mcAAOSwW6Nc7qZF/s-l225.jpg" alt="Listing image for PROGRESS TRACKER POSTER &amp; 2 A4 Sheets PINK HEART STICKERS Chart Weight YOUR GOAL" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer">PROGRESS TRACKER POSTER &amp; 2 A4 Sheets PINK HEART STICKERS Chart Weight YOUR GOAL</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracker poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: goal tracker poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3 Pcs Fundraising Thermometer Goal Charts 11 X 46.5 Dry Erase Goal Tra"><img src="https://i.ebayimg.com/images/g/7bUAAOSw831me2rN/s-l225.jpg" alt="Listing image for 3 Pcs Fundraising Thermometer Goal Charts 11 X 46.5 Dry Erase Goal Tra" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer">3 Pcs Fundraising Thermometer Goal Charts 11 X 46.5 Dry Erase Goal Tra</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracker poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal tracker poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3 Pcs Fundraising Thermometer Goal Charts 11 X 46.5 Dry Erase Goal Tra"><img src="https://i.ebayimg.com/images/g/7bUAAOSw831me2rN/s-l225.jpg" alt="Listing image for 3 Pcs Fundraising Thermometer Goal Charts 11 X 46.5 Dry Erase Goal Tra" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer">3 Pcs Fundraising Thermometer Goal Charts 11 X 46.5 Dry Erase Goal Tra</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracker poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: goal tracker poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-good-goal-no-longer-fits-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="when-a-good-goal-no-longer-fits-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -620,7 +620,7 @@ That flexibility is not a compromise with self-improvement. It is one of the rea
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -640,7 +640,7 @@ That flexibility is not a compromise with self-improvement. It is one of the rea
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -672,7 +672,7 @@ That flexibility is not a compromise with self-improvement. It is one of the rea
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -724,7 +724,7 @@ That flexibility is not a compromise with self-improvement. It is one of the rea
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -769,7 +769,7 @@ That flexibility is not a compromise with self-improvement. It is one of the rea
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -810,151 +810,151 @@ That flexibility is not a compromise with self-improvement. It is one of the rea
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: carleton.ca  
-   Link: <a href="https://www.carleton.ca/goallab/wp-content/uploads/Why-do-people-set-more-self-concordant-goals.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.carleton.ca/goallab/wp-content/uploads/Why-do-people-set-more-self-concordant-goals.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Carleton UniversityWhy do people set more self-concordant goals in...January 29, 2015 — by M Milyavskaya · 2015 · Cited by 35 — Goal sel...</p></details>
+   Link:<a href="https://www.carleton.ca/goallab/wp-content/uploads/Why-do-people-set-more-self-concordant-goals.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.carleton.ca/goallab/wp-content/uploads/Why-do-people-set-more-self-concordant-goals.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Carleton UniversityWhy do people set more self-concordant goals in...January 29, 2015 — by M Milyavskaya · 2015 · Cited by 35 — Goal sel...</p></details>
    Published: January 29, 2015  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447622/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8447622/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Selection, optimization and compensation strategies and their...by L Zając-Lamparska · 2021 · Cited by 13 — The model of selection, o...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8447622/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8447622/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Selection, optimization and compensation strategies and their...by L Zając-Lamparska · 2021 · Cited by 13 — The model of selection, o...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: open.library.okstate.edu  
    Title: Baltes (  
-   Link: <a href="https://open.library.okstate.edu/successfulaging/chapter/chapter-3-psychological-and-sociological-theories-of-aging/" target="_blank" rel="noopener noreferrer nofollow">https://open.library.okstate.edu/successfulaging/chapter/chapter-3-psychological-and-sociological-theories-of-aging/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Open OKStateChapter 3: Life-Span and Life Course Theories of Agingby A Bishop · 2022 · Cited by 1 — To better represent developmental dyn...</p></details>
+   Link:<a href="https://open.library.okstate.edu/successfulaging/chapter/chapter-3-psychological-and-sociological-theories-of-aging/" target="_blank" rel="noopener noreferrer nofollow">https://open.library.okstate.edu/successfulaging/chapter/chapter-3-psychological-and-sociological-theories-of-aging/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Open OKStateChapter 3: Life-Span and Life Course Theories of Agingby A Bishop · 2022 · Cited by 1 — To better represent developmental dyn...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11266181/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11266181/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>self-concordant goals: a longitudinal study on the...by L Cao · 2024 · Cited by 5 — This study investigates the relationship between ego...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11266181/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11266181/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>self-concordant goals: a longitudinal study on the...by L Cao · 2024 · Cited by 5 — This study investigates the relationship between ego...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: psychology.hku.hk  
    Title: Department of Psychology Personal Goals During Emerging Adulthood  
-   Link: <a href="https://www.psychology.hku.hk/ftbcstudies/refbase/docs/salmela-aro/2007/52_Salmela-Aro_etal2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.psychology.hku.hk/ftbcstudies/refbase/docs/salmela-aro/2007/52_Salmela-Aro_etal2007.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of PsychologyPersonal Goals During Emerging AdulthoodJune 30, 2010 — by K Salmela-Aro · 2007 · Cited by 383 — To examine...</p></details>
+   Link:<a href="https://www.psychology.hku.hk/ftbcstudies/refbase/docs/salmela-aro/2007/52_Salmela-Aro_etal2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.psychology.hku.hk/ftbcstudies/refbase/docs/salmela-aro/2007/52_Salmela-Aro_etal2007.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of PsychologyPersonal Goals During Emerging AdulthoodJune 30, 2010 — by K Salmela-Aro · 2007 · Cited by 383 — To examine...</p></details>
    Published: June 30, 2010  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/233793054_Modeling_success_in_lifespan_psychology_-_The_principles_of_selection_optimization_and_compensation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/233793054_Modeling_success_in_lifespan_psychology_-_The_principles_of_selection_optimization_and_compensation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Modeling success in lifespan psychologyThis chapter provides an overview on the life-span model selection, optimization, and compen...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/233793054_Modeling_success_in_lifespan_psychology_-_The_principles_of_selection_optimization_and_compensation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/233793054_Modeling_success_in_lifespan_psychology_-_The_principles_of_selection_optimization_and_compensation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Modeling success in lifespan psychologyThis chapter provides an overview on the life-span model selection, optimization, and compen...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/rwe/10.1007/978-981-287-082-7_130" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/rwe/10.1007/978-981-287-082-7_130</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Management Through Selection, Optimization, and...31 Jan 2017 — Selection, optimization, and compensation as foundation of... Goals as...</p></details>
+   Link:<a href="https://link.springer.com/rwe/10.1007/978" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/rwe/10.1007/978</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Management Through Selection, Optimization, and...31 Jan 2017 — Selection, optimization, and compensation as foundation of... Goals as...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3119533/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3119533/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Adjustment Capacities, Coping, and Subjective Well-Beingby C Wrosch · 2011 · Cited by 170 — This study examined the associations between...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3119533/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3119533/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Adjustment Capacities, Coping, and Subjective Well-Beingby C Wrosch · 2011 · Cited by 170 — This study examined the associations between...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4145404/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4145404/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Adjustment Capacities, Subjective Well-Being, and...by C Wrosch · 2013 · Cited by 282 — This article addresses how individuals can adjus...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4145404/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4145404/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Adjustment Capacities, Subjective Well-Being, and...by C Wrosch · 2013 · Cited by 282 — This article addresses how individuals can adjus...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s11031-022-09941-6" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11031-022-09941-6</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>for psychological well-being during COVID-19by JM Hamm · 2022 · Cited by 36 — Goal adjustment capacities (ie, goal disengagement and goal...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s11031-022-09941-6" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11031-022-09941-6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>for psychological well-being during COVID-19by JM Hamm · 2022 · Cited by 36 — Goal adjustment capacities (ie, goal disengagement and goal...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/366542617_Goal_disengagement_and_goal_reengagement_Associations_with_depression_anxiety_and_satisfaction_with_life" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/366542617_Goal_disengagement_and_goal_reengagement_Associations_with_depression_anxiety_and_satisfaction_with_life</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Goal Disengagement and Goal ReengagementThe reviewed literature leads to the conclusion that goal disengagement and goal reengagement cap...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/366542617_Goal_disengagement_and_goal_reengagement_Associations_with_depression_anxiety_and_satisfaction_with_life" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/366542617_Goal_disengagement_and_goal_reengagement_Associations_with_depression_anxiety_and_satisfaction_with_life</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goal Disengagement and Goal ReengagementThe reviewed literature leads to the conclusion that goal disengagement and goal reengagement cap...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/12134962_Self-concordance_goal_attainment_and_the_pursuit_of_happiness_Can_there_be_an_upward_spiral" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/12134962_Self-concordance_goal_attainment_and_the_pursuit_of_happiness_Can_there_be_an_upward_spiral</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ned their 1st-semester goals, which in turn predicted increased adjustment and greater...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/12134962_Self-concordance_goal_attainment_and_the_pursuit_of_happiness_Can_there_be_an_upward_spiral" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/12134962_Self-concordance_goal_attainment_and_the_pursuit_of_happiness_Can_there_be_an_upward_spiral</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ned their 1st-semester goals, which in turn predicted increased adjustment and greater...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: psychology.town  
    Title: Optimism supplies the emotional fuel –  
-   Link: <a href="https://psychology.town/developmental/successful-ageing-selective-optimization-optimism-challenge/" target="_blank" rel="noopener noreferrer nofollow">https://psychology.town/developmental/successful-ageing-selective-optimization-optimism-challenge/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Key Characteristics of Successful Ageing: Selective...7 Nov 2025 — Selective optimization with compensation provides the practical frame...</p></details>
+   Link:<a href="https://psychology.town/developmental/successful-ageing-selective-optimization-optimism-challenge/" target="_blank" rel="noopener noreferrer nofollow">https://psychology.town/developmental/successful-ageing-selective-optimization-optimism-challenge/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Key Characteristics of Successful Ageing: Selective...7 Nov 2025 — Selective optimization with compensation provides the practical frame...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cmu.edu  
    Title: GAS article  
-   Link: <a href="https://www.cmu.edu/dietrich/psychology/pdf/scales/GAS_article.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cmu.edu/dietrich/psychology/pdf/scales/GAS_article.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Carnegie Mellon UniversityAdaptive Self-Regulation of Unattainable Goalsby C Wrosch · 2003 · Cited by 1570 — The overall aim of the prese...</p></details>
+   Link:<a href="https://www.cmu.edu/dietrich/psychology/pdf/scales/GAS_article.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cmu.edu/dietrich/psychology/pdf/scales/GAS_article.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Carnegie Mellon UniversityAdaptive Self-Regulation of Unattainable Goalsby C Wrosch · 2003 · Cited by 1570 — The overall aim of the prese...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: courses.lumenlearning.com  
-   Link: <a href="https://courses.lumenlearning.com/wm-lifespandevelopment/chapter/the-lifespan-perspective/" target="_blank" rel="noopener noreferrer nofollow">https://courses.lumenlearning.com/wm-lifespandevelopment/chapter/the-lifespan-perspective/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lumen LearningThe Lifespan Perspective | Lifespan DevelopmentLifespan development involves the exploration of biological, cognitive, and...</p></details>
+   Link:<a href="https://courses.lumenlearning.com/wm-lifespandevelopment/chapter/the-lifespan-perspective/" target="_blank" rel="noopener noreferrer nofollow">https://courses.lumenlearning.com/wm-lifespandevelopment/chapter/the-lifespan-perspective/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lumen LearningThe Lifespan Perspective | Lifespan DevelopmentLifespan development involves the exploration of biological, cognitive, and...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: selfdeterminationtheory.org  
-   Link: <a href="https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2001_SheldonHouserMarko_JHP-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2001_SheldonHouserMarko_JHP-1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self Determination TheorySelf-concordance, goal attainment, and the pursuit of...August 9, 2001 — by KM Sheldon · 2001 · Cited by 1180 —...</p></details>
+   Link:<a href="https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2001_SheldonHouserMarko_JHP-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2001_SheldonHouserMarko_JHP-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self Determination TheorySelf-concordance, goal attainment, and the pursuit of...August 9, 2001 — by KM Sheldon · 2001 · Cited by 1180 —...</p></details>
    Published: August 9, 2001  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: europepmc.org  
-   Link: <a href="https://europepmc.org/article/med/15018681" target="_blank" rel="noopener noreferrer nofollow">https://europepmc.org/article/med/15018681</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Europe PMCgoal disengagement, goal reengagement, and subjective...by C Wrosch · 2003 · Cited by 1568 — The findings confirmed that goal...</p></details>
+   Link:<a href="https://europepmc.org/article/med/15018681" target="_blank" rel="noopener noreferrer nofollow">https://europepmc.org/article/med/15018681</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Europe PMCgoal disengagement, goal reengagement, and subjective...by C Wrosch · 2003 · Cited by 1568 — The findings confirmed that goal...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: radar.brookes.ac.uk  
-   Link: <a href="https://radar.brookes.ac.uk/radar/file/03b30c01-cbb3-4837-a4b2-d68050e26fd0/1/ehrlich-et-al-2024-self-concordance-theory-and-the-goal-striving-reasons-framework-and-their-distinct-relationships.pdf" target="_blank" rel="noopener noreferrer nofollow">https://radar.brookes.ac.uk/radar/file/03b30c01-cbb3-4837-a4b2-d68050e26fd0/1/ehrlich-et-al-2024-self-concordance-theory-and-the-goal-striving-reasons-framework-and-their-distinct-relationships.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-concordance theory and the goal-striving reasons framework both measure the quality of people&#x27;s reasons for their goal pursuits.Read...</p></details>
+   Link:<a href="https://radar.brookes.ac.uk/radar/file/03b30c01-cbb3-4837-a4b2-d68050e26fd0/1/ehrlich-et-al-2024-self-concordance-theory-and-the-goal-striving-reasons-framework-and-their-distinct-relationships.pdf" target="_blank" rel="noopener noreferrer nofollow">https://radar.brookes.ac.uk/radar/file/03b30c01-cbb3-4837-a4b2-d68050e26fd0/1/ehrlich-et-al-2024-self-concordance-theory-and-the-goal-striving-reasons-framework-and-their-distinct-relationships.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-concordance theory and the goal-striving reasons framework both measure the quality of people&#x27;s reasons for their goal pursuits.Read...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: mlpp.pressbooks.pub  
    Title: Developmental psychologists are interested in processes related to physical  
-   Link: <a href="https://mlpp.pressbooks.pub/humandevelopment/chapter/module-1-introduction-to-developmental-psychology/" target="_blank" rel="noopener noreferrer nofollow">https://mlpp.pressbooks.pub/humandevelopment/chapter/module-1-introduction-to-developmental-psychology/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1: Introduction to Developmental PsychologyDevelopmental psychology is the scientific study of development across a lifespan...</p></details>
+   Link:<a href="https://mlpp.pressbooks.pub/humandevelopment/chapter/module-1-introduction-to-developmental-psychology/" target="_blank" rel="noopener noreferrer nofollow">https://mlpp.pressbooks.pub/humandevelopment/chapter/module-1-introduction-to-developmental-psychology/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1: Introduction to Developmental PsychologyDevelopmental psychology is the scientific study of development across a lifespan...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: repository.londonmet.ac.uk  
    Title: Main Manuscript 2 REVISION 1  
-   Link: <a href="https://repository.londonmet.ac.uk/9535/3/Main_Manuscript_2_REVISION_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.londonmet.ac.uk/9535/3/Main_Manuscript_2_REVISION_1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>London Met RepositorySelf-Concordance Theory and the Goal-Striving Reasons...by C Ehrlich · 2024 · Cited by 5 — This paper aims to contr...</p></details>
+   Link:<a href="https://repository.londonmet.ac.uk/9535/3/Main_Manuscript_2_REVISION_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.londonmet.ac.uk/9535/3/Main_Manuscript_2_REVISION_1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>London Met RepositorySelf-Concordance Theory and the Goal-Striving Reasons...by C Ehrlich · 2024 · Cited by 5 — This paper aims to contr...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ionilies.com  
-   Link: <a href="https://www.ionilies.com/SIOP04/CSE_self_concordance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ionilies.com/SIOP04/CSE_self_concordance.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SELF-CONCORDANCE Core Self-Evaluations and Job and...by TA Judge · Cited by 1910 — Specifically, goal attainment should mediate, at leas...</p></details>
+   Link:<a href="https://www.ionilies.com/SIOP04/CSE_self_concordance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ionilies.com/SIOP04/CSE_self_concordance.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SELF-CONCORDANCE Core Self-Evaluations and Job and...by TA Judge · Cited by 1910 — Specifically, goal attainment should mediate, at leas...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/09602011.2020.1774397" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/09602011.2020.1774397</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Goal adjustment by people living with long-term conditionsby L Scobbie · 2021 · Cited by 26 — Most studies were quantitative (58%), repor...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/09602011.2020.1774397" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/09602011.2020.1774397</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goal adjustment by people living with long-term conditionsby L Scobbie · 2021 · Cited by 26 — Most studies were quantitative (58%), repor...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: uclep.be  
    Title: Verschuren CJBS 2023  
-   Link: <a href="https://www.uclep.be/labs/ECP/publications/Verschuren_CJBS_2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uclep.be/labs/ECP/publications/Verschuren_CJBS_2023.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Goal Disengagement and Goal Reengagementby A Verschuren · 2022 · Cited by 10 — The main purpose of this study was to examine whether goal...</p></details>
+   Link:<a href="https://www.uclep.be/labs/ECP/publications/Verschuren_CJBS_2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uclep.be/labs/ECP/publications/Verschuren_CJBS_2023.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goal Disengagement and Goal Reengagementby A Verschuren · 2022 · Cited by 10 — The main purpose of this study was to examine whether goal...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: careershodh.com  
    Title: soc model of aging  
-   Link: <a href="https://www.careershodh.com/soc-model-of-aging/" target="_blank" rel="noopener noreferrer nofollow">https://www.careershodh.com/soc-model-of-aging/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Its 3 Important Components1 Sept 2025 — The Selection, Optimization, and Compensation (SOC) model provides a powerful framework for u...</p></details>
+   Link:<a href="https://www.careershodh.com/soc-model-of-aging/" target="_blank" rel="noopener noreferrer nofollow">https://www.careershodh.com/soc-model-of-aging/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Its 3 Important Components1 Sept 2025 — The Selection, Optimization, and Compensation (SOC) model provides a powerful framework for u...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: Getting Unstuck: How to Trade Goals for a Clear, Personal Vision  
-   Link: <a href="https://www.youtube.com/watch?v=z9U1_hx8v8s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z9U1_hx8v8s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret to Aging Well - Selective Optimization with Compensation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=z9U1_hx8v8s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=z9U1_hx8v8s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret to Aging Well - Selective Optimization with Compensation...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0191886915004523" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0191886915004523</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Goal adjustment ability predicts magnitude of emotional...by B Messay · 2015 · Cited by 24 — Goal disengagement is the ability to evalua...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0191886915004523" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0191886915004523</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goal adjustment ability predicts magnitude of emotional...by B Messay · 2015 · Cited by 24 — Goal disengagement is the ability to evalua...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0959475225000799" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0959475225000799</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of goal self-concordance on emotion regulation...by M Benita · 2025 · Cited by 4 — This study examined how self-concordant go...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0959475225000799" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0959475225000799</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of goal self-concordance on emotion regulation...by M Benita · 2025 · Cited by 4 — This study examined how self-concordant go...</p></details>

@@ -271,7 +271,7 @@ image: /assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97_sa
 [Saving]({{ 'saving/' | relative_url }}) before spending is one of the most effective personal-finance habits because it turns saving into the default. However, a useful self-improvement practice is not the same as an unbreakable rule. A saving system can backfire when it leaves someone short of cash for ordinary expenses, forces them to borrow at high interest rates, or locks money away so effectively that they cannot use it when they genuinely need it.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97_saving_first_backfir_f5c2c1-Illustration-1-dark.svg" | relative_url }}" alt="Backfire risks illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97_saving_first_backfir_f5c2c1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97_saving_first_backfir_f5c2c1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The goal of saving first is greater resilience, not the appearance of discipline. If a transfer to savings repeatedly causes overdrafts, credit-card balances, missed bills or financial stress, the system is working against its purpose. Research consistently shows that emergency savings improve financial security and reduce hardship, but those benefits depend on saving in a way that strengthens day-to-day stability rather than undermining it. Financial Health Network <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.consumerfinance.gov/f/documents/cfpb_mem_emergency-savings-financial-security_report_2022-3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.consumerfinance.gov">[Consumer Financial Protection Bureau]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.consumerfinance.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The goal of saving first is greater resilience, not the appearance of discipline. If a transfer to savings repeatedly causes overdrafts, credit-card balances, missed bills or financial stress, the system is working against its purpose. Research consistently shows that emergency savings improve financial security and reduce hardship, but those benefits depend on saving in a way that strengthens day-to-day stability rather than undermining it. Financial Health Network<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.consumerfinance.gov/f/documents/cfpb_mem_emergency-savings-financial-security_report_2022-3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.consumerfinance.gov">[Consumer Financial Protection Bureau]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.consumerfinance.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## The danger of saving while borrowing expensively
 
@@ -279,12 +279,12 @@ One of the clearest ways a saving-first strategy can fail is when savings grow a
 
 Consider a person who automatically transfers money into a savings account every payday while carrying a credit-card balance with a much higher interest rate. The savings account may earn some interest, but the debt can accumulate interest and fees at a much faster pace. In practical terms, the household is moving money into one pocket while losing more from another.
 
-This does not mean everyone should empty savings to eliminate debt. Emergency reserves still have value because unexpected expenses happen. The problem arises when saving targets become so aggressive that routine expenses end up being financed with credit. In that situation, the saving habit is no longer increasing resilience; it is merely shifting costs into a more expensive form. Financial guidance commonly treats interest rates, debt costs and emergency-fund needs as factors that must be balanced together rather than pursued in isolation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mutualofomaha.com/advice/financial-planning/managing-debt/paying-off-debt-vs-saving-what-to-choose" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mutualofomaha.com">[Mutual of Omaha]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mutualofomaha.com</span><span class="citation-popover-title">paying off debt vs saving what to choose</span><span class="citation-popover-snippet">Mutual of OmahaPaying Off Debt vs Saving: What to ChooseApr 27, 2026 — Primary factors to weigh when choosing between paying off debt and...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discover.com/personal-loans/resources/consolidate-debt/successfully-payoff-debt-build-emergency-fund/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discover.com">[discover]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discover.com</span><span class="citation-popover-title">successfully payoff debt build emergency fund</span><span class="citation-popover-snippet">Pay Off Debt or Save for an Emergency Fund?Feb 17, 2026 — Depending on your personal situation and financial goals, you may not need to c...</span></span></span> A common warning sign is a monthly pattern like this:
+This does not mean everyone should empty savings to eliminate debt. Emergency reserves still have value because unexpected expenses happen. The problem arises when saving targets become so aggressive that routine expenses end up being financed with credit. In that situation, the saving habit is no longer increasing resilience; it is merely shifting costs into a more expensive form. Financial guidance commonly treats interest rates, debt costs and emergency-fund needs as factors that must be balanced together rather than pursued in isolation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mutualofomaha.com/advice/financial-planning/managing-debt/paying-off-debt-vs-saving-what-to-choose" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mutualofomaha.com">[Mutual of Omaha]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mutualofomaha.com</span><span class="citation-popover-title">paying off debt vs saving what to choose</span><span class="citation-popover-snippet">Mutual of OmahaPaying Off Debt vs Saving: What to ChooseApr 27, 2026 — Primary factors to weigh when choosing between paying off debt and...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discover.com/personal-loans/resources/consolidate-debt/successfully-payoff-debt-build-emergency-fund/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discover.com">[discover]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discover.com</span><span class="citation-popover-title">successfully payoff debt build emergency fund</span><span class="citation-popover-snippet">Pay Off Debt or Save for an Emergency Fund?Feb 17, 2026 — Depending on your personal situation and financial goals, you may not need to c...</span></span></span> A common warning sign is a monthly pattern like this:
 
 * Money is transferred automatically into savings.
 * Bills or essentials exceed the remaining balance.
 * Credit cards or overdrafts cover the gap.
-* Interest and fees accumulate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.consumerfinance.gov/f/documents/bcfp_your-money-goals_debt_booklet_print.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.consumerfinance.gov">[files.consumerfinance.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.consumerfinance.gov</span><span class="citation-popover-title">Consumer Financial Protection Bureau Debt getting in your way?</span><span class="citation-popover-snippet">Get a handle on it.Con: If the interest and fees are high on your larger debts, you might pay more overall if you pay off the smaller one...</span></span></span>
+* Interest and fees accumulate.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.consumerfinance.gov/f/documents/bcfp_your-money-goals_debt_booklet_print.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.consumerfinance.gov">[files.consumerfinance.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.consumerfinance.gov</span><span class="citation-popover-title">Consumer Financial Protection Bureau Debt getting in your way?</span><span class="citation-popover-snippet">Get a handle on it.Con: If the interest and fees are high on your larger debts, you might pay more overall if you pay off the smaller one...</span></span></span>
 * Savings rise slowly while debt costs rise quickly.
 
 When that cycle appears, the saving amount is probably too high for current circumstances.
@@ -295,7 +295,7 @@ When that cycle appears, the saving amount is probably too high for current circ
 
 Another failure mode occurs when money is technically saved but practically unavailable.
 
-Emergency funds exist to absorb shocks such as car repairs, temporary income loss, urgent travel or unexpected household costs. Financial guidance generally recommends keeping emergency savings accessible rather than tying all reserves up in places that are difficult, slow or costly to access. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.moneyhelper.org.uk/en/savings/types-of-savings/emergency-savings-how-much-is-enough" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: moneyhelper.org.uk">[MaPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">moneyhelper.org.uk</span><span class="citation-popover-snippet">MaPSEmergency savings – how much is enough?A good rule of thumb to give yourself a solid financial cushion is to have three to six months...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.consumerfinance.gov/f/documents/cfpb_mem_emergency-savings-financial-security_report_2022-3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.consumerfinance.gov">[Consumer Financial Protection Bureau]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.consumerfinance.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Emergency funds exist to absorb shocks such as car repairs, temporary income loss, urgent travel or unexpected household costs. Financial guidance generally recommends keeping emergency savings accessible rather than tying all reserves up in places that are difficult, slow or costly to access.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.moneyhelper.org.uk/en/savings/types-of-savings/emergency-savings-how-much-is-enough" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: moneyhelper.org.uk">[MaPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">moneyhelper.org.uk</span><span class="citation-popover-snippet">MaPSEmergency savings – how much is enough?A good rule of thumb to give yourself a solid financial cushion is to have three to six months...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://files.consumerfinance.gov/f/documents/cfpb_mem_emergency-savings-financial-security_report_2022-3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.consumerfinance.gov">[Consumer Financial Protection Bureau]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.consumerfinance.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 People sometimes create so much friction around savings that they cannot use the money when they genuinely need it. Examples include:
 
@@ -336,11 +336,11 @@ An overlooked issue is irregular spending. Annual insurance premiums, vehicle ma
 
 The phrase "pay yourself first" can sometimes be interpreted too literally. Saving more is not automatically better.
 
-Research and financial guidance strongly [support]({{ 'support/' | relative_url }}) building emergency reserves because savings improve financial resilience and reduce the likelihood of hardship during shocks. Financial Health Network <span class="citation-chip-wrap"><a class="citation-chip" href="https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/emergency-savings-may-hold-key-financial-well-being.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: corporate.vanguard.com">[Vanguard However]</a><span class="citation-popover" role="note"><span class="citation-popover-source">corporate.vanguard.com</span><span class="citation-popover-title">emergency savings may hold key financial well being</span><span class="citation-popover-snippet">savings may hold key to financial well-being29 Apr 2025 — “People with emergency savings have a higher level of financial well-being, spe...</span></span></span>, beyond the amount needed for stability, there are trade-offs. Excess cash held purely out of habit may prevent progress on other important goals:
+Research and financial guidance strongly [support]({{ 'support/' | relative_url }}) building emergency reserves because savings improve financial resilience and reduce the likelihood of hardship during shocks. Financial Health Network<span class="citation-chip-wrap"><a class="citation-chip" href="https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/emergency-savings-may-hold-key-financial-well-being.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: corporate.vanguard.com">[Vanguard However]</a><span class="citation-popover" role="note"><span class="citation-popover-source">corporate.vanguard.com</span><span class="citation-popover-title">emergency savings may hold key financial well being</span><span class="citation-popover-snippet">savings may hold key to financial well-being29 Apr 2025 — “People with emergency savings have a higher level of financial well-being, spe...</span></span></span>, beyond the amount needed for stability, there are trade-offs. Excess cash held purely out of habit may prevent progress on other important goals:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Paying down expensive debt. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discover.com/personal-loans/resources/consolidate-debt/successfully-payoff-debt-build-emergency-fund/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discover.com">[discover.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discover.com</span><span class="citation-popover-title">successfully payoff debt build emergency fund</span><span class="citation-popover-snippet">Pay Off Debt or Save for an Emergency Fund?Feb 17, 2026 — Depending on your personal situation and financial goals, you may not need to c...</span></span></span>
+* Paying down expensive debt.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discover.com/personal-loans/resources/consolidate-debt/successfully-payoff-debt-build-emergency-fund/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discover.com">[discover.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discover.com</span><span class="citation-popover-title">successfully payoff debt build emergency fund</span><span class="citation-popover-snippet">Pay Off Debt or Save for an Emergency Fund?Feb 17, 2026 — Depending on your personal situation and financial goals, you may not need to c...</span></span></span>
 * Building pension or retirement savings.
 * Investing for long-term growth.
 * Funding education or career development.
@@ -364,7 +364,7 @@ For example, reducing a transfer from 15% of income to 5% may be more effective 
 
 ### Check whether debt costs exceed the benefit
 
-If high-interest borrowing is growing, examine whether part of the saving contribution should be redirected toward debt reduction. The objective is to avoid situations where savings rise slowly while interest charges rise faster. <span class="citation-chip-wrap"><a class="citation-chip" href="https://files.consumerfinance.gov/f/documents/cfpb_mem_emergency-savings-financial-security_report_2022-3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.consumerfinance.gov">[Consumer Financial Protection Bureau]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.consumerfinance.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+If high-interest borrowing is growing, examine whether part of the saving contribution should be redirected toward debt reduction. The objective is to avoid situations where savings rise slowly while interest charges rise faster.<span class="citation-chip-wrap"><a class="citation-chip" href="https://files.consumerfinance.gov/f/documents/cfpb_mem_emergency-savings-financial-security_report_2022-3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: files.consumerfinance.gov">[Consumer Financial Protection Bureau]</a><span class="citation-popover" role="note"><span class="citation-popover-source">files.consumerfinance.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97_saving_first_backfir_f5c2c1-Illustration-3-dark.svg" | relative_url }}" alt="Backfire risks illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97_saving_first_backfir_f5c2c1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97_saving_first_backfir_f5c2c1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Separate true emergencies from predictable expenses
@@ -384,269 +384,269 @@ A successful saving habit should leave someone more resilient after ordinary bil
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JPrGsxFStAw" title="Should You Pay off Debt OR Save for Goals First?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JPrGsxFStAw" target="_blank" rel="noopener noreferrer">Should You Pay off Debt OR Save for Goals First?</a></p><p class="youtube-embed-meta">Channel: Under the Median &middot; Views: 47.4K &middot; Uploaded: January 2023 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JPrGsxFStAw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JPrGsxFStAw">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When saving first does more harm. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When saving first does more harm. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Psychology+of+Money+by+Morgan+Housel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of Money on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5HrrDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Psychology of Money" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Psychology+of+Money+by+Morgan+Housel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Money">The Psychology of Money</a>
-        </h4>
-        <p class="fr-book-author">By Morgan Housel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Psychology+of+Money+by+Morgan+Housel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of Money on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5HrrDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Psychology of Money" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Psychology+of+Money+by+Morgan+Housel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Money">The Psychology of Money</a>
+</h4>
+<p class="fr-book-author">By Morgan Housel</p>
         
-        <p class="fr-book-desc">Balances saving behaviour with realistic financial decisions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Psychology+of+Money+by+Morgan+Housel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Balances saving behaviour with realistic financial decisions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Psychology+of+Money+by+Morgan+Housel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=I+Will+Teach+You+to+Be+Rich+by+Ramit+Sethi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open I Will Teach You to Be Rich on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cZ94EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for I Will Teach You to Be Rich" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=I+Will+Teach+You+to+Be+Rich+by+Ramit+Sethi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="I Will Teach You to Be Rich">I Will Teach You to Be Rich</a>
-        </h4>
-        <p class="fr-book-author">By Ramit Sethi</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=I+Will+Teach+You+to+Be+Rich+by+Ramit+Sethi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open I Will Teach You to Be Rich on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cZ94EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for I Will Teach You to Be Rich" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=I+Will+Teach+You+to+Be+Rich+by+Ramit+Sethi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="I Will Teach You to Be Rich">I Will Teach You to Be Rich</a>
+</h4>
+<p class="fr-book-author">By Ramit Sethi</p>
         
-        <p class="fr-book-desc">Addresses cash flow, debt and realistic automation levels.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=I+Will+Teach+You+to+Be+Rich+by+Ramit+Sethi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses cash flow, debt and realistic automation levels.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=I+Will+Teach+You+to+Be+Rich+by+Ramit+Sethi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Your+Money+or+Your+Life+by+Vicki+Robin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Your Money or Your Life on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=i3tXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Your Money or Your Life" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Your+Money+or+Your+Life+by+Vicki+Robin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Your Money or Your Life">Your Money or Your Life</a>
-        </h4>
-        <p class="fr-book-author">By Vicki Robin, Joe Dominguez</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Your+Money+or+Your+Life+by+Vicki+Robin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Your Money or Your Life on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=i3tXDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Your Money or Your Life" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Your+Money+or+Your+Life+by+Vicki+Robin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Your Money or Your Life">Your Money or Your Life</a>
+</h4>
+<p class="fr-book-author">By Vicki Robin, Joe Dominguez</p>
         
-        <p class="fr-book-desc">Encourages sustainable saving rather than self-defeating austerity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Your+Money+or+Your+Life+by+Vicki+Robin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages sustainable saving rather than self-defeating austerity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Your+Money+or+Your+Life+by+Vicki+Robin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Total+Money+Makeover+by+Dave+Ramsey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Total Money Makeover on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DpqPwAk8UvYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Total Money Makeover" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Total+Money+Makeover+by+Dave+Ramsey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Total Money Makeover">The Total Money Makeover</a>
-        </h4>
-        <p class="fr-book-author">By Dave Ramsey</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 16 Google Books ratings</p>
-        <p class="fr-book-desc">Discusses trade-offs between debt reduction and saving.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Total+Money+Makeover+by+Dave+Ramsey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Total+Money+Makeover+by+Dave+Ramsey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Total Money Makeover on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=DpqPwAk8UvYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Total Money Makeover" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Total+Money+Makeover+by+Dave+Ramsey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Total Money Makeover">The Total Money Makeover</a>
+</h4>
+<p class="fr-book-author">By Dave Ramsey</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 16 Google Books ratings</p>
+<p class="fr-book-desc">Discusses trade-offs between debt reduction and saving.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Total+Money+Makeover+by+Dave+Ramsey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Psychology+of+Money&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Psychology of Money</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=I+Will+Teach+You+to+Be+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">I Will Teach You to Be Rich</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Your+Money+or+Your+Life&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Your Money or Your Life</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Psychology+of+Money&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Psychology of Money</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=I+Will+Teach+You+to+Be+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">I Will Teach You to Be Rich</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Your+Money+or+Your+Life&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Your Money or Your Life</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 100 Envelope Challenge Cash Budget Binder Money Saving Planner Wallet UK"><img src="{{ '/assets/images/marketplace-covers/616e91d135ef807fad44.jpg' | relative_url }}" alt="Listing image for 100 Envelope Challenge Cash Budget Binder Money Saving Planner Wallet UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">100 Envelope Challenge Cash Budget Binder Money Saving Planner Wallet UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for budget organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: budget organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-budget-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 100 Envelope Challenge Cash Budget Binder Money Saving Planner Wallet UK"><img src="{{ '/assets/images/marketplace-covers/616e91d135ef807fad44.jpg' | relative_url }}" alt="Listing image for 100 Envelope Challenge Cash Budget Binder Money Saving Planner Wallet UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">100 Envelope Challenge Cash Budget Binder Money Saving Planner Wallet UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for budget organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: budget organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-budget-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 100 Envelope Challenge Cash Budget Binder Money Saving Planner Wallet UK Seller"><img src="{{ '/assets/images/marketplace-covers/450a92fe8f152242a234.jpg' | relative_url }}" alt="Listing image for 100 Envelope Challenge Cash Budget Binder Money Saving Planner Wallet UK Seller" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">100 Envelope Challenge Cash Budget Binder Money Saving Planner Wallet UK Seller</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for budget organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: budget organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-budget-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 100 Envelope Challenge Cash Budget Binder Money Saving Planner Wallet UK Seller"><img src="{{ '/assets/images/marketplace-covers/450a92fe8f152242a234.jpg' | relative_url }}" alt="Listing image for 100 Envelope Challenge Cash Budget Binder Money Saving Planner Wallet UK Seller" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">100 Envelope Challenge Cash Budget Binder Money Saving Planner Wallet UK Seller</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for budget organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: budget organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-budget-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 100 Envelope Challenge Cash Binder Budget Planner Wallet Savings Book UK Seller"><img src="{{ '/assets/images/marketplace-covers/e9f16583f662daf48b66.jpg' | relative_url }}" alt="Listing image for 100 Envelope Challenge Cash Binder Budget Planner Wallet Savings Book UK Seller" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">100 Envelope Challenge Cash Binder Budget Planner Wallet Savings Book UK Seller</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for budget organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: budget organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-budget-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 100 Envelope Challenge Cash Binder Budget Planner Wallet Savings Book UK Seller"><img src="{{ '/assets/images/marketplace-covers/e9f16583f662daf48b66.jpg' | relative_url }}" alt="Listing image for 100 Envelope Challenge Cash Binder Budget Planner Wallet Savings Book UK Seller" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">100 Envelope Challenge Cash Binder Budget Planner Wallet Savings Book UK Seller</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for budget organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: budget organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-budget-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 100 Envelope Challenge Cash Budget Binder Money Saving Planner Wallet UK stock"><img src="{{ '/assets/images/marketplace-covers/2dab614387dc1b8fb354.jpg' | relative_url }}" alt="Listing image for 100 Envelope Challenge Cash Budget Binder Money Saving Planner Wallet UK stock" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">100 Envelope Challenge Cash Budget Binder Money Saving Planner Wallet UK stock</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for budget organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: budget organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-budget-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 100 Envelope Challenge Cash Budget Binder Money Saving Planner Wallet UK stock"><img src="{{ '/assets/images/marketplace-covers/2dab614387dc1b8fb354.jpg' | relative_url }}" alt="Listing image for 100 Envelope Challenge Cash Budget Binder Money Saving Planner Wallet UK stock" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">100 Envelope Challenge Cash Budget Binder Money Saving Planner Wallet UK stock</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for budget organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: budget organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-budget-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=backfire-risks-when-saving-first-does-more-harm-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -662,7 +662,7 @@ A successful saving habit should leave someone more resilient after ordinary bil
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -682,7 +682,7 @@ A successful saving habit should leave someone more resilient after ordinary bil
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -714,7 +714,7 @@ A successful saving habit should leave someone more resilient after ordinary bil
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -744,7 +744,7 @@ A successful saving habit should leave someone more resilient after ordinary bil
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -802,114 +802,114 @@ A successful saving habit should leave someone more resilient after ordinary bil
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: discover.com  
    Title: successfully payoff debt build emergency fund  
-   Link: <a href="https://www.discover.com/personal-loans/resources/consolidate-debt/successfully-payoff-debt-build-emergency-fund/" target="_blank" rel="noopener noreferrer nofollow">https://www.discover.com/personal-loans/resources/consolidate-debt/successfully-payoff-debt-build-emergency-fund/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pay Off Debt or Save for an Emergency Fund?Feb 17, 2026 — Depending on your personal situation and financial goals, you may not need to c...</p></details>
+   Link:<a href="https://www.discover.com/personal-loans/resources/consolidate-debt/successfully-payoff-debt-build-emergency-fund/" target="_blank" rel="noopener noreferrer nofollow">https://www.discover.com/personal-loans/resources/consolidate-debt/successfully-payoff-debt-build-emergency-fund/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pay Off Debt or Save for an Emergency Fund?Feb 17, 2026 — Depending on your personal situation and financial goals, you may not need to c...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: corporate.vanguard.com  
    Title: emergency savings may hold key financial well being  
-   Link: <a href="https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/emergency-savings-may-hold-key-financial-well-being.html" target="_blank" rel="noopener noreferrer nofollow">https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/emergency-savings-may-hold-key-financial-well-being.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>savings may hold key to financial well-being29 Apr 2025 — “People with emergency savings have a higher level of financial well-being, spe...</p></details>
+   Link:<a href="https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/emergency-savings-may-hold-key-financial-well-being.html" target="_blank" rel="noopener noreferrer nofollow">https://corporate.vanguard.com/content/corporatesite/us/en/corp/articles/emergency-savings-may-hold-key-financial-well-being.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>savings may hold key to financial well-being29 Apr 2025 — “People with emergency savings have a higher level of financial well-being, spe...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: debt.org  
    Title: should i empty my savings to pay off credit card  
-   Link: <a href="https://www.debt.org/credit/cards/should-i-empty-my-savings-to-pay-off-credit-card/" target="_blank" rel="noopener noreferrer nofollow">https://www.debt.org/credit/cards/should-i-empty-my-savings-to-pay-off-credit-card/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Should I Empty My Savings To Pay off My Credit Card?Sep 6, 2024 — We&#x27;ll help you navigate the tough decision of whether to use your savin...</p></details>
+   Link:<a href="https://www.debt.org/credit/cards/should-i-empty-my-savings-to-pay-off-credit-card/" target="_blank" rel="noopener noreferrer nofollow">https://www.debt.org/credit/cards/should-i-empty-my-savings-to-pay-off-credit-card/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Should I Empty My Savings To Pay off My Credit Card?Sep 6, 2024 — We&#x27;ll help you navigate the tough decision of whether to use your savin...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: files.consumerfinance.gov  
-   Link: <a href="https://files.consumerfinance.gov/f/documents/cfpb_mem_emergency-savings-financial-security_report_2022-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.consumerfinance.gov/f/documents/cfpb_mem_emergency-savings-financial-security_report_2022-3.pdf</a>  
+   Link:<a href="https://files.consumerfinance.gov/f/documents/cfpb_mem_emergency-savings-financial-security_report_2022-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.consumerfinance.gov/f/documents/cfpb_mem_emergency-savings-financial-security_report_2022-3.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: consumerfinance.gov  
    Title: an essential guide to building an emergency fund  
-   Link: <a href="https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Financial Protection BureauAn essential guide to building an emergency fund29 Oct 2025 — An emergency fund is a cash reserve tha...</p></details>
+   Link:<a href="https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Financial Protection BureauAn essential guide to building an emergency fund29 Oct 2025 — An emergency fund is a cash reserve tha...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: mutualofomaha.com  
    Title: paying off debt vs saving what to choose  
-   Link: <a href="https://www.mutualofomaha.com/advice/financial-planning/managing-debt/paying-off-debt-vs-saving-what-to-choose" target="_blank" rel="noopener noreferrer nofollow">https://www.mutualofomaha.com/advice/financial-planning/managing-debt/paying-off-debt-vs-saving-what-to-choose</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mutual of OmahaPaying Off Debt vs Saving: What to ChooseApr 27, 2026 — Primary factors to weigh when choosing between paying off debt and...</p></details>
+   Link:<a href="https://www.mutualofomaha.com/advice/financial-planning/managing-debt/paying-off-debt-vs-saving-what-to-choose" target="_blank" rel="noopener noreferrer nofollow">https://www.mutualofomaha.com/advice/financial-planning/managing-debt/paying-off-debt-vs-saving-what-to-choose</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mutual of OmahaPaying Off Debt vs Saving: What to ChooseApr 27, 2026 — Primary factors to weigh when choosing between paying off debt and...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: consumerfinance.gov  
-   Link: <a href="https://www.consumerfinance.gov/about-us/blog/servicemembers-immediate-actions-financial-success-pay-down-debt-make-plan-start-early/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerfinance.gov/about-us/blog/servicemembers-immediate-actions-financial-success-pay-down-debt-make-plan-start-early/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Financial Protection Bureaupay down debt, make a plan, start earlyOct 1, 2018 — The immediate actions toward financial freedom i...</p></details>
+   Link:<a href="https://www.consumerfinance.gov/about-us/blog/servicemembers-immediate-actions-financial-success-pay-down-debt-make-plan-start-early/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerfinance.gov/about-us/blog/servicemembers-immediate-actions-financial-success-pay-down-debt-make-plan-start-early/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Financial Protection Bureaupay down debt, make a plan, start earlyOct 1, 2018 — The immediate actions toward financial freedom i...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: moneyhelper.org.uk  
-   Link: <a href="https://www.moneyhelper.org.uk/en/savings/types-of-savings/emergency-savings-how-much-is-enough" target="_blank" rel="noopener noreferrer nofollow">https://www.moneyhelper.org.uk/en/savings/types-of-savings/emergency-savings-how-much-is-enough</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MaPSEmergency savings – how much is enough?A good rule of thumb to give yourself a solid financial cushion is to have three to six months...</p></details>
+   Link:<a href="https://www.moneyhelper.org.uk/en/savings/types-of-savings/emergency-savings-how-much-is-enough" target="_blank" rel="noopener noreferrer nofollow">https://www.moneyhelper.org.uk/en/savings/types-of-savings/emergency-savings-how-much-is-enough</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MaPSEmergency savings – how much is enough?A good rule of thumb to give yourself a solid financial cushion is to have three to six months...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: consumerfinance.gov  
    Title: how reduce your debt  
-   Link: <a href="https://www.consumerfinance.gov/about-us/blog/how-reduce-your-debt/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerfinance.gov/about-us/blog/how-reduce-your-debt/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Financial Protection BureauHow to reduce your debtJul 16, 2019 — There are two basic strategies that can help you reduce debt: t...</p></details>
+   Link:<a href="https://www.consumerfinance.gov/about-us/blog/how-reduce-your-debt/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerfinance.gov/about-us/blog/how-reduce-your-debt/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Consumer Financial Protection BureauHow to reduce your debtJul 16, 2019 — There are two basic strategies that can help you reduce debt: t...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: files.consumerfinance.gov  
    Title: Consumer Financial Protection Bureau Debt getting in your way?  
-   Link: <a href="https://files.consumerfinance.gov/f/documents/bcfp_your-money-goals_debt_booklet_print.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.consumerfinance.gov/f/documents/bcfp_your-money-goals_debt_booklet_print.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Get a handle on it.Con: If the interest and fees are high on your larger debts, you might pay more overall if you pay off the smaller one...</p></details>
+   Link:<a href="https://files.consumerfinance.gov/f/documents/bcfp_your-money-goals_debt_booklet_print.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.consumerfinance.gov/f/documents/bcfp_your-money-goals_debt_booklet_print.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Get a handle on it.Con: If the interest and fees are high on your larger debts, you might pay more overall if you pay off the smaller one...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/pay" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/pay</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>something for something How much did you pay for the tickets? I pay my...Read more...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/pay" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/pay</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>something for something How much did you pay for the tickets? I pay my...Read more...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/260526717_Financial_Literacy_and_Emergency_Saving" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/260526717_Financial_Literacy_and_Emergency_Saving</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Financial Literacy and Emergency SavingThis paper investigates the correlations between subjectively and objectively assessed measu...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/260526717_Financial_Literacy_and_Emergency_Saving" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/260526717_Financial_Literacy_and_Emergency_Saving</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Financial Literacy and Emergency SavingThis paper investigates the correlations between subjectively and objectively assessed measu...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: payments.service.gov.uk  
-   Link: <a href="https://www.payments.service.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.payments.service.gov.uk/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pay has contracts with payment providers so you can take payments quickly and easily. It&#x27;s used across central and local govern...</p></details>
+   Link:<a href="https://www.payments.service.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.payments.service.gov.uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pay has contracts with payment providers so you can take payments quickly and easily. It&#x27;s used across central and local govern...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/markets/funds/how-build-an-emergency-fund-2025-12-16/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/markets/funds/how-build-an-emergency-fund-2025-12-16/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite its importance, more than 20% of Americans have no emergency savings, and only 46% are prepared to cover three months of expenses...</p></details>
+   Link:<a href="https://www.reuters.com/markets/funds/how-build-an-emergency-fund-2025-12-16/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/markets/funds/how-build-an-emergency-fund-2025-12-16/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Despite its importance, more than 20% of Americans have no emergency savings, and only 46% are prepared to cover three months of expenses...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: paypal.com  
-   Link: <a href="https://www.paypal.com/uk/home" target="_blank" rel="noopener noreferrer nofollow">https://www.paypal.com/uk/home</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PayPal UK: PayPal Account | Mobile Wallet and MoreUse your PayPal account to spend, send, and manage your money. Or, create a merchant ac...</p></details>
+   Link:<a href="https://www.paypal.com/uk/home" target="_blank" rel="noopener noreferrer nofollow">https://www.paypal.com/uk/home</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PayPal UK: PayPal Account | Mobile Wallet and MoreUse your PayPal account to spend, send, and manage your money. Or, create a merchant ac...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: wearepay.uk  
-   Link: <a href="https://www.wearepay.uk/what-we-do/overlay-services/request-to-pay/" target="_blank" rel="noopener noreferrer nofollow">https://www.wearepay.uk/what-we-do/overlay-services/request-to-pay/</a>  
+   Link:<a href="https://www.wearepay.uk/what-we-do/overlay-services/request-to-pay/" target="_blank" rel="noopener noreferrer nofollow">https://www.wearepay.uk/what-we-do/overlay-services/request-to-pay/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: chase.com  
-   Link: <a href="https://www.chase.com/personal/banking/education/budgeting-saving/rainy-day-fund-vs-emergency-fund" target="_blank" rel="noopener noreferrer nofollow">https://www.chase.com/personal/banking/education/budgeting-saving/rainy-day-fund-vs-emergency-fund</a>  
+   Link:<a href="https://www.chase.com/personal/banking/education/budgeting-saving/rainy-day-fund-vs-emergency-fund" target="_blank" rel="noopener noreferrer nofollow">https://www.chase.com/personal/banking/education/budgeting-saving/rainy-day-fund-vs-emergency-fund</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: alight.com  
-   Link: <a href="https://www.alight.com/blog/how-emergency-fund-different-from-savings-account" target="_blank" rel="noopener noreferrer nofollow">https://www.alight.com/blog/how-emergency-fund-different-from-savings-account</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s a separate pool of money designated specifically to cover or offset expenses associated with an...Read more...</p></details>
+   Link:<a href="https://www.alight.com/blog/how-emergency-fund-different-from-savings-account" target="_blank" rel="noopener noreferrer nofollow">https://www.alight.com/blog/how-emergency-fund-different-from-savings-account</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s a separate pool of money designated specifically to cover or offset expenses associated with an...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=_xJh2uLRxaw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_xJh2uLRxaw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learn How to Save Money and Pay Off Debt at the Same TimeBuilding your savings while paying off debt is just finding the balance of the r...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_xJh2uLRxaw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_xJh2uLRxaw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Learn How to Save Money and Pay Off Debt at the Same TimeBuilding your savings while paying off debt is just finding the balance of the r...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ithinkfi.org  
    Title: understanding emergency funds savings accounts in 2025  
-   Link: <a href="https://www.ithinkfi.org/blog/blog-detail/ithink-blog/2025/10/01/understanding-emergency-funds---savings-accounts-in-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.ithinkfi.org/blog/blog-detail/ithink-blog/2025/10/01/understanding-emergency-funds---savings-accounts-in-2025</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Emergency Funds &amp; Savings Accounts in...1 Oct 2025 — Understand key differences between emergency funds and savings accoun...</p></details>
+   Link:<a href="https://www.ithinkfi.org/blog/blog-detail/ithink-blog/2025/10/01/understanding-emergency-funds---savings-accounts-in-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.ithinkfi.org/blog/blog-detail/ithink-blog/2025/10/01/understanding-emergency-funds---savings-accounts-in-2025</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Emergency Funds &amp; Savings Accounts in...1 Oct 2025 — Understand key differences between emergency funds and savings accoun...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/personalfinance/comments/1q6s5yy/need_advice_on_whether_i_should_save_for_an/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/personalfinance/comments/1q6s5yy/need_advice_on_whether_i_should_save_for_an/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>500 monthly just on ((interest)), or should I prioritize saving for...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/personalfinance/comments/1q6s5yy/need_advice_on_whether_i_should_save_for_an/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/personalfinance/comments/1q6s5yy/need_advice_on_whether_i_should_save_for_an/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>500 monthly just on ((interest)), or should I prioritize saving for...Read more...</p></details>

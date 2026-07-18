@@ -277,13 +277,13 @@ image: /assets/images/self_improvement_tha_c01280_choice_architecture_214f66_eth
 Self-nudging is one of the most practical forms of choice architecture for self-improvement: you deliberately arrange your [environment]({{ 'environment/' | relative_url }}) so that the behaviour you already want becomes easier to carry out. The ethical question is not whether you influence yourself. Everyone does. The question is whether the influence remains visible, reversible and aligned with your own goals.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_ethical_self_nudging_d76e0b-Illustration-1-dark.svg" | relative_url }}" alt="Ethical nudges illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_ethical_self_nudging_d76e0b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_ethical_self_nudging_d76e0b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-A self-nudge remains a free choice when you can recognise the default, understand why it exists, and change or remove it without undue friction. Ethical behavioural science frameworks consistently emphasise transparency, autonomy and accountability rather than hidden steering. When [defaults]({{ 'defaults/' | relative_url }}) become difficult to detect or unusually hard to reverse, they begin to resemble manipulation rather than self-governance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/good-practice-principles-for-ethical-behavioural-science-in-public-policy_e19a9be9-en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[oecd.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">ct to ethical considerations that can arise at any point from scoping to policy...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2019/06/tools-and-ethics-for-applied-behavioural-insights-the-basic-toolkit_bbbaaa7a/9ea76a8f-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[oecd.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Tools and Ethics for Applied Behavioural InsightsThis toolkit presents both general principles for the ethical application of BI and a se...</span></span></span>
+A self-nudge remains a free choice when you can recognise the default, understand why it exists, and change or remove it without undue friction. Ethical behavioural science frameworks consistently emphasise transparency, autonomy and accountability rather than hidden steering. When [defaults]({{ 'defaults/' | relative_url }}) become difficult to detect or unusually hard to reverse, they begin to resemble manipulation rather than self-governance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/en/publications/good-practice-principles-for-ethical-behavioural-science-in-public-policy_e19a9be9-en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[oecd.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">ct to ethical considerations that can arise at any point from scoping to policy...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2019/06/tools-and-ethics-for-applied-behavioural-insights-the-basic-toolkit_bbbaaa7a/9ea76a8f-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[oecd.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-snippet">Tools and Ethics for Applied Behavioural InsightsThis toolkit presents both general principles for the ethical application of BI and a se...</span></span></span>
 
 Within everyday self-improvement, the distinction matters because successful systems often work precisely when [motivation]({{ 'motivation/' | relative_url }}) is low. The same design features that help people save money, exercise or limit distractions can also lock them into outdated priorities if they are never reviewed.
 
 ## When is a self-nudge still free choice?
 
-The standard definition of a nudge is a change in choice architecture that predictably influences behaviour without banning alternatives or significantly changing incentives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/rwe/10.1007/978-3-030-90434-0_52-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Nature Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer Nature LinkNudge and Nudging in Public Policy &#124; Springer Nature LinkA nudge refers to any aspect of the choice architecture that...</span></span></span>
+The standard definition of a nudge is a change in choice architecture that predictably influences behaviour without banning alternatives or significantly changing incentives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/rwe/10.1007/978-3-030-90434" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Nature Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer Nature LinkNudge and Nudging in Public Policy &#124; Springer Nature LinkA nudge refers to any aspect of the choice architecture that...</span></span></span>
 
 For self-improvement, a useful practical test is whether the arrangement passes three conditions:
 
@@ -307,7 +307,7 @@ Consider three common examples:
 
 These systems influence behaviour, but they do so through previously expressed intentions. They help yesterday's considered decision guide today's distracted moment.
 
-The ethical justification becomes weaker when the person affected no longer understands the system, cannot easily inspect it, or faces significant barriers to opting out. Behavioural ethics frameworks developed by the OECD and other researchers repeatedly identify transparency and respect for autonomy as central safeguards for legitimate nudging. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/333421600_To_Nudge_or_Not_To_Nudge_Ethical_Considerations_of_Digital_Nudging_Based_on_Its_Behavioral_Economics_Roots" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Ethical Considerations of Digital Nudging Based on Its...28 May 2019 — Three important ethical considerations for digital nudges are dis...</span><span class="citation-popover-meta">Published: May 2019</span></span></span> 3oecd.org 3oecd.org
+The ethical justification becomes weaker when the person affected no longer understands the system, cannot easily inspect it, or faces significant barriers to opting out. Behavioural ethics frameworks developed by the OECD and other researchers repeatedly identify transparency and respect for autonomy as central safeguards for legitimate nudging.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/333421600_To_Nudge_or_Not_To_Nudge_Ethical_Considerations_of_Digital_Nudging_Based_on_Its_Behavioral_Economics_Roots" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Ethical Considerations of Digital Nudging Based on Its...28 May 2019 — Three important ethical considerations for digital nudges are dis...</span><span class="citation-popover-meta">Published: May 2019</span></span></span> 3oecd.org 3oecd.org
 
 ## Transparency, consent and easy exits
 
@@ -315,7 +315,7 @@ The ethical justification becomes weaker when the person affected no longer unde
 
 A transparent self-nudge is not necessarily less effective. In many cases, effectiveness and legitimacy can coexist.
 
-Research and policy guidance on ethical behavioural interventions increasingly treats transparency as a core principle. A person should be able to recognise that an intervention exists and understand its intended effect. One widely cited framework describes a nudge as transparent when people are, or could reasonably become, aware that behavioural steering is taking place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.europeanlawinstitute.eu/fileadmin/user_upload/p_eli/Publications/A_Framework_for_Good_Green_Nudging.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: europeanlawinstitute.eu">[European Law Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">europeanlawinstitute.eu</span><span class="citation-popover-title">GP 5. Explainability.Read more</span><span class="citation-popover-snippet">European Law InstituteA Framework for Good Green NudgingA nudge is transparent when the person being nudged is, or could reasonably becom...</span></span></span>
+Research and policy guidance on ethical behavioural interventions increasingly treats transparency as a core principle. A person should be able to recognise that an intervention exists and understand its intended effect. One widely cited framework describes a nudge as transparent when people are, or could reasonably become, aware that behavioural steering is taking place.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.europeanlawinstitute.eu/fileadmin/user_upload/p_eli/Publications/A_Framework_for_Good_Green_Nudging.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: europeanlawinstitute.eu">[European Law Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">europeanlawinstitute.eu</span><span class="citation-popover-title">GP 5. Explainability.Read more</span><span class="citation-popover-snippet">European Law InstituteA Framework for Good Green NudgingA nudge is transparent when the person being nudged is, or could reasonably becom...</span></span></span>
 
 Applied to self-improvement, that means:
 
@@ -346,7 +346,7 @@ This governance perspective treats defaults as policies that require periodic re
 
 The clearest way to understand ethical boundaries is to look at the opposite phenomenon: dark patterns.
 
-Regulators, researchers and consumer-protection bodies use the term "dark patterns" for interface designs that exploit behavioural tendencies to steer people toward outcomes they may not actually want. Common examples include making acceptance easy while making refusal difficult, hiding options, creating unnecessary friction, or obscuring the consequences of a choice. Finnegan | Leading IP Law Firm 3oecd.org <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.drcf.org.uk/siteassets/drcf/pdf-files/harmful-design-in-digital-markets-ico-cma-joint-position-paper.pdf?v=380506" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drcf.org.uk">[3www.drcf.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drcf.org.uk</span><span class="citation-popover-snippet">design in digital markets: How Online Choice...This paper provides further clarity on how certain techniques could contravene data prote...</span></span></span>
+Regulators, researchers and consumer-protection bodies use the term "dark patterns" for interface designs that exploit behavioural tendencies to steer people toward outcomes they may not actually want. Common examples include making acceptance easy while making refusal difficult, hiding options, creating unnecessary friction, or obscuring the consequences of a choice. Finnegan | Leading IP Law Firm 3oecd.org<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.drcf.org.uk/siteassets/drcf/pdf-files/harmful-design-in-digital-markets-ico-cma-joint-position-paper.pdf?v=380506" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: drcf.org.uk">[3www.drcf.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">drcf.org.uk</span><span class="citation-popover-snippet">design in digital markets: How Online Choice...This paper provides further clarity on how certain techniques could contravene data prote...</span></span></span>
 
 The same [warning signs]({{ 'warning-signs/' | relative_url }}) apply to personal systems.
 
@@ -364,7 +364,7 @@ A self-nudge begins drifting toward manipulation when:
 
 Imagine a productivity application configured years ago with extensive blocking rules. At first it supported focused work. Later it begins interfering with legitimate activities, yet the settings are so complex that changing them feels burdensome. The system is still influencing behaviour, but it no longer serves the user's current objectives.
 
-In this situation, the harm is not dramatic. It is usually wasted time, unnecessary friction and reduced autonomy. Yet these small losses accumulate. Recent discussions of manipulation and dark-pattern regulation increasingly highlight harms to attention, time and personal agency, not only financial loss. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oecd.ai/en/wonk/ai-act-manipulation-methods" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.ai">[OECD.AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.ai</span><span class="citation-popover-title">ai act manipulation methods</span><span class="citation-popover-snippet">The EU&#x27;s AI Act needs to address critical manipulation...21 Mar 2023 — The EU AI Act regulations focus on preventing manipulation that c...</span></span></span>
+In this situation, the harm is not dramatic. It is usually wasted time, unnecessary friction and reduced autonomy. Yet these small losses accumulate. Recent discussions of manipulation and dark-pattern regulation increasingly highlight harms to attention, time and personal agency, not only financial loss.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oecd.ai/en/wonk/ai-act-manipulation-methods" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.ai">[OECD.AI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.ai</span><span class="citation-popover-title">ai act manipulation methods</span><span class="citation-popover-snippet">The EU&#x27;s AI Act needs to address critical manipulation...21 Mar 2023 — The EU AI Act regulations focus on preventing manipulation that c...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_ethical_self_nudging_d76e0b-Illustration-2-dark.svg" | relative_url }}" alt="Ethical nudges illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_ethical_self_nudging_d76e0b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_ethical_self_nudging_d76e0b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The danger of success without review
@@ -412,7 +412,7 @@ The review should cover practical systems, including:
 
 </div>
 
-This process mirrors governance principles used in ethical behavioural science: interventions should not only be designed responsibly but also monitored and reassessed over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/10/dark-commercial-patterns_9f6169cd/44f5e846-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[oecd.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">Dark commercial patterns (EN</span><span class="citation-popover-snippet">May 14, 2025 — The OECD Committee on Consumer Policy proposes a working definition of dark patterns to facilitate near-term discussion am...</span><span class="citation-popover-meta">Published: May 14, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oecd.ai/en/wonk/ai-act-manipulation-methods" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.ai">[oecd.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.ai</span><span class="citation-popover-title">ai act manipulation methods</span><span class="citation-popover-snippet">The EU&#x27;s AI Act needs to address critical manipulation...21 Mar 2023 — The EU AI Act regulations focus on preventing manipulation that c...</span></span></span>
+This process mirrors governance principles used in ethical behavioural science: interventions should not only be designed responsibly but also monitored and reassessed over time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/10/dark-commercial-patterns_9f6169cd/44f5e846-en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.org">[oecd.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.org</span><span class="citation-popover-title">Dark commercial patterns (EN</span><span class="citation-popover-snippet">May 14, 2025 — The OECD Committee on Consumer Policy proposes a working definition of dark patterns to facilitate near-term discussion am...</span><span class="citation-popover-meta">Published: May 14, 2025</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://oecd.ai/en/wonk/ai-act-manipulation-methods" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oecd.ai">[oecd.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oecd.ai</span><span class="citation-popover-title">ai act manipulation methods</span><span class="citation-popover-snippet">The EU&#x27;s AI Act needs to address critical manipulation...21 Mar 2023 — The EU AI Act regulations focus on preventing manipulation that c...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_ethical_self_nudging_d76e0b-Illustration-3-dark.svg" | relative_url }}" alt="Ethical nudges illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_ethical_self_nudging_d76e0b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_ethical_self_nudging_d76e0b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### A useful rule: defaults should expire before values do
@@ -434,199 +434,199 @@ The most credible form of self-improvement through choice architecture is not hi
 
 Ethical self-nudging recognises that people are imperfect planners and inconsistent decision-makers. It uses defaults to bridge the gap between long-term intentions and everyday behaviour. At the same time, it preserves the ability to inspect, question and change those defaults.
 
-A useful rule of thumb is simple: if a future version of you can easily see the nudge, understand why it exists and remove it without difficulty, the system is supporting freedom rather than replacing it. Transparency, continuing consent and easy exits are not obstacles to effective self-improvement. They are what keep behavioural tools aligned with the person they are supposed to serve. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/333421600_To_Nudge_or_Not_To_Nudge_Ethical_Considerations_of_Digital_Nudging_Based_on_Its_Behavioral_Economics_Roots" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Ethical Considerations of Digital Nudging Based on Its...28 May 2019 — Three important ethical considerations for digital nudges are dis...</span><span class="citation-popover-meta">Published: May 2019</span></span></span> 3oecd.org 3oecd.org
+A useful rule of thumb is simple: if a future version of you can easily see the nudge, understand why it exists and remove it without difficulty, the system is supporting freedom rather than replacing it. Transparency, continuing consent and easy exits are not obstacles to effective self-improvement. They are what keep behavioural tools aligned with the person they are supposed to serve.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/333421600_To_Nudge_or_Not_To_Nudge_Ethical_Considerations_of_Digital_Nudging_Based_on_Its_Behavioral_Economics_Roots" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Ethical Considerations of Digital Nudging Based on Its...28 May 2019 — Three important ethical considerations for digital nudges are dis...</span><span class="citation-popover-meta">Published: May 2019</span></span></span> 3oecd.org 3oecd.org
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PCXNKK2oyE4" title="The Art of Shaping Choice Architecture." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PCXNKK2oyE4" target="_blank" rel="noopener noreferrer">The Art of Shaping Choice Architecture.</a></p><p class="youtube-embed-meta">Channel: Brooke Tully &middot; Views: 110 &middot; Uploaded: January 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PCXNKK2oyE4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PCXNKK2oyE4">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When is a self nudge still free choice?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When is a self nudge still free choice?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nudge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Wf1AEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Nudge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nudge">Nudge</a>
-        </h4>
-        <p class="fr-book-author">By Richard H. Thaler, Cass R. Sunstein</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nudge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Wf1AEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Nudge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nudge">Nudge</a>
+</h4>
+<p class="fr-book-author">By Richard H. Thaler, Cass R. Sunstein</p>
         
-        <p class="fr-book-desc">Addresses nudges, autonomy and ethical design.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses nudges, autonomy and ethical design.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Focuses on self-directed environmental design rather than coercion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Focuses on self-directed environmental design rather than coercion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Helps readers understand why nudges work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand why nudges work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Righteous Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y9-GG5gPzgwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Righteous Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Haidt</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Righteous Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y9-GG5gPzgwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Righteous Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Righteous Mind">The Righteous Mind</a>
+</h4>
+<p class="fr-book-author">By Jonathan Haidt</p>
         
-        <p class="fr-book-desc">Explores ethical reasoning and decision-making.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores ethical reasoning and decision-making.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Righteous+Mind+by+Jonathan+Haidt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Nudge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nudge</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Nudge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nudge</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Electronic Time Lock Safe Box Countdown Timer Combination Lock -Seller Pays Fees"><img src="https://i.ebayimg.com/images/g/kCgAAeSwMD1ps-oq/s-l225.jpg" alt="Listing image for Electronic Time Lock Safe Box Countdown Timer Combination Lock -Seller Pays Fees" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" target="_blank" rel="sponsored noopener noreferrer">Electronic Time Lock Safe Box Countdown Timer Combination Lock -Seller Pays Fees</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for time lock safe">Search <span data-ebay-domain-label>eBay.co.uk</span>: time lock safe</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Electronic Time Lock Safe Box Countdown Timer Combination Lock -Seller Pays Fees"><img src="https://i.ebayimg.com/images/g/kCgAAeSwMD1ps-oq/s-l225.jpg" alt="Listing image for Electronic Time Lock Safe Box Countdown Timer Combination Lock -Seller Pays Fees" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" target="_blank" rel="sponsored noopener noreferrer">Electronic Time Lock Safe Box Countdown Timer Combination Lock -Seller Pays Fees</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for time lock safe">Search<span data-ebay-domain-label>eBay.co.uk</span>: time lock safe</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lock Box with Timed Digital Timer and Combination Lock for Phones Snacks Secure"><img src="https://i.ebayimg.com/images/g/shsAAeSw9MVqGe0v/s-l225.jpg" alt="Listing image for Lock Box with Timed Digital Timer and Combination Lock for Phones Snacks Secure" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" target="_blank" rel="sponsored noopener noreferrer">Lock Box with Timed Digital Timer and Combination Lock for Phones Snacks Secure</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for time lock safe">Search <span data-ebay-domain-label>eBay.co.uk</span>: time lock safe</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lock Box with Timed Digital Timer and Combination Lock for Phones Snacks Secure"><img src="https://i.ebayimg.com/images/g/shsAAeSw9MVqGe0v/s-l225.jpg" alt="Listing image for Lock Box with Timed Digital Timer and Combination Lock for Phones Snacks Secure" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" target="_blank" rel="sponsored noopener noreferrer">Lock Box with Timed Digital Timer and Combination Lock for Phones Snacks Secure</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for time lock safe">Search<span data-ebay-domain-label>eBay.co.uk</span>: time lock safe</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ice Lock Key Safe - BDSM Restraints Time Release"><img src="https://i.ebayimg.com/images/g/5G4AAOSwe6hlBZnR/s-l225.jpg" alt="Listing image for Ice Lock Key Safe - BDSM Restraints Time Release" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" target="_blank" rel="sponsored noopener noreferrer">Ice Lock Key Safe - BDSM Restraints Time Release</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for time lock safe">Search <span data-ebay-domain-label>eBay.co.uk</span>: time lock safe</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ice Lock Key Safe - BDSM Restraints Time Release"><img src="https://i.ebayimg.com/images/g/5G4AAOSwe6hlBZnR/s-l225.jpg" alt="Listing image for Ice Lock Key Safe - BDSM Restraints Time Release" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" target="_blank" rel="sponsored noopener noreferrer">Ice Lock Key Safe - BDSM Restraints Time Release</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for time lock safe">Search<span data-ebay-domain-label>eBay.co.uk</span>: time lock safe</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for iDiskk Safe Timed Lock Box, Phone Lock Box with Timer Unplug from Phones,"><img src="https://i.ebayimg.com/images/g/KMoAAeSwOp1pwSUx/s-l225.jpg" alt="Listing image for iDiskk Safe Timed Lock Box, Phone Lock Box with Timer Unplug from Phones," loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" target="_blank" rel="sponsored noopener noreferrer">iDiskk Safe Timed Lock Box, Phone Lock Box with Timer Unplug from Phones,</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for time lock safe">Search <span data-ebay-domain-label>eBay.co.uk</span>: time lock safe</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for iDiskk Safe Timed Lock Box, Phone Lock Box with Timer Unplug from Phones,"><img src="https://i.ebayimg.com/images/g/KMoAAeSwOp1pwSUx/s-l225.jpg" alt="Listing image for iDiskk Safe Timed Lock Box, Phone Lock Box with Timer Unplug from Phones," loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" target="_blank" rel="sponsored noopener noreferrer">iDiskk Safe Timed Lock Box, Phone Lock Box with Timer Unplug from Phones,</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for time lock safe">Search<span data-ebay-domain-label>eBay.co.uk</span>: time lock safe</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=time+lock+safe&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-is-a-self-nudge-still-free-choice-time-lock-safe&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="time lock safe" data-ebay-reference="when-is-a-self-nudge-still-free-choice-time-lock-safe" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -642,7 +642,7 @@ A useful rule of thumb is simple: if a future version of you can easily see the 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -662,7 +662,7 @@ A useful rule of thumb is simple: if a future version of you can easily see the 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -694,7 +694,7 @@ A useful rule of thumb is simple: if a future version of you can easily see the 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -746,7 +746,7 @@ A useful rule of thumb is simple: if a future version of you can easily see the 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -791,7 +791,7 @@ A useful rule of thumb is simple: if a future version of you can easily see the 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -832,189 +832,189 @@ A useful rule of thumb is simple: if a future version of you can easily see the 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/en/publications/good-practice-principles-for-ethical-behavioural-science-in-public-policy_e19a9be9-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/good-practice-principles-for-ethical-behavioural-science-in-public-policy_e19a9be9-en.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ct to ethical considerations that can arise at any point from scoping to policy...Read more...</p></details>
+   Link:<a href="https://www.oecd.org/en/publications/good-practice-principles-for-ethical-behavioural-science-in-public-policy_e19a9be9-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/good-practice-principles-for-ethical-behavioural-science-in-public-policy_e19a9be9-en.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ct to ethical considerations that can arise at any point from scoping to policy...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2019/06/tools-and-ethics-for-applied-behavioural-insights-the-basic-toolkit_bbbaaa7a/9ea76a8f-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2019/06/tools-and-ethics-for-applied-behavioural-insights-the-basic-toolkit_bbbaaa7a/9ea76a8f-en.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tools and Ethics for Applied Behavioural InsightsThis toolkit presents both general principles for the ethical application of BI and a se...</p></details>
+   Link:<a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2019/06/tools-and-ethics-for-applied-behavioural-insights-the-basic-toolkit_bbbaaa7a/9ea76a8f-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2019/06/tools-and-ethics-for-applied-behavioural-insights-the-basic-toolkit_bbbaaa7a/9ea76a8f-en.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tools and Ethics for Applied Behavioural InsightsThis toolkit presents both general principles for the ethical application of BI and a se...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/333421600_To_Nudge_or_Not_To_Nudge_Ethical_Considerations_of_Digital_Nudging_Based_on_Its_Behavioral_Economics_Roots" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/333421600_To_Nudge_or_Not_To_Nudge_Ethical_Considerations_of_Digital_Nudging_Based_on_Its_Behavioral_Economics_Roots</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ethical Considerations of Digital Nudging Based on Its...28 May 2019 — Three important ethical considerations for digital nudges are dis...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/333421600_To_Nudge_or_Not_To_Nudge_Ethical_Considerations_of_Digital_Nudging_Based_on_Its_Behavioral_Economics_Roots" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/333421600_To_Nudge_or_Not_To_Nudge_Ethical_Considerations_of_Digital_Nudging_Based_on_Its_Behavioral_Economics_Roots</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ethical Considerations of Digital Nudging Based on Its...28 May 2019 — Three important ethical considerations for digital nudges are dis...</p></details>
    Published: May 2019  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/rwe/10.1007/978-3-030-90434-0_52-1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/rwe/10.1007/978-3-030-90434-0_52-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer Nature LinkNudge and Nudging in Public Policy | Springer Nature LinkA nudge refers to any aspect of the choice architecture that...</p></details>
+   Link:<a href="https://link.springer.com/rwe/10.1007/978-3-030-90434" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/rwe/10.1007/978-3-030-90434</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Springer Nature LinkNudge and Nudging in Public Policy | Springer Nature LinkA nudge refers to any aspect of the choice architecture that...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: oecd.org  
    Title: Dark commercial patterns (EN)  
-   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/10/dark-commercial-patterns_9f6169cd/44f5e846-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/10/dark-commercial-patterns_9f6169cd/44f5e846-en.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 14, 2025 — The OECD Committee on Consumer Policy proposes a working definition of dark patterns to facilitate near-term discussion am...</p></details>
+   Link:<a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/10/dark-commercial-patterns_9f6169cd/44f5e846-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/10/dark-commercial-patterns_9f6169cd/44f5e846-en.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 14, 2025 — The OECD Committee on Consumer Policy proposes a working definition of dark patterns to facilitate near-term discussion am...</p></details>
    Published: May 14, 2025  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: drcf.org.uk  
-   Link: <a href="https://www.drcf.org.uk/siteassets/drcf/pdf-files/harmful-design-in-digital-markets-ico-cma-joint-position-paper.pdf?v=380506" target="_blank" rel="noopener noreferrer nofollow">https://www.drcf.org.uk/siteassets/drcf/pdf-files/harmful-design-in-digital-markets-ico-cma-joint-position-paper.pdf?v=380506</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>design in digital markets: How Online Choice...This paper provides further clarity on how certain [techniques](&amp;#123;&amp;#123; &#x27;techniques/&#x27; | relative_url &amp;#125;&amp;#125;) could contravene data prote...</p></details>
+   Link:<a href="https://www.drcf.org.uk/siteassets/drcf/pdf-files/harmful-design-in-digital-markets-ico-cma-joint-position-paper.pdf?v=380506" target="_blank" rel="noopener noreferrer nofollow">https://www.drcf.org.uk/siteassets/drcf/pdf-files/harmful-design-in-digital-markets-ico-cma-joint-position-paper.pdf?v=380506</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>design in digital markets: How Online Choice...This paper provides further clarity on how certain [techniques](&amp;#123;&amp;#123; &#x27;techniques/&#x27; | relative_url &amp;#125;&amp;#125;) could contravene data prote...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: finnegan.com  
    Title: dark patterns regulation in the uk and us  
-   Link: <a href="https://www.finnegan.com/en/insights/articles/dark-patterns-regulation-in-the-uk-and-us.html" target="_blank" rel="noopener noreferrer nofollow">https://www.finnegan.com/en/insights/articles/dark-patterns-regulation-in-the-uk-and-us.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Leading IP+ Law FirmDark Patterns Regulation in the UK and US | Articles7 May 2025 — Dark patterns are design elements and pra...</p></details>
+   Link:<a href="https://www.finnegan.com/en/insights/articles/dark-patterns-regulation-in-the-uk-and-us.html" target="_blank" rel="noopener noreferrer nofollow">https://www.finnegan.com/en/insights/articles/dark-patterns-regulation-in-the-uk-and-us.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Leading IP+ Law FirmDark Patterns Regulation in the UK and US | Articles7 May 2025 — Dark patterns are design elements and pra...</p></details>
    Published: May 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: oecd.ai  
    Title: ai act manipulation methods  
-   Link: <a href="https://oecd.ai/en/wonk/ai-act-manipulation-methods" target="_blank" rel="noopener noreferrer nofollow">https://oecd.ai/en/wonk/ai-act-manipulation-methods</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The EU&#x27;s AI Act needs to address critical manipulation...21 Mar 2023 — The EU AI Act regulations focus on preventing manipulation that c...</p></details>
+   Link:<a href="https://oecd.ai/en/wonk/ai-act-manipulation-methods" target="_blank" rel="noopener noreferrer nofollow">https://oecd.ai/en/wonk/ai-act-manipulation-methods</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The EU&#x27;s AI Act needs to address critical manipulation...21 Mar 2023 — The EU AI Act regulations focus on preventing manipulation that c...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: oecd.org  
    Title: LOGI C: Good Practice Principles for Mainstreaming  
-   Link: <a href="https://www.oecd.org/en/publications/logic-good-practice-principles-for-mainstreaming-behavioural-public-policy_6cb52de2-en/full-report/component-13.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/logic-good-practice-principles-for-mainstreaming-behavioural-public-policy_6cb52de2-en/full-report/component-13.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LOGIC: Good Practice Principles for Mainstreaming...May 23, 2024 — This report outlines good practice principles intended to encourage t...</p></details>
+   Link:<a href="https://www.oecd.org/en/publications/logic-good-practice-principles-for-mainstreaming-behavioural-public-policy_6cb52de2-en/full-report/component-13.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/logic-good-practice-principles-for-mainstreaming-behavioural-public-policy_6cb52de2-en/full-report/component-13.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LOGIC: Good Practice Principles for Mainstreaming...May 23, 2024 — This report outlines good practice principles intended to encourage t...</p></details>
    Published: May 23, 2024  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/10/good-practice-principles-for-ethical-behavioural-science-in-public-policy_8be8043a/e19a9be9-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/10/good-practice-principles-for-ethical-behavioural-science-in-public-policy_8be8043a/e19a9be9-en.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>icy, both in the development of tools and standards to serve the BI community and as a...Read more...</p></details>
+   Link:<a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/10/good-practice-principles-for-ethical-behavioural-science-in-public-policy_8be8043a/e19a9be9-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2022/10/good-practice-principles-for-ethical-behavioural-science-in-public-policy_8be8043a/e19a9be9-en.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>icy, both in the development of tools and standards to serve the BI community and as a...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/en/publications/tools-and-ethics-for-applied-behavioural-insights-the-basic-toolkit_9ea76a8f-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/tools-and-ethics-for-applied-behavioural-insights-the-basic-toolkit_9ea76a8f-en.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tools and Ethics for Applied Behavioural InsightsThis toolkit provides practitioners and policy makers with a step-by-step process for an...</p></details>
+   Link:<a href="https://www.oecd.org/en/publications/tools-and-ethics-for-applied-behavioural-insights-the-basic-toolkit_9ea76a8f-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/tools-and-ethics-for-applied-behavioural-insights-the-basic-toolkit_9ea76a8f-en.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tools and Ethics for Applied Behavioural InsightsThis toolkit provides practitioners and policy makers with a step-by-step process for an...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Organisation for Economic Co-operation and...The OECD designs international standards and guidelines for development co-operat...</p></details>
+   Link:<a href="https://www.oecd.org/en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Organisation for Economic Co-operation and...The OECD designs international standards and guidelines for development co-operat...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/en/publications/behavioural-insights-for-public-integrity_9789264297067-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/behavioural-insights-for-public-integrity_9789264297067-en.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioural Insights for Public IntegrityThis report describes how behavioural insights can help make integrity and anti-corruption polic...</p></details>
+   Link:<a href="https://www.oecd.org/en/publications/behavioural-insights-for-public-integrity_9789264297067-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/behavioural-insights-for-public-integrity_9789264297067-en.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioural Insights for Public IntegrityThis report describes how behavioural insights can help make integrity and anti-corruption polic...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/en/topics/behavioural-science.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/topics/behavioural-science.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioural scienceAt the OECD, we research context-specific behavioural drivers and barriers, and support countries in the use of behavi...</p></details>
+   Link:<a href="https://www.oecd.org/en/topics/behavioural-science.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/topics/behavioural-science.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioural scienceAt the OECD, we research context-specific behavioural drivers and barriers, and support countries in the use of behavi...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2018/03/behavioural-insights-for-public-integrity_g1g8c0a5/9789264297067-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2018/03/behavioural-insights-for-public-integrity_g1g8c0a5/9789264297067-en.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioural Insights for Public IntegrityMoments of ethical reflection can be integrated in many policies. Sometimes, people are not even...</p></details>
+   Link:<a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2018/03/behavioural-insights-for-public-integrity_g1g8c0a5/9789264297067-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2018/03/behavioural-insights-for-public-integrity_g1g8c0a5/9789264297067-en.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioural Insights for Public IntegrityMoments of ethical reflection can be integrated in many policies. Sometimes, people are not even...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: oecd.org  
    Title: 9789264270480 en  
-   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2017/03/behavioural-insights-and-public-policy_g1g7590e/9789264270480-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2017/03/behavioural-insights-and-public-policy_g1g7590e/9789264270480-en.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioural Insights and Public Policy (EN)15 Mar 2017 — The case studies are for the benefit of public officials and practitioners when...</p></details>
+   Link:<a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2017/03/behavioural-insights-and-public-policy_g1g7590e/9789264270480-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2017/03/behavioural-insights-and-public-policy_g1g7590e/9789264270480-en.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioural Insights and Public Policy (EN)15 Mar 2017 — The case studies are for the benefit of public officials and practitioners when...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/en/publications/oecd-good-practice-principles-for-data-ethics-in-the-public-sector_caa35b76-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/oecd-good-practice-principles-for-data-ethics-in-the-public-sector_caa35b76-en.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OECD Good Practice Principles for Data Ethics in the...The Good Practice Principles for Data Ethics in the Public Sector presented in th...</p></details>
+   Link:<a href="https://www.oecd.org/en/publications/oecd-good-practice-principles-for-data-ethics-in-the-public-sector_caa35b76-en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/oecd-good-practice-principles-for-data-ethics-in-the-public-sector_caa35b76-en.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OECD Good Practice Principles for Data Ethics in the...The Good Practice Principles for Data Ethics in the Public Sector presented in th...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/04/behavioural-insights-and-organisations_3b0933c2/e6ef217d-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/04/behavioural-insights-and-organisations_3b0933c2/e6ef217d-en.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>stand how human behaviour influences policy outcomes.Read more...</p></details>
+   Link:<a href="https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/04/behavioural-insights-and-organisations_3b0933c2/e6ef217d-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/content/dam/oecd/en/publications/reports/2020/04/behavioural-insights-and-organisations_3b0933c2/e6ef217d-en.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>stand how human behaviour influences policy outcomes.Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/en/publications/2018/03/behavioural-insights-for-public-integrity_g1g8c0a5.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/2018/03/behavioural-insights-for-public-integrity_g1g8c0a5.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioural Insights for Public IntegrityThis report describes how behavioural insights can help make integrity and anti-corruption polic...</p></details>
+   Link:<a href="https://www.oecd.org/en/publications/2018/03/behavioural-insights-for-public-integrity_g1g8c0a5.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/2018/03/behavioural-insights-for-public-integrity_g1g8c0a5.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioural Insights for Public IntegrityThis report describes how behavioural insights can help make integrity and anti-corruption polic...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: oecd.org  
-   Link: <a href="https://www.oecd.org/en/publications/oecd-regulatory-policy-outlook-2018_9789264303072-en/full-report/improving-regulation-and-outcomes-through-behavioural-insights_g1g97944.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/oecd-regulatory-policy-outlook-2018_9789264303072-en/full-report/improving-regulation-and-outcomes-through-behavioural-insights_g1g97944.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>be put in place to help keep actors “nudging for good,” as 2017 Nobel Laureate...Read more...</p></details>
+   Link:<a href="https://www.oecd.org/en/publications/oecd-regulatory-policy-outlook-2018_9789264303072-en/full-report/improving-regulation-and-outcomes-through-behavioural-insights_g1g97944.html" target="_blank" rel="noopener noreferrer nofollow">https://www.oecd.org/en/publications/oecd-regulatory-policy-outlook-2018_9789264303072-en/full-report/improving-regulation-and-outcomes-through-behavioural-insights_g1g97944.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>be put in place to help keep actors “nudging for good,” as 2017 Nobel Laureate...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: link.springer.com  
    Title: We conducted 81 in-depth  
-   Link: <a href="https://link.springer.com/article/10.1007/s11299-025-00333-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11299-025-00333-0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>behavioural insights in the policy process: on...by F Spitzer · 2025 · Cited by 2 — This study investigates how behavioural insights are...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s11299-025-00333-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s11299-025-00333-0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>behavioural insights in the policy process: on...by F Spitzer · 2025 · Cited by 2 — This study investigates how behavioural insights are...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/337902696_Institutionalisation_of_Behavioural_Insights_in_Public_Policy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/337902696_Institutionalisation_of_Behavioural_Insights_in_Public_Policy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Institutionalisation of Behavioural Insights in Public PolicyThis study explores the nuances of South Koreans&#x27; approval for nudge policie...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/337902696_Institutionalisation_of_Behavioural_Insights_in_Public_Policy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/337902696_Institutionalisation_of_Behavioural_Insights_in_Public_Policy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Institutionalisation of Behavioural Insights in Public PolicyThis study explores the nuances of South Koreans&#x27; approval for nudge policie...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: europeanlawinstitute.eu  
    Title: GP 5. Explainability.Read more  
-   Link: <a href="https://www.europeanlawinstitute.eu/fileadmin/user_upload/p_eli/Publications/A_Framework_for_Good_Green_Nudging.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.europeanlawinstitute.eu/fileadmin/user_upload/p_eli/Publications/A_Framework_for_Good_Green_Nudging.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>European Law InstituteA Framework for Good Green NudgingA nudge is transparent when the person being nudged is, or could reasonably becom...</p></details>
+   Link:<a href="https://www.europeanlawinstitute.eu/fileadmin/user_upload/p_eli/Publications/A_Framework_for_Good_Green_Nudging.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.europeanlawinstitute.eu/fileadmin/user_upload/p_eli/Publications/A_Framework_for_Good_Green_Nudging.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>European Law InstituteA Framework for Good Green NudgingA nudge is transparent when the person being nudged is, or could reasonably becom...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: termsfeed.com  
    Title: dark patterns  
-   Link: <a href="https://www.termsfeed.com/blog/dark-patterns/" target="_blank" rel="noopener noreferrer nofollow">https://www.termsfeed.com/blog/dark-patterns/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>, the FTC and the GDPR8 Feb 2026 — Dark patterns are an underhanded, manipulative way to get people to do what you want them to on your c...</p></details>
+   Link:<a href="https://www.termsfeed.com/blog/dark-patterns/" target="_blank" rel="noopener noreferrer nofollow">https://www.termsfeed.com/blog/dark-patterns/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>, the FTC and the GDPR8 Feb 2026 — Dark patterns are an underhanded, manipulative way to get people to do what you want them to on your c...</p></details>
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: elgaronline.com  
-   Link: <a href="https://www.elgaronline.com/display/book/9781802207736/chapter30.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.elgaronline.com/display/book/9781802207736/chapter30.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>30. Behavioural public policyBehavioural scientists oper- ating transparently, ethically, and with integrity are more likely to build the...</p></details>
+   Link:<a href="https://www.elgaronline.com/display/book/9781802207736/chapter30.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.elgaronline.com/display/book/9781802207736/chapter30.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>30. Behavioural public policyBehavioural scientists oper- ating transparently, ethically, and with integrity are more likely to build the...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: oecd-opsi.org  
-   Link: <a href="https://oecd-opsi.org/guide/behavioural-insights/" target="_blank" rel="noopener noreferrer nofollow">https://oecd-opsi.org/guide/behavioural-insights/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioural InsightsBehavioural insights (BI) is an inductive approach to policy making that combines insights from psychology, cognitive...</p></details>
+   Link:<a href="https://oecd-opsi.org/guide/behavioural-insights/" target="_blank" rel="noopener noreferrer nofollow">https://oecd-opsi.org/guide/behavioural-insights/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioural InsightsBehavioural insights (BI) is an inductive approach to policy making that combines insights from psychology, cognitive...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: digital-skills-jobs.europa.eu  
-   Link: <a href="https://digital-skills-jobs.europa.eu/en/learning-space/resources/oecds-good-practice-principles-data-ethics-public-sector" target="_blank" rel="noopener noreferrer nofollow">https://digital-skills-jobs.europa.eu/en/learning-space/resources/oecds-good-practice-principles-data-ethics-public-sector</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>europa.euOECD&#x27;s Good Practice Principles for Data Ethics in the Public...Embrace Ethical Data Governance: Dive into the OECD&#x27;s visionary...</p></details>
+   Link:<a href="https://digital-skills-jobs.europa.eu/en/learning-space/resources/oecds-good-practice-principles-data-ethics-public-sector" target="_blank" rel="noopener noreferrer nofollow">https://digital-skills-jobs.europa.eu/en/learning-space/resources/oecds-good-practice-principles-data-ethics-public-sector</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>europa.euOECD&#x27;s Good Practice Principles for Data Ethics in the Public...Embrace Ethical Data Governance: Dive into the OECD&#x27;s visionary...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: paulvittles.medium.com  
-   Link: <a href="https://paulvittles.medium.com/good-practice-principles-for-deliberative-participative-democracy-shared-principles-with-c5fc28a786df" target="_blank" rel="noopener noreferrer nofollow">https://paulvittles.medium.com/good-practice-principles-for-deliberative-participative-democracy-shared-principles-with-c5fc28a786df</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>practice principles for deliberative &amp; participative...The OECD (and others) have suggested we promote and support innovation in democra...</p></details>
+   Link:<a href="https://paulvittles.medium.com/good-practice-principles-for-deliberative-participative-democracy-shared-principles-with-c5fc28a786df" target="_blank" rel="noopener noreferrer nofollow">https://paulvittles.medium.com/good-practice-principles-for-deliberative-participative-democracy-shared-principles-with-c5fc28a786df</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>practice principles for deliberative &amp; participative...The OECD (and others) have suggested we promote and support innovation in democra...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: globalgovernmentforum.com  
    Title: behavioural insights have taken root in governments oecd report  
-   Link: <a href="https://www.globalgovernmentforum.com/behavioural-insights-have-taken-root-in-governments-oecd-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.globalgovernmentforum.com/behavioural-insights-have-taken-root-in-governments-oecd-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioural insights &#x27;have taken root&#x27; in governments12 Apr 2017 — The use of &#x27;behavioural insight&#x27; techniques in public policy is enteri...</p></details>
+   Link:<a href="https://www.globalgovernmentforum.com/behavioural-insights-have-taken-root-in-governments-oecd-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.globalgovernmentforum.com/behavioural-insights-have-taken-root-in-governments-oecd-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioural insights &#x27;have taken root&#x27; in governments12 Apr 2017 — The use of &#x27;behavioural insight&#x27; techniques in public policy is enteri...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: publicpolicy.ie  
-   Link: <a href="https://publicpolicy.ie/environment/nudges-and-other-behavioural-public-policy-instruments-to-encourage-environmentally-friendly-behaviour/" target="_blank" rel="noopener noreferrer nofollow">https://publicpolicy.ie/environment/nudges-and-other-behavioural-public-policy-instruments-to-encourage-environmentally-friendly-behaviour/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nticipate how people actually react to policies and to design behaviourally informed...Read more...</p></details>
+   Link:<a href="https://publicpolicy.ie/environment/nudges-and-other-behavioural-public-policy-instruments-to-encourage-environmentally-friendly-behaviour/" target="_blank" rel="noopener noreferrer nofollow">https://publicpolicy.ie/environment/nudges-and-other-behavioural-public-policy-instruments-to-encourage-environmentally-friendly-behaviour/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nticipate how people actually react to policies and to design behaviourally informed...Read more...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: bar.anpad.org.br  
    Title: Behavioural insights and public policy: Lessons from around the world.Read more  
-   Link: <a href="https://bar.anpad.org.br/index.php/bar/article/view/580/507" target="_blank" rel="noopener noreferrer nofollow">https://bar.anpad.org.br/index.php/bar/article/view/580/507</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Tax Compliance in the wild: Critical review of nudging...by HC Carvalho · 2023 · Cited by 5 — Most OECD countries have implemented in...</p></details>
+   Link:<a href="https://bar.anpad.org.br/index.php/bar/article/view/580/507" target="_blank" rel="noopener noreferrer nofollow">https://bar.anpad.org.br/index.php/bar/article/view/580/507</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Tax Compliance in the wild: Critical review of nudging...by HC Carvalho · 2023 · Cited by 5 — Most OECD countries have implemented in...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: resolve.cambridge.org  
    Title: Most policy mak- ers, insofar as they were concerned with studies.Read more  
-   Link: <a href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/87141221C86C1A52B76C0AB068A2D046/9781108425636c28_414-427.pdf/behavioral_insights_public_policy_and_human_rights.pdf" target="_blank" rel="noopener noreferrer nofollow">https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/87141221C86C1A52B76C0AB068A2D046/9781108425636c28_414-427.pdf/behavioral_insights_public_policy_and_human_rights.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cambridge.org28 Behavioral Insights, Public Policy, and Human RightsUntil relatively recently, psychology did not play a major part in pu...</p></details>
+   Link:<a href="https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/87141221C86C1A52B76C0AB068A2D046/9781108425636c28_414-427.pdf/behavioral_insights_public_policy_and_human_rights.pdf" target="_blank" rel="noopener noreferrer nofollow">https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/87141221C86C1A52B76C0AB068A2D046/9781108425636c28_414-427.pdf/behavioral_insights_public_policy_and_human_rights.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cambridge.org28 Behavioral Insights, Public Policy, and Human RightsUntil relatively recently, psychology did not play a major part in pu...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: bm.wel.by  
-   Link: <a href="https://bm.wel.by/2021/03/15/oecd-good-practice-principles-for-data-ethics-in-the-public-sector/" target="_blank" rel="noopener noreferrer nofollow">https://bm.wel.by/2021/03/15/oecd-good-practice-principles-for-data-ethics-in-the-public-sector/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Good Practice Principles for Data Ethics in the Public...Mar 15, 2021 — Citizens expect more: transparency, fairness, inclusion, and acc...</p></details>
+   Link:<a href="https://bm.wel.by/2021/03/15/oecd-good-practice-principles-for-data-ethics-in-the-public-sector/" target="_blank" rel="noopener noreferrer nofollow">https://bm.wel.by/2021/03/15/oecd-good-practice-principles-for-data-ethics-in-the-public-sector/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Good Practice Principles for Data Ethics in the Public...Mar 15, 2021 — Citizens expect more: transparency, fairness, inclusion, and acc...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: oneplanetnetwork.org  
-   Link: <a href="https://www.oneplanetnetwork.org/sites/default/files/from-crm/BASIC-Toolkit-web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oneplanetnetwork.org/sites/default/files/from-crm/BASIC-Toolkit-web.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TOOLS AND ETHICS FOR APPLIED BEHAVIOURAL...Issues around privacy, consent and ethics of applying certain solutions to only some groups c...</p></details>
+   Link:<a href="https://www.oneplanetnetwork.org/sites/default/files/from-crm/BASIC-Toolkit-web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.oneplanetnetwork.org/sites/default/files/from-crm/BASIC-Toolkit-web.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TOOLS AND ETHICS FOR APPLIED BEHAVIOURAL...Issues around privacy, consent and ethics of applying certain solutions to only some groups c...</p></details>

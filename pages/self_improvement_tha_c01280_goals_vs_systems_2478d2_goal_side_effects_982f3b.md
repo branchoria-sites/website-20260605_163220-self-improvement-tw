@@ -277,13 +277,13 @@ image: /assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_goal_s
 Goals can be powerful motivators, but they have a weakness that is often overlooked: they do not just direct behaviour, they define what gets rewarded. When a target becomes the main measure of success, people naturally focus on whatever improves that measure, even if it undermines the deeper purpose behind it. This is one of the most important reasons why self-improvement efforts sometimes produce disappointing results. A weight-loss target can encourage crash dieting. A reading target can encourage skimming. A savings target can encourage excessive frugality that damages quality of life.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_goal_side_effects_982f3b-Illustration-1-dark.svg" | relative_url }}" alt="Goal Side Effects illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_goal_side_effects_982f3b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_goal_side_effects_982f3b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The problem is not that goals are useless. Research on goal-setting consistently shows that specific, challenging goals can improve performance. The problem arises when the goal becomes so dominant that it crowds out other values, signals and [feedback]({{ 'feedback/' | relative_url }}). Researchers have described this as a recurring side effect of narrowly defined goals, while economists and social scientists often discuss the same mechanism through Goodhart's Law: when a measure becomes a target, it stops being a reliable measure of what you actually care about. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Goal_setting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Goal setting</span><span class="citation-popover-snippet">Goal setting</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Goodhart%27s_law" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Goodhart&#x27;s law</span><span class="citation-popover-snippet">Goodhart&#x27;s law</span></span></span>
+The problem is not that goals are useless. Research on goal-setting consistently shows that specific, challenging goals can improve performance. The problem arises when the goal becomes so dominant that it crowds out other values, signals and [feedback]({{ 'feedback/' | relative_url }}). Researchers have described this as a recurring side effect of narrowly defined goals, while economists and social scientists often discuss the same mechanism through Goodhart's Law: when a measure becomes a target, it stops being a reliable measure of what you actually care about.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Goal_setting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Goal setting</span><span class="citation-popover-snippet">Goal setting</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Goodhart%27s_law" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Goodhart&#x27;s law</span><span class="citation-popover-snippet">Goodhart&#x27;s law</span></span></span>
 
 ## Why Narrow Targets Distort Attention
 
 Achievement goals work by focusing attention. That is usually their strength. The same mechanism, however, can become a weakness.
 
-When a target is highly visible, people devote more mental resources to actions that improve that target and fewer resources to everything else. Goal-setting researchers have repeatedly noted that goals channel attention towards goal-relevant activities. The risk is that important non-goal activities become less visible simply because they are not being measured. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.aom.org/doi/10.5465/AMP.2009.37007999" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.aom.org">[Academy of Management Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.aom.org</span><span class="citation-popover-snippet">Academy of Management JournalsThe Systematic Side Effects of Overprescribing Goal Settingby LD Ordóñez · 2009 · Cited by 1157 — There are...</span></span></span>
+When a target is highly visible, people devote more mental resources to actions that improve that target and fewer resources to everything else. Goal-setting researchers have repeatedly noted that goals channel attention towards goal-relevant activities. The risk is that important non-goal activities become less visible simply because they are not being measured.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.aom.org/doi/10.5465/AMP.2009.37007999" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.aom.org">[Academy of Management Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.aom.org</span><span class="citation-popover-snippet">Academy of Management JournalsThe Systematic Side Effects of Overprescribing Goal Settingby LD Ordóñez · 2009 · Cited by 1157 — There are...</span></span></span>
 
 Consider a simple personal example. Suppose someone sets a goal of reading fifty books this year. The target may increase reading time, which is good. But it can also subtly change behaviour:
 
@@ -297,7 +297,7 @@ Consider a simple personal example. Suppose someone sets a goal of reading fifty
 
 The original objective might have been intellectual growth. The measurement became book count. Once book count dominates attention, behaviour shifts towards improving the number rather than improving understanding.
 
-This pattern appears so frequently that it has its own principle. Goodhart's Law states that when a measure becomes a target, it ceases to be a good measure. The metric begins to shape behaviour rather than merely describe it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8490751/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Missed, Self Hit: Goal-Setting, Goal-Failure, and Their...by J Höpfner · 2021 · Cited by 94 — For example, goals can narrow the attentio...</span></span></span>
+This pattern appears so frequently that it has its own principle. Goodhart's Law states that when a measure becomes a target, it ceases to be a good measure. The metric begins to shape behaviour rather than merely describe it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8490751/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Missed, Self Hit: Goal-Setting, Goal-Failure, and Their...by J Höpfner · 2021 · Cited by 94 — For example, goals can narrow the attentio...</span></span></span>
 
 The key insight for self-improvement is that the problem is often invisible. People believe they are pursuing the goal they originally chose, while their daily decisions are increasingly optimised for the metric attached to it.
 
@@ -305,7 +305,7 @@ The key insight for self-improvement is that the problem is often invisible. Peo
 
 The distortion becomes stronger when [rewards]({{ 'rewards/' | relative_url }}), status or self-worth become attached to the target.
 
-Research examining the darker side of [goal setting]({{ 'goal-setting/' | relative_url }}) has identified several recurring effects. Narrow goals can increase risk-taking, encourage unethical shortcuts, reduce learning and cause people to neglect important outcomes that are not explicitly measured. Academy of Management Journals <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hbs.edu/ris/Publication%20Files/09-083.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbs.edu">[Harvard Business School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbs.edu</span><span class="citation-popover-snippet">Harvard Business SchoolGoals Gone Wild: The Systematic Side Effects of Over-...by LD Ordóñez · 2009 · Cited by 1157 — We identify specif...</span></span></span>
+Research examining the darker side of [goal setting]({{ 'goal-setting/' | relative_url }}) has identified several recurring effects. Narrow goals can increase risk-taking, encourage unethical shortcuts, reduce learning and cause people to neglect important outcomes that are not explicitly measured. Academy of Management Journals<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hbs.edu/ris/Publication%20Files/09-083.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbs.edu">[Harvard Business School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbs.edu</span><span class="citation-popover-snippet">Harvard Business SchoolGoals Gone Wild: The Systematic Side Effects of Over-...by LD Ordóñez · 2009 · Cited by 1157 — We identify specif...</span></span></span>
 
 The mechanism is straightforward:
 
@@ -336,7 +336,7 @@ Discussions of goal side effects often focus on organisations, but the same mech
 
 A student may set a target of achieving a particular exam score. As the exam approaches, activities that raise the score become increasingly attractive.
 
-That can be useful when the score genuinely reflects mastery. However, if practice tests and memorisation tricks produce faster gains than deep understanding, the student may optimise for performance rather than knowledge. Educational researchers have long observed similar effects when schools are judged heavily by test results, encouraging teaching aimed at the test rather than broader learning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://daisychristodoulou.com/2013/11/exams-and-goodharts-law/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: daisychristodoulou.com">[Daisy Christodoulou]</a><span class="citation-popover" role="note"><span class="citation-popover-source">daisychristodoulou.com</span><span class="citation-popover-title">Exactly the same has happened with the 5 A*-C including</span><span class="citation-popover-snippet">Daisy ChristodoulouExams and Goodhart&#x27;s Law - Daisy...November 16, 2013 — 16 Nov 2013 — Goodhart&#x27;s Law: when a measure becomes a target...</span><span class="citation-popover-meta">Published: November 16, 2013</span></span></span>
+That can be useful when the score genuinely reflects mastery. However, if practice tests and memorisation tricks produce faster gains than deep understanding, the student may optimise for performance rather than knowledge. Educational researchers have long observed similar effects when schools are judged heavily by test results, encouraging teaching aimed at the test rather than broader learning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://daisychristodoulou.com/2013/11/exams-and-goodharts-law/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: daisychristodoulou.com">[Daisy Christodoulou]</a><span class="citation-popover" role="note"><span class="citation-popover-source">daisychristodoulou.com</span><span class="citation-popover-title">Exactly the same has happened with the 5 A*-C including</span><span class="citation-popover-snippet">Daisy ChristodoulouExams and Goodhart&#x27;s Law - Daisy...November 16, 2013 — 16 Nov 2013 — Goodhart&#x27;s Law: when a measure becomes a target...</span><span class="citation-popover-meta">Published: November 16, 2013</span></span></span>
 
 ### The Productivity Goal That Rewards Busyness
 
@@ -456,272 +456,272 @@ The process goals protect the broader purpose from being sacrificed to the outco
 
 A well-designed goal improves behaviour without narrowing vision so much that everything else disappears. The danger is not ambition. The danger is allowing one number, one milestone or one visible achievement to become the entire definition of success.
 
-When goals start rewarding the wrong thing, people often achieve exactly what they measured and miss what they actually wanted. The most effective self-improvement systems recognise that targets are tools, not truths. They use goals to provide direction while regularly checking whether the behaviour being rewarded still serves the outcome that matters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hbs.edu/ris/Publication%20Files/09-083.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbs.edu">[Harvard Business School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbs.edu</span><span class="citation-popover-snippet">Harvard Business SchoolGoals Gone Wild: The Systematic Side Effects of Over-...by LD Ordóñez · 2009 · Cited by 1157 — We identify specif...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.aom.org/doi/10.5465/AMP.2009.37007999" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.aom.org">[Academy of Management Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.aom.org</span><span class="citation-popover-snippet">Academy of Management JournalsThe Systematic Side Effects of Overprescribing Goal Settingby LD Ordóñez · 2009 · Cited by 1157 — There are...</span></span></span>
+When goals start rewarding the wrong thing, people often achieve exactly what they measured and miss what they actually wanted. The most effective self-improvement systems recognise that targets are tools, not truths. They use goals to provide direction while regularly checking whether the behaviour being rewarded still serves the outcome that matters.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hbs.edu/ris/Publication%20Files/09-083.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbs.edu">[Harvard Business School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbs.edu</span><span class="citation-popover-snippet">Harvard Business SchoolGoals Gone Wild: The Systematic Side Effects of Over-...by LD Ordóñez · 2009 · Cited by 1157 — We identify specif...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.aom.org/doi/10.5465/AMP.2009.37007999" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.aom.org">[Academy of Management Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.aom.org</span><span class="citation-popover-snippet">Academy of Management JournalsThe Systematic Side Effects of Overprescribing Goal Settingby LD Ordóñez · 2009 · Cited by 1157 — There are...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Goals Start Rewarding the Wrong Thing. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Goals Start Rewarding the Wrong Thing. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Encourages focusing on systems rather than obsessive target chasing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Encourages focusing on systems rather than obsessive target chasing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Measure+What+Matters+by+John+Doerr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Measure What Matters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VEtTDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Measure What Matters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Measure+What+Matters+by+John+Doerr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Measure What Matters">Measure What Matters</a>
-        </h4>
-        <p class="fr-book-author">By John Doerr</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Measure+What+Matters+by+John+Doerr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Measure What Matters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VEtTDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Measure What Matters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Measure+What+Matters+by+John+Doerr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Measure What Matters">Measure What Matters</a>
+</h4>
+<p class="fr-book-author">By John Doerr</p>
         
-        <p class="fr-book-desc">Explores how targets can shape behavior and incentives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Measure+What+Matters+by+John+Doerr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how targets can shape behavior and incentives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Measure+What+Matters+by+John+Doerr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Tyranny+of+Metrics+by+Jerry+Z.+Muller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Tyranny of Metrics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J3GYDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Tyranny of Metrics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Tyranny+of+Metrics+by+Jerry+Z.+Muller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Tyranny of Metrics">The Tyranny of Metrics</a>
-        </h4>
-        <p class="fr-book-author">By Jerry Z. Muller</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Tyranny+of+Metrics+by+Jerry+Z.+Muller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Tyranny of Metrics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J3GYDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Tyranny of Metrics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Tyranny+of+Metrics+by+Jerry+Z.+Muller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Tyranny of Metrics">The Tyranny of Metrics</a>
+</h4>
+<p class="fr-book-author">By Jerry Z. Muller</p>
         
-        <p class="fr-book-desc">Directly addresses unintended consequences of target fixation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Tyranny+of+Metrics+by+Jerry+Z.+Muller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses unintended consequences of target fixation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Tyranny+of+Metrics+by+Jerry+Z.+Muller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+One+Thing+by+Gary+Keller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The One Thing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=94ScMQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The One Thing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+One+Thing+by+Gary+Keller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The One Thing">The One Thing</a>
-        </h4>
-        <p class="fr-book-author">By Gary Keller, Jay Papasan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+One+Thing+by+Gary+Keller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The One Thing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=94ScMQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The One Thing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+One+Thing+by+Gary+Keller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The One Thing">The One Thing</a>
+</h4>
+<p class="fr-book-author">By Gary Keller, Jay Papasan</p>
         
-        <p class="fr-book-desc">Helps prioritize meaningful outcomes without excessive metric overload.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+One+Thing+by+Gary+Keller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps prioritize meaningful outcomes without excessive metric overload.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+One+Thing+by+Gary+Keller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Measure+What+Matters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Measure What Matters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Tyranny+of+Metrics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Tyranny of Metrics</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Measure+What+Matters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Measure What Matters</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Tyranny+of+Metrics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Tyranny of Metrics</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-goal-planner-board&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Life &amp; Goal Planner - a 12 Month Journey to Crush Your Goals, Increase Productiv"><img src="{{ '/assets/images/marketplace-covers/e2e53f6c383150ad3187.jpg' | relative_url }}" alt="Listing image for Life &amp; Goal Planner - a 12 Month Journey to Crush Your Goals, Increase Productiv" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-goal-planner-board&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Life &amp; Goal Planner - a 12 Month Journey to Crush Your Goals, Increase Productiv</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-goal-planner-board&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal planner board">Search <span data-ebay-domain-label>eBay.com</span>: goal planner board</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-goal-planner-board&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-goal-planner-board&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Life &amp; Goal Planner - a 12 Month Journey to Crush Your Goals, Increase Productiv"><img src="{{ '/assets/images/marketplace-covers/e2e53f6c383150ad3187.jpg' | relative_url }}" alt="Listing image for Life &amp; Goal Planner - a 12 Month Journey to Crush Your Goals, Increase Productiv" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-goal-planner-board&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Life &amp; Goal Planner - a 12 Month Journey to Crush Your Goals, Increase Productiv</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-goal-planner-board&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal planner board">Search<span data-ebay-domain-label>eBay.com</span>: goal planner board</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-goal-planner-board&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-goal-planner-board&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Luxury Undated Goal Planner for Productivity, Life &amp; Gratitude with Vision Board"><img src="{{ '/assets/images/marketplace-covers/421c322be25340e77028.jpg' | relative_url }}" alt="Listing image for Luxury Undated Goal Planner for Productivity, Life &amp; Gratitude with Vision Board" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-goal-planner-board&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Luxury Undated Goal Planner for Productivity, Life &amp; Gratitude with Vision Board</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-goal-planner-board&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal planner board">Search <span data-ebay-domain-label>eBay.com</span>: goal planner board</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-goal-planner-board&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-goal-planner-board&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Luxury Undated Goal Planner for Productivity, Life &amp; Gratitude with Vision Board"><img src="{{ '/assets/images/marketplace-covers/421c322be25340e77028.jpg' | relative_url }}" alt="Listing image for Luxury Undated Goal Planner for Productivity, Life &amp; Gratitude with Vision Board" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-goal-planner-board&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Luxury Undated Goal Planner for Productivity, Life &amp; Gratitude with Vision Board</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-goal-planner-board&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal planner board">Search<span data-ebay-domain-label>eBay.com</span>: goal planner board</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-goal-planner-board&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-goal-planner-board&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Undated 2026 Goal-Setting Planner with Vision Board, Stickers &amp; Gratitude Pages"><img src="{{ '/assets/images/marketplace-covers/757618d4efd67d62bd03.jpg' | relative_url }}" alt="Listing image for Undated 2026 Goal-Setting Planner with Vision Board, Stickers &amp; Gratitude Pages" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-goal-planner-board&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Undated 2026 Goal-Setting Planner with Vision Board, Stickers &amp; Gratitude Pages</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-goal-planner-board&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal planner board">Search <span data-ebay-domain-label>eBay.com</span>: goal planner board</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-goal-planner-board&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-goal-planner-board&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Undated 2026 Goal-Setting Planner with Vision Board, Stickers &amp; Gratitude Pages"><img src="{{ '/assets/images/marketplace-covers/757618d4efd67d62bd03.jpg' | relative_url }}" alt="Listing image for Undated 2026 Goal-Setting Planner with Vision Board, Stickers &amp; Gratitude Pages" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-goal-planner-board&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Undated 2026 Goal-Setting Planner with Vision Board, Stickers &amp; Gratitude Pages</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-goal-planner-board&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal planner board">Search<span data-ebay-domain-label>eBay.com</span>: goal planner board</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-goal-planner-board&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-goal-planner-board&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manifestation Journal &amp; Vision Board Kit Guided Journal | Goal Planner &amp; Habi..."><img src="{{ '/assets/images/marketplace-covers/60f5a91c4b5487be9092.jpg' | relative_url }}" alt="Listing image for Manifestation Journal &amp; Vision Board Kit Guided Journal | Goal Planner &amp; Habi..." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-goal-planner-board&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Manifestation Journal &amp; Vision Board Kit Guided Journal | Goal Planner &amp; Habi...</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-goal-planner-board&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal planner board">Search <span data-ebay-domain-label>eBay.com</span>: goal planner board</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-goal-planner-board&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-goal-planner-board&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-goal-planner-board&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Manifestation Journal &amp; Vision Board Kit Guided Journal | Goal Planner &amp; Habi..."><img src="{{ '/assets/images/marketplace-covers/60f5a91c4b5487be9092.jpg' | relative_url }}" alt="Listing image for Manifestation Journal &amp; Vision Board Kit Guided Journal | Goal Planner &amp; Habi..." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-goal-planner-board&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Manifestation Journal &amp; Vision Board Kit Guided Journal | Goal Planner &amp; Habi...</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-goal-planner-board&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal planner board">Search<span data-ebay-domain-label>eBay.com</span>: goal planner board</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-goal-planner-board&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=goal+planner+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-goal-planner-board&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Undated Calendar The Motivational Journal Features Space for 20..."><img src="{{ '/assets/images/marketplace-covers/74cc77b1c46199d403d5.jpg' | relative_url }}" alt="Listing image for Habit Tracker Undated Calendar The Motivational Journal Features Space for 20..." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Undated Calendar The Motivational Journal Features Space for 20...</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Undated Calendar The Motivational Journal Features Space for 20..."><img src="{{ '/assets/images/marketplace-covers/74cc77b1c46199d403d5.jpg' | relative_url }}" alt="Listing image for Habit Tracker Undated Calendar The Motivational Journal Features Space for 20..." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Undated Calendar The Motivational Journal Features Space for 20...</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar, 24 Undated Monthly A4 Habit Tracker Pad, Wire-Bound D..."><img src="{{ '/assets/images/marketplace-covers/2781fd9e9858633c2124.jpg' | relative_url }}" alt="Listing image for Habit Tracker Calendar, 24 Undated Monthly A4 Habit Tracker Pad, Wire-Bound D..." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar, 24 Undated Monthly A4 Habit Tracker Pad, Wire-Bound D...</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar, 24 Undated Monthly A4 Habit Tracker Pad, Wire-Bound D..."><img src="{{ '/assets/images/marketplace-covers/2781fd9e9858633c2124.jpg' | relative_url }}" alt="Listing image for Habit Tracker Calendar, 24 Undated Monthly A4 Habit Tracker Pad, Wire-Bound D..." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar, 24 Undated Monthly A4 Habit Tracker Pad, Wire-Bound D...</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar 12‑Month Undated Daily Weekly Monthly Goal Planner A4"><img src="{{ '/assets/images/marketplace-covers/7954881b4b2556a6a539.jpg' | relative_url }}" alt="Listing image for Habit Tracker Calendar 12‑Month Undated Daily Weekly Monthly Goal Planner A4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar 12‑Month Undated Daily Weekly Monthly Goal Planner A4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar 12‑Month Undated Daily Weekly Monthly Goal Planner A4"><img src="{{ '/assets/images/marketplace-covers/7954881b4b2556a6a539.jpg' | relative_url }}" alt="Listing image for Habit Tracker Calendar 12‑Month Undated Daily Weekly Monthly Goal Planner A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar 12‑Month Undated Daily Weekly Monthly Goal Planner A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Floral Habit Tracker Calendar|Monthly Daily Habit Planner|Spiral Desk Organizer"><img src="{{ '/assets/images/marketplace-covers/4490bc55c38326362da3.jpg' | relative_url }}" alt="Listing image for Floral Habit Tracker Calendar|Monthly Daily Habit Planner|Spiral Desk Organizer" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Floral Habit Tracker Calendar|Monthly Daily Habit Planner|Spiral Desk Organizer</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Floral Habit Tracker Calendar|Monthly Daily Habit Planner|Spiral Desk Organizer"><img src="{{ '/assets/images/marketplace-covers/4490bc55c38326362da3.jpg' | relative_url }}" alt="Listing image for Floral Habit Tracker Calendar|Monthly Daily Habit Planner|Spiral Desk Organizer" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Floral Habit Tracker Calendar|Monthly Daily Habit Planner|Spiral Desk Organizer</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-side-effects-when-goals-start-rewarding-the-wrong-thing-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -737,7 +737,7 @@ When goals start rewarding the wrong thing, people often achieve exactly what th
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -757,7 +757,7 @@ When goals start rewarding the wrong thing, people often achieve exactly what th
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -789,7 +789,7 @@ When goals start rewarding the wrong thing, people often achieve exactly what th
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -819,7 +819,7 @@ When goals start rewarding the wrong thing, people often achieve exactly what th
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -877,88 +877,88 @@ When goals start rewarding the wrong thing, people often achieve exactly what th
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Goal setting  
-   Link: <a href="https://en.wikipedia.org/wiki/Goal_setting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Goal_setting</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Goal_setting" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Goal_setting</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Goodhart's law  
-   Link: <a href="https://en.wikipedia.org/wiki/Goodhart%27s_law" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Goodhart%27s_law</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Goodhart%27s_law" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Goodhart%27s_law</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8490751/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8490751/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Missed, Self Hit: Goal-Setting, Goal-Failure, and Their...by J Höpfner · 2021 · Cited by 94 — For example, goals can narrow the attentio...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8490751/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8490751/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missed, Self Hit: Goal-Setting, Goal-Failure, and Their...by J Höpfner · 2021 · Cited by 94 — For example, goals can narrow the attentio...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: hbs.edu  
-   Link: <a href="https://www.hbs.edu/ris/Publication%20Files/09-083.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hbs.edu/ris/Publication%20Files/09-083.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Business SchoolGoals Gone Wild: The Systematic Side Effects of Over-...by LD Ordóñez · 2009 · Cited by 1157 — We identify specif...</p></details>
+   Link:<a href="https://www.hbs.edu/ris/Publication%20Files/09-083.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hbs.edu/ris/Publication%20Files/09-083.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Business SchoolGoals Gone Wild: The Systematic Side Effects of Over-...by LD Ordóñez · 2009 · Cited by 1157 — We identify specif...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: journals.aom.org  
-   Link: <a href="https://journals.aom.org/doi/10.5465/AMP.2009.37007999" target="_blank" rel="noopener noreferrer nofollow">https://journals.aom.org/doi/10.5465/AMP.2009.37007999</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Academy of Management JournalsThe Systematic Side Effects of Overprescribing Goal Settingby LD Ordóñez · 2009 · Cited by 1157 — There are...</p></details>
+   Link:<a href="https://journals.aom.org/doi/10.5465/AMP.2009.37007999" target="_blank" rel="noopener noreferrer nofollow">https://journals.aom.org/doi/10.5465/AMP.2009.37007999</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Academy of Management JournalsThe Systematic Side Effects of Overprescribing Goal Settingby LD Ordóñez · 2009 · Cited by 1157 — There are...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: daisychristodoulou.com  
    Title: Exactly the same has happened with the 5 A*-C including  
-   Link: <a href="https://daisychristodoulou.com/2013/11/exams-and-goodharts-law/" target="_blank" rel="noopener noreferrer nofollow">https://daisychristodoulou.com/2013/11/exams-and-goodharts-law/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Daisy ChristodoulouExams and Goodhart&#x27;s Law - Daisy...November 16, 2013 — 16 Nov 2013 — Goodhart&#x27;s Law: when a measure becomes a target...</p></details>
+   Link:<a href="https://daisychristodoulou.com/2013/11/exams-and-goodharts-law/" target="_blank" rel="noopener noreferrer nofollow">https://daisychristodoulou.com/2013/11/exams-and-goodharts-law/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Daisy ChristodoulouExams and Goodhart&#x27;s Law - Daisy...November 16, 2013 — 16 Nov 2013 — Goodhart&#x27;s Law: when a measure becomes a target...</p></details>
    Published: November 16, 2013  
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/top-content/leadership/team-performance-leadership-strategies/applying-goodhart-s-law-to-leadership-strategies/" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/top-content/leadership/team-performance-leadership-strategies/applying-goodhart-s-law-to-leadership-strategies/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Applying Goodhart&#x27;s Law to Leadership StrategiesQuestion incentive structure: Take time to review what behaviors your rewards and targets...</p></details>
+   Link:<a href="https://www.linkedin.com/top-content/leadership/team-performance-leadership-strategies/applying-goodhart-s-law-to-leadership-strategies/" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/top-content/leadership/team-performance-leadership-strategies/applying-goodhart-s-law-to-leadership-strategies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Applying Goodhart&#x27;s Law to Leadership StrategiesQuestion incentive structure: Take time to review what behaviors your rewards and targets...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/explainlikeimfive/comments/1bp7apj/eli5_what_does_godharts_law_mean/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/1bp7apj/eli5_what_does_godharts_law_mean/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ELI5: What does Godhart&#x27;s law mean?: r/explainlikeimfiveIt goes &quot;When a measure becomes a target, it ceases to be a good measure.&quot; How d...</p></details>
+   Link:<a href="https://www.reddit.com/r/explainlikeimfive/comments/1bp7apj/eli5_what_does_godharts_law_mean/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/1bp7apj/eli5_what_does_godharts_law_mean/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ELI5: What does Godhart&#x27;s law mean?: r/explainlikeimfiveIt goes &quot;When a measure becomes a target, it ceases to be a good measure.&quot; How d...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/reference-guide/philosophy/goal-setting-theory" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/philosophy/goal-setting-theory</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Goal-Setting TheoryLocke and Latham argue that these problems are not an indictment of Goal-Setting Theory, but rather are a result of po...</p></details>
+   Link:<a href="https://thedecisionlab.com/reference-guide/philosophy/goal-setting-theory" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/philosophy/goal-setting-theory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goal-Setting TheoryLocke and Latham argue that these problems are not an indictment of Goal-Setting Theory, but rather are a result of po...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40claus.nisslmueller/goodharts-law-and-the-death-of-honest-metrics-e08cc756f93a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40claus.nisslmueller/goodharts-law-and-the-death-of-honest-metrics-e08cc756f93a</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Goodhart&#x27;s Law and the Death of Honest MetricsExample: public test scores become the target, teaching becomes test-prep, and the scores s...</p></details>
+   Link:<a href="https://medium.com/%40claus.nisslmueller/goodharts-law-and-the-death-of-honest-metrics-e08cc756f93a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40claus.nisslmueller/goodharts-law-and-the-death-of-honest-metrics-e08cc756f93a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goodhart&#x27;s Law and the Death of Honest MetricsExample: public test scores become the target, teaching becomes test-prep, and the scores s...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: changeassociates.com  
-   Link: <a href="https://changeassociates.com/goodharts-law-and-the-illusion-of-progress-in-change-programmes/" target="_blank" rel="noopener noreferrer nofollow">https://changeassociates.com/goodharts-law-and-the-illusion-of-progress-in-change-programmes/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Goodhart&#x27;s Law in change programmesHow Goodhart&#x27;s Law undermines change programmes when metrics become the goal. Plus practical ways to k...</p></details>
+   Link:<a href="https://changeassociates.com/goodharts-law-and-the-illusion-of-progress-in-change-programmes/" target="_blank" rel="noopener noreferrer nofollow">https://changeassociates.com/goodharts-law-and-the-illusion-of-progress-in-change-programmes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goodhart&#x27;s Law in change programmesHow Goodhart&#x27;s Law undermines change programmes when metrics become the goal. Plus practical ways to k...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: modelthinkers.com  
-   Link: <a href="https://modelthinkers.com/mental-model/goodharts-law" target="_blank" rel="noopener noreferrer nofollow">https://modelthinkers.com/mental-model/goodharts-law</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Goodhart&#x27;s LawGoodhart&#x27;s Law is a reminder that measures that become targets will distort behaviours in generally undesirable ways as peo...</p></details>
+   Link:<a href="https://modelthinkers.com/mental-model/goodharts-law" target="_blank" rel="noopener noreferrer nofollow">https://modelthinkers.com/mental-model/goodharts-law</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goodhart&#x27;s LawGoodhart&#x27;s Law is a reminder that measures that become targets will distort behaviours in generally undesirable ways as peo...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/274694075_The_dark_side_of_goal_setting_The_role_of_goals_in_motivating_unethical_behavior" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/274694075_The_dark_side_of_goal_setting_The_role_of_goals_in_motivating_unethical_behavior</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The role of goals in motivating unethical behaviorIn this article we explore the proposition that challenging goals motivate not only con...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/274694075_The_dark_side_of_goal_setting_The_role_of_goals_in_motivating_unethical_behavior" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/274694075_The_dark_side_of_goal_setting_The_role_of_goals_in_motivating_unethical_behavior</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The role of goals in motivating unethical behaviorIn this article we explore the proposition that challenging goals motivate not only con...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: educationlibrary.org  
    Title: Effective goal systems balance ambition with learning, flexibility,  
-   Link: <a href="https://educationlibrary.org/goal-setting-theory-how-clear-goals-drive-[motivation" target="_blank" rel="noopener noreferrer nofollow">https://educationlibrary.org/goal-setting-theory-how-clear-goals-drive-[motivation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Goal Setting Theory: How Clear Goals Drive Motivation and...Aggressive goals can encourage unethical behavior if incentives are poorly d...</p></details>
+   Link:<a href="https://educationlibrary.org/goal-setting-theory-how-clear-goals-drive-[motivation" target="_blank" rel="noopener noreferrer nofollow">https://educationlibrary.org/goal-setting-theory-how-clear-goals-drive-[motivation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goal Setting Theory: How Clear Goals Drive Motivation and...Aggressive goals can encourage unethical behavior if incentives are poorly d...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: psychsafety.com  
    Title: goodharts law campbells law and the cobra effect  
-   Link: <a href="https://psychsafety.com/goodharts-law-campbells-law-and-the-cobra-effect/" target="_blank" rel="noopener noreferrer nofollow">https://psychsafety.com/goodharts-law-campbells-law-and-the-cobra-effect/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Goodhart&#x27;s Law, Campbell&#x27;s Law, and the Cobra Effect.19 Jul 2024 — Goodhart&#x27;s Law is “When a measure becomes a target, it ceases to be a...</p></details>
+   Link:<a href="https://psychsafety.com/goodharts-law-campbells-law-and-the-cobra-effect/" target="_blank" rel="noopener noreferrer nofollow">https://psychsafety.com/goodharts-law-campbells-law-and-the-cobra-effect/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goodhart&#x27;s Law, Campbell&#x27;s Law, and the Cobra Effect.19 Jul 2024 — Goodhart&#x27;s Law is “When a measure becomes a target, it ceases to be a...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/readingnumeracyinterventions/posts/goodharts-lawwhen-a-measure-becomes-a-target-it-ceases-to-be-a-good-measure-this/1204072788402988/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/readingnumeracyinterventions/posts/goodharts-lawwhen-a-measure-becomes-a-target-it-ceases-to-be-a-good-measure-this/1204072788402988/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>it ceases to be a good measure.” The moment schools focus on...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/readingnumeracyinterventions/posts/goodharts-lawwhen-a-measure-becomes-a-target-it-ceases-to-be-a-good-measure-this/1204072788402988/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/readingnumeracyinterventions/posts/goodharts-lawwhen-a-measure-becomes-a-target-it-ceases-to-be-a-good-measure-this/1204072788402988/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>it ceases to be a good measure.” The moment schools focus on...Read more...</p></details>

@@ -268,14 +268,14 @@ image: /assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_ha
 
 ## Introduction
 
-Specific behaviour goals work best when they are challenging enough to require effort but not so difficult that they produce repeated failure. This balance is especially important for beginners. A goal that is too easy may not create meaningful progress, but a goal that is too hard can damage confidence, disrupt consistency and make [abandonment]({{ 'abandonment/' | relative_url }}) more likely. Research on goal-setting consistently finds that specific, difficult goals outperform vague or easy ones, yet that finding comes with an important condition: people must believe the goal is achievable and possess enough skill or knowledge to pursue it effectively. Stanford Medicine PubMed For someone new to a behaviour <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.notion.com/blog/goal-setting-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: notion.com">[notion.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">notion.com</span><span class="citation-popover-title">goal setting theory</span><span class="citation-popover-snippet">What&#x27;s goal-setting theory, and how does it work?1 May 2023 — Latham and Locke&#x27;s goal-setting theory has five rules that provide a...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>, the most effective goal is often not the one that maximises performance immediately. It is the one that creates enough challenge to stimulate growth while allowing enough success to build competence, confidence and continuity.
+Specific behaviour goals work best when they are challenging enough to require effort but not so difficult that they produce repeated failure. This balance is especially important for beginners. A goal that is too easy may not create meaningful progress, but a goal that is too hard can damage confidence, disrupt consistency and make [abandonment]({{ 'abandonment/' | relative_url }}) more likely. Research on goal-setting consistently finds that specific, difficult goals outperform vague or easy ones, yet that finding comes with an important condition: people must believe the goal is achievable and possess enough skill or knowledge to pursue it effectively. Stanford Medicine PubMed For someone new to a behaviour<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.notion.com/blog/goal-setting-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: notion.com">[notion.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">notion.com</span><span class="citation-popover-title">goal setting theory</span><span class="citation-popover-snippet">What&#x27;s goal-setting theory, and how does it work?1 May 2023 — Latham and Locke&#x27;s goal-setting theory has five rules that provide a...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>, the most effective goal is often not the one that maximises performance immediately. It is the one that creates enough challenge to stimulate growth while allowing enough success to build competence, confidence and continuity.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_hard_but_doable_goal_a9a42a-Illustration-1-dark.svg" | relative_url }}" alt="Doable Stretch illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_hard_but_doable_goal_a9a42a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0_hard_but_doable_goal_a9a42a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Edge of Current Capacity
 
 The phrase “hard but doable” sounds subjective, but it describes a practical principle. Effective beginner goals usually sit near the edge of current ability rather than far beyond it.
 
-Goal-setting research has repeatedly shown that challenging goals tend to produce higher performance than easy goals. However, goals that are perceived as impossible or disconnected from current capability can become demotivating rather than motivating. The value comes from challenge combined with attainability. Stanford Medicine LyondellBasell Consider three people who want to begin exercising: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lyondellbasell.com/4aeca6/globalassets/sustainability/lifebeats/advancing-health/life/goals/newdirectioningoalsetting_locke-et-al..pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lyondellbasell.com">[lyondellbasell.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lyondellbasell.com</span><span class="citation-popover-title">newdirectioningoalsetting locke et al</span><span class="citation-popover-snippet">New Directions in Goal-Setting Theoryby EA Locke · Cited by 4032 — These studies showed that specific, high (hard) goals le...</span></span></span>
+Goal-setting research has repeatedly shown that challenging goals tend to produce higher performance than easy goals. However, goals that are perceived as impossible or disconnected from current capability can become demotivating rather than motivating. The value comes from challenge combined with attainability. Stanford Medicine LyondellBasell Consider three people who want to begin exercising:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lyondellbasell.com/4aeca6/globalassets/sustainability/lifebeats/advancing-health/life/goals/newdirectioningoalsetting_locke-et-al..pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lyondellbasell.com">[lyondellbasell.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lyondellbasell.com</span><span class="citation-popover-title">newdirectioningoalsetting locke et al</span><span class="citation-popover-snippet">New Directions in Goal-Setting Theoryby EA Locke · Cited by 4032 — These studies showed that specific, high (hard) goals le...</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -289,7 +289,7 @@ For a sedentary beginner, the second goal may sound ambitious but can quickly pr
 
 The key question is not, “What would an advanced person do?” It is, “What would stretch me by roughly one step beyond what I already do?”
 
-This distinction matters because early success creates evidence that improvement is possible. According to Albert Bandura’s work on self-efficacy, successful performance experiences are among the strongest sources of confidence in future performance. Repeated success builds belief that effort can produce results. Repeated failure often produces the opposite effect. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://educational-innovation.sydney.edu.au/news/pdfs/Bandura%201977.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educational-innovation.sydney.edu.au">[2educational-innovation.sydney.edu.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educational-innovation.sydney.edu.au</span><span class="citation-popover-snippet">1977). Self-Efficacyby A Bandura · Cited by 132145 — In the enhancement of previously learned behavior, reinforcement is conceived of ma...</span></span></span>
+This distinction matters because early success creates evidence that improvement is possible. According to Albert Bandura’s work on self-efficacy, successful performance experiences are among the strongest sources of confidence in future performance. Repeated success builds belief that effort can produce results. Repeated failure often produces the opposite effect. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://educational-innovation.sydney.edu.au/news/pdfs/Bandura%201977.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educational-innovation.sydney.edu.au">[2educational-innovation.sydney.edu.au]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educational-innovation.sydney.edu.au</span><span class="citation-popover-snippet">1977). Self-Efficacyby A Bandura · Cited by 132145 — In the enhancement of previously learned behavior, reinforcement is conceived of ma...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TKVAGxoU2AM" title="How to set goals you&#x27;ll actually accomplish | Chuck Wachendorfer | TEDxGreenhouse Road" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TKVAGxoU2AM" target="_blank" rel="noopener noreferrer">How to set goals you&#x27;ll actually accomplish | Chuck Wachendorfer | TEDxGreenhouse Road</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 2.1M &middot; Uploaded: February 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TKVAGxoU2AM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TKVAGxoU2AM">Open on YouTube</a></p></div></div></div>
 
@@ -318,15 +318,15 @@ Learning goals focus on acquiring skill and competence:
 
 </div>
 
-Research on achievement goals distinguishes between performance-oriented goals and learning-oriented goals. Learning goals can be especially valuable when a task is unfamiliar or complex because they direct attention toward skill development rather than immediate results. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8490751/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Goal Missed, Self Hit: Goal-Setting, Goal-Failure, and Their...by J Höpfner · 2021 · Cited by 103 — Achievement goal theory states th...</span></span></span>
+Research on achievement goals distinguishes between performance-oriented goals and learning-oriented goals. Learning goals can be especially valuable when a task is unfamiliar or complex because they direct attention toward skill development rather than immediate results.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8490751/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Goal Missed, Self Hit: Goal-Setting, Goal-Failure, and Their...by J Höpfner · 2021 · Cited by 103 — Achievement goal theory states th...</span></span></span>
 
 A beginner guitarist illustrates the difference well.
 
-A performance goal might be: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lyondellbasell.com/4aeca6/globalassets/sustainability/lifebeats/advancing-health/life/goals/newdirectioningoalsetting_locke-et-al..pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lyondellbasell.com">[lyondellbasell.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lyondellbasell.com</span><span class="citation-popover-title">newdirectioningoalsetting locke et al</span><span class="citation-popover-snippet">New Directions in Goal-Setting Theoryby EA Locke · Cited by 4032 — These studies showed that specific, high (hard) goals le...</span></span></span>
+A performance goal might be:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lyondellbasell.com/4aeca6/globalassets/sustainability/lifebeats/advancing-health/life/goals/newdirectioningoalsetting_locke-et-al..pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lyondellbasell.com">[lyondellbasell.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lyondellbasell.com</span><span class="citation-popover-title">newdirectioningoalsetting locke et al</span><span class="citation-popover-snippet">New Directions in Goal-Setting Theoryby EA Locke · Cited by 4032 — These studies showed that specific, high (hard) goals le...</span></span></span>
 
 > Play a difficult song perfectly within two weeks.
 
-A learning goal might be: <span class="citation-chip-wrap"><a class="citation-chip" href="https://sk.sagepub.com/hnbk/edvol/the-sage-handbook-of-industrial-work-and-org-psychology-vol2/chpt/7-goal-setting-theory-controversies-resolutions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sk.sagepub.com">[sk.sagepub.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sk.sagepub.com</span><span class="citation-popover-snippet">SAGE PublishingGoal Setting Theory: Controversies and ResolutionsConsistent with goal setting theory, specific, high learning goals lead...</span></span></span>
+A learning goal might be:<span class="citation-chip-wrap"><a class="citation-chip" href="https://sk.sagepub.com/hnbk/edvol/the-sage-handbook-of-industrial-work-and-org-psychology-vol2/chpt/7-goal-setting-theory-controversies-resolutions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sk.sagepub.com">[sk.sagepub.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sk.sagepub.com</span><span class="citation-popover-snippet">SAGE PublishingGoal Setting Theory: Controversies and ResolutionsConsistent with goal setting theory, specific, high learning goals lead...</span></span></span>
 
 > Practise chord transitions for fifteen minutes on five days this week.
 
@@ -349,7 +349,7 @@ In practice, beginners frequently experience three predictable problems when goa
 
 **The behaviour becomes associated with stress.** Instead of building a positive habit, the person learns to associate the activity with guilt, pressure or exhaustion.
 
-Research on self-efficacy and habit formation suggests that confidence and successful repetition play important roles in sustained [behaviour change]({{ 'behaviour-change/' | relative_url }}). People who experience mastery and competence are more likely to continue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.643753/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">We analyzed event sampling data from a habit building app we created</span><span class="citation-popover-snippet">FrontiersSelf-Efficacy in Habit Building: How General and...May 7, 2021 — by M Stojanovic · 2021 · Cited by 42 — In this paper, we inves...</span><span class="citation-popover-meta">Published: May 7, 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8490751/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Goal Missed, Self Hit: Goal-Setting, Goal-Failure, and Their...by J Höpfner · 2021 · Cited by 103 — Achievement goal theory states th...</span></span></span>
+Research on self-efficacy and habit formation suggests that confidence and successful repetition play important roles in sustained [behaviour change]({{ 'behaviour-change/' | relative_url }}). People who experience mastery and competence are more likely to continue.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.643753/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-title">We analyzed event sampling data from a habit building app we created</span><span class="citation-popover-snippet">FrontiersSelf-Efficacy in Habit Building: How General and...May 7, 2021 — by M Stojanovic · 2021 · Cited by 42 — In this paper, we inves...</span><span class="citation-popover-meta">Published: May 7, 2021</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8490751/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Goal Missed, Self Hit: Goal-Setting, Goal-Failure, and Their...by J Höpfner · 2021 · Cited by 103 — Achievement goal theory states th...</span></span></span>
 
 This helps explain why a beginner who reads five pages every evening often progresses further over a year than someone who attempts to read fifty pages daily and quits after two weeks.
 
@@ -390,7 +390,7 @@ Once consistency improves, the goal can be expanded again.
 
 This approach preserves the behaviour while adjusting the demand level. It treats failure as [feedback]({{ 'feedback/' | relative_url }}) rather than proof of inability.
 
-Goal-setting theory identifies feedback as a critical component of effective goals because feedback allows people to compare current performance against the target and modify strategy accordingly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.notion.com/blog/goal-setting-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: notion.com">[Notion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">notion.com</span><span class="citation-popover-title">goal setting theory</span><span class="citation-popover-snippet">What&#x27;s goal-setting theory, and how does it work?1 May 2023 — Latham and Locke&#x27;s goal-setting theory has five rules that provide a...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+Goal-setting theory identifies feedback as a critical component of effective goals because feedback allows people to compare current performance against the target and modify strategy accordingly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.notion.com/blog/goal-setting-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: notion.com">[Notion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">notion.com</span><span class="citation-popover-title">goal setting theory</span><span class="citation-popover-snippet">What&#x27;s goal-setting theory, and how does it work?1 May 2023 — Latham and Locke&#x27;s goal-setting theory has five rules that provide a...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 The important lesson is that a failed goal does not automatically indicate a weak person. It may indicate an inaccurate estimate of current capacity.
 
@@ -411,185 +411,185 @@ A goal is often at the right difficulty level when several conditions are presen
 
 </div>
 
-These characteristics align with the broader finding that specific and challenging goals outperform vague intentions, provided they remain accepted and achievable by the person pursuing them. Stanford Medicine <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elgaronline.com/monochap/book/9781800377943/book-part-9781800377943-13.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elgaronline.com">[Elgar Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elgaronline.com</span><span class="citation-popover-snippet">urging people to do their best. Effect sizes in meta-analyses range...Read more...</span></span></span>
+These characteristics align with the broader finding that specific and challenging goals outperform vague intentions, provided they remain accepted and achievable by the person pursuing them. Stanford Medicine<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elgaronline.com/monochap/book/9781800377943/book-part-9781800377943-13.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elgaronline.com">[Elgar Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elgaronline.com</span><span class="citation-popover-snippet">urging people to do their best. Effect sizes in meta-analyses range...Read more...</span></span></span>
 
 For beginners, the ideal goal is rarely the most ambitious version imaginable. It is the version that stretches current ability while remaining repeatable. That balance creates skill, confidence and momentum—the foundations that make larger goals possible later.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ICLG8VdnHO0" title="How to Set Clear, Realistic Goals" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ICLG8VdnHO0" target="_blank" rel="noopener noreferrer">How to Set Clear, Realistic Goals</a></p><p class="youtube-embed-meta">Channel: Management Courses - Mike Clayton &middot; Views: 1.3K &middot; Uploaded: October 2024 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ICLG8VdnHO0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ICLG8VdnHO0">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Specific Goals Get Too Hard. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Specific Goals Get Too Hard. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Carol S. Dweck</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
-        <p class="fr-book-desc">Explains learning goals, challenge levels, and responding to setbacks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
+</h4>
+<p class="fr-book-author">By Carol S. Dweck</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
+<p class="fr-book-desc">Explains learning goals, challenge levels, and responding to setbacks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Grit+by+Angela+Duckworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Grit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SQYeDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Grit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Grit+by+Angela+Duckworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Grit">Grit</a>
-        </h4>
-        <p class="fr-book-author">By Angela Duckworth</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Grit+by+Angela+Duckworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Grit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SQYeDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Grit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Grit+by+Angela+Duckworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Grit">Grit</a>
+</h4>
+<p class="fr-book-author">By Angela Duckworth</p>
         
-        <p class="fr-book-desc">Addresses sustaining effort on challenging but achievable goals.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Grit+by+Angela+Duckworth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses sustaining effort on challenging but achievable goals.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Grit+by+Angela+Duckworth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Shows how to scale behaviour change and recover after failure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Shows how to scale behaviour change and recover after failure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peak on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eHfkCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Peak" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peak">Peak</a>
-        </h4>
-        <p class="fr-book-author">By Anders Ericsson, Robert Pool</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peak on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eHfkCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Peak" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peak">Peak</a>
+</h4>
+<p class="fr-book-author">By Anders Ericsson, Robert Pool</p>
         
-        <p class="fr-book-desc">Focuses on progressive challenge near the edge of current ability.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on progressive challenge near the edge of current ability.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Grit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Grit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Grit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Grit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-    </div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=doable-stretch-when-specific-goals-get-too-hard-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Challenge motivational poster 36 x 24 inches free shipping"><img src="{{ '/assets/images/marketplace-covers/18bc1ddc6aab15d58da5.jpg' | relative_url }}" alt="Listing image for Challenge motivational poster 36 x 24 inches free shipping" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=doable-stretch-when-specific-goals-get-too-hard-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Challenge motivational poster 36 x 24 inches free shipping</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=doable-stretch-when-specific-goals-get-too-hard-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.com</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=doable-stretch-when-specific-goals-get-too-hard-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=doable-stretch-when-specific-goals-get-too-hard-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Challenge motivational poster 36 x 24 inches free shipping"><img src="{{ '/assets/images/marketplace-covers/18bc1ddc6aab15d58da5.jpg' | relative_url }}" alt="Listing image for Challenge motivational poster 36 x 24 inches free shipping" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=doable-stretch-when-specific-goals-get-too-hard-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Challenge motivational poster 36 x 24 inches free shipping</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=doable-stretch-when-specific-goals-get-too-hard-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search<span data-ebay-domain-label>eBay.com</span>: motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=doable-stretch-when-specific-goals-get-too-hard-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=doable-stretch-when-specific-goals-get-too-hard-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hang In There Cat Motivational Vintage Poster"><img src="{{ '/assets/images/marketplace-covers/4af89d6ea9027e5afd06.jpg' | relative_url }}" alt="Listing image for Hang In There Cat Motivational Vintage Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=doable-stretch-when-specific-goals-get-too-hard-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Hang In There Cat Motivational Vintage Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=doable-stretch-when-specific-goals-get-too-hard-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.com</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=doable-stretch-when-specific-goals-get-too-hard-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=doable-stretch-when-specific-goals-get-too-hard-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hang In There Cat Motivational Vintage Poster"><img src="{{ '/assets/images/marketplace-covers/4af89d6ea9027e5afd06.jpg' | relative_url }}" alt="Listing image for Hang In There Cat Motivational Vintage Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=doable-stretch-when-specific-goals-get-too-hard-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Hang In There Cat Motivational Vintage Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=doable-stretch-when-specific-goals-get-too-hard-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search<span data-ebay-domain-label>eBay.com</span>: motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=doable-stretch-when-specific-goals-get-too-hard-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=doable-stretch-when-specific-goals-get-too-hard-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quotes Success Mindset Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/32e39242372f242900ec.jpg' | relative_url }}" alt="Listing image for Motivational Quotes Success Mindset Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=doable-stretch-when-specific-goals-get-too-hard-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quotes Success Mindset Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=doable-stretch-when-specific-goals-get-too-hard-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.com</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=doable-stretch-when-specific-goals-get-too-hard-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=doable-stretch-when-specific-goals-get-too-hard-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quotes Success Mindset Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/32e39242372f242900ec.jpg' | relative_url }}" alt="Listing image for Motivational Quotes Success Mindset Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=doable-stretch-when-specific-goals-get-too-hard-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quotes Success Mindset Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=doable-stretch-when-specific-goals-get-too-hard-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search<span data-ebay-domain-label>eBay.com</span>: motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=doable-stretch-when-specific-goals-get-too-hard-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=doable-stretch-when-specific-goals-get-too-hard-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Michael Make It Happen Motivational Unframed Poster Basketball Home Deco"><img src="{{ '/assets/images/marketplace-covers/ef54b23105145bc0a6ab.jpg' | relative_url }}" alt="Listing image for Michael Make It Happen Motivational Unframed Poster Basketball Home Deco" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=doable-stretch-when-specific-goals-get-too-hard-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Michael Make It Happen Motivational Unframed Poster Basketball Home Deco</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=doable-stretch-when-specific-goals-get-too-hard-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.com</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=doable-stretch-when-specific-goals-get-too-hard-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=doable-stretch-when-specific-goals-get-too-hard-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=doable-stretch-when-specific-goals-get-too-hard-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Michael Make It Happen Motivational Unframed Poster Basketball Home Deco"><img src="{{ '/assets/images/marketplace-covers/ef54b23105145bc0a6ab.jpg' | relative_url }}" alt="Listing image for Michael Make It Happen Motivational Unframed Poster Basketball Home Deco" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=doable-stretch-when-specific-goals-get-too-hard-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Michael Make It Happen Motivational Unframed Poster Basketball Home Deco</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=doable-stretch-when-specific-goals-get-too-hard-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search<span data-ebay-domain-label>eBay.com</span>: motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=doable-stretch-when-specific-goals-get-too-hard-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=doable-stretch-when-specific-goals-get-too-hard-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -605,7 +605,7 @@ For beginners, the ideal goal is rarely the most ambitious version imaginable. I
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -625,7 +625,7 @@ For beginners, the ideal goal is rarely the most ambitious version imaginable. I
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -657,7 +657,7 @@ For beginners, the ideal goal is rarely the most ambitious version imaginable. I
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -687,7 +687,7 @@ For beginners, the ideal goal is rarely the most ambitious version imaginable. I
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -745,120 +745,120 @@ For beginners, the ideal goal is rarely the most ambitious version imaginable. I
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: med.stanford.edu  
-   Link: <a href="https://med.stanford.edu/content/dam/sm/s-spire/documents/PD.locke-and-latham-retrospective_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://med.stanford.edu/content/dam/sm/s-spire/documents/PD.locke-and-latham-retrospective_Paper.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford MedicineBuilding a Practically Useful Theory of [Goal Setting](&amp;#123;&amp;#123; &#x27;goal-setting/&#x27; | relative_url &amp;#125;&amp;#125;) and...by EA Locke · 2002 · Cited by 15548 — We found that specific...</p></details>
+   Link:<a href="https://med.stanford.edu/content/dam/sm/s-spire/documents/PD.locke-and-latham-retrospective_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://med.stanford.edu/content/dam/sm/s-spire/documents/PD.locke-and-latham-retrospective_Paper.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford MedicineBuilding a Practically Useful Theory of [Goal Setting](&amp;#123;&amp;#123; &#x27;goal-setting/&#x27; | relative_url &amp;#125;&amp;#125;) and...by EA Locke · 2002 · Cited by 15548 — We found that specific...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: lyondellbasell.com  
    Title: newdirectioningoalsetting locke et al  
-   Link: <a href="https://www.lyondellbasell.com/4aeca6/globalassets/sustainability/lifebeats/advancing-health/life/goals/newdirectioningoalsetting_locke-et-al..pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lyondellbasell.com/4aeca6/globalassets/sustainability/lifebeats/advancing-health/life/goals/newdirectioningoalsetting_locke-et-al..pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>New Directions in Goal-Setting Theoryby EA Locke · Cited by 4032 — These studies showed that specific, high (hard) goals le...</p></details>
+   Link:<a href="https://www.lyondellbasell.com/4aeca6/globalassets/sustainability/lifebeats/advancing-health/life/goals/newdirectioningoalsetting_locke-et-al..pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lyondellbasell.com/4aeca6/globalassets/sustainability/lifebeats/advancing-health/life/goals/newdirectioningoalsetting_locke-et-al..pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Directions in Goal-Setting Theoryby EA Locke · Cited by 4032 — These studies showed that specific, high (hard) goals le...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: educational-innovation.sydney.edu.au  
-   Link: <a href="https://educational-innovation.sydney.edu.au/news/pdfs/Bandura%201977.pdf" target="_blank" rel="noopener noreferrer nofollow">https://educational-innovation.sydney.edu.au/news/pdfs/Bandura%201977.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(1977). Self-Efficacyby A Bandura · Cited by 132145 — In the enhancement of previously learned behavior, reinforcement is conceived of ma...</p></details>
+   Link:<a href="https://educational-innovation.sydney.edu.au/news/pdfs/Bandura%201977.pdf" target="_blank" rel="noopener noreferrer nofollow">https://educational-innovation.sydney.edu.au/news/pdfs/Bandura%201977.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(1977). Self-Efficacyby A Bandura · Cited by 132145 — In the enhancement of previously learned behavior, reinforcement is conceived of ma...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8490751/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8490751/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Goal Missed, Self Hit: Goal-Setting, Goal-Failure, and Their...by J Höpfner · 2021 · Cited by 103 — Achievement goal theory states th...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8490751/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8490751/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goal Missed, Self Hit: Goal-Setting, Goal-Failure, and Their...by J Höpfner · 2021 · Cited by 103 — Achievement goal theory states th...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: notion.com  
    Title: goal setting theory  
-   Link: <a href="https://www.notion.com/blog/goal-setting-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.notion.com/blog/goal-setting-theory</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s goal-setting theory, and how does it work?1 May 2023 — Latham and Locke&#x27;s goal-setting theory has five rules that provide a...</p></details>
+   Link:<a href="https://www.notion.com/blog/goal-setting-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.notion.com/blog/goal-setting-theory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s goal-setting theory, and how does it work?1 May 2023 — Latham and Locke&#x27;s goal-setting theory has five rules that provide a...</p></details>
    Published: May 2023  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Goal Setting Theory  
-   Link: <a href="https://www.sciencedirect.com/topics/social-sciences/goal-setting-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/social-sciences/goal-setting-theory</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Goal Setting Theory - an overviewA key finding from goal-setting research is that difficult, specific goals that are accepted result in b...</p></details>
+   Link:<a href="https://www.sciencedirect.com/topics/social-sciences/goal-setting-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/social-sciences/goal-setting-theory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goal Setting Theory - an overviewA key finding from goal-setting research is that difficult, specific goals that are accepted result in b...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: frontiersin.org  
    Title: We analyzed event sampling data from a habit building app we created  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.643753/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.643753/full</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersSelf-Efficacy in Habit Building: How General and...May 7, 2021 — by M Stojanovic · 2021 · Cited by 42 — In this paper, we inves...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.643753/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.643753/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersSelf-Efficacy in Habit Building: How General and...May 7, 2021 — by M Stojanovic · 2021 · Cited by 42 — In this paper, we inves...</p></details>
    Published: May 7, 2021  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: elgaronline.com  
-   Link: <a href="https://www.elgaronline.com/monochap/book/9781800377943/book-part-9781800377943-13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.elgaronline.com/monochap/book/9781800377943/book-part-9781800377943-13.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>urging people to do their best. Effect sizes in meta-analyses range...Read more...</p></details>
+   Link:<a href="https://www.elgaronline.com/monochap/book/9781800377943/book-part-9781800377943-13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.elgaronline.com/monochap/book/9781800377943/book-part-9781800377943-13.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>urging people to do their best. Effect sizes in meta-analyses range...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: get-alfred.ai  
    Title: goal setting theory  
-   Link: <a href="https://get-alfred.ai/blog/goal-setting-theory" target="_blank" rel="noopener noreferrer nofollow">https://get-alfred.ai/blog/goal-setting-theory</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Specific, Hard Goals Outperform &#x27;Do...19 Feb 2026 — Locke (1968) showed that specific, difficult goals consistently produce higher p...</p></details>
+   Link:<a href="https://get-alfred.ai/blog/goal-setting-theory" target="_blank" rel="noopener noreferrer nofollow">https://get-alfred.ai/blog/goal-setting-theory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Specific, Hard Goals Outperform &#x27;Do...19 Feb 2026 — Locke (1968) showed that specific, difficult goals consistently produce higher p...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: positivepsychology.com  
    Title: goal setting theory  
-   Link: <a href="https://positivepsychology.com/goal-setting-theory/" target="_blank" rel="noopener noreferrer nofollow">https://positivepsychology.com/goal-setting-theory/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It suggests...Read more...</p></details>
+   Link:<a href="https://positivepsychology.com/goal-setting-theory/" target="_blank" rel="noopener noreferrer nofollow">https://positivepsychology.com/goal-setting-theory/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It suggests...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: au.indeed.com  
    Title: goal setting theory  
-   Link: <a href="https://au.indeed.com/career-advice/career-development/goal-setting-theory" target="_blank" rel="noopener noreferrer nofollow">https://au.indeed.com/career-advice/career-development/goal-setting-theory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Goal-Setting Theory For Workplace Success13 Nov 2025 — The goal-setting theory of motivation, developed by Locke and Latham, explains how...</p></details>
+   Link:<a href="https://au.indeed.com/career-advice/career-development/goal-setting-theory" target="_blank" rel="noopener noreferrer nofollow">https://au.indeed.com/career-advice/career-development/goal-setting-theory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goal-Setting Theory For Workplace Success13 Nov 2025 — The goal-setting theory of motivation, developed by Locke and Latham, explains how...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/reference-guide/philosophy/goal-setting-theory" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/philosophy/goal-setting-theory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Goal-Setting TheoryGoals must be difficult but attainable – there is a spectrum of goal difficulty... Goals should be set somewhere in t...</p></details>
+   Link:<a href="https://thedecisionlab.com/reference-guide/philosophy/goal-setting-theory" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/philosophy/goal-setting-theory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goal-Setting TheoryGoals must be difficult but attainable – there is a spectrum of goal difficulty... Goals should be set somewhere in t...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nobaproject.com  
-   Link: <a href="https://nobaproject.com/modules/self-efficacy" target="_blank" rel="noopener noreferrer nofollow">https://nobaproject.com/modules/self-efficacy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-EfficacySelf-efficacy refers to your beliefs about your ability to effectively perform the tasks needed to attain a valued goal.Read...</p></details>
+   Link:<a href="https://nobaproject.com/modules/self-efficacy" target="_blank" rel="noopener noreferrer nofollow">https://nobaproject.com/modules/self-efficacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-EfficacySelf-efficacy refers to your beliefs about your ability to effectively perform the tasks needed to attain a valued goal.Read...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: sk.sagepub.com  
-   Link: <a href="https://sk.sagepub.com/hnbk/edvol/the-sage-handbook-of-industrial-work-and-org-psychology-vol2/chpt/7-goal-setting-theory-controversies-resolutions" target="_blank" rel="noopener noreferrer nofollow">https://sk.sagepub.com/hnbk/edvol/the-sage-handbook-of-industrial-work-and-org-psychology-vol2/chpt/7-goal-setting-theory-controversies-resolutions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SAGE PublishingGoal Setting Theory: Controversies and ResolutionsConsistent with goal setting theory, specific, high learning goals lead...</p></details>
+   Link:<a href="https://sk.sagepub.com/hnbk/edvol/the-sage-handbook-of-industrial-work-and-org-psychology-vol2/chpt/7-goal-setting-theory-controversies-resolutions" target="_blank" rel="noopener noreferrer nofollow">https://sk.sagepub.com/hnbk/edvol/the-sage-handbook-of-industrial-work-and-org-psychology-vol2/chpt/7-goal-setting-theory-controversies-resolutions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SAGE PublishingGoal Setting Theory: Controversies and ResolutionsConsistent with goal setting theory, specific, high learning goals lead...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: positivepsychology.com  
-   Link: <a href="https://positivepsychology.com/3-ways-build-self-efficacy/" target="_blank" rel="noopener noreferrer nofollow">https://positivepsychology.com/3-ways-build-self-efficacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>To build self-efficacy, set achievable goals, break tasks into smaller steps, visualize success, seek positive role models...Read more...</p></details>
+   Link:<a href="https://positivepsychology.com/3-ways-build-self-efficacy/" target="_blank" rel="noopener noreferrer nofollow">https://positivepsychology.com/3-ways-build-self-efficacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>To build self-efficacy, set achievable goals, break tasks into smaller steps, visualize success, seek positive role models...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: performancemagazine.org  
-   Link: <a href="https://www.performancemagazine.org/an-introduction-to-theory-in-performance-management-goal-setting-theory/" target="_blank" rel="noopener noreferrer nofollow">https://www.performancemagazine.org/an-introduction-to-theory-in-performance-management-goal-setting-theory/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An introduction to theory in Performance Management12 Feb 2010 — Research by Locke and Latham (1990) showed that specific, difficult goal...</p></details>
+   Link:<a href="https://www.performancemagazine.org/an-introduction-to-theory-in-performance-management-goal-setting-theory/" target="_blank" rel="noopener noreferrer nofollow">https://www.performancemagazine.org/an-introduction-to-theory-in-performance-management-goal-setting-theory/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An introduction to theory in Performance Management12 Feb 2010 — Research by Locke and Latham (1990) showed that specific, difficult goal...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: simplypsychology.org  
-   Link: <a href="https://www.simplypsychology.org/self-efficacy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/self-efficacy.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of beliefs that determine how well one can execute a plan of action in prospective situations.Read more...</p></details>
+   Link:<a href="https://www.simplypsychology.org/self-efficacy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/self-efficacy.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of beliefs that determine how well one can execute a plan of action in prospective situations.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: executivecoachcollege.com  
-   Link: <a href="https://www.executivecoachcollege.com/research-and-publications/science-of-effective-goal-setting.php" target="_blank" rel="noopener noreferrer nofollow">https://www.executivecoachcollege.com/research-and-publications/science-of-effective-goal-setting.php</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Clear goals are important, but it is also just as important to set challenging goals.Read more...</p></details>
+   Link:<a href="https://www.executivecoachcollege.com/research-and-publications/science-of-effective-goal-setting.php" target="_blank" rel="noopener noreferrer nofollow">https://www.executivecoachcollege.com/research-and-publications/science-of-effective-goal-setting.php</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Clear goals are important, but it is also just as important to set challenging goals.Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
    Title: 232501090 A Theory of Goal Setting Task Performance  
-   Link: <a href="https://www.researchgate.net/publication/232501090_A_Theory_of_Goal_Setting_Task_Performance" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232501090_A_Theory_of_Goal_Setting_Task_Performance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Theory of Goal Setting &amp; Task PerformanceGoal setting theory (Locke &amp; Latham, 1984, 199Oa) is based on the simplest of introspective ob...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/232501090_A_Theory_of_Goal_Setting_Task_Performance" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232501090_A_Theory_of_Goal_Setting_Task_Performance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Theory of Goal Setting &amp; Task PerformanceGoal setting theory (Locke &amp; Latham, 1984, 199Oa) is based on the simplest of introspective ob...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
    Title: 3. Expecting a new habit to be easy to install. Change isn't easy.Read more  
-   Link: <a href="https://www.facebook.com/TheAtlantic/posts/forming-new-habits-isnt-impossible-but-its-much-easier-for-some-people-than-othe/983241007008643/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheAtlantic/posts/forming-new-habits-isnt-impossible-but-its-much-easier-for-some-people-than-othe/983241007008643/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forming new habits isn&#x27;t impossible, but it&#x27;s much easier for...* Seek behavioral changes that are so easy, you don&#x27;t need self-discipline...</p></details>
+   Link:<a href="https://www.facebook.com/TheAtlantic/posts/forming-new-habits-isnt-impossible-but-its-much-easier-for-some-people-than-othe/983241007008643/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheAtlantic/posts/forming-new-habits-isnt-impossible-but-its-much-easier-for-some-people-than-othe/983241007008643/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forming new habits isn&#x27;t impossible, but it&#x27;s much easier for...* Seek behavioral changes that are so easy, you don&#x27;t need self-discipline...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: heyplumm.com  
-   Link: <a href="https://www.heyplumm.com/wellbeing/the-psychology-of-goal-setting-lessons-in-success-and-failure" target="_blank" rel="noopener noreferrer nofollow">https://www.heyplumm.com/wellbeing/the-psychology-of-goal-setting-lessons-in-success-and-failure</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychology of Goal Setting: Lessons in Success and...1 Dec 2023 — Goal setting is a vital process that helps us grow, learn, and sel...</p></details>
+   Link:<a href="https://www.heyplumm.com/wellbeing/the-psychology-of-goal-setting-lessons-in-success-and-failure" target="_blank" rel="noopener noreferrer nofollow">https://www.heyplumm.com/wellbeing/the-psychology-of-goal-setting-lessons-in-success-and-failure</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychology of Goal Setting: Lessons in Success and...1 Dec 2023 — Goal setting is a vital process that helps us grow, learn, and sel...</p></details>

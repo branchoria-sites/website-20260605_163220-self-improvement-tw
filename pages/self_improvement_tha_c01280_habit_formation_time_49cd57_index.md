@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /self-improvement-tha-c01280-habit/
 description: Focused pages that expand on The Idea That A Habit Forms In 21 Days.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: self_improvement_tha_c01280_habit_formation_time_49cd57
 parent_title: The Idea That A Habit Forms In 21 Days
@@ -16,7 +16,7 @@ parent_permalink: /the-idea-that-a-habit-forms-in-21-days/
 
 # Explore Topics in The Idea That A Habit Forms In 21 Days
 
-The following pages expand on the main **[The Idea That A Habit Forms In 21 Days]({{ '/the-idea-that-a-habit-forms-in-21-days/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[The Idea That A Habit Forms In 21 Days]({{ '/the-idea-that-a-habit-forms-in-21-days/' | relative_url }})** page and cover its key branches in.
 
 - [Debug Month]({{ '/debug-month/' | relative_url }})
 - [Progress Signs]({{ '/progress-signs/' | relative_url }})

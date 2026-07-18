@@ -502,27 +502,27 @@ image: /assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116-overvi
 
 ## Introduction
 
-Good cues make habits easier because they move the burden from memory to design. Instead of hoping to remember the right action at the right moment, a cue places the next action where daily life will already bring your attention: the book on the pillow, the walking shoes by the door, the website blocker that starts before the evening scroll, or the note on the kettle that says “take medication”. In behaviour-change research, prompts and cues are treated as active ingredients: environmental or social stimuli introduced to prompt behaviour at the time or place it needs to happen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalwellbeing.org">[digitalwellbeing.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalwellbeing.org</span><span class="citation-popover-title">i BCT Taxonomy (v1): 93 hierarchically-clustered techniques Prompts/cues</span><span class="citation-popover-snippet">Introduce or define environmental or social stimulus with the purpose of prompting or cueing the behavior. The prompt or cue would normal...</span></span></span>
+Good cues make habits easier because they move the burden from memory to design. Instead of hoping to remember the right action at the right moment, a cue places the next action where daily life will already bring your attention: the book on the pillow, the walking shoes by the door, the website blocker that starts before the evening scroll, or the note on the kettle that says “take medication”. In behaviour-change research, prompts and cues are treated as active ingredients: environmental or social stimuli introduced to prompt behaviour at the time or place it needs to happen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalwellbeing.org">[digitalwellbeing.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalwellbeing.org</span><span class="citation-popover-title">i BCT Taxonomy (v1): 93 hierarchically-clustered techniques Prompts/cues</span><span class="citation-popover-snippet">Introduce or define environmental or social stimulus with the purpose of prompting or cueing the behavior. The prompt or cue would normal...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116-overview.webp" | relative_url }}" alt="Overview image for Cues" loading="eager" decoding="sync" fetchpriority="high">
-This matters because [self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}) is rarely about summoning more discipline in the abstract. Habits form through repeated behaviour in consistent contexts; over time, the context itself can begin to trigger the response with less conscious effort. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 896 — Psychological theory and evide...</span></span></span> A good cue is therefore not just a reminder. It is a small redesign of the moment before action. The practical question is not “How do I become more motivated?” but “What will make the wanted action obvious, available and timely when real life is noisy?”
+This matters because [self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}) is rarely about summoning more discipline in the abstract. Habits form through repeated behaviour in consistent contexts; over time, the context itself can begin to trigger the response with less conscious effort.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 896 — Psychological theory and evide...</span></span></span> A good cue is therefore not just a reminder. It is a small redesign of the moment before action. The practical question is not “How do I become more motivated?” but “What will make the wanted action obvious, available and timely when real life is noisy?”
 
 ## Why a cue beats a good intention
 
-Intentions are fragile because they have to survive delay, distraction, mood, competing demands and the ordinary clutter of the day. A cue helps by narrowing the gap between deciding and doing. The [Behaviour Change]({{ 'behaviour-change/' | relative_url }}) Technique Taxonomy defines “prompts/cues” as introducing or defining an environmental or social stimulus that prompts the behaviour, normally at the time or place of performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalwellbeing.org/nudge-psychology-all-93-behavior-change-techniques-listed-and-summarised-free-app/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalwellbeing.org">[digitalwellbeing.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalwellbeing.org</span><span class="citation-popover-snippet">Open source on digitalwellbeing.org.</span></span></span> That timing is the key. A reminder to stretch is less useful during a meeting than when you close your laptop; a reminder to prepare lunch is less useful at lunchtime than when you are putting dinner away.
+Intentions are fragile because they have to survive delay, distraction, mood, competing demands and the ordinary clutter of the day. A cue helps by narrowing the gap between deciding and doing. The [Behaviour Change]({{ 'behaviour-change/' | relative_url }}) Technique Taxonomy defines “prompts/cues” as introducing or defining an environmental or social stimulus that prompts the behaviour, normally at the time or place of performance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://digitalwellbeing.org/nudge-psychology-all-93-behavior-change-techniques-listed-and-summarised-free-app/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalwellbeing.org">[digitalwellbeing.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalwellbeing.org</span><span class="citation-popover-snippet">Open source on digitalwellbeing.org.</span></span></span> That timing is the key. A reminder to stretch is less useful during a meeting than when you close your laptop; a reminder to prepare lunch is less useful at lunchtime than when you are putting dinner away.
 
-Habit theory explains why this is more than a productivity trick. A habit is not simply something done often; it is a learned tendency for a behaviour to be triggered by a context. Gardner and colleagues argue that habit is best understood as [automaticity]({{ 'automaticity/' | relative_url }}) rather than raw [frequency]({{ 'frequency/' | relative_url }}), because strong habits are activated directly and quickly by associated settings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ehps.net/ehp/index.php/contents/article/download/ehp.v14.i2.p32/1012" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ehps.net">[ehps.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ehps.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Repetition still matters, but repetition in a stable context matters most because it strengthens the link between “this situation” and “this action”.
+Habit theory explains why this is more than a productivity trick. A habit is not simply something done often; it is a learned tendency for a behaviour to be triggered by a context. Gardner and colleagues argue that habit is best understood as [automaticity]({{ 'automaticity/' | relative_url }}) rather than raw [frequency]({{ 'frequency/' | relative_url }}), because strong habits are activated directly and quickly by associated settings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ehps.net/ehp/index.php/contents/article/download/ehp.v14.i2.p32/1012" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ehps.net">[ehps.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ehps.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Repetition still matters, but repetition in a stable context matters most because it strengthens the link between “this situation” and “this action”.
 
 This is also why vague goals such as “read more”, “eat better” or “use my phone less” often collapse in the moment. They ask for fresh decision-making every time. A cue turns the goal into a situation-response link: “When I make morning coffee, I fill the water bottle”; “When I sit on the train, I open the saved article”; “When the workday ends, social media apps are blocked for an hour.” The cue does not remove choice altogether, but it reduces the number of choices that must be made while tired or distracted.
 
-Implementation intentions use the same logic in plan form. They specify an “if situation X, then I will do Y” response, and research on implementation intentions links their effects to better cue detection and stronger cue-response associations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">PMCPromoting the translation of intentions into action by</span></span></span> The point is not to write a clever sentence and stop there. The point is to choose a real cue that will reliably appear in the life you actually live.
+Implementation intentions use the same logic in plan form. They specify an “if situation X, then I will do Y” response, and research on implementation intentions links their effects to better cue detection and stronger cue-response associations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">PMCPromoting the translation of intentions into action by</span></span></span> The point is not to write a clever sentence and stop there. The point is to choose a real cue that will reliably appear in the life you actually live.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116-Illustration-1-dark.svg" | relative_url }}" alt="Cues illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Physical cues at home
 
 The best home cues are usually boring, visible and close to the action. They do not depend on inspiration. They sit in the path of the behaviour and make the next step easier than forgetting. A water bottle on the desk, a pill organiser beside the toothbrush, a guitar on a stand rather than in a case, or a laundry basket placed where clothes actually pile up all work by changing what the [environment]({{ 'environment/' | relative_url }}) asks of you.
 
-Research on contextual cue selection found that people often choose cues based on convenience and effort reduction, such as keeping related objects nearby or visible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7106637/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span> That instinct is useful, but it needs refining. A visible object is not automatically a good cue. It must be connected to a precise behaviour and placed at the moment when the behaviour can happen. A yoga mat in the spare room is decoration if you never go there; a mat unrolled beside the bed may become a prompt for two minutes of stretching after waking.
+Research on contextual cue selection found that people often choose cues based on convenience and effort reduction, such as keeping related objects nearby or visible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7106637/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span> That instinct is useful, but it needs refining. A visible object is not automatically a good cue. It must be connected to a precise behaviour and placed at the moment when the behaviour can happen. A yoga mat in the spare room is decoration if you never go there; a mat unrolled beside the bed may become a prompt for two minutes of stretching after waking.
 
 A strong physical cue usually has three qualities:
 
@@ -534,11 +534,11 @@ A strong physical cue usually has three qualities:
 
 </div>
 
-This is why “adding objects to the environment” and “restructuring the physical environment” sit naturally beside prompts and cues in behaviour-change practice. Public health behaviour-change materials often distinguish between cueing the behaviour and changing the setting so the behaviour is easier to perform. <span class="citation-chip-wrap"><a class="citation-chip" href="https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phwwhocc.co.uk">[phwwhocc.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phwwhocc.co.uk</span><span class="citation-popover-title">Identifying and Applying Behaviour Change Techniques</span><span class="citation-popover-snippet">Identifying and Applying Behaviour Change Techniques</span></span></span> A cue says “now”; the redesigned environment says “and here is how to begin”.
+This is why “adding objects to the environment” and “restructuring the physical environment” sit naturally beside prompts and cues in behaviour-change practice. Public health behaviour-change materials often distinguish between cueing the behaviour and changing the setting so the behaviour is easier to perform.<span class="citation-chip-wrap"><a class="citation-chip" href="https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phwwhocc.co.uk">[phwwhocc.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phwwhocc.co.uk</span><span class="citation-popover-title">Identifying and Applying Behaviour Change Techniques</span><span class="citation-popover-snippet">Identifying and Applying Behaviour Change Techniques</span></span></span> A cue says “now”; the redesigned environment says “and here is how to begin”.
 
 Home cues work especially well when they attach to existing routines. Brushing teeth, boiling the kettle, feeding a pet, locking the front door, turning off a work computer and getting into bed are already stable events. They are better anchors than arbitrary clock times because they happen within the rhythm of the day. A person trying to read more might place a book on the pillow, not because pillows are magical, but because bedtime already brings attention there. A person trying to take vitamins might place them next to the coffee tin, not because supplements require coffee, but because the coffee ritual is already reliable.
 
-The same principle applies to unwanted habits. If biscuits on the counter cue grazing, move them out of sight or make a better option more visible. If the sofa cues a three-hour television drift, put the remote in a drawer and leave a book or notebook where the remote used to be. Habit researchers describe unwanted habitual behaviour as something that can be interrupted by avoiding cues or obstructing the old response, while longer-term change often requires building a substitute cue-response pattern. <span class="citation-chip-wrap"><a class="citation-chip" href="https://discovery.ucl.ac.uk/id/eprint/10123713/1/Lally_Breaking%20habits%20or%20breaking%20habitual%20behaviours%20ACCEPTED.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.ucl.ac.uk">[UCL Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.ucl.ac.uk</span><span class="citation-popover-title">Old habits and weight maintenance</span><span class="citation-popover-snippet">Old habits and weight maintenance</span></span></span> The aim is not to create a perfect house. It is to stop the house from constantly prompting the behaviour you are trying to reduce.
+The same principle applies to unwanted habits. If biscuits on the counter cue grazing, move them out of sight or make a better option more visible. If the sofa cues a three-hour television drift, put the remote in a drawer and leave a book or notebook where the remote used to be. Habit researchers describe unwanted habitual behaviour as something that can be interrupted by avoiding cues or obstructing the old response, while longer-term change often requires building a substitute cue-response pattern.<span class="citation-chip-wrap"><a class="citation-chip" href="https://discovery.ucl.ac.uk/id/eprint/10123713/1/Lally_Breaking%20habits%20or%20breaking%20habitual%20behaviours%20ACCEPTED.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.ucl.ac.uk">[UCL Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.ucl.ac.uk</span><span class="citation-popover-title">Old habits and weight maintenance</span><span class="citation-popover-snippet">Old habits and weight maintenance</span></span></span> The aim is not to create a perfect house. It is to stop the house from constantly prompting the behaviour you are trying to reduce.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EurFYCWm0wg" title="How do you make your habits stick? Environmental Design &amp; Implementation Intention - James Clear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EurFYCWm0wg" target="_blank" rel="noopener noreferrer">How do you make your habits stick? Environmental Design &amp; Implementation Intention - James Clear</a></p><p class="youtube-embed-meta">Channel: GoodVibesAreHereToStay &middot; Views: 403 &middot; Uploaded: February 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EurFYCWm0wg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EurFYCWm0wg">Open on YouTube</a></p></div></div></div>
 
@@ -546,13 +546,13 @@ The same principle applies to unwanted habits. If biscuits on the counter cue gr
 
 Digital cues are powerful because phones and computers already command attention. They can also become noisy, annoying or easy to dismiss. The practical challenge is to use digital prompts as scaffolding, not as a permanent substitute for a routine.
 
-A 2024 systematic review of digital behaviour-change interventions for habit formation found that self-monitoring, goal setting, and prompts and cues were among the most commonly applied behaviour-change techniques, with time-based cues and other digital prompts appearing frequently in intervention designs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-title">Digital Behavior Change Intervention Designs for Habit Formation</span><span class="citation-popover-snippet">Digital Behavior Change Intervention Designs for Habit Formation</span></span></span> Another review of digital health interventions reported strong evidence across more than one health domain for components including prompts and cues, [social support]({{ 'social-support/' | relative_url }}), credible sources, graded tasks, goals and planning, feedback and monitoring, personalisation and human coaching. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/abm/article/57/10/817/7251346" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The evidence does not say that every notification works. It says prompts can be useful when they are part of a broader behaviour-change design.
+A 2024 systematic review of digital behaviour-change interventions for habit formation found that self-monitoring, goal setting, and prompts and cues were among the most commonly applied behaviour-change techniques, with time-based cues and other digital prompts appearing frequently in intervention designs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-title">Digital Behavior Change Intervention Designs for Habit Formation</span><span class="citation-popover-snippet">Digital Behavior Change Intervention Designs for Habit Formation</span></span></span> Another review of digital health interventions reported strong evidence across more than one health domain for components including prompts and cues, [social support]({{ 'social-support/' | relative_url }}), credible sources, graded tasks, goals and planning, feedback and monitoring, personalisation and human coaching.<span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/abm/article/57/10/817/7251346" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The evidence does not say that every notification works. It says prompts can be useful when they are part of a broader behaviour-change design.
 
-The important distinction is between **time-based reminders** and **event-based cues**. A time-based reminder says “do this at 7.00 pm”. An event-based cue says “after dinner, do this” or “when I plug in my laptop, start the writing timer”. In a study of smartphone apps and habit formation, Stawarz, Cox and Blandford found that reminders supported repetition but could hinder habit development, while event-based cues were linked with increased automaticity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://usabilitypanda.com/publications/StawarzCoxBlandford2015-habit-apps.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usabilitypanda.com">[usabilitypanda.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usabilitypanda.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That finding is useful for everyday self improvement: alarms can get you started, but the goal is often to transfer the cue from the phone to the routine.
+The important distinction is between **time-based reminders** and **event-based cues**. A time-based reminder says “do this at 7.00 pm”. An event-based cue says “after dinner, do this” or “when I plug in my laptop, start the writing timer”. In a study of smartphone apps and habit formation, Stawarz, Cox and Blandford found that reminders supported repetition but could hinder habit development, while event-based cues were linked with increased automaticity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://usabilitypanda.com/publications/StawarzCoxBlandford2015-habit-apps.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usabilitypanda.com">[usabilitypanda.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usabilitypanda.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That finding is useful for everyday self improvement: alarms can get you started, but the goal is often to transfer the cue from the phone to the routine.
 
-Medication reminders show the same tension clearly. In work on medication reminder apps, Stawarz and colleagues argued that design should shift from simple timer-based alerts towards support for daily routines, because medication-taking is often personal, habitual and embedded in existing patterns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://discovery.ucl.ac.uk/id/eprint/10123713/1/Lally_Breaking%20habits%20or%20breaking%20habitual%20behaviours%20ACCEPTED.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.ucl.ac.uk">[UCL Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.ucl.ac.uk</span><span class="citation-popover-title">Old habits and weight maintenance</span><span class="citation-popover-snippet">Old habits and weight maintenance</span></span></span> A pill alarm may be essential for some people, especially where missed doses carry real risks. But for ordinary habit design, the stronger pattern is often “take the pill after brushing teeth” plus a visible pill organiser, with the phone as backup rather than the only cue.
+Medication reminders show the same tension clearly. In work on medication reminder apps, Stawarz and colleagues argued that design should shift from simple timer-based alerts towards support for daily routines, because medication-taking is often personal, habitual and embedded in existing patterns.<span class="citation-chip-wrap"><a class="citation-chip" href="https://discovery.ucl.ac.uk/id/eprint/10123713/1/Lally_Breaking%20habits%20or%20breaking%20habitual%20behaviours%20ACCEPTED.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.ucl.ac.uk">[UCL Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.ucl.ac.uk</span><span class="citation-popover-title">Old habits and weight maintenance</span><span class="citation-popover-snippet">Old habits and weight maintenance</span></span></span> A pill alarm may be essential for some people, especially where missed doses carry real risks. But for ordinary habit design, the stronger pattern is often “take the pill after brushing teeth” plus a visible pill organiser, with the phone as backup rather than the only cue.
 
-Digital blockers are slightly different. They do not merely remind; they change the options available. Website and app blockers, newsfeed removers, greyscale settings, notification limits and screen-time schedules work by adding friction to the unwanted behaviour or removing a cue that invites it. A systematic review of digital self-control interventions noted that these tools use approaches such as blocking apps and websites, goal setting and visualisations of device use, while also pointing out that evidence on effectiveness remains uneven. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> A field study of Facebook self-control interventions found that goal reminders and removing the newsfeed helped participants stay on task and avoid distraction, though reminders could be annoying and newsfeed removal created fear of missing information for some users. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2001.04180" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Digital blockers are slightly different. They do not merely remind; they change the options available. Website and app blockers, newsfeed removers, greyscale settings, notification limits and screen-time schedules work by adding friction to the unwanted behaviour or removing a cue that invites it. A systematic review of digital self-control interventions noted that these tools use approaches such as blocking apps and websites, goal setting and visualisations of device use, while also pointing out that evidence on effectiveness remains uneven.<span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> A field study of Facebook self-control interventions found that goal reminders and removing the newsfeed helped participants stay on task and avoid distraction, though reminders could be annoying and newsfeed removal created fear of missing information for some users.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2001.04180" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The practical lesson is to make digital cues selective. A phone with twenty habit notifications becomes part of the noise. A more useful setup might be:
 
@@ -572,7 +572,7 @@ Digital cues should be judged by behaviour, not by how organised they look. A be
 
 A cue is not good because it sounds sensible. It is good if it changes what happens. The simplest test is behavioural: did the cue make the desired action more likely in the real context where it matters?
 
-This is where many habit plans fail. People choose cues they admire rather than cues they actually encounter. They decide to meditate “when I feel stressed”, but stress makes them reach for their phone. They decide to exercise “after work”, but work ends in different places at different times. They decide to journal “before bed”, but the notebook is downstairs. Research on cue-monitoring for implementation intentions makes this problem explicit: plans aimed at changing unwanted habits require identifying personally relevant cues that trigger the habitual response, and those cues can be hard to identify without observation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/25099386/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This is where many habit plans fail. People choose cues they admire rather than cues they actually encounter. They decide to meditate “when I feel stressed”, but stress makes them reach for their phone. They decide to exercise “after work”, but work ends in different places at different times. They decide to journal “before bed”, but the notebook is downstairs. Research on cue-monitoring for implementation intentions makes this problem explicit: plans aimed at changing unwanted habits require identifying personally relevant cues that trigger the habitual response, and those cues can be hard to identify without observation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/25099386/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 A practical cue test can be run over one week:
 
@@ -588,7 +588,7 @@ A practical cue test can be run over one week:
 
 A cue is probably working if the behaviour starts with less internal debate, if missed days reveal an obvious design problem, and if the cue still functions when [motivation]({{ 'motivation/' | relative_url }}) is ordinary. A cue is probably not working if it is regularly dismissed, hidden, resented, forgotten, or noticed only after the opportunity has passed.
 
-It is also worth separating cue failure from task failure. If the cue appears and you still do not act, the next step may be too big. A running kit by the door is a strong cue, but “run 8 kilometres” may be too demanding for a tired weekday. In that case, keep the cue and shrink the action: put on the shoes and walk for five minutes. Habit-formation advice commonly emphasises repeating a behaviour consistently in the same context, because automaticity builds through repeated context-behaviour pairing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">PMCDigital Behavior Change Intervention Designs for Habit</span></span></span> Making the action small enough to repeat protects the cue-response link.
+It is also worth separating cue failure from task failure. If the cue appears and you still do not act, the next step may be too big. A running kit by the door is a strong cue, but “run 8 kilometres” may be too demanding for a tired weekday. In that case, keep the cue and shrink the action: put on the shoes and walk for five minutes. Habit-formation advice commonly emphasises repeating a behaviour consistently in the same context, because automaticity builds through repeated context-behaviour pairing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">PMCDigital Behavior Change Intervention Designs for Habit</span></span></span> Making the action small enough to repeat protects the cue-response link.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Q8uqza4wz2Y" title="How to Break Bad Habits &amp; Build Good Ones - The Science of Habit Formation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Q8uqza4wz2Y" target="_blank" rel="noopener noreferrer">How to Break Bad Habits &amp; Build Good Ones - The Science of Habit Formation</a></p><p class="youtube-embed-meta">Channel: Olly Wood &middot; Views: 113 &middot; Uploaded: March 2025 &middot; Length: 36 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Q8uqza4wz2Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Q8uqza4wz2Y">Open on YouTube</a></p></div></div></div>
 
@@ -598,9 +598,9 @@ The most common mistake is using a cue as decoration. A vision board, quote, app
 
 Another mistake is using too many cues at once. When every surface carries a reminder, the whole environment becomes background noise. Cues need contrast. One note on the door that says “keys, wallet, lunch” may work better than ten motivational notes scattered around the flat. One app blocker that starts before the usual distraction window may work better than constant alerts that train the user to swipe away reminders.
 
-A third mistake is choosing cues that depend on a mood. “When I feel motivated, I will write” is not a cue; it is a wish. “After I make tea at 8.30, I open the draft and write one sentence” is a cue. Internal states can matter, especially for unwanted habits such as snacking from boredom or scrolling from anxiety, but they are often harder to notice in time. Cue-monitoring research is useful here because it encourages people to observe the real triggers of behaviour before designing the plan. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.wur.nl/en/publications/identifying-the-if-for-if-then-plans-combining-implementation-int" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.wur.nl">[Wageningen Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.wur.nl</span><span class="citation-popover-title">identifying the if for if then plans combining implementation int</span><span class="citation-popover-snippet">identifying the if for if then plans combining implementation int</span></span></span>
+A third mistake is choosing cues that depend on a mood. “When I feel motivated, I will write” is not a cue; it is a wish. “After I make tea at 8.30, I open the draft and write one sentence” is a cue. Internal states can matter, especially for unwanted habits such as snacking from boredom or scrolling from anxiety, but they are often harder to notice in time. Cue-monitoring research is useful here because it encourages people to observe the real triggers of behaviour before designing the plan.<span class="citation-chip-wrap"><a class="citation-chip" href="https://research.wur.nl/en/publications/identifying-the-if-for-if-then-plans-combining-implementation-int" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.wur.nl">[Wageningen Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.wur.nl</span><span class="citation-popover-title">identifying the if for if then plans combining implementation int</span><span class="citation-popover-snippet">identifying the if for if then plans combining implementation int</span></span></span>
 
-A fourth mistake is confusing reminders with habits. A daily phone alert can preserve a behaviour, but if the behaviour only happens when the alert fires, the phone may be carrying the whole routine. Research on study reminders and habit apps warns that reminders can have side effects, including annoyance, guilt, disengagement and overreliance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41539-024-00253-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> This does not mean reminders are bad. It means the better question is: “What real-world cue should eventually take over?”
+A fourth mistake is confusing reminders with habits. A daily phone alert can preserve a behaviour, but if the behaviour only happens when the alert fires, the phone may be carrying the whole routine. Research on study reminders and habit apps warns that reminders can have side effects, including annoyance, guilt, disengagement and overreliance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/s41539-024-00253-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> This does not mean reminders are bad. It means the better question is: “What real-world cue should eventually take over?”
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/T58Vg_eRYYI" title="3966: The Habit Ladder: How To Make A New Routine Stick by Tyler Tervooren of Riskology on..." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=T58Vg_eRYYI" target="_blank" rel="noopener noreferrer">3966: The Habit Ladder: How To Make A New Routine Stick by Tyler Tervooren of Riskology on...</a></p><p class="youtube-embed-meta">Channel: Optimal Living Daily &middot; Views: 24 &middot; Uploaded: April 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=T58Vg_eRYYI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=T58Vg_eRYYI">Open on YouTube</a></p></div></div></div>
 
@@ -614,7 +614,7 @@ For a habit you want to protect from distraction, place the cue before the dange
 
 For a habit you keep forgetting, combine a visible cue with a plan. Put the object in the right place and write the if-then link clearly: “If I put my dinner plate in the sink, I pack tomorrow’s lunch.” This joins environmental design with implementation intention: the cue appears, the response has already been chosen, and the next step is small enough to begin.
 
-For a habit that matters medically, financially or professionally, build in backup. A medication routine might use a pill organiser, a daily anchor such as brushing teeth, a phone reminder and a visible refill check. NICE guidance on digital and mobile health interventions advises considering the person’s goals, capability, opportunity, motivation, digital literacy, available platforms and willingness to use interventions at a given frequency or intensity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nice.org.uk/guidance/ng183/chapter/Recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nice.org.uk">[NICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nice.org.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In other words, the best prompt is not the cleverest one; it is the one that fits the person and the setting.
+For a habit that matters medically, financially or professionally, build in backup. A medication routine might use a pill organiser, a daily anchor such as brushing teeth, a phone reminder and a visible refill check. NICE guidance on digital and mobile health interventions advises considering the person’s goals, capability, opportunity, motivation, digital literacy, available platforms and willingness to use interventions at a given frequency or intensity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nice.org.uk/guidance/ng183/chapter/Recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nice.org.uk">[NICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nice.org.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In other words, the best prompt is not the cleverest one; it is the one that fits the person and the setting.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116-Illustration-3-dark.svg" | relative_url }}" alt="Cues illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_prompts_and_cues_08d116-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The useful standard: less remembering, more responding
@@ -624,269 +624,269 @@ Good cues do not make self improvement effortless. They make it less dependent o
 The strongest cues are not motivational slogans. They are well-placed prompts that meet real life where behaviour happens. They appear at the time and place of performance, point to a concrete next action, and can be tested by whether the behaviour actually becomes more likely. In a self-improvement culture full of dramatic reinvention stories, that may sound small. It is also why it works.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Good Cues Beat Good Intentions. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Good Cues Beat Good Intentions. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Extensively covers cues, environment design and behaviour triggers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Extensively covers cues, environment design and behaviour triggers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
-        </h4>
-        <p class="fr-book-author">By B. J. Fogg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
+</h4>
+<p class="fr-book-author">By B. J. Fogg</p>
         
-        <p class="fr-book-desc">Shows how prompts and context support habit formation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how prompts and context support habit formation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Carol S. Dweck</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
-        <p class="fr-book-desc">Addresses beliefs and learning approaches that support improvement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
+</h4>
+<p class="fr-book-author">By Carol S. Dweck</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
+<p class="fr-book-desc">Addresses beliefs and learning approaches that support improvement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
-        </h4>
-        <p class="fr-book-author">By Charles Duhigg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
+</h4>
+<p class="fr-book-author">By Charles Duhigg</p>
         
-        <p class="fr-book-desc">Introduces cue-routine-reward habit loops.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces cue-routine-reward habit loops.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cues+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-cues-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Life Behind Cues Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6340ab5d5016bc7b69d3.jpg' | relative_url }}" alt="Listing image for Life Behind Cues Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cues+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-cues-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Life Behind Cues Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cues+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-cues-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cues poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cues poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cues+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-cues-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cues+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-cues-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Life Behind Cues Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6340ab5d5016bc7b69d3.jpg' | relative_url }}" alt="Listing image for Life Behind Cues Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cues+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-cues-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Life Behind Cues Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cues+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-cues-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cues poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cues poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cues+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-cues-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cues+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-cues-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pool Balls and Cues Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6901a80e101369225952.jpg' | relative_url }}" alt="Listing image for Pool Balls and Cues Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cues+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-cues-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Pool Balls and Cues Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cues+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-cues-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cues poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cues poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cues+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-cues-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cues+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-cues-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pool Balls and Cues Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/6901a80e101369225952.jpg' | relative_url }}" alt="Listing image for Pool Balls and Cues Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cues+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-cues-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Pool Balls and Cues Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cues+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-cues-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cues poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cues poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cues+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-cues-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cues+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-cues-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SOCIAL CUES Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f21f1be8ca718b20f6f7.jpg' | relative_url }}" alt="Listing image for SOCIAL CUES Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cues+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-cues-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SOCIAL CUES Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cues+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-cues-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cues poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cues poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cues+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-cues-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cues+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-cues-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SOCIAL CUES Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f21f1be8ca718b20f6f7.jpg' | relative_url }}" alt="Listing image for SOCIAL CUES Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cues+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-cues-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SOCIAL CUES Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cues+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-cues-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cues poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cues poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cues+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-cues-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cues+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-cues-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Snooker Cues Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9c35a4c156466b11ba6a.jpg' | relative_url }}" alt="Listing image for Snooker Cues Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cues+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-cues-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Snooker Cues Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cues+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-cues-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cues poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cues poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cues+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-cues-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cues+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-cues-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cues+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-cues-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Snooker Cues Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/9c35a4c156466b11ba6a.jpg' | relative_url }}" alt="Listing image for Snooker Cues Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cues+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-cues-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Snooker Cues Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cues+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-cues-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cues poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: cues poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cues+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-cues-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cues+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cues-why-good-cues-beat-good-intentions-self-improvement-that-works-cues-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -902,7 +902,7 @@ The strongest cues are not motivational slogans. They are well-placed prompts th
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -922,7 +922,7 @@ The strongest cues are not motivational slogans. They are well-placed prompts th
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -954,7 +954,7 @@ The strongest cues are not motivational slogans. They are well-placed prompts th
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -984,7 +984,7 @@ The strongest cues are not motivational slogans. They are well-placed prompts th
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -1042,188 +1042,188 @@ The strongest cues are not motivational slogans. They are well-placed prompts th
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: digitalwellbeing.org  
    Title: i BCT Taxonomy (v1): 93 hierarchically-clustered [techniques](&#123;&#123; 'techniques/' | relative_url &#125;&#125;) Prompts/cues  
-   Link: <a href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduce or define environmental or social stimulus with the purpose of prompting or cueing the behavior. The prompt or cue would normal...</p></details>
+   Link:<a href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Introduce or define environmental or social stimulus with the purpose of prompting or cueing the behavior. The prompt or cue would normal...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 896 — Psychological theory and evide...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 896 — Psychological theory and evide...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: onlinelibrary.wiley.com  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674</a>  
+   Link:<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ehps.net  
-   Link: <a href="https://www.ehps.net/ehp/index.php/contents/article/download/ehp.v14.i2.p32/1012" target="_blank" rel="noopener noreferrer nofollow">https://www.ehps.net/ehp/index.php/contents/article/download/ehp.v14.i2.p32/1012</a>  
+   Link:<a href="https://www.ehps.net/ehp/index.php/contents/article/download/ehp.v14.i2.p32/1012" target="_blank" rel="noopener noreferrer nofollow">https://www.ehps.net/ehp/index.php/contents/article/download/ehp.v14.i2.p32/1012</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCPromoting the translation of intentions into action by  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7106637/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7106637/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7106637/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7106637/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: phwwhocc.co.uk  
    Title: Identifying and Applying Behaviour Change Techniques  
-   Link: <a href="https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf</a>  
+   Link:<a href="https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: jmir.org  
    Title: Digital Behavior Change Intervention Designs for Habit Formation  
-   Link: <a href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e54375/</a>  
+   Link:<a href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e54375/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCDigital Behavior Change Intervention Designs for Habit  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/abm/article/57/10/817/7251346" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/abm/article/57/10/817/7251346</a>  
+   Link:<a href="https://academic.oup.com/abm/article/57/10/817/7251346" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/abm/article/57/10/817/7251346</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: usabilitypanda.com  
-   Link: <a href="https://usabilitypanda.com/publications/StawarzCoxBlandford2015-habit-apps.pdf" target="_blank" rel="noopener noreferrer nofollow">https://usabilitypanda.com/publications/StawarzCoxBlandford2015-habit-apps.pdf</a>  
+   Link:<a href="https://usabilitypanda.com/publications/StawarzCoxBlandford2015-habit-apps.pdf" target="_blank" rel="noopener noreferrer nofollow">https://usabilitypanda.com/publications/StawarzCoxBlandford2015-habit-apps.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: onlinelibrary.wiley.com  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1111/jcal.12581" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/jcal.12581</a>  
+   Link:<a href="https://onlinelibrary.wiley.com/doi/10.1111/jcal.12581" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/jcal.12581</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2001.04180" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2001.04180</a>  
+   Link:<a href="https://arxiv.org/abs/2001.04180" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2001.04180</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41539-024-00253-7" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41539-024-00253-7</a>  
+   Link:<a href="https://www.nature.com/articles/s41539-024-00253-7" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41539-024-00253-7</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nice.org.uk  
-   Link: <a href="https://www.nice.org.uk/guidance/ng183/chapter/Recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/ng183/chapter/Recommendations</a>  
+   Link:<a href="https://www.nice.org.uk/guidance/ng183/chapter/Recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/ng183/chapter/Recommendations</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: The 4 Laws of Behavior Change that make good habits stick  
-   Link: <a href="https://www.facebook.com/samdrupjongkharHSS/posts/the-4-laws-of-behavior-change-that-make-good-habits-stick1-make-it-obvious-set-c/1279034134015333/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/samdrupjongkharHSS/posts/the-4-laws-of-behavior-change-that-make-good-habits-stick1-make-it-obvious-set-c/1279034134015333/</a>  
+   Link:<a href="https://www.facebook.com/samdrupjongkharHSS/posts/the-4-laws-of-behavior-change-that-make-good-habits-stick1-make-it-obvious-set-c/1279034134015333/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/samdrupjongkharHSS/posts/the-4-laws-of-behavior-change-that-make-good-habits-stick1-make-it-obvious-set-c/1279034134015333/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/drinkAG1/posts/habits-dont-follow-a-perfect-timeline-the-research-shows-an-average-of-66-days-b/1428958322602697/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/drinkAG1/posts/habits-dont-follow-a-perfect-timeline-the-research-shows-an-average-of-66-days-b/1428958322602697/</a>  
+   Link:<a href="https://www.facebook.com/drinkAG1/posts/habits-dont-follow-a-perfect-timeline-the-research-shows-an-average-of-66-days-b/1428958322602697/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/drinkAG1/posts/habits-dont-follow-a-perfect-timeline-the-research-shows-an-average-of-66-days-b/1428958322602697/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: compass.onlinelibrary.wiley.com  
-   Link: <a href="https://compass.onlinelibrary.wiley.com/doi/10.1111/spc3.12975" target="_blank" rel="noopener noreferrer nofollow">https://compass.onlinelibrary.wiley.com/doi/10.1111/spc3.12975</a>  
+   Link:<a href="https://compass.onlinelibrary.wiley.com/doi/10.1111/spc3.12975" target="_blank" rel="noopener noreferrer nofollow">https://compass.onlinelibrary.wiley.com/doi/10.1111/spc3.12975</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: jmir.org  
-   Link: <a href="https://www.jmir.org/2017/11/e397/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2017/11/e397/</a>  
+   Link:<a href="https://www.jmir.org/2017/11/e397/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2017/11/e397/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: digitalwellbeing.org  
-   Link: <a href="https://digitalwellbeing.org/nudge-psychology-all-93-behavior-change-techniques-listed-and-summarised-free-app/" target="_blank" rel="noopener noreferrer nofollow">https://digitalwellbeing.org/nudge-psychology-all-93-behavior-change-techniques-listed-and-summarised-free-app/</a>  
+   Link:<a href="https://digitalwellbeing.org/nudge-psychology-all-93-behavior-change-techniques-listed-and-summarised-free-app/" target="_blank" rel="noopener noreferrer nofollow">https://digitalwellbeing.org/nudge-psychology-all-93-behavior-change-techniques-listed-and-summarised-free-app/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: discovery.ucl.ac.uk  
    Title: UCL Discovery RUNNING  
    Title: Old habits and weight maintenance  
-   Link: <a href="https://discovery.ucl.ac.uk/id/eprint/10123713/1/Lally_Breaking%20habits%20or%20breaking%20habitual%20behaviours%20ACCEPTED.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/id/eprint/10123713/1/Lally_Breaking%20habits%20or%20breaking%20habitual%20behaviours%20ACCEPTED.pdf</a>  
+   Link:<a href="https://discovery.ucl.ac.uk/id/eprint/10123713/1/Lally_Breaking%20habits%20or%20breaking%20habitual%20behaviours%20ACCEPTED.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/id/eprint/10123713/1/Lally_Breaking%20habits%20or%20breaking%20habitual%20behaviours%20ACCEPTED.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: discovery.ucl.ac.uk  
    Title: StawarzCoxBlandford2014 reminders submittedManuscript  
-   Link: <a href="https://discovery.ucl.ac.uk/1418104/1/StawarzCoxBlandford2014-reminders-submittedManuscript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/1418104/1/StawarzCoxBlandford2014-reminders-submittedManuscript.pdf</a>  
+   Link:<a href="https://discovery.ucl.ac.uk/1418104/1/StawarzCoxBlandford2014-reminders-submittedManuscript.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/1418104/1/StawarzCoxBlandford2014-reminders-submittedManuscript.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: discovery.ucl.ac.uk  
-   Link: <a href="https://discovery.ucl.ac.uk/1418104/" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/1418104/</a>  
+   Link:<a href="https://discovery.ucl.ac.uk/1418104/" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/1418104/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/25099386/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/25099386/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/25099386/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/25099386/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: research.wur.nl  
    Title: identifying the if for if then plans combining implementation int  
-   Link: <a href="https://research.wur.nl/en/publications/identifying-the-if-for-if-then-plans-combining-implementation-int" target="_blank" rel="noopener noreferrer nofollow">https://research.wur.nl/en/publications/identifying-the-if-for-if-then-plans-combining-implementation-int</a>  
+   Link:<a href="https://research.wur.nl/en/publications/identifying-the-if-for-if-then-plans-combining-implementation-int" target="_blank" rel="noopener noreferrer nofollow">https://research.wur.nl/en/publications/identifying-the-if-for-if-then-plans-combining-implementation-int</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23512568/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23512568/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/29191800/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29191800/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/29191800/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29191800/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/21749245/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/21749245/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/21749245/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/21749245/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: cancercontrol.cancer.gov  
    Title: implementation intentions  
-   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
+   Link:<a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: durmonski.com  
    Title: implementation intentions  
-   Link: <a href="https://durmonski.com/psychology/implementation-intentions/" target="_blank" rel="noopener noreferrer nofollow">https://durmonski.com/psychology/implementation-intentions/</a>  
+   Link:<a href="https://durmonski.com/psychology/implementation-intentions/" target="_blank" rel="noopener noreferrer nofollow">https://durmonski.com/psychology/implementation-intentions/</a>  
 
 ### Additional References
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: bct-taxonomy.com  
-   Link: <a href="https://www.bct-taxonomy.com/about" target="_blank" rel="noopener noreferrer nofollow">https://www.bct-taxonomy.com/about</a>  
+   Link:<a href="https://www.bct-taxonomy.com/about" target="_blank" rel="noopener noreferrer nofollow">https://www.bct-taxonomy.com/about</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=EurFYCWm0wg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EurFYCWm0wg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3966: The Habit Ladder: How To Make A New Routine Stick by Tyler Tervooren of Riskology on...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=EurFYCWm0wg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EurFYCWm0wg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3966: The Habit Ladder: How To Make A New Routine Stick by Tyler Tervooren of Riskology on...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=T58Vg_eRYYI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=T58Vg_eRYYI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Break Bad Habits &amp; Build Good Ones - The Science of Habit Formation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=T58Vg_eRYYI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=T58Vg_eRYYI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Break Bad Habits &amp; Build Good Ones - The Science of Habit Formation...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: ATOMIC HABIT: MODULE 2: The 1st Law – Make It Obvious (Cues)  
-   Link: <a href="https://www.youtube.com/watch?v=vqKawb-4tkI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vqKawb-4tkI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How do you make your habits stick? Environmental Design &amp; Implementation Intention - James Clear...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vqKawb-4tkI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vqKawb-4tkI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How do you make your habits stick? Environmental Design &amp; Implementation Intention - James Clear...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: How to Break Bad Habits & Build Good Ones  
-   Link: <a href="https://www.youtube.com/watch?v=Q8uqza4wz2Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q8uqza4wz2Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE 1ST LAW: Make It Obvious (Part Two of Atomic Habits Book)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Q8uqza4wz2Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q8uqza4wz2Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE 1ST LAW: Make It Obvious (Part Two of Atomic Habits Book)...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/1237676/A_new_look_at_habits_and_the_habit_goal_interface" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/1237676/A_new_look_at_habits_and_the_habit_goal_interface</a>  
+   Link:<a href="https://www.academia.edu/1237676/A_new_look_at_habits_and_the_habit_goal_interface" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/1237676/A_new_look_at_habits_and_the_habit_goal_interface</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions</a>  
+   Link:<a href="https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/264644437_Identifying_the_%27if%27_for_%27if-then%27_plans_Combining_implementation_intentions_with_cue-monitoring_targeting_unhealthy_snacking_behaviour" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/264644437_Identifying_the_%27if%27_for_%27if-then%27_plans_Combining_implementation_intentions_with_cue-monitoring_targeting_unhealthy_snacking_behaviour</a>  
+   Link:<a href="https://www.researchgate.net/publication/264644437_Identifying_the_%27if%27_for_%27if-then%27_plans_Combining_implementation_intentions_with_cue-monitoring_targeting_unhealthy_snacking_behaviour" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/264644437_Identifying_the_%27if%27_for_%27if-then%27_plans_Combining_implementation_intentions_with_cue-monitoring_targeting_unhealthy_snacking_behaviour</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/265236901_Don%27t_Forget_Your_Pill_Designing_Effective_Medication_Reminder_Apps_That_Support_Users%27_Daily_Routines" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/265236901_Don%27t_Forget_Your_Pill_Designing_Effective_Medication_Reminder_Apps_That_Support_Users%27_Daily_Routines</a>  
+   Link:<a href="https://www.researchgate.net/publication/265236901_Don%27t_Forget_Your_Pill_Designing_Effective_Medication_Reminder_Apps_That_Support_Users%27_Daily_Routines" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/265236901_Don%27t_Forget_Your_Pill_Designing_Effective_Medication_Reminder_Apps_That_Support_Users%27_Daily_Routines</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/278405715_Beyond_Self-Tracking_and_Reminders_Designing_Smartphone_Apps_That_Support_Habit_Formation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/278405715_Beyond_Self-Tracking_and_Reminders_Designing_Smartphone_Apps_That_Support_Habit_Formation</a>
+   Link:<a href="https://www.researchgate.net/publication/278405715_Beyond_Self-Tracking_and_Reminders_Designing_Smartphone_Apps_That_Support_Habit_Formation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/278405715_Beyond_Self-Tracking_and_Reminders_Designing_Smartphone_Apps_That_Support_Habit_Formation</a>

@@ -279,11 +279,11 @@ A simple question cuts through much of self-improvement theatre: if someone look
 <img src="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_calendar_test_eb024a-Illustration-1-dark.svg" | relative_url }}" alt="Calendar Test illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_calendar_test_eb024a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_calendar_test_eb024a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The calendar test is not a productivity system. It is a credibility check. A goal becomes more believable when it leaves dated traces of action carried out under ordinary conditions rather than existing only as intentions, plans, reading notes or motivational statements. The test does not ask whether a person cares about a goal. It asks whether the goal changed what happened on Tuesday afternoon, Thursday evening or Saturday morning.
 
-This idea aligns with a large body of behaviour-change research showing that action planning, self-monitoring and implementation intentions help translate intentions into observable behaviour. Successful change tends to leave records of repeated actions, while unsuccessful change often leaves records of thinking about actions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/monitoring-interventions/65DD7F8EBDFC9941E42CF64A218AEA37" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment Monitoring Interventions (Chapter 37</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentMonitoring Interventions (Chapter 37) - The Handbook of...This chapter reviews the evidence that...</span></span></span>
+This idea aligns with a large body of behaviour-change research showing that action planning, self-monitoring and implementation intentions help translate intentions into observable behaviour. Successful change tends to leave records of repeated actions, while unsuccessful change often leaves records of thinking about actions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/monitoring-interventions/65DD7F8EBDFC9941E42CF64A218AEA37" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment Monitoring Interventions (Chapter 37</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentMonitoring Interventions (Chapter 37) - The Handbook of...This chapter reviews the evidence that...</span></span></span>
 
 ## Why Real Change Needs Dated Evidence
 
-One reason self-improvement theatre is persuasive is that mental activity is easy to confuse with behavioural activity. Reading about exercise, organising a study system or redesigning a goal tracker can create a genuine feeling of progress. Yet [behaviour change]({{ 'behaviour-change/' | relative_url }}) researchers consistently distinguish between intentions and the actions that follow from them. Implementation intentions—specific plans that connect a future situation with a concrete response—exist precisely because wanting something and doing something are not the same process. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Time for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 71 — Implementation intentions are arg...</span></span></span>
+One reason self-improvement theatre is persuasive is that mental activity is easy to confuse with behavioural activity. Reading about exercise, organising a study system or redesigning a goal tracker can create a genuine feeling of progress. Yet [behaviour change]({{ 'behaviour-change/' | relative_url }}) researchers consistently distinguish between intentions and the actions that follow from them. Implementation intentions—specific plans that connect a future situation with a concrete response—exist precisely because wanting something and doing something are not the same process.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Time for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 71 — Implementation intentions are arg...</span></span></span>
 
 The calendar test makes this distinction visible. Instead of asking, “Am I serious about this goal?”, it asks:
 
@@ -298,7 +298,7 @@ The calendar test makes this distinction visible. Instead of asking, “Am I ser
 
 A goal to write a book may produce calendar entries showing four writing sessions. A goal to improve fitness may produce three gym visits and two walks. A goal to strengthen relationships may produce scheduled calls, meetings or shared activities.
 
-The point is not that every action must be formally scheduled. The point is that meaningful behavioural change tends to generate timestamps. It leaves traces in diaries, calendars, workout logs, practice records, appointments, checklists or other forms of self-monitoring. Research on self-monitoring repeatedly finds that observing and recording behaviour can [support]({{ 'support/' | relative_url }}) behaviour change by increasing awareness and creating [feedback]({{ 'feedback/' | relative_url }}) loops. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/monitoring-interventions/65DD7F8EBDFC9941E42CF64A218AEA37" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment Monitoring Interventions (Chapter 37</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentMonitoring Interventions (Chapter 37) - The Handbook of...This chapter reviews the evidence that...</span></span></span> University Press & Assessment <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6693254/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The aim of this systematic review and meta-analysis was...Read more...</span></span></span>
+The point is not that every action must be formally scheduled. The point is that meaningful behavioural change tends to generate timestamps. It leaves traces in diaries, calendars, workout logs, practice records, appointments, checklists or other forms of self-monitoring. Research on self-monitoring repeatedly finds that observing and recording behaviour can [support]({{ 'support/' | relative_url }}) behaviour change by increasing awareness and creating [feedback]({{ 'feedback/' | relative_url }}) loops.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/monitoring-interventions/65DD7F8EBDFC9941E42CF64A218AEA37" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment Monitoring Interventions (Chapter 37</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentMonitoring Interventions (Chapter 37) - The Handbook of...This chapter reviews the evidence that...</span></span></span> University Press & Assessment<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6693254/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The aim of this systematic review and meta-analysis was...Read more...</span></span></span>
 
 A useful rule is that memories are weak evidence, while dated records are stronger evidence. People often overestimate consistency when judging themselves retrospectively. A calendar does not eliminate bias, but it reduces the room available for wishful interpretation.
 
@@ -347,7 +347,7 @@ The second person's goal has stronger behavioural evidence. The difference is no
 
 The strongest evidence is not what happens during a highly motivated weekend. It is what happens during an ordinary week.
 
-Behavioural repetition in stable contexts is one of the foundations of habit formation. Habits develop through repeated performance in recurring situations, gradually reducing the need for conscious effort. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 896 — Psychological theory and evide...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 95 — Habit formation is widely discussed across di...</span></span></span>
+Behavioural repetition in stable contexts is one of the foundations of habit formation. Habits develop through repeated performance in recurring situations, gradually reducing the need for conscious effort.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 896 — Psychological theory and evide...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 95 — Habit formation is widely discussed across di...</span></span></span>
 
 For this reason, the calendar test should focus on routine conditions:
 
@@ -362,7 +362,7 @@ For this reason, the calendar test should focus on routine conditions:
 
 A goal that appears only during bursts of inspiration is less robust than a goal that survives ordinary friction.
 
-This is also why small entries matter. Fifteen minutes of writing every weekday may represent a more meaningful behavioural shift than a single five-hour writing session followed by two weeks of inactivity. Research on habit formation repeatedly emphasises repetition and consistency over dramatic effort. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Time for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 71 — Implementation intentions are arg...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6693254/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The aim of this systematic review and meta-analysis was...Read more...</span></span></span>
+This is also why small entries matter. Fifteen minutes of writing every weekday may represent a more meaningful behavioural shift than a single five-hour writing session followed by two weeks of inactivity. Research on habit formation repeatedly emphasises repetition and consistency over dramatic effort.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Time for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 71 — Implementation intentions are arg...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6693254/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The aim of this systematic review and meta-analysis was...Read more...</span></span></span>
 
 The calendar test [rewards]({{ 'rewards/' | relative_url }}) recurrence rather than heroics.
 
@@ -395,7 +395,7 @@ Ask:
 
 </div>
 
-This approach resembles the logic behind self-monitoring interventions used in behaviour-change research. Monitoring is valuable because it creates information, not because it creates guilt. Feedback helps people adjust plans, environments and expectations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/monitoring-interventions/65DD7F8EBDFC9941E42CF64A218AEA37" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment Monitoring Interventions (Chapter 37</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentMonitoring Interventions (Chapter 37) - The Handbook of...This chapter reviews the evidence that...</span></span></span> University Press & Assessment <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1660-4601/22/7/1133" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Implementation of Behavior Change Theories and...by P Cotie · 2025 · Cited by 5 — Examples of these practical strategies that can be...</span></span></span>
+This approach resembles the logic behind self-monitoring interventions used in behaviour-change research. Monitoring is valuable because it creates information, not because it creates guilt. Feedback helps people adjust plans, environments and expectations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/monitoring-interventions/65DD7F8EBDFC9941E42CF64A218AEA37" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment Monitoring Interventions (Chapter 37</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentMonitoring Interventions (Chapter 37) - The Handbook of...This chapter reviews the evidence that...</span></span></span> University Press & Assessment<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1660-4601/22/7/1133" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Implementation of Behavior Change Theories and...by P Cotie · 2025 · Cited by 5 — Examples of these practical strategies that can be...</span></span></span>
 
 Suppose a person intended to exercise five times but exercised twice. The calendar test does not immediately conclude that the person lacks commitment. It asks what happened on the missed days. Were the sessions unrealistic? Were they scheduled at vulnerable times? Did competing obligations consistently interfere?
 
@@ -406,7 +406,7 @@ The review becomes diagnostic rather than punitive.
 
 The most effective version of the test is proactive rather than retrospective.
 
-Implementation-intention research suggests that specifying when and where an action will occur helps close the gap between intention and behaviour. Instead of “I will exercise more”, a person plans, “After work on Monday, Wednesday and Friday, I will walk for thirty minutes.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/10463283.2020.1808936" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: If-then planningby M Bieleke · 2021 · Cited by 124 — They found that participants with implementatio...</span></span></span>
+Implementation-intention research suggests that specifying when and where an action will occur helps close the gap between intention and behaviour. Instead of “I will exercise more”, a person plans, “After work on Monday, Wednesday and Friday, I will walk for thirty minutes.”<span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/10463283.2020.1808936" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: If-then planningby M Bieleke · 2021 · Cited by 124 — They found that participants with implementatio...</span></span></span>
 
 A practical sequence looks like this:
 
@@ -434,194 +434,194 @@ A modest pattern of repeated action is often a stronger sign of progress than a 
 When a goal consistently shows up on the calendar, it has started to move from self-improvement theatre into self-improvement that works.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Does Your Goal Show Up on the Calendar?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Does Your Goal Show Up on the Calendar?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Directly connects habits, tracking, implementation, and behavioural evidence rather than intentions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Directly connects habits, tracking, implementation, and behavioural evidence rather than intentions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
-        </h4>
-        <p class="fr-book-author">By B. J. Fogg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
+</h4>
+<p class="fr-book-author">By B. J. Fogg</p>
         
-        <p class="fr-book-desc">Emphasises small actions that leave visible traces of progress.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasises small actions that leave visible traces of progress.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+7+Habits+of+Highly+Effective+People+by+Stephen+R.+Covey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The 7 Habits of Highly Effective People on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8HvdtAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The 7 Habits of Highly Effective People" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+7+Habits+of+Highly+Effective+People+by+Stephen+R.+Covey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The 7 Habits of Highly Effective People">The 7 Habits of Highly Effective People</a>
-        </h4>
-        <p class="fr-book-author">By Stephen R. Covey</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+7+Habits+of+Highly+Effective+People+by+Stephen+R.+Covey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The 7 Habits of Highly Effective People on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8HvdtAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The 7 Habits of Highly Effective People" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+7+Habits+of+Highly+Effective+People+by+Stephen+R.+Covey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The 7 Habits of Highly Effective People">The 7 Habits of Highly Effective People</a>
+</h4>
+<p class="fr-book-author">By Stephen R. Covey</p>
         
-        <p class="fr-book-desc">Focuses on aligning stated priorities with calendar time and actual behaviour.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+7+Habits+of+Highly+Effective+People+by+Stephen+R.+Covey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on aligning stated priorities with calendar time and actual behaviour.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+7+Habits+of+Highly+Effective+People+by+Stephen+R.+Covey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
-        </h4>
-        <p class="fr-book-author">By Charles Duhigg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
+</h4>
+<p class="fr-book-author">By Charles Duhigg</p>
         
-        <p class="fr-book-desc">Explains how repeated behaviours become reliable patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how repeated behaviours become reliable patterns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+7+Habits+of+Highly+Effective+People&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The 7 Habits of Highly Effective People</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+7+Habits+of+Highly+Effective+People&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The 7 Habits of Highly Effective People</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A5 Productivity Organiser Weekly-Monthly, Year Planner, Pen Loop, Pocket Undated"><img src="https://i.ebayimg.com/images/g/mocAAOSwWbNeZ4fT/s-l225.jpg" alt="Listing image for A5 Productivity Organiser Weekly-Monthly, Year Planner, Pen Loop, Pocket Undated" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" target="_blank" rel="sponsored noopener noreferrer">A5 Productivity Organiser Weekly-Monthly, Year Planner, Pen Loop, Pocket Undated</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for productivity planner">Search <span data-ebay-domain-label>eBay.co.uk</span>: productivity planner</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A5 Productivity Organiser Weekly-Monthly, Year Planner, Pen Loop, Pocket Undated"><img src="https://i.ebayimg.com/images/g/mocAAOSwWbNeZ4fT/s-l225.jpg" alt="Listing image for A5 Productivity Organiser Weekly-Monthly, Year Planner, Pen Loop, Pocket Undated" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" target="_blank" rel="sponsored noopener noreferrer">A5 Productivity Organiser Weekly-Monthly, Year Planner, Pen Loop, Pocket Undated</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for productivity planner">Search<span data-ebay-domain-label>eBay.co.uk</span>: productivity planner</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Text A5 Productivity Planner Weekly/Monthly/Yearly Pen Loop Undated"><img src="https://i.ebayimg.com/images/g/HSMAAOSwmPdnb-8a/s-l225.jpg" alt="Listing image for Personalised Text A5 Productivity Planner Weekly/Monthly/Yearly Pen Loop Undated" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" target="_blank" rel="sponsored noopener noreferrer">Personalised Text A5 Productivity Planner Weekly/Monthly/Yearly Pen Loop Undated</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for productivity planner">Search <span data-ebay-domain-label>eBay.co.uk</span>: productivity planner</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Text A5 Productivity Planner Weekly/Monthly/Yearly Pen Loop Undated"><img src="https://i.ebayimg.com/images/g/HSMAAOSwmPdnb-8a/s-l225.jpg" alt="Listing image for Personalised Text A5 Productivity Planner Weekly/Monthly/Yearly Pen Loop Undated" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" target="_blank" rel="sponsored noopener noreferrer">Personalised Text A5 Productivity Planner Weekly/Monthly/Yearly Pen Loop Undated</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for productivity planner">Search<span data-ebay-domain-label>eBay.co.uk</span>: productivity planner</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ADHD Planner for Adults, A4 with 30 Pages Productivity Planner Notebook to Impro"><img src="https://i.ebayimg.com/images/g/3uQAAeSwTrNqIyzM/s-l225.jpg" alt="Listing image for ADHD Planner for Adults, A4 with 30 Pages Productivity Planner Notebook to Impro" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" target="_blank" rel="sponsored noopener noreferrer">ADHD Planner for Adults, A4 with 30 Pages Productivity Planner Notebook to Impro</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for productivity planner">Search <span data-ebay-domain-label>eBay.co.uk</span>: productivity planner</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ADHD Planner for Adults, A4 with 30 Pages Productivity Planner Notebook to Impro"><img src="https://i.ebayimg.com/images/g/3uQAAeSwTrNqIyzM/s-l225.jpg" alt="Listing image for ADHD Planner for Adults, A4 with 30 Pages Productivity Planner Notebook to Impro" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" target="_blank" rel="sponsored noopener noreferrer">ADHD Planner for Adults, A4 with 30 Pages Productivity Planner Notebook to Impro</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for productivity planner">Search<span data-ebay-domain-label>eBay.co.uk</span>: productivity planner</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A5 Personalised Productivity Planner Weekly/Monthly/Year Pen Loop Pocket Undated"><img src="https://i.ebayimg.com/images/g/LpkAAOSwTWFnb~mj/s-l225.jpg" alt="Listing image for A5 Personalised Productivity Planner Weekly/Monthly/Year Pen Loop Pocket Undated" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" target="_blank" rel="sponsored noopener noreferrer">A5 Personalised Productivity Planner Weekly/Monthly/Year Pen Loop Pocket Undated</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for productivity planner">Search <span data-ebay-domain-label>eBay.co.uk</span>: productivity planner</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A5 Personalised Productivity Planner Weekly/Monthly/Year Pen Loop Pocket Undated"><img src="https://i.ebayimg.com/images/g/LpkAAOSwTWFnb~mj/s-l225.jpg" alt="Listing image for A5 Personalised Productivity Planner Weekly/Monthly/Year Pen Loop Pocket Undated" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" target="_blank" rel="sponsored noopener noreferrer">A5 Personalised Productivity Planner Weekly/Monthly/Year Pen Loop Pocket Undated</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for productivity planner">Search<span data-ebay-domain-label>eBay.co.uk</span>: productivity planner</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-your-goal-show-up-on-the-calendar-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="does-your-goal-show-up-on-the-calendar-productivity-planner" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -637,7 +637,7 @@ When a goal consistently shows up on the calendar, it has started to move from s
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -657,7 +657,7 @@ When a goal consistently shows up on the calendar, it has started to move from s
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -689,7 +689,7 @@ When a goal consistently shows up on the calendar, it has started to move from s
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -741,7 +741,7 @@ When a goal consistently shows up on the calendar, it has started to move from s
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -786,7 +786,7 @@ When a goal consistently shows up on the calendar, it has started to move from s
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -827,113 +827,113 @@ When a goal consistently shows up on the calendar, it has started to move from s
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cancercontrol.cancer.gov  
-   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</p></details>
+   Link:<a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cambridge.org  
    Title: University Press & Assessment Monitoring Interventions (Chapter 37)  
-   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/monitoring-interventions/65DD7F8EBDFC9941E42CF64A218AEA37" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/monitoring-interventions/65DD7F8EBDFC9941E42CF64A218AEA37</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentMonitoring Interventions (Chapter 37) - The Handbook of...This chapter reviews the evidence that...</p></details>
+   Link:<a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/monitoring-interventions/65DD7F8EBDFC9941E42CF64A218AEA37" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/monitoring-interventions/65DD7F8EBDFC9941E42CF64A218AEA37</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentMonitoring Interventions (Chapter 37) - The Handbook of...This chapter reviews the evidence that...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/1660-4601/22/7/1133" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1660-4601/22/7/1133</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation of Behavior Change Theories and...by P Cotie · 2025 · Cited by 5 — Examples of these practical strategies that can be...</p></details>
+   Link:<a href="https://www.mdpi.com/1660-4601/22/7/1133" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1660-4601/22/7/1133</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation of Behavior Change Theories and...by P Cotie · 2025 · Cited by 5 — Examples of these practical strategies that can be...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Time for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 71 — Implementation intentions are arg...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6440859/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Time for Change: Using Implementation Intentions to Promote...by SA Robinson · 2018 · Cited by 71 — Implementation intentions are arg...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cambridge.org  
    Title: University Press & Assessment39  
-   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment39 - Planning and Implementation Intention InterventionsSeveral reviews and meta-analyses have exp...</p></details>
+   Link:<a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment39 - Planning and Implementation Intention InterventionsSeveral reviews and meta-analyses have exp...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6693254/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6693254/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The aim of this systematic review and meta-analysis was...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6693254/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6693254/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The aim of this systematic review and meta-analysis was...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 896 — Psychological theory and evide...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 896 — Psychological theory and evide...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 95 — Habit formation is widely discussed across di...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 95 — Habit formation is widely discussed across di...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/1660-4601/16/20/3806" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1660-4601/16/20/3806</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Importance of Self-Monitoring for Behavior Change in...by GM McLoughlin · 2019 · Cited by 29 — The present study tests the utility o...</p></details>
+   Link:<a href="https://www.mdpi.com/1660-4601/16/20/3806" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1660-4601/16/20/3806</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Importance of Self-Monitoring for Behavior Change in...by GM McLoughlin · 2019 · Cited by 29 — The present study tests the utility o...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2071-1050/15/16/12457" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2071-1050/15/16/12457</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meta-Analysis of Implementation Intentions Interventions in...by S Peng · 2023 · Cited by 4 — This meta-analysis aims to determine the e...</p></details>
+   Link:<a href="https://www.mdpi.com/2071-1050/15/16/12457" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2071-1050/15/16/12457</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meta-Analysis of Implementation Intentions Interventions in...by S Peng · 2023 · Cited by 4 — This meta-analysis aims to determine the e...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/10463283.2020.1808936" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10463283.2020.1808936</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: If-then planningby M Bieleke · 2021 · Cited by 124 — They found that participants with implementatio...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/10463283.2020.1808936" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/10463283.2020.1808936</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: If-then planningby M Bieleke · 2021 · Cited by 124 — They found that participants with implementatio...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/336406914_The_Importance_of_Self-Monitoring_for_Behavior_Change_in_Youth_Findings_from_the_SWITCH_R_School_Wellness_Feasibility_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/336406914_The_Importance_of_Self-Monitoring_for_Behavior_Change_in_Youth_Findings_from_the_SWITCH_R_School_Wellness_Feasibility_Study</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Importance of Self-Monitoring for Behavior Change in...10 Oct 2019 — Prior research has shown that self-monitoring is an effective b...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/336406914_The_Importance_of_Self-Monitoring_for_Behavior_Change_in_Youth_Findings_from_the_SWITCH_R_School_Wellness_Feasibility_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/336406914_The_Importance_of_Self-Monitoring_for_Behavior_Change_in_Youth_Findings_from_the_SWITCH_R_School_Wellness_Feasibility_Study</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Importance of Self-Monitoring for Behavior Change in...10 Oct 2019 — Prior research has shown that self-monitoring is an effective b...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: eprints.bournemouth.ac.uk  
-   Link: <a href="https://eprints.bournemouth.ac.uk/37442/7/British%20J%20Health%20Psychol%20-%202022%20-%20B%20sch%20-%20What%20do%20older%20adults%20think%20about%20when%20formulating%20implementation%20intentions%20for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.bournemouth.ac.uk/37442/7/British%20J%20Health%20Psychol%20-%202022%20-%20B%20sch%20-%20What%20do%20older%20adults%20think%20about%20when%20formulating%20implementation%20intentions%20for.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>do older adults think about when formulating...by VD Bösch · 2022 · Cited by 4 — While implementation intentions were not included in th...</p></details>
+   Link:<a href="https://eprints.bournemouth.ac.uk/37442/7/British%20J%20Health%20Psychol%20-%202022%20-%20B%20sch%20-%20What%20do%20older%20adults%20think%20about%20when%20formulating%20implementation%20intentions%20for.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.bournemouth.ac.uk/37442/7/British%20J%20Health%20Psychol%20-%202022%20-%20B%20sch%20-%20What%20do%20older%20adults%20think%20about%20when%20formulating%20implementation%20intentions%20for.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>do older adults think about when formulating...by VD Bösch · 2022 · Cited by 4 — While implementation intentions were not included in th...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/330406744_Habit_Formation_and_Behavior_Change" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/330406744_Habit_Formation_and_Behavior_Change</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit Formation and Behavior Change | Request PDFSpurred by development of self-report habit measures, studies have modeled the relations...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/330406744_Habit_Formation_and_Behavior_Change" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/330406744_Habit_Formation_and_Behavior_Change</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Habit Formation and Behavior Change | Request PDFSpurred by development of self-report habit measures, studies have modeled the relations...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/272189556_Self-Monitoring_vs_Implementation_Intentions_a_Comparison_of_Behaviour_Change_Techniques_to_Improve_Sleep_Hygiene_and_Sleep_Outcomes_in_Students" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/272189556_Self-Monitoring_vs_Implementation_Intentions_a_Comparison_of_Behaviour_Change_Techniques_to_Improve_Sleep_Hygiene_and_Sleep_Outcomes_in_Students</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Monitoring vs. Implementation IntentionsThis study seeks to investigate and compare the efficacy of self-monitoring and implementati...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/272189556_Self-Monitoring_vs_Implementation_Intentions_a_Comparison_of_Behaviour_Change_Techniques_to_Improve_Sleep_Hygiene_and_Sleep_Outcomes_in_Students" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/272189556_Self-Monitoring_vs_Implementation_Intentions_a_Comparison_of_Behaviour_Change_Techniques_to_Improve_Sleep_Hygiene_and_Sleep_Outcomes_in_Students</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Monitoring vs. Implementation IntentionsThis study seeks to investigate and compare the efficacy of self-monitoring and implementati...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: jamesclear.com  
-   Link: <a href="https://jamesclear.com/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/implementation-intentions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>king to our goals, whether it&#x27;s writing down the exact time and date of when...Read more...</p></details>
+   Link:<a href="https://jamesclear.com/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/implementation-intentions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>king to our goals, whether it&#x27;s writing down the exact time and date of when...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1186/s12966-020-01001-x" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12966-020-01001-x</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>behaviour change [techniques](&amp;#123;&amp;#123; &#x27;techniques/&#x27; | relative_url &amp;#125;&amp;#125;) are effective to promote...by H Schroé · 2020 · Cited by 160 — Therefore, this experimental study investigat...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1186/s12966-020-01001-x" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12966-020-01001-x</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>behaviour change [techniques](&amp;#123;&amp;#123; &#x27;techniques/&#x27; | relative_url &amp;#125;&amp;#125;) are effective to promote...by H Schroé · 2020 · Cited by 160 — Therefore, this experimental study investigat...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: healthline.com  
-   Link: <a href="https://www.healthline.com/health/how-long-does-it-take-to-form-a-habit" target="_blank" rel="noopener noreferrer nofollow">https://www.healthline.com/health/how-long-does-it-take-to-form-a-habit</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit Formation: How Long It Takes and How to Start NowDepending on the behavior, it may become automatic for you in about [66 days](&amp;#123;&amp;#123; &#x27;66-days/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://www.healthline.com/health/how-long-does-it-take-to-form-a-habit" target="_blank" rel="noopener noreferrer nofollow">https://www.healthline.com/health/how-long-does-it-take-to-form-a-habit</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Habit Formation: How Long It Takes and How to Start NowDepending on the behavior, it may become automatic for you in about [66 days](&amp;#123;&amp;#123; &#x27;66-days/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/25673110/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/25673110/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Intentionsby L Mairs · 2015 · Cited by 121 — Conclusion: Both self-monitoring and implementation intentions appear to be p...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/25673110/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/25673110/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Intentionsby L Mairs · 2015 · Cited by 121 — Conclusion: Both self-monitoring and implementation intentions appear to be p...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: thedecisionlab.com  
    Title: quantified self lead behaviour change  
-   Link: <a href="https://thedecisionlab.com/insights/health/quantified-self-lead-behaviour-change" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/insights/health/quantified-self-lead-behaviour-change</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Does the Quantified-Self lead to behavior change?7 Nov 2017 — This article explores how these difficulties can be overcome, and highlight...</p></details>
+   Link:<a href="https://thedecisionlab.com/insights/health/quantified-self-lead-behaviour-change" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/insights/health/quantified-self-lead-behaviour-change</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Does the Quantified-Self lead to behavior change?7 Nov 2017 — This article explores how these difficulties can be overcome, and highlight...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: psychologytoday.com  
    Title: the science behind habit tracking  
-   Link: <a href="https://www.psychologytoday.com/us/blog/parenting-from-a-neuroscience-perspective/202512/the-science-behind-habit-tracking" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/blog/parenting-from-a-neuroscience-perspective/202512/the-science-behind-habit-tracking</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>14 Dec 2025 — Tracking behavior increases goal success because self-monitoring itself drives change. Checkmarks trigger dopamine rewards...</p></details>
+   Link:<a href="https://www.psychologytoday.com/us/blog/parenting-from-a-neuroscience-perspective/202512/the-science-behind-habit-tracking" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/blog/parenting-from-a-neuroscience-perspective/202512/the-science-behind-habit-tracking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>14 Dec 2025 — Tracking behavior increases goal success because self-monitoring itself drives change. Checkmarks trigger dopamine rewards...</p></details>

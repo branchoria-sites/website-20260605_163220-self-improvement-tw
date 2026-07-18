@@ -505,11 +505,11 @@ image: /assets/images/self_improvement_tha_c01280_gym_after_work_1077e6-overview
 An after-work gym routine works best when it is treated less like a test of [motivation]({{ 'motivation/' | relative_url }}) and more like a logistics problem. The decisive details are often dull but powerful: clothes packed before bed, a gym chosen near work or on the route home, a fixed start time, a short “[minimum workout]({{ 'minimum-workout/' | relative_url }})” for tired days, and a rule that prevents the sofa from becoming the real destination. That matters because exercise plans commonly fail at the handover point between work and home, when decision fatigue, commuting friction and physical tiredness are highest.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_gym_after_work_1077e6-overview.webp" | relative_url }}" alt="Overview image for Gym Routine" loading="eager" decoding="sync" fetchpriority="high">
-The practical aim is not to build the perfect programme on paper. It is to make the first 20 minutes after work almost automatic. Public health guidance gives the broad target: adults should aim for 150 minutes of moderate activity, or 75 minutes of vigorous activity, each week, plus muscle-strengthening work on at least two days. But an after-work routine succeeds by translating that target into repeatable evenings that can survive meetings running late, a crowded train, hunger, and the familiar thought that tomorrow would be easier. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhs.uk/live-well/exercise/physical-activity-guidelines-for-adults-aged-19-to-64/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhs.uk">[nhs.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhs.uk</span><span class="citation-popover-title">Take the healthy</span><span class="citation-popover-snippet">Physical activity guidelines for adults aged 19 to 64Muscle-strengthening exercises are not always an aerobic activity, so you&#x27;ll need to...</span></span></span>
+The practical aim is not to build the perfect programme on paper. It is to make the first 20 minutes after work almost automatic. Public health guidance gives the broad target: adults should aim for 150 minutes of moderate activity, or 75 minutes of vigorous activity, each week, plus muscle-strengthening work on at least two days. But an after-work routine succeeds by translating that target into repeatable evenings that can survive meetings running late, a crowded train, hunger, and the familiar thought that tomorrow would be easier.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhs.uk/live-well/exercise/physical-activity-guidelines-for-adults-aged-19-to-64/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhs.uk">[nhs.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhs.uk</span><span class="citation-popover-title">Take the healthy</span><span class="citation-popover-snippet">Physical activity guidelines for adults aged 19 to 64Muscle-strengthening exercises are not always an aerobic activity, so you&#x27;ll need to...</span></span></span>
 
 ## Why the after-work slot is difficult
 
-The after-work gym plan has one obvious advantage: the working day is already over, so training does not have to compete with early alarms or school-run pressure. It also has one obvious enemy: fatigue. Research on working populations has repeatedly found that tiredness after work is associated with lower leisure-time physical activity, especially where work is physically demanding or recovery is poor. A Danish study of more than 10,000 adults examined work-related fatigue and leisure-time activity, while a later Finnish study similarly found that tiredness after work was linked with less self-reported physical activity during leisure time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29609495/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Is fatigue after work a barrier for leisure-time physical...by R Bláfoss · 2019 · Cited by 98 — This study investigates the associ...</span></span></span>
+The after-work gym plan has one obvious advantage: the working day is already over, so training does not have to compete with early alarms or school-run pressure. It also has one obvious enemy: fatigue. Research on working populations has repeatedly found that tiredness after work is associated with lower leisure-time physical activity, especially where work is physically demanding or recovery is poor. A Danish study of more than 10,000 adults examined work-related fatigue and leisure-time activity, while a later Finnish study similarly found that tiredness after work was linked with less self-reported physical activity during leisure time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29609495/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Is fatigue after work a barrier for leisure-time physical...by R Bláfoss · 2019 · Cited by 98 — This study investigates the associ...</span></span></span>
 
 This does not mean evening gym plans are doomed. It means they need a different design from a weekend workout. A Saturday plan can rely on open time; a post-work plan needs a handrail. The question is not “Will I feel like going?” but “What happens automatically when I leave the office?” The most useful routine removes as many decisions as possible before the vulnerable moment arrives.
 
@@ -519,7 +519,7 @@ That is where after-work training fits the wider idea of [self improvement that 
 
 The gym bag is not just a container. It is a commitment device. Packing it the night before turns tomorrow’s workout from a vague intention into a visible plan: shoes, clothes, towel, headphones, water bottle, lock, snack, and any work-to-gym transition items are already handled. This matters because action planning is consistently treated in behaviour-change research as a way to bridge the gap between intending to exercise and actually doing it.
 
-Implementation intentions are “if–then” plans: if a particular situation occurs, then a specific action follows. Reviews and meta-analyses have found that implementation intentions can help promote physical activity, though effects vary and are usually not magical on their own. The more useful takeaway for after-work gym routines is practical: “I should go to the gym” is weak; “If it is Tuesday at 5.45 pm, I leave work, change at the gym, and do workout B” is stronger. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6235272/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Impact of implementation intentions on physical activity</span><span class="citation-popover-snippet">Pub Med Central Impact of implementation intentions on physical activity</span></span></span>
+Implementation intentions are “if–then” plans: if a particular situation occurs, then a specific action follows. Reviews and meta-analyses have found that implementation intentions can help promote physical activity, though effects vary and are usually not magical on their own. The more useful takeaway for after-work gym routines is practical: “I should go to the gym” is weak; “If it is Tuesday at 5.45 pm, I leave work, change at the gym, and do workout B” is stronger.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6235272/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Impact of implementation intentions on physical activity</span><span class="citation-popover-snippet">Pub Med Central Impact of implementation intentions on physical activity</span></span></span>
 
 Packing the night before makes that if–then plan physical. It also stops the morning from becoming the first failure point. A good [packed bag]({{ 'packed-bag/' | relative_url }}) is boringly complete:
 
@@ -533,12 +533,12 @@ Packing the night before makes that if–then plan physical. It also stops the m
 
 </div>
 
-The key is not owning more kit. It is reducing the number of things that must be remembered when you are leaving the house, already thinking about work. In behaviour-change terms, the packed bag acts as a prompt and reduces friction; both are commonly used ingredients in physical-activity interventions. An umbrella review of behaviour-change techniques in physical activity found recurring use of techniques such as goal setting, self-monitoring, feedback, prompts and [social support]({{ 'social-support/' | relative_url }}) across interventions, while newer reviews continue to identify prompts, self-monitoring and support as more common in effective programmes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6235272/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Impact of implementation intentions on physical activity</span><span class="citation-popover-snippet">Pub Med Central Impact of implementation intentions on physical activity</span></span></span>
+The key is not owning more kit. It is reducing the number of things that must be remembered when you are leaving the house, already thinking about work. In behaviour-change terms, the packed bag acts as a prompt and reduces friction; both are commonly used ingredients in physical-activity interventions. An umbrella review of behaviour-change techniques in physical activity found recurring use of techniques such as goal setting, self-monitoring, feedback, prompts and [social support]({{ 'social-support/' | relative_url }}) across interventions, while newer reviews continue to identify prompts, self-monitoring and support as more common in effective programmes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6235272/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Impact of implementation intentions on physical activity</span><span class="citation-popover-snippet">Pub Med Central Impact of implementation intentions on physical activity</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_gym_after_work_1077e6-Illustration-1-dark.svg" | relative_url }}" alt="Gym Routine illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_gym_after_work_1077e6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_gym_after_work_1077e6-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Choosing realistic days beats chasing the perfect week
 
-The classic mistake is planning five after-work gym sessions because the future self appears energetic. The useful starting point is usually two or three realistic evenings, chosen around the actual week rather than the imaginary one. The NHS and ACSM guidelines do not require gym attendance every day; they point to weekly totals and at least two days of muscle-strengthening activity. That leaves room for a routine built around consistency rather than punishment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhs.uk/live-well/exercise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhs.uk">[nhs.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhs.uk</span><span class="citation-popover-snippet">Open source on nhs.uk.</span></span></span>
+The classic mistake is planning five after-work gym sessions because the future self appears energetic. The useful starting point is usually two or three realistic evenings, chosen around the actual week rather than the imaginary one. The NHS and ACSM guidelines do not require gym attendance every day; they point to weekly totals and at least two days of muscle-strengthening activity. That leaves room for a routine built around consistency rather than punishment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhs.uk/live-well/exercise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhs.uk">[nhs.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhs.uk</span><span class="citation-popover-snippet">Open source on nhs.uk.</span></span></span>
 
 A realistic schedule starts by identifying the evenings least likely to collapse. For many people, Monday is psychologically clean but operationally crowded; Friday is socially fragile; Wednesday may be the best anchor because it splits the week. The right answer depends on work patterns, commute, childcare, sleep and gym access. The test is simple: which two evenings can survive an ordinary bad day?
 
@@ -550,7 +550,7 @@ A strong beginner template might look like this:
 
 **Flexible two-plus-one:** Two fixed gym evenings and one optional weekend session. This works well for people whose job regularly overruns.
 
-The realistic-days principle also protects recovery. Exercise habits often fail when people confuse ambition with volume. Starting smaller creates more successful repetitions, and successful repetitions are what make the routine feel normal. A large fitness-club study on exercise adherence found that many new members have low attendance in the first months, while newer gym-attendance research suggests that sustained engagement is shaped by timing, social dynamics, personal guidance and visit patterns rather than membership alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6235272/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Impact of implementation intentions on physical activity</span><span class="citation-popover-snippet">Pub Med Central Impact of implementation intentions on physical activity</span></span></span>
+The realistic-days principle also protects recovery. Exercise habits often fail when people confuse ambition with volume. Starting smaller creates more successful repetitions, and successful repetitions are what make the routine feel normal. A large fitness-club study on exercise adherence found that many new members have low attendance in the first months, while newer gym-attendance research suggests that sustained engagement is shaped by timing, social dynamics, personal guidance and visit patterns rather than membership alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6235272/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Impact of implementation intentions on physical activity</span><span class="citation-popover-snippet">Pub Med Central Impact of implementation intentions on physical activity</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9IqmDiVXFag" title="my productive routine after work" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9IqmDiVXFag" target="_blank" rel="noopener noreferrer">my productive routine after work</a></p><p class="youtube-embed-meta">Channel: Mariana Vieira &middot; Views: 129.6K &middot; Uploaded: February 2020 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9IqmDiVXFag" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9IqmDiVXFag">Open on YouTube</a></p></div></div></div>
 
@@ -566,7 +566,7 @@ Crowding matters too. Some people skip because the gym after work feels chaotic:
 
 ## What to do when energy is low
 
-A sustainable after-work routine needs a planned low-energy version. Without one, the choice becomes “full workout or failure”, and tired evenings turn into missed evenings. Research on work-related fatigue suggests that exhaustion can reduce leisure-time activity, but the Danish study also noted that lower-intensity activity may remain more feasible for fatigued workers than high-intensity exercise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29609495/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Is fatigue after work a barrier for leisure-time physical...by R Bláfoss · 2019 · Cited by 98 — This study investigates the associ...</span></span></span>
+A sustainable after-work routine needs a planned low-energy version. Without one, the choice becomes “full workout or failure”, and tired evenings turn into missed evenings. Research on work-related fatigue suggests that exhaustion can reduce leisure-time activity, but the Danish study also noted that lower-intensity activity may remain more feasible for fatigued workers than high-intensity exercise.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29609495/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Is fatigue after work a barrier for leisure-time physical...by R Bláfoss · 2019 · Cited by 98 — This study investigates the associ...</span></span></span>
 
 The backup workout should be decided before it is needed. It is not a consolation prize; it is the routine’s shock absorber. The goal is to preserve the identity and rhythm of showing up without forcing a hard session from a depleted body.
 
@@ -582,12 +582,12 @@ A useful low-energy menu includes:
 
 </div>
 
-This works because it protects continuity. Habit formation research does not support the popular myth that a complex habit becomes automatic in 21 days. Reviews of health-related habit formation suggest that habits vary widely in how long they take, with consistency, timing, enjoyment and context all shaping the process. For exercise, which is more demanding than drinking a glass of water, the early win is not automaticity; it is reducing the number of broken links in the chain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.verywellhealth.com/how-long-does-it-take-to-form-a-habit-11716094" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verywellhealth.com">[Verywell Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verywellhealth.com</span><span class="citation-popover-title">Verywell Health Here&#x27;s How Long It Takes to Make Exercise a Regular Habit</span><span class="citation-popover-snippet">Experts recommend four strategies to help make exercise a consistent habit: start small and schedule workouts as non-negotiable appointme...</span></span></span>
+This works because it protects continuity. Habit formation research does not support the popular myth that a complex habit becomes automatic in 21 days. Reviews of health-related habit formation suggest that habits vary widely in how long they take, with consistency, timing, enjoyment and context all shaping the process. For exercise, which is more demanding than drinking a glass of water, the early win is not automaticity; it is reducing the number of broken links in the chain.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.verywellhealth.com/how-long-does-it-take-to-form-a-habit-11716094" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verywellhealth.com">[Verywell Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verywellhealth.com</span><span class="citation-popover-title">Verywell Health Here&#x27;s How Long It Takes to Make Exercise a Regular Habit</span><span class="citation-popover-snippet">Experts recommend four strategies to help make exercise a consistent habit: start small and schedule workouts as non-negotiable appointme...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_gym_after_work_1077e6-Illustration-2-dark.svg" | relative_url }}" alt="Gym Routine illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_gym_after_work_1077e6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_gym_after_work_1077e6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Evening training and sleep: useful, unless it runs too late
 
-Many people avoid after-work gym plans because they worry evening exercise will damage sleep. The evidence is more nuanced. A 2019 meta-analysis found that evening exercise did not generally harm sleep in healthy participants, but vigorous exercise ending within an hour of bedtime could impair sleep onset, total sleep time or sleep efficiency. More recent large-cohort evidence suggests that later, high-strain evening exercise is associated with delayed sleep, shorter sleep duration, lower sleep quality and less favourable overnight recovery markers, while sessions ending at least four hours before sleep were not associated with those changes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29609495/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Is fatigue after work a barrier for leisure-time physical...by R Bláfoss · 2019 · Cited by 98 — This study investigates the associ...</span></span></span>
+Many people avoid after-work gym plans because they worry evening exercise will damage sleep. The evidence is more nuanced. A 2019 meta-analysis found that evening exercise did not generally harm sleep in healthy participants, but vigorous exercise ending within an hour of bedtime could impair sleep onset, total sleep time or sleep efficiency. More recent large-cohort evidence suggests that later, high-strain evening exercise is associated with delayed sleep, shorter sleep duration, lower sleep quality and less favourable overnight recovery markers, while sessions ending at least four hours before sleep were not associated with those changes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29609495/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Is fatigue after work a barrier for leisure-time physical...by R Bláfoss · 2019 · Cited by 98 — This study investigates the associ...</span></span></span>
 
 The practical conclusion is not “never train after work”. It is “match the workout to bedtime”. If bedtime is 10.30 pm, a hard 8.45 pm interval class may be a poor fit. If training ends at 7.00 pm, evening exercise is much less likely to be a problem for many people. Intensity also matters: heavy lifting, maximal intervals and competitive sport are more stimulating than steady cycling, moderate lifting or mobility work.
 
@@ -615,7 +615,7 @@ The most reliable plan is specific enough to execute and flexible enough not to 
 
 **At the gym:** start with the first exercise even if energy is low. Motivation often arrives after the warm-up, but the plan should not require it beforehand.
 
-**After training:** record the session simply: done, duration, one note. Self-monitoring and [feedback]({{ 'feedback/' | relative_url }}) are common behaviour-change tools because they make progress visible and help adjust the plan. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6235272/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Impact of implementation intentions on physical activity</span><span class="citation-popover-snippet">Pub Med Central Impact of implementation intentions on physical activity</span></span></span>
+**After training:** record the session simply: done, duration, one note. Self-monitoring and [feedback]({{ 'feedback/' | relative_url }}) are common behaviour-change tools because they make progress visible and help adjust the plan.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6235272/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Impact of implementation intentions on physical activity</span><span class="citation-popover-snippet">Pub Med Central Impact of implementation intentions on physical activity</span></span></span>
 
 For a beginner, two full-body sessions are enough to build the habit:
 
@@ -650,7 +650,7 @@ Better rule: use the crowded-gym version. Swap equipment rather than waiting for
 
 Better rule: no sitting down before changing. If home is unavoidable, the [first action]({{ 'first-action/' | relative_url }}) is putting on gym clothes.
 
-These rules are forms of coping planning: anticipating barriers and deciding responses in advance. Studies of action planning and coping planning describe them as self-regulatory strategies intended to bridge the intention–behaviour gap, with action planning covering when, where and how, and coping planning covering obstacles and responses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6235272/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Impact of implementation intentions on physical activity</span><span class="citation-popover-snippet">Pub Med Central Impact of implementation intentions on physical activity</span></span></span>
+These rules are forms of coping planning: anticipating barriers and deciding responses in advance. Studies of action planning and coping planning describe them as self-regulatory strategies intended to bridge the intention–behaviour gap, with action planning covering when, where and how, and coping planning covering obstacles and responses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6235272/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Impact of implementation intentions on physical activity</span><span class="citation-popover-snippet">Pub Med Central Impact of implementation intentions on physical activity</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VrKwa4CKz-E" title="Forged After Work" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VrKwa4CKz-E" target="_blank" rel="noopener noreferrer">Forged After Work</a></p><p class="youtube-embed-meta">Channel: CrossFit &middot; Views: 2.2K &middot; Uploaded: October 2025 &middot; Length: 38 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VrKwa4CKz-E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VrKwa4CKz-E">Open on YouTube</a></p></div></div></div>
 
@@ -663,269 +663,269 @@ More commonly, the decision is not gym versus no gym but hard training versus li
 The after-work gym routine survives when it is built for the person who actually leaves work tired, hungry and ready to negotiate. Pack before the day begins. Choose realistic days. Travel directly. Keep the workout simple. Use a backup session without shame. Protect sleep. That is less glamorous than a transformation montage, but it is much closer to self improvement that works.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can the Gym Survive the Workday?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can the Gym Survive the Workday?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
-        </h4>
-        <p class="fr-book-author">By B. J. Fogg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
+</h4>
+<p class="fr-book-author">By B. J. Fogg</p>
         
-        <p class="fr-book-desc">Encourages small actions that keep gym attendance alive.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages small actions that keep gym attendance alive.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Ideal for building consistent exercise routines.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Ideal for building consistent exercise routines.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Carol S. Dweck</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
-        <p class="fr-book-desc">Addresses beliefs and learning approaches that support improvement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
+</h4>
+<p class="fr-book-author">By Carol S. Dweck</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
+<p class="fr-book-desc">Addresses beliefs and learning approaches that support improvement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
-        </h4>
-        <p class="fr-book-author">By Charles Duhigg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
+</h4>
+<p class="fr-book-author">By Charles Duhigg</p>
         
-        <p class="fr-book-desc">Explains how routines survive daily friction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how routines survive daily friction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 x 500ML Hand Held Workout Water Bottle with Pump Cap"><img src="{{ '/assets/images/marketplace-covers/ed5e8c5034c8bae4f31e.jpg' | relative_url }}" alt="Listing image for 2 x 500ML Hand Held Workout Water Bottle with Pump Cap" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">2 x 500ML Hand Held Workout Water Bottle with Pump Cap</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for workout water bottle">Search <span data-ebay-domain-label>eBay.co.uk</span>: workout water bottle</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 x 500ML Hand Held Workout Water Bottle with Pump Cap"><img src="{{ '/assets/images/marketplace-covers/ed5e8c5034c8bae4f31e.jpg' | relative_url }}" alt="Listing image for 2 x 500ML Hand Held Workout Water Bottle with Pump Cap" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">2 x 500ML Hand Held Workout Water Bottle with Pump Cap</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for workout water bottle">Search<span data-ebay-domain-label>eBay.co.uk</span>: workout water bottle</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 X Zulu Vacuum Insulated Stainless Steel WaterBottle Gym Workout Sports Bottle"><img src="{{ '/assets/images/marketplace-covers/d1268248f413bf224af5.jpg' | relative_url }}" alt="Listing image for 2 X Zulu Vacuum Insulated Stainless Steel WaterBottle Gym Workout Sports Bottle" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">2 X Zulu Vacuum Insulated Stainless Steel WaterBottle Gym Workout Sports Bottle</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for workout water bottle">Search <span data-ebay-domain-label>eBay.co.uk</span>: workout water bottle</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 X Zulu Vacuum Insulated Stainless Steel WaterBottle Gym Workout Sports Bottle"><img src="{{ '/assets/images/marketplace-covers/d1268248f413bf224af5.jpg' | relative_url }}" alt="Listing image for 2 X Zulu Vacuum Insulated Stainless Steel WaterBottle Gym Workout Sports Bottle" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">2 X Zulu Vacuum Insulated Stainless Steel WaterBottle Gym Workout Sports Bottle</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for workout water bottle">Search<span data-ebay-domain-label>eBay.co.uk</span>: workout water bottle</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Handheld Workout Water Bottle Running Sports Gym Hiking Lightweight 500ml"><img src="{{ '/assets/images/marketplace-covers/1f7aebfea71699688c97.jpg' | relative_url }}" alt="Listing image for Handheld Workout Water Bottle Running Sports Gym Hiking Lightweight 500ml" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Handheld Workout Water Bottle Running Sports Gym Hiking Lightweight 500ml</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for workout water bottle">Search <span data-ebay-domain-label>eBay.co.uk</span>: workout water bottle</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Handheld Workout Water Bottle Running Sports Gym Hiking Lightweight 500ml"><img src="{{ '/assets/images/marketplace-covers/1f7aebfea71699688c97.jpg' | relative_url }}" alt="Listing image for Handheld Workout Water Bottle Running Sports Gym Hiking Lightweight 500ml" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Handheld Workout Water Bottle Running Sports Gym Hiking Lightweight 500ml</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for workout water bottle">Search<span data-ebay-domain-label>eBay.co.uk</span>: workout water bottle</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MANGO Water Bottle 2.2 Litre BPA Free Sports Gym Workout Drinking with Straw"><img src="{{ '/assets/images/marketplace-covers/b3d996f6407349ece96e.jpg' | relative_url }}" alt="Listing image for MANGO Water Bottle 2.2 Litre BPA Free Sports Gym Workout Drinking with Straw" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MANGO Water Bottle 2.2 Litre BPA Free Sports Gym Workout Drinking with Straw</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for workout water bottle">Search <span data-ebay-domain-label>eBay.co.uk</span>: workout water bottle</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MANGO Water Bottle 2.2 Litre BPA Free Sports Gym Workout Drinking with Straw"><img src="{{ '/assets/images/marketplace-covers/b3d996f6407349ece96e.jpg' | relative_url }}" alt="Listing image for MANGO Water Bottle 2.2 Litre BPA Free Sports Gym Workout Drinking with Straw" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">MANGO Water Bottle 2.2 Litre BPA Free Sports Gym Workout Drinking with Straw</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for workout water bottle">Search<span data-ebay-domain-label>eBay.co.uk</span>: workout water bottle</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=workout+water+bottle&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gym-routine-can-the-gym-survive-the-workday-self-improvement-that-works-workout-water-bottle&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -941,7 +941,7 @@ The after-work gym routine survives when it is built for the person who actually
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -961,7 +961,7 @@ The after-work gym routine survives when it is built for the person who actually
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -993,7 +993,7 @@ The after-work gym routine survives when it is built for the person who actually
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -1023,7 +1023,7 @@ The after-work gym routine survives when it is built for the person who actually
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -1081,178 +1081,178 @@ The after-work gym routine survives when it is built for the person who actually
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nhs.uk  
    Title: Take the healthy  
-   Link: <a href="https://www.nhs.uk/live-well/exercise/physical-activity-guidelines-for-adults-aged-19-to-64/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/live-well/exercise/physical-activity-guidelines-for-adults-aged-19-to-64/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Physical activity guidelines for adults aged 19 to 64Muscle-strengthening exercises are not always an aerobic activity, so you&#x27;ll need to...</p></details>
+   Link:<a href="https://www.nhs.uk/live-well/exercise/physical-activity-guidelines-for-adults-aged-19-to-64/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/live-well/exercise/physical-activity-guidelines-for-adults-aged-19-to-64/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Physical activity guidelines for adults aged 19 to 64Muscle-strengthening exercises are not always an aerobic activity, so you&#x27;ll need to...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: acsm.org  
-   Link: <a href="https://acsm.org/education-resources/trending-topics-resources/physical-activity-guidelines/" target="_blank" rel="noopener noreferrer nofollow">https://acsm.org/education-resources/trending-topics-resources/physical-activity-guidelines/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Physical Activity GuidelinesAll healthy adults aged 18–65 years should participate in moderate intensity aerobic physical activity fo...</p></details>
+   Link:<a href="https://acsm.org/education-resources/trending-topics-resources/physical-activity-guidelines/" target="_blank" rel="noopener noreferrer nofollow">https://acsm.org/education-resources/trending-topics-resources/physical-activity-guidelines/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Physical Activity GuidelinesAll healthy adults aged 18–65 years should participate in moderate intensity aerobic physical activity fo...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: habits.it  
-   Link: <a href="https://www.habits.it/" target="_blank" rel="noopener noreferrer nofollow">https://www.habits.it/</a>  
+   Link:<a href="https://www.habits.it/" target="_blank" rel="noopener noreferrer nofollow">https://www.habits.it/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nhs.uk  
-   Link: <a href="https://www.nhs.uk/live-well/exercise/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/live-well/exercise/</a>  
+   Link:<a href="https://www.nhs.uk/live-well/exercise/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/live-well/exercise/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nhs.uk  
-   Link: <a href="https://www.nhs.uk/live-well/exercise/physical-activity-guidelines-older-adults/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/live-well/exercise/physical-activity-guidelines-older-adults/</a>  
+   Link:<a href="https://www.nhs.uk/live-well/exercise/physical-activity-guidelines-older-adults/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/live-well/exercise/physical-activity-guidelines-older-adults/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: mydiabetesmyway.scot.nhs.uk  
    Title: exercise and physical activity healthy living  
-   Link: <a href="https://mydiabetesmyway.scot.nhs.uk/resources/internal/exercise-and-physical-activity-healthy-living/" target="_blank" rel="noopener noreferrer nofollow">https://mydiabetesmyway.scot.nhs.uk/resources/internal/exercise-and-physical-activity-healthy-living/</a>  
+   Link:<a href="https://mydiabetesmyway.scot.nhs.uk/resources/internal/exercise-and-physical-activity-healthy-living/" target="_blank" rel="noopener noreferrer nofollow">https://mydiabetesmyway.scot.nhs.uk/resources/internal/exercise-and-physical-activity-healthy-living/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: myhealthlondon.nhs.uk  
    Title: exercise and physical activity healthy living  
-   Link: <a href="https://www.myhealthlondon.nhs.uk/resources/internal/exercise-and-physical-activity-healthy-living/" target="_blank" rel="noopener noreferrer nofollow">https://www.myhealthlondon.nhs.uk/resources/internal/exercise-and-physical-activity-healthy-living/</a>  
+   Link:<a href="https://www.myhealthlondon.nhs.uk/resources/internal/exercise-and-physical-activity-healthy-living/" target="_blank" rel="noopener noreferrer nofollow">https://www.myhealthlondon.nhs.uk/resources/internal/exercise-and-physical-activity-healthy-living/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nhsprofessionals.nhs.uk  
-   Link: <a href="https://www.nhsprofessionals.nhs.uk/health-and-wellbeing/helpful-links/movement" target="_blank" rel="noopener noreferrer nofollow">https://www.nhsprofessionals.nhs.uk/health-and-wellbeing/helpful-links/movement</a>  
+   Link:<a href="https://www.nhsprofessionals.nhs.uk/health-and-wellbeing/helpful-links/movement" target="_blank" rel="noopener noreferrer nofollow">https://www.nhsprofessionals.nhs.uk/health-and-wellbeing/helpful-links/movement</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: train.fitness  
    Title: inspiring long term exercise adherence for women  
-   Link: <a href="https://train.fitness/personal-trainer-blogs/inspiring-long-term-exercise-adherence-for-women" target="_blank" rel="noopener noreferrer nofollow">https://train.fitness/personal-trainer-blogs/inspiring-long-term-exercise-adherence-for-women</a>  
+   Link:<a href="https://train.fitness/personal-trainer-blogs/inspiring-long-term-exercise-adherence-for-women" target="_blank" rel="noopener noreferrer nofollow">https://train.fitness/personal-trainer-blogs/inspiring-long-term-exercise-adherence-for-women</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/initiatives/behealthy/physical-activity" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/initiatives/behealthy/physical-activity</a>  
+   Link:<a href="https://www.who.int/initiatives/behealthy/physical-activity" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/initiatives/behealthy/physical-activity</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: southtees.nhs.uk  
    Title: physical activity 2  
-   Link: <a href="https://www.southtees.nhs.uk/staff/staff-wellbeing/physical-activity-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.southtees.nhs.uk/staff/staff-wellbeing/physical-activity-2/</a>  
+   Link:<a href="https://www.southtees.nhs.uk/staff/staff-wellbeing/physical-activity-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.southtees.nhs.uk/staff/staff-wellbeing/physical-activity-2/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: habit.com  
-   Link: <a href="https://habit.com/" target="_blank" rel="noopener noreferrer nofollow">https://habit.com/</a>  
+   Link:<a href="https://habit.com/" target="_blank" rel="noopener noreferrer nofollow">https://habit.com/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: digital.nhs.uk  
    Title: Adult physical activity  
-   Link: <a href="https://digital.nhs.uk/data-and-information/publications/statistical/health-survey-for-england/2021-part-2/physical-activity" target="_blank" rel="noopener noreferrer nofollow">https://digital.nhs.uk/data-and-information/publications/statistical/health-survey-for-england/2021-part-2/physical-activity</a>  
+   Link:<a href="https://digital.nhs.uk/data-and-information/publications/statistical/health-survey-for-england/2021-part-2/physical-activity" target="_blank" rel="noopener noreferrer nofollow">https://digital.nhs.uk/data-and-information/publications/statistical/health-survey-for-england/2021-part-2/physical-activity</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Forged After Work  
-   Link: <a href="https://www.youtube.com/watch?v=VrKwa4CKz-E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VrKwa4CKz-E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>30 min - Post workout Stretch Routine - Static Stretching and Breath Work...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VrKwa4CKz-E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VrKwa4CKz-E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>30 min - Post workout Stretch Routine - Static Stretching and Breath Work...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: 30 min  
-   Link: <a href="https://www.youtube.com/watch?v=161dUd2HIYU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=161dUd2HIYU</a>  
+   Link:<a href="https://www.youtube.com/watch?v=161dUd2HIYU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=161dUd2HIYU</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/29609495/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29609495/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is fatigue after work a barrier for leisure-time physical...by R Bláfoss · 2019 · Cited by 98 — This study investigates the associ...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/29609495/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29609495/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is fatigue after work a barrier for leisure-time physical...by R Bláfoss · 2019 · Cited by 98 — This study investigates the associ...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Impact of implementation intentions on physical activity  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6235272/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6235272/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6235272/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6235272/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12649445/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12649445/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12649445/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12649445/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8194699/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8194699/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8194699/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8194699/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: verywellhealth.com  
    Title: Verywell Health Here's How Long It Takes to Make Exercise a Regular Habit  
-   Link: <a href="https://www.verywellhealth.com/how-long-does-it-take-to-form-a-habit-11716094" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellhealth.com/how-long-does-it-take-to-form-a-habit-11716094</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Experts recommend four strategies to help make exercise a consistent habit: start small and schedule workouts as non-negotiable appointme...</p></details>
+   Link:<a href="https://www.verywellhealth.com/how-long-does-it-take-to-form-a-habit-11716094" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellhealth.com/how-long-does-it-take-to-form-a-habit-11716094</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Experts recommend four strategies to help make exercise a consistent habit: start small and schedule workouts as non-negotiable appointme...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/30374942/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/30374942/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/30374942/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/30374942/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8997544/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8997544/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8997544/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8997544/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/35742582/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/35742582/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/35742582/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/35742582/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/34416428/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/34416428/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/34416428/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/34416428/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Habit" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Habit</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Habit" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Habit</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: it.pons.com  
-   Link: <a href="https://it.pons.com/traduzione/tedesco-italiano/Habit" target="_blank" rel="noopener noreferrer nofollow">https://it.pons.com/traduzione/tedesco-italiano/Habit</a>  
+   Link:<a href="https://it.pons.com/traduzione/tedesco-italiano/Habit" target="_blank" rel="noopener noreferrer nofollow">https://it.pons.com/traduzione/tedesco-italiano/Habit</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: wordreference.com  
-   Link: <a href="https://www.wordreference.com/enit/habit" target="_blank" rel="noopener noreferrer nofollow">https://www.wordreference.com/enit/habit</a>  
+   Link:<a href="https://www.wordreference.com/enit/habit" target="_blank" rel="noopener noreferrer nofollow">https://www.wordreference.com/enit/habit</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: psychologytoday.com  
    Title: habit formation  
-   Link: <a href="https://www.psychologytoday.com/us/basics/habit-formation" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/basics/habit-formation</a>  
+   Link:<a href="https://www.psychologytoday.com/us/basics/habit-formation" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/basics/habit-formation</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.921285/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.921285/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.921285/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.921285/full</a>  
 
 ### Additional References
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2501.01779v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2501.01779v2</a>  
+   Link:<a href="https://arxiv.org/html/2501.01779v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2501.01779v2</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: Getting To Gym After Work and How Often Should You Go  
-   Link: <a href="https://www.youtube.com/watch?v=eu1uMK-pZoI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eu1uMK-pZoI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Work Out After A Long Work Day Without Leaving Home...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=eu1uMK-pZoI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eu1uMK-pZoI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How To Work Out After A Long Work Day Without Leaving Home...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/236956891_Habit_Formation_Among_Regular_Exercisers_at_Fitness_Centers_An_Exploratory_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/236956891_Habit_Formation_Among_Regular_Exercisers_at_Fitness_Centers_An_Exploratory_Study</a>  
+   Link:<a href="https://www.researchgate.net/publication/236956891_Habit_Formation_Among_Regular_Exercisers_at_Fitness_Centers_An_Exploratory_Study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/236956891_Habit_Formation_Among_Regular_Exercisers_at_Fitness_Centers_An_Exploratory_Study</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/359462121_Increasing_Physical_Exercise_through_Action_and_Coping_Planning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/359462121_Increasing_Physical_Exercise_through_Action_and_Coping_Planning</a>  
+   Link:<a href="https://www.researchgate.net/publication/359462121_Increasing_Physical_Exercise_through_Action_and_Coping_Planning" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/359462121_Increasing_Physical_Exercise_through_Action_and_Coping_Planning</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/48503574/Is_fatigue_after_work_a_barrier_for_leisure_time_physical_activity_Cross_sectional_study_among_10_000_adults_from_the_general_working_population" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/48503574/Is_fatigue_after_work_a_barrier_for_leisure_time_physical_activity_Cross_sectional_study_among_10_000_adults_from_the_general_working_population</a>  
+   Link:<a href="https://www.academia.edu/48503574/Is_fatigue_after_work_a_barrier_for_leisure_time_physical_activity_Cross_sectional_study_among_10_000_adults_from_the_general_working_population" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/48503574/Is_fatigue_after_work_a_barrier_for_leisure_time_physical_activity_Cross_sectional_study_among_10_000_adults_from_the_general_working_population</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/360189434_Behaviour_Change_Techniques_in_Physical_Activity_Interventions_for_Adults_with_Substance_Use_Disorders_A_Systematic_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360189434_Behaviour_Change_Techniques_in_Physical_Activity_Interventions_for_Adults_with_Substance_Use_Disorders_A_Systematic_Review</a>  
+   Link:<a href="https://www.researchgate.net/publication/360189434_Behaviour_Change_Techniques_in_Physical_Activity_Interventions_for_Adults_with_Substance_Use_Disorders_A_Systematic_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360189434_Behaviour_Change_Techniques_in_Physical_Activity_Interventions_for_Adults_with_Substance_Use_Disorders_A_Systematic_Review</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/369883726_Time-of-Day_Effects_of_Exercise_on_Cardiorespiratory_Responses_and_Endurance_Performance-A_Systematic_Review_and_Meta-Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/369883726_Time-of-Day_Effects_of_Exercise_on_Cardiorespiratory_Responses_and_Endurance_Performance-A_Systematic_Review_and_Meta-Analysis</a>  
+   Link:<a href="https://www.researchgate.net/publication/369883726_Time-of-Day_Effects_of_Exercise_on_Cardiorespiratory_Responses_and_Endurance_Performance-A_Systematic_Review_and_Meta-Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/369883726_Time-of-Day_Effects_of_Exercise_on_Cardiorespiratory_Responses_and_Endurance_Performance-A_Systematic_Review_and_Meta-Analysis</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants</a>  
+   Link:<a href="https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: jamesclear.com  
-   Link: <a href="https://jamesclear.com/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/implementation-intentions</a>  
+   Link:<a href="https://jamesclear.com/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/implementation-intentions</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: mymlc.com  
-   Link: <a href="https://www.mymlc.com/health-information/articles/b/barriers-to-fitness-overcoming-common-challenges/?section=4.+I%27m+too+tired+to+exercise+after+work" target="_blank" rel="noopener noreferrer nofollow">https://www.mymlc.com/health-information/articles/b/barriers-to-fitness-overcoming-common-challenges/?section=4.+I%27m+too+tired+to+exercise+after+work</a>
+   Link:<a href="https://www.mymlc.com/health-information/articles/b/barriers-to-fitness-overcoming-common-challenges/?section=4.+I%27m+too+tired+to+exercise+after+work" target="_blank" rel="noopener noreferrer nofollow">https://www.mymlc.com/health-information/articles/b/barriers-to-fitness-overcoming-common-challenges/?section=4.+I%27m+too+tired+to+exercise+after+work</a>

@@ -268,16 +268,16 @@ image: /assets/images/self_improvement_tha_c01280_social_support_057e53_walking_
 
 ## Introduction
 
-Many self-improvement goals fail not because they are too ambitious, but because they do not truly belong to the person pursuing them. Research on self-concordance suggests that the fit between a goal and a person's interests, values and sense of [identity]({{ 'identity/' | relative_url }}) is a powerful predictor of whether effort will continue when [motivation]({{ 'motivation/' | relative_url }}) fades. Goals that feel self-endorsed tend to attract more persistence, better progress and higher rates of attainment than goals pursued mainly because of pressure, guilt, status or external expectations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Second, those who</span><span class="citation-popover-snippet">Goal striving, need satisfaction, and longitudinal well-being - PubMedFirst, those pursuing self-concordant goals put more sustaine...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://open.ncl.ac.uk/theories/20/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.ncl.ac.uk">[Self-Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.ncl.ac.uk</span><span class="citation-popover-title">self determination theory</span><span class="citation-popover-snippet">TheoryHubSelf-Determination Theory: A review14 Mar 2026 — Self-Determination Theory aims to understand the interplay between personality...</span></span></span>
+Many self-improvement goals fail not because they are too ambitious, but because they do not truly belong to the person pursuing them. Research on self-concordance suggests that the fit between a goal and a person's interests, values and sense of [identity]({{ 'identity/' | relative_url }}) is a powerful predictor of whether effort will continue when [motivation]({{ 'motivation/' | relative_url }}) fades. Goals that feel self-endorsed tend to attract more persistence, better progress and higher rates of attainment than goals pursued mainly because of pressure, guilt, status or external expectations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Second, those who</span><span class="citation-popover-snippet">Goal striving, need satisfaction, and longitudinal well-being - PubMedFirst, those pursuing self-concordant goals put more sustaine...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://open.ncl.ac.uk/theories/20/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.ncl.ac.uk">[Self-Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.ncl.ac.uk</span><span class="citation-popover-title">self determination theory</span><span class="citation-popover-snippet">TheoryHubSelf-Determination Theory: A review14 Mar 2026 — Self-Determination Theory aims to understand the interplay between personality...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_social_support_057e53_walking_partners_2e20a4-Illustration-1-dark.svg" | relative_url }}" alt="Walking partners illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_social_support_057e53_walking_partners_2e20a4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_social_support_057e53_walking_partners_2e20a4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This idea matters because many popular self-improvement targets—career milestones, fitness ambitions, productivity systems or lifestyle upgrades—can be pursued for very different reasons. Two people may chase the same outcome, yet the one whose goal reflects a genuine personal commitment is more likely to keep going when the process becomes difficult. The evidence suggests that goal quality is not just about what you pursue, but why you pursue it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Second, those who</span><span class="citation-popover-snippet">Goal striving, need satisfaction, and longitudinal well-being - PubMedFirst, those pursuing self-concordant goals put more sustaine...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://positivepsychology.com/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: positivepsychology.com">[Self-Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">positivepsychology.com</span><span class="citation-popover-title">self determination theory</span><span class="citation-popover-snippet">and How It Explains MotivationJun 21, 2018 — Deci and Ryan&#x27;s Self-Determination Theory (SDT) identifies autonomy, relatedness, and compet...</span></span></span>
+This idea matters because many popular self-improvement targets—career milestones, fitness ambitions, productivity systems or lifestyle upgrades—can be pursued for very different reasons. Two people may chase the same outcome, yet the one whose goal reflects a genuine personal commitment is more likely to keep going when the process becomes difficult. The evidence suggests that goal quality is not just about what you pursue, but why you pursue it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Second, those who</span><span class="citation-popover-snippet">Goal striving, need satisfaction, and longitudinal well-being - PubMedFirst, those pursuing self-concordant goals put more sustaine...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://positivepsychology.com/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: positivepsychology.com">[Self-Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">positivepsychology.com</span><span class="citation-popover-title">self determination theory</span><span class="citation-popover-snippet">and How It Explains MotivationJun 21, 2018 — Deci and Ryan&#x27;s Self-Determination Theory (SDT) identifies autonomy, relatedness, and compet...</span></span></span>
 
 ## The goal-fit test that predicts persistence
 
 ### What self-concordance means in everyday language
 
-Self-concordance refers to the degree to which a goal reflects a person's authentic interests, deeply held values and developing identity. The concept emerged from research within Self-Determination Theory and was formalised by psychologists Kennon Sheldon and Andrew Elliot. In their model, a self-concordant goal is one that feels personally chosen rather than imposed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://open.ncl.ac.uk/theories/20/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.ncl.ac.uk">[Self-Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.ncl.ac.uk</span><span class="citation-popover-title">self determination theory</span><span class="citation-popover-snippet">TheoryHubSelf-Determination Theory: A review14 Mar 2026 — Self-Determination Theory aims to understand the interplay between personality...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/org/science/article/pii/S1462373021000158" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Goal Self-Concordance Model: What Have We Learned...by P Wan · 2021 · Cited by 11 — Goal self-concordance reflects self-gen...</span></span></span>
+Self-concordance refers to the degree to which a goal reflects a person's authentic interests, deeply held values and developing identity. The concept emerged from research within Self-Determination Theory and was formalised by psychologists Kennon Sheldon and Andrew Elliot. In their model, a self-concordant goal is one that feels personally chosen rather than imposed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://open.ncl.ac.uk/theories/20/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.ncl.ac.uk">[Self-Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.ncl.ac.uk</span><span class="citation-popover-title">self determination theory</span><span class="citation-popover-snippet">TheoryHubSelf-Determination Theory: A review14 Mar 2026 — Self-Determination Theory aims to understand the interplay between personality...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/org/science/article/pii/S1462373021000158" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Goal Self-Concordance Model: What Have We Learned...by P Wan · 2021 · Cited by 11 — Goal self-concordance reflects self-gen...</span></span></span>
 
 In everyday life, the distinction often appears in the reasons people give for the same objective:
 
@@ -286,21 +286,21 @@ In everyday life, the distinction often appears in the reasons people give for t
 
 Both goals may produce effort initially. However, the first reflects personal endorsement, while the second depends more heavily on external pressure.
 
-The key point is that self-concordance is not the same as immediate [enjoyment]({{ 'enjoyment/' | relative_url }}). Many self-concordant goals involve difficult, repetitive or uncomfortable work. The difference is that the person recognises the effort as serving something they genuinely care about. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13076967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">the quality of people&#x27;s reasons for their goal pursuits...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://open.ncl.ac.uk/theories/20/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.ncl.ac.uk">[TheoryHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.ncl.ac.uk</span><span class="citation-popover-title">self determination theory</span><span class="citation-popover-snippet">TheoryHubSelf-Determination Theory: A review14 Mar 2026 — Self-Determination Theory aims to understand the interplay between personality...</span></span></span>
+The key point is that self-concordance is not the same as immediate [enjoyment]({{ 'enjoyment/' | relative_url }}). Many self-concordant goals involve difficult, repetitive or uncomfortable work. The difference is that the person recognises the effort as serving something they genuinely care about.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13076967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">the quality of people&#x27;s reasons for their goal pursuits...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://open.ncl.ac.uk/theories/20/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.ncl.ac.uk">[TheoryHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.ncl.ac.uk</span><span class="citation-popover-title">self determination theory</span><span class="citation-popover-snippet">TheoryHubSelf-Determination Theory: A review14 Mar 2026 — Self-Determination Theory aims to understand the interplay between personality...</span></span></span>
 
 ### Why the target matters less than the reason
 
 People often assume that persistence depends mainly on selecting the right target: the ideal career, exercise plan or financial goal. Self-concordance research suggests that the motivational source behind the target may be equally important.
 
-A marathon, a university degree or a business project can all be self-concordant or non-self-concordant. The same outcome can either express a person's values or represent an attempt to satisfy someone else's expectations. What predicts persistence is frequently the quality of the connection between the goal and the self, not merely the goal category itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Second, those who</span><span class="citation-popover-snippet">Goal striving, need satisfaction, and longitudinal well-being - PubMedFirst, those pursuing self-concordant goals put more sustaine...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0191886916301477" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Some goals just feel easier: Self-concordance leads to...by KM Werner · 2016 · Cited by 210 — Research has found that pursu...</span></span></span>
+A marathon, a university degree or a business project can all be self-concordant or non-self-concordant. The same outcome can either express a person's values or represent an attempt to satisfy someone else's expectations. What predicts persistence is frequently the quality of the connection between the goal and the self, not merely the goal category itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Second, those who</span><span class="citation-popover-snippet">Goal striving, need satisfaction, and longitudinal well-being - PubMedFirst, those pursuing self-concordant goals put more sustaine...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0191886916301477" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Some goals just feel easier: Self-concordance leads to...by KM Werner · 2016 · Cited by 210 — Research has found that pursu...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/abR9bZqbarQ" title="What Is Self and How Does It Work?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=abR9bZqbarQ" target="_blank" rel="noopener noreferrer">What Is Self and How Does It Work?</a></p><p class="youtube-embed-meta">Channel: Self Financial &middot; Views: 1.7K &middot; Uploaded: October 2025 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=abR9bZqbarQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=abR9bZqbarQ">Open on YouTube</a></p></div></div></div>
 
 ## Why aligned goals invite more sustained effort
 
-The most influential evidence comes from longitudinal studies that tracked people over time rather than measuring motivation at a single moment. Sheldon and Elliot found that individuals pursuing self-concordant goals invested more sustained effort in those goals and were therefore more likely to attain them. Goal attainment then contributed to greater psychological need satisfaction and wellbeing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Second, those who</span><span class="citation-popover-snippet">Goal striving, need satisfaction, and longitudinal well-being - PubMedFirst, those pursuing self-concordant goals put more sustaine...</span></span></span>
+The most influential evidence comes from longitudinal studies that tracked people over time rather than measuring motivation at a single moment. Sheldon and Elliot found that individuals pursuing self-concordant goals invested more sustained effort in those goals and were therefore more likely to attain them. Goal attainment then contributed to greater psychological need satisfaction and wellbeing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Second, those who</span><span class="citation-popover-snippet">Goal striving, need satisfaction, and longitudinal well-being - PubMedFirst, those pursuing self-concordant goals put more sustaine...</span></span></span>
 
-This finding is important because it identifies effort as a mechanism rather than a coincidence. Self-concordant goals do not succeed merely because they are easier. They succeed partly because people continue working on them for longer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Second, those who</span><span class="citation-popover-snippet">Goal striving, need satisfaction, and longitudinal well-being - PubMedFirst, those pursuing self-concordant goals put more sustaine...</span></span></span>
+This finding is important because it identifies effort as a mechanism rather than a coincidence. Self-concordant goals do not succeed merely because they are easier. They succeed partly because people continue working on them for longer.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Second, those who</span><span class="citation-popover-snippet">Goal striving, need satisfaction, and longitudinal well-being - PubMedFirst, those pursuing self-concordant goals put more sustaine...</span></span></span>
 
 Several processes appear to [support]({{ 'support/' | relative_url }}) this persistence:
 
@@ -308,19 +308,19 @@ Several processes appear to [support]({{ 'support/' | relative_url }}) this pers
 
 **Effort feels more meaningful.** Difficult actions become easier to justify when they connect to a valued identity. Studying late, exercising regularly or practising a skill can be experienced as investment rather than punishment.
 
-**Motivation renews itself.** External [rewards]({{ 'rewards/' | relative_url }}) and pressures often require constant reinforcement. Self-concordant goals generate internal reasons for continued engagement, reducing dependence on outside incentives. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13076967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">the quality of people&#x27;s reasons for their goal pursuits...</span></span></span>
+**Motivation renews itself.** External [rewards]({{ 'rewards/' | relative_url }}) and pressures often require constant reinforcement. Self-concordant goals generate internal reasons for continued engagement, reducing dependence on outside incentives. ScienceDirect<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13076967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">the quality of people&#x27;s reasons for their goal pursuits...</span></span></span>
 
-Research reviews of the self-concordance model continue to find links between self-concordant goal pursuit, goal progress, wellbeing and need satisfaction across multiple contexts. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techscience.com/IJMHP/v23n2/42430/html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techscience.com">[Tech Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techscience.com</span><span class="citation-popover-snippet">Goal Self-Concordance Model: What Have We Learned and Where...Goal self-concordance is derived from one&#x27;s interest and needs of intrinsi...</span></span></span>
+Research reviews of the self-concordance model continue to find links between self-concordant goal pursuit, goal progress, wellbeing and need satisfaction across multiple contexts. ScienceDirect<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techscience.com/IJMHP/v23n2/42430/html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techscience.com">[Tech Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techscience.com</span><span class="citation-popover-snippet">Goal Self-Concordance Model: What Have We Learned and Where...Goal self-concordance is derived from one&#x27;s interest and needs of intrinsi...</span></span></span>
 
 ## Some goals feel easier—and that matters
 
 An interesting development in the literature is the suggestion that self-concordant goals may not succeed solely because people force themselves to work harder. Some studies indicate that such goals can feel subjectively easier to pursue.
 
-Research examining goal progress found that people often experience self-concordant goals as less effortful relative to their other goals. The benefit appears to come partly from reduced internal resistance rather than from sheer [willpower]({{ 'willpower/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/298194858_Some_goals_just_feel_easier_Self-concordance_leads_to_goal_progress_through_subjective_ease_not_effort" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Some goals just feel easier: Self-concordance leads</span><span class="citation-popover-snippet">Within-person analyses indicated that self-concordant goals were perceived as being easier to pursue relative to an individua...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://positivepsychology.com/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: positivepsychology.com">[Self-Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">positivepsychology.com</span><span class="citation-popover-title">self determination theory</span><span class="citation-popover-snippet">and How It Explains MotivationJun 21, 2018 — Deci and Ryan&#x27;s Self-Determination Theory (SDT) identifies autonomy, relatedness, and compet...</span></span></span>
+Research examining goal progress found that people often experience self-concordant goals as less effortful relative to their other goals. The benefit appears to come partly from reduced internal resistance rather than from sheer [willpower]({{ 'willpower/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/298194858_Some_goals_just_feel_easier_Self-concordance_leads_to_goal_progress_through_subjective_ease_not_effort" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate Some goals just feel easier: Self-concordance leads</span><span class="citation-popover-snippet">Within-person analyses indicated that self-concordant goals were perceived as being easier to pursue relative to an individua...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://positivepsychology.com/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: positivepsychology.com">[Self-Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">positivepsychology.com</span><span class="citation-popover-title">self determination theory</span><span class="citation-popover-snippet">and How It Explains MotivationJun 21, 2018 — Deci and Ryan&#x27;s Self-Determination Theory (SDT) identifies autonomy, relatedness, and compet...</span></span></span>
 
 This helps explain a common observation in self-improvement. Someone may appear highly disciplined in one area while repeatedly struggling in another. The difference is not always character strength. Sometimes one goal is closely aligned with personal identity while the other is maintained mainly through obligation.
 
-That does not mean self-concordant goals are easy. They still require sacrifice, delayed gratification and resilience. The distinction is that the person spends less energy arguing with themselves about whether the effort is worthwhile. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://positivepsychology.com/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: positivepsychology.com">[Self-Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">positivepsychology.com</span><span class="citation-popover-title">self determination theory</span><span class="citation-popover-snippet">and How It Explains MotivationJun 21, 2018 — Deci and Ryan&#x27;s Self-Determination Theory (SDT) identifies autonomy, relatedness, and compet...</span></span></span>
+That does not mean self-concordant goals are easy. They still require sacrifice, delayed gratification and resilience. The distinction is that the person spends less energy arguing with themselves about whether the effort is worthwhile.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://positivepsychology.com/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: positivepsychology.com">[Self-Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">positivepsychology.com</span><span class="citation-popover-title">self determination theory</span><span class="citation-popover-snippet">and How It Explains MotivationJun 21, 2018 — Deci and Ryan&#x27;s Self-Determination Theory (SDT) identifies autonomy, relatedness, and compet...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_social_support_057e53_walking_partners_2e20a4-Illustration-2-dark.svg" | relative_url }}" alt="Walking partners illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_social_support_057e53_walking_partners_2e20a4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_social_support_057e53_walking_partners_2e20a4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Questions that reveal borrowed goals
@@ -349,7 +349,7 @@ Many people discover that what they actually want is acceptance, admiration or r
 
 ### Does this goal sound like my own voice?
 
-Goals framed as "I should", "I must" or "people expect me to" often deserve closer examination. Such language does not prove a goal is wrong, but it can indicate external regulation rather than personal endorsement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13076967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">the quality of people&#x27;s reasons for their goal pursuits...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncda.org/aws/NCDA/page_template/show_detail/56642?model_name=news_article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncda.org">[NCDA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncda.org</span><span class="citation-popover-title">show detail</span><span class="citation-popover-snippet">Aligning Strengths with Goals: Creating a Self-Concordant...1 Mar 2012 — They define self-concordance as the extent to which people purs...</span></span></span>
+Goals framed as "I should", "I must" or "people expect me to" often deserve closer examination. Such language does not prove a goal is wrong, but it can indicate external regulation rather than personal endorsement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13076967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">the quality of people&#x27;s reasons for their goal pursuits...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncda.org/aws/NCDA/page_template/show_detail/56642?model_name=news_article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncda.org">[NCDA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncda.org</span><span class="citation-popover-title">show detail</span><span class="citation-popover-snippet">Aligning Strengths with Goals: Creating a Self-Concordant...1 Mar 2012 — They define self-concordance as the extent to which people purs...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DMaI2BWGpZI" title="The Psychology of Change: Finding Support for Health Goals" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DMaI2BWGpZI" target="_blank" rel="noopener noreferrer">The Psychology of Change: Finding Support for Health Goals</a></p><p class="youtube-embed-meta">Channel: Mayo Clinic &middot; Views: 509 &middot; Uploaded: October 2025 &middot; Length: 39 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DMaI2BWGpZI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DMaI2BWGpZI">Open on YouTube</a></p></div></div></div>
 
@@ -369,204 +369,204 @@ For example:
 
 Notice that the external outcome may remain identical. What changes is the motivational foundation.
 
-Research on self-concordance does not claim that every worthwhile goal must originate from pure intrinsic enjoyment. Many important goals begin as external expectations. The crucial factor is whether people eventually internalise and endorse the goal as their own. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13076967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">the quality of people&#x27;s reasons for their goal pursuits...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://open.ncl.ac.uk/theories/20/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.ncl.ac.uk">[TheoryHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.ncl.ac.uk</span><span class="citation-popover-title">self determination theory</span><span class="citation-popover-snippet">TheoryHubSelf-Determination Theory: A review14 Mar 2026 — Self-Determination Theory aims to understand the interplay between personality...</span></span></span>
+Research on self-concordance does not claim that every worthwhile goal must originate from pure intrinsic enjoyment. Many important goals begin as external expectations. The crucial factor is whether people eventually internalise and endorse the goal as their own.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13076967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">the quality of people&#x27;s reasons for their goal pursuits...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://open.ncl.ac.uk/theories/20/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.ncl.ac.uk">[TheoryHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.ncl.ac.uk</span><span class="citation-popover-title">self determination theory</span><span class="citation-popover-snippet">TheoryHubSelf-Determination Theory: A review14 Mar 2026 — Self-Determination Theory aims to understand the interplay between personality...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_social_support_057e53_walking_partners_2e20a4-Illustration-3-dark.svg" | relative_url }}" alt="Walking partners illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_social_support_057e53_walking_partners_2e20a4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_social_support_057e53_walking_partners_2e20a4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the evidence means for self-improvement that works
 
 The practical lesson is that persistence is not only a matter of discipline. It is also a matter of alignment. People often search for stronger habits, tougher routines or better productivity systems when the deeper issue is that the goal itself has never been fully accepted as part of who they are.
 
-The self-concordance literature consistently points in the same direction: goals aligned with personal interests, values and identity attract more sustained effort, produce greater progress and are more likely to enhance wellbeing when achieved. In self-improvement, one of the most useful questions is therefore not "How can I push harder?" but "How much does this goal genuinely fit the person I want to become?" <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.issep.org/features/optimizing-free-will" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: issep.org">[ISSEP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">issep.org</span><span class="citation-popover-snippet">Optimizing free will: Goal self-concordance and goal breakthrough...August 12, 2025 — According to the original self-concordance model (...</span><span class="citation-popover-meta">Published: August 12, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Second, those who</span><span class="citation-popover-snippet">Goal striving, need satisfaction, and longitudinal well-being - PubMedFirst, those pursuing self-concordant goals put more sustaine...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://positivepsychology.com/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: positivepsychology.com">[Self-Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">positivepsychology.com</span><span class="citation-popover-title">self determination theory</span><span class="citation-popover-snippet">and How It Explains MotivationJun 21, 2018 — Deci and Ryan&#x27;s Self-Determination Theory (SDT) identifies autonomy, relatedness, and compet...</span></span></span>
+The self-concordance literature consistently points in the same direction: goals aligned with personal interests, values and identity attract more sustained effort, produce greater progress and are more likely to enhance wellbeing when achieved. In self-improvement, one of the most useful questions is therefore not "How can I push harder?" but "How much does this goal genuinely fit the person I want to become?"<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.issep.org/features/optimizing-free-will" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: issep.org">[ISSEP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">issep.org</span><span class="citation-popover-snippet">Optimizing free will: Goal self-concordance and goal breakthrough...August 12, 2025 — According to the original self-concordance model (...</span><span class="citation-popover-meta">Published: August 12, 2025</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Second, those who</span><span class="citation-popover-snippet">Goal striving, need satisfaction, and longitudinal well-being - PubMedFirst, those pursuing self-concordant goals put more sustaine...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://positivepsychology.com/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: positivepsychology.com">[Self-Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">positivepsychology.com</span><span class="citation-popover-title">self determination theory</span><span class="citation-popover-snippet">and How It Explains MotivationJun 21, 2018 — Deci and Ryan&#x27;s Self-Determination Theory (SDT) identifies autonomy, relatedness, and compet...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why walking partners beat willpower alone. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why walking partners beat willpower alone. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Explains how social cues and environment make healthy actions easier to start.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Explains how social cues and environment make healthy actions easier to start.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
-        </h4>
-        <p class="fr-book-author">By B. J. Fogg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
+</h4>
+<p class="fr-book-author">By B. J. Fogg</p>
         
-        <p class="fr-book-desc">Strong fit for small, repeatable actions such as regular walks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong fit for small, repeatable actions such as regular walks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Carol S. Dweck</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
-        <p class="fr-book-desc">Encourages supportive feedback focused on learning rather than judgement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
+</h4>
+<p class="fr-book-author">By Carol S. Dweck</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
+<p class="fr-book-desc">Encourages supportive feedback focused on learning rather than judgement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
-        </h4>
-        <p class="fr-book-author">By Charles Duhigg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
+</h4>
+<p class="fr-book-author">By Charles Duhigg</p>
         
-        <p class="fr-book-desc">Useful for understanding how repeated walking routines become automatic.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how repeated walking routines become automatic.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=walking+poles&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-walking-partners-beat-willpower-alone-walking-poles&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="walking poles" data-ebay-reference="why-walking-partners-beat-willpower-alone-walking-poles" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 21/26/32&quot; Telescopic Anti-Shock Extendable Trekking Poles Hiking Walking Camping"><img src="https://i.ebayimg.com/images/g/~U0AAeSwcM9qEC4G/s-l225.jpg" alt="Listing image for 21/26/32&quot; Telescopic Anti-Shock Extendable Trekking Poles Hiking Walking Camping" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=walking+poles&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-walking-partners-beat-willpower-alone-walking-poles&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="walking poles" data-ebay-reference="why-walking-partners-beat-willpower-alone-walking-poles" target="_blank" rel="sponsored noopener noreferrer">21/26/32&quot; Telescopic Anti-Shock Extendable Trekking Poles Hiking Walking Camping</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=walking+poles&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-walking-partners-beat-willpower-alone-walking-poles&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="walking poles" data-ebay-reference="why-walking-partners-beat-willpower-alone-walking-poles" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for walking poles">Search <span data-ebay-domain-label>eBay.co.uk</span>: walking poles</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=walking+poles&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-walking-partners-beat-willpower-alone-walking-poles&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="walking poles" data-ebay-reference="why-walking-partners-beat-willpower-alone-walking-poles" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=walking+poles&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-walking-partners-beat-willpower-alone-walking-poles&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="walking poles" data-ebay-reference="why-walking-partners-beat-willpower-alone-walking-poles" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 21/26/32&quot; Telescopic Anti-Shock Extendable Trekking Poles Hiking Walking Camping"><img src="https://i.ebayimg.com/images/g/~U0AAeSwcM9qEC4G/s-l225.jpg" alt="Listing image for 21/26/32&quot; Telescopic Anti-Shock Extendable Trekking Poles Hiking Walking Camping" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=walking+poles&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-walking-partners-beat-willpower-alone-walking-poles&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="walking poles" data-ebay-reference="why-walking-partners-beat-willpower-alone-walking-poles" target="_blank" rel="sponsored noopener noreferrer">21/26/32&quot; Telescopic Anti-Shock Extendable Trekking Poles Hiking Walking Camping</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=walking+poles&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-walking-partners-beat-willpower-alone-walking-poles&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="walking poles" data-ebay-reference="why-walking-partners-beat-willpower-alone-walking-poles" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for walking poles">Search<span data-ebay-domain-label>eBay.co.uk</span>: walking poles</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=walking+poles&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-walking-partners-beat-willpower-alone-walking-poles&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="walking poles" data-ebay-reference="why-walking-partners-beat-willpower-alone-walking-poles" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=walking+poles&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-walking-partners-beat-willpower-alone-walking-poles&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="walking poles" data-ebay-reference="why-walking-partners-beat-willpower-alone-walking-poles" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gabel Stretch Lite Walking Sticks Poles Telescopic up to 130cm - GREAT CONDITION"><img src="https://i.ebayimg.com/images/g/bboAAeSwSX9qKvO8/s-l225.jpg" alt="Listing image for Gabel Stretch Lite Walking Sticks Poles Telescopic up to 130cm - GREAT CONDITION" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=walking+poles&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-walking-partners-beat-willpower-alone-walking-poles&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="walking poles" data-ebay-reference="why-walking-partners-beat-willpower-alone-walking-poles" target="_blank" rel="sponsored noopener noreferrer">Gabel Stretch Lite Walking Sticks Poles Telescopic up to 130cm - GREAT CONDITION</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=walking+poles&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-walking-partners-beat-willpower-alone-walking-poles&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="walking poles" data-ebay-reference="why-walking-partners-beat-willpower-alone-walking-poles" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for walking poles">Search <span data-ebay-domain-label>eBay.co.uk</span>: walking poles</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=walking+poles&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-walking-partners-beat-willpower-alone-walking-poles&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="walking poles" data-ebay-reference="why-walking-partners-beat-willpower-alone-walking-poles" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=walking+poles&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-walking-partners-beat-willpower-alone-walking-poles&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="walking poles" data-ebay-reference="why-walking-partners-beat-willpower-alone-walking-poles" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gabel Stretch Lite Walking Sticks Poles Telescopic up to 130cm - GREAT CONDITION"><img src="https://i.ebayimg.com/images/g/bboAAeSwSX9qKvO8/s-l225.jpg" alt="Listing image for Gabel Stretch Lite Walking Sticks Poles Telescopic up to 130cm - GREAT CONDITION" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=walking+poles&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-walking-partners-beat-willpower-alone-walking-poles&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="walking poles" data-ebay-reference="why-walking-partners-beat-willpower-alone-walking-poles" target="_blank" rel="sponsored noopener noreferrer">Gabel Stretch Lite Walking Sticks Poles Telescopic up to 130cm - GREAT CONDITION</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=walking+poles&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-walking-partners-beat-willpower-alone-walking-poles&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="walking poles" data-ebay-reference="why-walking-partners-beat-willpower-alone-walking-poles" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for walking poles">Search<span data-ebay-domain-label>eBay.co.uk</span>: walking poles</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=walking+poles&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-walking-partners-beat-willpower-alone-walking-poles&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="walking poles" data-ebay-reference="why-walking-partners-beat-willpower-alone-walking-poles" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=walking+poles&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-walking-partners-beat-willpower-alone-walking-poles&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="walking poles" data-ebay-reference="why-walking-partners-beat-willpower-alone-walking-poles" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Telescopic Walking Hiking Trekking Poles Sticks 3-Section Antishock Unisex Pair"><img src="https://i.ebayimg.com/images/g/vBwAAOSwJZBnf9WH/s-l225.jpg" alt="Listing image for Telescopic Walking Hiking Trekking Poles Sticks 3-Section Antishock Unisex Pair" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=walking+poles&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-walking-partners-beat-willpower-alone-walking-poles&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="walking poles" data-ebay-reference="why-walking-partners-beat-willpower-alone-walking-poles" target="_blank" rel="sponsored noopener noreferrer">Telescopic Walking Hiking Trekking Poles Sticks 3-Section Antishock Unisex Pair</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=walking+poles&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-walking-partners-beat-willpower-alone-walking-poles&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="walking poles" data-ebay-reference="why-walking-partners-beat-willpower-alone-walking-poles" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for walking poles">Search <span data-ebay-domain-label>eBay.co.uk</span>: walking poles</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=walking+poles&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-walking-partners-beat-willpower-alone-walking-poles&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="walking poles" data-ebay-reference="why-walking-partners-beat-willpower-alone-walking-poles" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=walking+poles&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-walking-partners-beat-willpower-alone-walking-poles&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="walking poles" data-ebay-reference="why-walking-partners-beat-willpower-alone-walking-poles" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Telescopic Walking Hiking Trekking Poles Sticks 3-Section Antishock Unisex Pair"><img src="https://i.ebayimg.com/images/g/vBwAAOSwJZBnf9WH/s-l225.jpg" alt="Listing image for Telescopic Walking Hiking Trekking Poles Sticks 3-Section Antishock Unisex Pair" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=walking+poles&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-walking-partners-beat-willpower-alone-walking-poles&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="walking poles" data-ebay-reference="why-walking-partners-beat-willpower-alone-walking-poles" target="_blank" rel="sponsored noopener noreferrer">Telescopic Walking Hiking Trekking Poles Sticks 3-Section Antishock Unisex Pair</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=walking+poles&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-walking-partners-beat-willpower-alone-walking-poles&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="walking poles" data-ebay-reference="why-walking-partners-beat-willpower-alone-walking-poles" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for walking poles">Search<span data-ebay-domain-label>eBay.co.uk</span>: walking poles</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=walking+poles&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-walking-partners-beat-willpower-alone-walking-poles&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="walking poles" data-ebay-reference="why-walking-partners-beat-willpower-alone-walking-poles" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=walking+poles&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-walking-partners-beat-willpower-alone-walking-poles&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="walking poles" data-ebay-reference="why-walking-partners-beat-willpower-alone-walking-poles" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1Pair Telescopic Walking Hiking Trekking Poles Sticks 3-Section Unisex Antishock"><img src="https://i.ebayimg.com/images/g/XQcAAeSwthdpy499/s-l225.jpg" alt="Listing image for 1Pair Telescopic Walking Hiking Trekking Poles Sticks 3-Section Unisex Antishock" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=walking+poles&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-walking-partners-beat-willpower-alone-walking-poles&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="walking poles" data-ebay-reference="why-walking-partners-beat-willpower-alone-walking-poles" target="_blank" rel="sponsored noopener noreferrer">1Pair Telescopic Walking Hiking Trekking Poles Sticks 3-Section Unisex Antishock</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=walking+poles&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-walking-partners-beat-willpower-alone-walking-poles&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="walking poles" data-ebay-reference="why-walking-partners-beat-willpower-alone-walking-poles" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for walking poles">Search <span data-ebay-domain-label>eBay.co.uk</span>: walking poles</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=walking+poles&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-walking-partners-beat-willpower-alone-walking-poles&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="walking poles" data-ebay-reference="why-walking-partners-beat-willpower-alone-walking-poles" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=walking+poles&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-walking-partners-beat-willpower-alone-walking-poles&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="walking poles" data-ebay-reference="why-walking-partners-beat-willpower-alone-walking-poles" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=walking+poles&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-walking-partners-beat-willpower-alone-walking-poles&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="walking poles" data-ebay-reference="why-walking-partners-beat-willpower-alone-walking-poles" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1Pair Telescopic Walking Hiking Trekking Poles Sticks 3-Section Unisex Antishock"><img src="https://i.ebayimg.com/images/g/XQcAAeSwthdpy499/s-l225.jpg" alt="Listing image for 1Pair Telescopic Walking Hiking Trekking Poles Sticks 3-Section Unisex Antishock" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=walking+poles&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-walking-partners-beat-willpower-alone-walking-poles&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="walking poles" data-ebay-reference="why-walking-partners-beat-willpower-alone-walking-poles" target="_blank" rel="sponsored noopener noreferrer">1Pair Telescopic Walking Hiking Trekking Poles Sticks 3-Section Unisex Antishock</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=walking+poles&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-walking-partners-beat-willpower-alone-walking-poles&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="walking poles" data-ebay-reference="why-walking-partners-beat-willpower-alone-walking-poles" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for walking poles">Search<span data-ebay-domain-label>eBay.co.uk</span>: walking poles</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=walking+poles&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-walking-partners-beat-willpower-alone-walking-poles&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="walking poles" data-ebay-reference="why-walking-partners-beat-willpower-alone-walking-poles" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=walking+poles&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-walking-partners-beat-willpower-alone-walking-poles&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="walking poles" data-ebay-reference="why-walking-partners-beat-willpower-alone-walking-poles" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -582,7 +582,7 @@ The self-concordance literature consistently points in the same direction: goals
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -602,7 +602,7 @@ The self-concordance literature consistently points in the same direction: goals
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -634,7 +634,7 @@ The self-concordance literature consistently points in the same direction: goals
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -686,7 +686,7 @@ The self-concordance literature consistently points in the same direction: goals
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -731,7 +731,7 @@ The self-concordance literature consistently points in the same direction: goals
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -772,162 +772,162 @@ The self-concordance literature consistently points in the same direction: goals
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/org/science/article/pii/S1462373021000158" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S1462373021000158</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Goal Self-Concordance Model: What Have We Learned...by P Wan · 2021 · Cited by 11 — Goal self-concordance reflects self-gen...</p></details>
+   Link:<a href="https://www.sciencedirect.com/org/science/article/pii/S1462373021000158" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S1462373021000158</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goal Self-Concordance Model: What Have We Learned...by P Wan · 2021 · Cited by 11 — Goal self-concordance reflects self-gen...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: issep.org  
-   Link: <a href="https://www.issep.org/features/optimizing-free-will" target="_blank" rel="noopener noreferrer nofollow">https://www.issep.org/features/optimizing-free-will</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Optimizing free will: Goal self-concordance and goal breakthrough...August 12, 2025 — According to the original self-concordance model (...</p></details>
+   Link:<a href="https://www.issep.org/features/optimizing-free-will" target="_blank" rel="noopener noreferrer nofollow">https://www.issep.org/features/optimizing-free-will</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Optimizing free will: Goal self-concordance and goal breakthrough...August 12, 2025 — According to the original self-concordance model (...</p></details>
    Published: August 12, 2025  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13076967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC13076967/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the quality of people&#x27;s reasons for their goal pursuits...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13076967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC13076967/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the quality of people&#x27;s reasons for their goal pursuits...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ncda.org  
    Title: show detail  
-   Link: <a href="https://www.ncda.org/aws/NCDA/page_template/show_detail/56642?model_name=news_article" target="_blank" rel="noopener noreferrer nofollow">https://www.ncda.org/aws/NCDA/page_template/show_detail/56642?model_name=news_article</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aligning Strengths with Goals: Creating a Self-Concordant...1 Mar 2012 — They define self-concordance as the extent to which people purs...</p></details>
+   Link:<a href="https://www.ncda.org/aws/NCDA/page_template/show_detail/56642?model_name=news_article" target="_blank" rel="noopener noreferrer nofollow">https://www.ncda.org/aws/NCDA/page_template/show_detail/56642?model_name=news_article</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aligning Strengths with Goals: Creating a Self-Concordant...1 Mar 2012 — They define self-concordance as the extent to which people purs...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
    Title: Research Gate Some goals just feel easier: Self-concordance leads  
-   Link: <a href="https://www.researchgate.net/publication/298194858_Some_goals_just_feel_easier_Self-concordance_leads_to_goal_progress_through_subjective_ease_not_effort" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/298194858_Some_goals_just_feel_easier_Self-concordance_leads_to_goal_progress_through_subjective_ease_not_effort</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Within-person analyses indicated that self-concordant goals were perceived as being easier to pursue relative to an individua...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/298194858_Some_goals_just_feel_easier_Self-concordance_leads_to_goal_progress_through_subjective_ease_not_effort" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/298194858_Some_goals_just_feel_easier_Self-concordance_leads_to_goal_progress_through_subjective_ease_not_effort</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Within-person analyses indicated that self-concordant goals were perceived as being easier to pursue relative to an individua...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0191886916301477" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0191886916301477</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Some goals just feel easier: Self-concordance leads to...by KM Werner · 2016 · Cited by 210 — Research has found that pursu...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0191886916301477" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0191886916301477</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Some goals just feel easier: Self-concordance leads to...by KM Werner · 2016 · Cited by 210 — Research has found that pursu...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: self.inc  
-   Link: <a href="https://www.self.inc/" target="_blank" rel="noopener noreferrer nofollow">https://www.self.inc/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Build Credit, Build Savings and Access CashBuild credit and savings with Self. The Credit Builder Account and Self Visa® Credit Ca...</p></details>
+   Link:<a href="https://www.self.inc/" target="_blank" rel="noopener noreferrer nofollow">https://www.self.inc/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Build Credit, Build Savings and Access CashBuild credit and savings with Self. The Credit Builder Account and Self Visa® Credit Ca...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/364045107_Self-concordant_goal-striving_as_internalized_motivation_Benefits_beyond_person-goal_fit" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/364045107_Self-concordant_goal-striving_as_internalized_motivation_Benefits_beyond_person-goal_fit</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Concordant Goal-Striving as Internalized MotivationOct 9, 2025 — People benefit when their goals are self-concordant, i.e., when the...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/364045107_Self-concordant_goal-striving_as_internalized_motivation_Benefits_beyond_person-goal_fit" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/364045107_Self-concordant_goal-striving_as_internalized_motivation_Benefits_beyond_person-goal_fit</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Concordant Goal-Striving as Internalized MotivationOct 9, 2025 — People benefit when their goals are self-concordant, i.e., when the...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/12134962_Self-concordance_goal_attainment_and_the_pursuit_of_happiness_Can_there_be_an_upward_spiral" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/12134962_Self-concordance_goal_attainment_and_the_pursuit_of_happiness_Can_there_be_an_upward_spiral</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Self-concordance, goal attainment, and the pursuit of happinessTwo studies used the self-concordance model of healthy goal striving...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/12134962_Self-concordance_goal_attainment_and_the_pursuit_of_happiness_Can_there_be_an_upward_spiral" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/12134962_Self-concordance_goal_attainment_and_the_pursuit_of_happiness_Can_there_be_an_upward_spiral</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Self-concordance, goal attainment, and the pursuit of happinessTwo studies used the self-concordance model of healthy goal striving...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0148296326001803" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0148296326001803</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-determination theory in the workplace: the evolution...by M Gagné · 2026 — Work motivation has been a central topic for over a cen...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0148296326001803" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0148296326001803</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-determination theory in the workplace: the evolution...by M Gagné · 2026 — Work motivation has been a central topic for over a cen...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Second, those who  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/10101878/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Goal striving, need satisfaction, and longitudinal well-being - PubMedFirst, those pursuing self-concordant goals put more sustaine...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/10101878/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goal striving, need satisfaction, and longitudinal well-being - PubMedFirst, those pursuing self-concordant goals put more sustaine...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: selfdeterminationtheory.org  
    Title: First, those  
-   Link: <a href="https://selfdeterminationtheory.org/SDT/documents/1999_SheldonElliot.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/SDT/documents/1999_SheldonElliot.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory[PDF] Goal striving, need satisfaction, and longitudinal well-being: The self...The self-concordance of goals (...</p></details>
+   Link:<a href="https://selfdeterminationtheory.org/SDT/documents/1999_SheldonElliot.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/SDT/documents/1999_SheldonElliot.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory[PDF] Goal striving, need satisfaction, and longitudinal well-being: The self...The self-concordance of goals (...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: selfdeterminationtheory.org  
    Title: 2001 SheldonHouserMarko JHP 1  
-   Link: <a href="https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2001_SheldonHouserMarko_JHP-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2001_SheldonHouserMarko_JHP-1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination TheorySelf-Concordance, Goal Attainment, and the Pursuit of...by KM Sheldon · 2001 · Cited by 1169 — The self-concord...</p></details>
+   Link:<a href="https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2001_SheldonHouserMarko_JHP-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2001_SheldonHouserMarko_JHP-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination TheorySelf-Concordance, Goal Attainment, and the Pursuit of...by KM Sheldon · 2001 · Cited by 1169 — The self-concord...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: open.ncl.ac.uk  
    Title: self determination theory  
-   Link: <a href="https://open.ncl.ac.uk/theories/20/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://open.ncl.ac.uk/theories/20/self-determination-theory/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TheoryHubSelf-Determination Theory: A review14 Mar 2026 — Self-Determination Theory aims to understand the interplay between personality...</p></details>
+   Link:<a href="https://open.ncl.ac.uk/theories/20/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://open.ncl.ac.uk/theories/20/self-determination-theory/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TheoryHubSelf-Determination Theory: A review14 Mar 2026 — Self-Determination Theory aims to understand the interplay between personality...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: techscience.com  
-   Link: <a href="https://www.techscience.com/IJMHP/v23n2/42430/html" target="_blank" rel="noopener noreferrer nofollow">https://www.techscience.com/IJMHP/v23n2/42430/html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Goal Self-Concordance Model: What Have We Learned and Where...Goal self-concordance is derived from one&#x27;s interest and needs of intrinsi...</p></details>
+   Link:<a href="https://www.techscience.com/IJMHP/v23n2/42430/html" target="_blank" rel="noopener noreferrer nofollow">https://www.techscience.com/IJMHP/v23n2/42430/html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goal Self-Concordance Model: What Have We Learned and Where...Goal self-concordance is derived from one&#x27;s interest and needs of intrinsi...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: selfdeterminationtheory.org  
-   Link: <a href="https://selfdeterminationtheory.org/wp-content/uploads/2016/03/Some-goals-just-feel-easier-Self-concordance-leads-to-goal-progress-through-subjective-ease-not-effor.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2016/03/Some-goals-just-feel-easier-Self-concordance-leads-to-goal-progress-through-subjective-ease-not-effor.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination TheorySome goals just feel easierby KM Werner · 2016 · Cited by 210 — The dominant explanation thus far comes from the...</p></details>
+   Link:<a href="https://selfdeterminationtheory.org/wp-content/uploads/2016/03/Some-goals-just-feel-easier-Self-concordance-leads-to-goal-progress-through-subjective-ease-not-effor.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2016/03/Some-goals-just-feel-easier-Self-concordance-leads-to-goal-progress-through-subjective-ease-not-effor.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination TheorySome goals just feel easierby KM Werner · 2016 · Cited by 210 — The dominant explanation thus far comes from the...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Self" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Self</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SelfIn philosophy, the self is an individual&#x27;s own being, knowledge, and values, and the relationship between these attributes. The fi...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Self" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Self</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SelfIn philosophy, the self is an individual&#x27;s own being, knowledge, and values, and the relationship between these attributes. The fi...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: trustpilot.com  
    Title: Self Financial, Inc  
-   Link: <a href="https://www.trustpilot.com/review/self.inc" target="_blank" rel="noopener noreferrer nofollow">https://www.trustpilot.com/review/self.inc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reviews | Read Customer Service...Self is a financial technology company with a mission to help people build credit, particularly those...</p></details>
+   Link:<a href="https://www.trustpilot.com/review/self.inc" target="_blank" rel="noopener noreferrer nofollow">https://www.trustpilot.com/review/self.inc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reviews | Read Customer Service...Self is a financial technology company with a mission to help people build credit, particularly those...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: positivepsychology.com  
    Title: self determination theory  
-   Link: <a href="https://positivepsychology.com/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://positivepsychology.com/self-determination-theory/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and How It Explains MotivationJun 21, 2018 — Deci and Ryan&#x27;s Self-Determination Theory (SDT) identifies autonomy, relatedness, and compet...</p></details>
+   Link:<a href="https://positivepsychology.com/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://positivepsychology.com/self-determination-theory/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and How It Explains MotivationJun 21, 2018 — Deci and Ryan&#x27;s Self-Determination Theory (SDT) identifies autonomy, relatedness, and compet...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/self" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/self</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SELF Definition &amp; Meaning1. a (1): an individual&#x27;s typical character or behavior her true self was revealed (2): an individual&#x27;s tempor...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/self" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/self</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SELF Definition &amp; Meaning1. a (1): an individual&#x27;s typical character or behavior her true self was revealed (2): an individual&#x27;s tempor...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/CRedit/comments/161z70h/self_credit_builder/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/CRedit/comments/161z70h/self_credit_builder/</a>  
+   Link:<a href="https://www.reddit.com/r/CRedit/comments/161z70h/self_credit_builder/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/CRedit/comments/161z70h/self_credit_builder/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: wp.hse.ru  
-   Link: <a href="https://wp.hse.ru/data/2016/12/02/1113377066/64PSY2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wp.hse.ru/data/2016/12/02/1113377066/64PSY2016.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>self-concordance model: the effects of autonomy, effort...by DD Suchkov — The self-concordance model highlights the role of autonomy in...</p></details>
+   Link:<a href="https://wp.hse.ru/data/2016/12/02/1113377066/64PSY2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://wp.hse.ru/data/2016/12/02/1113377066/64PSY2016.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>self-concordance model: the effects of autonomy, effort...by DD Suchkov — The self-concordance model highlights the role of autonomy in...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: radar.brookes.ac.uk  
-   Link: <a href="https://radar.brookes.ac.uk/radar/file/03b30c01-cbb3-4837-a4b2-d68050e26fd0/1/ehrlich-et-al-2024-self-concordance-theory-and-the-goal-striving-reasons-framework-and-their-distinct-relationships.pdf" target="_blank" rel="noopener noreferrer nofollow">https://radar.brookes.ac.uk/radar/file/03b30c01-cbb3-4837-a4b2-d68050e26fd0/1/ehrlich-et-al-2024-self-concordance-theory-and-the-goal-striving-reasons-framework-and-their-distinct-relationships.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>easons for goal pursuit are the self-concordance theory (SCT; Sheldon &amp; Elliot, 1999) and the goal...</p></details>
+   Link:<a href="https://radar.brookes.ac.uk/radar/file/03b30c01-cbb3-4837-a4b2-d68050e26fd0/1/ehrlich-et-al-2024-self-concordance-theory-and-the-goal-striving-reasons-framework-and-their-distinct-relationships.pdf" target="_blank" rel="noopener noreferrer nofollow">https://radar.brookes.ac.uk/radar/file/03b30c01-cbb3-4837-a4b2-d68050e26fd0/1/ehrlich-et-al-2024-self-concordance-theory-and-the-goal-striving-reasons-framework-and-their-distinct-relationships.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>easons for goal pursuit are the self-concordance theory (SCT; Sheldon &amp; Elliot, 1999) and the goal...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
    Title: The self-concordance model of [goal setting](&#123;&#123; 'goal-setting/' | relative_url &#125;&#125;) differentiates  
-   Link: <a href="https://www.facebook.com/positivepsychologycourses/posts/the-self-concordance-model-of-goal-setting-differentiates-between-four-types-of-/2733865513497704/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/positivepsychologycourses/posts/the-self-concordance-model-of-goal-setting-differentiates-between-four-types-of-/2733865513497704/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 21, 2020 — The self-concordance model of goal setting differentiates between four types of motivation (Sheldon, K. M., &amp;...</p></details>
+   Link:<a href="https://www.facebook.com/positivepsychologycourses/posts/the-self-concordance-model-of-goal-setting-differentiates-between-four-types-of-/2733865513497704/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/positivepsychologycourses/posts/the-self-concordance-model-of-goal-setting-differentiates-between-four-types-of-/2733865513497704/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 21, 2020 — The self-concordance model of goal setting differentiates between four types of motivation (Sheldon, K. M., &amp;...</p></details>
    Published: November 21, 2020  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: ionilies.com  
-   Link: <a href="https://www.ionilies.com/SIOP04/CSE_self_concordance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ionilies.com/SIOP04/CSE_self_concordance.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>be attained because individuals put forth more effort toward goals that are consistent...</p></details>
+   Link:<a href="https://www.ionilies.com/SIOP04/CSE_self_concordance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ionilies.com/SIOP04/CSE_self_concordance.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>be attained because individuals put forth more effort toward goals that are consistent...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: humanperformance.ie  
    Title: Human Performance What Is Self Determination Theory?  
-   Link: <a href="https://humanperformance.ie/what-is-self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://humanperformance.ie/what-is-self-determination-theory/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is Self Determination Theory? - Human PerformanceSelf-Determination Theory (SDT) is a psychological framework that delves into the c...</p></details>
+   Link:<a href="https://humanperformance.ie/what-is-self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://humanperformance.ie/what-is-self-determination-theory/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Is Self Determination Theory? - Human PerformanceSelf-Determination Theory (SDT) is a psychological framework that delves into the c...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: orbi.uliege.be  
    Title: Ernst et al Consciousness and Cognition 2018  
-   Link: <a href="https://orbi.uliege.be/bitstream/2268/230148/1/Ernst%20et%20al_Consciousness%20and%20Cognition_2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://orbi.uliege.be/bitstream/2268/230148/1/Ernst%20et%20al_Consciousness%20and%20Cognition_2018.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>role of goal self-concordance in episodic future thinkingby A Ernst · 2018 · Cited by 50 — Based on self-determination theory, we hypothe...</p></details>
+   Link:<a href="https://orbi.uliege.be/bitstream/2268/230148/1/Ernst%20et%20al_Consciousness%20and%20Cognition_2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://orbi.uliege.be/bitstream/2268/230148/1/Ernst%20et%20al_Consciousness%20and%20Cognition_2018.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>role of goal self-concordance in episodic future thinkingby A Ernst · 2018 · Cited by 50 — Based on self-determination theory, we hypothe...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: lifestyle.sustainability-directory.com  
    Title: [self concordance](&#123;&#123; 'self-concordance/' | relative_url &#125;&#125;) theory  
-   Link: <a href="https://lifestyle.sustainability-directory.com/term/self-concordance-theory/" target="_blank" rel="noopener noreferrer nofollow">https://lifestyle.sustainability-directory.com/term/self-concordance-theory/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sustainability-directory.comSelf-Concordance Theory → TermSep 16, 2025 — Meaning → Self-concordance explains how goals rooted in genuine...</p></details>
+   Link:<a href="https://lifestyle.sustainability-directory.com/term/self-concordance-theory/" target="_blank" rel="noopener noreferrer nofollow">https://lifestyle.sustainability-directory.com/term/self-concordance-theory/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sustainability-directory.comSelf-Concordance Theory → TermSep 16, 2025 — Meaning → Self-concordance explains how goals rooted in genuine...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11266181/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11266181/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>self-concordant goals: a longitudinal study on the...by L Cao · 2024 · Cited by 4 — Self-concordant goals are those that align closely w...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11266181/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11266181/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>self-concordant goals: a longitudinal study on the...by L Cao · 2024 · Cited by 4 — Self-concordant goals are those that align closely w...</p></details>

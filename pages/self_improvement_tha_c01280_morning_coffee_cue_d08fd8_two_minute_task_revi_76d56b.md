@@ -271,7 +271,7 @@ image: /assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_two_
 A two-minute task review before opening email is one of the smallest productivity habits that consistently pays off. The purpose is not to create a detailed plan or redesign the day. It is to decide what matters before other people start making decisions for you.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_two_minute_task_revi_76d56b-Illustration-1-dark.svg" | relative_url }}" alt="Tiny Review illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_two_minute_task_revi_76d56b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_two_minute_task_revi_76d56b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-When the first screen of the day is an inbox, attention often begins reactively. Requests, notifications and unanswered messages compete for priority before any deliberate choice has been made. A brief review during a morning coffee routine creates a different starting point: identify the most important task, define the first visible action and begin it before checking messages. Research on implementation intentions suggests that specific “when X happens, I will do Y” plans make follow-through more likely by linking behaviour to a concrete cue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Implementation_intention" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Implementation intention</span><span class="citation-popover-snippet">Implementation intention</span></span></span>
+When the first screen of the day is an inbox, attention often begins reactively. Requests, notifications and unanswered messages compete for priority before any deliberate choice has been made. A brief review during a morning coffee routine creates a different starting point: identify the most important task, define the first visible action and begin it before checking messages. Research on implementation intentions suggests that specific “when X happens, I will do Y” plans make follow-through more likely by linking behaviour to a concrete cue.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Implementation_intention" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Implementation intention</span><span class="citation-popover-snippet">Implementation intention</span></span></span>
 
 This review is deliberately small. Its value comes from reducing hesitation, not from producing a perfect plan.
 
@@ -285,7 +285,7 @@ Choose one outcome rather than a long list. The answer might be finishing a draf
 
 **2. What is the next visible action?**
 
-Large goals create friction because they are vague. “Work on presentation” is difficult to start. “Draft opening slide” is easier. Specificity matters because concrete [action plans]({{ 'action-plans/' | relative_url }}) reduce the need for further decisions later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Implementation_intention" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Implementation intention</span><span class="citation-popover-snippet">Implementation intention</span></span></span>
+Large goals create friction because they are vague. “Work on presentation” is difficult to start. “Draft opening slide” is easier. Specificity matters because concrete [action plans]({{ 'action-plans/' | relative_url }}) reduce the need for further decisions later.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Implementation_intention" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Implementation intention</span><span class="citation-popover-snippet">Implementation intention</span></span></span>
 
 **3. Can I start that action before opening email?**
 
@@ -305,7 +305,7 @@ Vague PriorityVisible ActionWrite reportDraft the introduction paragraphImprove 
 
 The review succeeds when it converts a broad intention into something that can be started immediately.
 
-This matters because task initiation is often a larger obstacle than task completion. Productivity systems frequently fail not because people lack goals, but because the first step remains unclear. A short review removes that ambiguity before distractions arrive. Research on implementation intentions consistently points to the power of specifying exactly when and how a behaviour will occur. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Implementation_intention" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Implementation intention</span><span class="citation-popover-snippet">Implementation intention</span></span></span>
+This matters because task initiation is often a larger obstacle than task completion. Productivity systems frequently fail not because people lack goals, but because the first step remains unclear. A short review removes that ambiguity before distractions arrive. Research on implementation intentions consistently points to the power of specifying exactly when and how a behaviour will occur.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Implementation_intention" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Implementation intention</span><span class="citation-popover-snippet">Implementation intention</span></span></span>
 
 A useful test is simple: if someone interrupted you and asked, “What are you doing first today?”, you should be able to answer in a single sentence.
 
@@ -316,7 +316,7 @@ Email is not inherently harmful. The issue is timing.
 
 An inbox is a collection of other people's priorities. Some messages are important, but most arrive without regard for your planned work. Opening email before choosing a first task creates a subtle psychological shift: the day begins by responding rather than directing.
 
-Studies of interruptions and attention have repeatedly found that switching focus carries a cost. Even short interruptions can leave attention residue, making it harder to return to the original task. Productivity commentators and workplace researchers therefore often recommend batching communication rather than allowing it to dictate the rhythm of focused work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timecraftadvisory.com/blog/the-2-minute-email-rule-is-ruining-your-focus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timecraftadvisory.com">[TimeCraft Advisory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timecraftadvisory.com</span><span class="citation-popover-snippet">TimeCraft AdvisoryThe 2-Minute Email Rule Is Ruining Your FocusMarch 26, 2026 — The two-minute rule creates an implicit incentive to chec...</span><span class="citation-popover-meta">Published: March 26, 2026</span></span></span>
+Studies of interruptions and attention have repeatedly found that switching focus carries a cost. Even short interruptions can leave attention residue, making it harder to return to the original task. Productivity commentators and workplace researchers therefore often recommend batching communication rather than allowing it to dictate the rhythm of focused work.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timecraftadvisory.com/blog/the-2-minute-email-rule-is-ruining-your-focus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timecraftadvisory.com">[TimeCraft Advisory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timecraftadvisory.com</span><span class="citation-popover-snippet">TimeCraft AdvisoryThe 2-Minute Email Rule Is Ruining Your FocusMarch 26, 2026 — The two-minute rule creates an implicit incentive to chec...</span><span class="citation-popover-meta">Published: March 26, 2026</span></span></span>
 
 The two-minute review creates a protective buffer. Instead of asking, “What needs my attention?”, it asks, “What deserves my attention first?”
 
@@ -330,7 +330,7 @@ People who enjoy productivity systems face a particular trap: planning can feel 
 
 A review that starts with good intentions can easily expand into colour-coded priorities, schedule adjustments, project audits and inbox triage. After twenty minutes, the plan may be impressive while the important task remains untouched.
 
-This is not a new problem. Many productivity frameworks distinguish between defining work and actually doing work. The purpose of planning is to enable action, not to become a separate activity that continually postpones action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cruciallearning.com/blog/the-two-minute-rule-and-how-to-use-it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cruciallearning.com">[Crucial Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cruciallearning.com</span><span class="citation-popover-title">Crucial Learning The Two-Minute Rule and How to Use It</span><span class="citation-popover-snippet">Crucial LearningThe Two-Minute Rule and How to Use ItMay 22, 2019 — 21 May 2019 — When you&#x27;re processing your email or physical in-tray a...</span><span class="citation-popover-meta">Published: May 22, 2019</span></span></span>
+This is not a new problem. Many productivity frameworks distinguish between defining work and actually doing work. The purpose of planning is to enable action, not to become a separate activity that continually postpones action.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cruciallearning.com/blog/the-two-minute-rule-and-how-to-use-it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cruciallearning.com">[Crucial Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cruciallearning.com</span><span class="citation-popover-title">Crucial Learning The Two-Minute Rule and How to Use It</span><span class="citation-popover-snippet">Crucial LearningThe Two-Minute Rule and How to Use ItMay 22, 2019 — 21 May 2019 — When you&#x27;re processing your email or physical in-tray a...</span><span class="citation-popover-meta">Published: May 22, 2019</span></span></span>
 
 The limit of two minutes is valuable because it forces a decision. There is no time to optimise the entire day. There is only enough time to choose a direction and start moving.
 
@@ -365,253 +365,253 @@ That sequence is small enough to repeat every day and specific enough to become 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HohKbgtUSSQ" title="How to work hard and achieve nothing ... using email!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HohKbgtUSSQ" target="_blank" rel="noopener noreferrer">How to work hard and achieve nothing ... using email!</a></p><p class="youtube-embed-meta">Channel: Daniel Sih &middot; Views: 317 &middot; Uploaded: March 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HohKbgtUSSQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HohKbgtUSSQ">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Two Minute Review Before Email. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Two Minute Review Before Email. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Getting+Things+Done+by+David+Allen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Getting Things Done on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7PoYBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Getting Things Done" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Getting+Things+Done+by+David+Allen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Getting Things Done">Getting Things Done</a>
-        </h4>
-        <p class="fr-book-author">By David Allen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Getting+Things+Done+by+David+Allen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Getting Things Done on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7PoYBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Getting Things Done" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Getting+Things+Done+by+David+Allen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Getting Things Done">Getting Things Done</a>
+</h4>
+<p class="fr-book-author">By David Allen</p>
         
-        <p class="fr-book-desc">Strong match for task reviews and defining next actions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Getting+Things+Done+by+David+Allen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong match for task reviews and defining next actions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Getting+Things+Done+by+David+Allen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+One+Thing+by+Gary+Keller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The One Thing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=94ScMQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The One Thing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+One+Thing+by+Gary+Keller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The One Thing">The One Thing</a>
-        </h4>
-        <p class="fr-book-author">By Gary Keller, Jay Papasan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+One+Thing+by+Gary+Keller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The One Thing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=94ScMQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The One Thing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+One+Thing+by+Gary+Keller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The One Thing">The One Thing</a>
+</h4>
+<p class="fr-book-author">By Gary Keller, Jay Papasan</p>
         
-        <p class="fr-book-desc">Focuses on identifying the most important task.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+One+Thing+by+Gary+Keller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on identifying the most important task.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+One+Thing+by+Gary+Keller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Supports a repeatable pre-email review routine.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Supports a repeatable pre-email review routine.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B_L8CAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
-        </h4>
-        <p class="fr-book-author">By Cal Newport</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B_L8CAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
+</h4>
+<p class="fr-book-author">By Cal Newport</p>
         
-        <p class="fr-book-desc">Reinforces doing meaningful work before distractions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Reinforces doing meaningful work before distractions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Getting+Things+Done&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Getting Things Done</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+One+Thing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The One Thing</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Getting+Things+Done&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Getting Things Done</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+One+Thing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The One Thing</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Focus Novelty Desk Sign"><img src="{{ '/assets/images/marketplace-covers/df4f976c1d0d9efb667a.jpg' | relative_url }}" alt="Listing image for Focus Novelty Desk Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Focus Novelty Desk Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for focus desk sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: focus desk sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Focus Novelty Desk Sign"><img src="{{ '/assets/images/marketplace-covers/df4f976c1d0d9efb667a.jpg' | relative_url }}" alt="Listing image for Focus Novelty Desk Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Focus Novelty Desk Sign</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for focus desk sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: focus desk sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4 Pcs Motivational Desk Decor Wooden Office Decor Inspirational Tiered Tray Deco"><img src="{{ '/assets/images/marketplace-covers/bf2aed45e186b4b68711.jpg' | relative_url }}" alt="Listing image for 4 Pcs Motivational Desk Decor Wooden Office Decor Inspirational Tiered Tray Deco" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">4 Pcs Motivational Desk Decor Wooden Office Decor Inspirational Tiered Tray Deco</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for focus desk sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: focus desk sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4 Pcs Motivational Desk Decor Wooden Office Decor Inspirational Tiered Tray Deco"><img src="{{ '/assets/images/marketplace-covers/bf2aed45e186b4b68711.jpg' | relative_url }}" alt="Listing image for 4 Pcs Motivational Desk Decor Wooden Office Decor Inspirational Tiered Tray Deco" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">4 Pcs Motivational Desk Decor Wooden Office Decor Inspirational Tiered Tray Deco</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for focus desk sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: focus desk sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wooden Desk Sign &#x27;Focus On The Good&#x27; | Office Gift | Engraved Plaque"><img src="{{ '/assets/images/marketplace-covers/b6947d589dfa70f3fb2b.jpg' | relative_url }}" alt="Listing image for Wooden Desk Sign &#x27;Focus On The Good&#x27; | Office Gift | Engraved Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Wooden Desk Sign &#x27;Focus On The Good&#x27; | Office Gift | Engraved Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for focus desk sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: focus desk sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wooden Desk Sign &#x27;Focus On The Good&#x27; | Office Gift | Engraved Plaque"><img src="{{ '/assets/images/marketplace-covers/b6947d589dfa70f3fb2b.jpg' | relative_url }}" alt="Listing image for Wooden Desk Sign &#x27;Focus On The Good&#x27; | Office Gift | Engraved Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Wooden Desk Sign &#x27;Focus On The Good&#x27; | Office Gift | Engraved Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for focus desk sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: focus desk sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tiny-review-the-two-minute-review-before-email-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -627,7 +627,7 @@ That sequence is small enough to repeat every day and specific enough to become 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -647,7 +647,7 @@ That sequence is small enough to repeat every day and specific enough to become 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -679,7 +679,7 @@ That sequence is small enough to repeat every day and specific enough to become 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -709,7 +709,7 @@ That sequence is small enough to repeat every day and specific enough to become 
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -767,78 +767,78 @@ That sequence is small enough to repeat every day and specific enough to become 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Implementation intention  
-   Link: <a href="https://en.wikipedia.org/wiki/Implementation_intention" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Implementation_intention</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Implementation_intention" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Implementation_intention</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: timecraftadvisory.com  
-   Link: <a href="https://www.timecraftadvisory.com/blog/the-2-minute-email-rule-is-ruining-your-focus" target="_blank" rel="noopener noreferrer nofollow">https://www.timecraftadvisory.com/blog/the-2-minute-email-rule-is-ruining-your-focus</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TimeCraft AdvisoryThe 2-Minute Email Rule Is Ruining Your FocusMarch 26, 2026 — The two-minute rule creates an implicit incentive to chec...</p></details>
+   Link:<a href="https://www.timecraftadvisory.com/blog/the-2-minute-email-rule-is-ruining-your-focus" target="_blank" rel="noopener noreferrer nofollow">https://www.timecraftadvisory.com/blog/the-2-minute-email-rule-is-ruining-your-focus</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TimeCraft AdvisoryThe 2-Minute Email Rule Is Ruining Your FocusMarch 26, 2026 — The two-minute rule creates an implicit incentive to chec...</p></details>
    Published: March 26, 2026  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cruciallearning.com  
    Title: Crucial Learning The Two-Minute Rule and How to Use It  
-   Link: <a href="https://cruciallearning.com/blog/the-two-minute-rule-and-how-to-use-it/" target="_blank" rel="noopener noreferrer nofollow">https://cruciallearning.com/blog/the-two-minute-rule-and-how-to-use-it/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Crucial LearningThe Two-Minute Rule and How to Use ItMay 22, 2019 — 21 May 2019 — When you&#x27;re processing your email or physical in-tray a...</p></details>
+   Link:<a href="https://cruciallearning.com/blog/the-two-minute-rule-and-how-to-use-it/" target="_blank" rel="noopener noreferrer nofollow">https://cruciallearning.com/blog/the-two-minute-rule-and-how-to-use-it/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Crucial LearningThe Two-Minute Rule and How to Use ItMay 22, 2019 — 21 May 2019 — When you&#x27;re processing your email or physical in-tray a...</p></details>
    Published: May 22, 2019  
 
 ### Additional References
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: thinkingdirections.com  
-   Link: <a href="https://www.thinkingdirections.com/tame-email-with-the-2-minute-rule/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkingdirections.com/tame-email-with-the-2-minute-rule/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tame Email with the 2-Minute RuleThe 2-minute rule is a heuristic to use in the first pass to decide whether to take action immediately o...</p></details>
+   Link:<a href="https://www.thinkingdirections.com/tame-email-with-the-2-minute-rule/" target="_blank" rel="noopener noreferrer nofollow">https://www.thinkingdirections.com/tame-email-with-the-2-minute-rule/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tame Email with the 2-Minute RuleThe 2-minute rule is a heuristic to use in the first pass to decide whether to take action immediately o...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: checklist.com  
-   Link: <a href="https://checklist.com/tips/two-minute-rule" target="_blank" rel="noopener noreferrer nofollow">https://checklist.com/tips/two-minute-rule</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Two-Minute Rule: Boost Your Productivity InstantlyThe Two-Minute Rule states that if a task will take less than two minutes to comple...</p></details>
+   Link:<a href="https://checklist.com/tips/two-minute-rule" target="_blank" rel="noopener noreferrer nofollow">https://checklist.com/tips/two-minute-rule</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Two-Minute Rule: Boost Your Productivity InstantlyThe Two-Minute Rule states that if a task will take less than two minutes to comple...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: businessinsider.com  
    Title: I Tried the 2-Minute Productivity Rule for Easy Tasks  
-   Link: <a href="https://www.businessinsider.com/i-tried-two-minute-productivity-rule-getting-tasks-done-quickly-2022-1" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/i-tried-two-minute-productivity-rule-getting-tasks-done-quickly-2022-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Jan 2022 — I tried the &#x27;2-minute rule&#x27; for getting simple tasks done quickly to boost productivity. It helped me manage stress and focu...</p></details>
+   Link:<a href="https://www.businessinsider.com/i-tried-two-minute-productivity-rule-getting-tasks-done-quickly" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/i-tried-two-minute-productivity-rule-getting-tasks-done-quickly</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>9 Jan 2022 — I tried the &#x27;2-minute rule&#x27; for getting simple tasks done quickly to boost productivity. It helped me manage stress and focu...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: timely.com  
    Title: The two-minute rule: What it is and how it works  
-   Link: <a href="https://www.timely.com/blog/two-minute-rule/" target="_blank" rel="noopener noreferrer nofollow">https://www.timely.com/blog/two-minute-rule/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Aug 2022 — “two-minute rule”: the idea that if a task takes less than two minutes, we should do it now. But should we trust its p...</p></details>
+   Link:<a href="https://www.timely.com/blog/two-minute-rule/" target="_blank" rel="noopener noreferrer nofollow">https://www.timely.com/blog/two-minute-rule/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 Aug 2022 — “two-minute rule”: the idea that if a task takes less than two minutes, we should do it now. But should we trust its p...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cannelevate.com.au  
    Title: two minute rule productivity enhancement  
-   Link: <a href="https://www.cannelevate.com.au/article/two-minute-rule-productivity-enhancement/" target="_blank" rel="noopener noreferrer nofollow">https://www.cannelevate.com.au/article/two-minute-rule-productivity-enhancement/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Two-Minute Rule: Understanding Productivity...14 Sept 2025 — Discover how the Two-Minute Rule transforms workplace productivity thro...</p></details>
+   Link:<a href="https://www.cannelevate.com.au/article/two-minute-rule-productivity-enhancement/" target="_blank" rel="noopener noreferrer nofollow">https://www.cannelevate.com.au/article/two-minute-rule-productivity-enhancement/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Two-Minute Rule: Understanding Productivity...14 Sept 2025 — Discover how the Two-Minute Rule transforms workplace productivity thro...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/getdisciplined/comments/1mucpnl/the_2minute_rule_destroyed_my_productivity_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/getdisciplined/comments/1mucpnl/the_2minute_rule_destroyed_my_productivity_and/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>, you should do it right away. The 2-minute rule assumes that...</p></details>
+   Link:<a href="https://www.reddit.com/r/getdisciplined/comments/1mucpnl/the_2minute_rule_destroyed_my_productivity_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/getdisciplined/comments/1mucpnl/the_2minute_rule_destroyed_my_productivity_and/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>, you should do it right away. The 2-minute rule assumes that...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: exoplan.io  
    Title: Time Blocking: Does It Actually Work?  
-   Link: <a href="https://exoplan.io/blog/time-blocking-science/" target="_blank" rel="noopener noreferrer nofollow">https://exoplan.io/blog/time-blocking-science/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What the Research Says11 Feb 2026 — Time blocking is implementation intentions applied to your entire day. Build 10-15 minute buffers bet...</p></details>
+   Link:<a href="https://exoplan.io/blog/time-blocking-science/" target="_blank" rel="noopener noreferrer nofollow">https://exoplan.io/blog/time-blocking-science/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What the Research Says11 Feb 2026 — Time blocking is implementation intentions applied to your entire day. Build 10-15 minute buffers bet...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Click Up Morning Routine: How to Start Your Day Without the Chaos  
-   Link: <a href="https://www.youtube.com/watch?v=OSpdBnWxuoQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OSpdBnWxuoQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Master Email Efficiency: Shift to a Task Mindset for Better Message Prioritization &amp; Productivity...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OSpdBnWxuoQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OSpdBnWxuoQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Master Email Efficiency: Shift to a Task Mindset for Better Message Prioritization &amp; Productivity...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: The SECRET Brain Hack You're Missing When It Comes To Making New Habits Stick  
-   Link: <a href="https://www.youtube.com/watch?v=CrwqYp7rs7Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CrwqYp7rs7Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to work hard and achieve nothing... using email...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CrwqYp7rs7Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CrwqYp7rs7Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to work hard and achieve nothing... using email...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=OZWewKyQJn0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OZWewKyQJn0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eat That Frog &amp; The ABCDE Method...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OZWewKyQJn0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OZWewKyQJn0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eat That Frog &amp; The ABCDE Method...</p></details>

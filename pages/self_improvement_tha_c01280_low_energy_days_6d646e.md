@@ -502,7 +502,7 @@ image: /assets/images/self_improvement_tha_c01280_low_energy_days_6d646e-overvie
 
 ## Introduction
 
-Self-improvement plans are most likely to last when they are designed for the day when energy is low, not the day when [motivation]({{ 'motivation/' | relative_url }}) is high. A good low-energy plan does not lower your standards permanently; it defines the smallest useful version of the behaviour, removes avoidable friction, and gives you a guilt-free route back after a missed day. This matters because many people abandon improvement plans at the first tired week, assuming the lapse proves a lack of discipline. Behaviour-change evidence points in a different direction: plans survive better when they specify what to do, where and when to do it, what cue will trigger it, and how to respond when predictable barriers appear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span>
+Self-improvement plans are most likely to last when they are designed for the day when energy is low, not the day when [motivation]({{ 'motivation/' | relative_url }}) is high. A good low-energy plan does not lower your standards permanently; it defines the smallest useful version of the behaviour, removes avoidable friction, and gives you a guilt-free route back after a missed day. This matters because many people abandon improvement plans at the first tired week, assuming the lapse proves a lack of discipline. Behaviour-change evidence points in a different direction: plans survive better when they specify what to do, where and when to do it, what cue will trigger it, and how to respond when predictable barriers appear.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e-overview.webp" | relative_url }}" alt="Overview image for Low Energy" loading="eager" decoding="sync" fetchpriority="high">
 The practical aim is to build a “worst day” version of the plan before the worst day arrives. That means deciding in advance what counts as enough: one paragraph instead of an hour of writing, five minutes outside instead of a full workout, opening the budgeting app instead of rebuilding your whole financial system. The low-energy version keeps the [identity]({{ 'identity/' | relative_url }}) of the habit alive while protecting recovery, sleep and self-respect.
@@ -511,9 +511,9 @@ The practical aim is to build a “worst day” version of the plan before the w
 
 Most self-improvement plans are written in a state that does not match ordinary life. They are planned on a Sunday evening, during a burst of optimism, after watching a motivating video, or at the start of January. The problem is not that optimism is bad. The problem is that it is a poor forecast of what you will do after bad sleep, work pressure, family stress, pain, low mood or decision fatigue.
 
-Behaviour-change models such as COM-B are useful here because they do not treat behaviour as a simple test of character. The COM-B model, developed as part of the [Behaviour Change]({{ 'behaviour-change/' | relative_url }}) Wheel, argues that behaviour depends on capability, opportunity and motivation. On low-energy days, all three can shrink: you may have less mental bandwidth, fewer practical opportunities, and less emotional drive. A workable plan therefore has to reduce the demand on all three rather than simply telling you to “try harder”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Michie · 2011 · Cited by 17114 — At the centre of a proposed new framework is a &#x27;behaviour system&#x27; involving three essential cond...</span></span></span>
+Behaviour-change models such as COM-B are useful here because they do not treat behaviour as a simple test of character. The COM-B model, developed as part of the [Behaviour Change]({{ 'behaviour-change/' | relative_url }}) Wheel, argues that behaviour depends on capability, opportunity and motivation. On low-energy days, all three can shrink: you may have less mental bandwidth, fewer practical opportunities, and less emotional drive. A workable plan therefore has to reduce the demand on all three rather than simply telling you to “try harder”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Michie · 2011 · Cited by 17114 — At the centre of a proposed new framework is a &#x27;behaviour system&#x27; involving three essential cond...</span></span></span>
 
-Sleep and stress make this especially important. Reviews of sleep loss and cognition report effects on emotional regulation, impulse control and stress vulnerability, while research on sleep, stress and executive function links poor sleep regulation and psychological stress with poorer self-regulatory capacity. The exact “[willpower]({{ 'willpower/' | relative_url }}) as a limited resource” theory remains debated, but the practical lesson is still sound: tired people need simpler systems, fewer choices and kinder recovery rules. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Michie · 2011 · Cited by 17114 — At the centre of a proposed new framework is a &#x27;behaviour system&#x27; involving three essential cond...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/sleep/articles/10.3389/frsle.2024.1359723/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Sleep and stress make this especially important. Reviews of sleep loss and cognition report effects on emotional regulation, impulse control and stress vulnerability, while research on sleep, stress and executive function links poor sleep regulation and psychological stress with poorer self-regulatory capacity. The exact “[willpower]({{ 'willpower/' | relative_url }}) as a limited resource” theory remains debated, but the practical lesson is still sound: tired people need simpler systems, fewer choices and kinder recovery rules.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Michie · 2011 · Cited by 17114 — At the centre of a proposed new framework is a &#x27;behaviour system&#x27; involving three essential cond...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/sleep/articles/10.3389/frsle.2024.1359723/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 A worst-day plan also prevents the “all-or-nothing” trap. Without a minimum version, a missed workout becomes “I have failed at fitness”; an unfinished study session becomes “I am not a disciplined person”. With a minimum version, the same day becomes “I did the maintenance dose”. That shift is not cosmetic. It keeps the behaviour connected to a cue, keeps the plan visible, and makes returning tomorrow less emotionally expensive.
 
@@ -521,7 +521,7 @@ A worst-day plan also prevents the “all-or-nothing” trap. Without a minimum 
 
 The minimum action is the smallest version of the behaviour that still points in the right direction. It should be so small that it can be done when you are tired, busy or mildly discouraged, but not so vague that it becomes meaningless. “Do something productive” is too broad. “Open the document and write one sentence” is a minimum action. “Exercise” is too broad. “Put on shoes and walk for five minutes” is a minimum action.
 
-This approach fits the evidence better than heroic consistency. Habit research emphasises repeated cue-behaviour links: doing a behaviour in a stable context helps it become more automatic over time. A 2024 systematic review and meta-analysis found that reported times to habit formation vary widely, with median or mean estimates ranging from about two months to several months and substantial individual variation. That variation is a reason to design for continuity rather than perfection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/habit-interventions/420CFDC7EE75036CC4D08EE137108E45" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment Habit Interventions (Chapter 41</span><span class="citation-popover-snippet">University Press &amp; Assessment Habit Interventions (Chapter 41</span></span></span> University Press & Assessment
+This approach fits the evidence better than heroic consistency. Habit research emphasises repeated cue-behaviour links: doing a behaviour in a stable context helps it become more automatic over time. A 2024 systematic review and meta-analysis found that reported times to habit formation vary widely, with median or mean estimates ranging from about two months to several months and substantial individual variation. That variation is a reason to design for continuity rather than perfection.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/habit-interventions/420CFDC7EE75036CC4D08EE137108E45" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment Habit Interventions (Chapter 41</span><span class="citation-popover-snippet">University Press &amp; Assessment Habit Interventions (Chapter 41</span></span></span> University Press & Assessment
 
 A useful minimum action has three qualities:
 
@@ -535,14 +535,14 @@ A useful minimum action has three qualities:
 
 For example, someone trying to improve their health might set three levels: full day, five-kilometre run; normal day, twenty-minute walk; low-energy day, walk round the block. Someone trying to study might use: full day, two focused hours; normal day, twenty-five minutes; low-energy day, open the notes and make three flashcards. The low-energy action is not the main goal. It is the floor that stops the plan collapsing.
 
-Implementation intentions make this floor more concrete. They are “if-then” plans that link a situation to a response, such as “If I get home exhausted, then I will do the five-minute version before sitting down.” The US National Cancer Institute’s behavioural research summary describes implementation intentions as a way to translate goals into action by preparing responses to self-regulatory problems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span>
+Implementation intentions make this floor more concrete. They are “if-then” plans that link a situation to a response, such as “If I get home exhausted, then I will do the five-minute version before sitting down.” The US National Cancer Institute’s behavioural research summary describes implementation intentions as a way to translate goals into action by preparing responses to self-regulatory problems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span>
 
 The strongest minimum actions are decided before the low-energy day. Deciding while tired creates another task. Deciding in advance turns the plan into a script.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e-Illustration-1-dark.svg" | relative_url }}" alt="Low Energy illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_low_energy_days_6d646e-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Environmental shortcuts
 
-Low-energy planning works best when the [environment]({{ 'environment/' | relative_url }}) does some of the work. This is not a motivational slogan; it is a behaviour-design principle. NICE guidance on individual behaviour change identifies goals and planning, feedback and monitoring, and [social support]({{ 'social-support/' | relative_url }}) as important techniques, while behaviour-change taxonomies include prompts, cues, adding objects to the environment and restructuring the physical environment as recognised techniques. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nice.org.uk/guidance/ph49/chapter/recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nice.org.uk">[NICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nice.org.uk</span><span class="citation-popover-snippet">Behaviour change: individual approaches &#124; Guidance2 Jan 2014 — This guideline covers changing health-damaging behaviours among people...</span></span></span>
+Low-energy planning works best when the [environment]({{ 'environment/' | relative_url }}) does some of the work. This is not a motivational slogan; it is a behaviour-design principle. NICE guidance on individual behaviour change identifies goals and planning, feedback and monitoring, and [social support]({{ 'social-support/' | relative_url }}) as important techniques, while behaviour-change taxonomies include prompts, cues, adding objects to the environment and restructuring the physical environment as recognised techniques.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nice.org.uk/guidance/ph49/chapter/recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nice.org.uk">[NICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nice.org.uk</span><span class="citation-popover-snippet">Behaviour change: individual approaches &#124; Guidance2 Jan 2014 — This guideline covers changing health-damaging behaviours among people...</span></span></span>
 
 The shortcut should make the desired action easier at the exact moment it is likely to fail. A yoga mat in the cupboard is a possession. A yoga mat unrolled beside the bed is a prompt. A book on a shelf is an intention. A book on the pillow is an environmental cue. A budgeting app buried on the third screen of a phone is an aspiration. A direct shortcut on the home screen after payday is a practical nudge.
 
@@ -556,7 +556,7 @@ Good shortcuts reduce one of three kinds of friction:
 
 </div>
 
-This is where low-energy plans differ from ordinary productivity advice. The aim is not to create an immaculate lifestyle system. The aim is to arrange the next action so it asks less of you when you have less to give. In COM-B terms, the environment increases opportunity; in habit terms, it strengthens the cue; in ordinary language, it makes the right thing easier to do half-asleep. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s12889-021-11019-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">an across contexts empirical examination of the COM-B modelby TJ Willmott · 2021 · Cited by 346 — In the COM-B model, capability...</span></span></span>
+This is where low-energy plans differ from ordinary productivity advice. The aim is not to create an immaculate lifestyle system. The aim is to arrange the next action so it asks less of you when you have less to give. In COM-B terms, the environment increases opportunity; in habit terms, it strengthens the cue; in ordinary language, it makes the right thing easier to do half-asleep.<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s12889-021-11019-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">an across contexts empirical examination of the COM-B modelby TJ Willmott · 2021 · Cited by 346 — In the COM-B model, capability...</span></span></span>
 
 The shortcut should also be modest enough to maintain. If the environmental setup takes longer than the habit itself, it may become another barrier. A person trying to cook more on tired evenings may not need an elaborate meal-prep system. They may need three reliable low-effort meals, visible ingredients, and permission for “good enough” dinners that prevent takeaway becoming the only tired-day option.
 
@@ -566,11 +566,11 @@ The shortcut should also be modest enough to maintain. If the environmental setu
 
 Low-energy planning can become unhealthy if it is used to deny real rest. The minimum action is not a loophole for ignoring illness, burnout, grief or chronic exhaustion. It is a way to separate two different situations: “I am avoiding a valued behaviour because starting feels hard” and “I genuinely need recovery.” A plan that works must include both action and rest.
 
-This is where guilt becomes a practical problem, not just an unpleasant emotion. When a lapse is interpreted as proof of personal failure, people are more likely to hide from the plan, overcorrect, or give up. Research on self-compassion and health behaviour setbacks suggests that self-compassion can support more adaptive responses to lapses by reframing failure and encouraging renewed effort rather than self-attack. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Michie · 2011 · Cited by 17114 — At the centre of a proposed new framework is a &#x27;behaviour system&#x27; involving three essential cond...</span></span></span>
+This is where guilt becomes a practical problem, not just an unpleasant emotion. When a lapse is interpreted as proof of personal failure, people are more likely to hide from the plan, overcorrect, or give up. Research on self-compassion and health behaviour setbacks suggests that self-compassion can support more adaptive responses to lapses by reframing failure and encouraging renewed effort rather than self-attack.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Michie · 2011 · Cited by 17114 — At the centre of a proposed new framework is a &#x27;behaviour system&#x27; involving three essential cond...</span></span></span>
 
 Recovery without guilt does not mean pretending every missed day is ideal. It means using accurate language. “I missed today because I slept four hours and had a migraine” is different from “I am lazy.” “I did the five-minute version” is different from “I failed to do the full version.” “I need a recovery day and will resume with the minimum action tomorrow” is different from “The whole plan is ruined.”
 
-Relapse-prevention thinking, especially in health behaviour and addiction contexts, also offers a useful general principle: setbacks are part of the change process, and planning for triggers helps people re-enter change more quickly. That does not mean every ordinary habit lapse should be treated like a clinical relapse. It means the same planning logic applies: identify the predictable trigger, decide the next safe action, and avoid turning one lapse into a story of permanent failure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Michie · 2011 · Cited by 17114 — At the centre of a proposed new framework is a &#x27;behaviour system&#x27; involving three essential cond...</span></span></span>
+Relapse-prevention thinking, especially in health behaviour and addiction contexts, also offers a useful general principle: setbacks are part of the change process, and planning for triggers helps people re-enter change more quickly. That does not mean every ordinary habit lapse should be treated like a clinical relapse. It means the same planning logic applies: identify the predictable trigger, decide the next safe action, and avoid turning one lapse into a story of permanent failure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Michie · 2011 · Cited by 17114 — At the centre of a proposed new framework is a &#x27;behaviour system&#x27; involving three essential cond...</span></span></span>
 
 A simple recovery rule is: **never miss the return step**. The return step should be smaller than the full routine and scheduled clearly. For example: “Tomorrow after breakfast, I will do the two-minute version.” Not “I will restart properly on Monday.” The longer and grander the restart, the more likely it is to become another fantasy plan.
 
@@ -593,7 +593,7 @@ Use this structure:
 
 </div>
 
-This structure draws on action planning and coping planning. Action planning specifies when, where and how a behaviour will happen; coping planning prepares responses to barriers. Health-behaviour research describes planning as a bridge between intention and behaviour, and NICE guidance defines [action plans]({{ 'action-plans/' | relative_url }}) as specifying what will happen, in what situation or at what time, how often, for how long and where. <span class="citation-chip-wrap"><a class="citation-chip" href="https://d-nb.info/1103027735/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-title">DNBAction planning and coping planning for long-term lifestyle</span><span class="citation-popover-snippet">DNBAction planning and coping planning for long-term lifestyle</span></span></span>
+This structure draws on action planning and coping planning. Action planning specifies when, where and how a behaviour will happen; coping planning prepares responses to barriers. Health-behaviour research describes planning as a bridge between intention and behaviour, and NICE guidance defines [action plans]({{ 'action-plans/' | relative_url }}) as specifying what will happen, in what situation or at what time, how often, for how long and where.<span class="citation-chip-wrap"><a class="citation-chip" href="https://d-nb.info/1103027735/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[DNB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-title">DNBAction planning and coping planning for long-term lifestyle</span><span class="citation-popover-snippet">DNBAction planning and coping planning for long-term lifestyle</span></span></span>
 
 A finished example might look like this:
 
@@ -613,7 +613,7 @@ A finished example might look like this:
 
 The same pattern works for non-fitness goals:
 
-**Goal:** Read more consistently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[cancercontrol.cancer.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span>
+**Goal:** Read more consistently.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[cancercontrol.cancer.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span>
 
 **Full version:** Thirty pages before bed.
 
@@ -636,9 +636,9 @@ The most common mistake is making the minimum action too large. A “low-energy�
 
 A second mistake is confusing low-energy planning with low standards. The minimum action is a floor, not the ceiling. On better days, the fuller version still exists. The plan works because it has range. A rigid plan breaks when life changes; a tiered plan bends.
 
-A third mistake is tracking in a way that creates shame. Self-monitoring is a recognised behaviour-change technique, but the form matters. A streak tracker can motivate some people and demoralise others. On low-energy plans, it is often better to track “returned after lapse” as a success, not just uninterrupted streaks. NICE guidance includes reviewing behavioural goals in light of experience and making further plans according to progress, which is different from using a tracker as a daily verdict on your worth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nice.org.uk/guidance/ph49" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nice.org.uk">[NICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nice.org.uk</span><span class="citation-popover-snippet">Open source on nice.org.uk.</span></span></span>
+A third mistake is tracking in a way that creates shame. Self-monitoring is a recognised behaviour-change technique, but the form matters. A streak tracker can motivate some people and demoralise others. On low-energy plans, it is often better to track “returned after lapse” as a success, not just uninterrupted streaks. NICE guidance includes reviewing behavioural goals in light of experience and making further plans according to progress, which is different from using a tracker as a daily verdict on your worth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nice.org.uk/guidance/ph49" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nice.org.uk">[NICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nice.org.uk</span><span class="citation-popover-snippet">Open source on nice.org.uk.</span></span></span>
 
-A fourth mistake is treating every tired day as a discipline problem. Sometimes the correct self-improvement action is sleep, food, medical care, a boundary, or a smaller workload. Sleep loss and stress can affect the very systems used for planning, inhibition and emotional regulation, so a plan that never asks why energy is low may become self-punishment disguised as consistency. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Michie · 2011 · Cited by 17114 — At the centre of a proposed new framework is a &#x27;behaviour system&#x27; involving three essential cond...</span></span></span>
+A fourth mistake is treating every tired day as a discipline problem. Sometimes the correct self-improvement action is sleep, food, medical care, a boundary, or a smaller workload. Sleep loss and stress can affect the very systems used for planning, inhibition and emotional regulation, so a plan that never asks why energy is low may become self-punishment disguised as consistency.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Michie · 2011 · Cited by 17114 — At the centre of a proposed new framework is a &#x27;behaviour system&#x27; involving three essential cond...</span></span></span>
 
 The final mistake is making the restart too dramatic. “From tomorrow I will do everything properly” sounds motivating, but it often recreates the original fragile plan. A better restart is deliberately boring: return to the cue, do the minimum action, record it, stop.
 
@@ -655,237 +655,237 @@ For [self improvement that works]({{ 'self-improvement-that-works/' | relative_u
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/itp7Qo6L5Pc" title="15-minute Introduction to the Behaviour Change Wheel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=itp7Qo6L5Pc" target="_blank" rel="noopener noreferrer">15-minute Introduction to the Behaviour Change Wheel</a></p><p class="youtube-embed-meta">Channel: Unlocking Behaviour Change &middot; Views: 32.4K &middot; Uploaded: September 2022 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=itp7Qo6L5Pc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=itp7Qo6L5Pc">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Build the Plan for Your Worst Day. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Build the Plan for Your Worst Day. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Promotes sustainable habits through small actions on difficult days.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Promotes sustainable habits through small actions on difficult days.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
-        </h4>
-        <p class="fr-book-author">By B. J. Fogg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
+</h4>
+<p class="fr-book-author">By B. J. Fogg</p>
         
-        <p class="fr-book-desc">Ideal for reducing effort and keeping momentum when energy is low.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Ideal for reducing effort and keeping momentum when energy is low.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Carol S. Dweck</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
-        <p class="fr-book-desc">Addresses beliefs and learning approaches that support improvement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
+</h4>
+<p class="fr-book-author">By Carol S. Dweck</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
+<p class="fr-book-desc">Addresses beliefs and learning approaches that support improvement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+One+Thing+by+Gary+Keller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The One Thing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=94ScMQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The One Thing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+One+Thing+by+Gary+Keller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The One Thing">The One Thing</a>
-        </h4>
-        <p class="fr-book-author">By Gary Keller, Jay Papasan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+One+Thing+by+Gary+Keller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The One Thing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=94ScMQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The One Thing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+One+Thing+by+Gary+Keller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The One Thing">The One Thing</a>
+</h4>
+<p class="fr-book-author">By Gary Keller, Jay Papasan</p>
         
-        <p class="fr-book-desc">Encourages focusing on the smallest high-impact action.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+One+Thing+by+Gary+Keller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages focusing on the smallest high-impact action.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+One+Thing+by+Gary+Keller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-habit-tracker-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Daily Water Tracker Chart Annual Hydration Log Fitness Habit Calendar Poster"><img src="{{ '/assets/images/marketplace-covers/9b14a15ca4038a4bdb67.jpg' | relative_url }}" alt="Listing image for Daily Water Tracker Chart Annual Hydration Log Fitness Habit Calendar Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-habit-tracker-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Daily Water Tracker Chart Annual Hydration Log Fitness Habit Calendar Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-habit-tracker-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-habit-tracker-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-habit-tracker-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Daily Water Tracker Chart Annual Hydration Log Fitness Habit Calendar Poster"><img src="{{ '/assets/images/marketplace-covers/9b14a15ca4038a4bdb67.jpg' | relative_url }}" alt="Listing image for Daily Water Tracker Chart Annual Hydration Log Fitness Habit Calendar Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-habit-tracker-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Daily Water Tracker Chart Annual Hydration Log Fitness Habit Calendar Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-habit-tracker-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-habit-tracker-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-habit-tracker-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 75 Hard Challenge Tracker A4 Wall Chart Habit Fitness Log Workout Poster Pink"><img src="{{ '/assets/images/marketplace-covers/b57dca8e0aef2f8c1fac.jpg' | relative_url }}" alt="Listing image for 75 Hard Challenge Tracker A4 Wall Chart Habit Fitness Log Workout Poster Pink" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-habit-tracker-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">75 Hard Challenge Tracker A4 Wall Chart Habit Fitness Log Workout Poster Pink</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-habit-tracker-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-habit-tracker-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-habit-tracker-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-habit-tracker-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 75 Hard Challenge Tracker A4 Wall Chart Habit Fitness Log Workout Poster Pink"><img src="{{ '/assets/images/marketplace-covers/b57dca8e0aef2f8c1fac.jpg' | relative_url }}" alt="Listing image for 75 Hard Challenge Tracker A4 Wall Chart Habit Fitness Log Workout Poster Pink" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-habit-tracker-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">75 Hard Challenge Tracker A4 Wall Chart Habit Fitness Log Workout Poster Pink</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-habit-tracker-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-habit-tracker-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=low-energy-build-the-plan-for-your-worst-day-self-improvement-that-works-habit-tracker-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -901,7 +901,7 @@ For [self improvement that works]({{ 'self-improvement-that-works/' | relative_u
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -921,7 +921,7 @@ For [self improvement that works]({{ 'self-improvement-that-works/' | relative_u
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -953,7 +953,7 @@ For [self improvement that works]({{ 'self-improvement-that-works/' | relative_u
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -983,7 +983,7 @@ For [self improvement that works]({{ 'self-improvement-that-works/' | relative_u
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -1041,114 +1041,114 @@ For [self improvement that works]({{ 'self-improvement-that-works/' | relative_u
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cancercontrol.cancer.gov  
-   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</p></details>
+   Link:<a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nice.org.uk  
-   Link: <a href="https://www.nice.org.uk/guidance/ph49/chapter/recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/ph49/chapter/recommendations</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour change: individual approaches | Guidance2 Jan 2014 — This guideline covers changing health-damaging behaviours among people...</p></details>
+   Link:<a href="https://www.nice.org.uk/guidance/ph49/chapter/recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/ph49/chapter/recommendations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour change: individual approaches | Guidance2 Jan 2014 — This guideline covers changing health-damaging behaviours among people...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Michie · 2011 · Cited by 17114 — At the centre of a proposed new framework is a &#x27;behaviour system&#x27; involving three essential cond...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by S Michie · 2011 · Cited by 17114 — At the centre of a proposed new framework is a &#x27;behaviour system&#x27; involving three essential cond...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1186/s12889-021-11019-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12889-021-11019-w</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>an across contexts empirical examination of the COM-B modelby TJ Willmott · 2021 · Cited by 346 — In the COM-B model, capability...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1186/s12889-021-11019-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12889-021-11019-w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>an across contexts empirical examination of the COM-B modelby TJ Willmott · 2021 · Cited by 346 — In the COM-B model, capability...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12168795/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12168795/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of Sleep and the Effects of Sleep Loss on Cognitive...by A Hyndych · 2025 · Cited by 59 — Sleep deprivation profoundly affec...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12168795/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12168795/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of Sleep and the Effects of Sleep Loss on Cognitive...by A Hyndych · 2025 · Cited by 59 — Sleep deprivation profoundly affec...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cambridge.org  
    Title: University Press & Assessment Habit Interventions (Chapter 41)  
-   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/habit-interventions/420CFDC7EE75036CC4D08EE137108E45" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/habit-interventions/420CFDC7EE75036CC4D08EE137108E45</a>  
+   Link:<a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/habit-interventions/420CFDC7EE75036CC4D08EE137108E45" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/habit-interventions/420CFDC7EE75036CC4D08EE137108E45</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nice.org.uk  
-   Link: <a href="https://www.nice.org.uk/guidance/ph49" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/ph49</a>  
+   Link:<a href="https://www.nice.org.uk/guidance/ph49" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/ph49</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10543633/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10543633/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10543633/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10543633/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: d-nb.info  
    Title: DNBAction planning and coping planning for long-term lifestyle  
-   Link: <a href="https://d-nb.info/1103027735/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1103027735/34</a>  
+   Link:<a href="https://d-nb.info/1103027735/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1103027735/34</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: self-compassion.org  
-   Link: <a href="https://self-compassion.org/wp-content/uploads/publications/SCtheoryarticle.pdf" target="_blank" rel="noopener noreferrer nofollow">https://self-compassion.org/wp-content/uploads/publications/SCtheoryarticle.pdf</a>  
+   Link:<a href="https://self-compassion.org/wp-content/uploads/publications/SCtheoryarticle.pdf" target="_blank" rel="noopener noreferrer nofollow">https://self-compassion.org/wp-content/uploads/publications/SCtheoryarticle.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/sleep/articles/10.3389/frsle.2024.1359723/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/sleep/articles/10.3389/frsle.2024.1359723/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/sleep/articles/10.3389/frsle.2024.1359723/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/sleep/articles/10.3389/frsle.2024.1359723/full</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: hal.science  
-   Link: <a href="https://hal.science/hal-03561895v1/document" target="_blank" rel="noopener noreferrer nofollow">https://hal.science/hal-03561895v1/document</a>  
+   Link:<a href="https://hal.science/hal-03561895v1/document" target="_blank" rel="noopener noreferrer nofollow">https://hal.science/hal-03561895v1/document</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2021.620383/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2021.620383/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2021.620383/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2021.620383/full</a>  
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Minimum Viable Habit: the best-kept secret to being consistent with your habits  
-   Link: <a href="https://www.youtube.com/watch?v=3NpMGZh-ThI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3NpMGZh-ThI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to be productive (even when you&#x27;re tired) | tips to stay motivated during a 9-5 work day...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=3NpMGZh-ThI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3NpMGZh-ThI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to be productive (even when you&#x27;re tired) | tips to stay motivated during a 9-5 work day...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=VfGRTOIT9Z4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VfGRTOIT9Z4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The “Can&#x27;t Fail” Morning Routine ☀️ (ADHD, Low Energy Days)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VfGRTOIT9Z4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VfGRTOIT9Z4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The “Can&#x27;t Fail” Morning Routine ☀️ (ADHD, Low Energy Days)...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: How to Have a Productive Day When You Have No Energy (Gentle, Realistic Tips)  
-   Link: <a href="https://www.youtube.com/watch?v=11Vl35uvILs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=11Vl35uvILs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Most Plans Fail (And What Actually Works)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=11Vl35uvILs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=11Vl35uvILs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Most Plans Fail (And What Actually Works)...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK571075/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK571075/</a>  
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK571075/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK571075/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Why Most Plans Fail (And What Actually Works)  
-   Link: <a href="https://www.youtube.com/watch?v=rlHg8SFekwg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rlHg8SFekwg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Minimum Viable Habit: the best-kept secret to being consistent with your habits...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rlHg8SFekwg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rlHg8SFekwg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Minimum Viable Habit: the best-kept secret to being consistent with your habits...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/358734161_From_Ego_Depletion_to_Self-Control_Fatigue_A_Review_of_Criticisms_Along_With_New_Perspectives_for_the_Investigation_and_Replication_of_a_Multicomponent_Phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358734161_From_Ego_Depletion_to_Self-Control_Fatigue_A_Review_of_Criticisms_Along_With_New_Perspectives_for_the_Investigation_and_Replication_of_a_Multicomponent_Phenomenon</a>  
+   Link:<a href="https://www.researchgate.net/publication/358734161_From_Ego_Depletion_to_Self-Control_Fatigue_A_Review_of_Criticisms_Along_With_New_Perspectives_for_the_Investigation_and_Replication_of_a_Multicomponent_Phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/358734161_From_Ego_Depletion_to_Self-Control_Fatigue_A_Review_of_Criticisms_Along_With_New_Perspectives_for_the_Investigation_and_Replication_of_a_Multicomponent_Phenomenon</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/228079793_Sleep_Self-Regulation_Self-Control_and_Health" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228079793_Sleep_Self-Regulation_Self-Control_and_Health</a>  
+   Link:<a href="https://www.researchgate.net/publication/228079793_Sleep_Self-Regulation_Self-Control_and_Health" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228079793_Sleep_Self-Regulation_Self-Control_and_Health</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles</a>  
+   Link:<a href="https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: drugsandalcohol.ie  
-   Link: <a href="https://www.drugsandalcohol.ie/21170/1/Behaviour_change_individual_approaches.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.drugsandalcohol.ie/21170/1/Behaviour_change_individual_approaches.pdf</a>  
+   Link:<a href="https://www.drugsandalcohol.ie/21170/1/Behaviour_change_individual_approaches.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.drugsandalcohol.ie/21170/1/Behaviour_change_individual_approaches.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: yukaichou.com  
-   Link: <a href="https://yukaichou.com/gamification-analysis/com-b-behavior-change-wheel-michie-capability-opportunity-motivation/" target="_blank" rel="noopener noreferrer nofollow">https://yukaichou.com/gamification-analysis/com-b-behavior-change-wheel-michie-capability-opportunity-motivation/</a>
+   Link:<a href="https://yukaichou.com/gamification-analysis/com-b-behavior-change-wheel-michie-capability-opportunity-motivation/" target="_blank" rel="noopener noreferrer nofollow">https://yukaichou.com/gamification-analysis/com-b-behavior-change-wheel-michie-capability-opportunity-motivation/</a>

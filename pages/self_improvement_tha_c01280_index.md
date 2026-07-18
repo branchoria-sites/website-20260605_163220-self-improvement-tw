@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /self-improvement-tha-c01280-index/
 description: Focused pages that expand on Self Improvement That Works.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: self_improvement_tha_c01280
 parent_title: Self Improvement That Works
@@ -16,7 +16,7 @@ parent_permalink: /self-improvement-that-works/
 
 # Explore Topics in Self Improvement That Works
 
-The following pages expand on the main **[Self Improvement That Works]({{ '/self-improvement-that-works/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Self Improvement That Works]({{ '/self-improvement-that-works/' | relative_url }})** page and cover its key branches in.
 
 - [Accountability]({{ '/accountability/' | relative_url }})
 - [Action Plans]({{ '/action-plans/' | relative_url }})

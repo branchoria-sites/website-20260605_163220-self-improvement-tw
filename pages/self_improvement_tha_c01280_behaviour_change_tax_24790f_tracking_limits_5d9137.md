@@ -268,16 +268,16 @@ image: /assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_tr
 
 ## Introduction
 
-Self-monitoring is one of the most common [behaviour change]({{ 'behaviour-change/' | relative_url }}) [techniques]({{ 'techniques/' | relative_url }}) in self-improvement. It includes habit trackers, food logs, budgeting spreadsheets, sleep diaries, step counters and similar tools that make behaviour visible. Within the Behaviour Change Technique Taxonomy, self-monitoring is not meant to be a motivational slogan. It is a specific technique: recording behaviour or its outcomes so that patterns can be observed and adjusted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalwellbeing.org">[digitalwellbeing.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalwellbeing.org</span><span class="citation-popover-snippet">i BCT Taxonomy (v1): 93 hierarchically-clustered techniquesThe definitions of Behavior Change Techniques (BCTs): i) contain verbs...</span></span></span>
+Self-monitoring is one of the most common [behaviour change]({{ 'behaviour-change/' | relative_url }}) [techniques]({{ 'techniques/' | relative_url }}) in self-improvement. It includes habit trackers, food logs, budgeting spreadsheets, sleep diaries, step counters and similar tools that make behaviour visible. Within the Behaviour Change Technique Taxonomy, self-monitoring is not meant to be a motivational slogan. It is a specific technique: recording behaviour or its outcomes so that patterns can be observed and adjusted.<span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalwellbeing.org">[digitalwellbeing.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalwellbeing.org</span><span class="citation-popover-snippet">i BCT Taxonomy (v1): 93 hierarchically-clustered techniquesThe definitions of Behavior Change Techniques (BCTs): i) contain verbs...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_tracking_limits_5d9137-Illustration-1-dark.svg" | relative_url }}" alt="Tracking Limits illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_tracking_limits_5d9137-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_tracking_limits_5d9137-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The central benefit is simple: people often misjudge what they actually do. Tracking creates [feedback]({{ 'feedback/' | relative_url }}). The central risk is equally simple: tracking can become the activity that receives most of the attention, while the underlying [behaviour changes]({{ 'behaviour-change/' | relative_url }}) very little. When that happens, self-improvement starts to feel like managing data rather than improving life.
 
 ## What self-monitoring is meant to change
 
-The purpose of self-monitoring is not record-keeping for its own sake. It is to increase awareness of behaviour and provide information that can guide the next decision. The Behaviour Change Technique Taxonomy defines self-monitoring as establishing a method for a person to record behaviour or its outcomes as part of a change strategy. Examples include recording daily exercise, tracking spending, or logging sleep. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalwellbeing.org">[digitalwellbeing.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalwellbeing.org</span><span class="citation-popover-snippet">i BCT Taxonomy (v1): 93 hierarchically-clustered techniquesThe definitions of Behavior Change Techniques (BCTs): i) contain verbs...</span></span></span>
+The purpose of self-monitoring is not record-keeping for its own sake. It is to increase awareness of behaviour and provide information that can guide the next decision. The Behaviour Change Technique Taxonomy defines self-monitoring as establishing a method for a person to record behaviour or its outcomes as part of a change strategy. Examples include recording daily exercise, tracking spending, or logging sleep.<span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalwellbeing.org">[digitalwellbeing.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalwellbeing.org</span><span class="citation-popover-snippet">i BCT Taxonomy (v1): 93 hierarchically-clustered techniquesThe definitions of Behavior Change Techniques (BCTs): i) contain verbs...</span></span></span>
 
-Research consistently finds that self-monitoring can improve awareness and often supports behaviour change, particularly when combined with feedback, goals or review processes. Reviews of physical activity interventions have found that monitoring is frequently associated with increased activity, while broader reviews of behaviour change techniques identify self-monitoring as one of the most commonly used and influential intervention components. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7490310/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Use of Self-Monitoring and Technology to Increase</span><span class="citation-popover-snippet">by EJ Page · 2020 · Cited by 77 — This review found that most of the studies reviewed showed an increase of physical activity when usi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2821%2902630-1/fulltext" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelancet.com">[The Lancet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelancet.com</span><span class="citation-popover-snippet">Benefits of physical activity interventions combining self...by T Vetrovsky · 2021 · Cited by 6 — Self-monitoring is a cornerstone of ma...</span></span></span>
+Research consistently finds that self-monitoring can improve awareness and often supports behaviour change, particularly when combined with feedback, goals or review processes. Reviews of physical activity interventions have found that monitoring is frequently associated with increased activity, while broader reviews of behaviour change techniques identify self-monitoring as one of the most commonly used and influential intervention components.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7490310/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Use of Self-Monitoring and Technology to Increase</span><span class="citation-popover-snippet">by EJ Page · 2020 · Cited by 77 — This review found that most of the studies reviewed showed an increase of physical activity when usi...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2821%2902630-1/fulltext" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thelancet.com">[The Lancet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thelancet.com</span><span class="citation-popover-snippet">Benefits of physical activity interventions combining self...by T Vetrovsky · 2021 · Cited by 6 — Self-monitoring is a cornerstone of ma...</span></span></span>
 
 The mechanism is not mysterious:
 
@@ -290,7 +290,7 @@ The mechanism is not mysterious:
 
 </div>
 
-A spending diary may reveal that small purchases are driving overspending. A sleep log may show that late caffeine use matters more than expected. A step counter may expose how sedentary a typical workday really is. The value comes from discovering something actionable rather than merely generating numbers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.ucl.ac.uk/cbc-digi-hub-blog/2018/09/21/the-costs-and-benefits-of-self-monitoring-for-health-and-wellness/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.ucl.ac.uk">[UCL Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.ucl.ac.uk</span><span class="citation-popover-title">the costs and benefits of self monitoring for health and wellness</span><span class="citation-popover-snippet">UCL BlogsThe costs and benefits of self-monitoring for health and wellness21 Sept 2018 — Self-monitoring can reveal problematic behaviour...</span></span></span>
+A spending diary may reveal that small purchases are driving overspending. A sleep log may show that late caffeine use matters more than expected. A step counter may expose how sedentary a typical workday really is. The value comes from discovering something actionable rather than merely generating numbers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blogs.ucl.ac.uk/cbc-digi-hub-blog/2018/09/21/the-costs-and-benefits-of-self-monitoring-for-health-and-wellness/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blogs.ucl.ac.uk">[UCL Blogs]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blogs.ucl.ac.uk</span><span class="citation-popover-title">the costs and benefits of self monitoring for health and wellness</span><span class="citation-popover-snippet">UCL BlogsThe costs and benefits of self-monitoring for health and wellness21 Sept 2018 — Self-monitoring can reveal problematic behaviour...</span></span></span>
 
 ## Why tracking often works at the beginning
 
@@ -298,7 +298,7 @@ Tracking is particularly useful during periods of uncertainty.
 
 When someone starts a new habit, they usually lack reliable information. They may overestimate consistency, underestimate obstacles, or misunderstand what influences results. Monitoring helps create a clearer picture of reality.
 
-This is why many successful interventions use tracking early. It acts as a learning tool. Rather than asking, "Am I disciplined?", the person asks, "What actually happened this week?" That shift moves attention from self-judgement towards observation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7490310/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Use of Self-Monitoring and Technology to Increase</span><span class="citation-popover-snippet">by EJ Page · 2020 · Cited by 77 — This review found that most of the studies reviewed showed an increase of physical activity when usi...</span></span></span>
+This is why many successful interventions use tracking early. It acts as a learning tool. Rather than asking, "Am I disciplined?", the person asks, "What actually happened this week?" That shift moves attention from self-judgement towards observation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7490310/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Use of Self-Monitoring and Technology to Increase</span><span class="citation-popover-snippet">by EJ Page · 2020 · Cited by 77 — This review found that most of the studies reviewed showed an increase of physical activity when usi...</span></span></span>
 
 In practical terms, tracking tends to be most valuable when:
 
@@ -333,7 +333,7 @@ A missed entry begins to feel like failure even when the behaviour occurred. The
 
 Numbers are useful indicators. They are poor measures of personal value.
 
-When a low step count, missed streak or imperfect chart creates disproportionate guilt, the metric has started serving as a judgement system rather than a feedback system. Critics of intensive self-tracking note that people can become fixated on numerical targets and increasingly evaluate themselves through data rather than through broader wellbeing or progress. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/lifeandstyle/2025/feb/22/the-bot-asked-me-four-times-a-day-how-i-was-feeling-is-tracking-everything-actually-good-for-us" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">This phenomenon, driven by the availability of smartphones, fitness trackers, and health monitors, raises questions about the efficacy an...</span></span></span>
+When a low step count, missed streak or imperfect chart creates disproportionate guilt, the metric has started serving as a judgement system rather than a feedback system. Critics of intensive self-tracking note that people can become fixated on numerical targets and increasingly evaluate themselves through data rather than through broader wellbeing or progress.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/lifeandstyle/2025/feb/22/the-bot-asked-me-four-times-a-day-how-i-was-feeling-is-tracking-everything-actually-good-for-us" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">This phenomenon, driven by the availability of smartphones, fitness trackers, and health monitors, raises questions about the efficacy an...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_tracking_limits_5d9137-Illustration-2-dark.svg" | relative_url }}" alt="Tracking Limits illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_tracking_limits_5d9137-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_tracking_limits_5d9137-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The tracking workload keeps expanding
@@ -344,7 +344,7 @@ The amount of monitoring rises while behavioural gains flatten. At that point, t
 
 ### Activity becomes less enjoyable without measurement
 
-Research on self-tracking has documented cases where activities become less satisfying when they are not being recorded. Some users report feeling that exercise, for example, is less meaningful if it is not captured by a device. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arno.uvt.nl/show.cgi?fid=162593" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arno.uvt.nl">[Arno]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arno.uvt.nl</span><span class="citation-popover-snippet">Open source on uvt.nl.</span></span></span>
+Research on self-tracking has documented cases where activities become less satisfying when they are not being recorded. Some users report feeling that exercise, for example, is less meaningful if it is not captured by a device.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arno.uvt.nl/show.cgi?fid=162593" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arno.uvt.nl">[Arno]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arno.uvt.nl</span><span class="citation-popover-snippet">Open source on uvt.nl.</span></span></span>
 
 That is a subtle shift. The behaviour no longer feels valuable on its own; it feels valuable because it generates data.
 
@@ -352,7 +352,7 @@ That is a subtle shift. The behaviour no longer feels valuable on its own; it fe
 
 Many digital behaviour-change systems depend heavily on engagement. Users receive streaks, badges, graphs and [reminders]({{ 'reminders/' | relative_url }}). These can be useful, but they can also create a conflict.
 
-A person may become highly engaged with the tool while only modestly engaged with the behaviour it was designed to support. Researchers examining behaviour-change technologies have warned that systems sometimes optimise continued interaction with the technology itself rather than helping users internalise the underlying behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2402.00121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Designing for Sustained Motivation: A Review of Self-Determination Theory in Behaviour Change TechnologiesJanuary 31, 2024...</span><span class="citation-popover-meta">Published: January 31, 2024</span></span></span>
+A person may become highly engaged with the tool while only modestly engaged with the behaviour it was designed to support. Researchers examining behaviour-change technologies have warned that systems sometimes optimise continued interaction with the technology itself rather than helping users internalise the underlying behaviour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2402.00121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Designing for Sustained Motivation: A Review of Self-Determination Theory in Behaviour Change TechnologiesJanuary 31, 2024...</span><span class="citation-popover-meta">Published: January 31, 2024</span></span></span>
 
 This distinction matters.
 
@@ -385,7 +385,7 @@ For example:
 
 The emphasis is on adaptation.
 
-Research on self-regulation consistently points to monitoring as part of a larger feedback loop rather than a standalone solution. Monitoring creates awareness, but awareness becomes valuable only when it informs adjustment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7490310/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Use of Self-Monitoring and Technology to Increase</span><span class="citation-popover-snippet">by EJ Page · 2020 · Cited by 77 — This review found that most of the studies reviewed showed an increase of physical activity when usi...</span></span></span>
+Research on self-regulation consistently points to monitoring as part of a larger feedback loop rather than a standalone solution. Monitoring creates awareness, but awareness becomes valuable only when it informs adjustment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7490310/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Use of Self-Monitoring and Technology to Increase</span><span class="citation-popover-snippet">by EJ Page · 2020 · Cited by 77 — This review found that most of the studies reviewed showed an increase of physical activity when usi...</span></span></span>
 
 A practical rule is that every measurement should have a plausible action attached to it. If a number cannot influence a future decision, it may not need to be tracked.
 
@@ -414,194 +414,194 @@ The most successful form of self-monitoring eventually becomes less visible. The
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8dHEG7WxR4c" title="The Science of Making &amp; Breaking Habits: How to Change Your Life in 1 Month" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8dHEG7WxR4c" target="_blank" rel="noopener noreferrer">The Science of Making &amp; Breaking Habits: How to Change Your Life in 1 Month</a></p><p class="youtube-embed-meta">Channel: Mel Robbins &middot; Views: 1.8M &middot; Uploaded: January 2026 &middot; Length: 1 hour 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8dHEG7WxR4c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8dHEG7WxR4c">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When does tracking start getting in the way?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When does tracking start getting in the way?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Discusses tracking, feedback and when measurement helps.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Discusses tracking, feedback and when measurement helps.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
-        </h4>
-        <p class="fr-book-author">By B. J. Fogg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
+</h4>
+<p class="fr-book-author">By B. J. Fogg</p>
         
-        <p class="fr-book-desc">Encourages simple measurement without overwhelming complexity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages simple measurement without overwhelming complexity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Essentialism+by+Greg+McKeown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Essentialism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=pK7PBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Essentialism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Essentialism+by+Greg+McKeown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Essentialism">Essentialism</a>
-        </h4>
-        <p class="fr-book-author">By Greg McKeown</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Essentialism+by+Greg+McKeown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Essentialism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=pK7PBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Essentialism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Essentialism+by+Greg+McKeown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Essentialism">Essentialism</a>
+</h4>
+<p class="fr-book-author">By Greg McKeown</p>
         
-        <p class="fr-book-desc">Supports simplifying systems when tracking becomes burdensome.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Essentialism+by+Greg+McKeown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports simplifying systems when tracking becomes burdensome.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Essentialism+by+Greg+McKeown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
-        </h4>
-        <p class="fr-book-author">By Charles Duhigg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
+</h4>
+<p class="fr-book-author">By Charles Duhigg</p>
         
-        <p class="fr-book-desc">Provides context for behaviour awareness and feedback loops.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for behaviour awareness and feedback loops.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Essentialism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Essentialism</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Essentialism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Essentialism</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-start-getting-in-the-way-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-does-tracking-start-getting-in-the-way-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Journal Workout Motivation Fridge Calendar Dry Erase 13” X 17” ..."><img src="https://i.ebayimg.com/images/g/jdsAAeSwNBlp~Ho8/s-l225.jpg" alt="Listing image for Habit Tracker Journal Workout Motivation Fridge Calendar Dry Erase 13” X 17” ..." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-start-getting-in-the-way-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-does-tracking-start-getting-in-the-way-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Journal Workout Motivation Fridge Calendar Dry Erase 13” X 17” ...</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-start-getting-in-the-way-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-does-tracking-start-getting-in-the-way-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-start-getting-in-the-way-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-does-tracking-start-getting-in-the-way-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-start-getting-in-the-way-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-does-tracking-start-getting-in-the-way-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Journal Workout Motivation Fridge Calendar Dry Erase 13” X 17” ..."><img src="https://i.ebayimg.com/images/g/jdsAAeSwNBlp~Ho8/s-l225.jpg" alt="Listing image for Habit Tracker Journal Workout Motivation Fridge Calendar Dry Erase 13” X 17” ..." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-start-getting-in-the-way-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-does-tracking-start-getting-in-the-way-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Journal Workout Motivation Fridge Calendar Dry Erase 13” X 17” ...</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-start-getting-in-the-way-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-does-tracking-start-getting-in-the-way-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-start-getting-in-the-way-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-does-tracking-start-getting-in-the-way-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-start-getting-in-the-way-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-does-tracking-start-getting-in-the-way-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2024 Law of Attraction Planner - Undated B5 Goal Setting Journal &amp; Vision Board"><img src="https://i.ebayimg.com/images/g/R4EAAeSwC6dpFKqr/s-l225.jpg" alt="Listing image for 2024 Law of Attraction Planner - Undated B5 Goal Setting Journal &amp; Vision Board" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-start-getting-in-the-way-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-does-tracking-start-getting-in-the-way-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">2024 Law of Attraction Planner - Undated B5 Goal Setting Journal &amp; Vision Board</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-start-getting-in-the-way-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-does-tracking-start-getting-in-the-way-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-start-getting-in-the-way-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-does-tracking-start-getting-in-the-way-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-start-getting-in-the-way-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-does-tracking-start-getting-in-the-way-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2024 Law of Attraction Planner - Undated B5 Goal Setting Journal &amp; Vision Board"><img src="https://i.ebayimg.com/images/g/R4EAAeSwC6dpFKqr/s-l225.jpg" alt="Listing image for 2024 Law of Attraction Planner - Undated B5 Goal Setting Journal &amp; Vision Board" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-start-getting-in-the-way-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-does-tracking-start-getting-in-the-way-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">2024 Law of Attraction Planner - Undated B5 Goal Setting Journal &amp; Vision Board</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-start-getting-in-the-way-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-does-tracking-start-getting-in-the-way-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-start-getting-in-the-way-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-does-tracking-start-getting-in-the-way-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-start-getting-in-the-way-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-does-tracking-start-getting-in-the-way-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A5 Gratitude Planner and Habit Tracker Journal for Men and Women"><img src="https://i.ebayimg.com/images/g/fmUAAeSwlyJpJTtk/s-l225.jpg" alt="Listing image for A5 Gratitude Planner and Habit Tracker Journal for Men and Women" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-start-getting-in-the-way-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-does-tracking-start-getting-in-the-way-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">A5 Gratitude Planner and Habit Tracker Journal for Men and Women</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-start-getting-in-the-way-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-does-tracking-start-getting-in-the-way-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-start-getting-in-the-way-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-does-tracking-start-getting-in-the-way-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-start-getting-in-the-way-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-does-tracking-start-getting-in-the-way-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A5 Gratitude Planner and Habit Tracker Journal for Men and Women"><img src="https://i.ebayimg.com/images/g/fmUAAeSwlyJpJTtk/s-l225.jpg" alt="Listing image for A5 Gratitude Planner and Habit Tracker Journal for Men and Women" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-start-getting-in-the-way-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-does-tracking-start-getting-in-the-way-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">A5 Gratitude Planner and Habit Tracker Journal for Men and Women</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-start-getting-in-the-way-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-does-tracking-start-getting-in-the-way-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-start-getting-in-the-way-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-does-tracking-start-getting-in-the-way-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-start-getting-in-the-way-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-does-tracking-start-getting-in-the-way-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2026 Habit Tracker Calendar – Premium Daily Habit Tracker Journal and Goal Board"><img src="https://i.ebayimg.com/images/g/BOYAAeSwxgZpukgY/s-l225.jpg" alt="Listing image for 2026 Habit Tracker Calendar – Premium Daily Habit Tracker Journal and Goal Board" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-start-getting-in-the-way-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-does-tracking-start-getting-in-the-way-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">2026 Habit Tracker Calendar – Premium Daily Habit Tracker Journal and Goal Board</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-start-getting-in-the-way-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-does-tracking-start-getting-in-the-way-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-start-getting-in-the-way-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-does-tracking-start-getting-in-the-way-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-start-getting-in-the-way-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-does-tracking-start-getting-in-the-way-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-start-getting-in-the-way-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-does-tracking-start-getting-in-the-way-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2026 Habit Tracker Calendar – Premium Daily Habit Tracker Journal and Goal Board"><img src="https://i.ebayimg.com/images/g/BOYAAeSwxgZpukgY/s-l225.jpg" alt="Listing image for 2026 Habit Tracker Calendar – Premium Daily Habit Tracker Journal and Goal Board" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-start-getting-in-the-way-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-does-tracking-start-getting-in-the-way-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">2026 Habit Tracker Calendar – Premium Daily Habit Tracker Journal and Goal Board</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-start-getting-in-the-way-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-does-tracking-start-getting-in-the-way-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-start-getting-in-the-way-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-does-tracking-start-getting-in-the-way-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-start-getting-in-the-way-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-does-tracking-start-getting-in-the-way-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -617,7 +617,7 @@ The most successful form of self-monitoring eventually becomes less visible. The
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -637,7 +637,7 @@ The most successful form of self-monitoring eventually becomes less visible. The
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -669,7 +669,7 @@ The most successful form of self-monitoring eventually becomes less visible. The
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -721,7 +721,7 @@ The most successful form of self-monitoring eventually becomes less visible. The
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -766,7 +766,7 @@ The most successful form of self-monitoring eventually becomes less visible. The
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -807,107 +807,107 @@ The most successful form of self-monitoring eventually becomes less visible. The
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: digitalwellbeing.org  
-   Link: <a href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>i BCT Taxonomy (v1): 93 hierarchically-clustered techniquesThe definitions of Behavior Change Techniques (BCTs): i) contain verbs...</p></details>
+   Link:<a href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>i BCT Taxonomy (v1): 93 hierarchically-clustered techniquesThe definitions of Behavior Change Techniques (BCTs): i) contain verbs...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe Use of Self-Monitoring and Technology to Increase  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7490310/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7490310/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by EJ Page · 2020 · Cited by 77 — This review found that most of the studies reviewed showed an increase of physical activity when usi...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7490310/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7490310/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by EJ Page · 2020 · Cited by 77 — This review found that most of the studies reviewed showed an increase of physical activity when usi...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7571594/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7571594/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Regulation Mechanisms in Health Behaviour Changeby EA Hennessy · 2020 · Cited by 248 — Self-regulation is one primary mechanism i...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7571594/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7571594/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Regulation Mechanisms in Health Behaviour Changeby EA Hennessy · 2020 · Cited by 248 — Self-regulation is one primary mechanism i...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8493454/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8493454/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>With the development of tracking...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8493454/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8493454/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>With the development of tracking...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2402.00121" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2402.00121</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Designing for Sustained [Motivation](&amp;#123;&amp;#123; &#x27;motivation/&#x27; | relative_url &amp;#125;&amp;#125;): A Review of Self-Determination Theory in Behaviour Change TechnologiesJanuary 31, 2024...</p></details>
+   Link:<a href="https://arxiv.org/abs/2402.00121" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2402.00121</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Designing for Sustained [Motivation](&amp;#123;&amp;#123; &#x27;motivation/&#x27; | relative_url &amp;#125;&amp;#125;): A Review of Self-Determination Theory in Behaviour Change TechnologiesJanuary 31, 2024...</p></details>
    Published: January 31, 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: self.inc  
-   Link: <a href="https://www.self.inc/" target="_blank" rel="noopener noreferrer nofollow">https://www.self.inc/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Build Credit, Build Savings and Access CashBuild credit and savings with Self. The Credit Builder Account and Self Visa® Credit Ca...</p></details>
+   Link:<a href="https://www.self.inc/" target="_blank" rel="noopener noreferrer nofollow">https://www.self.inc/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Build Credit, Build Savings and Access CashBuild credit and savings with Self. The Credit Builder Account and Self Visa® Credit Ca...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: thelancet.com  
-   Link: <a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2821%2902630-1/fulltext" target="_blank" rel="noopener noreferrer nofollow">https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2821%2902630-1/fulltext</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Benefits of physical activity interventions combining self...by T Vetrovsky · 2021 · Cited by 6 — Self-monitoring is a cornerstone of ma...</p></details>
+   Link:<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2821%2902630-1/fulltext" target="_blank" rel="noopener noreferrer nofollow">https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2821%2902630-1/fulltext</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Benefits of physical activity interventions combining self...by T Vetrovsky · 2021 · Cited by 6 — Self-monitoring is a cornerstone of ma...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: blogs.ucl.ac.uk  
    Title: the costs and benefits of self monitoring for health and wellness  
-   Link: <a href="https://blogs.ucl.ac.uk/cbc-digi-hub-blog/2018/09/21/the-costs-and-benefits-of-self-monitoring-for-health-and-wellness/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.ucl.ac.uk/cbc-digi-hub-blog/2018/09/21/the-costs-and-benefits-of-self-monitoring-for-health-and-wellness/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UCL BlogsThe costs and benefits of self-monitoring for health and wellness21 Sept 2018 — Self-monitoring can reveal problematic behaviour...</p></details>
+   Link:<a href="https://blogs.ucl.ac.uk/cbc-digi-hub-blog/2018/09/21/the-costs-and-benefits-of-self-monitoring-for-health-and-wellness/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.ucl.ac.uk/cbc-digi-hub-blog/2018/09/21/the-costs-and-benefits-of-self-monitoring-for-health-and-wellness/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UCL BlogsThe costs and benefits of self-monitoring for health and wellness21 Sept 2018 — Self-monitoring can reveal problematic behaviour...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/lifeandstyle/2025/feb/22/the-bot-asked-me-four-times-a-day-how-i-was-feeling-is-tracking-everything-actually-good-for-us" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/lifeandstyle/2025/feb/22/the-bot-asked-me-four-times-a-day-how-i-was-feeling-is-tracking-everything-actually-good-for-us</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This phenomenon, driven by the availability of smartphones, fitness trackers, and health monitors, raises questions about the efficacy an...</p></details>
+   Link:<a href="https://www.theguardian.com/lifeandstyle/2025/feb/22/the-bot-asked-me-four-times-a-day-how-i-was-feeling-is-tracking-everything-actually-good-for-us" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/lifeandstyle/2025/feb/22/the-bot-asked-me-four-times-a-day-how-i-was-feeling-is-tracking-everything-actually-good-for-us</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This phenomenon, driven by the availability of smartphones, fitness trackers, and health monitors, raises questions about the efficacy an...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Self" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Self</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SelfIn philosophy, the self is an individual&#x27;s own being, knowledge, and values, and the relationship between these attributes. The fi...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Self" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Self</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SelfIn philosophy, the self is an individual&#x27;s own being, knowledge, and values, and the relationship between these attributes. The fi...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: phwwhocc.co.uk  
-   Link: <a href="https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying and Applying Behaviour Change TechniquesWhilst the BCTs identified within the Taxonomy aren&#x27;t new, some of them such as “goal...</p></details>
+   Link:<a href="https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying and Applying Behaviour Change TechniquesWhilst the BCTs identified within the Taxonomy aren&#x27;t new, some of them such as “goal...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ijsmsjournal.org  
-   Link: <a href="https://ijsmsjournal.org/2024/volume-7%20issue-1/ijsms-v7i1p115.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ijsmsjournal.org/2024/volume-7%20issue-1/ijsms-v7i1p115.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Personal Growth and Habit TrackingThe relationship among individuals increase and dependency monitoring lies inside the reputation that i...</p></details>
+   Link:<a href="https://ijsmsjournal.org/2024/volume-7%20issue-1/ijsms-v7i1p115.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ijsmsjournal.org/2024/volume-7%20issue-1/ijsms-v7i1p115.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Personal Growth and Habit TrackingThe relationship among individuals increase and dependency monitoring lies inside the reputation that i...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/self" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/self</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SELF Definition &amp; Meaning1. a (1): an individual&#x27;s typical character or behavior her true self was revealed (2): an individual&#x27;s tempor...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/self" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/self</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SELF Definition &amp; Meaning1. a (1): an individual&#x27;s typical character or behavior her true self was revealed (2): an individual&#x27;s tempor...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: selfincorp.org  
-   Link: <a href="https://www.selfincorp.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.selfincorp.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self Inc.SELF, Inc. is a comprehensive range of housing services, including shelters, transitional housing, and permanent supportive hous...</p></details>
+   Link:<a href="https://www.selfincorp.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.selfincorp.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self Inc.SELF, Inc. is a comprehensive range of housing services, including shelters, transitional housing, and permanent supportive hous...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: theoryandtechniquetool.humanbehaviourchange.org  
-   Link: <a href="https://theoryandtechniquetool.humanbehaviourchange.org/tool" target="_blank" rel="noopener noreferrer nofollow">https://theoryandtechniquetool.humanbehaviourchange.org/tool</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Theory and Techniques ToolThe Theory and Techniques ToolExplore the links between 74 Behaviour Change Techniques (BCTs) and 26 Mechanisms...</p></details>
+   Link:<a href="https://theoryandtechniquetool.humanbehaviourchange.org/tool" target="_blank" rel="noopener noreferrer nofollow">https://theoryandtechniquetool.humanbehaviourchange.org/tool</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Theory and Techniques ToolThe Theory and Techniques ToolExplore the links between 74 Behaviour Change Techniques (BCTs) and 26 Mechanisms...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: arno.uvt.nl  
-   Link: <a href="https://arno.uvt.nl/show.cgi?fid=162593" target="_blank" rel="noopener noreferrer nofollow">https://arno.uvt.nl/show.cgi?fid=162593</a>  
+   Link:<a href="https://arno.uvt.nl/show.cgi?fid=162593" target="_blank" rel="noopener noreferrer nofollow">https://arno.uvt.nl/show.cgi?fid=162593</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: openaccess.city.ac.uk  
    Title: Michie et al Annals of Behavioral Medicine 2013 BCT Taxonomy v1  
-   Link: <a href="https://openaccess.city.ac.uk/3293/1/Michie%20et%20al%20Annals%20of%20Behavioral%20Medicine%202013%20-%20BCT%20Taxonomy%20v1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://openaccess.city.ac.uk/3293/1/Michie%20et%20al%20Annals%20of%20Behavioral%20Medicine%202013%20-%20BCT%20Taxonomy%20v1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>City Research OnlineMichie et al Annals of Behavioral Medicine 2013by S Michie · 2013 · Cited by 8746 — We anticipate that further refine...</p></details>
+   Link:<a href="https://openaccess.city.ac.uk/3293/1/Michie%20et%20al%20Annals%20of%20Behavioral%20Medicine%202013%20-%20BCT%20Taxonomy%20v1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://openaccess.city.ac.uk/3293/1/Michie%20et%20al%20Annals%20of%20Behavioral%20Medicine%202013%20-%20BCT%20Taxonomy%20v1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>City Research OnlineMichie et al Annals of Behavioral Medicine 2013by S Michie · 2013 · Cited by 8746 — We anticipate that further refine...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Habits/comments/1q2vg3x/why_habit_trackers_dont_work_for_personal_growth/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Habits/comments/1q2vg3x/why_habit_trackers_dont_work_for_personal_growth/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Habits are too specific to capture real personal growth · 2. Losing streaks makes you feel like you failed — even when you didn&#x27;t · 3. St...</p></details>
+   Link:<a href="https://www.reddit.com/r/Habits/comments/1q2vg3x/why_habit_trackers_dont_work_for_personal_growth/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Habits/comments/1q2vg3x/why_habit_trackers_dont_work_for_personal_growth/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Habits are too specific to capture real personal growth · 2. Losing streaks makes you feel like you failed — even when you didn&#x27;t · 3. St...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nesslabs.com  
-   Link: <a href="https://nesslabs.com/habit-trackers" target="_blank" rel="noopener noreferrer nofollow">https://nesslabs.com/habit-trackers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r diverse practical and emotional needs, and that more flexible, customisable...Read more...</p></details>
+   Link:<a href="https://nesslabs.com/habit-trackers" target="_blank" rel="noopener noreferrer nofollow">https://nesslabs.com/habit-trackers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r diverse practical and emotional needs, and that more flexible, customisable...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/335156630_Effectiveness_of_interventions_using_self-monitoring_to_reduce_sedentary_behavior_in_adults_A_systematic_review_and_meta-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/335156630_Effectiveness_of_interventions_using_self-monitoring_to_reduce_sedentary_behavior_in_adults_A_systematic_review_and_meta-analysis</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effectiveness: Interventions using self-monitoring techniques show potential in reducing sedentary behavior in adults. A review of 19 stu...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/335156630_Effectiveness_of_interventions_using_self-monitoring_to_reduce_sedentary_behavior_in_adults_A_systematic_review_and_meta-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/335156630_Effectiveness_of_interventions_using_self-monitoring_to_reduce_sedentary_behavior_in_adults_A_systematic_review_and_meta-analysis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effectiveness: Interventions using self-monitoring techniques show potential in reducing sedentary behavior in adults. A review of 19 stu...</p></details>

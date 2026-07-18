@@ -509,11 +509,11 @@ The evidence supports a balanced answer. Specific, challenging goals can improve
 
 ## What goals do well
 
-Goals are useful because they make improvement visible. “Get healthier” is too vague to guide a decision at 6.30 pm; “walk for 20 minutes after lunch on weekdays” gives the mind a clearer standard. In the classic goal-setting tradition associated with Edwin Locke and Gary Latham, specific and difficult goals repeatedly performed better than vague “do your best” goals because they direct attention, increase effort, encourage persistence and prompt people to search for strategies. Their retrospective review reports that meta-analytic effect sizes for specific difficult goals over “do your best” goals ranged from.42 to.80, a meaningful difference in behavioural research. <span class="citation-chip-wrap"><a class="citation-chip" href="https://med.stanford.edu/content/dam/sm/s-spire/documents/PD.locke-and-latham-retrospective_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: med.stanford.edu">[Stanford Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">med.stanford.edu</span><span class="citation-popover-snippet">Stanford MedicineBuilding a Practically Useful Theory of Goal Setting and...September 1, 2012 — by EA Locke · 2002 · Cited by 15674 — We...</span><span class="citation-popover-meta">Published: September 1, 2012</span></span></span>
+Goals are useful because they make improvement visible. “Get healthier” is too vague to guide a decision at 6.30 pm; “walk for 20 minutes after lunch on weekdays” gives the mind a clearer standard. In the classic goal-setting tradition associated with Edwin Locke and Gary Latham, specific and difficult goals repeatedly performed better than vague “do your best” goals because they direct attention, increase effort, encourage persistence and prompt people to search for strategies. Their retrospective review reports that meta-analytic effect sizes for specific difficult goals over “do your best” goals ranged from.42 to.80, a meaningful difference in behavioural research.<span class="citation-chip-wrap"><a class="citation-chip" href="https://med.stanford.edu/content/dam/sm/s-spire/documents/PD.locke-and-latham-retrospective_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: med.stanford.edu">[Stanford Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">med.stanford.edu</span><span class="citation-popover-snippet">Stanford MedicineBuilding a Practically Useful Theory of Goal Setting and...September 1, 2012 — by EA Locke · 2002 · Cited by 15674 — We...</span><span class="citation-popover-meta">Published: September 1, 2012</span></span></span>
 
 That does not mean every self-improvement target should be extreme. The important lesson is that a goal works as a focusing device. It reduces ambiguity. It says what counts, what does not count, and when adjustment is needed. In a personal setting, the difference between “read more” and “read ten pages before bed on Monday to Thursday” is not motivational poetry; it is a change in the decision problem. The second target makes success observable and failure diagnosable.
 
-A 2017 systematic review and meta-analysis of goal-setting interventions found a small positive unique effect of goal setting on [behaviour change]({{ 'behaviour-change/' | relative_url }}), and moderator analyses suggested that goals were especially effective when they were difficult, public, or group-based. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Unique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 492 — Moderator analyses indicated that goal setting...</span></span></span> That finding helps explain why goals can be powerful in workplaces, classrooms, sports teams and health programmes: they create a reference point that people can coordinate around. A running group training for a 10 km race, a household trying to reduce spending, or a student aiming to submit a dissertation chapter by Friday all benefit from a clear target because the target organises attention and conversation.
+A 2017 systematic review and meta-analysis of goal-setting interventions found a small positive unique effect of goal setting on [behaviour change]({{ 'behaviour-change/' | relative_url }}), and moderator analyses suggested that goals were especially effective when they were difficult, public, or group-based.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Unique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 492 — Moderator analyses indicated that goal setting...</span></span></span> That finding helps explain why goals can be powerful in workplaces, classrooms, sports teams and health programmes: they create a reference point that people can coordinate around. A running group training for a 10 km race, a household trying to reduce spending, or a student aiming to submit a dissertation chapter by Friday all benefit from a clear target because the target organises attention and conversation.
 
 Goals also help with trade-offs. A person who has chosen “sleep by 11 pm on weeknights” has a standard against which to judge late-night scrolling, overtime and social invitations. Without that standard, every decision is renegotiated in the moment, often under fatigue. In this sense, a good goal is not a fantasy of future achievement. It is a decision policy: when options compete, it tells you which outcome deserves priority.
 
@@ -521,32 +521,32 @@ Goals also help with trade-offs. A person who has chosen “sleep by 11 pm on we
 
 The weakness of goals is that they can describe a better future without changing the machinery that produces the present. A goal can be clear, admirable and emotionally compelling while the surrounding system remains hostile to it. “Save more money” competes with one-click shopping, social pressure and an empty budgeting habit. “Exercise three times a week” competes with no packed kit, no chosen time, poor sleep and a commute that leaves no margin. The target may be sincere; the environment may still be voting against it.
 
-This is the gap that implementation-intention research tries to close. Implementation intentions are “if-then” plans that specify when, where and how goal-directed behaviour will happen. Peter Gollwitzer and Paschal Sheeran’s work distinguishes a goal intention, such as “I intend to reach Z”, from an implementation intention, such as “If situation Y occurs, then I will do behaviour X.” Their meta-analytic evidence found that if-then planning improved goal striving, including by helping people get started, remember to act and handle predictable obstacles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Implementation Intentions and Goal Achievement</span><span class="citation-popover-snippet">ResearchGate(PDF) Implementation Intentions and Goal AchievementDecember 31, 2006 — This review analyzes whether realization of goal inte...</span><span class="citation-popover-meta">Published: December 31, 2006</span></span></span>
+This is the gap that implementation-intention research tries to close. Implementation intentions are “if-then” plans that specify when, where and how goal-directed behaviour will happen. Peter Gollwitzer and Paschal Sheeran’s work distinguishes a goal intention, such as “I intend to reach Z”, from an implementation intention, such as “If situation Y occurs, then I will do behaviour X.” Their meta-analytic evidence found that if-then planning improved goal striving, including by helping people get started, remember to act and handle predictable obstacles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) Implementation Intentions and Goal Achievement</span><span class="citation-popover-snippet">ResearchGate(PDF) Implementation Intentions and Goal AchievementDecember 31, 2006 — This review analyzes whether realization of goal inte...</span><span class="citation-popover-meta">Published: December 31, 2006</span></span></span>
 
-Goals can also distort attention. The influential “Goals Gone Wild” critique argued that over-prescribed goal setting can produce systematic side effects: narrowed focus, neglect of important but unmeasured aims, more risk taking, unethical behaviour, inhibited learning and reduced intrinsic motivation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hbs.edu/ris/Publication%20Files/09-083.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbs.edu">[Harvard Business School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbs.edu</span><span class="citation-popover-title">Harvard Business School Goals Gone Wild: The Systematic Side Effects of Over</span><span class="citation-popover-snippet">Harvard Business School Goals Gone Wild: The Systematic Side Effects of Over</span></span></span> Although much of that critique comes from organisational settings, the personal version is familiar. A person chasing a weight target may neglect sleep, strength, mood or nutrition quality. A student chasing hours studied may stop asking whether the study is effective. A freelancer chasing revenue may ignore health, relationships or reputational risk.
+Goals can also distort attention. The influential “Goals Gone Wild” critique argued that over-prescribed goal setting can produce systematic side effects: narrowed focus, neglect of important but unmeasured aims, more risk taking, unethical behaviour, inhibited learning and reduced intrinsic motivation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hbs.edu/ris/Publication%20Files/09-083.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbs.edu">[Harvard Business School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbs.edu</span><span class="citation-popover-title">Harvard Business School Goals Gone Wild: The Systematic Side Effects of Over</span><span class="citation-popover-snippet">Harvard Business School Goals Gone Wild: The Systematic Side Effects of Over</span></span></span> Although much of that critique comes from organisational settings, the personal version is familiar. A person chasing a weight target may neglect sleep, strength, mood or nutrition quality. A student chasing hours studied may stop asking whether the study is effective. A freelancer chasing revenue may ignore health, relationships or reputational risk.
 
 This is why goal setting needs a safety rail: the target must not become the whole definition of success. A well-designed self-improvement goal should include constraints and review points. “Lose weight” is weaker than “lose weight while maintaining strength, eating regularly and reviewing energy levels each week.” “Write 2,000 words a day” is weaker than “write 2,000 useful words a day, five days a week, with one weekly edit session and permission to reduce the target during illness.” The extra clauses are not fussiness. They stop the goal from rewarding the wrong behaviour.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2-Illustration-1-dark.svg" | relative_url }}" alt="Goals vs Systems illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What systems do well
 
-Systems design begins from a different question: not “What do I want?” but “What conditions would make the right action more likely?” In behaviour-change terms, this means changing cues, friction, feedback, social context, available options and the timing of decisions. The Behaviour Change Technique Taxonomy, developed to describe the active ingredients of interventions, lists 93 techniques, including goal setting, action planning, self-monitoring, feedback, prompts, social support and rewards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Unique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 492 — Moderator analyses indicated that goal setting...</span></span></span> That taxonomy matters because it breaks self improvement into designable parts rather than treating it as a test of character.
+Systems design begins from a different question: not “What do I want?” but “What conditions would make the right action more likely?” In behaviour-change terms, this means changing cues, friction, feedback, social context, available options and the timing of decisions. The Behaviour Change Technique Taxonomy, developed to describe the active ingredients of interventions, lists 93 techniques, including goal setting, action planning, self-monitoring, feedback, prompts, social support and rewards.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Unique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 492 — Moderator analyses indicated that goal setting...</span></span></span> That taxonomy matters because it breaks self improvement into designable parts rather than treating it as a test of character.
 
 A system can be modest. Put the phone outside the bedroom. Keep walking shoes by the door. Transfer savings on payday before discretionary spending begins. Block the first 30 minutes of the workday for the hardest task. Use a visible checklist. Prepare the gym bag before the moment of decision. None of these actions is a grand life goal, but each changes the local environment in which behaviour happens.
 
-The COM-B model, at the centre of the Behaviour Change Wheel, gives a useful way to think about this. It proposes that behaviour depends on capability, opportunity and motivation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Unique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 492 — Moderator analyses indicated that goal setting...</span></span></span> A goal mainly works on motivation and direction. A system can also alter capability and opportunity: learn the skill, reduce the steps, make the tool available, remove the tempting alternative, enlist another person, or change the default. For example, a person who wants to cook at home may not need a more inspiring goal; they may need knife skills, a shopping list, two reliable recipes, a stocked freezer and a rule that takeaway apps are not kept on the home screen.
+The COM-B model, at the centre of the Behaviour Change Wheel, gives a useful way to think about this. It proposes that behaviour depends on capability, opportunity and motivation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Unique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 492 — Moderator analyses indicated that goal setting...</span></span></span> A goal mainly works on motivation and direction. A system can also alter capability and opportunity: learn the skill, reduce the steps, make the tool available, remove the tempting alternative, enlist another person, or change the default. For example, a person who wants to cook at home may not need a more inspiring goal; they may need knife skills, a shopping list, two reliable recipes, a stocked freezer and a rule that takeaway apps are not kept on the home screen.
 
-Systems are especially important because habits form through repeated behaviour in stable contexts. Phillippa Lally and colleagues studied habit formation in everyday life and found that [automaticity]({{ 'automaticity/' | relative_url }}) increased steadily for most participants, but the time required varied widely by person and behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> UCL’s public summary of that work reported an average of 66 days to form a new habit, which is useful mainly because it challenges the popular myth that deep habits reliably form in a few weeks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[University College London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-title">University College London How long does it take to form a habit?</span><span class="citation-popover-snippet">University College London How long does it take to form a habit?</span></span></span>
+Systems are especially important because habits form through repeated behaviour in stable contexts. Phillippa Lally and colleagues studied habit formation in everyday life and found that [automaticity]({{ 'automaticity/' | relative_url }}) increased steadily for most participants, but the time required varied widely by person and behaviour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> UCL’s public summary of that work reported an average of 66 days to form a new habit, which is useful mainly because it challenges the popular myth that deep habits reliably form in a few weeks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[University College London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-title">University College London How long does it take to form a habit?</span><span class="citation-popover-snippet">University College London How long does it take to form a habit?</span></span></span>
 
 The practical implication is kinder and stricter than most motivation advice. Kinder, because missing one day need not ruin the system; the real work is returning to the cue. Stricter, because a system is only real if it survives repetition. Buying a notebook, downloading an app or announcing a new identity is not yet a system. A system is the recurring arrangement that keeps producing the behaviour after the initial excitement fades.
 
 ## Why the “goals versus systems” debate is partly misleading
 
-The modern phrase “goals versus systems” was popularised in self-improvement culture by writers such as James Clear, who argues that goals are good for direction while systems are better for progress. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=jyxxouMBEXI" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[James Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">What are the Key Principles of Locke and Latham&#x27;s Goal Setting Theory?...</span></span></span> The slogan is useful because it corrects a common mistake: many people spend far more energy imagining outcomes than designing the daily behaviour that would lead to them. But taken too literally, it creates a false choice.
+The modern phrase “goals versus systems” was popularised in self-improvement culture by writers such as James Clear, who argues that goals are good for direction while systems are better for progress.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=jyxxouMBEXI" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[James Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">What are the Key Principles of Locke and Latham&#x27;s Goal Setting Theory?...</span></span></span> The slogan is useful because it corrects a common mistake: many people spend far more energy imagining outcomes than designing the daily behaviour that would lead to them. But taken too literally, it creates a false choice.
 
 A system without a goal can become busywork. A person can track calories, optimise productivity software, maintain a perfect study spreadsheet or tweak a morning routine without asking whether the behaviour still serves a meaningful outcome. Systems can become self-protective: they reward maintenance of the method rather than progress towards the value. This is why periodic target review matters. The goal asks, “Is this system taking me somewhere worth going?”
 
-A goal without a system can become pressure without guidance. It creates a discrepancy between current life and desired life, but may not explain what to do next. Research on progress monitoring helps connect the two. A meta-analysis of 138 studies found that interventions increased the frequency of monitoring goal progress and promoted goal attainment; the effects were larger when progress was physically recorded or publicly reported. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Unique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 492 — Moderator analyses indicated that goal setting...</span></span></span> Monitoring is system design in miniature: it creates a feedback loop between the target and daily behaviour.
+A goal without a system can become pressure without guidance. It creates a discrepancy between current life and desired life, but may not explain what to do next. Research on progress monitoring helps connect the two. A meta-analysis of 138 studies found that interventions increased the frequency of monitoring goal progress and promoted goal attainment; the effects were larger when progress was physically recorded or publicly reported.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Unique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 492 — Moderator analyses indicated that goal setting...</span></span></span> Monitoring is system design in miniature: it creates a feedback loop between the target and daily behaviour.
 
 The strongest approach is therefore not “ignore goals” or “set better goals”. It is a two-level design:
 
@@ -578,7 +578,7 @@ A useful target-default pair has five parts:
 
 </div>
 
-This structure fits the behaviour-change evidence better than isolated goal setting because it combines several active ingredients: goal setting, action planning, prompts, self-monitoring and feedback. The taxonomy of behaviour-change techniques treats these as separable components, which is helpful because a failing plan can then be repaired precisely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Unique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 492 — Moderator analyses indicated that goal setting...</span></span></span> If the target is clear but action does not happen, the problem may be the cue, timing, friction or confidence. If action happens but progress does not, the problem may be intensity, strategy, feedback or the choice of behaviour.
+This structure fits the behaviour-change evidence better than isolated goal setting because it combines several active ingredients: goal setting, action planning, prompts, self-monitoring and feedback. The taxonomy of behaviour-change techniques treats these as separable components, which is helpful because a failing plan can then be repaired precisely.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Unique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 492 — Moderator analyses indicated that goal setting...</span></span></span> If the target is clear but action does not happen, the problem may be the cue, timing, friction or confidence. If action happens but progress does not, the problem may be intensity, strategy, feedback or the choice of behaviour.
 
 Consider three common examples.
 
@@ -595,9 +595,9 @@ The right starting point depends on the problem. Some self-improvement failures 
 
 Lead with a goal when the main problem is ambiguity. This is common when people say they want to “sort life out”, “be healthier”, “be more productive” or “take work seriously”. The first intervention should narrow the field. Which behaviour would show progress? What would count as enough? What trade-off is acceptable? Without that decision, systems design can become elaborate avoidance.
 
-Lead with a system when the main problem is inconsistency. This is common when the person has already chosen the aim many times. Someone who has repeatedly resolved to sleep earlier probably does not need a more inspiring sleep goal. They need a shutdown alarm, a charging place outside the bedroom, a caffeine cut-off, a predictable evening routine and a rule for late work. In COM-B terms, the intervention should change opportunity and capability, not just motivation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Unique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 492 — Moderator analyses indicated that goal setting...</span></span></span>
+Lead with a system when the main problem is inconsistency. This is common when the person has already chosen the aim many times. Someone who has repeatedly resolved to sleep earlier probably does not need a more inspiring sleep goal. They need a shutdown alarm, a charging place outside the bedroom, a caffeine cut-off, a predictable evening routine and a rule for late work. In COM-B terms, the intervention should change opportunity and capability, not just motivation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Unique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 492 — Moderator analyses indicated that goal setting...</span></span></span>
 
-Lead with review when the main problem is false progress. This happens when the system is active but not effective: many hours at the desk with little learning, many workouts with recurring injury, many budgeting sessions with no change in spending. Progress monitoring is valuable here because it compares behaviour against a reference value and exposes whether the system is producing the intended outcome. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/monitoring-interventions/65DD7F8EBDFC9941E42CF64A218AEA37" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment Monitoring Interventions (Chapter 37</span><span class="citation-popover-snippet">University Press &amp; Assessment Monitoring Interventions (Chapter 37</span></span></span> University Press & Assessment
+Lead with review when the main problem is false progress. This happens when the system is active but not effective: many hours at the desk with little learning, many workouts with recurring injury, many budgeting sessions with no change in spending. Progress monitoring is valuable here because it compares behaviour against a reference value and exposes whether the system is producing the intended outcome.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/monitoring-interventions/65DD7F8EBDFC9941E42CF64A218AEA37" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment Monitoring Interventions (Chapter 37</span><span class="citation-popover-snippet">University Press &amp; Assessment Monitoring Interventions (Chapter 37</span></span></span> University Press & Assessment
 
 The key diagnostic question is simple: “Is the next action unclear, unlikely, or ineffective?” If it is unclear, improve the goal. If it is unlikely, redesign the system. If it is ineffective, improve feedback and strategy.
 
@@ -609,9 +609,9 @@ The most common mistake is setting an outcome goal and mistaking it for an actio
 
 A second mistake is designing a system that depends on an ideal version of the person. A morning routine that requires perfect sleep, no childcare disruption and high motivation is not a system; it is a fragile wish. A better system includes minimum versions: ten minutes instead of an hour, one paragraph instead of a full session, a home workout instead of a gym trip. These minimums preserve identity and continuity without pretending every day is equal.
 
-A third mistake is over-measuring. Monitoring helps when it informs action, but it can become noise or punishment. The evidence that physically recorded and publicly reported progress can strengthen goal attainment should not be read as a command to make every private behaviour public. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Unique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 492 — Moderator analyses indicated that goal setting...</span></span></span> The better rule is to record the smallest amount that changes decisions. For some behaviours, a tick on a calendar is enough. For others, such as debt repayment or rehabilitation, more detailed feedback is useful.
+A third mistake is over-measuring. Monitoring helps when it informs action, but it can become noise or punishment. The evidence that physically recorded and publicly reported progress can strengthen goal attainment should not be read as a command to make every private behaviour public.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Unique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 492 — Moderator analyses indicated that goal setting...</span></span></span> The better rule is to record the smallest amount that changes decisions. For some behaviours, a tick on a calendar is enough. For others, such as debt repayment or rehabilitation, more detailed feedback is useful.
 
-A fourth mistake is allowing goals to crowd out values. The “Goals Gone Wild” critique is important here because it shows that targets can narrow attention and reward harmful shortcuts when they are over-specified or poorly governed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hks.harvard.edu/publications/goals-gone-wild-systematic-side-effects-overprescribing-goal-setting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hks.harvard.edu">[Harvard Kennedy School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hks.harvard.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In personal development, this means a target should be checked against the life it is meant to improve. A productivity goal that damages sleep, trust or health may be succeeding on paper while failing as self improvement.
+A fourth mistake is allowing goals to crowd out values. The “Goals Gone Wild” critique is important here because it shows that targets can narrow attention and reward harmful shortcuts when they are over-specified or poorly governed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hks.harvard.edu/publications/goals-gone-wild-systematic-side-effects-overprescribing-goal-setting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hks.harvard.edu">[Harvard Kennedy School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hks.harvard.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In personal development, this means a target should be checked against the life it is meant to improve. A productivity goal that damages sleep, trust or health may be succeeding on paper while failing as self improvement.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jyxxouMBEXI" title="Goals Versus Systems | James Clear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jyxxouMBEXI" target="_blank" rel="noopener noreferrer">Goals Versus Systems | James Clear</a></p><p class="youtube-embed-meta">Channel: AppSumo &middot; Views: 19.2K &middot; Uploaded: June 2020 &middot; Length: 4 minutes 51 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jyxxouMBEXI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jyxxouMBEXI">Open on YouTube</a></p></div></div></div>
 
@@ -643,178 +643,178 @@ Goals matter most at the moment of choosing. Systems matter most at the moment o
 For self improvement that works, the strongest pattern is not heroic motivation or endless optimisation. It is a clear target paired with a repeatable default, supported by prompts, friction reduction, monitoring, feedback and periodic review. Goals name the destination; systems change the conditions of travel. The person who uses both is not merely hoping to improve. They are making improvement easier to repeat.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Do Goals or Systems Matter More?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Do Goals or Systems Matter More?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Directly contrasts goals with systems and habits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Directly contrasts goals with systems and habits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+7+Habits+of+Highly+Effective+People+by+Stephen+R.+Covey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The 7 Habits of Highly Effective People on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8HvdtAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The 7 Habits of Highly Effective People" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+7+Habits+of+Highly+Effective+People+by+Stephen+R.+Covey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The 7 Habits of Highly Effective People">The 7 Habits of Highly Effective People</a>
-        </h4>
-        <p class="fr-book-author">By Stephen R. Covey</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+7+Habits+of+Highly+Effective+People+by+Stephen+R.+Covey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The 7 Habits of Highly Effective People on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8HvdtAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The 7 Habits of Highly Effective People" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+7+Habits+of+Highly+Effective+People+by+Stephen+R.+Covey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The 7 Habits of Highly Effective People">The 7 Habits of Highly Effective People</a>
+</h4>
+<p class="fr-book-author">By Stephen R. Covey</p>
         
-        <p class="fr-book-desc">Balances long-term goals with repeatable practices.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+7+Habits+of+Highly+Effective+People+by+Stephen+R.+Covey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Balances long-term goals with repeatable practices.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+7+Habits+of+Highly+Effective+People+by+Stephen+R.+Covey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
-        </h4>
-        <p class="fr-book-author">By B. J. Fogg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
+</h4>
+<p class="fr-book-author">By B. J. Fogg</p>
         
-        <p class="fr-book-desc">Focuses on designing reliable behavior systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on designing reliable behavior systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Carol S. Dweck</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
-        <p class="fr-book-desc">Addresses beliefs and learning approaches that support improvement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
+</h4>
+<p class="fr-book-author">By Carol S. Dweck</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
+<p class="fr-book-desc">Addresses beliefs and learning approaches that support improvement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+7+Habits+of+Highly+Effective+People&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The 7 Habits of Highly Effective People</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+7+Habits+of+Highly+Effective+People&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The 7 Habits of Highly Effective People</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-    </div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goals-vs-systems-do-goals-or-systems-matter-more-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goals-vs-systems-do-goals-or-systems-matter-more-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goals-vs-systems-do-goals-or-systems-matter-more-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goals-vs-systems-do-goals-or-systems-matter-more-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goals-vs-systems-do-goals-or-systems-matter-more-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goals-vs-systems-do-goals-or-systems-matter-more-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goals-vs-systems-do-goals-or-systems-matter-more-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goals-vs-systems-do-goals-or-systems-matter-more-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goals-vs-systems-do-goals-or-systems-matter-more-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goals-vs-systems-do-goals-or-systems-matter-more-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goals-vs-systems-do-goals-or-systems-matter-more-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goals-vs-systems-do-goals-or-systems-matter-more-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goals-vs-systems-do-goals-or-systems-matter-more-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goals-vs-systems-do-goals-or-systems-matter-more-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goals-vs-systems-do-goals-or-systems-matter-more-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goals-vs-systems-do-goals-or-systems-matter-more-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goals-vs-systems-do-goals-or-systems-matter-more-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goals-vs-systems-do-goals-or-systems-matter-more-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goals-vs-systems-do-goals-or-systems-matter-more-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goals-vs-systems-do-goals-or-systems-matter-more-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goals-vs-systems-do-goals-or-systems-matter-more-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goals-vs-systems-do-goals-or-systems-matter-more-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goals-vs-systems-do-goals-or-systems-matter-more-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goals-vs-systems-do-goals-or-systems-matter-more-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goals-vs-systems-do-goals-or-systems-matter-more-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goals-vs-systems-do-goals-or-systems-matter-more-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goals-vs-systems-do-goals-or-systems-matter-more-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goals-vs-systems-do-goals-or-systems-matter-more-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goals-vs-systems-do-goals-or-systems-matter-more-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goals-vs-systems-do-goals-or-systems-matter-more-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goals-vs-systems-do-goals-or-systems-matter-more-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goals-vs-systems-do-goals-or-systems-matter-more-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goals-vs-systems-do-goals-or-systems-matter-more-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goals-vs-systems-do-goals-or-systems-matter-more-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -830,7 +830,7 @@ For self improvement that works, the strongest pattern is not heroic motivation 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -850,7 +850,7 @@ For self improvement that works, the strongest pattern is not heroic motivation 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -882,7 +882,7 @@ For self improvement that works, the strongest pattern is not heroic motivation 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -912,7 +912,7 @@ For self improvement that works, the strongest pattern is not heroic motivation 
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -970,204 +970,204 @@ For self improvement that works, the strongest pattern is not heroic motivation 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: med.stanford.edu  
-   Link: <a href="https://med.stanford.edu/content/dam/sm/s-spire/documents/PD.locke-and-latham-retrospective_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://med.stanford.edu/content/dam/sm/s-spire/documents/PD.locke-and-latham-retrospective_Paper.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford MedicineBuilding a Practically Useful Theory of Goal Setting and...September 1, 2012 — by EA Locke · 2002 · Cited by 15674 — We...</p></details>
+   Link:<a href="https://med.stanford.edu/content/dam/sm/s-spire/documents/PD.locke-and-latham-retrospective_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://med.stanford.edu/content/dam/sm/s-spire/documents/PD.locke-and-latham-retrospective_Paper.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford MedicineBuilding a Practically Useful Theory of Goal Setting and...September 1, 2012 — by EA Locke · 2002 · Cited by 15674 — We...</p></details>
    Published: September 1, 2012  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) Implementation Intentions and Goal Achievement  
-   Link: <a href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Implementation Intentions and Goal AchievementDecember 31, 2006 — This review analyzes whether realization of goal inte...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Implementation Intentions and Goal AchievementDecember 31, 2006 — This review analyzes whether realization of goal inte...</p></details>
    Published: December 31, 2006  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: onlinelibrary.wiley.com  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674</a>  
+   Link:<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cambridge.org  
    Title: University Press & Assessment Monitoring Interventions (Chapter 37)  
-   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/monitoring-interventions/65DD7F8EBDFC9941E42CF64A218AEA37" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/monitoring-interventions/65DD7F8EBDFC9941E42CF64A218AEA37</a>  
+   Link:<a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/monitoring-interventions/65DD7F8EBDFC9941E42CF64A218AEA37" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/monitoring-interventions/65DD7F8EBDFC9941E42CF64A218AEA37</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: hks.harvard.edu  
-   Link: <a href="https://www.hks.harvard.edu/publications/goals-gone-wild-systematic-side-effects-overprescribing-goal-setting" target="_blank" rel="noopener noreferrer nofollow">https://www.hks.harvard.edu/publications/goals-gone-wild-systematic-side-effects-overprescribing-goal-setting</a>  
+   Link:<a href="https://www.hks.harvard.edu/publications/goals-gone-wild-systematic-side-effects-overprescribing-goal-setting" target="_blank" rel="noopener noreferrer nofollow">https://www.hks.harvard.edu/publications/goals-gone-wild-systematic-side-effects-overprescribing-goal-setting</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: goal.com  
-   Link: <a href="https://www.goal.com/en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.goal.com/en-gb</a>  
+   Link:<a href="https://www.goal.com/en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.goal.com/en-gb</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
    Title: 232501090 A Theory of Goal Setting Task Performance  
-   Link: <a href="https://www.researchgate.net/publication/232501090_A_Theory_of_Goal_Setting_Task_Performance" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232501090_A_Theory_of_Goal_Setting_Task_Performance</a>  
+   Link:<a href="https://www.researchgate.net/publication/232501090_A_Theory_of_Goal_Setting_Task_Performance" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232501090_A_Theory_of_Goal_Setting_Task_Performance</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/263504602_The_Behaviour_Change_Technique_Taxonomy_BCTTv1_of_93_hierarchically-clustered_techniques_testing_reliability_of_the_taxonomy_in_specifying_the_content_of_behaviour_change_interventions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/263504602_The_Behaviour_Change_Technique_Taxonomy_BCTTv1_of_93_hierarchically-clustered_techniques_testing_reliability_of_the_taxonomy_in_specifying_the_content_of_behaviour_change_interventions</a>  
+   Link:<a href="https://www.researchgate.net/publication/263504602_The_Behaviour_Change_Technique_Taxonomy_BCTTv1_of_93_hierarchically-clustered_techniques_testing_reliability_of_the_taxonomy_in_specifying_the_content_of_behaviour_change_interventions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/263504602_The_Behaviour_Change_Technique_Taxonomy_BCTTv1_of_93_hierarchically-clustered_techniques_testing_reliability_of_the_taxonomy_in_specifying_the_content_of_behaviour_change_interventions</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/228138437_Goals_Gone_Wild_The_Systematic_Side_Effects_of_Over-Prescribing_Goal_Setting" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228138437_Goals_Gone_Wild_The_Systematic_Side_Effects_of_Over-Prescribing_Goal_Setting</a>  
+   Link:<a href="https://www.researchgate.net/publication/228138437_Goals_Gone_Wild_The_Systematic_Side_Effects_of_Over-Prescribing_Goal_Setting" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228138437_Goals_Gone_Wild_The_Systematic_Side_Effects_of_Over-Prescribing_Goal_Setting</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/Gonzalo_Marchant/post/Do-you-know-what-the-recommendation-is-for-physical-activity-and-sedentary-behavior-to-health/attachment/59d620af79197b807797f284/AS%3A291995114328067%401446628468694/download/Phillippa%2BLally%2C%2BJane%2BWardle%2Band%2BBenjamin%2BGardner.%2BExperiences%2Bof%2Bhabits%2Bformation%2B2011..pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Gonzalo_Marchant/post/Do-you-know-what-the-recommendation-is-for-physical-activity-and-sedentary-behavior-to-health/attachment/59d620af79197b807797f284/AS%3A291995114328067%401446628468694/download/Phillippa%2BLally%2C%2BJane%2BWardle%2Band%2BBenjamin%2BGardner.%2BExperiences%2Bof%2Bhabits%2Bformation%2B2011..pdf</a>  
+   Link:<a href="https://www.researchgate.net/profile/Gonzalo_Marchant/post/Do-you-know-what-the-recommendation-is-for-physical-activity-and-sedentary-behavior-to-health/attachment/59d620af79197b807797f284/AS%3A291995114328067%401446628468694/download/Phillippa%2BLally%2C%2BJane%2BWardle%2Band%2BBenjamin%2BGardner.%2BExperiences%2Bof%2Bhabits%2Bformation%2B2011..pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Gonzalo_Marchant/post/Do-you-know-what-the-recommendation-is-for-physical-activity-and-sedentary-behavior-to-health/attachment/59d620af79197b807797f284/AS%3A291995114328067%401446628468694/download/Phillippa%2BLally%2C%2BJane%2BWardle%2Band%2BBenjamin%2BGardner.%2BExperiences%2Bof%2Bhabits%2Bformation%2B2011..pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/51070630_The_Behaviour_Change_Wheel_a_new_method_for_characterising_and_designing_behaviour_change_interventions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/51070630_The_Behaviour_Change_Wheel_a_new_method_for_characterising_and_designing_behaviour_change_interventions</a>  
+   Link:<a href="https://www.researchgate.net/publication/51070630_The_Behaviour_Change_Wheel_a_new_method_for_characterising_and_designing_behaviour_change_interventions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/51070630_The_Behaviour_Change_Wheel_a_new_method_for_characterising_and_designing_behaviour_change_interventions</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/291335719_Does_Monitoring_Goal_Progress_Promote_Goal_Attainment_A_Meta-Analysis_of_the_Experimental_Evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/291335719_Does_Monitoring_Goal_Progress_Promote_Goal_Attainment_A_Meta-Analysis_of_the_Experimental_Evidence</a>  
+   Link:<a href="https://www.researchgate.net/publication/291335719_Does_Monitoring_Goal_Progress_Promote_Goal_Attainment_A_Meta-Analysis_of_the_Experimental_Evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/291335719_Does_Monitoring_Goal_Progress_Promote_Goal_Attainment_A_Meta-Analysis_of_the_Experimental_Evidence</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/implement" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/implement</a>  
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/implement" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/implement</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/us/dictionary/english/behavior" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/behavior</a>  
+   Link:<a href="https://dictionary.cambridge.org/us/dictionary/english/behavior" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/behavior</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0</a>  
+   Link:<a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cambridge.org  
    Title: Goal Setting Interventions (Chapter 38)  
-   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/goal-setting-interventions/E4C86D215EE876772F83DF0DFA74D3E6" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/goal-setting-interventions/E4C86D215EE876772F83DF0DFA74D3E6</a>  
+   Link:<a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/goal-setting-interventions/E4C86D215EE876772F83DF0DFA74D3E6" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/goal-setting-interventions/E4C86D215EE876772F83DF0DFA74D3E6</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Forget About Setting Goals. Focus on This Instead  
-   Link: <a href="https://www.youtube.com/watch?v=QXd6jeDElWM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QXd6jeDElWM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>James Clear - Goals Versus Systems...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QXd6jeDElWM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QXd6jeDElWM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>James Clear - Goals Versus Systems...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: James Clear  
-   Link: <a href="https://www.youtube.com/watch?v=jyxxouMBEXI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jyxxouMBEXI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What are the Key Principles of Locke and Latham&#x27;s Goal Setting Theory?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jyxxouMBEXI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jyxxouMBEXI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What are the Key Principles of Locke and Latham&#x27;s Goal Setting Theory?...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29189034/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 492 — Moderator analyses indicated that goal setting...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29189034/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 492 — Moderator analyses indicated that goal setting...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: hbs.edu  
    Title: Harvard Business School Goals Gone Wild: The Systematic Side Effects of Over  
-   Link: <a href="https://www.hbs.edu/ris/Publication%20Files/09-083.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hbs.edu/ris/Publication%20Files/09-083.pdf</a>  
+   Link:<a href="https://www.hbs.edu/ris/Publication%20Files/09-083.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.hbs.edu/ris/Publication%20Files/09-083.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23512568/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23512568/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/21513547/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/21513547/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/21513547/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/21513547/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: ucl.ac.uk  
    Title: University College London How long does it take to form a habit?  
-   Link: <a href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow">https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit</a>  
+   Link:<a href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow">https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: jamesclear.com  
    Title: James Clear Forget About Setting Goals. Focus on This Instead  
-   Link: <a href="https://jamesclear.com/goals-systems" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/goals-systems</a>  
+   Link:<a href="https://jamesclear.com/goals-systems" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/goals-systems</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26479070/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26479070/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/12237980/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12237980/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/12237980/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12237980/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26616119/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26616119/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26616119/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26616119/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Implementation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Implementation</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Implementation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Implementation</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00434/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00434/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00434/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00434/full</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: cancercontrol.cancer.gov  
    Title: implementation intentions  
-   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
+   Link:<a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: jamesclear.com  
-   Link: <a href="https://jamesclear.com/quotes/you-do-not-rise-to-the-level-of-your-goals-you-fall-to-the-level-of-your-systems" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/quotes/you-do-not-rise-to-the-level-of-your-goals-you-fall-to-the-level-of-your-systems</a>  
+   Link:<a href="https://jamesclear.com/quotes/you-do-not-rise-to-the-level-of-your-goals-you-fall-to-the-level-of-your-systems" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/quotes/you-do-not-rise-to-the-level-of-your-goals-you-fall-to-the-level-of-your-systems</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: <a href="https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/implementation" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/implementation</a>  
+   Link:<a href="https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/implementation" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/implementation</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: techtarget.com  
-   Link: <a href="https://www.techtarget.com/searchcustomerexperience/definition/implementation" target="_blank" rel="noopener noreferrer nofollow">https://www.techtarget.com/searchcustomerexperience/definition/implementation</a>  
+   Link:<a href="https://www.techtarget.com/searchcustomerexperience/definition/implementation" target="_blank" rel="noopener noreferrer nofollow">https://www.techtarget.com/searchcustomerexperience/definition/implementation</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: thriva.co  
    Title: implementation intentions  
-   Link: <a href="https://thriva.co/hub/behaviour-change/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://thriva.co/hub/behaviour-change/implementation-intentions</a>  
+   Link:<a href="https://thriva.co/hub/behaviour-change/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://thriva.co/hub/behaviour-change/implementation-intentions</a>  
 
 ### Additional References
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: cancercontrol.cancer.gov  
    Title: Control Implementation Intentions Peter M  
-   Link: <a href="https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gollwitzer New York...by PM Gollwitzer · Cited by 136 — Gollwitzer and Sheeran (2006) found that implementation intention formation had...</p></details>
+   Link:<a href="https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gollwitzer New York...by PM Gollwitzer · Cited by 136 — Gollwitzer and Sheeran (2006) found that implementation intention formation had...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: What are the Key Principles of Locke and Latham's Goal Setting Theory?  
-   Link: <a href="https://www.youtube.com/watch?v=Iyi4ngN3O9I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Iyi4ngN3O9I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Making &amp; Breaking Habits: How to Change Your Life in 1 Month...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Iyi4ngN3O9I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Iyi4ngN3O9I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Making &amp; Breaking Habits: How to Change Your Life in 1 Month...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
    Title: The Science of Making & Breaking Habits: How to Change Your Life in 1 Month  
-   Link: <a href="https://www.youtube.com/watch?v=8dHEG7WxR4c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8dHEG7WxR4c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of Tiny Gains | Chapter 1 – Atomic Habits by James Clear...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8dHEG7WxR4c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8dHEG7WxR4c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of Tiny Gains | Chapter 1 – Atomic Habits by James Clear...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/behavior" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/behavior</a>  
+   Link:<a href="https://www.merriam-webster.com/dictionary/behavior" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/behavior</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: bct-taxonomy.com  
-   Link: <a href="https://www.bct-taxonomy.com/about" target="_blank" rel="noopener noreferrer nofollow">https://www.bct-taxonomy.com/about</a>  
+   Link:<a href="https://www.bct-taxonomy.com/about" target="_blank" rel="noopener noreferrer nofollow">https://www.bct-taxonomy.com/about</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/Does-monitoring-goal-progress-promote-goal-A-of-the-Harkin-Webb/71c6265bf7a8ded9084ff21a417cd63d6f4119ea" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Does-monitoring-goal-progress-promote-goal-A-of-the-Harkin-Webb/71c6265bf7a8ded9084ff21a417cd63d6f4119ea</a>  
+   Link:<a href="https://www.semanticscholar.org/paper/Does-monitoring-goal-progress-promote-goal-A-of-the-Harkin-Webb/71c6265bf7a8ded9084ff21a417cd63d6f4119ea" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Does-monitoring-goal-progress-promote-goal-A-of-the-Harkin-Webb/71c6265bf7a8ded9084ff21a417cd63d6f4119ea</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: unicef.org  
-   Link: <a href="https://www.unicef.org/innocenti/media/3801/file/Evidence-based-Intervention-Design-Behaviour-Change-2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unicef.org/innocenti/media/3801/file/Evidence-based-Intervention-Design-Behaviour-Change-2023.pdf</a>  
+   Link:<a href="https://www.unicef.org/innocenti/media/3801/file/Evidence-based-Intervention-Design-Behaviour-Change-2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unicef.org/innocenti/media/3801/file/Evidence-based-Intervention-Design-Behaviour-Change-2023.pdf</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/mind-cafe/goals-gone-wild-ac396c2b88ee" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/mind-cafe/goals-gone-wild-ac396c2b88ee</a>  
+   Link:<a href="https://medium.com/mind-cafe/goals-gone-wild-ac396c2b88ee" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/mind-cafe/goals-gone-wild-ac396c2b88ee</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/jamesclear/posts/goals-are-good-for-setting-a-direction-but-systems-are-best-for-making-progressr/577902867038499/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/jamesclear/posts/goals-are-good-for-setting-a-direction-but-systems-are-best-for-making-progressr/577902867038499/</a>  
+   Link:<a href="https://www.facebook.com/jamesclear/posts/goals-are-good-for-setting-a-direction-but-systems-are-best-for-making-progressr/577902867038499/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/jamesclear/posts/goals-are-good-for-setting-a-direction-but-systems-are-best-for-making-progressr/577902867038499/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/life-lemons/goals-vs-systems-atomic-habits-176a35bb36c8" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/life-lemons/goals-vs-systems-atomic-habits-176a35bb36c8</a>
+   Link:<a href="https://medium.com/life-lemons/goals-vs-systems-atomic-habits-176a35bb36c8" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/life-lemons/goals-vs-systems-atomic-habits-176a35bb36c8</a>

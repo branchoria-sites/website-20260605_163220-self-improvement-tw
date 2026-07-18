@@ -274,21 +274,21 @@ image: /assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_ju
 
 ## Introduction
 
-Just-in-time adaptive interventions (JITAIs) are one of the most ambitious ideas in digital [behaviour change]({{ 'behaviour-change/' | relative_url }}): instead of sending the same reminder every morning, they try to deliver the right support at the moment a person is most likely to need it or act on it. Modern smartphones and [wearables]({{ 'wearables/' | relative_url }}) can detect patterns in movement, location, sleep, heart rate, phone use and self-reported mood, allowing support to be tailored to changing circumstances throughout the day. The goal is not simply personalisation, but timing. A well-designed intervention aims to identify moments of vulnerability, opportunity or receptiveness and then provide a prompt, suggestion or coping strategy before a habit breaks down or a desired behaviour is missed. Research on JITAIs is still developing, but they have become a central concept in digital health and behaviour-change science because they address a long-standing problem: advice is only useful if it arrives when people can use it. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27663578/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Just-in-Time Adaptive Interventions (JITAIs) in Mobile Healthby I Nahum-Shani · 2018 · Cited by 2542 — JITAI is an intervention des...</span></span></span>
+Just-in-time adaptive interventions (JITAIs) are one of the most ambitious ideas in digital [behaviour change]({{ 'behaviour-change/' | relative_url }}): instead of sending the same reminder every morning, they try to deliver the right support at the moment a person is most likely to need it or act on it. Modern smartphones and [wearables]({{ 'wearables/' | relative_url }}) can detect patterns in movement, location, sleep, heart rate, phone use and self-reported mood, allowing support to be tailored to changing circumstances throughout the day. The goal is not simply personalisation, but timing. A well-designed intervention aims to identify moments of vulnerability, opportunity or receptiveness and then provide a prompt, suggestion or coping strategy before a habit breaks down or a desired behaviour is missed. Research on JITAIs is still developing, but they have become a central concept in digital health and behaviour-change science because they address a long-standing problem: advice is only useful if it arrives when people can use it. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27663578/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Just-in-Time Adaptive Interventions (JITAIs) in Mobile Healthby I Nahum-Shani · 2018 · Cited by 2542 — JITAI is an intervention des...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_just_in_time_support_bb40dc-Illustration-1-dark.svg" | relative_url }}" alt="JITAI illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_just_in_time_support_bb40dc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_just_in_time_support_bb40dc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Can apps know the right moment to help?
 
-The core idea behind a JITAI is often summarised as delivering the right type of [support]({{ 'support/' | relative_url }}), in the right amount, at the right time. Rather than assuming that [motivation]({{ 'motivation/' | relative_url }}) and circumstances are stable, JITAIs treat behaviour as something that changes from hour to hour depending on context, stress, fatigue, social setting and opportunity. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27663578/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Just-in-Time Adaptive Interventions (JITAIs) in Mobile Healthby I Nahum-Shani · 2018 · Cited by 2542 — JITAI is an intervention des...</span></span></span>
+The core idea behind a JITAI is often summarised as delivering the right type of [support]({{ 'support/' | relative_url }}), in the right amount, at the right time. Rather than assuming that [motivation]({{ 'motivation/' | relative_url }}) and circumstances are stable, JITAIs treat behaviour as something that changes from hour to hour depending on context, stress, fatigue, social setting and opportunity. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27663578/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Just-in-Time Adaptive Interventions (JITAIs) in Mobile Healthby I Nahum-Shani · 2018 · Cited by 2542 — JITAI is an intervention des...</span></span></span>
 
-Consider a walking programme. A traditional app might send a notification every day at 6 p.m. A JITAI might instead detect that the user has been sitting for several hours, has a gap in their schedule, is in a safe walking [environment]({{ 'environment/' | relative_url }}) and has previously responded well to afternoon prompts. The intervention can then recommend a short walk at that specific moment. If the person is driving, asleep, in a meeting or repeatedly ignoring notifications, the system may stay silent. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchprotocols.org/2026/1/e79022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchprotocols.org">[JMIR Research Protocols]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchprotocols.org</span><span class="citation-popover-snippet">JMIR Research ProtocolsJust-in-Time Adaptive Intervention to Promote Walking...by CJ Firkin · 2026 · Cited by 1 — Background: A Just-in...</span></span></span>
+Consider a walking programme. A traditional app might send a notification every day at 6 p.m. A JITAI might instead detect that the user has been sitting for several hours, has a gap in their schedule, is in a safe walking [environment]({{ 'environment/' | relative_url }}) and has previously responded well to afternoon prompts. The intervention can then recommend a short walk at that specific moment. If the person is driving, asleep, in a meeting or repeatedly ignoring notifications, the system may stay silent. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchprotocols.org/2026/1/e79022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchprotocols.org">[JMIR Research Protocols]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchprotocols.org</span><span class="citation-popover-snippet">JMIR Research ProtocolsJust-in-Time Adaptive Intervention to Promote Walking...by CJ Firkin · 2026 · Cited by 1 — Background: A Just-in...</span></span></span>
 
 This distinction matters because behaviour-change support can fail for two opposite reasons:
 
 * Support arrives too late, after a lapse has already happened.
 * Support arrives too often, creating annoyance and notification fatigue.
 
-JITAIs attempt to navigate between those extremes by making timing itself part of the intervention design. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5364076/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Just-in-Time Adaptive Interventions (JITAIs) in Mobile Healthby I Nahum-Shani · 2017 · Cited by 2547 — JITAI is an intervention design...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12824576/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCJust-in-Time Adaptive Intervention to Promote Walking</span><span class="citation-popover-snippet">by CJ Firkin · 2026 · Cited by 1 — This paper outlines the application architecture and protocol for the pilot “Walking With Just-in-T...</span></span></span>
+JITAIs attempt to navigate between those extremes by making timing itself part of the intervention design.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5364076/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Just-in-Time Adaptive Interventions (JITAIs) in Mobile Healthby I Nahum-Shani · 2017 · Cited by 2547 — JITAI is an intervention design...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12824576/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCJust-in-Time Adaptive Intervention to Promote Walking</span><span class="citation-popover-snippet">by CJ Firkin · 2026 · Cited by 1 — This paper outlines the application architecture and protocol for the pilot “Walking With Just-in-T...</span></span></span>
 
 ## What just-in-time support means in practice
 
@@ -302,7 +302,7 @@ Most JITAIs operate around three questions:
 
 </div>
 
-To answer these questions, systems combine behavioural theory with real-time data. Someone trying to exercise more may receive encouragement when inactivity is detected. Someone trying to avoid emotional eating may receive coping suggestions when stress indicators rise. Someone working on sleep habits may receive [reminders]({{ 'reminders/' | relative_url }}) only when bedtime routines begin to drift. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5870794/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCReturn of the JITAI: Applying a Just-in-Time Adaptive</span><span class="citation-popover-snippet">by SP Goldstein · 2017 · Cited by 131 — Just-in-time adaptive intervention (JITAI) is an intervention design framework that could be d...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5364076/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Just-in-Time Adaptive Interventions (JITAIs) in Mobile Healthby I Nahum-Shani · 2017 · Cited by 2547 — JITAI is an intervention design...</span></span></span>
+To answer these questions, systems combine behavioural theory with real-time data. Someone trying to exercise more may receive encouragement when inactivity is detected. Someone trying to avoid emotional eating may receive coping suggestions when stress indicators rise. Someone working on sleep habits may receive [reminders]({{ 'reminders/' | relative_url }}) only when bedtime routines begin to drift.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5870794/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCReturn of the JITAI: Applying a Just-in-Time Adaptive</span><span class="citation-popover-snippet">by SP Goldstein · 2017 · Cited by 131 — Just-in-time adaptive intervention (JITAI) is an intervention design framework that could be d...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5364076/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Just-in-Time Adaptive Interventions (JITAIs) in Mobile Healthby I Nahum-Shani · 2017 · Cited by 2547 — JITAI is an intervention design...</span></span></span>
 
 The intervention itself can take many forms:
 
@@ -317,7 +317,7 @@ The intervention itself can take many forms:
 
 </div>
 
-The key innovation is that these actions are triggered by changing circumstances rather than a fixed schedule. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://people.seas.harvard.edu/~samurphy/JITAI_MRT/jitai.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.seas.harvard.edu">[Harvard SEAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.seas.harvard.edu</span><span class="citation-popover-snippet">Harvard SEASjust-in-time adaptive interventions (JITAIs)Just-in-time adaptive interventions (JITAIs) are a special type of adaptive inter...</span></span></span>
+The key innovation is that these actions are triggered by changing circumstances rather than a fixed schedule. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://people.seas.harvard.edu/~samurphy/JITAI_MRT/jitai.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.seas.harvard.edu">[Harvard SEAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.seas.harvard.edu</span><span class="citation-popover-snippet">Harvard SEASjust-in-time adaptive interventions (JITAIs)Just-in-time adaptive interventions (JITAIs) are a special type of adaptive inter...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vrdk3IGcau8" title="GOT7 &quot;Just right(딱 좋아)&quot; M/V" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vrdk3IGcau8" target="_blank" rel="noopener noreferrer">GOT7 &quot;Just right(딱 좋아)&quot; M/V</a></p><p class="youtube-embed-meta">Channel: JYP Entertainment &middot; Views: 455.7M &middot; Uploaded: July 2015 &middot; Length: 4 minutes 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vrdk3IGcau8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vrdk3IGcau8">Open on YouTube</a></p></div></div></div>
 
@@ -327,40 +327,40 @@ Modern smartphones and wearables act as collections of sensors. They can observe
 
 Common signals include:
 
-**Physical activity and movement** <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s12966-019-0792-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[link.springer.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Consistent use and a shared definition...Read more...</span></span></span>
+**Physical activity and movement**<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s12966" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[link.springer.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Consistent use and a shared definition...Read more...</span></span></span>
 
-Accelerometers and step counters can identify walking, running, prolonged sitting and other movement patterns. These data are frequently used to trigger activity prompts or sedentary-behaviour interventions. PubMed <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s12966-019-0792-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Consistent use and a shared definition...Read more...</span></span></span>
+Accelerometers and step counters can identify walking, running, prolonged sitting and other movement patterns. These data are frequently used to trigger activity prompts or sedentary-behaviour interventions. PubMed<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s12966" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Consistent use and a shared definition...Read more...</span></span></span>
 
 **Location and context**
 
-GPS and location services can identify whether a person is at home, commuting, at work or near a relevant place such as a gym or park. Context-aware interventions can use these patterns when deciding whether a prompt is practical. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12824576/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCJust-in-Time Adaptive Intervention to Promote Walking</span><span class="citation-popover-snippet">by CJ Firkin · 2026 · Cited by 1 — This paper outlines the application architecture and protocol for the pilot “Walking With Just-in-T...</span></span></span>
+GPS and location services can identify whether a person is at home, commuting, at work or near a relevant place such as a gym or park. Context-aware interventions can use these patterns when deciding whether a prompt is practical.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12824576/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCJust-in-Time Adaptive Intervention to Promote Walking</span><span class="citation-popover-snippet">by CJ Firkin · 2026 · Cited by 1 — This paper outlines the application architecture and protocol for the pilot “Walking With Just-in-T...</span></span></span>
 
 **Time and routine**
 
-Behaviour is often tied to recurring routines. Systems can learn when someone typically exercises, studies, sleeps or experiences lapses and adjust support accordingly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5870794/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCReturn of the JITAI: Applying a Just-in-Time Adaptive</span><span class="citation-popover-snippet">by SP Goldstein · 2017 · Cited by 131 — Just-in-time adaptive intervention (JITAI) is an intervention design framework that could be d...</span></span></span>
+Behaviour is often tied to recurring routines. Systems can learn when someone typically exercises, studies, sleeps or experiences lapses and adjust support accordingly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5870794/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCReturn of the JITAI: Applying a Just-in-Time Adaptive</span><span class="citation-popover-snippet">by SP Goldstein · 2017 · Cited by 131 — Just-in-time adaptive intervention (JITAI) is an intervention design framework that could be d...</span></span></span>
 
 **Sleep and fatigue indicators**
 
-Wearables increasingly estimate sleep duration, sleep timing and sleep regularity. These measures can help identify periods when users are unlikely to respond well to interventions or when recovery-related behaviours deserve attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5870794/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCReturn of the JITAI: Applying a Just-in-Time Adaptive</span><span class="citation-popover-snippet">by SP Goldstein · 2017 · Cited by 131 — Just-in-time adaptive intervention (JITAI) is an intervention design framework that could be d...</span></span></span>
+Wearables increasingly estimate sleep duration, sleep timing and sleep regularity. These measures can help identify periods when users are unlikely to respond well to interventions or when recovery-related behaviours deserve attention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5870794/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCReturn of the JITAI: Applying a Just-in-Time Adaptive</span><span class="citation-popover-snippet">by SP Goldstein · 2017 · Cited by 131 — Just-in-time adaptive intervention (JITAI) is an intervention design framework that could be d...</span></span></span>
 
 **Heart rate and physiological signals**
 
-Smartwatches can track heart rate and related indicators that may correlate with exertion, stress or arousal. Researchers are exploring how these measures can help identify moments when coping support might be useful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jmir.org/2026/1/e72830" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">Digital Twins for Just-in-Time Adaptive Interventions (JITAIs)Mar 6, 2026 — In the context of digital health, just-in-time adaptive i...</span></span></span>
+Smartwatches can track heart rate and related indicators that may correlate with exertion, stress or arousal. Researchers are exploring how these measures can help identify moments when coping support might be useful.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jmir.org/2026/1/e72830" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">Digital Twins for Just-in-Time Adaptive Interventions (JITAIs)Mar 6, 2026 — In the context of digital health, just-in-time adaptive i...</span></span></span>
 
 **Phone interaction patterns**
 
-Screen activity, app use and communication behaviour can provide clues about availability, attention and engagement. These signals are often used cautiously because they raise additional privacy concerns. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5870794/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCReturn of the JITAI: Applying a Just-in-Time Adaptive</span><span class="citation-popover-snippet">by SP Goldstein · 2017 · Cited by 131 — Just-in-time adaptive intervention (JITAI) is an intervention design framework that could be d...</span></span></span>
+Screen activity, app use and communication behaviour can provide clues about availability, attention and engagement. These signals are often used cautiously because they raise additional privacy concerns.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5870794/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCReturn of the JITAI: Applying a Just-in-Time Adaptive</span><span class="citation-popover-snippet">by SP Goldstein · 2017 · Cited by 131 — Just-in-time adaptive intervention (JITAI) is an intervention design framework that could be d...</span></span></span>
 
 **Self-reports**
 
-Many JITAIs still rely partly on user input. Short mood check-ins, stress ratings or confidence assessments can provide information that sensors cannot infer reliably. Researchers often combine self-reports with passive sensing rather than replacing them entirely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5870794/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCReturn of the JITAI: Applying a Just-in-Time Adaptive</span><span class="citation-popover-snippet">by SP Goldstein · 2017 · Cited by 131 — Just-in-time adaptive intervention (JITAI) is an intervention design framework that could be d...</span></span></span>
+Many JITAIs still rely partly on user input. Short mood check-ins, stress ratings or confidence assessments can provide information that sensors cannot infer reliably. Researchers often combine self-reports with passive sensing rather than replacing them entirely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5870794/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCReturn of the JITAI: Applying a Just-in-Time Adaptive</span><span class="citation-popover-snippet">by SP Goldstein · 2017 · Cited by 131 — Just-in-time adaptive intervention (JITAI) is an intervention design framework that could be d...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_just_in_time_support_bb40dc-Illustration-2-dark.svg" | relative_url }}" alt="JITAI illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_just_in_time_support_bb40dc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_just_in_time_support_bb40dc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where the evidence is strongest
 
-Research on JITAIs has expanded rapidly, particularly in physical activity, sedentary behaviour and mental health. Reviews generally find that users view these interventions as acceptable and that tailoring support to context is promising. However, the evidence base remains younger than many people assume. PubMed <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s12966-019-0792-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Consistent use and a shared definition...Read more...</span></span></span> A systematic review of JITAIs for physical activity found widespread use of techniques such as prompts, feedback, [goal setting]({{ 'goal-setting/' | relative_url }}) and action planning. Participants generally accepted the interventions, but studies often faced practical challenges including sensor reliability, technical issues and imperfect timing of messages. Evidence for behaviour change was encouraging but mixed, partly because many studies were small and experimental. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27663578/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Just-in-Time Adaptive Interventions (JITAIs) in Mobile Healthby I Nahum-Shani · 2018 · Cited by 2542 — JITAI is an intervention des...</span></span></span>
+Research on JITAIs has expanded rapidly, particularly in physical activity, sedentary behaviour and mental health. Reviews generally find that users view these interventions as acceptable and that tailoring support to context is promising. However, the evidence base remains younger than many people assume. PubMed<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s12966" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Consistent use and a shared definition...Read more...</span></span></span> A systematic review of JITAIs for physical activity found widespread use of techniques such as prompts, feedback, [goal setting]({{ 'goal-setting/' | relative_url }}) and action planning. Participants generally accepted the interventions, but studies often faced practical challenges including sensor reliability, technical issues and imperfect timing of messages. Evidence for behaviour change was encouraging but mixed, partly because many studies were small and experimental.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27663578/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Just-in-Time Adaptive Interventions (JITAIs) in Mobile Healthby I Nahum-Shani · 2018 · Cited by 2542 — JITAI is an intervention des...</span></span></span>
 
-More recent reviews in mental health report modest positive effects for some outcomes while also highlighting considerable variation between interventions. The field increasingly recognises that simply collecting more data does not guarantee better support; success depends on identifying genuinely meaningful moments for intervention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mentalhealth.bmj.com/content/28/1/e301641" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mentalhealth.bmj.com">[BMJ Mental Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mentalhealth.bmj.com</span><span class="citation-popover-snippet">BMJ Mental HealthEffectiveness of just-in-time adaptive interventions for...by U von Lützow · 2025 · Cited by 6 — Our review advances pr...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1460167/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersBeyond the current state of just-in-time adaptive...by CR van Genugten · 2025 · Cited by 36 — This review evaluates the current...</span></span></span>
+More recent reviews in mental health report modest positive effects for some outcomes while also highlighting considerable variation between interventions. The field increasingly recognises that simply collecting more data does not guarantee better support; success depends on identifying genuinely meaningful moments for intervention.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mentalhealth.bmj.com/content/28/1/e301641" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mentalhealth.bmj.com">[BMJ Mental Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mentalhealth.bmj.com</span><span class="citation-popover-snippet">BMJ Mental HealthEffectiveness of just-in-time adaptive interventions for...by U von Lützow · 2025 · Cited by 6 — Our review advances pr...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1460167/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersBeyond the current state of just-in-time adaptive...by CR van Genugten · 2025 · Cited by 36 — This review evaluates the current...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/c2owFV6o7os" title="Video 1: Introduction to JITAI with Susan Murphy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=c2owFV6o7os" target="_blank" rel="noopener noreferrer">Video 1: Introduction to JITAI with Susan Murphy</a></p><p class="youtube-embed-meta">Channel: methodsctr &middot; Views: 3.4K &middot; Uploaded: March 2017 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=c2owFV6o7os" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=c2owFV6o7os">Open on YouTube</a></p></div></div></div>
 
@@ -368,7 +368,7 @@ More recent reviews in mental health report modest positive effects for some out
 
 A recurring finding in JITAI research is that relevance and timing often interact. Even a sensible recommendation may be ignored if it arrives when a person is busy, stressed or unable to act.
 
-For example, a prompt encouraging movement may be effective during a free afternoon but pointless during a meeting. Likewise, a mindfulness exercise may be welcomed during rising stress but ignored when delivered randomly hours later. JITAI frameworks therefore distinguish between moments of need and moments of opportunity. Effective support often requires both. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5870794/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCReturn of the JITAI: Applying a Just-in-Time Adaptive</span><span class="citation-popover-snippet">by SP Goldstein · 2017 · Cited by 131 — Just-in-time adaptive intervention (JITAI) is an intervention design framework that could be d...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5870794/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCReturn of the JITAI: Applying a Just-in-Time Adaptive</span><span class="citation-popover-snippet">by SP Goldstein · 2017 · Cited by 131 — Just-in-time adaptive intervention (JITAI) is an intervention design framework that could be d...</span></span></span>
+For example, a prompt encouraging movement may be effective during a free afternoon but pointless during a meeting. Likewise, a mindfulness exercise may be welcomed during rising stress but ignored when delivered randomly hours later. JITAI frameworks therefore distinguish between moments of need and moments of opportunity. Effective support often requires both.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5870794/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCReturn of the JITAI: Applying a Just-in-Time Adaptive</span><span class="citation-popover-snippet">by SP Goldstein · 2017 · Cited by 131 — Just-in-time adaptive intervention (JITAI) is an intervention design framework that could be d...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5870794/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCReturn of the JITAI: Applying a Just-in-Time Adaptive</span><span class="citation-popover-snippet">by SP Goldstein · 2017 · Cited by 131 — Just-in-time adaptive intervention (JITAI) is an intervention design framework that could be d...</span></span></span>
 
 This emphasis on timing reflects a broader lesson for self-improvement: behavioural success often depends less on knowing what to do than on receiving support when action is realistically possible.
 
@@ -378,9 +378,9 @@ This emphasis on timing reflects a broader lesson for self-improvement: behaviou
 
 The same data that make JITAIs possible also create governance and privacy challenges.
 
-Many systems rely on continuous or near-continuous monitoring of behaviour, movement and device use. Users may not fully understand which signals are being collected, how long they are stored, who can access them or how they are combined to generate predictions. The more personalised the intervention becomes, the greater the potential sensitivity of the underlying data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5870794/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCReturn of the JITAI: Applying a Just-in-Time Adaptive</span><span class="citation-popover-snippet">by SP Goldstein · 2017 · Cited by 131 — Just-in-time adaptive intervention (JITAI) is an intervention design framework that could be d...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.annualreviews.org/content/journals/10.1146/annurev-psych-121024-044244" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: annualreviews.org">[Annual Reviews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">annualreviews.org</span><span class="citation-popover-snippet">Just-in-Time Adaptive Interventions: Where Are We Now...by I Nahum-Shani · Cited by 12 — The past decade has seen a surge in developing...</span></span></span>
+Many systems rely on continuous or near-continuous monitoring of behaviour, movement and device use. Users may not fully understand which signals are being collected, how long they are stored, who can access them or how they are combined to generate predictions. The more personalised the intervention becomes, the greater the potential sensitivity of the underlying data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5870794/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCReturn of the JITAI: Applying a Just-in-Time Adaptive</span><span class="citation-popover-snippet">by SP Goldstein · 2017 · Cited by 131 — Just-in-time adaptive intervention (JITAI) is an intervention design framework that could be d...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.annualreviews.org/content/journals/10.1146/annurev-psych-121024-044244" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: annualreviews.org">[Annual Reviews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">annualreviews.org</span><span class="citation-popover-snippet">Just-in-Time Adaptive Interventions: Where Are We Now...by I Nahum-Shani · Cited by 12 — The past decade has seen a surge in developing...</span></span></span>
 
-Another concern is over-intervention. A system that constantly reacts to behaviour can become intrusive. Excessive notifications may reduce engagement, encourage users to disable alerts or create a sense of surveillance. Researchers developing JITAIs increasingly treat user burden as a design problem in its own right. A useful intervention must know not only when to speak, but also when to remain silent. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://research-portal.uea.ac.uk/en/publications/a-systematic-review-of-just-in-time-adaptive-interventions-jitais/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-portal.uea.ac.uk">[University of East Anglia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-portal.uea.ac.uk</span><span class="citation-popover-title">a systematic review of just in time adaptive interventions jitais</span><span class="citation-popover-snippet">We found mixed evidence for intervention effects on behaviour, but no study was sufficiently...Read more...</span></span></span>
+Another concern is over-intervention. A system that constantly reacts to behaviour can become intrusive. Excessive notifications may reduce engagement, encourage users to disable alerts or create a sense of surveillance. Researchers developing JITAIs increasingly treat user burden as a design problem in its own right. A useful intervention must know not only when to speak, but also when to remain silent. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://research-portal.uea.ac.uk/en/publications/a-systematic-review-of-just-in-time-adaptive-interventions-jitais/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-portal.uea.ac.uk">[University of East Anglia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-portal.uea.ac.uk</span><span class="citation-popover-title">a systematic review of just in time adaptive interventions jitais</span><span class="citation-popover-snippet">We found mixed evidence for intervention effects on behaviour, but no study was sufficiently...Read more...</span></span></span>
 
 From a governance perspective, several questions become important:
 
@@ -394,186 +394,186 @@ From a governance perspective, several questions become important:
 
 </div>
 
-These issues become more significant as wearable devices collect increasingly detailed behavioural and physiological information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1460167/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersBeyond the current state of just-in-time adaptive...by CR van Genugten · 2025 · Cited by 36 — This review evaluates the current...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jmir.org/2026/1/e72830" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">Digital Twins for Just-in-Time Adaptive Interventions (JITAIs)Mar 6, 2026 — In the context of digital health, just-in-time adaptive i...</span></span></span>
+These issues become more significant as wearable devices collect increasingly detailed behavioural and physiological information.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1460167/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersBeyond the current state of just-in-time adaptive...by CR van Genugten · 2025 · Cited by 36 — This review evaluates the current...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jmir.org/2026/1/e72830" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">Digital Twins for Just-in-Time Adaptive Interventions (JITAIs)Mar 6, 2026 — In the context of digital health, just-in-time adaptive i...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_just_in_time_support_bb40dc-Illustration-3-dark.svg" | relative_url }}" alt="JITAI illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_just_in_time_support_bb40dc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_just_in_time_support_bb40dc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The practical takeaway for self-improvement
 
-Just-in-time support represents a shift from static advice to context-sensitive assistance. Instead of assuming that behaviour change happens through occasional bursts of motivation, JITAIs treat behaviour as a series of moment-by-moment decisions shaped by changing circumstances. Phones and wearables make this approach technically possible by continuously observing aspects of daily life and adapting support accordingly. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/nature-index/topics/l4/just-in-time-adaptive-interventions-in-health-behavior-change" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">delivers tailored assistance at moments of high need by adapting intervention...Read more...</span></span></span> The promise is not that apps can perfectly predict human behaviour. Rather, they can sometimes recognise when a person is at greater risk of abandoning a goal or when an opportunity for action has appeared. When the timing is accurate, even a simple prompt can be more useful than a large amount of generic advice delivered at the wrong moment. At the same time, the effectiveness of these systems depends on careful design, reliable sensing, respect for privacy and restraint in how often they intervene. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27663578/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Just-in-Time Adaptive Interventions (JITAIs) in Mobile Healthby I Nahum-Shani · 2018 · Cited by 2542 — JITAI is an intervention des...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://research-portal.uea.ac.uk/en/publications/a-systematic-review-of-just-in-time-adaptive-interventions-jitais/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-portal.uea.ac.uk">[University of East Anglia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-portal.uea.ac.uk</span><span class="citation-popover-title">a systematic review of just in time adaptive interventions jitais</span><span class="citation-popover-snippet">We found mixed evidence for intervention effects on behaviour, but no study was sufficiently...Read more...</span></span></span>
+Just-in-time support represents a shift from static advice to context-sensitive assistance. Instead of assuming that behaviour change happens through occasional bursts of motivation, JITAIs treat behaviour as a series of moment-by-moment decisions shaped by changing circumstances. Phones and wearables make this approach technically possible by continuously observing aspects of daily life and adapting support accordingly. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/nature-index/topics/l4/just-in-time-adaptive-interventions-in-health-behavior-change" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">delivers tailored assistance at moments of high need by adapting intervention...Read more...</span></span></span> The promise is not that apps can perfectly predict human behaviour. Rather, they can sometimes recognise when a person is at greater risk of abandoning a goal or when an opportunity for action has appeared. When the timing is accurate, even a simple prompt can be more useful than a large amount of generic advice delivered at the wrong moment. At the same time, the effectiveness of these systems depends on careful design, reliable sensing, respect for privacy and restraint in how often they intervene.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27663578/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Just-in-Time Adaptive Interventions (JITAIs) in Mobile Healthby I Nahum-Shani · 2018 · Cited by 2542 — JITAI is an intervention des...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://research-portal.uea.ac.uk/en/publications/a-systematic-review-of-just-in-time-adaptive-interventions-jitais/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research-portal.uea.ac.uk">[University of East Anglia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research-portal.uea.ac.uk</span><span class="citation-popover-title">a systematic review of just in time adaptive interventions jitais</span><span class="citation-popover-snippet">We found mixed evidence for intervention effects on behaviour, but no study was sufficiently...Read more...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can apps know the right moment to help?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can apps know the right moment to help?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
-        </h4>
-        <p class="fr-book-author">By B. J. Fogg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
+</h4>
+<p class="fr-book-author">By B. J. Fogg</p>
         
-        <p class="fr-book-desc">Emphasizes prompts arriving when action is feasible.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes prompts arriving when action is feasible.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Explains how context and cues support behavior at the right moment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Explains how context and cues support behavior at the right moment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nudge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Wf1AEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Nudge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nudge">Nudge</a>
-        </h4>
-        <p class="fr-book-author">By Richard H. Thaler, Cass R. Sunstein</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nudge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Wf1AEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Nudge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nudge">Nudge</a>
+</h4>
+<p class="fr-book-author">By Richard H. Thaler, Cass R. Sunstein</p>
         
-        <p class="fr-book-desc">Provides a framework for delivering interventions when they can influence choices.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for delivering interventions when they can influence choices.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Hooked%3A+How+to+Build+Habit-Forming+Products+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hooked: How to Build Habit-Forming Products on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hooked%3A+How+to+Build+Habit-Forming+Products+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hooked: How to Build Habit-Forming Products">Hooked: How to Build Habit-Forming Products</a>
-        </h4>
-        <p class="fr-book-author">By Nir Eyal</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Hooked%3A+How+to+Build+Habit-Forming+Products+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hooked: How to Build Habit-Forming Products on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hooked%3A+How+to+Build+Habit-Forming+Products+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hooked: How to Build Habit-Forming Products">Hooked: How to Build Habit-Forming Products</a>
+</h4>
+<p class="fr-book-author">By Nir Eyal</p>
         
-        <p class="fr-book-desc">Addresses timely triggers and user engagement, closely related to adaptive interventions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hooked%3A+How+to+Build+Habit-Forming+Products+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses timely triggers and user engagement, closely related to adaptive interventions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hooked%3A+How+to+Build+Habit-Forming+Products+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Nudge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nudge</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Nudge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nudge</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-    </div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jitai-can-apps-know-the-right-moment-to-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jitai-can-apps-know-the-right-moment-to-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jitai-can-apps-know-the-right-moment-to-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jitai-can-apps-know-the-right-moment-to-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jitai-can-apps-know-the-right-moment-to-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jitai-can-apps-know-the-right-moment-to-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jitai-can-apps-know-the-right-moment-to-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jitai-can-apps-know-the-right-moment-to-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jitai-can-apps-know-the-right-moment-to-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jitai-can-apps-know-the-right-moment-to-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jitai-can-apps-know-the-right-moment-to-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jitai-can-apps-know-the-right-moment-to-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jitai-can-apps-know-the-right-moment-to-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jitai-can-apps-know-the-right-moment-to-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jitai-can-apps-know-the-right-moment-to-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jitai-can-apps-know-the-right-moment-to-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jitai-can-apps-know-the-right-moment-to-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jitai-can-apps-know-the-right-moment-to-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jitai-can-apps-know-the-right-moment-to-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jitai-can-apps-know-the-right-moment-to-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jitai-can-apps-know-the-right-moment-to-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jitai-can-apps-know-the-right-moment-to-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jitai-can-apps-know-the-right-moment-to-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jitai-can-apps-know-the-right-moment-to-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jitai-can-apps-know-the-right-moment-to-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jitai-can-apps-know-the-right-moment-to-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jitai-can-apps-know-the-right-moment-to-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jitai-can-apps-know-the-right-moment-to-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jitai-can-apps-know-the-right-moment-to-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jitai-can-apps-know-the-right-moment-to-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jitai-can-apps-know-the-right-moment-to-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jitai-can-apps-know-the-right-moment-to-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jitai-can-apps-know-the-right-moment-to-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=jitai-can-apps-know-the-right-moment-to-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -589,7 +589,7 @@ Just-in-time support represents a shift from static advice to context-sensitive 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -609,7 +609,7 @@ Just-in-time support represents a shift from static advice to context-sensitive 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -641,7 +641,7 @@ Just-in-time support represents a shift from static advice to context-sensitive 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -671,7 +671,7 @@ Just-in-time support represents a shift from static advice to context-sensitive 
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -729,142 +729,142 @@ Just-in-time support represents a shift from static advice to context-sensitive 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5364076/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5364076/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Just-in-Time Adaptive Interventions (JITAIs) in Mobile Healthby I Nahum-Shani · 2017 · Cited by 2547 — JITAI is an intervention design...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5364076/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5364076/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Just-in-Time Adaptive Interventions (JITAIs) in Mobile Healthby I Nahum-Shani · 2017 · Cited by 2547 — JITAI is an intervention design...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/nature-index/topics/l4/just-in-time-adaptive-interventions-in-health-behavior-change" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/just-in-time-adaptive-interventions-in-health-behavior-change</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>delivers tailored assistance at moments of high need by adapting intervention...Read more...</p></details>
+   Link:<a href="https://www.nature.com/nature-index/topics/l4/just-in-time-adaptive-interventions-in-health-behavior-change" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/just-in-time-adaptive-interventions-in-health-behavior-change</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>delivers tailored assistance at moments of high need by adapting intervention...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCJust-in-Time Adaptive Intervention to Promote Walking  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12824576/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12824576/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by CJ Firkin · 2026 · Cited by 1 — This paper outlines the application architecture and protocol for the pilot “Walking With Just-in-T...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12824576/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12824576/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by CJ Firkin · 2026 · Cited by 1 — This paper outlines the application architecture and protocol for the pilot “Walking With Just-in-T...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: people.seas.harvard.edu  
-   Link: <a href="https://people.seas.harvard.edu/~samurphy/JITAI_MRT/jitai.html" target="_blank" rel="noopener noreferrer nofollow">https://people.seas.harvard.edu/~samurphy/JITAI_MRT/jitai.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard SEASjust-in-time adaptive interventions (JITAIs)Just-in-time adaptive interventions (JITAIs) are a special type of adaptive inter...</p></details>
+   Link:<a href="https://people.seas.harvard.edu/~samurphy/JITAI_MRT/jitai.html" target="_blank" rel="noopener noreferrer nofollow">https://people.seas.harvard.edu/~samurphy/JITAI_MRT/jitai.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard SEASjust-in-time adaptive interventions (JITAIs)Just-in-time adaptive interventions (JITAIs) are a special type of adaptive inter...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCReturn of the JITAI: Applying a Just-in-Time Adaptive  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5870794/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5870794/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by SP Goldstein · 2017 · Cited by 131 — Just-in-time adaptive intervention (JITAI) is an intervention design framework that could be d...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5870794/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5870794/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by SP Goldstein · 2017 · Cited by 131 — Just-in-time adaptive intervention (JITAI) is an intervention design framework that could be d...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1186/s12966-019-0792-7" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12966-019-0792-7</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Consistent use and a shared definition...Read more...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1186/s12966" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12966</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Consistent use and a shared definition...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: jmir.org  
-   Link: <a href="https://www.jmir.org/2026/1/e72830" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2026/1/e72830</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Twins for Just-in-Time Adaptive Interventions (JITAIs)Mar 6, 2026 — In the context of digital health, just-in-time adaptive i...</p></details>
+   Link:<a href="https://www.jmir.org/2026/1/e72830" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2026/1/e72830</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Twins for Just-in-Time Adaptive Interventions (JITAIs)Mar 6, 2026 — In the context of digital health, just-in-time adaptive i...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: mentalhealth.bmj.com  
-   Link: <a href="https://mentalhealth.bmj.com/content/28/1/e301641" target="_blank" rel="noopener noreferrer nofollow">https://mentalhealth.bmj.com/content/28/1/e301641</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BMJ Mental HealthEffectiveness of just-in-time adaptive interventions for...by U von Lützow · 2025 · Cited by 6 — Our review advances pr...</p></details>
+   Link:<a href="https://mentalhealth.bmj.com/content/28/1/e301641" target="_blank" rel="noopener noreferrer nofollow">https://mentalhealth.bmj.com/content/28/1/e301641</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BMJ Mental HealthEffectiveness of just-in-time adaptive interventions for...by U von Lützow · 2025 · Cited by 6 — Our review advances pr...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/27663578/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/27663578/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Just-in-Time Adaptive Interventions (JITAIs) in Mobile Healthby I Nahum-Shani · 2018 · Cited by 2542 — JITAI is an intervention des...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/27663578/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/27663578/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Just-in-Time Adaptive Interventions (JITAIs) in Mobile Healthby I Nahum-Shani · 2018 · Cited by 2542 — JITAI is an intervention des...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchprotocols.org  
-   Link: <a href="https://www.researchprotocols.org/2026/1/e79022" target="_blank" rel="noopener noreferrer nofollow">https://www.researchprotocols.org/2026/1/e79022</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>JMIR Research ProtocolsJust-in-Time Adaptive Intervention to Promote Walking...by CJ Firkin · 2026 · Cited by 1 — Background: A Just-in...</p></details>
+   Link:<a href="https://www.researchprotocols.org/2026/1/e79022" target="_blank" rel="noopener noreferrer nofollow">https://www.researchprotocols.org/2026/1/e79022</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JMIR Research ProtocolsJust-in-Time Adaptive Intervention to Promote Walking...by CJ Firkin · 2026 · Cited by 1 — Background: A Just-in...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: annualreviews.org  
-   Link: <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-psych-121024-044244" target="_blank" rel="noopener noreferrer nofollow">https://www.annualreviews.org/content/journals/10.1146/annurev-psych-121024-044244</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Just-in-Time Adaptive Interventions: Where Are We Now...by I Nahum-Shani · Cited by 12 — The past decade has seen a surge in developing...</p></details>
+   Link:<a href="https://www.annualreviews.org/content/journals/10.1146/annurev-psych-121024-044244" target="_blank" rel="noopener noreferrer nofollow">https://www.annualreviews.org/content/journals/10.1146/annurev-psych-121024-044244</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Just-in-Time Adaptive Interventions: Where Are We Now...by I Nahum-Shani · Cited by 12 — The past decade has seen a surge in developing...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/30943983/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/30943983/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A systematic review of just-in-time adaptive interventions...by W Hardeman · 2019 · Cited by 434 — We conducted a systematic revie...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/30943983/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/30943983/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A systematic review of just-in-time adaptive interventions...by W Hardeman · 2019 · Cited by 434 — We conducted a systematic revie...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: annualreviews.org  
    Title: annurev publhealth 071723 103909  
-   Link: <a href="https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-071723-103909" target="_blank" rel="noopener noreferrer nofollow">https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-071723-103909</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Advancing Public Health Through Just-in-Time Adaptive...by NH Zainal · 2025 · Cited by 41 — This review explores the transformative pote...</p></details>
+   Link:<a href="https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-071723-103909" target="_blank" rel="noopener noreferrer nofollow">https://www.annualreviews.org/content/journals/10.1146/annurev-publhealth-071723-103909</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Advancing Public Health Through Just-in-Time Adaptive...by NH Zainal · 2025 · Cited by 41 — This review explores the transformative pote...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1460167/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1460167/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersBeyond the current state of just-in-time adaptive...by CR van Genugten · 2025 · Cited by 36 — This review evaluates the current...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1460167/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1460167/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersBeyond the current state of just-in-time adaptive...by CR van Genugten · 2025 · Cited by 36 — This review evaluates the current...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: research-portal.uea.ac.uk  
    Title: a systematic review of just in time adaptive interventions jitais  
-   Link: <a href="https://research-portal.uea.ac.uk/en/publications/a-systematic-review-of-just-in-time-adaptive-interventions-jitais/" target="_blank" rel="noopener noreferrer nofollow">https://research-portal.uea.ac.uk/en/publications/a-systematic-review-of-just-in-time-adaptive-interventions-jitais/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We found mixed evidence for intervention effects on behaviour, but no study was sufficiently...Read more...</p></details>
+   Link:<a href="https://research-portal.uea.ac.uk/en/publications/a-systematic-review-of-just-in-time-adaptive-interventions-jitais/" target="_blank" rel="noopener noreferrer nofollow">https://research-portal.uea.ac.uk/en/publications/a-systematic-review-of-just-in-time-adaptive-interventions-jitais/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We found mixed evidence for intervention effects on behaviour, but no study was sufficiently...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/just" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/just</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English [meaning](&amp;#123;&amp;#123; &#x27;meaning/&#x27; | relative_url &amp;#125;&amp;#125;) - Cambridge DictionaryJUST definition: 1. now, very soon, or very recently: 2. a very short time ago: 3. at the present...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/just" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/just</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English [meaning](&amp;#123;&amp;#123; &#x27;meaning/&#x27; | relative_url &amp;#125;&amp;#125;) - Cambridge DictionaryJUST definition: 1. now, very soon, or very recently: 2. a very short time ago: 3. at the present...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nimh.nih.gov  
-   Link: <a href="https://www.nimh.nih.gov/funding/grant-writing-and-application-process/concept-clearances/2021/just-in-time-adaptive-interventions-to-optimize-adolescent-mental-health-treatments" target="_blank" rel="noopener noreferrer nofollow">https://www.nimh.nih.gov/funding/grant-writing-and-application-process/concept-clearances/2021/just-in-time-adaptive-interventions-to-optimize-adolescent-mental-health-treatments</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of Mental HealthJust-in-Time Adaptive Interventions to Optimize Adolescent...May 18, 2021 — While JITAI augmentations...</p></details>
+   Link:<a href="https://www.nimh.nih.gov/funding/grant-writing-and-application-process/concept-clearances/2021/just-in-time-adaptive-interventions-to-optimize-adolescent-mental-health-treatments" target="_blank" rel="noopener noreferrer nofollow">https://www.nimh.nih.gov/funding/grant-writing-and-application-process/concept-clearances/2021/just-in-time-adaptive-interventions-to-optimize-adolescent-mental-health-treatments</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of Mental HealthJust-in-Time Adaptive Interventions to Optimize Adolescent...May 18, 2021 — While JITAI augmentations...</p></details>
    Published: May 18, 2021  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/308535769_Just-in-Time_Adaptive_Interventions_JITAIs_in_Mobile_Health_Key_Components_and_Design_Principles_for_Ongoing_Health_Behavior_Support" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/308535769_Just-in-Time_Adaptive_Interventions_JITAIs_in_Mobile_Health_Key_Components_and_Design_Principles_for_Ongoing_Health_Behavior_Support</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Just-in-Time Adaptive Interventions (JITAIs) in Mobile Health12 Dec 2017 — Background The just-in-time adaptive intervention (JITAI) is a...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/308535769_Just-in-Time_Adaptive_Interventions_JITAIs_in_Mobile_Health_Key_Components_and_Design_Principles_for_Ongoing_Health_Behavior_Support" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/308535769_Just-in-Time_Adaptive_Interventions_JITAIs_in_Mobile_Health_Key_Components_and_Design_Principles_for_Ongoing_Health_Behavior_Support</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Just-in-Time Adaptive Interventions (JITAIs) in Mobile Health12 Dec 2017 — Background The just-in-time adaptive intervention (JITAI) is a...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: gojust.com  
-   Link: <a href="https://www.gojust.com/about-justfx" target="_blank" rel="noopener noreferrer nofollow">https://www.gojust.com/about-justfx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Just Technologies AS | About JustJust creates software solutions to transform how corporate treasurers globally manage FX, connecting bus...</p></details>
+   Link:<a href="https://www.gojust.com/about-justfx" target="_blank" rel="noopener noreferrer nofollow">https://www.gojust.com/about-justfx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Just Technologies AS | About JustJust creates software solutions to transform how corporate treasurers globally manage FX, connecting bus...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/332205632_A_systematic_review_of_just-in-time_adaptive_interventions_JITAIs_to_promote_physical_activity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/332205632_A_systematic_review_of_just-in-time_adaptive_interventions_JITAIs_to_promote_physical_activity</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sical activity and other health behaviors when interventions are triggered at moments...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/332205632_A_systematic_review_of_just-in-time_adaptive_interventions_JITAIs_to_promote_physical_activity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/332205632_A_systematic_review_of_just-in-time_adaptive_interventions_JITAIs_to_promote_physical_activity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sical activity and other health behaviors when interventions are triggered at moments...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: blogs.ucl.ac.uk  
    Title: just in time adaptive interventions jitais are not self help  
-   Link: <a href="https://blogs.ucl.ac.uk/cbc-digi-hub-blog/2018/06/15/just-in-time-adaptive-interventions-jitais-are-not-self-help/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.ucl.ac.uk/cbc-digi-hub-blog/2018/06/15/just-in-time-adaptive-interventions-jitais-are-not-self-help/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ucl.ac.ukJust-In-Time Adaptive Interventions (JITAIs) are not self-help15 Jun 2018 — The intervention aims to provide behavioural support...</p></details>
+   Link:<a href="https://blogs.ucl.ac.uk/cbc-digi-hub-blog/2018/06/15/just-in-time-adaptive-interventions-jitais-are-not-self-help/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.ucl.ac.uk/cbc-digi-hub-blog/2018/06/15/just-in-time-adaptive-interventions-jitais-are-not-self-help/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ucl.ac.ukJust-In-Time Adaptive Interventions (JITAIs) are not self-help15 Jun 2018 — The intervention aims to provide behavioural support...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ovid.com  
-   Link: <a href="https://www.ovid.com/journals/anrp/fulltext/10.1146/annurev-psych-121024-044244~just-in-time-adaptive-interventions-where-are-we-now-and" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/anrp/fulltext/10.1146/annurev-psych-121024-044244~just-in-time-adaptive-interventions-where-are-we-now-and</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Just-in-Time Adaptive Interventions: Where Are We...by I Nahum-Shani · 2026 · Cited by 12 — A JITAI is an intervention design that gu...</p></details>
+   Link:<a href="https://www.ovid.com/journals/anrp/fulltext/10.1146/annurev-psych-121024-044244~just-in-time-adaptive-interventions-where-are-we-now-and" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/anrp/fulltext/10.1146/annurev-psych-121024-044244~just-in-time-adaptive-interventions-where-are-we-now-and</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Just-in-Time Adaptive Interventions: Where Are We...by I Nahum-Shani · 2026 · Cited by 12 — A JITAI is an intervention design that gu...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: expiwell.com  
-   Link: <a href="https://www.expiwell.com/post/cutting-edge-applications-of-just-in-time-adaptive-interventions" target="_blank" rel="noopener noreferrer nofollow">https://www.expiwell.com/post/cutting-edge-applications-of-just-in-time-adaptive-interventions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Just-in-Time Adaptive Interventions in EMA ResearchTimely Intervention Delivery: JITAI can deliver interventions precisely when they&#x27;re n...</p></details>
+   Link:<a href="https://www.expiwell.com/post/cutting-edge-applications-of-just-in-time-adaptive-interventions" target="_blank" rel="noopener noreferrer nofollow">https://www.expiwell.com/post/cutting-edge-applications-of-just-in-time-adaptive-interventions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Just-in-Time Adaptive Interventions in EMA ResearchTimely Intervention Delivery: JITAI can deliver interventions precisely when they&#x27;re n...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=dxz7b5oMxWU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dxz7b5oMxWU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Develop Effective Just-in-Time Adaptive Interventions: From Proof-of-Concept to Optimization Studies...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dxz7b5oMxWU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dxz7b5oMxWU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Develop Effective Just-in-Time Adaptive Interventions: From Proof-of-Concept to Optimization Studies...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: merriam-webster.com  
    Title: JUS T Definition & Meaning5 days ago — 1  
-   Link: <a href="https://www.merriam-webster.com/dictionary/just" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/just</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a: having a basis in or conforming to fact or reason: reasonable had just reason to believe he was in danger b: conforming to a standa...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/just" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/just</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a: having a basis in or conforming to fact or reason: reasonable had just reason to believe he was in danger b: conforming to a standa...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: open.spotify.com  
    Title: 4mjdb GMiq ISKAgpsy F1Qv N  
-   Link: <a href="https://open.spotify.com/track/4mjdbGMiqISKAgpsyF1QvN" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/track/4mjdbGMiqISKAgpsyF1QvN</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>song and lyrics by Just MusicLyrics. Yo truck music 난 고딩 때로 돌아왔네. 철없는 수준은 루피보다 더 용감하게. 이제 똥인지 된장인지는 분간 못하지. 나는 개념이 없이 너무 커버린 우량아이.Read more...</p></details>
+   Link:<a href="https://open.spotify.com/track/4mjdbGMiqISKAgpsyF1QvN" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/track/4mjdbGMiqISKAgpsyF1QvN</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>song and lyrics by Just MusicLyrics. Yo truck music 난 고딩 때로 돌아왔네. 철없는 수준은 루피보다 더 용감하게. 이제 똥인지 된장인지는 분간 못하지. 나는 개념이 없이 너무 커버린 우량아이.Read more...</p></details>

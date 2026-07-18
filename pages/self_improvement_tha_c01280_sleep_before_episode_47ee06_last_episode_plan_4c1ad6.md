@@ -277,13 +277,13 @@ image: /assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_la
 Choosing the last episode before you start watching is a simple form of pre-commitment: you decide the stopping point while you are alert rather than asking your tired evening self to negotiate later. Within the broader goal of sleeping before the next episode, this small decision changes the structure of the evening. Instead of an open-ended viewing session that ends only when [motivation]({{ 'motivation/' | relative_url }}) runs out, it becomes a planned activity with a defined finish line.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_last_episode_plan_4c1ad6-Illustration-1-dark.svg" | relative_url }}" alt="Last Episode illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_last_episode_plan_4c1ad6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_last_episode_plan_4c1ad6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The value of this approach is not that it increases [willpower]({{ 'willpower/' | relative_url }}). It reduces the need for willpower at the moment when it is least reliable. Research on self-control consistently finds that changing the situation in advance is often more effective than relying on in-the-moment resistance. Situational strategies work because they prevent a conflict from becoming a live battle in the first place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4736542/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Situational Strategies for Self-Control</span><span class="citation-popover-snippet">PubMed CentralSituational Strategies for Self-Control - PMC - NIHby AL Duckworth · 2016 · Cited by 828 — Because impulses tend to grow st...</span></span></span>
+The value of this approach is not that it increases [willpower]({{ 'willpower/' | relative_url }}). It reduces the need for willpower at the moment when it is least reliable. Research on self-control consistently finds that changing the situation in advance is often more effective than relying on in-the-moment resistance. Situational strategies work because they prevent a conflict from becoming a live battle in the first place.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4736542/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Situational Strategies for Self-Control</span><span class="citation-popover-snippet">PubMed CentralSituational Strategies for Self-Control - PMC - NIHby AL Duckworth · 2016 · Cited by 828 — Because impulses tend to grow st...</span></span></span>
 
 ## Why Late Decisions Are Unfair
 
 The decision to stop watching rarely happens under ideal conditions. It arrives after one episode has already created emotional investment, curiosity and momentum. At that point, continuing feels easier than stopping.
 
-Research on binge viewing suggests that the problem is not simply screen exposure. Frequent binge viewing has been associated with poorer sleep quality, greater fatigue and more insomnia symptoms, with cognitive pre-sleep arousal—ongoing mental activation and engagement with the story—helping explain the relationship. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4736542/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Situational Strategies for Self-Control</span><span class="citation-popover-snippet">PubMed CentralSituational Strategies for Self-Control - PMC - NIHby AL Duckworth · 2016 · Cited by 828 — Because impulses tend to grow st...</span></span></span>
+Research on binge viewing suggests that the problem is not simply screen exposure. Frequent binge viewing has been associated with poorer sleep quality, greater fatigue and more insomnia symptoms, with cognitive pre-sleep arousal—ongoing mental activation and engagement with the story—helping explain the relationship.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4736542/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Situational Strategies for Self-Control</span><span class="citation-popover-snippet">PubMed CentralSituational Strategies for Self-Control - PMC - NIHby AL Duckworth · 2016 · Cited by 828 — Because impulses tend to grow st...</span></span></span>
 
 This matters because the question asked at midnight is different from the question asked at 8 p.m.
 
@@ -307,7 +307,7 @@ At midnight, after a cliffhanger:
 
 </div>
 
-Behavioural research on self-control and time-inconsistent preferences describes a similar pattern: people often prefer long-term goals in advance but switch toward [immediate rewards]({{ 'immediate-rewards/' | relative_url }}) when the moment of choice arrives. Pre-commitment strategies exist precisely because people recognise this predictable shift. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cmu.edu/dietrich/sds/docs/loewenstein/TimeInconsistConSelf.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cmu.edu">[Carnegie Mellon University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cmu.edu</span><span class="citation-popover-snippet">Carnegie Mellon UniversityTime-inconsistent preferences and consumer self-control.March 13, 2009 — by SJ HOCH · Cited by 2530 — Tactics t...</span><span class="citation-popover-meta">Published: March 13, 2009</span></span></span>
+Behavioural research on self-control and time-inconsistent preferences describes a similar pattern: people often prefer long-term goals in advance but switch toward [immediate rewards]({{ 'immediate-rewards/' | relative_url }}) when the moment of choice arrives. Pre-commitment strategies exist precisely because people recognise this predictable shift.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cmu.edu/dietrich/sds/docs/loewenstein/TimeInconsistConSelf.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cmu.edu">[Carnegie Mellon University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cmu.edu</span><span class="citation-popover-snippet">Carnegie Mellon UniversityTime-inconsistent preferences and consumer self-control.March 13, 2009 — by SJ HOCH · Cited by 2530 — Tactics t...</span><span class="citation-popover-meta">Published: March 13, 2009</span></span></span>
 
 Picking the final episode beforehand removes the need to make a fresh decision in the most biased part of the evening.
 
@@ -326,7 +326,7 @@ Instead of deciding to “watch a bit”, decide exactly where the session ends:
 
 </div>
 
-Specific commitments tend to work better than vague intentions because they convert a future decision into a present one. Research on implementation intentions—concrete if-then plans—shows that specifying behaviour in advance can improve follow-through on goals, including efforts aimed at reducing bedtime procrastination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/31403339/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">In both studies this corresponded to a reduction in the...Read more...</span></span></span>
+Specific commitments tend to work better than vague intentions because they convert a future decision into a present one. Research on implementation intentions—concrete if-then plans—shows that specifying behaviour in advance can improve follow-through on goals, including efforts aimed at reducing bedtime procrastination.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/31403339/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">In both studies this corresponded to a reduction in the...Read more...</span></span></span>
 
 A useful test is whether someone else could tell when the session is supposed to end. If the answer is yes, the boundary is probably clear enough.
 
@@ -347,7 +347,7 @@ A stronger version is to make the stopping point explicit:
 
 </div>
 
-These actions sound minor, but they transform a private wish into a concrete commitment. Commitment devices are widely studied because they create friction against impulsive changes of plan later on. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/journals/features/psp-pspa0000385.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-title">psp pspa0000385</span><span class="citation-popover-snippet">Across seven studies (and two supplemental studies)...</span></span></span>
+These actions sound minor, but they transform a private wish into a concrete commitment. Commitment devices are widely studied because they create friction against impulsive changes of plan later on.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/journals/features/psp-pspa0000385.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-title">psp pspa0000385</span><span class="citation-popover-snippet">Across seven studies (and two supplemental studies)...</span></span></span>
 
 ### Choose the End Before the Story Begins
 
@@ -368,7 +368,7 @@ The difficulty is that bedtime arrives while the viewing session is still active
 
 An episode boundary changes the decision architecture. The stopping cue becomes part of the entertainment activity itself. The end of the planned episode signals completion rather than interruption.
 
-This distinction matters because habits often follow [defaults]({{ 'defaults/' | relative_url }}). Streaming platforms commonly include [autoplay]({{ 'autoplay/' | relative_url }}) features that make continuation the path of least resistance. Major streaming services provide settings to disable automatic playback because autoplay materially changes viewing behaviour by reducing the need for an active choice to continue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://help.netflix.com/en/node/121518" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.netflix.com">[Netflix Help Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.netflix.com</span><span class="citation-popover-snippet">Netflix Help CenterHow to autoplay the next episodeUsing a browser, go to your Account page. · Select Profiles, then choose a profile. ·...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/5779505/netflix-autoplay-video-disable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">You Can Finally Stop Netflix From Autoplaying Videos</span><span class="citation-popover-snippet">Here&#x27;s HowUsers can now disable Netflix&#x27;s autoplay feature for video previews, which was often seen as annoying when browsing for shows...</span></span></span>
+This distinction matters because habits often follow [defaults]({{ 'defaults/' | relative_url }}). Streaming platforms commonly include [autoplay]({{ 'autoplay/' | relative_url }}) features that make continuation the path of least resistance. Major streaming services provide settings to disable automatic playback because autoplay materially changes viewing behaviour by reducing the need for an active choice to continue.<span class="citation-chip-wrap"><a class="citation-chip" href="https://help.netflix.com/en/node/121518" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.netflix.com">[Netflix Help Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.netflix.com</span><span class="citation-popover-snippet">Netflix Help CenterHow to autoplay the next episodeUsing a browser, go to your Account page. · Select Profiles, then choose a profile. ·...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/5779505/netflix-autoplay-video-disable/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-title">You Can Finally Stop Netflix From Autoplaying Videos</span><span class="citation-popover-snippet">Here&#x27;s HowUsers can now disable Netflix&#x27;s autoplay feature for video previews, which was often seen as annoying when browsing for shows...</span></span></span>
 
 A predetermined final episode works especially well when combined with disabling autoplay. The boundary and the technology reinforce each other:
 
@@ -404,10 +404,10 @@ Some viewers benefit from a second boundary.
 
 For example:
 
-* Planned stop: episode 3. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techadvisor.com/article/730080/how-to-stop-netflix-autoplay-previews-and-next-episode.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techadvisor.com">[techadvisor.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techadvisor.com</span><span class="citation-popover-title">how to stop netflix autoplay previews and next episode</span><span class="citation-popover-snippet">How To Stop Netflix Autoplay: Previews &amp; Next Episode7 Feb 2020 — Stop Netflix autoplay previews · Once you&#x27;ve logged in, use the menu in...</span></span></span>
+* Planned stop: episode 3.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techadvisor.com/article/730080/how-to-stop-netflix-autoplay-previews-and-next-episode.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techadvisor.com">[techadvisor.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techadvisor.com</span><span class="citation-popover-title">how to stop netflix autoplay previews and next episode</span><span class="citation-popover-snippet">How To Stop Netflix Autoplay: Previews &amp; Next Episode7 Feb 2020 — Stop Netflix autoplay previews · Once you&#x27;ve logged in, use the menu in...</span></span></span>
 * Absolute maximum: episode 4.
 
-This creates a buffer for occasional slippage while still protecting sleep. Behavioural research on self-control suggests that people often perform better when [limits]({{ 'limits/' | relative_url }}) are established before temptation appears rather than during it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4736542/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Situational Strategies for Self-Control</span><span class="citation-popover-snippet">PubMed CentralSituational Strategies for Self-Control - PMC - NIHby AL Duckworth · 2016 · Cited by 828 — Because impulses tend to grow st...</span></span></span>
+This creates a buffer for occasional slippage while still protecting sleep. Behavioural research on self-control suggests that people often perform better when [limits]({{ 'limits/' | relative_url }}) are established before temptation appears rather than during it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4736542/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Situational Strategies for Self-Control</span><span class="citation-popover-snippet">PubMed CentralSituational Strategies for Self-Control - PMC - NIHby AL Duckworth · 2016 · Cited by 828 — Because impulses tend to grow st...</span></span></span>
 
 ### Learn From Repeated Failures
 
@@ -422,7 +422,7 @@ Common adjustments include:
 * Starting the series earlier in the evening.
 * Choosing one episode instead of two.
 * Avoiding the final episode of a season close to bedtime.
-* Turning off autoplay before starting the session. <span class="citation-chip-wrap"><a class="citation-chip" href="https://help.netflix.com/en/node/121518" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.netflix.com">[Netflix Help Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.netflix.com</span><span class="citation-popover-snippet">Netflix Help CenterHow to autoplay the next episodeUsing a browser, go to your Account page. · Select Profiles, then choose a profile. ·...</span></span></span>
+* Turning off autoplay before starting the session.<span class="citation-chip-wrap"><a class="citation-chip" href="https://help.netflix.com/en/node/121518" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.netflix.com">[Netflix Help Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.netflix.com</span><span class="citation-popover-snippet">Netflix Help CenterHow to autoplay the next episodeUsing a browser, go to your Account page. · Select Profiles, then choose a profile. ·...</span></span></span>
 
 </div>
 
@@ -437,194 +437,194 @@ Choosing the last episode in advance looks trivial because it takes only a few s
 A pre-chosen final episode turns viewing from an open-ended activity into a scheduled one. Instead of asking, “Should I watch one more?” after every ending, the answer already exists. That shift—from deciding late to deciding early—is often the difference between intending to sleep and actually getting there.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Pick the Last Episode Before You Start. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Pick the Last Episode Before You Start. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Pre-commitment and environmental design align closely with deciding a stopping point in advance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Pre-commitment and environmental design align closely with deciding a stopping point in advance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why We Sleep on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZlU3DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why We Sleep" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why We Sleep">Why We Sleep</a>
-        </h4>
-        <p class="fr-book-author">By Matthew Walker</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why We Sleep on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZlU3DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why We Sleep" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why We Sleep">Why We Sleep</a>
+</h4>
+<p class="fr-book-author">By Matthew Walker</p>
         
-        <p class="fr-book-desc">Provides strong motivation for protecting bedtime through planning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides strong motivation for protecting bedtime through planning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
-        </h4>
-        <p class="fr-book-author">By B. J. Fogg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
+</h4>
+<p class="fr-book-author">By B. J. Fogg</p>
         
-        <p class="fr-book-desc">Supports building simple pre-planned behaviors that require less willpower.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports building simple pre-planned behaviors that require less willpower.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
-        </h4>
-        <p class="fr-book-author">By Charles Duhigg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
+</h4>
+<p class="fr-book-author">By Charles Duhigg</p>
         
-        <p class="fr-book-desc">Explains how routines and cues influence repeated behaviors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how routines and cues influence repeated behaviors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+We+Sleep&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why We Sleep</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+We+Sleep&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why We Sleep</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 60-Minute Visual Timer- Clock Timer For Kids Perfect Time Management Tools"><img src="https://i.ebayimg.com/images/g/cJsAAeSw5GFps-cn/s-l225.jpg" alt="Listing image for 60-Minute Visual Timer- Clock Timer For Kids Perfect Time Management Tools" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" target="_blank" rel="sponsored noopener noreferrer">60-Minute Visual Timer- Clock Timer For Kids Perfect Time Management Tools</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for visual timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: visual timer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 60-Minute Visual Timer- Clock Timer For Kids Perfect Time Management Tools"><img src="https://i.ebayimg.com/images/g/cJsAAeSw5GFps-cn/s-l225.jpg" alt="Listing image for 60-Minute Visual Timer- Clock Timer For Kids Perfect Time Management Tools" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" target="_blank" rel="sponsored noopener noreferrer">60-Minute Visual Timer- Clock Timer For Kids Perfect Time Management Tools</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for visual timer">Search<span data-ebay-domain-label>eBay.co.uk</span>: visual timer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 60 Minutes Visual Analog Timer Countdown Clock Time Management Kid &amp; Adult Tool"><img src="https://i.ebayimg.com/images/g/EKMAAeSwqZVp6zFr/s-l225.jpg" alt="Listing image for 60 Minutes Visual Analog Timer Countdown Clock Time Management Kid &amp; Adult Tool" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" target="_blank" rel="sponsored noopener noreferrer">60 Minutes Visual Analog Timer Countdown Clock Time Management Kid &amp; Adult Tool</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for visual timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: visual timer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 60 Minutes Visual Analog Timer Countdown Clock Time Management Kid &amp; Adult Tool"><img src="https://i.ebayimg.com/images/g/EKMAAeSwqZVp6zFr/s-l225.jpg" alt="Listing image for 60 Minutes Visual Analog Timer Countdown Clock Time Management Kid &amp; Adult Tool" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" target="_blank" rel="sponsored noopener noreferrer">60 Minutes Visual Analog Timer Countdown Clock Time Management Kid &amp; Adult Tool</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for visual timer">Search<span data-ebay-domain-label>eBay.co.uk</span>: visual timer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Visual Timer 60 Minute Countdown Digital Silent Timer Time Management Tool"><img src="https://i.ebayimg.com/images/g/AlkAAeSwFCdp4SxC/s-l225.jpg" alt="Listing image for Visual Timer 60 Minute Countdown Digital Silent Timer Time Management Tool" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" target="_blank" rel="sponsored noopener noreferrer">Visual Timer 60 Minute Countdown Digital Silent Timer Time Management Tool</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for visual timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: visual timer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Visual Timer 60 Minute Countdown Digital Silent Timer Time Management Tool"><img src="https://i.ebayimg.com/images/g/AlkAAeSwFCdp4SxC/s-l225.jpg" alt="Listing image for Visual Timer 60 Minute Countdown Digital Silent Timer Time Management Tool" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" target="_blank" rel="sponsored noopener noreferrer">Visual Timer 60 Minute Countdown Digital Silent Timer Time Management Tool</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for visual timer">Search<span data-ebay-domain-label>eBay.co.uk</span>: visual timer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Visual Countdown Timer with Night Light 60-Minute Pomodoro Timer for Kids/Cookin"><img src="https://i.ebayimg.com/images/g/uSIAAeSwFjVpX3IV/s-l225.jpg" alt="Listing image for Visual Countdown Timer with Night Light 60-Minute Pomodoro Timer for Kids/Cookin" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" target="_blank" rel="sponsored noopener noreferrer">Visual Countdown Timer with Night Light 60-Minute Pomodoro Timer for Kids/Cookin</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for visual timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: visual timer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Visual Countdown Timer with Night Light 60-Minute Pomodoro Timer for Kids/Cookin"><img src="https://i.ebayimg.com/images/g/uSIAAeSwFjVpX3IV/s-l225.jpg" alt="Listing image for Visual Countdown Timer with Night Light 60-Minute Pomodoro Timer for Kids/Cookin" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" target="_blank" rel="sponsored noopener noreferrer">Visual Countdown Timer with Night Light 60-Minute Pomodoro Timer for Kids/Cookin</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for visual timer">Search<span data-ebay-domain-label>eBay.co.uk</span>: visual timer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=visual+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pick-the-last-episode-before-you-start-visual-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="visual timer" data-ebay-reference="pick-the-last-episode-before-you-start-visual-timer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -640,7 +640,7 @@ A pre-chosen final episode turns viewing from an open-ended activity into a sche
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -660,7 +660,7 @@ A pre-chosen final episode turns viewing from an open-ended activity into a sche
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -692,7 +692,7 @@ A pre-chosen final episode turns viewing from an open-ended activity into a sche
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -744,7 +744,7 @@ A pre-chosen final episode turns viewing from an open-ended activity into a sche
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -789,7 +789,7 @@ A pre-chosen final episode turns viewing from an open-ended activity into a sche
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -830,123 +830,123 @@ A pre-chosen final episode turns viewing from an open-ended activity into a sche
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: help.netflix.com  
-   Link: <a href="https://help.netflix.com/en/node/121518" target="_blank" rel="noopener noreferrer nofollow">https://help.netflix.com/en/node/121518</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Netflix Help CenterHow to autoplay the next episodeUsing a browser, go to your Account page. · Select Profiles, then choose a profile. ·...</p></details>
+   Link:<a href="https://help.netflix.com/en/node/121518" target="_blank" rel="noopener noreferrer nofollow">https://help.netflix.com/en/node/121518</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Netflix Help CenterHow to autoplay the next episodeUsing a browser, go to your Account page. · Select Profiles, then choose a profile. ·...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: time.com  
    Title: You Can Finally Stop Netflix From Autoplaying Videos  
-   Link: <a href="https://time.com/5779505/netflix-autoplay-video-disable/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5779505/netflix-autoplay-video-disable/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s HowUsers can now disable Netflix&#x27;s autoplay feature for video previews, which was often seen as annoying when browsing for shows...</p></details>
+   Link:<a href="https://time.com/5779505/netflix-autoplay-video-disable/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5779505/netflix-autoplay-video-disable/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s HowUsers can now disable Netflix&#x27;s autoplay feature for video previews, which was often seen as annoying when browsing for shows...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: help.netflix.com  
-   Link: <a href="https://help.netflix.com/en/node/114059" target="_blank" rel="noopener noreferrer nofollow">https://help.netflix.com/en/node/114059</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Netflix Help CenterWhy Netflix asks, &#x27;Are you still watching?To continue watching, you can dismiss the message or turn off autoplay of th...</p></details>
+   Link:<a href="https://help.netflix.com/en/node/114059" target="_blank" rel="noopener noreferrer nofollow">https://help.netflix.com/en/node/114059</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Netflix Help CenterWhy Netflix asks, &#x27;Are you still watching?To continue watching, you can dismiss the message or turn off autoplay of th...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: help.netflix.com  
-   Link: <a href="https://help.netflix.com/en/node/2102" target="_blank" rel="noopener noreferrer nofollow">https://help.netflix.com/en/node/2102</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>to turn preview autoplay on or offUsing a browser, go to your Account page. · Select Profiles, then choose a profile. · Select Playback s...</p></details>
+   Link:<a href="https://help.netflix.com/en/node/2102" target="_blank" rel="noopener noreferrer nofollow">https://help.netflix.com/en/node/2102</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to turn preview autoplay on or offUsing a browser, go to your Account page. · Select Profiles, then choose a profile. · Select Playback s...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: help.netflix.com  
-   Link: <a href="https://help.netflix.com/en/node/100365" target="_blank" rel="noopener noreferrer nofollow">https://help.netflix.com/en/node/100365</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>If your device has a power cable, unplug it. · Make sure your device is completely off, not just...Read more...</p></details>
+   Link:<a href="https://help.netflix.com/en/node/100365" target="_blank" rel="noopener noreferrer nofollow">https://help.netflix.com/en/node/100365</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>If your device has a power cable, unplug it. · Make sure your device is completely off, not just...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ni_EP-KL8ws" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ni_EP-KL8ws</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NETFLIX SYNDROME: Stop Binge-Watching; It&#x27;s Ruining Your Brain...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ni_EP-KL8ws" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ni_EP-KL8ws</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE NETFLIX SYNDROME: Stop Binge-Watching; It&#x27;s Ruining Your Brain...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Situational Strategies for Self-Control  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4736542/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4736542/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralSituational Strategies for Self-Control - PMC - NIHby AL Duckworth · 2016 · Cited by 828 — Because impulses tend to grow st...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4736542/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4736542/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralSituational Strategies for Self-Control - PMC - NIHby AL Duckworth · 2016 · Cited by 828 — Because impulses tend to grow st...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Binge Viewing, Sleep, and the Role of Pre-Sleep Arousal  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralBinge Viewing, Sleep, and the Role of Pre-Sleep Arousal - PMCby L Exelmans · 2017 · Cited by 288 — This study provides init...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralBinge Viewing, Sleep, and the Role of Pre-Sleep Arousal - PMCby L Exelmans · 2017 · Cited by 288 — This study provides init...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cmu.edu  
-   Link: <a href="https://www.cmu.edu/dietrich/sds/docs/loewenstein/TimeInconsistConSelf.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cmu.edu/dietrich/sds/docs/loewenstein/TimeInconsistConSelf.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Carnegie Mellon UniversityTime-inconsistent preferences and consumer self-control.March 13, 2009 — by SJ HOCH · Cited by 2530 — Tactics t...</p></details>
+   Link:<a href="https://www.cmu.edu/dietrich/sds/docs/loewenstein/TimeInconsistConSelf.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cmu.edu/dietrich/sds/docs/loewenstein/TimeInconsistConSelf.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Carnegie Mellon UniversityTime-inconsistent preferences and consumer self-control.March 13, 2009 — by SJ HOCH · Cited by 2530 — Tactics t...</p></details>
    Published: March 13, 2009  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: apa.org  
    Title: psp pspa0000385  
-   Link: <a href="https://www.apa.org/pubs/journals/features/psp-pspa0000385.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/journals/features/psp-pspa0000385.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Across seven studies (and two supplemental studies)...</p></details>
+   Link:<a href="https://www.apa.org/pubs/journals/features/psp-pspa0000385.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/journals/features/psp-pspa0000385.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Across seven studies (and two supplemental studies)...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/31403339/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31403339/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In both studies this corresponded to a reduction in the...Read more...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/31403339/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31403339/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In both studies this corresponded to a reduction in the...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: techadvisor.com  
    Title: how to stop netflix autoplay previews and next episode  
-   Link: <a href="https://www.techadvisor.com/article/730080/how-to-stop-netflix-autoplay-previews-and-next-episode.html" target="_blank" rel="noopener noreferrer nofollow">https://www.techadvisor.com/article/730080/how-to-stop-netflix-autoplay-previews-and-next-episode.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Stop Netflix Autoplay: Previews &amp; Next Episode7 Feb 2020 — Stop Netflix autoplay previews · Once you&#x27;ve logged in, use the menu in...</p></details>
+   Link:<a href="https://www.techadvisor.com/article/730080/how-to-stop-netflix-autoplay-previews-and-next-episode.html" target="_blank" rel="noopener noreferrer nofollow">https://www.techadvisor.com/article/730080/how-to-stop-netflix-autoplay-previews-and-next-episode.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How To Stop Netflix Autoplay: Previews &amp; Next Episode7 Feb 2020 — Stop Netflix autoplay previews · Once you&#x27;ve logged in, use the menu in...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/netflix/comments/shwz4o/is_there_a_way_to_turn_off_auto_play/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/netflix/comments/shwz4o/is_there_a_way_to_turn_off_auto_play/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is there a way to turn off auto play?: r/netflixThere is, but AFAIK you can only change the setting from the desktop version of their si...</p></details>
+   Link:<a href="https://www.reddit.com/r/netflix/comments/shwz4o/is_there_a_way_to_turn_off_auto_play/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/netflix/comments/shwz4o/is_there_a_way_to_turn_off_auto_play/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is there a way to turn off auto play?: r/netflixThere is, but AFAIK you can only change the setting from the desktop version of their si...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: assets.nextleap.app  
-   Link: <a href="https://assets.nextleap.app/submissions/GraduationProject-fae3f8df-d2ba-4e7d-a8c5-b645693531b8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.nextleap.app/submissions/GraduationProject-fae3f8df-d2ba-4e7d-a8c5-b645693531b8.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>for intentional engagement on InstagraReduces decision-making moments. Encourages passive binge viewing. Makes exiting less likel. Key ta...</p></details>
+   Link:<a href="https://assets.nextleap.app/submissions/GraduationProject-fae3f8df-d2ba-4e7d-a8c5-b645693531b8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.nextleap.app/submissions/GraduationProject-fae3f8df-d2ba-4e7d-a8c5-b645693531b8.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>for intentional engagement on InstagraReduces decision-making moments. Encourages passive binge viewing. Makes exiting less likel. Key ta...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: forbes.com  
    Title: heres how to finally turn off netflix autoplay previews and next episodes  
-   Link: <a href="https://www.forbes.com/sites/paultassi/2020/02/06/heres-how-to-finally-turn-off-netflix-autoplay-previews-and-next-episodes/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/paultassi/2020/02/06/heres-how-to-finally-turn-off-netflix-autoplay-previews-and-next-episodes/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On the Netflix site (best in a browser), go to “Manage Profiles” 2. Click on the Profile you want, and you&#x27;ll see two options as checkbox...</p></details>
+   Link:<a href="https://www.forbes.com/sites/paultassi/2020/02/06/heres-how-to-finally-turn-off-netflix-autoplay-previews-and-next-episodes/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/paultassi/2020/02/06/heres-how-to-finally-turn-off-netflix-autoplay-previews-and-next-episodes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On the Netflix site (best in a browser), go to “Manage Profiles” 2. Click on the Profile you want, and you&#x27;ll see two options as checkbox...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/Procrastination%2C-Deadlines%2C-and-Performance%3A-by-Ariely-Wertenbroch/f26fea4811b6c8e43db71b3c4028a9572cd12da6" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Procrastination%2C-Deadlines%2C-and-Performance%3A-by-Ariely-Wertenbroch/f26fea4811b6c8e43db71b3c4028a9572cd12da6</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behav. 2020. We study procrastination in the context of a field experiment involving students who must exert costly effort to complete ce...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/Procrastination%2C-Deadlines%2C-and-Performance%3A-by-Ariely-Wertenbroch/f26fea4811b6c8e43db71b3c4028a9572cd12da6" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Procrastination%2C-Deadlines%2C-and-Performance%3A-by-Ariely-Wertenbroch/f26fea4811b6c8e43db71b3c4028a9572cd12da6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behav. 2020. We study procrastination in the context of a field experiment involving students who must exert costly effort to complete ce...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
    Title: 318641198 Binge Viewing Sleep and the Role of Pre Sleep Arousal  
-   Link: <a href="https://www.researchgate.net/publication/318641198_Binge_Viewing_Sleep_and_the_Role_of_Pre-Sleep_Arousal" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/318641198_Binge_Viewing_Sleep_and_the_Role_of_Pre-Sleep_Arousal</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Binge Viewing, Sleep, and the Role of Pre-Sleep Arousal16 Aug 2017 — Higher binge viewing [frequency](&amp;#123;&amp;#123; &#x27;frequency/&#x27; | relative_url &amp;#125;&amp;#125;) was associated with a poorer sleep qu...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/318641198_Binge_Viewing_Sleep_and_the_Role_of_Pre-Sleep_Arousal" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/318641198_Binge_Viewing_Sleep_and_the_Role_of_Pre-Sleep_Arousal</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Binge Viewing, Sleep, and the Role of Pre-Sleep Arousal16 Aug 2017 — Higher binge viewing [frequency](&amp;#123;&amp;#123; &#x27;frequency/&#x27; | relative_url &amp;#125;&amp;#125;) was associated with a poorer sleep qu...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: essay.utwente.nl  
    Title: Ciroth BA Faculty of Behavioural, Management & Social Sciences  
-   Link: <a href="https://essay.utwente.nl/fileshare/file/81723/Ciroth_BA_Faculty%20of%20Behavioural%2C%20Management%20%26%20Social%20Sciences.pdf" target="_blank" rel="noopener noreferrer nofollow">https://essay.utwente.nl/fileshare/file/81723/Ciroth_BA_Faculty%20of%20Behavioural%2C%20Management%20%26%20Social%20Sciences.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>relation between bedtime procrastination and online...18 Mar 2026 — Another 20% reported having lost 4-5 hours of sleep that night due t...</p></details>
+   Link:<a href="https://essay.utwente.nl/fileshare/file/81723/Ciroth_BA_Faculty%20of%20Behavioural%2C%20Management%20%26%20Social%20Sciences.pdf" target="_blank" rel="noopener noreferrer nofollow">https://essay.utwente.nl/fileshare/file/81723/Ciroth_BA_Faculty%20of%20Behavioural%2C%20Management%20%26%20Social%20Sciences.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>relation between bedtime procrastination and online...18 Mar 2026 — Another 20% reported having lost 4-5 hours of sleep that night due t...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/311844509_Glued_to_the_Tube_The_Interplay_Between_Self-Control_Evening_Television_Viewing_and_Bedtime_Procrastination" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/311844509_Glued_to_the_Tube_The_Interplay_Between_Self-Control_Evening_Television_Viewing_and_Bedtime_Procrastination</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>iewing can partly explain the common struggle with bedtime, and (2) strong...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/311844509_Glued_to_the_Tube_The_Interplay_Between_Self-Control_Evening_Television_Viewing_and_Bedtime_Procrastination" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/311844509_Glued_to_the_Tube_The_Interplay_Between_Self-Control_Evening_Television_Viewing_and_Bedtime_Procrastination</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>iewing can partly explain the common struggle with bedtime, and (2) strong...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/662531447/Indistractable-by-Nir-Eyal" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/662531447/Indistractable-by-Nir-Eyal</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rent ways you can bring indistractable habits to your...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/662531447/Indistractable-by-Nir-Eyal" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/662531447/Indistractable-by-Nir-Eyal</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rent ways you can bring indistractable habits to your...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=VBEOpOWA_XA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VBEOpOWA_XA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Netflix automatically playing the next episode or previews on your iPhone? This beginner-friendly tutorial shows how to turn OFF Auto-Play...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VBEOpOWA_XA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VBEOpOWA_XA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Netflix automatically playing the next episode or previews on your iPhone? This beginner-friendly tutorial shows how to turn OFF Auto-Play...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: skemman.is  
-   Link: <a href="https://skemman.is/bitstream/1946/52120/1/NataliaJagielska_ML_lokaverk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skemman.is/bitstream/1946/52120/1/NataliaJagielska_ML_lokaverk.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>designing personal systems that integrate project.Read more...</p></details>
+   Link:<a href="https://skemman.is/bitstream/1946/52120/1/NataliaJagielska_ML_lokaverk.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skemman.is/bitstream/1946/52120/1/NataliaJagielska_ML_lokaverk.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>designing personal systems that integrate project.Read more...</p></details>

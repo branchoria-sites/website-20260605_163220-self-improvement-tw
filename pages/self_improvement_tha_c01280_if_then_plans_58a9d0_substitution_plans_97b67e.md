@@ -268,7 +268,7 @@ image: /assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_substitut
 
 ## Introduction
 
-When a craving appears, many people create a plan that sounds like resistance: “If I want a biscuit, I will not eat one.” The problem is that this leaves a behavioural vacuum. In the moment of temptation, the mind still wants something to do. Substitution plans work differently. They specify a concrete alternative: “If I want a biscuit with my afternoon tea, then I will eat fruit first,” or “If I want to check social media while working, then I will stand up and walk for two minutes.” The goal is not merely to suppress an unwanted action but to replace it with a more useful one. Research on implementation intentions and habit change suggests that linking a tempting cue to a specific alternative response can help people override habitual behaviours and improve follow-through on desired goals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0146167211399102" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsBreaking Habits With Implementation Intentions: A Test of...Implementation intentions specifying the replacement of a habit...</span></span></span>
+When a craving appears, many people create a plan that sounds like resistance: “If I want a biscuit, I will not eat one.” The problem is that this leaves a behavioural vacuum. In the moment of temptation, the mind still wants something to do. Substitution plans work differently. They specify a concrete alternative: “If I want a biscuit with my afternoon tea, then I will eat fruit first,” or “If I want to check social media while working, then I will stand up and walk for two minutes.” The goal is not merely to suppress an unwanted action but to replace it with a more useful one. Research on implementation intentions and habit change suggests that linking a tempting cue to a specific alternative response can help people override habitual behaviours and improve follow-through on desired goals.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0146167211399102" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsBreaking Habits With Implementation Intentions: A Test of...Implementation intentions specifying the replacement of a habit...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_substitution_plans_97b67e-Illustration-1-dark.svg" | relative_url }}" alt="Substitution illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_substitution_plans_97b67e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_substitution_plans_97b67e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within if-then planning, substitution is often the most practical response to recurring temptations because it gives the craving somewhere to go. Rather than arguing with the urge, the plan redirects it.
@@ -277,9 +277,9 @@ Within if-then planning, substitution is often the most practical response to re
 
 A craving is usually a signal to act. Telling yourself not to act often creates a struggle between intention and impulse. A substitution plan reduces that struggle by pre-deciding a different behaviour that can be launched automatically when the cue appears.
 
-Behaviour-change researchers describe substitution as replacing an unwanted behaviour with a desired one. The strategy is attractive because it does not ask people to leave the cue, need, or trigger completely unaddressed. Instead, it channels behaviour into a different response. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8009798/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInfluence of a Planning Intervention on Physical Activity</span><span class="citation-popover-snippet">by I Pfeffer · 2020 · Cited by 21 — There is evidence from several studies for the mediating role of action and coping planning cognit...</span></span></span>
+Behaviour-change researchers describe substitution as replacing an unwanted behaviour with a desired one. The strategy is attractive because it does not ask people to leave the cue, need, or trigger completely unaddressed. Instead, it channels behaviour into a different response.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8009798/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInfluence of a Planning Intervention on Physical Activity</span><span class="citation-popover-snippet">by I Pfeffer · 2020 · Cited by 21 — There is evidence from several studies for the mediating role of action and coping planning cognit...</span></span></span>
 
-This distinction matters because habits are often triggered automatically. When someone habitually reaches for a snack, cigarette, phone, or online distraction, the brain has learned a cue-response pattern. Research on implementation intentions shows that plans specifying an alternative response in a critical situation can weaken the advantage normally enjoyed by the habitual behaviour. In experimental studies, replacement-focused if-then plans helped participants override established responses and execute the chosen alternative instead. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0146167211399102" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsBreaking Habits With Implementation Intentions: A Test of...Implementation intentions specifying the replacement of a habit...</span></span></span>
+This distinction matters because habits are often triggered automatically. When someone habitually reaches for a snack, cigarette, phone, or online distraction, the brain has learned a cue-response pattern. Research on implementation intentions shows that plans specifying an alternative response in a critical situation can weaken the advantage normally enjoyed by the habitual behaviour. In experimental studies, replacement-focused if-then plans helped participants override established responses and execute the chosen alternative instead.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0146167211399102" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsBreaking Habits With Implementation Intentions: A Test of...Implementation intentions specifying the replacement of a habit...</span></span></span>
 
 A simple comparison illustrates the difference:
 
@@ -306,7 +306,7 @@ Examples include:
 
 </div>
 
-Health and habit-change guidance often emphasises replacing unhealthy behaviours with alternatives that interrupt the old pattern while still meeting part of the underlying need. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.heart.org/en/healthy-living/healthy-lifestyle/mental-health-and-wellbeing/how-to-break-bad-habits-and-change-behaviors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heart.org">[www.heart.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heart.org</span><span class="citation-popover-title">how to break bad habits and change behaviors</span><span class="citation-popover-snippet">to Break Bad Habits and Change Behaviors14 Dec 2023 — Research shows that replacing a bad behavior with a good one is more effective than...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mayoclinic.org/healthy-lifestyle/weight-loss/in-depth/weight-loss/art-20047342" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mayoclinic.org">[Mayo Clinic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mayoclinic.org</span><span class="citation-popover-snippet">Mayo ClinicWeight loss: Gain control of emotional eatingInstead of snacking when you&#x27;re not hungry, distract yourself and substitute a he...</span></span></span>
+Health and habit-change guidance often emphasises replacing unhealthy behaviours with alternatives that interrupt the old pattern while still meeting part of the underlying need.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.heart.org/en/healthy-living/healthy-lifestyle/mental-health-and-wellbeing/how-to-break-bad-habits-and-change-behaviors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heart.org">[www.heart.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heart.org</span><span class="citation-popover-title">how to break bad habits and change behaviors</span><span class="citation-popover-snippet">to Break Bad Habits and Change Behaviors14 Dec 2023 — Research shows that replacing a bad behavior with a good one is more effective than...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mayoclinic.org/healthy-lifestyle/weight-loss/in-depth/weight-loss/art-20047342" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mayoclinic.org">[Mayo Clinic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mayoclinic.org</span><span class="citation-popover-snippet">Mayo ClinicWeight loss: Gain control of emotional eatingInstead of snacking when you&#x27;re not hungry, distract yourself and substitute a he...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OMbsGBlpP30" title="The Power of Habit: Charles Duhigg at TEDxTeachersCollege" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OMbsGBlpP30" target="_blank" rel="noopener noreferrer">The Power of Habit: Charles Duhigg at TEDxTeachersCollege</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 1.6M &middot; Uploaded: August 2013 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OMbsGBlpP30" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OMbsGBlpP30">Open on YouTube</a></p></div></div></div>
 
@@ -314,7 +314,7 @@ Health and habit-change guidance often emphasises replacing unhealthy behaviours
 
 People often choose substitutes that are too ambitious. Someone trying to reduce evening snacking may decide that every craving will be answered with a 45-minute workout. Technically this is a substitute, but it is unlikely to happen consistently.
 
-Implementation-intention research repeatedly finds that plans work best when the response is specific, practical, and executable at the moment the cue appears. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8009798/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInfluence of a Planning Intervention on Physical Activity</span><span class="citation-popover-snippet">by I Pfeffer · 2020 · Cited by 21 — There is evidence from several studies for the mediating role of action and coping planning cognit...</span></span></span>
+Implementation-intention research repeatedly finds that plans work best when the response is specific, practical, and executable at the moment the cue appears.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8009798/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCInfluence of a Planning Intervention on Physical Activity</span><span class="citation-popover-snippet">by I Pfeffer · 2020 · Cited by 21 — There is evidence from several studies for the mediating role of action and coping planning cognit...</span></span></span>
 
 Good substitutes are usually small:
 
@@ -350,7 +350,7 @@ The strongest plans connect a predictable cue with a concrete replacement behavi
 
 TemptationSubstitution PlanMindless snackingIf I open the cupboard after dinner, then I will make tea before choosing food.Phone checkingIf I reach for my phone while working, then I will write one more sentence first.Stress eatingIf I feel stressed and want a snack, then I will walk for five minutes before deciding.Smoking urgeIf I want a cigarette during a break, then I will walk around the building once.Online distractionIf I open a non-work website, then I will return to my task and work for five minutes.Skipping exerciseIf I want to skip the workout, then I will do ten minutes instead of zero.
 
-The important feature is not the exact substitute. It is the cue-to-action link. Research on implementation intentions suggests that these links help translate intentions into behaviour by preparing a response before temptation arrives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span>
+The important feature is not the exact substitute. It is the cue-to-action link. Research on implementation intentions suggests that these links help translate intentions into behaviour by preparing a response before temptation arrives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lme-5_bW0V4" title="How to Break BAD HABITS in 5 Easy steps" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lme-5_bW0V4" target="_blank" rel="noopener noreferrer">How to Break BAD HABITS in 5 Easy steps</a></p><p class="youtube-embed-meta">Channel: Jim Kwik &middot; Views: 21.8K &middot; Uploaded: September 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lme-5_bW0V4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lme-5_bW0V4">Open on YouTube</a></p></div></div></div>
 
@@ -370,7 +370,7 @@ The substitute should be better than the original behaviour, but only slightly b
 
 If loneliness drives social media use, replacing it with a glass of water may not help much. If exhaustion drives overeating, replacing food with more work may make the problem worse.
 
-Effective substitution begins with identifying what the craving is doing for you. Research on unhealthy snacking and habit disruption highlights the importance of identifying the relevant cue before creating the response. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/264644437_Identifying_the_%27if%27_for_%27if-then%27_plans_Combining_implementation_intentions_with_cue-monitoring_targeting_unhealthy_snacking_behaviour" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Combining implementation intentions with cue-monitoring...6 Aug 2014 — Abstract Implementation intentions aimed at changing...</span></span></span>
+Effective substitution begins with identifying what the craving is doing for you. Research on unhealthy snacking and habit disruption highlights the importance of identifying the relevant cue before creating the response.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/264644437_Identifying_the_%27if%27_for_%27if-then%27_plans_Combining_implementation_intentions_with_cue-monitoring_targeting_unhealthy_snacking_behaviour" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Combining implementation intentions with cue-monitoring...6 Aug 2014 — Abstract Implementation intentions aimed at changing...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_substitution_plans_97b67e-Illustration-3-dark.svg" | relative_url }}" alt="Substitution illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_substitution_plans_97b67e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_substitution_plans_97b67e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The Plan Depends on Motivation
@@ -389,244 +389,244 @@ The easier option usually wins in the moment. Good substitution plans acknowledg
 
 The purpose of substitution is not to eliminate cravings. Cravings are normal. The purpose is to create a reliable bridge between the cue and a better response.
 
-Implementation-intention research shows that people can use planned cue-response links to interrupt unwanted habits and [support]({{ 'support/' | relative_url }}) goal-directed behaviour. Substitution plans apply that principle to temptations specifically: when the urge arrives, the decision has already been made. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.manchester.ac.uk/en/publications/evidence-that-implementation-intentions-can-overcome-the-effects-/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.manchester.ac.uk">[Research Explorer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.manchester.ac.uk</span><span class="citation-popover-title">evidence that implementation intentions can overcome the effects</span><span class="citation-popover-snippet">Research ExplorerEvidence that implementation intentions can overcome the...by C Armitage · 2016 · Cited by 82 — CONCLUSION: The finding...</span></span></span>
+Implementation-intention research shows that people can use planned cue-response links to interrupt unwanted habits and [support]({{ 'support/' | relative_url }}) goal-directed behaviour. Substitution plans apply that principle to temptations specifically: when the urge arrives, the decision has already been made.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://research.manchester.ac.uk/en/publications/evidence-that-implementation-intentions-can-overcome-the-effects-/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.manchester.ac.uk">[Research Explorer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.manchester.ac.uk</span><span class="citation-popover-title">evidence that implementation intentions can overcome the effects</span><span class="citation-popover-snippet">Research ExplorerEvidence that implementation intentions can overcome the...by C Armitage · 2016 · Cited by 82 — CONCLUSION: The finding...</span></span></span>
 
-The most effective replacement is usually not the most impressive one. It is the one that can be performed immediately, repeatedly, and with little debate when temptation appears. Over time, those repeated substitutions can begin to compete with, and sometimes replace, the old habit itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0022103105001356" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Breaking and creating habits on the working floor: A field-...by RW Holland · 2006 · Cited by 476 — The present study aimed...</span></span></span>
+The most effective replacement is usually not the most impressive one. It is the one that can be performed immediately, repeatedly, and with little debate when temptation appears. Over time, those repeated substitutions can begin to compete with, and sometimes replace, the old habit itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0022103105001356" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Breaking and creating habits on the working floor: A field-...by RW Holland · 2006 · Cited by 476 — The present study aimed...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MVUg6aR7e6A" title="How to Replace BAD HABITS with GOOD HABITS? Learn how to Develop your DISCIPLINE in 7 DAYS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MVUg6aR7e6A" target="_blank" rel="noopener noreferrer">How to Replace BAD HABITS with GOOD HABITS? Learn how to Develop your DISCIPLINE in 7 DAYS</a></p><p class="youtube-embed-meta">Channel: DopaMind — Rewire Your Brain &middot; Views: 4 &middot; Uploaded: April 2026 &middot; Length: 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MVUg6aR7e6A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MVUg6aR7e6A">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Should You Do Instead of Giving In?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Should You Do Instead of Giving In?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Strong coverage of replacing bad habits, environment design, and cue-response planning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Strong coverage of replacing bad habits, environment design, and cue-response planning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
-        </h4>
-        <p class="fr-book-author">By B. J. Fogg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
+</h4>
+<p class="fr-book-author">By B. J. Fogg</p>
         
-        <p class="fr-book-desc">Focuses on prompts and small replacement behaviors that fit existing cues.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on prompts and small replacement behaviors that fit existing cues.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Change+by+Katy+Milkman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Change on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AHInEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Change" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Change+by+Katy+Milkman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Change">How to Change</a>
-        </h4>
-        <p class="fr-book-author">By Katy Milkman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Change+by+Katy+Milkman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Change on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AHInEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Change" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Change+by+Katy+Milkman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Change">How to Change</a>
+</h4>
+<p class="fr-book-author">By Katy Milkman</p>
         
-        <p class="fr-book-desc">Addresses barriers and behavior redesign rather than relying on willpower.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Change+by+Katy+Milkman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses barriers and behavior redesign rather than relying on willpower.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Change+by+Katy+Milkman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
-        </h4>
-        <p class="fr-book-author">By Charles Duhigg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
+</h4>
+<p class="fr-book-author">By Charles Duhigg</p>
         
-        <p class="fr-book-desc">Explains habit loops and practical habit substitution strategies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains habit loops and practical habit substitution strategies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Change&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Change</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Change&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Change</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-habit-tracker-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 75 Hard Challenge Tracker A4 Wall Chart Habit Fitness Log Workout Poster Pink"><img src="{{ '/assets/images/marketplace-covers/b57dca8e0aef2f8c1fac.jpg' | relative_url }}" alt="Listing image for 75 Hard Challenge Tracker A4 Wall Chart Habit Fitness Log Workout Poster Pink" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-habit-tracker-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">75 Hard Challenge Tracker A4 Wall Chart Habit Fitness Log Workout Poster Pink</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-habit-tracker-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-habit-tracker-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-habit-tracker-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 75 Hard Challenge Tracker A4 Wall Chart Habit Fitness Log Workout Poster Pink"><img src="{{ '/assets/images/marketplace-covers/b57dca8e0aef2f8c1fac.jpg' | relative_url }}" alt="Listing image for 75 Hard Challenge Tracker A4 Wall Chart Habit Fitness Log Workout Poster Pink" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-habit-tracker-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">75 Hard Challenge Tracker A4 Wall Chart Habit Fitness Log Workout Poster Pink</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-habit-tracker-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-habit-tracker-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-habit-tracker-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Daily Water Tracker Chart Annual Hydration Log Fitness Habit Calendar Poster"><img src="{{ '/assets/images/marketplace-covers/9b14a15ca4038a4bdb67.jpg' | relative_url }}" alt="Listing image for Daily Water Tracker Chart Annual Hydration Log Fitness Habit Calendar Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-habit-tracker-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Daily Water Tracker Chart Annual Hydration Log Fitness Habit Calendar Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-habit-tracker-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-habit-tracker-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-habit-tracker-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-habit-tracker-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Daily Water Tracker Chart Annual Hydration Log Fitness Habit Calendar Poster"><img src="{{ '/assets/images/marketplace-covers/9b14a15ca4038a4bdb67.jpg' | relative_url }}" alt="Listing image for Daily Water Tracker Chart Annual Hydration Log Fitness Habit Calendar Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-habit-tracker-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Daily Water Tracker Chart Annual Hydration Log Fitness Habit Calendar Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-habit-tracker-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-habit-tracker-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=substitution-what-should-you-do-instead-of-giving-in-self-improvement-that-works-habit-tracker-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -642,7 +642,7 @@ The most effective replacement is usually not the most impressive one. It is the
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -662,7 +662,7 @@ The most effective replacement is usually not the most impressive one. It is the
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -694,7 +694,7 @@ The most effective replacement is usually not the most impressive one. It is the
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -724,7 +724,7 @@ The most effective replacement is usually not the most impressive one. It is the
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -782,142 +782,142 @@ The most effective replacement is usually not the most impressive one. It is the
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cancercontrol.cancer.gov  
-   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</p></details>
+   Link:<a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022103105001356" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0022103105001356</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking and creating habits on the working floor: A field-...by RW Holland · 2006 · Cited by 476 — The present study aimed...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0022103105001356" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0022103105001356</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking and creating habits on the working floor: A field-...by RW Holland · 2006 · Cited by 476 — The present study aimed...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: heart.org  
    Title: how to break bad habits and change behaviors  
-   Link: <a href="https://www.heart.org/en/healthy-living/healthy-lifestyle/mental-health-and-wellbeing/how-to-break-bad-habits-and-change-behaviors" target="_blank" rel="noopener noreferrer nofollow">https://www.heart.org/en/healthy-living/healthy-lifestyle/mental-health-and-wellbeing/how-to-break-bad-habits-and-change-behaviors</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>to Break Bad Habits and Change Behaviors14 Dec 2023 — Research shows that replacing a bad behavior with a good one is more effective than...</p></details>
+   Link:<a href="https://www.heart.org/en/healthy-living/healthy-lifestyle/mental-health-and-wellbeing/how-to-break-bad-habits-and-change-behaviors" target="_blank" rel="noopener noreferrer nofollow">https://www.heart.org/en/healthy-living/healthy-lifestyle/mental-health-and-wellbeing/how-to-break-bad-habits-and-change-behaviors</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to Break Bad Habits and Change Behaviors14 Dec 2023 — Research shows that replacing a bad behavior with a good one is more effective than...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCInfluence of a Planning Intervention on Physical Activity  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8009798/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8009798/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by I Pfeffer · 2020 · Cited by 21 — There is evidence from several studies for the mediating role of action and coping planning cognit...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8009798/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8009798/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by I Pfeffer · 2020 · Cited by 21 — There is evidence from several studies for the mediating role of action and coping planning cognit...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/264644437_Identifying_the_%27if%27_for_%27if-then%27_plans_Combining_implementation_intentions_with_cue-monitoring_targeting_unhealthy_snacking_behaviour" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/264644437_Identifying_the_%27if%27_for_%27if-then%27_plans_Combining_implementation_intentions_with_cue-monitoring_targeting_unhealthy_snacking_behaviour</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Combining implementation intentions with cue-monitoring...6 Aug 2014 — Abstract Implementation intentions aimed at changing...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/264644437_Identifying_the_%27if%27_for_%27if-then%27_plans_Combining_implementation_intentions_with_cue-monitoring_targeting_unhealthy_snacking_behaviour" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/264644437_Identifying_the_%27if%27_for_%27if-then%27_plans_Combining_implementation_intentions_with_cue-monitoring_targeting_unhealthy_snacking_behaviour</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Combining implementation intentions with cue-monitoring...6 Aug 2014 — Abstract Implementation intentions aimed at changing...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0195666325003629" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0195666325003629</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Online Mental Contrasting with Implementation Intentions...by R González-González · 2025 — The aim was improving snacking b...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0195666325003629" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0195666325003629</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Online Mental Contrasting with Implementation Intentions...by R González-González · 2025 — The aim was improving snacking b...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 896 — Psychological theory and evidence around...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 896 — Psychological theory and evidence around...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/324899309_Implementation_intentions_Can_they_be_used_to_prevent_and_treat_addiction" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/324899309_Implementation_intentions_Can_they_be_used_to_prevent_and_treat_addiction</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ould be employed to successfully link critical environmental cues to...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/324899309_Implementation_intentions_Can_they_be_used_to_prevent_and_treat_addiction" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/324899309_Implementation_intentions_Can_they_be_used_to_prevent_and_treat_addiction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ould be employed to successfully link critical environmental cues to...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S000579672300147X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S000579672300147X</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reducing binge eating through behavioral-focused versus...by J Tanis · 2023 · Cited by 7 — These results demonstrate that three sessions...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S000579672300147X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S000579672300147X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reducing binge eating through behavioral-focused versus...by J Tanis · 2023 · Cited by 7 — These results demonstrate that three sessions...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sciencedirect.com  
    Title: Coping Planning  
-   Link: <a href="https://www.sciencedirect.com/topics/psychology/coping-planning" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/coping-planning</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>an overviewCoping planning (CP) involves identifying how one will cope with potential barriers or obstacles that could get in the way of...</p></details>
+   Link:<a href="https://www.sciencedirect.com/topics/psychology/coping-planning" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/coping-planning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>an overviewCoping planning (CP) involves identifying how one will cope with potential barriers or obstacles that could get in the way of...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0001691816303626" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0001691816303626</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An experimental investigation of breaking learnt habits with...by AAC Verhoeven · 2018 · Cited by 18 — Implementation intentions improve...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0001691816303626" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0001691816303626</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An experimental investigation of breaking learnt habits with...by AAC Verhoeven · 2018 · Cited by 18 — Implementation intentions improve...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/0146167211399102" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0146167211399102</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsBreaking Habits With Implementation Intentions: A Test of...Implementation intentions specifying the replacement of a habit...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/0146167211399102" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0146167211399102</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsBreaking Habits With Implementation Intentions: A Test of...Implementation intentions specifying the replacement of a habit...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: mayoclinic.org  
-   Link: <a href="https://www.mayoclinic.org/healthy-lifestyle/weight-loss/in-depth/weight-loss/art-20047342" target="_blank" rel="noopener noreferrer nofollow">https://www.mayoclinic.org/healthy-lifestyle/weight-loss/in-depth/weight-loss/art-20047342</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mayo ClinicWeight loss: Gain control of emotional eatingInstead of snacking when you&#x27;re not hungry, distract yourself and substitute a he...</p></details>
+   Link:<a href="https://www.mayoclinic.org/healthy-lifestyle/weight-loss/in-depth/weight-loss/art-20047342" target="_blank" rel="noopener noreferrer nofollow">https://www.mayoclinic.org/healthy-lifestyle/weight-loss/in-depth/weight-loss/art-20047342</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mayo ClinicWeight loss: Gain control of emotional eatingInstead of snacking when you&#x27;re not hungry, distract yourself and substitute a he...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: research.manchester.ac.uk  
    Title: evidence that implementation intentions can overcome the effects  
-   Link: <a href="https://research.manchester.ac.uk/en/publications/evidence-that-implementation-intentions-can-overcome-the-effects-/" target="_blank" rel="noopener noreferrer nofollow">https://research.manchester.ac.uk/en/publications/evidence-that-implementation-intentions-can-overcome-the-effects-/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Research ExplorerEvidence that implementation intentions can overcome the...by C Armitage · 2016 · Cited by 82 — CONCLUSION: The finding...</p></details>
+   Link:<a href="https://research.manchester.ac.uk/en/publications/evidence-that-implementation-intentions-can-overcome-the-effects-/" target="_blank" rel="noopener noreferrer nofollow">https://research.manchester.ac.uk/en/publications/evidence-that-implementation-intentions-can-overcome-the-effects-/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Research ExplorerEvidence that implementation intentions can overcome the...by C Armitage · 2016 · Cited by 82 — CONCLUSION: The finding...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Implementation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Implementation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ImplementationImplementation is the realization of an application, execution of a plan, idea, model, design, specification, standard...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Implementation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Implementation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ImplementationImplementation is the realization of an application, execution of a plan, idea, model, design, specification, standard...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Behavior" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Behavior</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BehaviorBehavior (American English) or behaviour (British English) is the range of actions of organisms, individuals, systems or artif...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Behavior" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Behavior</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BehaviorBehavior (American English) or behaviour (British English) is the range of actions of organisms, individuals, systems or artif...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: newsinhealth.nih.gov  
-   Link: <a href="https://newsinhealth.nih.gov/2012/01/breaking-bad-habits" target="_blank" rel="noopener noreferrer nofollow">https://newsinhealth.nih.gov/2012/01/breaking-bad-habits</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NIH News in HealthBreaking Bad HabitsReplace unhealthy behaviors with healthy ones. Try exercise, a favorite hobby or spending time with...</p></details>
+   Link:<a href="https://newsinhealth.nih.gov/2012/01/breaking-bad-habits" target="_blank" rel="noopener noreferrer nofollow">https://newsinhealth.nih.gov/2012/01/breaking-bad-habits</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIH News in HealthBreaking Bad HabitsReplace unhealthy behaviors with healthy ones. Try exercise, a favorite hobby or spending time with...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ucsfhealth.org  
-   Link: <a href="https://www.ucsfhealth.org/health-articles/behavior-modification-ideas-for-weight-management" target="_blank" rel="noopener noreferrer nofollow">https://www.ucsfhealth.org/health-articles/behavior-modification-ideas-for-weight-management</a>  
+   Link:<a href="https://www.ucsfhealth.org/health-articles/behavior-modification-ideas-for-weight-management" target="_blank" rel="noopener noreferrer nofollow">https://www.ucsfhealth.org/health-articles/behavior-modification-ideas-for-weight-management</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCkey principles for effective use of Behavior substitution  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10256308/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10256308/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by AM Patey · 2022 · Cited by 11 — In this paper, we discuss Behavior substitution, a strategy whereby an unwanted behavior is replace...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10256308/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10256308/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by AM Patey · 2022 · Cited by 11 — In this paper, we discuss Behavior substitution, a strategy whereby an unwanted behavior is replace...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Science of Habit Formation to Evidence-Based...by AG Harvey · 2021 · Cited by 55 — Planning to break unwanted habits: Habit strength...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Science of Habit Formation to Evidence-Based...by AG Harvey · 2021 · Cited by 55 — Planning to break unwanted habits: Habit strength...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: helpguide.org  
    Title: how to break bad habits and change negative behaviors  
-   Link: <a href="https://www.helpguide.org/mental-health/wellbeing/how-to-break-bad-habits-and-change-negative-behaviors" target="_blank" rel="noopener noreferrer nofollow">https://www.helpguide.org/mental-health/wellbeing/how-to-break-bad-habits-and-change-negative-behaviors</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>20 Feb 2026 — No matter how ingrained they feel, you can learn how to break bad habits and replace them with healthy, positive alternativ...</p></details>
+   Link:<a href="https://www.helpguide.org/mental-health/wellbeing/how-to-break-bad-habits-and-change-negative-behaviors" target="_blank" rel="noopener noreferrer nofollow">https://www.helpguide.org/mental-health/wellbeing/how-to-break-bad-habits-and-change-negative-behaviors</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>20 Feb 2026 — No matter how ingrained they feel, you can learn how to break bad habits and replace them with healthy, positive alternativ...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: scispace.com  
-   Link: <a href="https://scispace.com/pdf/implementation-intention-and-action-planning-interventions-2lyhth0b3a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/implementation-intention-and-action-planning-interventions-2lyhth0b3a.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ed at forging a link between a critical, unconditional situation with a goal...</p></details>
+   Link:<a href="https://scispace.com/pdf/implementation-intention-and-action-planning-interventions-2lyhth0b3a.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/implementation-intention-and-action-planning-interventions-2lyhth0b3a.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ed at forging a link between a critical, unconditional situation with a goal...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: habitdex.com  
    Title: Reward Substitution: How It Works, Pros & Cons  
-   Link: <a href="https://habitdex.com/methods/reward-substitution" target="_blank" rel="noopener noreferrer nofollow">https://habitdex.com/methods/reward-substitution</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>16 May 2026 — Reward Substitution breaks addictive habits by replacing the psychological reward the behavior provides with a heal...</p></details>
+   Link:<a href="https://habitdex.com/methods/reward-substitution" target="_blank" rel="noopener noreferrer nofollow">https://habitdex.com/methods/reward-substitution</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>16 May 2026 — Reward Substitution breaks addictive habits by replacing the psychological reward the behavior provides with a heal...</p></details>
    Published: May 2026  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: sk.sagepub.com  
    Title: implementation intentions can they be used prevent  
-   Link: <a href="https://sk.sagepub.com/hnbk/edvol/hdbk_addiction/chpt/implementation-intentions-can-they-be-used-prevent" target="_blank" rel="noopener noreferrer nofollow">https://sk.sagepub.com/hnbk/edvol/hdbk_addiction/chpt/implementation-intentions-can-they-be-used-prevent</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forming an implementation intention involves an individual deciding when, where, and how they will perform a behavior...</p></details>
+   Link:<a href="https://sk.sagepub.com/hnbk/edvol/hdbk_addiction/chpt/implementation-intentions-can-they-be-used-prevent" target="_blank" rel="noopener noreferrer nofollow">https://sk.sagepub.com/hnbk/edvol/hdbk_addiction/chpt/implementation-intentions-can-they-be-used-prevent</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forming an implementation intention involves an individual deciding when, where, and how they will perform a behavior...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: bpspsychub.onlinelibrary.wiley.com  
-   Link: <a href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1348/014466608X370591" target="_blank" rel="noopener noreferrer nofollow">https://bpspsychub.onlinelibrary.wiley.com/doi/10.1348/014466608X370591</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to break unwanted habits: Habit strength moderates...24 Dec 2010 — Implementation intention formation promotes effective goal striving a...</p></details>
+   Link:<a href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1348/014466608X370591" target="_blank" rel="noopener noreferrer nofollow">https://bpspsychub.onlinelibrary.wiley.com/doi/10.1348/014466608X370591</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to break unwanted habits: Habit strength moderates...24 Dec 2010 — Implementation intention formation promotes effective goal striving a...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=MVUg6aR7e6A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MVUg6aR7e6A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stop letting your goals fizzle out! Why implementation intentions unlock success...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MVUg6aR7e6A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MVUg6aR7e6A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stop letting your goals fizzle out! Why implementation intentions unlock success...</p></details>

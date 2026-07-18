@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /self-improvement-tha-c01280-morning/
 description: Focused pages that expand on Coffee Cue.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: self_improvement_tha_c01280_morning_coffee_cue_d08fd8
 parent_title: Coffee Cue
@@ -16,7 +16,7 @@ parent_permalink: /coffee-cue/
 
 # Explore Topics in Coffee Cue
 
-The following pages expand on the main **[Coffee Cue]({{ '/coffee-cue/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Coffee Cue]({{ '/coffee-cue/' | relative_url }})** page and cover its key branches in.
 
 - [Caffeine Limits]({{ '/caffeine-limits/' | relative_url }})
 - [Cue Choice]({{ '/cue-choice/' | relative_url }})

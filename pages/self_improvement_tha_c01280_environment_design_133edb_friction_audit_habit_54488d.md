@@ -273,7 +273,7 @@ A friction audit is a simple investigation into why a habit fails at the exact m
 <img src="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_friction_audit_habit_54488d-Illustration-1-dark.svg" | relative_url }}" alt="Friction Audit illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_friction_audit_habit_54488d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_friction_audit_habit_54488d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction matters because many habits collapse long before [motivation]({{ 'motivation/' | relative_url }}) becomes the main problem. A workout routine fails because gym clothes are buried in a drawer. A reading habit fails because choosing a book takes longer than opening a social media app. A healthy lunch plan fails because ingredients were not prepared the night before. Each obstacle is tiny on its own, yet repeated daily it becomes decisive.
 
-Behaviour research consistently shows that ease and ability are central components of action. In the Fogg Behavior Model, behaviour occurs when motivation, ability and a prompt converge. If ability drops because a task becomes inconvenient, the behaviour often disappears even when motivation remains high. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.behaviormodel.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behaviormodel.org">[Fogg Behavior Model]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behaviormodel.org</span><span class="citation-popover-snippet">Fogg Behavior ModelFogg Behavior Model - BJ FoggThe Fogg Behavior Model shows that three elements must converge at the same moment for a...</span></span></span>
+Behaviour research consistently shows that ease and ability are central components of action. In the Fogg Behavior Model, behaviour occurs when motivation, ability and a prompt converge. If ability drops because a task becomes inconvenient, the behaviour often disappears even when motivation remains high.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.behaviormodel.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behaviormodel.org">[Fogg Behavior Model]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behaviormodel.org</span><span class="citation-popover-snippet">Fogg Behavior ModelFogg Behavior Model - BJ FoggThe Fogg Behavior Model shows that three elements must converge at the same moment for a...</span></span></span>
 
 A friction audit reveals these hidden barriers before they are mistaken for character flaws.
 
@@ -294,7 +294,7 @@ Examples include:
 
 </div>
 
-Each extra action increases the chance of abandoning the habit. Research and behaviour-design frameworks repeatedly identify physical effort as one of the main factors that reduce behavioural ability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.triplewhale.com/blog/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: triplewhale.com">[Triple Whale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">triplewhale.com</span><span class="citation-popover-title">Triple Whale What Is the Fogg Behavior Model?</span><span class="citation-popover-snippet">A Complete Guide to...12 Mar 2026 — The Fogg Behavior Model thinks of ability as simplicity and frictionlessness. The idea is to minimiz...</span></span></span>
+Each extra action increases the chance of abandoning the habit. Research and behaviour-design frameworks repeatedly identify physical effort as one of the main factors that reduce behavioural ability.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.triplewhale.com/blog/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: triplewhale.com">[Triple Whale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">triplewhale.com</span><span class="citation-popover-title">Triple Whale What Is the Fogg Behavior Model?</span><span class="citation-popover-snippet">A Complete Guide to...12 Mar 2026 — The Fogg Behavior Model thinks of ability as simplicity and frictionlessness. The idea is to minimiz...</span></span></span>
 
 **Time barriers** are often measured in seconds rather than minutes.
 
@@ -309,7 +309,7 @@ Examples include:
 
 </div>
 
-People often assume a five-minute delay is insignificant. In practice, habits are highly sensitive to small delays because the decision to begin is usually the weakest point of the entire routine. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.behaviormodel.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behaviormodel.org">[Fogg Behavior Model]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behaviormodel.org</span><span class="citation-popover-snippet">Fogg Behavior ModelFogg Behavior Model - BJ FoggThe Fogg Behavior Model shows that three elements must converge at the same moment for a...</span></span></span>
+People often assume a five-minute delay is insignificant. In practice, habits are highly sensitive to small delays because the decision to begin is usually the weakest point of the entire routine.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.behaviormodel.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behaviormodel.org">[Fogg Behavior Model]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behaviormodel.org</span><span class="citation-popover-snippet">Fogg Behavior ModelFogg Behavior Model - BJ FoggThe Fogg Behavior Model shows that three elements must converge at the same moment for a...</span></span></span>
 
 **Decision barriers** are frequently the most invisible.
 
@@ -368,7 +368,7 @@ Now consider the same habit after an audit:
 
 The habit has not become more motivating. It has become easier to start.
 
-This focus on initiation is supported by research on implementation intentions, which are plans that connect a specific cue with a specific response. Studies show that clearly linking situations and actions helps close the gap between intentions and behaviour by strengthening cue-response connections and making action more automatic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intention formation is the mental act of linking an anticipated...</span></span></span> ScienceDirect The first thirty seconds often determine the next thirty minutes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">How do implementation intentions promote goal attainment...by TL Webb · 2007 · Cited by 565 — Implementation intentions are plans that s...</span></span></span>
+This focus on initiation is supported by research on implementation intentions, which are plans that connect a specific cue with a specific response. Studies show that clearly linking situations and actions helps close the gap between intentions and behaviour by strengthening cue-response connections and making action more automatic.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intention formation is the mental act of linking an anticipated...</span></span></span> ScienceDirect The first thirty seconds often determine the next thirty minutes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">How do implementation intentions promote goal attainment...by TL Webb · 2007 · Cited by 565 — Implementation intentions are plans that s...</span></span></span>
 
 ## Why people misdiagnose habit failure
 
@@ -382,7 +382,7 @@ They might conclude:
 
 * "I am inconsistent."
 * "I lack self-control."
-* "I need more motivation." <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.behaviormodel.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behaviormodel.org">[behaviormodel.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behaviormodel.org</span><span class="citation-popover-snippet">Fogg Behavior ModelFogg Behavior Model - BJ FoggThe Fogg Behavior Model shows that three elements must converge at the same moment for a...</span></span></span>
+* "I need more motivation."<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.behaviormodel.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behaviormodel.org">[behaviormodel.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behaviormodel.org</span><span class="citation-popover-snippet">Fogg Behavior ModelFogg Behavior Model - BJ FoggThe Fogg Behavior Model shows that three elements must converge at the same moment for a...</span></span></span>
 
 </div>
 
@@ -396,7 +396,7 @@ An audit may reveal something different:
 
 None of these factors seems large enough to explain repeated failure. Together they create a predictable pattern of non-action.
 
-This perspective aligns with broader research on choice architecture and environmental design, which shows that changing the [environment]({{ 'environment/' | relative_url }}) can meaningfully influence behaviour without changing underlying motivation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.2107346118" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">The effectiveness of nudging: A meta-analysis of choice...by S Mertens · 2022 · Cited by 1068 — Our results show that choice archite...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — Finally, implementation intentions have been demonstrated to affect both attentional and memory pr...</span></span></span>
+This perspective aligns with broader research on choice architecture and environmental design, which shows that changing the [environment]({{ 'environment/' | relative_url }}) can meaningfully influence behaviour without changing underlying motivation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.2107346118" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">The effectiveness of nudging: A meta-analysis of choice...by S Mertens · 2022 · Cited by 1068 — Our results show that choice archite...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — Finally, implementation intentions have been demonstrated to affect both attentional and memory pr...</span></span></span>
 
 The risk is not that friction is dramatic. The risk is that it is easy to overlook.
 
@@ -412,7 +412,7 @@ HabitHidden frictionSmall redesignMorning exerciseChoosing a workoutDecide the w
 
 The goal is not optimisation for its own sake. The goal is removing the point where the behaviour repeatedly stalls.
 
-Behaviour-design research consistently emphasises making desired actions easier. Fogg's work, for example, focuses on increasing ability by reducing barriers such as time, effort and complexity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.behaviormodel.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behaviormodel.org">[Fogg Behavior Model]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behaviormodel.org</span><span class="citation-popover-snippet">Fogg Behavior ModelFogg Behavior Model - BJ FoggThe Fogg Behavior Model shows that three elements must converge at the same moment for a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.triplewhale.com/blog/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: triplewhale.com">[Triple Whale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">triplewhale.com</span><span class="citation-popover-title">Triple Whale What Is the Fogg Behavior Model?</span><span class="citation-popover-snippet">A Complete Guide to...12 Mar 2026 — The Fogg Behavior Model thinks of ability as simplicity and frictionlessness. The idea is to minimiz...</span></span></span>
+Behaviour-design research consistently emphasises making desired actions easier. Fogg's work, for example, focuses on increasing ability by reducing barriers such as time, effort and complexity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.behaviormodel.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behaviormodel.org">[Fogg Behavior Model]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behaviormodel.org</span><span class="citation-popover-snippet">Fogg Behavior ModelFogg Behavior Model - BJ FoggThe Fogg Behavior Model shows that three elements must converge at the same moment for a...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.triplewhale.com/blog/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: triplewhale.com">[Triple Whale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">triplewhale.com</span><span class="citation-popover-title">Triple Whale What Is the Fogg Behavior Model?</span><span class="citation-popover-snippet">A Complete Guide to...12 Mar 2026 — The Fogg Behavior Model thinks of ability as simplicity and frictionlessness. The idea is to minimiz...</span></span></span>
 
 One removed obstacle is often more valuable than a new productivity system.
 
@@ -429,274 +429,274 @@ Instead ask:
 
 That question shifts attention from personal shortcomings to environmental design. It exposes the hidden effort, delays and decisions that quietly sabotage good intentions.
 
-In practice, successful habits are often less a triumph of [willpower]({{ 'willpower/' | relative_url }}) than the result of removing enough friction that the desired action becomes the easiest thing to do next. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.behaviormodel.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behaviormodel.org">[Fogg Behavior Model]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behaviormodel.org</span><span class="citation-popover-snippet">Fogg Behavior ModelFogg Behavior Model - BJ FoggThe Fogg Behavior Model shows that three elements must converge at the same moment for a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.suebehaviouraldesign.com/en/blog/friction-in-behavioural-design-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: suebehaviouraldesign.com">[2suebehaviouraldesign.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">suebehaviouraldesign.com</span><span class="citation-popover-snippet">Friction in Behavioural Design: Good friction and sludge20 Feb 2026 — Reducing friction makes desired behaviour more likely; adding frict...</span></span></span>
+In practice, successful habits are often less a triumph of [willpower]({{ 'willpower/' | relative_url }}) than the result of removing enough friction that the desired action becomes the easiest thing to do next.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.behaviormodel.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behaviormodel.org">[Fogg Behavior Model]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behaviormodel.org</span><span class="citation-popover-snippet">Fogg Behavior ModelFogg Behavior Model - BJ FoggThe Fogg Behavior Model shows that three elements must converge at the same moment for a...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.suebehaviouraldesign.com/en/blog/friction-in-behavioural-design-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: suebehaviouraldesign.com">[2suebehaviouraldesign.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">suebehaviouraldesign.com</span><span class="citation-popover-snippet">Friction in Behavioural Design: Good friction and sludge20 Feb 2026 — Reducing friction makes desired behaviour more likely; adding frict...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BC457w90GxU" title="Use AI to Build Discipline, Not Motivation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BC457w90GxU" target="_blank" rel="noopener noreferrer">Use AI to Build Discipline, Not Motivation</a></p><p class="youtube-embed-meta">Channel: Izak Hatton &middot; Views: 121 &middot; Uploaded: March 2026 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BC457w90GxU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BC457w90GxU">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Find the hidden friction breaking your habits. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Find the hidden friction breaking your habits. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Popularized reducing friction for good habits and increasing it for bad ones.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Popularized reducing friction for good habits and increasing it for bad ones.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
-        </h4>
-        <p class="fr-book-author">By B. J. Fogg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
+</h4>
+<p class="fr-book-author">By B. J. Fogg</p>
         
-        <p class="fr-book-desc">Focuses on making actions easy enough to happen consistently.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on making actions easy enough to happen consistently.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Indistractable on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_KjNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Indistractable" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Indistractable">Indistractable</a>
-        </h4>
-        <p class="fr-book-author">By Nir Eyal</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Indistractable on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_KjNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Indistractable" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Indistractable">Indistractable</a>
+</h4>
+<p class="fr-book-author">By Nir Eyal</p>
         
-        <p class="fr-book-desc">Identifies practical obstacles and environmental triggers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Identifies practical obstacles and environmental triggers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
-        </h4>
-        <p class="fr-book-author">By Charles Duhigg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
+</h4>
+<p class="fr-book-author">By Charles Duhigg</p>
         
-        <p class="fr-book-desc">Explains how cues and routines interact with everyday barriers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how cues and routines interact with everyday barriers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Indistractable&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Indistractable</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Indistractable&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Indistractable</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer"><img src="{{ '/assets/images/marketplace-covers/acce59ee37094e6800bd.jpg' | relative_url }}" alt="Listing image for OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer"><img src="{{ '/assets/images/marketplace-covers/acce59ee37094e6800bd.jpg' | relative_url }}" alt="Listing image for OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">OSCO Bamboo Desk Organiser | 6 Compartments | 1 Drawer | Office Tidy | Stationer</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage For Office"><img src="{{ '/assets/images/marketplace-covers/4099560f2fd851fe1c13.jpg' | relative_url }}" alt="Listing image for Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage For Office" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage For Office</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage For Office"><img src="{{ '/assets/images/marketplace-covers/4099560f2fd851fe1c13.jpg' | relative_url }}" alt="Listing image for Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage For Office" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage For Office</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver"><img src="{{ '/assets/images/marketplace-covers/8ef2fda3ba43e1e28efb.jpg' | relative_url }}" alt="Listing image for 4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver"><img src="{{ '/assets/images/marketplace-covers/8ef2fda3ba43e1e28efb.jpg' | relative_url }}" alt="Listing image for 4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RIBBLEAS Organiser Desk Organizer with Drawer Minimalist Pen Holder Office Desk"><img src="{{ '/assets/images/marketplace-covers/1ee939884c2f686456eb.jpg' | relative_url }}" alt="Listing image for RIBBLEAS Organiser Desk Organizer with Drawer Minimalist Pen Holder Office Desk" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">RIBBLEAS Organiser Desk Organizer with Drawer Minimalist Pen Holder Office Desk</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RIBBLEAS Organiser Desk Organizer with Drawer Minimalist Pen Holder Office Desk"><img src="{{ '/assets/images/marketplace-covers/1ee939884c2f686456eb.jpg' | relative_url }}" alt="Listing image for RIBBLEAS Organiser Desk Organizer with Drawer Minimalist Pen Holder Office Desk" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">RIBBLEAS Organiser Desk Organizer with Drawer Minimalist Pen Holder Office Desk</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=friction-audit-f11161-find-the-hidden-friction-breaking-your-habits-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -712,7 +712,7 @@ In practice, successful habits are often less a triumph of [willpower]({{ 'willp
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -732,7 +732,7 @@ In practice, successful habits are often less a triumph of [willpower]({{ 'willp
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -764,7 +764,7 @@ In practice, successful habits are often less a triumph of [willpower]({{ 'willp
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -794,7 +794,7 @@ In practice, successful habits are often less a triumph of [willpower]({{ 'willp
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -852,118 +852,118 @@ In practice, successful habits are often less a triumph of [willpower]({{ 'willp
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cancercontrol.cancer.gov  
-   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intention formation is the mental act of linking an anticipated...</p></details>
+   Link:<a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intention formation is the mental act of linking an anticipated...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How do implementation intentions promote goal attainment...by TL Webb · 2007 · Cited by 565 — Implementation intentions are plans that s...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How do implementation intentions promote goal attainment...by TL Webb · 2007 · Cited by 565 — Implementation intentions are plans that s...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCPromoting the translation of intentions into action by  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by F Wieber · 2015 · Cited by 215 — Finally, implementation intentions have been demonstrated to affect both attentional and memory pr...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by F Wieber · 2015 · Cited by 215 — Finally, implementation intentions have been demonstrated to affect both attentional and memory pr...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pnas.org  
-   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2107346118" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2107346118</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The effectiveness of nudging: A meta-analysis of choice...by S Mertens · 2022 · Cited by 1068 — Our results show that choice archite...</p></details>
+   Link:<a href="https://www.pnas.org/doi/10.1073/pnas.2107346118" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2107346118</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The effectiveness of nudging: A meta-analysis of choice...by S Mertens · 2022 · Cited by 1068 — Our results show that choice archite...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7140383/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7140383/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>architecture interventions to change physical activity...by LL Landais · 2020 · Cited by 109 — Choice architecture interventions, which...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7140383/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7140383/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>architecture interventions to change physical activity...by LL Landais · 2020 · Cited by 109 — Choice architecture interventions, which...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: suebehaviouraldesign.com  
-   Link: <a href="https://www.suebehaviouraldesign.com/en/blog/friction-in-behavioural-design-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.suebehaviouraldesign.com/en/blog/friction-in-behavioural-design-explained/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Friction in Behavioural Design: Good friction and sludge20 Feb 2026 — Reducing friction makes desired behaviour more likely; adding frict...</p></details>
+   Link:<a href="https://www.suebehaviouraldesign.com/en/blog/friction-in-behavioural-design-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.suebehaviouraldesign.com/en/blog/friction-in-behavioural-design-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Friction in Behavioural Design: Good friction and sludge20 Feb 2026 — Reducing friction makes desired behaviour more likely; adding frict...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1469029225001177" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1469029225001177</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Health [behaviour change](&amp;#123;&amp;#123; &#x27;behaviour-change/&#x27; | relative_url &amp;#125;&amp;#125;): Theories, progress, and...by A Simpson · 2025 · Cited by 11 — In this paper we offer several calls to action fo...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1469029225001177" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1469029225001177</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Health [behaviour change](&amp;#123;&amp;#123; &#x27;behaviour-change/&#x27; | relative_url &amp;#125;&amp;#125;): Theories, progress, and...by A Simpson · 2025 · Cited by 11 — In this paper we offer several calls to action fo...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: implementation.com  
-   Link: <a href="https://www.implementation.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.implementation.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Engineers | Global Implementation FirmWe have over 60 years of operational implementation experience and we work with your...</p></details>
+   Link:<a href="https://www.implementation.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.implementation.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Engineers | Global Implementation FirmWe have over 60 years of operational implementation experience and we work with your...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: behaviormodel.org  
-   Link: <a href="https://www.behaviormodel.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.behaviormodel.org/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior ModelFogg Behavior Model - BJ FoggThe Fogg Behavior Model shows that three elements must converge at the same moment for a...</p></details>
+   Link:<a href="https://www.behaviormodel.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.behaviormodel.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior ModelFogg Behavior Model - BJ FoggThe Fogg Behavior Model shows that three elements must converge at the same moment for a...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: triplewhale.com  
    Title: Triple Whale What Is the Fogg Behavior Model?  
-   Link: <a href="https://www.triplewhale.com/blog/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow">https://www.triplewhale.com/blog/fogg-behavior-model</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Complete Guide to...12 Mar 2026 — The Fogg Behavior Model thinks of ability as simplicity and frictionlessness. The idea is to minimiz...</p></details>
+   Link:<a href="https://www.triplewhale.com/blog/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow">https://www.triplewhale.com/blog/fogg-behavior-model</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Complete Guide to...12 Mar 2026 — The Fogg Behavior Model thinks of ability as simplicity and frictionlessness. The idea is to minimiz...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Implementation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Implementation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ImplementationImplementation is the realization of an application, execution of a plan, idea, model, design, specification, standard...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Implementation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Implementation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ImplementationImplementation is the realization of an application, execution of a plan, idea, model, design, specification, standard...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: techtarget.com  
-   Link: <a href="https://www.techtarget.com/searchcustomerexperience/definition/implementation" target="_blank" rel="noopener noreferrer nofollow">https://www.techtarget.com/searchcustomerexperience/definition/implementation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Implementation?Jun 1, 2022 — Implementation is the execution or practice of a plan, a method or any design, idea, model, specific...</p></details>
+   Link:<a href="https://www.techtarget.com/searchcustomerexperience/definition/implementation" target="_blank" rel="noopener noreferrer nofollow">https://www.techtarget.com/searchcustomerexperience/definition/implementation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is Implementation?Jun 1, 2022 — Implementation is the execution or practice of a plan, a method or any design, idea, model, specific...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/implement" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/implement</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IMPLEMENT Definition &amp; Meaning5 days ago — The [meaning](&amp;#123;&amp;#123; &#x27;meaning/&#x27; | relative_url &amp;#125;&amp;#125;) of IMPLEMENT is a device used in the performance of a task: tool, utensil. How to...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/implement" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/implement</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IMPLEMENT Definition &amp; Meaning5 days ago — The [meaning](&amp;#123;&amp;#123; &#x27;meaning/&#x27; | relative_url &amp;#125;&amp;#125;) of IMPLEMENT is a device used in the performance of a task: tool, utensil. How to...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/thesaurus/implementation" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/thesaurus/implementation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IMPLEMENTATION Synonyms: 24 Similar and Opposite...4 days ago — Synonyms for IMPLEMENTATION: execution, fulfillment, perpetration, perfo...</p></details>
+   Link:<a href="https://www.merriam-webster.com/thesaurus/implementation" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/thesaurus/implementation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IMPLEMENTATION Synonyms: 24 Similar and Opposite...4 days ago — Synonyms for IMPLEMENTATION: execution, fulfillment, perpetration, perfo...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/booktroverts/posts/1524240055019132/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/booktroverts/posts/1524240055019132/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Seven lessons from &quot;tiny habits&quot; for lasting changeMake It Easy: Reduce friction by making the new habit as simple and effortless as poss...</p></details>
+   Link:<a href="https://www.facebook.com/groups/booktroverts/posts/1524240055019132/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/booktroverts/posts/1524240055019132/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Seven lessons from &quot;tiny habits&quot; for lasting changeMake It Easy: Reduce friction by making the new habit as simple and effortless as poss...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: tinyhabits.com  
-   Link: <a href="https://tinyhabits.com/" target="_blank" rel="noopener noreferrer nofollow">https://tinyhabits.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: BJ FoggBJ Fogg, PhD, created the Tiny Habits method. He directs the Behavior Design Lab at Stanford University. Dr. Fogg&#x27;s m...</p></details>
+   Link:<a href="https://tinyhabits.com/" target="_blank" rel="noopener noreferrer nofollow">https://tinyhabits.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: BJ FoggBJ Fogg, PhD, created the Tiny Habits method. He directs the Behavior Design Lab at Stanford University. Dr. Fogg&#x27;s m...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: mariashriver.com  
-   Link: <a href="https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/" target="_blank" rel="noopener noreferrer nofollow">https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Researcher BJ Fogg on the &#x27;Tiny Habits&#x27; That Lead to...When it comes to change, behavior scientist BJ Fogg believes that “tiny...</p></details>
+   Link:<a href="https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/" target="_blank" rel="noopener noreferrer nofollow">https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Researcher BJ Fogg on the &#x27;Tiny Habits&#x27; That Lead to...When it comes to change, behavior scientist BJ Fogg believes that “tiny...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: goodreads.com  
-   Link: <a href="https://www.goodreads.com/book/show/45440297-tiny-habits" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/45440297-tiny-habits</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: The Small Changes That Change EverythingBJ Fogg PhD is the leading expert in behavior change and habit formation...</p></details>
+   Link:<a href="https://www.goodreads.com/book/show/45440297-tiny-habits" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/45440297-tiny-habits</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: The Small Changes That Change EverythingBJ Fogg PhD is the leading expert in behavior change and habit formation...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: drjud.com  
    Title: How Habit Change Approaches Differ: Clear vs  
-   Link: <a href="https://drjud.com/behavior-change/habit-change-methods-compared/" target="_blank" rel="noopener noreferrer nofollow">https://drjud.com/behavior-change/habit-change-methods-compared/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg vs...Mar 5, 2026 — It makes good habits easier and bad habits harder - but... BJ Fogg: Reduce friction, celebrate immediately (wor...</p></details>
+   Link:<a href="https://drjud.com/behavior-change/habit-change-methods-compared/" target="_blank" rel="noopener noreferrer nofollow">https://drjud.com/behavior-change/habit-change-methods-compared/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg vs...Mar 5, 2026 — It makes good habits easier and bad habits harder - but... BJ Fogg: Reduce friction, celebrate immediately (wor...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: qmarkets.net  
-   Link: <a href="https://www.qmarkets.net/resources/article/implementation-process/" target="_blank" rel="noopener noreferrer nofollow">https://www.qmarkets.net/resources/article/implementation-process/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Implementation Process: Key Steps to Drive ResultsThe implementation process is the structured execution of a plan, project, or innov...</p></details>
+   Link:<a href="https://www.qmarkets.net/resources/article/implementation-process/" target="_blank" rel="noopener noreferrer nofollow">https://www.qmarkets.net/resources/article/implementation-process/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Implementation Process: Key Steps to Drive ResultsThe implementation process is the structured execution of a plan, project, or innov...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: jordanharbinger.com  
    Title: bj fogg tiny habits that change everything  
-   Link: <a href="https://www.jordanharbinger.com/bj-fogg-tiny-habits-that-change-everything/" target="_blank" rel="noopener noreferrer nofollow">https://www.jordanharbinger.com/bj-fogg-tiny-habits-that-change-everything/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>306: BJ Fogg | Tiny Habits That Change Everything29 Jan 2020 — In this episode, we talk to Stanford Behavior Design Lab founder BJ Fogg a...</p></details>
+   Link:<a href="https://www.jordanharbinger.com/bj-fogg-tiny-habits-that-change-everything/" target="_blank" rel="noopener noreferrer nofollow">https://www.jordanharbinger.com/bj-fogg-tiny-habits-that-change-everything/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>306: BJ Fogg | Tiny Habits That Change Everything29 Jan 2020 — In this episode, we talk to Stanford Behavior Design Lab founder BJ Fogg a...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: impsciuw.org  
-   Link: <a href="https://impsciuw.org/implementation-science/learn/implementation-science-overview/" target="_blank" rel="noopener noreferrer nofollow">https://impsciuw.org/implementation-science/learn/implementation-science-overview/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>dence-based practice and research into regular use.Read more...</p></details>
+   Link:<a href="https://impsciuw.org/implementation-science/learn/implementation-science-overview/" target="_blank" rel="noopener noreferrer nofollow">https://impsciuw.org/implementation-science/learn/implementation-science-overview/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>dence-based practice and research into regular use.Read more...</p></details>

@@ -268,14 +268,14 @@ image: /assets/images/self_improvement_tha_c01280_starting_small_31cbaf_complex_
 
 ## Introduction
 
-Starting small is an effective way to begin a new behaviour, but many important goals cannot be achieved through repetition alone. Writing a book, mastering a subject, building fitness, managing money well, or learning a professional skill all involve multiple abilities, ongoing decisions, and changing challenges. A tiny starter habit can help overcome the barrier to beginning, but it is rarely enough to carry the entire process. Research on [behaviour change]({{ 'behaviour-change/' | relative_url }}) consistently shows that complex goals benefit from planning, feedback, self-monitoring, prompts, and gradual [progression]({{ 'progression/' | relative_url }}) rather than relying solely on automatic habit formation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">Digital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 77 — The results show that the most applied beha...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phwwhocc.co.uk">[WHO Collaborating Centre for Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phwwhocc.co.uk</span><span class="citation-popover-snippet">or cognitive). • Self-monitoring of behaviour. Establish a method for the person to monitor and record their behaviour(s) as part of a be...</span></span></span>
+Starting small is an effective way to begin a new behaviour, but many important goals cannot be achieved through repetition alone. Writing a book, mastering a subject, building fitness, managing money well, or learning a professional skill all involve multiple abilities, ongoing decisions, and changing challenges. A tiny starter habit can help overcome the barrier to beginning, but it is rarely enough to carry the entire process. Research on [behaviour change]({{ 'behaviour-change/' | relative_url }}) consistently shows that complex goals benefit from planning, feedback, self-monitoring, prompts, and gradual [progression]({{ 'progression/' | relative_url }}) rather than relying solely on automatic habit formation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">Digital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 77 — The results show that the most applied beha...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phwwhocc.co.uk">[WHO Collaborating Centre for Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phwwhocc.co.uk</span><span class="citation-popover-snippet">or cognitive). • Self-monitoring of behaviour. Establish a method for the person to monitor and record their behaviour(s) as part of a be...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf_complex_behaviour_su_893b79-Illustration-1-dark.svg" | relative_url }}" alt="Complex Goals illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf_complex_behaviour_su_893b79-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf_complex_behaviour_su_893b79-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The practical lesson is simple: use small habits as an entry point, then surround them with [support]({{ 'support/' | relative_url }}) structures that help the behaviour grow. The starter action gets you moving; the support system keeps you moving.
 
 ## Simple Habits Versus Complex Behaviour Change
 
-A simple habit is usually a repeated action performed in a stable context. Drinking a glass of water after breakfast or taking a short walk after lunch can become relatively automatic because the behaviour is clear, brief, and linked to a consistent cue. Habit research suggests that repeated actions in stable contexts gradually become easier and more automatic over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">After many repetitions, mental representations of habitual action are formed...Read more...</span></span></span> University Press & Assessment
+A simple habit is usually a repeated action performed in a stable context. Drinking a glass of water after breakfast or taking a short walk after lunch can become relatively automatic because the behaviour is clear, brief, and linked to a consistent cue. Habit research suggests that repeated actions in stable contexts gradually become easier and more automatic over time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">After many repetitions, mental representations of habitual action are formed...Read more...</span></span></span> University Press & Assessment
 
 Complex goals are different. They contain multiple sub-skills, require judgement, and often involve changing conditions.
 
@@ -292,7 +292,7 @@ Consider the difference between:
 
 In each case, the starter action is useful because it creates momentum. However, the larger outcome depends on additional processes such as skill acquisition, problem-solving, [feedback]({{ 'feedback/' | relative_url }}), and adaptation.
 
-Research reviews on habit-based interventions repeatedly find that behaviour change works best when habits are supported by techniques such as goal setting, self-monitoring, prompts, and feedback. These elements help people move beyond mere repetition and continue progressing when the task becomes more demanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">Digital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 77 — The results show that the most applied beha...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ira.lib.polyu.edu.hk/bitstream/10397/106677/1/jmir-2024-1-e54375.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ira.lib.polyu.edu.hk">[PolyU Institutional Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ira.lib.polyu.edu.hk</span><span class="citation-popover-snippet">PolyU Institutional Research ArchiveDigital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 83 — The results...</span></span></span>
+Research reviews on habit-based interventions repeatedly find that behaviour change works best when habits are supported by techniques such as goal setting, self-monitoring, prompts, and feedback. These elements help people move beyond mere repetition and continue progressing when the task becomes more demanding.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">Digital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 77 — The results show that the most applied beha...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://ira.lib.polyu.edu.hk/bitstream/10397/106677/1/jmir-2024-1-e54375.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ira.lib.polyu.edu.hk">[PolyU Institutional Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ira.lib.polyu.edu.hk</span><span class="citation-popover-snippet">PolyU Institutional Research ArchiveDigital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 83 — The results...</span></span></span>
 
 This is one reason the popular idea of "just make it tiny" can be misunderstood. Tiny habits help people start. They do not automatically teach difficult skills.
 
@@ -302,7 +302,7 @@ Complex behaviours often require deliberate improvement rather than simple repet
 
 A student who studies for five minutes every evening may establish a study habit, but exam performance depends on understanding material, identifying weaknesses, practising retrieval, and correcting mistakes. Likewise, a person who writes every day may build consistency yet still need editing, feedback, and revision to improve quality.
 
-Research on planning and habit development suggests that [action plans]({{ 'action-plans/' | relative_url }}) and implementation intentions help people begin and maintain behaviours, but long-term improvement usually depends on how those behaviours are developed and refined over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">After many repetitions, mental representations of habitual action are formed...Read more...</span></span></span> University Press & Assessment <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span>
+Research on planning and habit development suggests that [action plans]({{ 'action-plans/' | relative_url }}) and implementation intentions help people begin and maintain behaviours, but long-term improvement usually depends on how those behaviours are developed and refined over time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">After many repetitions, mental representations of habitual action are formed...Read more...</span></span></span> University Press & Assessment<span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span>
 
 The habit opens the door. The learning process does the rest.
 
@@ -312,11 +312,11 @@ The habit opens the door. The learning process does the rest.
 
 When goals become more complex, the most valuable addition is often not more motivation but better support.
 
-Behaviour change frameworks frequently identify a cluster of techniques that improve persistence and performance: self-monitoring, feedback, goal setting, prompts, and structured planning. These techniques appear repeatedly across successful interventions because they help people notice what is working and adjust when it is not. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">Digital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 77 — The results show that the most applied beha...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pearl.plymouth.ac.uk/cgi/viewcontent.cgi?article=1424&amp;context=psy-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pearl.plymouth.ac.uk">[pearl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pearl.plymouth.ac.uk</span><span class="citation-popover-snippet">associations between behavior change techniques...by M Milne-Ives · 2023 · Cited by 75 — Six BCTs were repeatedly associated with user e...</span></span></span> Several support structures are especially useful.
+Behaviour change frameworks frequently identify a cluster of techniques that improve persistence and performance: self-monitoring, feedback, goal setting, prompts, and structured planning. These techniques appear repeatedly across successful interventions because they help people notice what is working and adjust when it is not.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">Digital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 77 — The results show that the most applied beha...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pearl.plymouth.ac.uk/cgi/viewcontent.cgi?article=1424&amp;context=psy-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pearl.plymouth.ac.uk">[pearl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pearl.plymouth.ac.uk</span><span class="citation-popover-snippet">associations between behavior change techniques...by M Milne-Ives · 2023 · Cited by 75 — Six BCTs were repeatedly associated with user e...</span></span></span> Several support structures are especially useful.
 
 **Clear feedback loops.**
 
-People improve faster when they can see results and compare performance against a target. A runner records times. A writer tracks completed words or finished drafts. A student uses quizzes to identify weak areas. Feedback turns vague effort into information. Research reviews consistently identify feedback and self-monitoring as common ingredients in effective behaviour-change interventions. MDPI <span class="citation-chip-wrap"><a class="citation-chip" href="https://pearl.plymouth.ac.uk/cgi/viewcontent.cgi?article=1424&amp;context=psy-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pearl.plymouth.ac.uk">[Pearl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pearl.plymouth.ac.uk</span><span class="citation-popover-snippet">associations between behavior change techniques...by M Milne-Ives · 2023 · Cited by 75 — Six BCTs were repeatedly associated with user e...</span></span></span>
+People improve faster when they can see results and compare performance against a target. A runner records times. A writer tracks completed words or finished drafts. A student uses quizzes to identify weak areas. Feedback turns vague effort into information. Research reviews consistently identify feedback and self-monitoring as common ingredients in effective behaviour-change interventions. MDPI<span class="citation-chip-wrap"><a class="citation-chip" href="https://pearl.plymouth.ac.uk/cgi/viewcontent.cgi?article=1424&amp;context=psy-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pearl.plymouth.ac.uk">[Pearl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pearl.plymouth.ac.uk</span><span class="citation-popover-snippet">associations between behavior change techniques...by M Milne-Ives · 2023 · Cited by 75 — Six BCTs were repeatedly associated with user e...</span></span></span>
 
 **Progressive difficulty.**
 
@@ -324,7 +324,7 @@ Many goals require increasing challenge over time. Fitness programmes add weight
 
 **Environmental cues and reminders.**
 
-Prompts remain useful even after the habit has started. Research on implementation intentions and cue-based behaviour suggests that specifying when and where an action will occur improves follow-through. Consistent cues reduce the need to remember and decide repeatedly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">After many repetitions, mental representations of habitual action are formed...Read more...</span></span></span>
+Prompts remain useful even after the habit has started. Research on implementation intentions and cue-based behaviour suggests that specifying when and where an action will occur improves follow-through. Consistent cues reduce the need to remember and decide repeatedly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">After many repetitions, mental representations of habitual action are formed...Read more...</span></span></span>
 
 **External accountability.**
 
@@ -334,7 +334,7 @@ Coaches, teachers, training partners, study groups, and financial advisers provi
 
 Many self-improvement attempts fail because people confuse consistency with progress.
 
-For example: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.law.cornell.edu/wex/deliberate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.cornell.edu">[law.cornell.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.cornell.edu</span><span class="citation-popover-snippet">Wex &#124; US Law &#124; LII / Legal Information InstituteIf used as an adjective, it refers to intentional or predetermined action or omission...</span></span></span>
+For example:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.law.cornell.edu/wex/deliberate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.cornell.edu">[law.cornell.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.cornell.edu</span><span class="citation-popover-snippet">Wex &#124; US Law &#124; LII / Legal Information InstituteIf used as an adjective, it refers to intentional or predetermined action or omission...</span></span></span>
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -347,7 +347,7 @@ For example: <span class="citation-chip-wrap"><a class="citation-chip" href="htt
 
 The problem is not the starter habit. The problem is treating the starter habit as the complete system.
 
-Habit formation research increasingly emphasises that habits are only one component of sustained behaviour change. Broader interventions often require monitoring, planning, adaptation, and reinforcement mechanisms alongside automatic routines. Taylor & Francis Online <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 79 — This study presents a systematic review aimed at identifying the design strategies of habit formation...</span></span></span>
+Habit formation research increasingly emphasises that habits are only one component of sustained behaviour change. Broader interventions often require monitoring, planning, adaptation, and reinforcement mechanisms alongside automatic routines. Taylor & Francis Online<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 79 — This study presents a systematic review aimed at identifying the design strategies of habit formation...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf_complex_behaviour_su_893b79-Illustration-2-dark.svg" | relative_url }}" alt="Complex Goals illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf_complex_behaviour_su_893b79-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf_complex_behaviour_su_893b79-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to Turn a Starter Action Into a Practice Plan
@@ -390,20 +390,20 @@ Examples include:
 
 </div>
 
-Self-monitoring increases awareness and is one of the most commonly used behaviour-change techniques in successful interventions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">Digital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 77 — The results show that the most applied beha...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/24/8/2429" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">A Comprehensive Review of Behavior Change Techniques...by C Del-Valle-Soto · 2024 · Cited by 47 — Self-Monitoring and Feedback invol...</span></span></span>
+Self-monitoring increases awareness and is one of the most commonly used behaviour-change techniques in successful interventions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">Digital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 77 — The results show that the most applied beha...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/24/8/2429" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">A Comprehensive Review of Behavior Change Techniques...by C Del-Valle-Soto · 2024 · Cited by 47 — Self-Monitoring and Feedback invol...</span></span></span>
 
 ### Stage 3: Introduce progression
 
 After consistency and measurement are established, deliberately increase challenge.
 
-For example: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.law.cornell.edu/wex/deliberate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.cornell.edu">[law.cornell.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.cornell.edu</span><span class="citation-popover-snippet">Wex &#124; US Law &#124; LII / Legal Information InstituteIf used as an adjective, it refers to intentional or predetermined action or omission...</span></span></span>
+For example:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.law.cornell.edu/wex/deliberate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: law.cornell.edu">[law.cornell.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">law.cornell.edu</span><span class="citation-popover-snippet">Wex &#124; US Law &#124; LII / Legal Information InstituteIf used as an adjective, it refers to intentional or predetermined action or omission...</span></span></span>
 
 * Expand five study minutes into focused learning sessions.
 * Move from one paragraph of writing to a complete draft schedule.
 * Progress from [short walks]({{ 'short-walks/' | relative_url }}) to structured training.
 * Advance from tracking spending to automated saving and investment systems.
 
-Research on action planning suggests that behaviour maintenance is strengthened when people move beyond intention and create specific plans for how behaviour will continue and develop. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1469029213000290" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Including these constructs jointly into behavior...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineDeveloping habit-based health behaviour change...by B Gardner · 2023 · Cited by 157 — Theory suggests that making...</span></span></span>
+Research on action planning suggests that behaviour maintenance is strengthened when people move beyond intention and create specific plans for how behaviour will continue and develop.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1469029213000290" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Including these constructs jointly into behavior...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineDeveloping habit-based health behaviour change...by B Gardner · 2023 · Cited by 157 — Theory suggests that making...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf_complex_behaviour_su_893b79-Illustration-3-dark.svg" | relative_url }}" alt="Complex Goals illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf_complex_behaviour_su_893b79-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf_complex_behaviour_su_893b79-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Examples Across Common Self-Improvement Goals
@@ -434,272 +434,272 @@ In every example, the tiny action reduces friction. The support structure create
 
 The most useful way to view a starter habit is not as the goal itself but as a reliable trigger for a larger process.
 
-For simple behaviours, repetition may be enough to create lasting [automaticity]({{ 'automaticity/' | relative_url }}). For complex goals, repetition is only the foundation. Progress depends on adding planning, measurement, feedback, and gradual skill development. Research across behaviour-change interventions repeatedly points to these supporting mechanisms as critical ingredients of sustained improvement. MDPI <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">Digital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 77 — The results show that the most applied beha...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pearl.plymouth.ac.uk/cgi/viewcontent.cgi?article=1424&amp;context=psy-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pearl.plymouth.ac.uk">[pearl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pearl.plymouth.ac.uk</span><span class="citation-popover-snippet">associations between behavior change techniques...by M Milne-Ives · 2023 · Cited by 75 — Six BCTs were repeatedly associated with user e...</span></span></span> Starting small remains valuable. The mistake is stopping there. A tiny habit succeeds when it becomes the first step in a system that can grow with the demands of the goal.
+For simple behaviours, repetition may be enough to create lasting [automaticity]({{ 'automaticity/' | relative_url }}). For complex goals, repetition is only the foundation. Progress depends on adding planning, measurement, feedback, and gradual skill development. Research across behaviour-change interventions repeatedly points to these supporting mechanisms as critical ingredients of sustained improvement. MDPI<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">Digital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 77 — The results show that the most applied beha...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pearl.plymouth.ac.uk/cgi/viewcontent.cgi?article=1424&amp;context=psy-research" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pearl.plymouth.ac.uk">[pearl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pearl.plymouth.ac.uk</span><span class="citation-popover-snippet">associations between behavior change techniques...by M Milne-Ives · 2023 · Cited by 75 — Six BCTs were repeatedly associated with user e...</span></span></span> Starting small remains valuable. The mistake is stopping there. A tiny habit succeeds when it becomes the first step in a system that can grow with the demands of the goal.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Big Skills Need More Than Tiny Habits. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Big Skills Need More Than Tiny Habits. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B_L8CAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
-        </h4>
-        <p class="fr-book-author">By Cal Newport</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B_L8CAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
+</h4>
+<p class="fr-book-author">By Cal Newport</p>
         
-        <p class="fr-book-desc">Shows how complex skills require structured practice beyond tiny habits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how complex skills require structured practice beyond tiny habits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peak on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eHfkCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Peak" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peak">Peak</a>
-        </h4>
-        <p class="fr-book-author">By Anders Ericsson, Robert Pool</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peak on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eHfkCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Peak" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peak">Peak</a>
+</h4>
+<p class="fr-book-author">By Anders Ericsson, Robert Pool</p>
         
-        <p class="fr-book-desc">Explains deliberate practice for difficult abilities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains deliberate practice for difficult abilities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Useful as the entry point before larger systems develop.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Useful as the entry point before larger systems develop.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ultralearning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jyV2DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ultralearning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ultralearning">Ultralearning</a>
-        </h4>
-        <p class="fr-book-author">By Scott H. Young</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ultralearning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jyV2DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ultralearning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ultralearning">Ultralearning</a>
+</h4>
+<p class="fr-book-author">By Scott H. Young</p>
         
-        <p class="fr-book-desc">Focused on acquiring challenging skills through structured methods.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focused on acquiring challenging skills through structured methods.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Work&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Work</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Peak&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Peak</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Work&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Work</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Peak&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Peak</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gym Motivational Posters Work Out Insperational Quotes Wall Art"><img src="{{ '/assets/images/marketplace-covers/4d2a471cca3e54fc14d8.jpg' | relative_url }}" alt="Listing image for Gym Motivational Posters Work Out Insperational Quotes Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Gym Motivational Posters Work Out Insperational Quotes Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gym Motivational Posters Work Out Insperational Quotes Wall Art"><img src="{{ '/assets/images/marketplace-covers/4d2a471cca3e54fc14d8.jpg' | relative_url }}" alt="Listing image for Gym Motivational Posters Work Out Insperational Quotes Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Gym Motivational Posters Work Out Insperational Quotes Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quotes Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/79bcfa06dda89ad237ca.jpg' | relative_url }}" alt="Listing image for Motivational Quotes Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quotes Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quotes Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/79bcfa06dda89ad237ca.jpg' | relative_url }}" alt="Listing image for Motivational Quotes Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quotes Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/889e8acbca3b73af071f.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/889e8acbca3b73af071f.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/cdb87d9c00637e7f5353.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/cdb87d9c00637e7f5353.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=complex-goals-why-big-skills-need-more-than-tiny-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -715,7 +715,7 @@ For simple behaviours, repetition may be enough to create lasting [automaticity]
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -735,7 +735,7 @@ For simple behaviours, repetition may be enough to create lasting [automaticity]
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -767,7 +767,7 @@ For simple behaviours, repetition may be enough to create lasting [automaticity]
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -797,7 +797,7 @@ For simple behaviours, repetition may be enough to create lasting [automaticity]
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -855,171 +855,171 @@ For simple behaviours, repetition may be enough to create lasting [automaticity]
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: jmir.org  
-   Link: <a href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e54375/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 77 — The results show that the most applied beha...</p></details>
+   Link:<a href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e54375/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 77 — The results show that the most applied beha...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>After many repetitions, mental representations of habitual action are formed...Read more...</p></details>
+   Link:<a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>After many repetitions, mental representations of habitual action are formed...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 890 — Psychological theory and evidence around...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 890 — Psychological theory and evidence around...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/1424-8220/24/8/2429" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/24/8/2429</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Comprehensive Review of Behavior Change Techniques...by C Del-Valle-Soto · 2024 · Cited by 47 — Self-Monitoring and Feedback invol...</p></details>
+   Link:<a href="https://www.mdpi.com/1424-8220/24/8/2429" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/24/8/2429</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Comprehensive Review of Behavior Change Techniques...by C Del-Valle-Soto · 2024 · Cited by 47 — Self-Monitoring and Feedback invol...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cambridge.org  
    Title: University Press & Assessment39  
-   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment39 - Planning and Implementation Intention InterventionsThis chapter provides resources and best-p...</p></details>
+   Link:<a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment39 - Planning and Implementation Intention InterventionsThis chapter provides resources and best-p...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cancercontrol.cancer.gov  
-   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</p></details>
+   Link:<a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1469029213000290" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1469029213000290</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Including these constructs jointly into behavior...Read more...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S1469029213000290" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1469029213000290</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Including these constructs jointly into behavior...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCDigital Behavior Change Intervention Designs for Habit  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by Y Zhu · 2024 · Cited by 79 — This study presents a systematic review aimed at identifying the design strategies of habit formation...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by Y Zhu · 2024 · Cited by 79 — This study presents a systematic review aimed at identifying the design strategies of habit formation...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352154617301602" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352154617301602</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit formation and changeby L Carden · 2018 · Cited by 359 — For example, implementation intentions help people to remember...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S2352154617301602" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352154617301602</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Habit formation and changeby L Carden · 2018 · Cited by 359 — For example, implementation intentions help people to remember...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/deliberate" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/deliberate</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English [meaning](&amp;#123;&amp;#123; &#x27;meaning/&#x27; | relative_url &amp;#125;&amp;#125;) - Cambridge Dictionaryto think or talk seriously and carefully about something: deliberate on The jury took five days t...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/deliberate" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/deliberate</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English [meaning](&amp;#123;&amp;#123; &#x27;meaning/&#x27; | relative_url &amp;#125;&amp;#125;) - Cambridge Dictionaryto think or talk seriously and carefully about something: deliberate on The jury took five days t...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sciencedirect.com  
    Title: Behavior Change Technique  
-   Link: <a href="https://www.sciencedirect.com/topics/psychology/behavior-change-technique" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/behavior-change-technique</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>an overviewThis review offers a glimpse into the mechanisms by which self-management interventions lead to behavior change; however, more...</p></details>
+   Link:<a href="https://www.sciencedirect.com/topics/psychology/behavior-change-technique" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/behavior-change-technique</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>an overviewThis review offers a glimpse into the mechanisms by which self-management interventions lead to behavior change; however, more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/org/science/article/pii/S1438887124002619" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S1438887124002619</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 83 — The results show that the most applied behavior...</p></details>
+   Link:<a href="https://www.sciencedirect.com/org/science/article/pii/S1438887124002619" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S1438887124002619</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 83 — The results show that the most applied behavior...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2227-9032/12/23/2488" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2227-9032/12/23/2488</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Time to Form a Habit: A Systematic Review and Meta-...by B Singh · 2024 · Cited by 93 — Stage 1: Deciding to take action and translating...</p></details>
+   Link:<a href="https://www.mdpi.com/2227-9032/12/23/2488" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2227-9032/12/23/2488</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Time to Form a Habit: A Systematic Review and Meta-...by B Singh · 2024 · Cited by 93 — Stage 1: Deciding to take action and translating...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: vocabulary.com  
-   Link: <a href="https://www.vocabulary.com/dictionary/deliberate" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/dictionary/deliberate</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, Meaning &amp; SynonymsTo deliberate means to carefully think or talk something through — it also means slow and measured, the pac...</p></details>
+   Link:<a href="https://www.vocabulary.com/dictionary/deliberate" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/dictionary/deliberate</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, Meaning &amp; SynonymsTo deliberate means to carefully think or talk something through — it also means slow and measured, the pac...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: phwwhocc.co.uk  
-   Link: <a href="https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>or cognitive). • Self-monitoring of behaviour. Establish a method for the person to monitor and record their behaviour(s) as part of a be...</p></details>
+   Link:<a href="https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>or cognitive). • Self-monitoring of behaviour. Establish a method for the person to monitor and record their behaviour(s) as part of a be...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ira.lib.polyu.edu.hk  
-   Link: <a href="https://ira.lib.polyu.edu.hk/bitstream/10397/106677/1/jmir-2024-1-e54375.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ira.lib.polyu.edu.hk/bitstream/10397/106677/1/jmir-2024-1-e54375.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PolyU Institutional Research ArchiveDigital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 83 — The results...</p></details>
+   Link:<a href="https://ira.lib.polyu.edu.hk/bitstream/10397/106677/1/jmir-2024-1-e54375.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ira.lib.polyu.edu.hk/bitstream/10397/106677/1/jmir-2024-1-e54375.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PolyU Institutional Research ArchiveDigital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 83 — The results...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pearl.plymouth.ac.uk  
-   Link: <a href="https://pearl.plymouth.ac.uk/cgi/viewcontent.cgi?article=1424&amp;context=psy-research" target="_blank" rel="noopener noreferrer nofollow">https://pearl.plymouth.ac.uk/cgi/viewcontent.cgi?article=1424&amp;context=psy-research</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>associations between behavior change techniques...by M Milne-Ives · 2023 · Cited by 75 — Six BCTs were repeatedly associated with user e...</p></details>
+   Link:<a href="https://pearl.plymouth.ac.uk/cgi/viewcontent.cgi?article=1424&amp;context=psy-research" target="_blank" rel="noopener noreferrer nofollow">https://pearl.plymouth.ac.uk/cgi/viewcontent.cgi?article=1424&amp;context=psy-research</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>associations between behavior change techniques...by M Milne-Ives · 2023 · Cited by 75 — Six BCTs were repeatedly associated with user e...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineDeveloping habit-based health behaviour change...by B Gardner · 2023 · Cited by 157 — Theory suggests that making...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineDeveloping habit-based health behaviour change...by B Gardner · 2023 · Cited by 157 — Theory suggests that making...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/08870446.2023.2241777" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/08870446.2023.2241777</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineThe impact of action plans on habit and intention strength...by AL Rebar · 2025 · Cited by 23 — The aim of this s...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/abs/10.1080/08870446.2023.2241777" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/08870446.2023.2241777</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineThe impact of action plans on habit and intention strength...by AL Rebar · 2025 · Cited by 23 — The aim of this s...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.626750/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.626750/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Systematic Review Examining the Relationship Between...by K Feil · 2021 · Cited by 95 — The aim of this review was to examine the rela...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.626750/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.626750/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Systematic Review Examining the Relationship Between...by K Feil · 2021 · Cited by 95 — The aim of this review was to examine the rela...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/rwe/10.1007/978-3-030-39903-0_1661" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/rwe/10.1007/978-3-030-39903-0_1661</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Change Techniques | Springer Nature Link20 Oct 2020 — Evaluating the effectiveness of behavior change techniques in health-related behavi...</p></details>
+   Link:<a href="https://link.springer.com/rwe/10.1007/978-3-030-39903" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/rwe/10.1007/978-3-030-39903</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Change Techniques | Springer Nature Link20 Oct 2020 — Evaluating the effectiveness of behavior change techniques in health-related behavi...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: law.cornell.edu  
-   Link: <a href="https://www.law.cornell.edu/wex/deliberate" target="_blank" rel="noopener noreferrer nofollow">https://www.law.cornell.edu/wex/deliberate</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wex | US Law | LII / Legal Information InstituteIf used as an adjective, it refers to intentional or predetermined action or omission...</p></details>
+   Link:<a href="https://www.law.cornell.edu/wex/deliberate" target="_blank" rel="noopener noreferrer nofollow">https://www.law.cornell.edu/wex/deliberate</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wex | US Law | LII / Legal Information InstituteIf used as an adjective, it refers to intentional or predetermined action or omission...</p></details>
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: dictionary.com  
-   Link: <a href="https://www.dictionary.com/browse/deliberate" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/deliberate</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DELIBERATE Definition &amp; MeaningTo deliberate means to carefully think or talk something through — it also means slow and measured, the pa...</p></details>
+   Link:<a href="https://www.dictionary.com/browse/deliberate" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/deliberate</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DELIBERATE Definition &amp; MeaningTo deliberate means to carefully think or talk something through — it also means slow and measured, the pa...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/deliberate" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/deliberate</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DELIBERATE Definition &amp; Meaning1. characterized by or resulting from careful and thorough consideration; a deliberate decision; Ms. Barke...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/deliberate" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/deliberate</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DELIBERATE Definition &amp; Meaning1. characterized by or resulting from careful and thorough consideration; a deliberate decision; Ms. Barke...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/habit" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/habit</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HABIT Definition &amp; Meaning7 days ago — The word habit most often refers to a usual way of behaving or a tendency that someone has settled...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/habit" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/habit</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HABIT Definition &amp; Meaning7 days ago — The word habit most often refers to a usual way of behaving or a tendency that someone has settled...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: collinsdictionary.com  
-   Link: <a href="https://www.collinsdictionary.com/dictionary/english/deliberate" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/deliberate</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>carefully thought out and formed, or done on purpose; premeditated · 2. careful in considering, judging, or deciding; not...Read more...</p></details>
+   Link:<a href="https://www.collinsdictionary.com/dictionary/english/deliberate" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/deliberate</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>carefully thought out and formed, or done on purpose; premeditated · 2. careful in considering, judging, or deciding; not...Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Science of Habit Formation to Evidence-Based...by AG Harvey · 2021 · Cited by 55 — Planning to break unwanted habits: Habit strength...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Science of Habit Formation to Evidence-Based...by AG Harvey · 2021 · Cited by 55 — Planning to break unwanted habits: Habit strength...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: nice.org.uk  
    Title: behaviour change individual approaches pdf 1996366337989  
-   Link: <a href="https://www.nice.org.uk/guidance/ph49/resources/behaviour-change-individual-approaches-pdf-1996366337989" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/ph49/resources/behaviour-change-individual-approaches-pdf-1996366337989</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour change: individual approaches2 Jan 2014 — This guideline covers changing health-damaging behaviours among people aged 16 and ov...</p></details>
+   Link:<a href="https://www.nice.org.uk/guidance/ph49/resources/behaviour-change-individual-approaches-pdf-1996366337989" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/ph49/resources/behaviour-change-individual-approaches-pdf-1996366337989</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour change: individual approaches2 Jan 2014 — This guideline covers changing health-damaging behaviours among people aged 16 and ov...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: discovery.ucl.ac.uk  
-   Link: <a href="https://discovery.ucl.ac.uk/10139326/9/Lally_Developing%20habit%20based%20health%20behaviour%20change%20interventions%20twenty%20one%20questions%20to%20guide%20future%20research.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/10139326/9/Lally_Developing%20habit%20based%20health%20behaviour%20change%20interventions%20twenty%20one%20questions%20to%20guide%20future%20research.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>implementation intentions with cue-monitoring targeting...Read more...</p></details>
+   Link:<a href="https://discovery.ucl.ac.uk/10139326/9/Lally_Developing%20habit%20based%20health%20behaviour%20change%20interventions%20twenty%20one%20questions%20to%20guide%20future%20research.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/10139326/9/Lally_Developing%20habit%20based%20health%20behaviour%20change%20interventions%20twenty%20one%20questions%20to%20guide%20future%20research.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>implementation intentions with cue-monitoring targeting...Read more...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: oxfordlearnersdictionaries.com  
    Title: The jury deliberated for five days before finding him guilty.Read more  
-   Link: <a href="https://www.oxfordlearnersdictionaries.com/definition/english/deliberate_2" target="_blank" rel="noopener noreferrer nofollow">https://www.oxfordlearnersdictionaries.com/definition/english/deliberate_2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>deliberate verb - Definition, pictures, pronunciation and...to consider something very carefully, usually before making a decision...</p></details>
+   Link:<a href="https://www.oxfordlearnersdictionaries.com/definition/english/deliberate_2" target="_blank" rel="noopener noreferrer nofollow">https://www.oxfordlearnersdictionaries.com/definition/english/deliberate_2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>deliberate verb - Definition, pictures, pronunciation and...to consider something very carefully, usually before making a decision...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: thesaurus.com  
    Title: DELIBERAT E Synonyms & Antonyms  
-   Link: <a href="https://www.thesaurus.com/browse/deliberate" target="_blank" rel="noopener noreferrer nofollow">https://www.thesaurus.com/browse/deliberate</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DELIBERATE Synonyms &amp; Antonyms - 188 wordsFind 188 different ways to say DELIBERATE, along with antonyms, related words, and example sent...</p></details>
+   Link:<a href="https://www.thesaurus.com/browse/deliberate" target="_blank" rel="noopener noreferrer nofollow">https://www.thesaurus.com/browse/deliberate</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DELIBERATE Synonyms &amp; Antonyms - 188 wordsFind 188 different ways to say DELIBERATE, along with antonyms, related words, and example sent...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: annualreviews.org  
    Title: annurev psych 020821 011744  
-   Link: <a href="https://www.annualreviews.org/docserver/fulltext/psych/73/1/annurev-psych-020821-011744.pdf?accname=guest&amp;checksum=25BC0568471D2B3B1729FC0D8A37C3FC&amp;expires=1734081569&amp;id=id" target="_blank" rel="noopener noreferrer nofollow">https://www.annualreviews.org/docserver/fulltext/psych/73/1/annurev-psych-020821-011744.pdf?accname=guest&amp;checksum=25BC0568471D2B3B1729FC0D8A37C3FC&amp;expires=1734081569&amp;id=id</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Attitudes, Habits, and Behavior Change4 Jan 2022 — Efforts to guide peoples&#x27; behavior toward environmental sustainability, good health, o...</p></details>
+   Link:<a href="https://www.annualreviews.org/docserver/fulltext/psych/73/1/annurev-psych-020821-011744.pdf?accname=guest&amp;checksum=25BC0568471D2B3B1729FC0D8A37C3FC&amp;expires=1734081569&amp;id=id" target="_blank" rel="noopener noreferrer nofollow">https://www.annualreviews.org/docserver/fulltext/psych/73/1/annurev-psych-020821-011744.pdf?accname=guest&amp;checksum=25BC0568471D2B3B1729FC0D8A37C3FC&amp;expires=1734081569&amp;id=id</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Attitudes, Habits, and Behavior Change4 Jan 2022 — Efforts to guide peoples&#x27; behavior toward environmental sustainability, good health, o...</p></details>

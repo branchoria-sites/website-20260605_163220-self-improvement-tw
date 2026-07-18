@@ -274,14 +274,14 @@ image: /assets/images/self_improvement_tha_c01280_social_support_057e53_comparis
 
 ## Introduction
 
-Step challenges and leaderboards are often presented as a simple way to make healthy behaviour more engaging. Sometimes they work exactly as intended. Seeing friends walk more can provide a useful benchmark, create a sense of momentum and encourage people to take a few extra walks. Research on physical activity apps consistently finds that social comparison can increase activity for at least some users under some conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10806118/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExercise or lie down?</span><span class="citation-popover-snippet">The impact of fitness app use on users...by J Cai · 2024 · Cited by 23 — It has been found that upward social comparison may discourages...</span></span></span>
+Step challenges and leaderboards are often presented as a simple way to make healthy behaviour more engaging. Sometimes they work exactly as intended. Seeing friends walk more can provide a useful benchmark, create a sense of momentum and encourage people to take a few extra walks. Research on physical activity apps consistently finds that social comparison can increase activity for at least some users under some conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10806118/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExercise or lie down?</span><span class="citation-popover-snippet">The impact of fitness app use on users...by J Cai · 2024 · Cited by 23 — It has been found that upward social comparison may discourages...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_social_support_057e53_comparison_traps_16e995-Illustration-1-dark.svg" | relative_url }}" alt="Comparison traps illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_social_support_057e53_comparison_traps_16e995-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_social_support_057e53_comparison_traps_16e995-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The problem is that the same mechanism that motivates one person can quietly push another person out. Public rankings change the [meaning]({{ 'meaning/' | relative_url }}) of a walk. Instead of asking, “Did I move more than usual?” people begin asking, “How do I compare with everyone else?” When beginners, injured people, older adults, busy parents or people having a difficult week repeatedly appear near the bottom of a leaderboard, participation can become emotionally costly. The challenge may still look successful from the outside, while some of the people who could benefit most have already stopped engaging.
 
 ## When comparison gives useful information
 
-Comparison is not automatically harmful. Human beings naturally use other people as reference points. In physical activity settings, seeing what others achieve can help people judge what is realistic, identify role models and discover new habits. Research examining social comparison features in physical activity apps suggests that comparison can support [motivation]({{ 'motivation/' | relative_url }}) and [behaviour change]({{ 'behaviour-change/' | relative_url }}), particularly when it provides relevant and attainable information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10806118/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExercise or lie down?</span><span class="citation-popover-snippet">The impact of fitness app use on users...by J Cai · 2024 · Cited by 23 — It has been found that upward social comparison may discourages...</span></span></span>
+Comparison is not automatically harmful. Human beings naturally use other people as reference points. In physical activity settings, seeing what others achieve can help people judge what is realistic, identify role models and discover new habits. Research examining social comparison features in physical activity apps suggests that comparison can support [motivation]({{ 'motivation/' | relative_url }}) and [behaviour change]({{ 'behaviour-change/' | relative_url }}), particularly when it provides relevant and attainable information.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10806118/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExercise or lie down?</span><span class="citation-popover-snippet">The impact of fitness app use on users...by J Cai · 2024 · Cited by 23 — It has been found that upward social comparison may discourages...</span></span></span>
 
 Leaderboards can be especially useful when they answer practical questions:
 
@@ -296,7 +296,7 @@ Leaderboards can be especially useful when they answer practical questions:
 
 In these cases, comparison functions as [feedback]({{ 'feedback/' | relative_url }}) rather than judgement. The focus remains on learning.
 
-Evidence from fitness-app research also suggests that comparison effects are highly variable. Some users respond positively to competitive environments, while others show weaker responses or react negatively. Studies of Fitbit-style challenges have found substantial differences between individuals in both the direction and size of [behaviour changes]({{ 'behaviour-change/' | relative_url }}) produced by comparison-based challenges. <span class="citation-chip-wrap"><a class="citation-chip" href="https://scispace.com/pdf/stepping-up-an-evaluation-of-social-comparison-of-physical-3dwqtuxm.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scispace.com">[SciSpace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scispace.com</span><span class="citation-popover-title">Sci Space An Evaluation of Social Comparison of Physical Activity</span><span class="citation-popover-snippet">An Evaluation of Social Comparison of Physical Activity...July 20, 2022 — 18 Feb 2022 — Results showed that physical activity in...</span><span class="citation-popover-meta">Published: July 20, 2022</span></span></span>
+Evidence from fitness-app research also suggests that comparison effects are highly variable. Some users respond positively to competitive environments, while others show weaker responses or react negatively. Studies of Fitbit-style challenges have found substantial differences between individuals in both the direction and size of [behaviour changes]({{ 'behaviour-change/' | relative_url }}) produced by comparison-based challenges.<span class="citation-chip-wrap"><a class="citation-chip" href="https://scispace.com/pdf/stepping-up-an-evaluation-of-social-comparison-of-physical-3dwqtuxm.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scispace.com">[SciSpace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scispace.com</span><span class="citation-popover-title">Sci Space An Evaluation of Social Comparison of Physical Activity</span><span class="citation-popover-snippet">An Evaluation of Social Comparison of Physical Activity...July 20, 2022 — 18 Feb 2022 — Results showed that physical activity in...</span><span class="citation-popover-meta">Published: July 20, 2022</span></span></span>
 
 That variability is the first warning sign against assuming that a single leaderboard design works for everyone.
 
@@ -306,7 +306,7 @@ A private step count is information. A public ranking is a social signal.
 
 Once performance becomes visible, people are no longer simply tracking behaviour. They are managing impressions. Finishing near the bottom of a leaderboard can feel like public evidence of low effort even when the real explanation is injury, caregiving responsibilities, illness, fatigue or different starting fitness levels.
 
-Social comparison theory helps explain why. People often compare themselves upward, looking at those who are performing better. Upward comparison can sometimes inspire effort, but it can also produce discouragement when the gap feels too large to close. Research on fitness-app use has found that upward comparison can reduce exercise motivation, increase anxiety and lower self-esteem for some users, even while motivating others. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10806118/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExercise or lie down?</span><span class="citation-popover-snippet">The impact of fitness app use on users...by J Cai · 2024 · Cited by 23 — It has been found that upward social comparison may discourages...</span></span></span>
+Social comparison theory helps explain why. People often compare themselves upward, looking at those who are performing better. Upward comparison can sometimes inspire effort, but it can also produce discouragement when the gap feels too large to close. Research on fitness-app use has found that upward comparison can reduce exercise motivation, increase anxiety and lower self-esteem for some users, even while motivating others.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10806118/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExercise or lie down?</span><span class="citation-popover-snippet">The impact of fitness app use on users...by J Cai · 2024 · Cited by 23 — It has been found that upward social comparison may discourages...</span></span></span>
 
 The emotional stakes increase further when rankings are persistent and public:
 
@@ -331,7 +331,7 @@ Step leaderboards often assume that everyone starts from roughly the same place.
 
 One person may already average 15,000 steps per day. Another may be recovering from illness and averaging 3,000. A third may work long shifts with limited opportunities to walk. Placing all three into the same ranking system can create predictable outcomes before the challenge even begins.
 
-Research on social-comparison interventions highlights the importance of comparison targets. People tend to respond differently depending on who they compare themselves with and how large the performance gap is. Large, persistent gaps can make comparison less useful as a source of actionable information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://humanfactors.jmir.org/2023/1/e41239/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: humanfactors.jmir.org">[JMIR Human Factors]</a><span class="citation-popover" role="note"><span class="citation-popover-source">humanfactors.jmir.org</span><span class="citation-popover-snippet">JMIR Human FactorsSelection of and Response to Physical Activity–Based Social...by D Arigo · 2023 · Cited by 9 — We examined the types o...</span></span></span>
+Research on social-comparison interventions highlights the importance of comparison targets. People tend to respond differently depending on who they compare themselves with and how large the performance gap is. Large, persistent gaps can make comparison less useful as a source of actionable information.<span class="citation-chip-wrap"><a class="citation-chip" href="https://humanfactors.jmir.org/2023/1/e41239/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: humanfactors.jmir.org">[JMIR Human Factors]</a><span class="citation-popover" role="note"><span class="citation-popover-source">humanfactors.jmir.org</span><span class="citation-popover-snippet">JMIR Human FactorsSelection of and Response to Physical Activity–Based Social...by D Arigo · 2023 · Cited by 9 — We examined the types o...</span></span></span>
 
 Imagine a newcomer who finishes near the bottom every week:
 
@@ -356,9 +356,9 @@ A common assumption is that if a little competition motivates people, more compe
 
 The evidence is mixed.
 
-Reviews of gamification generally find that competitive features can improve engagement and physical activity, but effects vary substantially across contexts and users. Many studies report positive outcomes, yet researchers repeatedly note that benefits are inconsistent and not universally sustained. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10806118/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExercise or lie down?</span><span class="citation-popover-snippet">The impact of fitness app use on users...by J Cai · 2024 · Cited by 23 — It has been found that upward social comparison may discourages...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10806118/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExercise or lie down?</span><span class="citation-popover-snippet">The impact of fitness app use on users...by J Cai · 2024 · Cited by 23 — It has been found that upward social comparison may discourages...</span></span></span>
+Reviews of gamification generally find that competitive features can improve engagement and physical activity, but effects vary substantially across contexts and users. Many studies report positive outcomes, yet researchers repeatedly note that benefits are inconsistent and not universally sustained.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10806118/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExercise or lie down?</span><span class="citation-popover-snippet">The impact of fitness app use on users...by J Cai · 2024 · Cited by 23 — It has been found that upward social comparison may discourages...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10806118/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExercise or lie down?</span><span class="citation-popover-snippet">The impact of fitness app use on users...by J Cai · 2024 · Cited by 23 — It has been found that upward social comparison may discourages...</span></span></span>
 
-Research on negative effects of gamification also identifies leaderboards, rankings and competitions among the most frequently reported sources of unintended consequences, including motivational problems, worsened performance and disengagement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0306457322001972" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Linking social features of fitness apps with physical activity...by M Sun · 2022 · Cited by 15 — The results provide compelling support...</span></span></span>
+Research on negative effects of gamification also identifies leaderboards, rankings and competitions among the most frequently reported sources of unintended consequences, including motivational problems, worsened performance and disengagement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0306457322001972" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Linking social features of fitness apps with physical activity...by M Sun · 2022 · Cited by 15 — The results provide compelling support...</span></span></span>
 
 An important lesson emerges: competition is not a free motivational upgrade. It is a trade-off.
 
@@ -414,7 +414,7 @@ A participant who moves from 3,000 to 6,000 daily steps can then be recognised f
 
 People benefit more from comparisons that feel relevant.
 
-Grouping participants by starting activity level, age range or challenge category can reduce impossible comparisons and create more useful benchmarks. Research on physical activity interventions has explored how group composition influences responses to social comparison, highlighting that who people compare themselves with matters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/15248399231160152" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsPhysical Activity and Social Comparison17 Mar 2023 — This study examined the impact of group composition of a 6-week group-b...</span></span></span>
+Grouping participants by starting activity level, age range or challenge category can reduce impossible comparisons and create more useful benchmarks. Research on physical activity interventions has explored how group composition influences responses to social comparison, highlighting that who people compare themselves with matters.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/15248399231160152" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsPhysical Activity and Social Comparison17 Mar 2023 — This study examined the impact of group composition of a 6-week group-b...</span></span></span>
 
 ### Make rankings temporary, not permanent
 
@@ -455,178 +455,178 @@ The distinction matters because self-improvement is usually sustained through re
 The strongest [social support]({{ 'social-support/' | relative_url }}) systems use comparison as information rather than judgement. They help people see what is possible, celebrate progress and stay connected to the activity itself. When leaderboards do that, they can be energising. When they turn movement into a public status contest, they often lose the very people who most need encouragement.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When leaderboards make people quit. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When leaderboards make people quit. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Carol S. Dweck</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
-        <p class="fr-book-desc">Helps readers focus on progress and learning rather than ranking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
+</h4>
+<p class="fr-book-author">By Carol S. Dweck</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
+<p class="fr-book-desc">Helps readers focus on progress and learning rather than ranking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Emphasises personal systems and improvement over competition.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Emphasises personal systems and improvement over competition.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Happiness+Trap+by+Russ+Harris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Happiness Trap on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Q6wE1Z6FCtcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Happiness Trap" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Happiness+Trap+by+Russ+Harris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Happiness Trap">The Happiness Trap</a>
-        </h4>
-        <p class="fr-book-author">By Russ Harris</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Happiness+Trap+by+Russ+Harris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Happiness Trap on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Q6wE1Z6FCtcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Happiness Trap" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Happiness+Trap+by+Russ+Harris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Happiness Trap">The Happiness Trap</a>
+</h4>
+<p class="fr-book-author">By Russ Harris</p>
         
-        <p class="fr-book-desc">Provides tools for handling difficult thoughts triggered by comparison.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Happiness+Trap+by+Russ+Harris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides tools for handling difficult thoughts triggered by comparison.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Happiness+Trap+by+Russ+Harris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Gifts+of+Imperfection+by+Brene+Brown%2C+PH.D.%2C+L.M.S.W.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gifts of Imperfection on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Gifts+of+Imperfection+by+Brene+Brown%2C+PH.D.%2C+L.M.S.W.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gifts of Imperfection">The Gifts of Imperfection</a>
-        </h4>
-        <p class="fr-book-author">By Brene Brown, PH.D., L.M.S.W.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Gifts+of+Imperfection+by+Brene+Brown%2C+PH.D.%2C+L.M.S.W.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gifts of Imperfection on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Gifts+of+Imperfection+by+Brene+Brown%2C+PH.D.%2C+L.M.S.W.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gifts of Imperfection">The Gifts of Imperfection</a>
+</h4>
+<p class="fr-book-author">By Brene Brown, PH.D., L.M.S.W.</p>
         
-        <p class="fr-book-desc">Addresses shame, comparison, and self-worth.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Gifts+of+Imperfection+by+Brene+Brown%2C+PH.D.%2C+L.M.S.W.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses shame, comparison, and self-worth.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Gifts+of+Imperfection+by+Brene+Brown%2C+PH.D.%2C+L.M.S.W.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Happiness+Trap&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Happiness Trap</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Happiness+Trap&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Happiness Trap</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-    </div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparison-traps-when-leaderboards-make-people-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparison-traps-when-leaderboards-make-people-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparison-traps-when-leaderboards-make-people-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparison-traps-when-leaderboards-make-people-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparison-traps-when-leaderboards-make-people-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparison-traps-when-leaderboards-make-people-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparison-traps-when-leaderboards-make-people-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparison-traps-when-leaderboards-make-people-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparison-traps-when-leaderboards-make-people-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparison-traps-when-leaderboards-make-people-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparison-traps-when-leaderboards-make-people-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparison-traps-when-leaderboards-make-people-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparison-traps-when-leaderboards-make-people-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparison-traps-when-leaderboards-make-people-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparison-traps-when-leaderboards-make-people-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparison-traps-when-leaderboards-make-people-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparison-traps-when-leaderboards-make-people-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparison-traps-when-leaderboards-make-people-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparison-traps-when-leaderboards-make-people-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparison-traps-when-leaderboards-make-people-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparison-traps-when-leaderboards-make-people-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparison-traps-when-leaderboards-make-people-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparison-traps-when-leaderboards-make-people-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparison-traps-when-leaderboards-make-people-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparison-traps-when-leaderboards-make-people-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparison-traps-when-leaderboards-make-people-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparison-traps-when-leaderboards-make-people-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparison-traps-when-leaderboards-make-people-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparison-traps-when-leaderboards-make-people-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparison-traps-when-leaderboards-make-people-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparison-traps-when-leaderboards-make-people-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparison-traps-when-leaderboards-make-people-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparison-traps-when-leaderboards-make-people-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=comparison-traps-when-leaderboards-make-people-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -642,7 +642,7 @@ The strongest [social support]({{ 'social-support/' | relative_url }}) systems u
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -662,7 +662,7 @@ The strongest [social support]({{ 'social-support/' | relative_url }}) systems u
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -694,7 +694,7 @@ The strongest [social support]({{ 'social-support/' | relative_url }}) systems u
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -724,7 +724,7 @@ The strongest [social support]({{ 'social-support/' | relative_url }}) systems u
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -782,131 +782,131 @@ The strongest [social support]({{ 'social-support/' | relative_url }}) systems u
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7148546/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7148546/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>However, 2 aspects of work that apply social...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7148546/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7148546/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However, 2 aspects of work that apply social...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0306457322001972" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0306457322001972</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Linking social features of fitness apps with physical activity...by M Sun · 2022 · Cited by 15 — The results provide compelling support...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0306457322001972" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0306457322001972</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Linking social features of fitness apps with physical activity...by M Sun · 2022 · Cited by 15 — The results provide compelling support...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: jmir.org  
-   Link: <a href="https://www.jmir.org/2020/3/e15642/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2020/3/e15642/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Social Comparison Features in Physical Activity Promotion...by D Arigo · 2020 · Cited by 83 — The aim of this meta-review was to summari...</p></details>
+   Link:<a href="https://www.jmir.org/2020/3/e15642/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2020/3/e15642/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social Comparison Features in Physical Activity Promotion...by D Arigo · 2020 · Cited by 83 — The aim of this meta-review was to summari...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: scispace.com  
    Title: Sci Space An Evaluation of Social Comparison of Physical Activity  
-   Link: <a href="https://scispace.com/pdf/stepping-up-an-evaluation-of-social-comparison-of-physical-3dwqtuxm.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/stepping-up-an-evaluation-of-social-comparison-of-physical-3dwqtuxm.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An Evaluation of Social Comparison of Physical Activity...July 20, 2022 — 18 Feb 2022 — Results showed that physical activity in...</p></details>
+   Link:<a href="https://scispace.com/pdf/stepping-up-an-evaluation-of-social-comparison-of-physical-3dwqtuxm.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/stepping-up-an-evaluation-of-social-comparison-of-physical-3dwqtuxm.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An Evaluation of Social Comparison of Physical Activity...July 20, 2022 — 18 Feb 2022 — Results showed that physical activity in...</p></details>
    Published: July 20, 2022  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCExercise or lie down?  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10806118/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10806118/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of fitness app use on users...by J Cai · 2024 · Cited by 23 — It has been found that upward social comparison may discourages...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10806118/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10806118/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of fitness app use on users...by J Cai · 2024 · Cited by 23 — It has been found that upward social comparison may discourages...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: humanfactors.jmir.org  
-   Link: <a href="https://humanfactors.jmir.org/2023/1/e41239/" target="_blank" rel="noopener noreferrer nofollow">https://humanfactors.jmir.org/2023/1/e41239/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JMIR Human FactorsSelection of and Response to Physical Activity–Based Social...by D Arigo · 2023 · Cited by 9 — We examined the types o...</p></details>
+   Link:<a href="https://humanfactors.jmir.org/2023/1/e41239/" target="_blank" rel="noopener noreferrer nofollow">https://humanfactors.jmir.org/2023/1/e41239/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JMIR Human FactorsSelection of and Response to Physical Activity–Based Social...by D Arigo · 2023 · Cited by 9 — We examined the types o...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10012003/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10012003/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of and Response to Physical Activity–Based Social...by D Arigo · 2023 · Cited by 9 — We examined the types of comparison target selectio...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10012003/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10012003/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of and Response to Physical Activity–Based Social...by D Arigo · 2023 · Cited by 9 — We examined the types of comparison target selectio...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6096297/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6096297/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gamification for health and wellbeing: A systematic review of...by D Johnson · 2016 · Cited by 1799 — The current state of evidence s...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6096297/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6096297/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gamification for health and wellbeing: A systematic review of...by D Johnson · 2016 · Cited by 1799 — The current state of evidence s...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8767479/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8767479/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the Effectiveness of Gamification on Physical Activityby A Mazeas · 2022 · Cited by 240 — The aim of this systematic review and meta-anal...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8767479/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8767479/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Effectiveness of Gamification on Physical Activityby A Mazeas · 2022 · Cited by 240 — The aim of this systematic review and meta-anal...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0950584922002518" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0950584922002518</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Negative effects of gamification in education softwareby C Almeida · 2023 · Cited by 238 — We found that badges, leaderboard...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0950584922002518" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0950584922002518</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Negative effects of gamification in education softwareby C Almeida · 2023 · Cited by 238 — We found that badges, leaderboard...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1469029224000013" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1469029224000013</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A randomized controlled mHealth trial that evaluates social...by B Sañudo · 2024 · Cited by 21 — This study aims to evaluate whether com...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1469029224000013" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1469029224000013</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A randomized controlled mHealth trial that evaluates social...by B Sañudo · 2024 · Cited by 21 — This study aims to evaluate whether com...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2405844023062412" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2405844023062412</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The role of gamified learning strategies in student&#x27;s...by E Ratinho · 2023 · Cited by 241 — The results suggest a positive influence of...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2405844023062412" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2405844023062412</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The role of gamified learning strategies in student&#x27;s...by E Ratinho · 2023 · Cited by 241 — The results suggest a positive influence of...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: games.jmir.org  
-   Link: <a href="https://games.jmir.org/2025/1/e68151" target="_blank" rel="noopener noreferrer nofollow">https://games.jmir.org/2025/1/e68151</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Gamification Interventions to Improve Physical...by M Wang · 2025 · Cited by 26 — Our findings showed that the gamification intervent...</p></details>
+   Link:<a href="https://games.jmir.org/2025/1/e68151" target="_blank" rel="noopener noreferrer nofollow">https://games.jmir.org/2025/1/e68151</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Gamification Interventions to Improve Physical...by M Wang · 2025 · Cited by 26 — Our findings showed that the gamification intervent...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/15248399231160152" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/15248399231160152</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsPhysical Activity and Social Comparison17 Mar 2023 — This study examined the impact of group composition of a 6-week group-b...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/15248399231160152" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/15248399231160152</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsPhysical Activity and Social Comparison17 Mar 2023 — This study examined the impact of group composition of a 6-week group-b...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ssa.gov  
-   Link: <a href="https://www.ssa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.ssa.gov/</a>  
+   Link:<a href="https://www.ssa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.ssa.gov/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: revista-apunts.com  
-   Link: <a href="https://revista-apunts.com/en/benefits-of-gamified-learning-in-physical-education-students-a-systematic-review/" target="_blank" rel="noopener noreferrer nofollow">https://revista-apunts.com/en/benefits-of-gamified-learning-in-physical-education-students-a-systematic-review/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Benefits of Gamified Learning in Physical Education StudentsRegarding the benefits of gamification, the review showed that it was conside...</p></details>
+   Link:<a href="https://revista-apunts.com/en/benefits-of-gamified-learning-in-physical-education-students-a-systematic-review/" target="_blank" rel="noopener noreferrer nofollow">https://revista-apunts.com/en/benefits-of-gamified-learning-in-physical-education-students-a-systematic-review/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Benefits of Gamified Learning in Physical Education StudentsRegarding the benefits of gamification, the review showed that it was conside...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/404881910_Associations_between_leaderboard_usage_in_physical_activity_apps_and_perceived_stress_among_university_students_the_roles_of_social_comparison_and_physical_activity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/404881910_Associations_between_leaderboard_usage_in_physical_activity_apps_and_perceived_stress_among_university_students_the_roles_of_social_comparison_and_physical_activity</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the roles of social comparison and physical activity17 May 2026 — Leaderboard usage was positively associated with social comparison (β...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/404881910_Associations_between_leaderboard_usage_in_physical_activity_apps_and_perceived_stress_among_university_students_the_roles_of_social_comparison_and_physical_activity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/404881910_Associations_between_leaderboard_usage_in_physical_activity_apps_and_perceived_stress_among_university_students_the_roles_of_social_comparison_and_physical_activity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the roles of social comparison and physical activity17 May 2026 — Leaderboard usage was positively associated with social comparison (β...</p></details>
    Published: May 2026  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchwithrowan.com  
    Title: stepping up an evaluation of social comparison of physical activi  
-   Link: <a href="https://www.researchwithrowan.com/en/publications/stepping-up-an-evaluation-of-social-comparison-of-physical-activi/" target="_blank" rel="noopener noreferrer nofollow">https://www.researchwithrowan.com/en/publications/stepping-up-an-evaluation-of-social-comparison-of-physical-activi/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rowan UniversityStepping Up: An Evaluation of Social Comparison of Physical...by JA Nastasi · 2022 · Cited by 9 — Results showed that ph...</p></details>
+   Link:<a href="https://www.researchwithrowan.com/en/publications/stepping-up-an-evaluation-of-social-comparison-of-physical-activi/" target="_blank" rel="noopener noreferrer nofollow">https://www.researchwithrowan.com/en/publications/stepping-up-an-evaluation-of-social-comparison-of-physical-activi/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rowan UniversityStepping Up: An Evaluation of Social Comparison of Physical...by JA Nastasi · 2022 · Cited by 9 — Results showed that ph...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: systematic.com  
-   Link: <a href="https://systematic.com/us/" target="_blank" rel="noopener noreferrer nofollow">https://systematic.com/us/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Systematic Inc.Systematic Inc. is a leading provider of simple and reliable C4I integration software solutions for the Department of Defe...</p></details>
+   Link:<a href="https://systematic.com/us/" target="_blank" rel="noopener noreferrer nofollow">https://systematic.com/us/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Systematic Inc.Systematic Inc. is a leading provider of simple and reliable C4I integration software solutions for the Department of Defe...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: mysportscience.com  
-   Link: <a href="https://www.mysportscience.com/post/can-apps-and-gamification-increase-physical-activity" target="_blank" rel="noopener noreferrer nofollow">https://www.mysportscience.com/post/can-apps-and-gamification-increase-physical-activity</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can apps and gamification increase physical activity?Jun 12, 2025 — Some apps use gamification and help to make healthy behaviours more e...</p></details>
+   Link:<a href="https://www.mysportscience.com/post/can-apps-and-gamification-increase-physical-activity" target="_blank" rel="noopener noreferrer nofollow">https://www.mysportscience.com/post/can-apps-and-gamification-increase-physical-activity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can apps and gamification increase physical activity?Jun 12, 2025 — Some apps use gamification and help to make healthy behaviours more e...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pedro.org.au  
-   Link: <a href="https://pedro.org.au/english/systematic-review-gamified-smartphone-apps/" target="_blank" rel="noopener noreferrer nofollow">https://pedro.org.au/english/systematic-review-gamified-smartphone-apps/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tphone apps have small-to-moderate positive effects on physical activity levels.Read more...</p></details>
+   Link:<a href="https://pedro.org.au/english/systematic-review-gamified-smartphone-apps/" target="_blank" rel="noopener noreferrer nofollow">https://pedro.org.au/english/systematic-review-gamified-smartphone-apps/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tphone apps have small-to-moderate positive effects on physical activity levels.Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/Atreyi-Kankanhalli/publication/309557443_Gamification_in_Fitness_Apps_How_do_Leaderboards_influence_Exercise/links/586ca96f08ae8fce4919f096/Gamification-in-Fitness-Apps-How-do-Leaderboards-influence-Exercise.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Atreyi-Kankanhalli/publication/309557443_Gamification_in_Fitness_Apps_How_do_Leaderboards_influence_Exercise/links/586ca96f08ae8fce4919f096/Gamification-in-Fitness-Apps-How-do-Leaderboards-influence-Exercise.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ison theory that explains how social comparison via leaderboards influences...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/profile/Atreyi-Kankanhalli/publication/309557443_Gamification_in_Fitness_Apps_How_do_Leaderboards_influence_Exercise/links/586ca96f08ae8fce4919f096/Gamification-in-Fitness-Apps-How-do-Leaderboards-influence-Exercise.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Atreyi-Kankanhalli/publication/309557443_Gamification_in_Fitness_Apps_How_do_Leaderboards_influence_Exercise/links/586ca96f08ae8fce4919f096/Gamification-in-Fitness-Apps-How-do-Leaderboards-influence-Exercise.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ison theory that explains how social comparison via leaderboards influences...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: thier.io  
    Title: Social Dynamics in Health and Wellbeing [Part 2 of 2]  
-   Link: <a href="https://www.thier.io/blog/social-dynamics-in-health-and-wellbeing-part-2-of-2" target="_blank" rel="noopener noreferrer nofollow">https://www.thier.io/blog/social-dynamics-in-health-and-wellbeing-part-2-of-2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>❤️‍🩹2 May 2026 — The negative effects of social comparison are not experienced uniformly by all users. The impact of a social feature is...</p></details>
+   Link:<a href="https://www.thier.io/blog/social-dynamics-in-health-and-wellbeing-part-2-of-2" target="_blank" rel="noopener noreferrer nofollow">https://www.thier.io/blog/social-dynamics-in-health-and-wellbeing-part-2-of-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>❤️‍🩹2 May 2026 — The negative effects of social comparison are not experienced uniformly by all users. The impact of a social feature is...</p></details>
    Published: May 2026  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: sparkdayapp.com  
    Title: A Nature study of 1.1M runners proved exercise is causally contagious.Read more  
-   Link: <a href="https://sparkdayapp.com/blog/step-challenge-with-friends" target="_blank" rel="noopener noreferrer nofollow">https://sparkdayapp.com/blog/step-challenge-with-friends</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Step Challenge With Friends: The Fitness Hack That Actually...A Penn RCT found competition produced 90% more exercise attendance than so...</p></details>
+   Link:<a href="https://sparkdayapp.com/blog/step-challenge-with-friends" target="_blank" rel="noopener noreferrer nofollow">https://sparkdayapp.com/blog/step-challenge-with-friends</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Step Challenge With Friends: The Fitness Hack That Actually...A Penn RCT found competition produced 90% more exercise attendance than so...</p></details>

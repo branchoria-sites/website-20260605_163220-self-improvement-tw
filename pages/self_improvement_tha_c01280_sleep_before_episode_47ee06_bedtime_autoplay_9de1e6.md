@@ -271,7 +271,7 @@ image: /assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_be
 Yes, turning off autoplay at night is often one of the simplest self-improvement changes that actually works. It does not rely on greater [willpower]({{ 'willpower/' | relative_url }}) or a perfectly disciplined bedtime routine. Instead, it changes the default setting that keeps many people watching after they intended to stop.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_bedtime_autoplay_9de1e6-Illustration-1-dark.svg" | relative_url }}" alt="Autoplay illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_bedtime_autoplay_9de1e6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_bedtime_autoplay_9de1e6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The key insight is that autoplay removes the moment of decision. When the next episode starts automatically, continuing requires no action, while stopping requires interrupting the experience. Restoring that decision point can make it easier to notice the time, remember your sleep goal and end a viewing session before it extends by another episode. Streaming platforms provide autoplay controls precisely because the feature influences viewing behaviour rather than merely displaying content. <span class="citation-chip-wrap"><a class="citation-chip" href="https://help.netflix.com/en/node/121518" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.netflix.com">[Netflix Help Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.netflix.com</span><span class="citation-popover-snippet">Your preference will update automatically. You may need to refresh your device to...Read more...</span></span></span>
+The key insight is that autoplay removes the moment of decision. When the next episode starts automatically, continuing requires no action, while stopping requires interrupting the experience. Restoring that decision point can make it easier to notice the time, remember your sleep goal and end a viewing session before it extends by another episode. Streaming platforms provide autoplay controls precisely because the feature influences viewing behaviour rather than merely displaying content.<span class="citation-chip-wrap"><a class="citation-chip" href="https://help.netflix.com/en/node/121518" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.netflix.com">[Netflix Help Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.netflix.com</span><span class="citation-popover-snippet">Your preference will update automatically. You may need to refresh your device to...Read more...</span></span></span>
 
 ## Should You Turn Off Autoplay at Night?
 
@@ -279,13 +279,13 @@ For people whose bedtime slips because of “just one more episode”, the answe
 
 The benefit is not that autoplay itself damages sleep. The benefit is that disabling it creates friction at exactly the moment when continuing would otherwise happen automatically. When you reach the end of an episode, you are briefly returned to a conscious choice: go to bed or start another episode.
 
-This matters because binge viewing appears to be associated with poorer sleep quality, greater fatigue and more insomnia symptoms than ordinary television viewing. Researchers have suggested that cognitive pre-sleep arousal—the mind staying engaged and activated by ongoing narrative content—helps explain the relationship. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCBinge Viewing, Sleep, and the Role of Pre-Sleep Arousal</span><span class="citation-popover-snippet">by L Exelmans · 2017 · Cited by 278 — This study provides initial evidence that modern viewing styles such as binge viewing may negati...</span></span></span> JCSM A viewer who planned to stop after one episode may not need a major behavioural intervention. They may simply need the platform to stop makin <span class="citation-link-wrap"><a class="citation-inline-link" href="https://jcsm.aasm.org/doi/abs/10.5664/jcsm.6704" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jcsm.aasm.org">[jcsm.aasm.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jcsm.aasm.org</span><span class="citation-popover-snippet">Viewing, Sleep, and the Role of Pre-Sleep Arousalby L Exelmans · 2017 · Cited by 276 — Study Objectives:To investigate the prevalence of...</span></span></span> g continuation effortless.
+This matters because binge viewing appears to be associated with poorer sleep quality, greater fatigue and more insomnia symptoms than ordinary television viewing. Researchers have suggested that cognitive pre-sleep arousal—the mind staying engaged and activated by ongoing narrative content—helps explain the relationship.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCBinge Viewing, Sleep, and the Role of Pre-Sleep Arousal</span><span class="citation-popover-snippet">by L Exelmans · 2017 · Cited by 278 — This study provides initial evidence that modern viewing styles such as binge viewing may negati...</span></span></span> JCSM A viewer who planned to stop after one episode may not need a major behavioural intervention. They may simply need the platform to stop makin<span class="citation-link-wrap"><a class="citation-inline-link" href="https://jcsm.aasm.org/doi/abs/10.5664/jcsm.6704" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jcsm.aasm.org">[jcsm.aasm.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jcsm.aasm.org</span><span class="citation-popover-snippet">Viewing, Sleep, and the Role of Pre-Sleep Arousalby L Exelmans · 2017 · Cited by 276 — Study Objectives:To investigate the prevalence of...</span></span></span> g continuation effortless.
 
 ## Why Autoplay Changes the Bedtime Decision
 
 Autoplay alters the structure of the choice.
 
-Without autoplay, the end credits create a natural pause. The viewer has a few seconds to check the clock, notice tiredness or remember tomorrow's commitments. With autoplay enabled, that pause largely disappears. The next episode begins before the previous viewing decision has fully ended. <span class="citation-chip-wrap"><a class="citation-chip" href="https://help.netflix.com/en/node/121518" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.netflix.com">[Netflix Help Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.netflix.com</span><span class="citation-popover-snippet">Your preference will update automatically. You may need to refresh your device to...Read more...</span></span></span>
+Without autoplay, the end credits create a natural pause. The viewer has a few seconds to check the clock, notice tiredness or remember tomorrow's commitments. With autoplay enabled, that pause largely disappears. The next episode begins before the previous viewing decision has fully ended.<span class="citation-chip-wrap"><a class="citation-chip" href="https://help.netflix.com/en/node/121518" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.netflix.com">[Netflix Help Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.netflix.com</span><span class="citation-popover-snippet">Your preference will update automatically. You may need to refresh your device to...Read more...</span></span></span>
 
 Several behavioural effects follow:
 
@@ -294,7 +294,7 @@ Several behavioural effects follow:
 * **Narrative momentum:** [Cliffhangers]({{ 'cliffhangers/' | relative_url }}) and unfinished storylines carry directly into the next episode.
 * **Decision fatigue:** Late at night, making an active choice to stop is harder than allowing the platform to continue automatically.
 
-Recent research examining autoplay as a digital design feature has highlighted concerns that automatic continuation can reduce users' sense of control over time spent watching. <span class="citation-chip-wrap"><a class="citation-chip" href="https://techxplore.com/news/2025-03-scientists-hidden-netflix-autoplay.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techxplore.com">[Tech Xplore]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techxplore.com</span><span class="citation-popover-title">2025 03 scientists hidden netflix autoplay</span><span class="citation-popover-snippet">Tech XploreScientists study the hidden cost of Netflix&#x27;s autoplayMar 4, 2025 — Autoplay, a feature that automatically begins the next epi...</span></span></span>
+Recent research examining autoplay as a digital design feature has highlighted concerns that automatic continuation can reduce users' sense of control over time spent watching.<span class="citation-chip-wrap"><a class="citation-chip" href="https://techxplore.com/news/2025-03-scientists-hidden-netflix-autoplay.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techxplore.com">[Tech Xplore]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techxplore.com</span><span class="citation-popover-title">2025 03 scientists hidden netflix autoplay</span><span class="citation-popover-snippet">Tech XploreScientists study the hidden cost of Netflix&#x27;s autoplayMar 4, 2025 — Autoplay, a feature that automatically begins the next epi...</span></span></span>
 
 The practical consequence is simple: if sleep is the goal, autoplay often places the burden on a tired brain to interrupt a process that is already underway.
 
@@ -304,7 +304,7 @@ The practical consequence is simple: if sleep is the goal, autoplay often places
 
 The value of turning autoplay off is not the setting itself. The value is the stopping point it creates.
 
-Netflix allows users to disable “Autoplay Next Episode” through profile playback settings, while YouTube provides autoplay controls across desktop, mobile and television devices. <span class="citation-chip-wrap"><a class="citation-chip" href="https://help.netflix.com/en/node/121518" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.netflix.com">[Netflix Help Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.netflix.com</span><span class="citation-popover-snippet">Your preference will update automatically. You may need to refresh your device to...Read more...</span></span></span>
+Netflix allows users to disable “Autoplay Next Episode” through profile playback settings, while YouTube provides autoplay controls across desktop, mobile and television devices.<span class="citation-chip-wrap"><a class="citation-chip" href="https://help.netflix.com/en/node/121518" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.netflix.com">[Netflix Help Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.netflix.com</span><span class="citation-popover-snippet">Your preference will update automatically. You may need to refresh your device to...Read more...</span></span></span>
 
 Once disabled, the end of an episode becomes a small checkpoint. Instead of immediately being pulled into the next instalment, the viewer must actively choose to continue.
 
@@ -335,7 +335,7 @@ A useful experiment is:
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. Keep your normal viewing habits.
-2. Turn off autoplay for all evening streaming. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pocket-lint.com/youtube-autoplay-turn-off/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pocket-lint.com">[pocket-lint.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pocket-lint.com</span><span class="citation-popover-title">youtube autoplay turn off</span><span class="citation-popover-snippet">This YouTube feature is ruining your experience, so turn it off3 Mar 2026 — The simplest solution I have is to open up the YouTube app on...</span></span></span>
+2. Turn off autoplay for all evening streaming.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pocket-lint.com/youtube-autoplay-turn-off/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pocket-lint.com">[pocket-lint.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pocket-lint.com</span><span class="citation-popover-title">youtube autoplay turn off</span><span class="citation-popover-snippet">This YouTube feature is ruining your experience, so turn it off3 Mar 2026 — The simplest solution I have is to open up the YouTube app on...</span></span></span>
 3. Decide in advance when you intend to stop watching.
 4. Record:
 
@@ -369,194 +369,194 @@ The strength of this change lies in its simplicity. It does not ask for [motivat
 <img src="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_bedtime_autoplay_9de1e6-Illustration-3-dark.svg" | relative_url }}" alt="Autoplay illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_bedtime_autoplay_9de1e6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_bedtime_autoplay_9de1e6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Should You Turn Off Autoplay at Night?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Should You Turn Off Autoplay at Night?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why We Sleep on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZlU3DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why We Sleep" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why We Sleep">Why We Sleep</a>
-        </h4>
-        <p class="fr-book-author">By Matthew Walker</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why We Sleep on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZlU3DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why We Sleep" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why We Sleep">Why We Sleep</a>
+</h4>
+<p class="fr-book-author">By Matthew Walker</p>
         
-        <p class="fr-book-desc">Directly supports better sleep habits and understanding behaviors that delay bedtime.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly supports better sleep habits and understanding behaviors that delay bedtime.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Turning off autoplay is an example of changing environment defaults and reducing unwanted behaviors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Turning off autoplay is an example of changing environment defaults and reducing unwanted behaviors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Minimalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S4NbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Minimalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Minimalism">Digital Minimalism</a>
-        </h4>
-        <p class="fr-book-author">By Cal Newport</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Minimalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S4NbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Minimalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Minimalism">Digital Minimalism</a>
+</h4>
+<p class="fr-book-author">By Cal Newport</p>
         
-        <p class="fr-book-desc">Addresses intentional technology use and creating boundaries around digital consumption.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses intentional technology use and creating boundaries around digital consumption.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sleep+Solution+by+W.+Chris+Winter%2C+M.D.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sleep Solution on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SnuNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Sleep Solution" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Sleep+Solution+by+W.+Chris+Winter%2C+M.D.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sleep Solution">The Sleep Solution</a>
-        </h4>
-        <p class="fr-book-author">By W. Chris Winter, M.D.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sleep+Solution+by+W.+Chris+Winter%2C+M.D.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sleep Solution on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SnuNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Sleep Solution" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Sleep+Solution+by+W.+Chris+Winter%2C+M.D.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sleep Solution">The Sleep Solution</a>
+</h4>
+<p class="fr-book-author">By W. Chris Winter, M.D.</p>
         
-        <p class="fr-book-desc">Focuses on practical approaches to improving sleep quality and consistency.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Sleep+Solution+by+W.+Chris+Winter%2C+M.D.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on practical approaches to improving sleep quality and consistency.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Sleep+Solution+by+W.+Chris+Winter%2C+M.D.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+We+Sleep&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why We Sleep</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Minimalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Minimalism</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+We+Sleep&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why We Sleep</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Minimalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Minimalism</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lumie Bodyclock Starter 30 Sunrise &amp; Sunset Wake Up SAD Light Alarm Clock VGC"><img src="https://i.ebayimg.com/images/g/~4oAAeSwBY1qJu4b/s-l225.jpg" alt="Listing image for Lumie Bodyclock Starter 30 Sunrise &amp; Sunset Wake Up SAD Light Alarm Clock VGC" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">Lumie Bodyclock Starter 30 Sunrise &amp; Sunset Wake Up SAD Light Alarm Clock VGC</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sunrise alarm clock">Search <span data-ebay-domain-label>eBay.co.uk</span>: sunrise alarm clock</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lumie Bodyclock Starter 30 Sunrise &amp; Sunset Wake Up SAD Light Alarm Clock VGC"><img src="https://i.ebayimg.com/images/g/~4oAAeSwBY1qJu4b/s-l225.jpg" alt="Listing image for Lumie Bodyclock Starter 30 Sunrise &amp; Sunset Wake Up SAD Light Alarm Clock VGC" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">Lumie Bodyclock Starter 30 Sunrise &amp; Sunset Wake Up SAD Light Alarm Clock VGC</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sunrise alarm clock">Search<span data-ebay-domain-label>eBay.co.uk</span>: sunrise alarm clock</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ecozy Sunrise Alarm Clock, White Noise Machine, Bluetooth Sync, 26 Sound, 17 Nig"><img src="https://i.ebayimg.com/images/g/u6IAAeSw1pFpRxNN/s-l225.jpg" alt="Listing image for ecozy Sunrise Alarm Clock, White Noise Machine, Bluetooth Sync, 26 Sound, 17 Nig" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">ecozy Sunrise Alarm Clock, White Noise Machine, Bluetooth Sync, 26 Sound, 17 Nig</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sunrise alarm clock">Search <span data-ebay-domain-label>eBay.co.uk</span>: sunrise alarm clock</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ecozy Sunrise Alarm Clock, White Noise Machine, Bluetooth Sync, 26 Sound, 17 Nig"><img src="https://i.ebayimg.com/images/g/u6IAAeSw1pFpRxNN/s-l225.jpg" alt="Listing image for ecozy Sunrise Alarm Clock, White Noise Machine, Bluetooth Sync, 26 Sound, 17 Nig" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">ecozy Sunrise Alarm Clock, White Noise Machine, Bluetooth Sync, 26 Sound, 17 Nig</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sunrise alarm clock">Search<span data-ebay-domain-label>eBay.co.uk</span>: sunrise alarm clock</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lumie Sunrise Alarm Sunrise Wake-up Alarm, Sunset Sleep Feature, Sounds &amp; Mood"><img src="https://i.ebayimg.com/images/g/GuUAAeSwQdhp6hlK/s-l225.jpg" alt="Listing image for Lumie Sunrise Alarm Sunrise Wake-up Alarm, Sunset Sleep Feature, Sounds &amp; Mood" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">Lumie Sunrise Alarm Sunrise Wake-up Alarm, Sunset Sleep Feature, Sounds &amp; Mood</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sunrise alarm clock">Search <span data-ebay-domain-label>eBay.co.uk</span>: sunrise alarm clock</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lumie Sunrise Alarm Sunrise Wake-up Alarm, Sunset Sleep Feature, Sounds &amp; Mood"><img src="https://i.ebayimg.com/images/g/GuUAAeSwQdhp6hlK/s-l225.jpg" alt="Listing image for Lumie Sunrise Alarm Sunrise Wake-up Alarm, Sunset Sleep Feature, Sounds &amp; Mood" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">Lumie Sunrise Alarm Sunrise Wake-up Alarm, Sunset Sleep Feature, Sounds &amp; Mood</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sunrise alarm clock">Search<span data-ebay-domain-label>eBay.co.uk</span>: sunrise alarm clock</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sunrise Alarm Clock, Wake Up Light Alarm Clock with White Noise Machine, Night"><img src="https://i.ebayimg.com/images/g/-LMAAeSwUEFqJS65/s-l225.jpg" alt="Listing image for Sunrise Alarm Clock, Wake Up Light Alarm Clock with White Noise Machine, Night" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">Sunrise Alarm Clock, Wake Up Light Alarm Clock with White Noise Machine, Night</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sunrise alarm clock">Search <span data-ebay-domain-label>eBay.co.uk</span>: sunrise alarm clock</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sunrise Alarm Clock, Wake Up Light Alarm Clock with White Noise Machine, Night"><img src="https://i.ebayimg.com/images/g/-LMAAeSwUEFqJS65/s-l225.jpg" alt="Listing image for Sunrise Alarm Clock, Wake Up Light Alarm Clock with White Noise Machine, Night" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">Sunrise Alarm Clock, Wake Up Light Alarm Clock with White Noise Machine, Night</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sunrise alarm clock">Search<span data-ebay-domain-label>eBay.co.uk</span>: sunrise alarm clock</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-you-turn-off-autoplay-at-night-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="should-you-turn-off-autoplay-at-night-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -572,7 +572,7 @@ The strength of this change lies in its simplicity. It does not ask for [motivat
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -592,7 +592,7 @@ The strength of this change lies in its simplicity. It does not ask for [motivat
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -624,7 +624,7 @@ The strength of this change lies in its simplicity. It does not ask for [motivat
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -676,7 +676,7 @@ The strength of this change lies in its simplicity. It does not ask for [motivat
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -721,7 +721,7 @@ The strength of this change lies in its simplicity. It does not ask for [motivat
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -762,196 +762,196 @@ The strength of this change lies in its simplicity. It does not ask for [motivat
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: help.netflix.com  
-   Link: <a href="https://help.netflix.com/en/node/121518" target="_blank" rel="noopener noreferrer nofollow">https://help.netflix.com/en/node/121518</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Your preference will update automatically. You may need to refresh your device to...Read more...</p></details>
+   Link:<a href="https://help.netflix.com/en/node/121518" target="_blank" rel="noopener noreferrer nofollow">https://help.netflix.com/en/node/121518</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Your preference will update automatically. You may need to refresh your device to...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: help.netflix.com  
-   Link: <a href="https://help.netflix.com/en/node/114059" target="_blank" rel="noopener noreferrer nofollow">https://help.netflix.com/en/node/114059</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Netflix Help CenterWhy Netflix asks, &#x27;Are you still watching?To continue watching, you can dismiss the message or turn off autoplay of th...</p></details>
+   Link:<a href="https://help.netflix.com/en/node/114059" target="_blank" rel="noopener noreferrer nofollow">https://help.netflix.com/en/node/114059</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Netflix Help CenterWhy Netflix asks, &#x27;Are you still watching?To continue watching, you can dismiss the message or turn off autoplay of th...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCBinge Viewing, Sleep, and the Role of Pre-Sleep Arousal  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by L Exelmans · 2017 · Cited by 278 — This study provides initial evidence that modern viewing styles such as binge viewing may negati...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by L Exelmans · 2017 · Cited by 278 — This study provides initial evidence that modern viewing styles such as binge viewing may negati...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: jcsm.aasm.org  
-   Link: <a href="https://jcsm.aasm.org/doi/abs/10.5664/jcsm.6704" target="_blank" rel="noopener noreferrer nofollow">https://jcsm.aasm.org/doi/abs/10.5664/jcsm.6704</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Viewing, Sleep, and the Role of Pre-Sleep Arousalby L Exelmans · 2017 · Cited by 276 — Study Objectives:To investigate the prevalence of...</p></details>
+   Link:<a href="https://jcsm.aasm.org/doi/abs/10.5664/jcsm.6704" target="_blank" rel="noopener noreferrer nofollow">https://jcsm.aasm.org/doi/abs/10.5664/jcsm.6704</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Viewing, Sleep, and the Role of Pre-Sleep Arousalby L Exelmans · 2017 · Cited by 276 — Study Objectives:To investigate the prevalence of...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Wkr2n5Fs_NA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Wkr2n5Fs_NA</a>  
+   Link:<a href="https://www.youtube.com/watch?v=Wkr2n5Fs_NA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Wkr2n5Fs_NA</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=7kQ6lBzIK4Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7kQ6lBzIK4Y</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Turn OFF Autoplay On YouTube 2025 (How To...▷How To Turn OFF Autoplay On YouTube 2025 (How To DISABLE Autoplay On YouTube Home Sc...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7kQ6lBzIK4Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7kQ6lBzIK4Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How To Turn OFF Autoplay On YouTube 2025 (How To...▷How To Turn OFF Autoplay On YouTube 2025 (How To DISABLE Autoplay On YouTube Home Sc...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=KilSSOKx8s4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KilSSOKx8s4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>r alop playay in Netflix...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KilSSOKx8s4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KilSSOKx8s4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r alop playay in Netflix...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=KQ_faXlQI8A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KQ_faXlQI8A</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Turn Off Autoplay on YouTube on iPhone, iPad or...I&#x27;ll guide you through the simple steps to turn off autoplay so you can choose...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KQ_faXlQI8A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KQ_faXlQI8A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Turn Off Autoplay on YouTube on iPhone, iPad or...I&#x27;ll guide you through the simple steps to turn off autoplay so you can choose...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ihYW3p0gY-s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ihYW3p0gY-s</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Turn Off Auto-Play on YouTube [New 2026 Update]How to Turn Off Auto-Play on YouTube [New 2026 Update] Want to stop YouTube from au...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ihYW3p0gY-s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ihYW3p0gY-s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Turn Off Auto-Play on YouTube [New 2026 Update]How to Turn Off Auto-Play on YouTube [New 2026 Update] Want to stop YouTube from au...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=qJCTE7BXWg4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qJCTE7BXWg4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Turn Off Autoplay on YouTube [Desktop and Mobile]Do you want to disable autoplay feature to stop videos from loading up the next v...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qJCTE7BXWg4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qJCTE7BXWg4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How To Turn Off Autoplay on YouTube [Desktop and Mobile]Do you want to disable autoplay feature to stop videos from loading up the next v...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=d0yGogLp43Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d0yGogLp43Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>omatically playing the next episode in a series...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=d0yGogLp43Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d0yGogLp43Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>omatically playing the next episode in a series...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Ic1x8OTEP4M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ic1x8OTEP4M</a>  
+   Link:<a href="https://www.youtube.com/watch?v=Ic1x8OTEP4M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ic1x8OTEP4M</a>  
 
-13. <a id="endnote-13"></a>
-   Source: youtube.com  
-   Title: How to Turn OFF Autoplay on You Tube  
-   Link: <a href="https://www.youtube.com/shorts/TNQBdLcRQnI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/TNQBdLcRQnI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Turn OFF Autoplay on YouTube - iPhone, Android...Open up the YouTube app, then select your profile icon in the bottom right label...</p></details>
-
-14. <a id="endnote-14"></a>
-   Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=SFUYh4734Tg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SFUYh4734Tg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Turn Off Autoplay On YouTube (QUICK Way)If you&#x27;re wondering how to turn off autoplay on YouTube, you&#x27;ve come to the right place! T...</p></details>
-
-15. <a id="endnote-15"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: How to Turn OFF Autoplay on You Tube  
-   Link: <a href="https://www.youtube.com/watch?v=NbqpWAXv8nE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NbqpWAXv8nE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Turn OFF Autoplay on YouTube - iPhone, Android...In this video I&#x27;m going to show you how to disable autoplay in the YouTube app o...</p></details>
+   Link:<a href="https://www.youtube.com/shorts/TNQBdLcRQnI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/TNQBdLcRQnI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Turn OFF Autoplay on YouTube - iPhone, Android...Open up the YouTube app, then select your profile icon in the bottom right label...</p></details>
 
-16. <a id="endnote-16"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=KZQtsHvd4ss" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KZQtsHvd4ss</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rial covers how to stop previews from automatically playing while...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=SFUYh4734Tg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SFUYh4734Tg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How To Turn Off Autoplay On YouTube (QUICK Way)If you&#x27;re wondering how to turn off autoplay on YouTube, you&#x27;ve come to the right place! T...</p></details>
 
-17. <a id="endnote-17"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=q-C70O8gy4E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q-C70O8gy4E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Turn Off Autoplay on YouTube (2026)In today&#x27;s tutorial I&#x27;m going to show you guys how to turn off or disable auto playay on YouTube...</p></details>
+   Title: How to Turn OFF Autoplay on You Tube  
+   Link:<a href="https://www.youtube.com/watch?v=NbqpWAXv8nE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NbqpWAXv8nE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Turn OFF Autoplay on YouTube - iPhone, Android...In this video I&#x27;m going to show you how to disable autoplay in the YouTube app o...</p></details>
 
-18. <a id="endnote-18"></a>
+16.<a id="endnote-16"></a>
+   Source: youtube.com  
+   Link:<a href="https://www.youtube.com/watch?v=KZQtsHvd4ss" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KZQtsHvd4ss</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rial covers how to stop previews from automatically playing while...</p></details>
+
+17.<a id="endnote-17"></a>
+   Source: youtube.com  
+   Link:<a href="https://www.youtube.com/watch?v=q-C70O8gy4E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q-C70O8gy4E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Turn Off Autoplay on YouTube (2026)In today&#x27;s tutorial I&#x27;m going to show you guys how to turn off or disable auto playay on YouTube...</p></details>
+
+18.<a id="endnote-18"></a>
    Source: help.netflix.com  
-   Link: <a href="https://help.netflix.com/en/node/2102" target="_blank" rel="noopener noreferrer nofollow">https://help.netflix.com/en/node/2102</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to turn preview autoplay on or offYou can change this setting in the Netflix app on mobile devices by tapping My Netflix, menu, Manage Pr...</p></details>
+   Link:<a href="https://help.netflix.com/en/node/2102" target="_blank" rel="noopener noreferrer nofollow">https://help.netflix.com/en/node/2102</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to turn preview autoplay on or offYou can change this setting in the Netflix app on mobile devices by tapping My Netflix, menu, Manage Pr...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: help.netflix.com  
-   Link: <a href="https://help.netflix.com/en/node/64175" target="_blank" rel="noopener noreferrer nofollow">https://help.netflix.com/en/node/64175</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to turn Netflix app notifications on or offOpen the Netflix app.; In the lower right, tap My Netflix.; Tap App Settings.; Next to Al...</p></details>
+   Link:<a href="https://help.netflix.com/en/node/64175" target="_blank" rel="noopener noreferrer nofollow">https://help.netflix.com/en/node/64175</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to turn Netflix app notifications on or offOpen the Netflix app.; In the lower right, tap My Netflix.; Tap App Settings.; Next to Al...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: help.netflix.com  
-   Link: <a href="https://help.netflix.com/en/node/100365" target="_blank" rel="noopener noreferrer nofollow">https://help.netflix.com/en/node/100365</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>episode isn&#x27;t playing automaticallyIf the next episode doesn&#x27;t play on its own, change your profile settings to play the next episode aut...</p></details>
+   Link:<a href="https://help.netflix.com/en/node/100365" target="_blank" rel="noopener noreferrer nofollow">https://help.netflix.com/en/node/100365</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>episode isn&#x27;t playing automaticallyIf the next episode doesn&#x27;t play on its own, change your profile settings to play the next episode aut...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: help.netflix.com  
-   Link: <a href="https://help.netflix.com/en/node/116953" target="_blank" rel="noopener noreferrer nofollow">https://help.netflix.com/en/node/116953</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the TV screensaver worksThe TV screensaver automatically turns on after Netflix is idle for 5 minutes. It rotates through TV shows and mo...</p></details>
+   Link:<a href="https://help.netflix.com/en/node/116953" target="_blank" rel="noopener noreferrer nofollow">https://help.netflix.com/en/node/116953</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the TV screensaver worksThe TV screensaver automatically turns on after Netflix is idle for 5 minutes. It rotates through TV shows and mo...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: time.com  
    Title: netflix autoplay video disable  
-   Link: <a href="https://time.com/5779505/netflix-autoplay-video-disable/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5779505/netflix-autoplay-video-disable/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Disable Netflix Autoplay Videos6 Feb 2020 — On your account page, scroll down to the bottom of the page and select “Playback setti...</p></details>
+   Link:<a href="https://time.com/5779505/netflix-autoplay-video-disable/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/5779505/netflix-autoplay-video-disable/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How To Disable Netflix Autoplay Videos6 Feb 2020 — On your account page, scroll down to the bottom of the page and select “Playback setti...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: How to Turn Off Autoplay on Netflix (Stop Next Episode & Previews)  
-   Link: <a href="https://www.youtube.com/watch?v=xJ9knDtVVqw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xJ9knDtVVqw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Turn Off Autoplay On YouTube - Full Guide...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xJ9knDtVVqw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xJ9knDtVVqw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How To Turn Off Autoplay On YouTube - Full Guide...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: How To Turn Off Autoplay On You Tube  
-   Link: <a href="https://www.youtube.com/watch?v=V3rdzPqBsDg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V3rdzPqBsDg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Stop Autoplay in Netflix | Turn Off Autoplay | Netflix Tutorial...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=V3rdzPqBsDg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V3rdzPqBsDg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How To Stop Autoplay in Netflix | Turn Off Autoplay | Netflix Tutorial...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: How To Stop Autoplay in Netflix | Turn Off Autoplay | Step-by-Step Tutorial  
-   Link: <a href="https://www.youtube.com/watch?v=DpKY_ZmoRlk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DpKY_ZmoRlk</a>  
+   Link:<a href="https://www.youtube.com/watch?v=DpKY_ZmoRlk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DpKY_ZmoRlk</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: techxplore.com  
    Title: 2025 03 scientists hidden netflix autoplay  
-   Link: <a href="https://techxplore.com/news/2025-03-scientists-hidden-netflix-autoplay.html" target="_blank" rel="noopener noreferrer nofollow">https://techxplore.com/news/2025-03-scientists-hidden-netflix-autoplay.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tech XploreScientists study the hidden cost of Netflix&#x27;s autoplayMar 4, 2025 — Autoplay, a feature that automatically begins the next epi...</p></details>
+   Link:<a href="https://techxplore.com/news/2025-03-scientists-hidden-netflix-autoplay.html" target="_blank" rel="noopener noreferrer nofollow">https://techxplore.com/news/2025-03-scientists-hidden-netflix-autoplay.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tech XploreScientists study the hidden cost of Netflix&#x27;s autoplayMar 4, 2025 — Autoplay, a feature that automatically begins the next epi...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: pocket-lint.com  
    Title: youtube autoplay turn off  
-   Link: <a href="https://www.pocket-lint.com/youtube-autoplay-turn-off/" target="_blank" rel="noopener noreferrer nofollow">https://www.pocket-lint.com/youtube-autoplay-turn-off/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This YouTube feature is ruining your experience, so turn it off3 Mar 2026 — The simplest solution I have is to open up the YouTube app on...</p></details>
+   Link:<a href="https://www.pocket-lint.com/youtube-autoplay-turn-off/" target="_blank" rel="noopener noreferrer nofollow">https://www.pocket-lint.com/youtube-autoplay-turn-off/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This YouTube feature is ruining your experience, so turn it off3 Mar 2026 — The simplest solution I have is to open up the YouTube app on...</p></details>
 
 ### Additional References
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/Binge-Viewing%2C-Sleep%2C-and-the-Role-of-Pre-Sleep-Exelmans-Bulck/ca2b38584efd1a80c613f4edad291d7c7ef0625e" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Binge-Viewing%2C-Sleep%2C-and-the-Role-of-Pre-Sleep-Exelmans-Bulck/ca2b38584efd1a80c613f4edad291d7c7ef0625e</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Binge Viewing, Sleep, and the Role of Pre-Sleep ArousalHigher binge viewing [frequency](&amp;#123;&amp;#123; &#x27;frequency/&#x27; | relative_url &amp;#125;&amp;#125;) was associated with a poorer sleep quality, increas...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/Binge-Viewing%2C-Sleep%2C-and-the-Role-of-Pre-Sleep-Exelmans-Bulck/ca2b38584efd1a80c613f4edad291d7c7ef0625e" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Binge-Viewing%2C-Sleep%2C-and-the-Role-of-Pre-Sleep-Exelmans-Bulck/ca2b38584efd1a80c613f4edad291d7c7ef0625e</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Binge Viewing, Sleep, and the Role of Pre-Sleep ArousalHigher binge viewing [frequency](&amp;#123;&amp;#123; &#x27;frequency/&#x27; | relative_url &amp;#125;&amp;#125;) was associated with a poorer sleep quality, increas...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: consultant360.com  
-   Link: <a href="https://www.consultant360.com/exclusives/binge-watching-linked-poorer-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.consultant360.com/exclusives/binge-watching-linked-poorer-sleep</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Binge Watching Linked to Poorer SleepBinge watching is associated with poorer sleep quality, fatigue, and symptoms of insomnia, according...</p></details>
+   Link:<a href="https://www.consultant360.com/exclusives/binge-watching-linked-poorer-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.consultant360.com/exclusives/binge-watching-linked-poorer-sleep</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Binge Watching Linked to Poorer SleepBinge watching is associated with poorer sleep quality, fatigue, and symptoms of insomnia, according...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/netflix/comments/shwz4o/is_there_a_way_to_turn_off_auto_play/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/netflix/comments/shwz4o/is_there_a_way_to_turn_off_auto_play/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is there a way to turn off auto play?: r/netflixI&#x27;m tired of falling asleep while I&#x27;m watching something and then trying to figure out w...</p></details>
+   Link:<a href="https://www.reddit.com/r/netflix/comments/shwz4o/is_there_a_way_to_turn_off_auto_play/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/netflix/comments/shwz4o/is_there_a_way_to_turn_off_auto_play/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is there a way to turn off auto play?: r/netflixI&#x27;m tired of falling asleep while I&#x27;m watching something and then trying to figure out w...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/appletv/comments/12h3oj4/netflix_app_next_episode_autoplay/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/appletv/comments/12h3oj4/netflix_app_next_episode_autoplay/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Netflix app Next Episode autoplay: r/appletvThe only thing you can do at the moment is to enable autoplay of the next episode, so the &quot;n...</p></details>
+   Link:<a href="https://www.reddit.com/r/appletv/comments/12h3oj4/netflix_app_next_episode_autoplay/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/appletv/comments/12h3oj4/netflix_app_next_episode_autoplay/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Netflix app Next Episode autoplay: r/appletvThe only thing you can do at the moment is to enable autoplay of the next episode, so the &quot;n...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: dovepress.com  
-   Link: <a href="https://www.dovepress.com/to-binge-watch-tv-series-how-a-leisure-activity-may-affect-sleep-mood--peer-reviewed-fulltext-article-PRBM" target="_blank" rel="noopener noreferrer nofollow">https://www.dovepress.com/to-binge-watch-tv-series-how-a-leisure-activity-may-affect-sleep-mood--peer-reviewed-fulltext-article-PRBM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Binge Watching Behavior: the association with sleep &amp; QoLby G Forte · 2023 · Cited by 17 — These results confirmed the findings of Exelma...</p></details>
+   Link:<a href="https://www.dovepress.com/to-binge-watch-tv-series-how-a-leisure-activity-may-affect-sleep-mood--peer-reviewed-fulltext-article-PRBM" target="_blank" rel="noopener noreferrer nofollow">https://www.dovepress.com/to-binge-watch-tv-series-how-a-leisure-activity-may-affect-sleep-mood--peer-reviewed-fulltext-article-PRBM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Binge Watching Behavior: the association with sleep &amp; QoLby G Forte · 2023 · Cited by 17 — These results confirmed the findings of Exelma...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/youtube/comments/1cikl1f/how_do_i_turn_off_auto_play/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/youtube/comments/1cikl1f/how_do_i_turn_off_auto_play/</a>  
+   Link:<a href="https://www.reddit.com/r/youtube/comments/1cikl1f/how_do_i_turn_off_auto_play/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/youtube/comments/1cikl1f/how_do_i_turn_off_auto_play/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: researchgate.net  
    Title: 318641198 Binge Viewing Sleep and the Role of Pre Sleep Arousal  
-   Link: <a href="https://www.researchgate.net/publication/318641198_Binge_Viewing_Sleep_and_the_Role_of_Pre-Sleep_Arousal" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/318641198_Binge_Viewing_Sleep_and_the_Role_of_Pre-Sleep_Arousal</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Binge Viewing, Sleep, and the Role of Pre-Sleep Arousal16 Aug 2017 — Higher binge viewing frequency was associated with a poorer sleep qu...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/318641198_Binge_Viewing_Sleep_and_the_Role_of_Pre-Sleep_Arousal" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/318641198_Binge_Viewing_Sleep_and_the_Role_of_Pre-Sleep_Arousal</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Binge Viewing, Sleep, and the Role of Pre-Sleep Arousal16 Aug 2017 — Higher binge viewing frequency was associated with a poorer sleep qu...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: justanswer.com  
-   Link: <a href="https://www.justanswer.com/computer/pds1c-help-figure-turn-off-autoplay.html" target="_blank" rel="noopener noreferrer nofollow">https://www.justanswer.com/computer/pds1c-help-figure-turn-off-autoplay.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lay on Home.&#x27; This stops videos from playing automatically while browsing.Read more...</p></details>
+   Link:<a href="https://www.justanswer.com/computer/pds1c-help-figure-turn-off-autoplay.html" target="_blank" rel="noopener noreferrer nofollow">https://www.justanswer.com/computer/pds1c-help-figure-turn-off-autoplay.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lay on Home.&#x27; This stops videos from playing automatically while browsing.Read more...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: sciencedaily.com  
-   Link: <a href="https://www.sciencedaily.com/releases/2017/08/170814143111.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedaily.com/releases/2017/08/170814143111.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Binge-watching &#x27;The Walking Dead?&#x27; You might feel like a...15 Aug 2017 — Respondents indicated they slept, on average, seven hours and 3...</p></details>
+   Link:<a href="https://www.sciencedaily.com/releases/2017/08/170814143111.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedaily.com/releases/2017/08/170814143111.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Binge-watching &#x27;The Walking Dead?&#x27; You might feel like a...15 Aug 2017 — Respondents indicated they slept, on average, seven hours and 3...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: futurity.org  
    Title: Binge-watching before bed can mess up your sleep  
-   Link: <a href="https://www.futurity.org/binge-watching-sleep-1514572-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.futurity.org/binge-watching-sleep-1514572-2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>15 Aug 2017 — “Our study signals that binge-viewing is prevalent in young adults and that it may be harmful to their sleep,” says...</p></details>
+   Link:<a href="https://www.futurity.org/binge-watching-sleep-1514572-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.futurity.org/binge-watching-sleep-1514572-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>15 Aug 2017 — “Our study signals that binge-viewing is prevalent in young adults and that it may be harmful to their sleep,” says...</p></details>

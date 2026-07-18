@@ -268,10 +268,10 @@ image: /assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_weather
 
 ## Introduction
 
-A weather check the night before a [cycle commute]({{ 'cycle-commute/' | relative_url }}) is not about deciding whether it will rain. It is about turning a forecast into a practical plan. Research on bicycle commuting shows that precipitation, temperature, wind and snow all significantly affect whether people choose to ride to work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/22155159/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Weather factor impacts on commuting to work by bicycleby BS Flynn · 2012 · Cited by 194 — Conclusion: Precipitation, temperature, w...</span></span></span>
+A weather check the night before a [cycle commute]({{ 'cycle-commute/' | relative_url }}) is not about deciding whether it will rain. It is about turning a forecast into a practical plan. Research on bicycle commuting shows that precipitation, temperature, wind and snow all significantly affect whether people choose to ride to work.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/22155159/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Weather factor impacts on commuting to work by bicycleby BS Flynn · 2012 · Cited by 194 — Conclusion: Precipitation, temperature, w...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_weather_backup_plan_c6ecd1-Illustration-1-dark.svg" | relative_url }}" alt="Weather Plan illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_weather_backup_plan_c6ecd1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f_weather_backup_plan_c6ecd1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The common mistake is treating weather as a simple yes-or-no question. In practice, most commuting problems come from details that are easy to miss: a strong headwind on the ride home, a temperature drop after sunset, poor visibility in fog, or heavy rain arriving during the return journey rather than the morning ride. Checking those factors the night before allows you to decide what to wear, what to pack, whether to leave earlier, whether to alter your route, or whether to use a backup transport option instead. The forecast becomes a planning tool rather than a source of morning uncertainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cyclinguk.org/article/tips-cycling-wind-wet-and-leaves" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cyclinguk.org">[Cycling UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cyclinguk.org</span><span class="citation-popover-snippet">Forecasts are pretty accurate these days and provide detail on both wind strength and direction, precipitation and...Read more...</span></span></span>
+The common mistake is treating weather as a simple yes-or-no question. In practice, most commuting problems come from details that are easy to miss: a strong headwind on the ride home, a temperature drop after sunset, poor visibility in fog, or heavy rain arriving during the return journey rather than the morning ride. Checking those factors the night before allows you to decide what to wear, what to pack, whether to leave earlier, whether to alter your route, or whether to use a backup transport option instead. The forecast becomes a planning tool rather than a source of morning uncertainty.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cyclinguk.org/article/tips-cycling-wind-wet-and-leaves" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cyclinguk.org">[Cycling UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cyclinguk.org</span><span class="citation-popover-snippet">Forecasts are pretty accurate these days and provide detail on both wind strength and direction, precipitation and...Read more...</span></span></span>
 
 ## Can You Plan Around Bad Cycling Weather?
 
@@ -289,7 +289,7 @@ A useful night-before check asks five questions:
 
 </div>
 
-Cycling UK's commuting advice notes that modern forecasts provide detailed information on wind direction, precipitation, visibility, actual and apparent temperature, and sunrise or sunset times. Those details often matter more than a simple weather icon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cyclinguk.org/article/tips-cycling-wind-wet-and-leaves" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cyclinguk.org">[Cycling UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cyclinguk.org</span><span class="citation-popover-snippet">Forecasts are pretty accurate these days and provide detail on both wind strength and direction, precipitation and...Read more...</span></span></span>
+Cycling UK's commuting advice notes that modern forecasts provide detailed information on wind direction, precipitation, visibility, actual and apparent temperature, and sunrise or sunset times. Those details often matter more than a simple weather icon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cyclinguk.org/article/tips-cycling-wind-wet-and-leaves" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cyclinguk.org">[Cycling UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cyclinguk.org</span><span class="citation-popover-snippet">Forecasts are pretty accurate these days and provide detail on both wind strength and direction, precipitation and...Read more...</span></span></span>
 
 The goal is not to predict perfect comfort. It is to eliminate surprises.
 
@@ -301,7 +301,7 @@ Rain attracts attention because it is visible on a forecast, but it is often not
 
 Wind affects effort, travel time and bike handling. A rider who only checks for rain may be caught out by a strong headwind that turns a routine 30-minute commute into a much slower journey.
 
-Some commuter cycling organisations recommend checking wind forecasts specifically because windy conditions can add significant time to a journey. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bikeforgood.org.uk/blog/top-tips-for-cycle-commuting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bikeforgood.org.uk">[Bike for Good]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bikeforgood.org.uk</span><span class="citation-popover-snippet">Bike for GoodTop Tips for Cycle CommutingIf your commute is long, check the wind forecast. A windy day can alter commute time by 10-15 mi...</span></span></span>
+Some commuter cycling organisations recommend checking wind forecasts specifically because windy conditions can add significant time to a journey.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bikeforgood.org.uk/blog/top-tips-for-cycle-commuting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bikeforgood.org.uk">[Bike for Good]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bikeforgood.org.uk</span><span class="citation-popover-snippet">Bike for GoodTop Tips for Cycle CommutingIf your commute is long, check the wind forecast. A windy day can alter commute time by 10-15 mi...</span></span></span>
 
 The important detail is direction as well as speed:
 
@@ -313,7 +313,7 @@ The important detail is direction as well as speed:
 
 </div>
 
-Cycling guidance aimed at commuters notes that around 20 mph winds become very noticeable on a bike, while stronger winds can make riding difficult even for experienced cyclists. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cyclescheme.co.uk/community/how-to/how-to-ride-when-the-wind-blows" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cyclescheme.co.uk">[Cyclescheme]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cyclescheme.co.uk</span><span class="citation-popover-snippet">It&#x27;s seldom hazardous per se, but if it makes you feel unsafe then leave the bike...Read more...</span></span></span>
+Cycling guidance aimed at commuters notes that around 20 mph winds become very noticeable on a bike, while stronger winds can make riding difficult even for experienced cyclists.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cyclescheme.co.uk/community/how-to/how-to-ride-when-the-wind-blows" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cyclescheme.co.uk">[Cyclescheme]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cyclescheme.co.uk</span><span class="citation-popover-snippet">It&#x27;s seldom hazardous per se, but if it makes you feel unsafe then leave the bike...Read more...</span></span></span>
 
 A night-before plan might therefore be:
 
@@ -332,7 +332,7 @@ A night-before plan might therefore be:
 
 A forecast of 5°C may feel manageable when standing outside. It feels different after twenty minutes of moving through cold air.
 
-Wind chill increases heat loss, especially affecting hands, feet and ears. Winter commuting advice consistently highlights the combination of low temperatures and moving air as a major comfort problem. Rennrad News, Test und mehr bei TOUR <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tour-magazin.de/en/bikepacking-equipment/gravel-commuters-need-this-equipment-in-winter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tour-magazin.de">[tour-magazin.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tour-magazin.de</span><span class="citation-popover-snippet">Rennrad News, Test und mehr bei TOURGravel commuters need this equipment in winterJanuary 24, 2025 — 24 Jan 2025 — Low temperatures and w...</span><span class="citation-popover-meta">Published: January 24, 2025</span></span></span>
+Wind chill increases heat loss, especially affecting hands, feet and ears. Winter commuting advice consistently highlights the combination of low temperatures and moving air as a major comfort problem. Rennrad News, Test und mehr bei TOUR<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tour-magazin.de/en/bikepacking-equipment/gravel-commuters-need-this-equipment-in-winter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tour-magazin.de">[tour-magazin.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tour-magazin.de</span><span class="citation-popover-snippet">Rennrad News, Test und mehr bei TOURGravel commuters need this equipment in winterJanuary 24, 2025 — 24 Jan 2025 — Low temperatures and w...</span><span class="citation-popover-meta">Published: January 24, 2025</span></span></span>
 
 The useful question is not "What is the temperature?" but "What temperature will it feel like while riding?"
 
@@ -342,9 +342,9 @@ That answer determines whether gloves, overshoes, extra layers or a warmer jacke
 
 Many riders think visibility only matters at night. In reality, fog, rain and road spray can make daytime riding much less visible to other road users.
 
-The Met Office advises extra care when cycling in fog, including high-visibility clothing and bright lights, and suggests considering alternative transport when fog is particularly dense. <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/cycling-in-winter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">to cycle in winterIf it gets icy, avoid untreated routes and be ultra careful at stop lines - you may be able to stop, but the car behind...</span></span></span>
+The Met Office advises extra care when cycling in fog, including high-visibility clothing and bright lights, and suggests considering alternative transport when fog is particularly dense.<span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/cycling-in-winter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">to cycle in winterIf it gets icy, avoid untreated routes and be ultra careful at stop lines - you may be able to stop, but the car behind...</span></span></span>
 
-Heavy rain creates a similar problem. Reduced visibility affects both the cyclist and drivers, making conspicuity more important than usual. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openweather.co.uk/blog/post/impact-weather-cycling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openweather.co.uk">[OpenWeather]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openweather.co.uk</span><span class="citation-popover-title">impact weather cycling</span><span class="citation-popover-snippet">Impact of Weather on Cycling24 Apr 2025 — Precipitation, a frequent occurrence in the UK, transforms the ride. Rain, sleet, or...</span></span></span>
+Heavy rain creates a similar problem. Reduced visibility affects both the cyclist and drivers, making conspicuity more important than usual.<span class="citation-chip-wrap"><a class="citation-chip" href="https://openweather.co.uk/blog/post/impact-weather-cycling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openweather.co.uk">[OpenWeather]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openweather.co.uk</span><span class="citation-popover-title">impact weather cycling</span><span class="citation-popover-snippet">Impact of Weather on Cycling24 Apr 2025 — Precipitation, a frequent occurrence in the UK, transforms the ride. Rain, sleet, or...</span></span></span>
 
 A useful evening check therefore includes:
 
@@ -362,9 +362,9 @@ A useful evening check therefore includes:
 
 The value of a forecast is measured by what it changes in your bag.
 
-If strong wind is expected, the adjustment may be logistical rather than clothing-related. Extra commuting time may matter more than extra equipment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bikeforgood.org.uk/blog/top-tips-for-cycle-commuting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bikeforgood.org.uk">[Bike for Good]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bikeforgood.org.uk</span><span class="citation-popover-snippet">Bike for GoodTop Tips for Cycle CommutingIf your commute is long, check the wind forecast. A windy day can alter commute time by 10-15 mi...</span></span></span>
+If strong wind is expected, the adjustment may be logistical rather than clothing-related. Extra commuting time may matter more than extra equipment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bikeforgood.org.uk/blog/top-tips-for-cycle-commuting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bikeforgood.org.uk">[Bike for Good]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bikeforgood.org.uk</span><span class="citation-popover-snippet">Bike for GoodTop Tips for Cycle CommutingIf your commute is long, check the wind forecast. A windy day can alter commute time by 10-15 mi...</span></span></span>
 
-If heavy rain is forecast, preparation focuses on keeping work items dry. Laptop protection, spare clothes and waterproof layers become part of the plan. Cycling commuting guides repeatedly emphasise protecting work equipment and maintaining visibility in wet conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://btrsports.co.uk/blogs/news/cycling-to-work-in-the-rain-the-commuters-survival-guide?srsltid=AfmBOopOwUGAI2mFijjGiTiCvmKbGE_mxUGyc_aaC7F1kWWk__-RtAzz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: btrsports.co.uk">[BTR Sports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">btrsports.co.uk</span><span class="citation-popover-title">BTR Sports Cycling to Work in the Rain: The Commuter&#x27;s Survival Guide</span><span class="citation-popover-snippet">Waterproof cycling gear, helmet covers, backpack covers, and jackets to keep you dry and visible...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lasportiveoutdoor.com/en/tips-equipment/cycling-in-all-weathers-a-practical-guide-to-adapting-to-the-weather/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lasportiveoutdoor.com">[La Sportive Outdoor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lasportiveoutdoor.com</span><span class="citation-popover-title">La Sportive Outdoor Cycling in all weathers</span><span class="citation-popover-snippet">Cycling in all weathers - A practical guide to adapting to...20 Feb 2025 — Finally, as visibility is often reduced in the rain, we recom...</span></span></span>
+If heavy rain is forecast, preparation focuses on keeping work items dry. Laptop protection, spare clothes and waterproof layers become part of the plan. Cycling commuting guides repeatedly emphasise protecting work equipment and maintaining visibility in wet conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://btrsports.co.uk/blogs/news/cycling-to-work-in-the-rain-the-commuters-survival-guide?srsltid=AfmBOopOwUGAI2mFijjGiTiCvmKbGE_mxUGyc_aaC7F1kWWk__-RtAzz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: btrsports.co.uk">[BTR Sports]</a><span class="citation-popover" role="note"><span class="citation-popover-source">btrsports.co.uk</span><span class="citation-popover-title">BTR Sports Cycling to Work in the Rain: The Commuter&#x27;s Survival Guide</span><span class="citation-popover-snippet">Waterproof cycling gear, helmet covers, backpack covers, and jackets to keep you dry and visible...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lasportiveoutdoor.com/en/tips-equipment/cycling-in-all-weathers-a-practical-guide-to-adapting-to-the-weather/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lasportiveoutdoor.com">[La Sportive Outdoor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lasportiveoutdoor.com</span><span class="citation-popover-title">La Sportive Outdoor Cycling in all weathers</span><span class="citation-popover-snippet">Cycling in all weathers - A practical guide to adapting to...20 Feb 2025 — Finally, as visibility is often reduced in the rain, we recom...</span></span></span>
 
 For cold or variable temperatures, packing beats guessing. A spare layer in a pannier is often more useful than hoping the forecast feels warmer than expected.
 
@@ -373,7 +373,7 @@ For darkness or poor visibility, check:
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Front and rear light charge levels.
-* Reflective clothing availability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lasportiveoutdoor.com/en/tips-equipment/cycling-in-all-weathers-a-practical-guide-to-adapting-to-the-weather/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lasportiveoutdoor.com">[lasportiveoutdoor.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lasportiveoutdoor.com</span><span class="citation-popover-title">La Sportive Outdoor Cycling in all weathers</span><span class="citation-popover-snippet">Cycling in all weathers - A practical guide to adapting to...20 Feb 2025 — Finally, as visibility is often reduced in the rain, we recom...</span></span></span>
+* Reflective clothing availability.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lasportiveoutdoor.com/en/tips-equipment/cycling-in-all-weathers-a-practical-guide-to-adapting-to-the-weather/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lasportiveoutdoor.com">[lasportiveoutdoor.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lasportiveoutdoor.com</span><span class="citation-popover-title">La Sportive Outdoor Cycling in all weathers</span><span class="citation-popover-snippet">Cycling in all weathers - A practical guide to adapting to...20 Feb 2025 — Finally, as visibility is often reduced in the rain, we recom...</span></span></span>
 * Backup light batteries if relevant.
 
 </div>
@@ -390,7 +390,7 @@ The more useful question is: what will conditions be at 17:30 or 18:00?
 
 A dry morning can be followed by heavy afternoon rain. A mild commute to work can become a cold ride home after sunset. Wind direction can reverse the effort profile of the day.
 
-Cycling UK specifically highlights checking visibility, temperatures, precipitation and daylight conditions as part of weather planning because conditions can vary substantially across a single day. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cyclinguk.org/article/tips-cycling-wind-wet-and-leaves" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cyclinguk.org">[Cycling UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cyclinguk.org</span><span class="citation-popover-snippet">Forecasts are pretty accurate these days and provide detail on both wind strength and direction, precipitation and...Read more...</span></span></span>
+Cycling UK specifically highlights checking visibility, temperatures, precipitation and daylight conditions as part of weather planning because conditions can vary substantially across a single day.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cyclinguk.org/article/tips-cycling-wind-wet-and-leaves" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cyclinguk.org">[Cycling UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cyclinguk.org</span><span class="citation-popover-snippet">Forecasts are pretty accurate these days and provide detail on both wind strength and direction, precipitation and...Read more...</span></span></span>
 
 This changes what gets packed:
 
@@ -414,12 +414,12 @@ Some weather conditions create manageable inconvenience. Others create dispropor
 Conditions that often justify a backup plan include:
 
 * Ice on untreated roads or paths.
-* Severe wind warnings and strong gusts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/stay-safe-in-strong-wind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[weather.metoffice.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">metoffice.gov.uk5 tips for staying safe in strong windDriving slowly to minimise the impact of wind gusts · Be aware of high sided vehicl...</span></span></span>
+* Severe wind warnings and strong gusts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/stay-safe-in-strong-wind" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[weather.metoffice.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">metoffice.gov.uk5 tips for staying safe in strong windDriving slowly to minimise the impact of wind gusts · Be aware of high sided vehicl...</span></span></span>
 * Extremely poor visibility.
 * Flooded routes.
 * Heavy downpours likely to create unsafe road conditions.
 
-The Met Office advises avoiding travel through floodwater and recommends delaying journeys when heavy downpours are expected. Winter cycling guidance similarly advises avoiding icy conditions and untreated surfaces where possible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sportscoverdirect.com/scd-blog/road-biking-in-winter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sportscoverdirect.com">[SportsCover Direct]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sportscoverdirect.com</span><span class="citation-popover-snippet">· Use lights and reflective gear to...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/cycling-in-winter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">to cycle in winterIf it gets icy, avoid untreated routes and be ultra careful at stop lines - you may be able to stop, but the car behind...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/cycling-in-winter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">to cycle in winterIf it gets icy, avoid untreated routes and be ultra careful at stop lines - you may be able to stop, but the car behind...</span></span></span>
+The Met Office advises avoiding travel through floodwater and recommends delaying journeys when heavy downpours are expected. Winter cycling guidance similarly advises avoiding icy conditions and untreated surfaces where possible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sportscoverdirect.com/scd-blog/road-biking-in-winter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sportscoverdirect.com">[SportsCover Direct]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sportscoverdirect.com</span><span class="citation-popover-snippet">· Use lights and reflective gear to...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/cycling-in-winter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">to cycle in winterIf it gets icy, avoid untreated routes and be ultra careful at stop lines - you may be able to stop, but the car behind...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/cycling-in-winter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">to cycle in winterIf it gets icy, avoid untreated routes and be ultra careful at stop lines - you may be able to stop, but the car behind...</span></span></span>
 
 This is where a coping plan becomes valuable. Instead of deciding at the last minute, the night-before check creates a predetermined response:
 
@@ -433,178 +433,178 @@ The forecast then serves a practical purpose. Rather than becoming a reason to a
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZYKx-_sQIbs" title="Cycling in the Rain SUCKS Unless You Do This..." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZYKx-_sQIbs" target="_blank" rel="noopener noreferrer">Cycling in the Rain SUCKS Unless You Do This...</a></p><p class="youtube-embed-meta">Channel: Global Cycling Network &middot; Views: 177.7K &middot; Uploaded: December 2023 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZYKx-_sQIbs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZYKx-_sQIbs">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can You Plan Around Bad Cycling Weather?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can You Plan Around Bad Cycling Weather?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Useful for creating weather contingency plans.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Useful for creating weather contingency plans.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cyclist%27s+Training+Bible+by+Joe+Friel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cyclist&#x27;s Training Bible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Ovg5CgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Cyclist&#x27;s Training Bible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cyclist%27s+Training+Bible+by+Joe+Friel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cyclist&#x27;s Training Bible">The Cyclist&#x27;s Training Bible</a>
-        </h4>
-        <p class="fr-book-author">By Joe Friel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cyclist%27s+Training+Bible+by+Joe+Friel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cyclist&#x27;s Training Bible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Ovg5CgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Cyclist&#x27;s Training Bible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cyclist%27s+Training+Bible+by+Joe+Friel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cyclist&#x27;s Training Bible">The Cyclist&#x27;s Training Bible</a>
+</h4>
+<p class="fr-book-author">By Joe Friel</p>
         
-        <p class="fr-book-desc">Covers preparation for varied riding conditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cyclist%27s+Training+Bible+by+Joe+Friel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers preparation for varied riding conditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cyclist%27s+Training+Bible+by+Joe+Friel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bike+for+Life+by+Roy+M.+Wallack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bike for Life on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ToZKDgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bike for Life" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bike+for+Life+by+Roy+M.+Wallack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bike for Life">Bike for Life</a>
-        </h4>
-        <p class="fr-book-author">By Roy M. Wallack</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bike+for+Life+by+Roy+M.+Wallack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bike for Life on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ToZKDgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bike for Life" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bike+for+Life+by+Roy+M.+Wallack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bike for Life">Bike for Life</a>
+</h4>
+<p class="fr-book-author">By Roy M. Wallack</p>
         
-        <p class="fr-book-desc">Supports adapting riding habits to changing conditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bike+for+Life+by+Roy+M.+Wallack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports adapting riding habits to changing conditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bike+for+Life+by+Roy+M.+Wallack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
-        </h4>
-        <p class="fr-book-author">By Charles Duhigg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
+</h4>
+<p class="fr-book-author">By Charles Duhigg</p>
         
-        <p class="fr-book-desc">Helps reinforce backup plans as automatic routines.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps reinforce backup plans as automatic routines.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cyclist%27s+Training+Bible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cyclist&#x27;s Training Bible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bike+for+Life&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bike for Life</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cyclist%27s+Training+Bible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cyclist&#x27;s Training Bible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bike+for+Life&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bike for Life</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-    </div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-plan-can-you-plan-around-bad-cycling-weather-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Deluxe Habit Tracker Journal - 52 Weekly Sheets, 8.5x11&quot; Productivity Organizer"><img src="{{ '/assets/images/marketplace-covers/3010e87cba76df4a7ce3.jpg' | relative_url }}" alt="Listing image for Deluxe Habit Tracker Journal - 52 Weekly Sheets, 8.5x11&quot; Productivity Organizer" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-plan-can-you-plan-around-bad-cycling-weather-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Deluxe Habit Tracker Journal - 52 Weekly Sheets, 8.5x11&quot; Productivity Organizer</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-plan-can-you-plan-around-bad-cycling-weather-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.com</span>: habit tracker journal</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-plan-can-you-plan-around-bad-cycling-weather-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-plan-can-you-plan-around-bad-cycling-weather-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Deluxe Habit Tracker Journal - 52 Weekly Sheets, 8.5x11&quot; Productivity Organizer"><img src="{{ '/assets/images/marketplace-covers/3010e87cba76df4a7ce3.jpg' | relative_url }}" alt="Listing image for Deluxe Habit Tracker Journal - 52 Weekly Sheets, 8.5x11&quot; Productivity Organizer" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-plan-can-you-plan-around-bad-cycling-weather-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Deluxe Habit Tracker Journal - 52 Weekly Sheets, 8.5x11&quot; Productivity Organizer</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-plan-can-you-plan-around-bad-cycling-weather-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search<span data-ebay-domain-label>eBay.com</span>: habit tracker journal</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-plan-can-you-plan-around-bad-cycling-weather-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-plan-can-you-plan-around-bad-cycling-weather-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stylish A5 Daily Productivity Planner 2026: Habit Tracker &amp; Gratitude Journal"><img src="{{ '/assets/images/marketplace-covers/2f35d7fbbee14e036f45.jpg' | relative_url }}" alt="Listing image for Stylish A5 Daily Productivity Planner 2026: Habit Tracker &amp; Gratitude Journal" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-plan-can-you-plan-around-bad-cycling-weather-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Stylish A5 Daily Productivity Planner 2026: Habit Tracker &amp; Gratitude Journal</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-plan-can-you-plan-around-bad-cycling-weather-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.com</span>: habit tracker journal</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-plan-can-you-plan-around-bad-cycling-weather-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-plan-can-you-plan-around-bad-cycling-weather-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stylish A5 Daily Productivity Planner 2026: Habit Tracker &amp; Gratitude Journal"><img src="{{ '/assets/images/marketplace-covers/2f35d7fbbee14e036f45.jpg' | relative_url }}" alt="Listing image for Stylish A5 Daily Productivity Planner 2026: Habit Tracker &amp; Gratitude Journal" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-plan-can-you-plan-around-bad-cycling-weather-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Stylish A5 Daily Productivity Planner 2026: Habit Tracker &amp; Gratitude Journal</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-plan-can-you-plan-around-bad-cycling-weather-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search<span data-ebay-domain-label>eBay.com</span>: habit tracker journal</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-plan-can-you-plan-around-bad-cycling-weather-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-plan-can-you-plan-around-bad-cycling-weather-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 52 Weeks Daily Habit Tracker Journal: Build A Path To Happiness Softcover"><img src="{{ '/assets/images/marketplace-covers/37e1fc094899359e87d2.jpg' | relative_url }}" alt="Listing image for 52 Weeks Daily Habit Tracker Journal: Build A Path To Happiness Softcover" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-plan-can-you-plan-around-bad-cycling-weather-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">52 Weeks Daily Habit Tracker Journal: Build A Path To Happiness Softcover</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-plan-can-you-plan-around-bad-cycling-weather-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.com</span>: habit tracker journal</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-plan-can-you-plan-around-bad-cycling-weather-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-plan-can-you-plan-around-bad-cycling-weather-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 52 Weeks Daily Habit Tracker Journal: Build A Path To Happiness Softcover"><img src="{{ '/assets/images/marketplace-covers/37e1fc094899359e87d2.jpg' | relative_url }}" alt="Listing image for 52 Weeks Daily Habit Tracker Journal: Build A Path To Happiness Softcover" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-plan-can-you-plan-around-bad-cycling-weather-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">52 Weeks Daily Habit Tracker Journal: Build A Path To Happiness Softcover</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-plan-can-you-plan-around-bad-cycling-weather-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search<span data-ebay-domain-label>eBay.com</span>: habit tracker journal</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-plan-can-you-plan-around-bad-cycling-weather-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-plan-can-you-plan-around-bad-cycling-weather-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baronfig New Sealed Clear Habit Journal Habit Tracker Bullet Notebook"><img src="{{ '/assets/images/marketplace-covers/656556146176608bf460.jpg' | relative_url }}" alt="Listing image for Baronfig New Sealed Clear Habit Journal Habit Tracker Bullet Notebook" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-plan-can-you-plan-around-bad-cycling-weather-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baronfig New Sealed Clear Habit Journal Habit Tracker Bullet Notebook</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-plan-can-you-plan-around-bad-cycling-weather-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.com</span>: habit tracker journal</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-plan-can-you-plan-around-bad-cycling-weather-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-plan-can-you-plan-around-bad-cycling-weather-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-plan-can-you-plan-around-bad-cycling-weather-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baronfig New Sealed Clear Habit Journal Habit Tracker Bullet Notebook"><img src="{{ '/assets/images/marketplace-covers/656556146176608bf460.jpg' | relative_url }}" alt="Listing image for Baronfig New Sealed Clear Habit Journal Habit Tracker Bullet Notebook" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-plan-can-you-plan-around-bad-cycling-weather-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baronfig New Sealed Clear Habit Journal Habit Tracker Bullet Notebook</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-plan-can-you-plan-around-bad-cycling-weather-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search<span data-ebay-domain-label>eBay.com</span>: habit tracker journal</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-plan-can-you-plan-around-bad-cycling-weather-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-plan-can-you-plan-around-bad-cycling-weather-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -620,7 +620,7 @@ The forecast then serves a practical purpose. Rather than becoming a reason to a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -640,7 +640,7 @@ The forecast then serves a practical purpose. Rather than becoming a reason to a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -672,7 +672,7 @@ The forecast then serves a practical purpose. Rather than becoming a reason to a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -702,7 +702,7 @@ The forecast then serves a practical purpose. Rather than becoming a reason to a
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -760,193 +760,193 @@ The forecast then serves a practical purpose. Rather than becoming a reason to a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cyclinguk.org  
-   Link: <a href="https://www.cyclinguk.org/article/tips-cycling-wind-wet-and-leaves" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclinguk.org/article/tips-cycling-wind-wet-and-leaves</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Forecasts are pretty accurate these days and provide detail on both wind strength and direction, precipitation and...Read more...</p></details>
+   Link:<a href="https://www.cyclinguk.org/article/tips-cycling-wind-wet-and-leaves" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclinguk.org/article/tips-cycling-wind-wet-and-leaves</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forecasts are pretty accurate these days and provide detail on both wind strength and direction, precipitation and...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: tour-magazin.de  
-   Link: <a href="https://www.tour-magazin.de/en/bikepacking-equipment/gravel-commuters-need-this-equipment-in-winter/" target="_blank" rel="noopener noreferrer nofollow">https://www.tour-magazin.de/en/bikepacking-equipment/gravel-commuters-need-this-equipment-in-winter/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rennrad News, Test und mehr bei TOURGravel commuters need this equipment in winterJanuary 24, 2025 — 24 Jan 2025 — Low temperatures and w...</p></details>
+   Link:<a href="https://www.tour-magazin.de/en/bikepacking-equipment/gravel-commuters-need-this-equipment-in-winter/" target="_blank" rel="noopener noreferrer nofollow">https://www.tour-magazin.de/en/bikepacking-equipment/gravel-commuters-need-this-equipment-in-winter/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rennrad News, Test und mehr bei TOURGravel commuters need this equipment in winterJanuary 24, 2025 — 24 Jan 2025 — Low temperatures and w...</p></details>
    Published: January 24, 2025  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: weather.gov  
-   Link: <a href="https://www.weather.gov/wrh/travel" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/wrh/travel</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Transportation Decision SupportThis page provides graphical weather forecast information for segments of US and state highways and inters...</p></details>
+   Link:<a href="https://www.weather.gov/wrh/travel" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/wrh/travel</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Transportation Decision SupportThis page provides graphical weather forecast information for segments of US and state highways and inters...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/22155159/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22155159/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Weather factor impacts on commuting to work by bicycleby BS Flynn · 2012 · Cited by 194 — Conclusion: Precipitation, temperature, w...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/22155159/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22155159/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weather factor impacts on commuting to work by bicycleby BS Flynn · 2012 · Cited by 194 — Conclusion: Precipitation, temperature, w...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: bikeforgood.org.uk  
-   Link: <a href="https://www.bikeforgood.org.uk/blog/top-tips-for-cycle-commuting/" target="_blank" rel="noopener noreferrer nofollow">https://www.bikeforgood.org.uk/blog/top-tips-for-cycle-commuting/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bike for GoodTop Tips for Cycle CommutingIf your commute is long, check the wind forecast. A windy day can alter commute time by 10-15 mi...</p></details>
+   Link:<a href="https://www.bikeforgood.org.uk/blog/top-tips-for-cycle-commuting/" target="_blank" rel="noopener noreferrer nofollow">https://www.bikeforgood.org.uk/blog/top-tips-for-cycle-commuting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bike for GoodTop Tips for Cycle CommutingIf your commute is long, check the wind forecast. A windy day can alter commute time by 10-15 mi...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cyclescheme.co.uk  
-   Link: <a href="https://www.cyclescheme.co.uk/community/how-to/how-to-ride-when-the-wind-blows" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclescheme.co.uk/community/how-to/how-to-ride-when-the-wind-blows</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s seldom hazardous per se, but if it makes you feel unsafe then leave the bike...Read more...</p></details>
+   Link:<a href="https://www.cyclescheme.co.uk/community/how-to/how-to-ride-when-the-wind-blows" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclescheme.co.uk/community/how-to/how-to-ride-when-the-wind-blows</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s seldom hazardous per se, but if it makes you feel unsafe then leave the bike...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/cycling-in-winter" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/cycling-in-winter</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>to cycle in winterIf it gets icy, avoid untreated routes and be ultra careful at stop lines - you may be able to stop, but the car behind...</p></details>
+   Link:<a href="https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/cycling-in-winter" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/cycling-in-winter</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to cycle in winterIf it gets icy, avoid untreated routes and be ultra careful at stop lines - you may be able to stop, but the car behind...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/winter-weather-and-cycling" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/winter-weather-and-cycling</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Met OfficeHow winter weather affects cyclingTake extra care when cycling in affected areas. Wear high visibility clothing, use bright fla...</p></details>
+   Link:<a href="https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/winter-weather-and-cycling" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/winter-weather-and-cycling</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Met OfficeHow winter weather affects cyclingTake extra care when cycling in affected areas. Wear high visibility clothing, use bright fla...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: openweather.co.uk  
    Title: impact weather cycling  
-   Link: <a href="https://openweather.co.uk/blog/post/impact-weather-cycling" target="_blank" rel="noopener noreferrer nofollow">https://openweather.co.uk/blog/post/impact-weather-cycling</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Impact of Weather on Cycling24 Apr 2025 — Precipitation, a frequent occurrence in the UK, transforms the ride. Rain, sleet, or...</p></details>
+   Link:<a href="https://openweather.co.uk/blog/post/impact-weather-cycling" target="_blank" rel="noopener noreferrer nofollow">https://openweather.co.uk/blog/post/impact-weather-cycling</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Impact of Weather on Cycling24 Apr 2025 — Precipitation, a frequent occurrence in the UK, transforms the ride. Rain, sleet, or...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: btrsports.co.uk  
    Title: BTR Sports Cycling to Work in the Rain: The Commuter's Survival Guide  
-   Link: <a href="https://btrsports.co.uk/blogs/news/cycling-to-work-in-the-rain-the-commuters-survival-guide?srsltid=AfmBOopOwUGAI2mFijjGiTiCvmKbGE_mxUGyc_aaC7F1kWWk__-RtAzz" target="_blank" rel="noopener noreferrer nofollow">https://btrsports.co.uk/blogs/news/cycling-to-work-in-the-rain-the-commuters-survival-guide?srsltid=AfmBOopOwUGAI2mFijjGiTiCvmKbGE_mxUGyc_aaC7F1kWWk__-RtAzz</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Waterproof cycling gear, helmet covers, backpack covers, and jackets to keep you dry and visible...</p></details>
+   Link:<a href="https://btrsports.co.uk/blogs/news/cycling-to-work-in-the-rain-the-commuters-survival-guide?srsltid=AfmBOopOwUGAI2mFijjGiTiCvmKbGE_mxUGyc_aaC7F1kWWk__-RtAzz" target="_blank" rel="noopener noreferrer nofollow">https://btrsports.co.uk/blogs/news/cycling-to-work-in-the-rain-the-commuters-survival-guide?srsltid=AfmBOopOwUGAI2mFijjGiTiCvmKbGE_mxUGyc_aaC7F1kWWk__-RtAzz</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Waterproof cycling gear, helmet covers, backpack covers, and jackets to keep you dry and visible...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: lasportiveoutdoor.com  
    Title: La Sportive Outdoor Cycling in all weathers  
-   Link: <a href="https://www.lasportiveoutdoor.com/en/tips-equipment/cycling-in-all-weathers-a-practical-guide-to-adapting-to-the-weather/" target="_blank" rel="noopener noreferrer nofollow">https://www.lasportiveoutdoor.com/en/tips-equipment/cycling-in-all-weathers-a-practical-guide-to-adapting-to-the-weather/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cycling in all weathers - A practical guide to adapting to...20 Feb 2025 — Finally, as visibility is often reduced in the rain, we recom...</p></details>
+   Link:<a href="https://www.lasportiveoutdoor.com/en/tips-equipment/cycling-in-all-weathers-a-practical-guide-to-adapting-to-the-weather/" target="_blank" rel="noopener noreferrer nofollow">https://www.lasportiveoutdoor.com/en/tips-equipment/cycling-in-all-weathers-a-practical-guide-to-adapting-to-the-weather/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cycling in all weathers - A practical guide to adapting to...20 Feb 2025 — Finally, as visibility is often reduced in the rain, we recom...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/stay-safe-in-heavy-rain" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/stay-safe-in-heavy-rain</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Met Office5 tips for staying safe in heavy rainIt is not safe to drive or walk or swim through floodwater, avoid it where possible and if...</p></details>
+   Link:<a href="https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/stay-safe-in-heavy-rain" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/stay-safe-in-heavy-rain</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Met Office5 tips for staying safe in heavy rainIt is not safe to drive or walk or swim through floodwater, avoid it where possible and if...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/travelling-in-storms-rain-and-wind" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/travelling-in-storms-rain-and-wind</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>If you can, choose main roads, where you are less likely to be exposed to fallen...Read more...</p></details>
+   Link:<a href="https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/travelling-in-storms-rain-and-wind" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/travelling-in-storms-rain-and-wind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>If you can, choose main roads, where you are less likely to be exposed to fallen...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: sportscoverdirect.com  
-   Link: <a href="https://www.sportscoverdirect.com/scd-blog/road-biking-in-winter/" target="_blank" rel="noopener noreferrer nofollow">https://www.sportscoverdirect.com/scd-blog/road-biking-in-winter/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>· Use lights and reflective gear to...Read more...</p></details>
+   Link:<a href="https://www.sportscoverdirect.com/scd-blog/road-biking-in-winter/" target="_blank" rel="noopener noreferrer nofollow">https://www.sportscoverdirect.com/scd-blog/road-biking-in-winter/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>· Use lights and reflective gear to...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cyclinguk.org  
-   Link: <a href="https://www.cyclinguk.org/article/beginners-guide-cycling-rain" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclinguk.org/article/beginners-guide-cycling-rain</a>  
+   Link:<a href="https://www.cyclinguk.org/article/beginners-guide-cycling-rain" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclinguk.org/article/beginners-guide-cycling-rain</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: metoffice.gov.uk  
-   Link: <a href="https://www.metoffice.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Met Office: Weather and climate changeLargely dry on Wednesday and Thursday with warm sunny spells, but windy in the south...</p></details>
+   Link:<a href="https://www.metoffice.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Met Office: Weather and climate changeLargely dry on Wednesday and Thursday with warm sunny spells, but windy in the south...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/tips-and-advice-for-cycling-this-summer" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/tips-and-advice-for-cycling-this-summer</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Summer is the perfect time to dust off your bike and explore the many cycling paths and routes...Read more...</p></details>
+   Link:<a href="https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/tips-and-advice-for-cycling-this-summer" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/tips-and-advice-for-cycling-this-summer</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Summer is the perfect time to dust off your bike and explore the many cycling paths and routes...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: metoffice.gov.uk  
    Title: understanding the met office weatherready campaign  
-   Link: <a href="https://www.metoffice.gov.uk/blog/2026/understanding-the-met-office-weatherready-campaign" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2026/understanding-the-met-office-weatherready-campaign</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Met Office&#x27;s WeatherReady...15 Jan 2026 — Whether it&#x27;s tips for safe walking and cycling, advice on garden maintenance...</p></details>
+   Link:<a href="https://www.metoffice.gov.uk/blog/2026/understanding-the-met-office-weatherready-campaign" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2026/understanding-the-met-office-weatherready-campaign</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Met Office&#x27;s WeatherReady...15 Jan 2026 — Whether it&#x27;s tips for safe walking and cycling, advice on garden maintenance...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/forecast/uk" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/forecast/uk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kingdom (National) weatherUnited Kingdom 7 day weather forecast including weather warnings, temperature, rain, wind, visibility, humidity...</p></details>
+   Link:<a href="https://weather.metoffice.gov.uk/forecast/uk" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/forecast/uk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kingdom (National) weatherUnited Kingdom 7 day weather forecast including weather warnings, temperature, rain, wind, visibility, humidity...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: weather.metoffice.gov.uk  
    Title: metoffice.gov.uk Tips for cycling in icy conditions  
-   Link: <a href="https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/cycling-in-icy-conditions" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/cycling-in-icy-conditions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>for cycling in icy conditions - from Cycling UKThe new rule 163 advises drivers to leave at least 1.5 metres when overtaking cyclists at...</p></details>
+   Link:<a href="https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/cycling-in-icy-conditions" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/cycling-in-icy-conditions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>for cycling in icy conditions - from Cycling UKThe new rule 163 advises drivers to leave at least 1.5 metres when overtaking cyclists at...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: metoffice.gov.uk  
    Title: how does the water cycle affect uk weather  
-   Link: <a href="https://www.metoffice.gov.uk/blog/2025/how-does-the-water-cycle-affect-uk-weather" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/how-does-the-water-cycle-affect-uk-weather</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cycle results in rain and snow, which can trigger severe weather conditions.... Weekend weather forecast: Colder, breezier and showery f...</p></details>
+   Link:<a href="https://www.metoffice.gov.uk/blog/2025/how-does-the-water-cycle-affect-uk-weather" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/how-does-the-water-cycle-affect-uk-weather</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cycle results in rain and snow, which can trigger severe weather conditions.... Weekend weather forecast: Colder, breezier and showery f...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/forecast/gcpvj0v07" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/forecast/gcpvj0v07</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(Greater London) weatherLondon 7 day weather forecast including weather warnings, temperature, rain, wind, visibility, humidity and UV...</p></details>
+   Link:<a href="https://weather.metoffice.gov.uk/forecast/gcpvj0v07" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/forecast/gcpvj0v07</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(Greater London) weatherLondon 7 day weather forecast including weather warnings, temperature, rain, wind, visibility, humidity and UV...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/stay-safe-in-strong-wind" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/stay-safe-in-strong-wind</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>metoffice.gov.uk5 tips for staying safe in strong windDriving slowly to minimise the impact of wind gusts · Be aware of high sided vehicl...</p></details>
+   Link:<a href="https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/stay-safe-in-strong-wind" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/stay-safe-in-strong-wind</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>metoffice.gov.uk5 tips for staying safe in strong windDriving slowly to minimise the impact of wind gusts · Be aware of high sided vehicl...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: themet.org.uk  
-   Link: <a href="https://themet.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://themet.org.uk/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Met | Live music and theatre in Bury, Greater ManchesterThe Met is at the heart of live music and theatre in Bury. An exciting progra...</p></details>
+   Link:<a href="https://themet.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://themet.org.uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Met | Live music and theatre in Bury, Greater ManchesterThe Met is at the heart of live music and theatre in Bury. An exciting progra...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cyclescheme.co.uk  
-   Link: <a href="https://www.cyclescheme.co.uk/community/featured/weather-beating" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclescheme.co.uk/community/featured/weather-beating</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weather beatingWhen the rain is running down the windows on a winter morning, it can be hard to summon up the enthusiasm for cycle commut...</p></details>
+   Link:<a href="https://www.cyclescheme.co.uk/community/featured/weather-beating" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclescheme.co.uk/community/featured/weather-beating</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weather beatingWhen the rain is running down the windows on a winter morning, it can be hard to summon up the enthusiasm for cycle commut...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: blog.gov.je  
    Title: working with weather for commuting by bike  
-   Link: <a href="https://blog.gov.je/2022/07/22/working-with-weather-for-commuting-by-bike/" target="_blank" rel="noopener noreferrer nofollow">https://blog.gov.je/2022/07/22/working-with-weather-for-commuting-by-bike/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by bike… working with the weather for a...22 Jul 2022 — Commuting by bike is a choice that many of us have long considered to reduce fue...</p></details>
+   Link:<a href="https://blog.gov.je/2022/07/22/working-with-weather-for-commuting-by-bike/" target="_blank" rel="noopener noreferrer nofollow">https://blog.gov.je/2022/07/22/working-with-weather-for-commuting-by-bike/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by bike… working with the weather for a...22 Jul 2022 — Commuting by bike is a choice that many of us have long considered to reduce fue...</p></details>
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/382563705_The_impact_of_weather_conditions_on_mode_choice_Empirical_evidence_for_the_Netherlands" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/382563705_The_impact_of_weather_conditions_on_mode_choice_Empirical_evidence_for_the_Netherlands</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The impact of weather conditions on mode choice26 Jul 2024 — Wind negatively influences the use of the bicycle, while precipitation...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/382563705_The_impact_of_weather_conditions_on_mode_choice_Empirical_evidence_for_the_Netherlands" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/382563705_The_impact_of_weather_conditions_on_mode_choice_Empirical_evidence_for_the_Netherlands</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The impact of weather conditions on mode choice26 Jul 2024 — Wind negatively influences the use of the bicycle, while precipitation...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/SGPCN/posts/3196756843811222/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/SGPCN/posts/3196756843811222/</a>  
+   Link:<a href="https://www.facebook.com/groups/SGPCN/posts/3196756843811222/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/SGPCN/posts/3196756843811222/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: bike-components.de  
-   Link: <a href="https://www.bike-components.de/blog/en/guides/cycling-commute-tips/" target="_blank" rel="noopener noreferrer nofollow">https://www.bike-components.de/blog/en/guides/cycling-commute-tips/</a>  
+   Link:<a href="https://www.bike-components.de/blog/en/guides/cycling-commute-tips/" target="_blank" rel="noopener noreferrer nofollow">https://www.bike-components.de/blog/en/guides/cycling-commute-tips/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/thefilter-us/2026/may/14/bike-bicycle-commuting-tips" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/thefilter-us/2026/may/14/bike-bicycle-commuting-tips</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It emphasizes that one can start biking without investing in expensive equipment and suggests focusing on a few key items for safety and...</p></details>
+   Link:<a href="https://www.theguardian.com/thefilter-us/2026/may/14/bike-bicycle-commuting-tips" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/thefilter-us/2026/may/14/bike-bicycle-commuting-tips</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It emphasizes that one can start biking without investing in expensive equipment and suggests focusing on a few key items for safety and...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: walkwheelcycletrust.org.uk  
-   Link: <a href="https://www.walkwheelcycletrust.org.uk/our-blog/get-active/five-myths-about-cycling-and-bad-weather/" target="_blank" rel="noopener noreferrer nofollow">https://www.walkwheelcycletrust.org.uk/our-blog/get-active/five-myths-about-cycling-and-bad-weather/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Five myths about cycling and bad weather30 Oct 2019 — According to the Met Office, England gets around 850mm of rain annually...</p></details>
+   Link:<a href="https://www.walkwheelcycletrust.org.uk/our-blog/get-active/five-myths-about-cycling-and-bad-weather/" target="_blank" rel="noopener noreferrer nofollow">https://www.walkwheelcycletrust.org.uk/our-blog/get-active/five-myths-about-cycling-and-bad-weather/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Five myths about cycling and bad weather30 Oct 2019 — According to the Met Office, England gets around 850mm of rain annually...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/cycling/comments/18lbdsk/what_weather_does_it_take_to_stop_you_from_cycling/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/cycling/comments/18lbdsk/what_weather_does_it_take_to_stop_you_from_cycling/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>reate an unsafe condition. Windy days aren&#x27;t a bad thing...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/cycling/comments/18lbdsk/what_weather_does_it_take_to_stop_you_from_cycling/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/cycling/comments/18lbdsk/what_weather_does_it_take_to_stop_you_from_cycling/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>reate an unsafe condition. Windy days aren&#x27;t a bad thing...Read more...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: buff.com  
    Title: How to Cycle in the Rain: 15 Essential Tips  
-   Link: <a href="https://www.buff.com/blog/en/cycling/cycle-in-the-rain-tips/?srsltid=AfmBOor-0JYuc0t3mQQkg3rLgnXvKNj15QAKwHx8bKOp0ijlTuD9fHjP" target="_blank" rel="noopener noreferrer nofollow">https://www.buff.com/blog/en/cycling/cycle-in-the-rain-tips/?srsltid=AfmBOor-0JYuc0t3mQQkg3rLgnXvKNj15QAKwHx8bKOp0ijlTuD9fHjP</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Invest in a Good Quality Waterproof Jacket · 2. Use Waterproof Shoes or Overshoes · 3. Wear a Packable Cycling Cap · 4. Protect Your Helm...</p></details>
+   Link:<a href="https://www.buff.com/blog/en/cycling/cycle-in-the-rain-tips/?srsltid=AfmBOor-0JYuc0t3mQQkg3rLgnXvKNj15QAKwHx8bKOp0ijlTuD9fHjP" target="_blank" rel="noopener noreferrer nofollow">https://www.buff.com/blog/en/cycling/cycle-in-the-rain-tips/?srsltid=AfmBOor-0JYuc0t3mQQkg3rLgnXvKNj15QAKwHx8bKOp0ijlTuD9fHjP</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Invest in a Good Quality Waterproof Jacket · 2. Use Waterproof Shoes or Overshoes · 3. Wear a Packable Cycling Cap · 4. Protect Your Helm...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: trainerroad.com  
    Title: When do you consider it too windy to ride?  
-   Link: <a href="https://www.trainerroad.com/forum/t/when-do-you-consider-it-too-windy-to-ride/68107" target="_blank" rel="noopener noreferrer nofollow">https://www.trainerroad.com/forum/t/when-do-you-consider-it-too-windy-to-ride/68107</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Training21 Jan 2022 — For me everything below 14mph is considered a low wind day. 14 to 23 is a normal windy day which merits no precauti...</p></details>
+   Link:<a href="https://www.trainerroad.com/forum/t/when-do-you-consider-it-too-windy-to-ride/68107" target="_blank" rel="noopener noreferrer nofollow">https://www.trainerroad.com/forum/t/when-do-you-consider-it-too-windy-to-ride/68107</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Training21 Jan 2022 — For me everything below 14mph is considered a low wind day. 14 to 23 is a normal windy day which merits no precauti...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: polygonbikes.com  
    Title: rainy day cycling tips for commuters  
-   Link: <a href="https://www.polygonbikes.com/rainy-day-cycling-tips-for-commuters/" target="_blank" rel="noopener noreferrer nofollow">https://www.polygonbikes.com/rainy-day-cycling-tips-for-commuters/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cycling in the Rain Tips for Daily Commuters31 Dec 2025 — This guide will help you ride with confidence on wet roads, stay visible to tra...</p></details>
+   Link:<a href="https://www.polygonbikes.com/rainy-day-cycling-tips-for-commuters/" target="_blank" rel="noopener noreferrer nofollow">https://www.polygonbikes.com/rainy-day-cycling-tips-for-commuters/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cycling in the Rain Tips for Daily Commuters31 Dec 2025 — This guide will help you ride with confidence on wet roads, stay visible to tra...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: trainright.com  
    Title: make cycling in [bad weather](&#123;&#123; 'bad-weather/' | relative_url &#125;&#125;) better  
-   Link: <a href="https://trainright.com/make-cycling-in-bad-weather-better/" target="_blank" rel="noopener noreferrer nofollow">https://trainright.com/make-cycling-in-bad-weather-better/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Make Cycling in Bad Weather 100% Better7 Mar 2025 — Riding in the rain or the wind is better than not riding at all, so take the a...</p></details>
+   Link:<a href="https://trainright.com/make-cycling-in-bad-weather-better/" target="_blank" rel="noopener noreferrer nofollow">https://trainright.com/make-cycling-in-bad-weather-better/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Make Cycling in Bad Weather 100% Better7 Mar 2025 — Riding in the rain or the wind is better than not riding at all, so take the a...</p></details>

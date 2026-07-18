@@ -505,25 +505,25 @@ image: /assets/images/self_improvement_tha_c01280_meaningful_goals_b66445-overvi
 A meaningful goal is one you can keep returning to after the exciting beginning has gone. It gives repetition a reason: the early mornings, awkward practice, dull admin, slow savings, repeated workouts, difficult conversations or quiet study sessions feel less like random self-punishment and more like service to something you genuinely value. This does not mean every step feels inspiring. It means the goal is connected strongly enough to your values, [identity]({{ 'identity/' | relative_url }}), relationships or life stage that boredom becomes a signal to adjust the method, not a reason to abandon the direction.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445-overview.webp" | relative_url }}" alt="Overview image for Meaning" loading="eager" decoding="sync" fetchpriority="high">
-This is why meaningful goals matter in [self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}). Behaviour-change research supports [goal setting]({{ 'goal-setting/' | relative_url }}) as an effective technique, but goals are more durable when they are specific enough to guide action and personally endorsed enough to survive friction. A goal that only borrows energy from novelty, comparison or guilt often fades when progress becomes repetitive. A goal linked to autonomous motivation, competence, relationships or a valued future has more to draw on when the work becomes ordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Unique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 492 — Goal setting is an effective behavior change t...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Self-determination_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Self-Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Self determination theory</span><span class="citation-popover-snippet">Self determination theory</span></span></span>
+This is why meaningful goals matter in [self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}). Behaviour-change research supports [goal setting]({{ 'goal-setting/' | relative_url }}) as an effective technique, but goals are more durable when they are specific enough to guide action and personally endorsed enough to survive friction. A goal that only borrows energy from novelty, comparison or guilt often fades when progress becomes repetitive. A goal linked to autonomous motivation, competence, relationships or a valued future has more to draw on when the work becomes ordinary.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Unique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 492 — Goal setting is an effective behavior change t...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Self-determination_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Self-Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Self determination theory</span><span class="citation-popover-snippet">Self determination theory</span></span></span>
 
 ## Why boredom tests whether a goal has roots
 
-Boredom is not simply laziness. Researchers Shane Bench and Heather Lench describe boredom as a functional emotional state: it can push people to seek new goals or experiences when the current activity no longer feels rewarding or meaningful. That makes boredom useful, but also risky. It can prompt a wise adjustment, or it can send someone chasing novelty every time a goal enters its repetitive middle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4217586/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCOn the Function of Boredom</span><span class="citation-popover-snippet">PMCOn the Function of Boredom</span></span></span>
+Boredom is not simply laziness. Researchers Shane Bench and Heather Lench describe boredom as a functional emotional state: it can push people to seek new goals or experiences when the current activity no longer feels rewarding or meaningful. That makes boredom useful, but also risky. It can prompt a wise adjustment, or it can send someone chasing novelty every time a goal enters its repetitive middle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4217586/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCOn the Function of Boredom</span><span class="citation-popover-snippet">PMCOn the Function of Boredom</span></span></span>
 
 Most worthwhile goals have a boring middle. Learning a language begins with curiosity, then becomes vocabulary drills. Fitness begins with a motivating decision, then becomes another Tuesday session. [Saving]({{ 'saving/' | relative_url }}) money begins with relief or ambition, then becomes another month of saying no to tempting purchases. The problem is not that the goal has failed; it is that the emotional reward has changed. The early reward is novelty. The later reward is evidence: “I am becoming someone who does this.”
 
 This is where meaning works as a stabiliser. It does not remove boredom, but it changes what boredom means. Without a deeper reason, boredom says, “This is pointless.” With a deeper reason, boredom says, “This part is repetitive, but it still belongs to something I chose.” The mechanism is not mystical. A meaningful goal keeps attention connected to the larger value behind the small action.
 
-A practical example is academic persistence. In a set of studies on “boring but important” schoolwork, David Yeager and colleagues found that helping students connect learning to a self-transcendent purpose — a wish to contribute to something beyond the self — improved self-regulation on tedious academic tasks. The important detail is not that every goal must be noble or public-spirited. It is that people often persist better when a task is not framed merely as personal achievement, but as connected to a reason that still matters when the task is dull. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4643833/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+A practical example is academic persistence. In a set of studies on “boring but important” schoolwork, David Yeager and colleagues found that helping students connect learning to a self-transcendent purpose — a wish to contribute to something beyond the self — improved self-regulation on tedious academic tasks. The important detail is not that every goal must be noble or public-spirited. It is that people often persist better when a task is not framed merely as personal achievement, but as connected to a reason that still matters when the task is dull.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4643833/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
 ## The mechanism: personal endorsement beats borrowed motivation
 
-Self-determination theory, developed by Edward Deci and Richard Ryan, is useful here because it separates different kinds of [motivation]({{ 'motivation/' | relative_url }}). A person can pursue a goal because they enjoy it, because they personally value it, because they feel guilty, because someone is pressuring them, or because they want approval. These motives may produce similar behaviour at first, but they do not tend to feel the same over time. Autonomous motivation — acting with a sense of choice and personal endorsement — is generally more supportive of persistence and wellbeing than controlled motivation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/social-sciences/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[Self-Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Self-Determination Theory</span></span></span>
+Self-determination theory, developed by Edward Deci and Richard Ryan, is useful here because it separates different kinds of [motivation]({{ 'motivation/' | relative_url }}). A person can pursue a goal because they enjoy it, because they personally value it, because they feel guilty, because someone is pressuring them, or because they want approval. These motives may produce similar behaviour at first, but they do not tend to feel the same over time. Autonomous motivation — acting with a sense of choice and personal endorsement — is generally more supportive of persistence and wellbeing than controlled motivation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/social-sciences/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[Self-Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Self-Determination Theory</span></span></span>
 
 This explains why two people can set the same goal and have very different experiences. “Run three times a week” can be an autonomous goal if it expresses health, confidence, stress relief or the wish to be present for family. The same goal can be controlled if it mainly comes from shame, comparison or fear of judgement. The behaviour is identical on paper, but the meaning is different.
 
-The self-concordance model makes this more specific. Kennon Sheldon and Andrew Elliot found that people make better progress and gain more wellbeing from goals that fit their deeper interests and values. Self-concordant goals are not merely attractive outcomes; they are goals that feel like they belong to the person pursuing them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://open.ncl.ac.uk/theories/20/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.ncl.ac.uk">[Self-Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.ncl.ac.uk</span><span class="citation-popover-title">self determination theory</span><span class="citation-popover-snippet">self determination theory</span></span></span>
+The self-concordance model makes this more specific. Kennon Sheldon and Andrew Elliot found that people make better progress and gain more wellbeing from goals that fit their deeper interests and values. Self-concordant goals are not merely attractive outcomes; they are goals that feel like they belong to the person pursuing them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://open.ncl.ac.uk/theories/20/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.ncl.ac.uk">[Self-Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.ncl.ac.uk</span><span class="citation-popover-title">self determination theory</span><span class="citation-popover-snippet">self determination theory</span></span></span>
 
 A goal worth repeating usually has three features:
 
@@ -544,7 +544,7 @@ The most durable goals usually sit between two extremes. At one extreme are vagu
 
 Values help because they give ordinary behaviour a direction. A value is not a finish line; it is a continuing preference about how to live. Health, craft, independence, generosity, learning, steadiness, faithfulness, courage and responsibility can all [support]({{ 'support/' | relative_url }}) goals, but only when they are translated into behaviours. The aim is not to ask, “What sounds impressive?” but “What would still matter when nobody praises me for doing it?”
 
-Meaning can also come from usefulness. In a field experiment on crowdsourced work, Dana Chandler and Adam Kapelner asked workers to do a monotonous image-labelling task. Workers who were told that the task helped medical researchers were more likely to participate and produced more output than workers who received no purpose-based framing, while a condition suggesting the work would be discarded harmed quality. The task itself did not become more entertaining; the perceived purpose changed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1210.0962" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Breaking Monotony with Meaning: Motivation in Crowdsourcing Markets</span><span class="citation-popover-snippet">arXiv Breaking Monotony with Meaning: Motivation in Crowdsourcing Markets</span></span></span>
+Meaning can also come from usefulness. In a field experiment on crowdsourced work, Dana Chandler and Adam Kapelner asked workers to do a monotonous image-labelling task. Workers who were told that the task helped medical researchers were more likely to participate and produced more output than workers who received no purpose-based framing, while a condition suggesting the work would be discarded harmed quality. The task itself did not become more entertaining; the perceived purpose changed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1210.0962" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Breaking Monotony with Meaning: Motivation in Crowdsourcing Markets</span><span class="citation-popover-snippet">arXiv Breaking Monotony with Meaning: Motivation in Crowdsourcing Markets</span></span></span>
 
 For personal [self improvement]({{ 'self-improvement-that-works/' | relative_url }}), the equivalent question is: who or what benefits if this boring action is repeated? A person saving money may be protecting future freedom. A person practising scales may be serving musical expression. A person doing rehabilitation exercises may be buying back movement. A person studying after work may be creating options for a later life stage. These reasons are not decoration; they are motivational infrastructure.
 
@@ -566,7 +566,7 @@ The answers do not need to be poetic. In fact, plain answers often work better: 
 
 A meaningful goal is not meaningful in the abstract. It has to fit the life someone is actually living. A student, new parent, carer, mid-career professional, recovering patient and retired person may all value health, learning and contribution, but the right goal shape will differ. A goal can be admirable and still be badly matched to current capacity.
 
-This is one reason goals need revision rather than blind loyalty. Research on goal adjustment across adulthood suggests that people adapt goals as resources, constraints and priorities change. In later adulthood especially, scholars describe goal adjustment as involving selective pursuit of fewer, mutually supportive goals, disengagement from goals that no longer fit, and protection of agency when circumstances change. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/psychsocgerontology/article/76/Supplement_2/S105/6369279" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This is one reason goals need revision rather than blind loyalty. Research on goal adjustment across adulthood suggests that people adapt goals as resources, constraints and priorities change. In later adulthood especially, scholars describe goal adjustment as involving selective pursuit of fewer, mutually supportive goals, disengagement from goals that no longer fit, and protection of agency when circumstances change.<span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/psychsocgerontology/article/76/Supplement_2/S105/6369279" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The same principle applies throughout life. A goal that was meaningful at 22 may not fit at 42. A training plan that worked before injury may become demoralising after it. A career goal chosen for ambition may need to be reinterpreted around family, health, craft or service. The mature question is not always “How do I stay motivated?” Sometimes it is “Has this goal’s meaning changed, and does the form need to change with it?”
 
@@ -585,7 +585,7 @@ A good goal can survive boredom, but it should not require denial of reality. If
 <img src="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445-Illustration-2-dark.svg" | relative_url }}" alt="Meaning illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Specific goals still need a meaningful “why”
 
-Specific goals matter because they reduce ambiguity. A meta-analysis led by Thomas Epton found that goal setting has a positive effect on [behaviour change]({{ 'behaviour-change/' | relative_url }}), supporting its place as a core behaviour-change technique. Locke and Latham’s goal-setting theory also emphasises that specific, challenging goals can direct attention, mobilise effort and support persistence, especially when there is commitment, feedback and a workable strategy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Unique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 492 — Goal setting is an effective behavior change t...</span></span></span>
+Specific goals matter because they reduce ambiguity. A meta-analysis led by Thomas Epton found that goal setting has a positive effect on [behaviour change]({{ 'behaviour-change/' | relative_url }}), supporting its place as a core behaviour-change technique. Locke and Latham’s goal-setting theory also emphasises that specific, challenging goals can direct attention, mobilise effort and support persistence, especially when there is commitment, feedback and a workable strategy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Unique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 492 — Goal setting is an effective behavior change t...</span></span></span>
 
 But specificity is not the same as meaning. “Write 500 words every morning” is clearer than “be creative”, but it may still collapse if the person has no living connection to why writing matters. “Lose 5 kg” is measurable, but it may become brittle if it is powered only by self-disgust. “Save £300 a month” is concrete, but the repetition is easier to bear when the person can see the protected future it creates.
 
@@ -611,7 +611,7 @@ The action layer keeps the goal honest. The meaning layer keeps the action from 
 
 ## Boredom is a design problem, not always a motivation problem
 
-When people get bored with a goal, they often assume they need more discipline. Sometimes they do. More often, they need better design. Boredom can come from a task feeling meaningless, but it can also come from a mismatch between attention and difficulty: too easy to engage, too hard to enter, too repetitive to feel progress. Contemporary boredom researchers often distinguish between a lack of meaning and a lack of attentional fit, and both matter for self improvement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/wellness/2025/feb/07/boredom-explainer-good-or-bad" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+When people get bored with a goal, they often assume they need more discipline. Sometimes they do. More often, they need better design. Boredom can come from a task feeling meaningless, but it can also come from a mismatch between attention and difficulty: too easy to engage, too hard to enter, too repetitive to feel progress. Contemporary boredom researchers often distinguish between a lack of meaning and a lack of attentional fit, and both matter for self improvement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/wellness/2025/feb/07/boredom-explainer-good-or-bad" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 A meaningful goal should therefore be adjusted at the level of practice, not constantly replaced at the level of direction. The person learning a language may keep the goal but vary the practice: conversation, listening, spaced repetition, reading, writing short diary entries. The runner may keep the health goal but rotate easy runs, intervals, strength work and recovery. The saver may keep the financial goal but add visible milestones that show progress.
 
@@ -632,7 +632,7 @@ This is not about turning every serious goal into a game. It is about preventing
 
 Some goals are exciting because they are new, not because they are meaningful. The first week of a new productivity system, diet, app, planner or course can feel like transformation. The danger is that the person becomes attached to the emotional high of starting rather than the identity formed by continuing.
 
-Recent reviews of behaviour-change technologies make a similar point. A 2024 review of self-determination theory in behaviour-change technologies argued that many systems optimise engagement with the technology itself rather than helping users internalise the value of the target behaviour. In plain English: an app can make the interface motivating while failing to make the actual life change meaningful enough to last. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1210.0962" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Breaking Monotony with Meaning: Motivation in Crowdsourcing Markets</span><span class="citation-popover-snippet">arXiv Breaking Monotony with Meaning: Motivation in Crowdsourcing Markets</span></span></span>
+Recent reviews of behaviour-change technologies make a similar point. A 2024 review of self-determination theory in behaviour-change technologies argued that many systems optimise engagement with the technology itself rather than helping users internalise the value of the target behaviour. In plain English: an app can make the interface motivating while failing to make the actual life change meaningful enough to last.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1210.0962" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Breaking Monotony with Meaning: Motivation in Crowdsourcing Markets</span><span class="citation-popover-snippet">arXiv Breaking Monotony with Meaning: Motivation in Crowdsourcing Markets</span></span></span>
 
 This matters beyond apps. A new notebook, gym programme or learning platform can be helpful, but only if it serves the goal rather than replacing it. When the tool is the source of motivation, boredom returns as soon as the tool feels familiar. When the value is the source of motivation, tools can change without the goal collapsing.
 
@@ -642,7 +642,7 @@ A good test is: “Would I still care about this goal if the method became plain
 
 Meaning needs maintenance. People change, circumstances change, and even good goals can become stale if they are never reinterpreted. Revisiting meaning is not a sign of weakness; it is how a goal remains alive rather than becoming a private rule from an earlier version of the self.
 
-Mental contrasting with implementation intentions offers one useful structure. Mental contrasting asks people to hold together a desired future and the obstacles that stand in the way; implementation intentions then turn that into an if-then plan. A 2021 meta-analysis found that this combined approach had a small-to-medium positive effect on goal attainment. Its relevance here is that it avoids both fantasy and grim persistence: the person remembers the desired future, names the obstacle, and plans a concrete response. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.565202/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Mental contrasting with implementation intentions offers one useful structure. Mental contrasting asks people to hold together a desired future and the obstacles that stand in the way; implementation intentions then turn that into an if-then plan. A 2021 meta-analysis found that this combined approach had a small-to-medium positive effect on goal attainment. Its relevance here is that it avoids both fantasy and grim persistence: the person remembers the desired future, names the obstacle, and plans a concrete response.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.565202/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For meaningful goals, a monthly or seasonal review can be simple:
 
@@ -667,194 +667,194 @@ A goal is worth repeating when the repeated behaviour still expresses a value af
 The best goals are often modest in appearance and deep in function. They make a person more capable, more reliable, healthier, freer, kinder, more skilled or more aligned with their responsibilities. They survive boredom because the point is not the thrill of the task. The point is the life that repeated task quietly supports.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Makes a Goal Worth Repeating?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Makes a Goal Worth Repeating?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+7+Habits+of+Highly+Effective+People+by+Stephen+R.+Covey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The 7 Habits of Highly Effective People on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8HvdtAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The 7 Habits of Highly Effective People" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+7+Habits+of+Highly+Effective+People+by+Stephen+R.+Covey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The 7 Habits of Highly Effective People">The 7 Habits of Highly Effective People</a>
-        </h4>
-        <p class="fr-book-author">By Stephen R. Covey</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+7+Habits+of+Highly+Effective+People+by+Stephen+R.+Covey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The 7 Habits of Highly Effective People on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8HvdtAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The 7 Habits of Highly Effective People" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+7+Habits+of+Highly+Effective+People+by+Stephen+R.+Covey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The 7 Habits of Highly Effective People">The 7 Habits of Highly Effective People</a>
+</h4>
+<p class="fr-book-author">By Stephen R. Covey</p>
         
-        <p class="fr-book-desc">Connects goals to values, principles, and long-term direction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+7+Habits+of+Highly+Effective+People+by+Stephen+R.+Covey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects goals to values, principles, and long-term direction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+7+Habits+of+Highly+Effective+People+by+Stephen+R.+Covey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Drive+by+Daniel+H.+Pink&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0H_DIkg0I4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Drive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Drive+by+Daniel+H.+Pink&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drive">Drive</a>
-        </h4>
-        <p class="fr-book-author">By Daniel H. Pink</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Drive+by+Daniel+H.+Pink&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0H_DIkg0I4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Drive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Drive+by+Daniel+H.+Pink&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drive">Drive</a>
+</h4>
+<p class="fr-book-author">By Daniel H. Pink</p>
         
-        <p class="fr-book-desc">Explains autonomous motivation and meaningful effort.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Drive+by+Daniel+H.+Pink&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains autonomous motivation and meaningful effort.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Drive+by+Daniel+H.+Pink&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Links habits to identity and long-term goals.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Links habits to identity and long-term goals.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Carol S. Dweck</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
-        <p class="fr-book-desc">Addresses beliefs and learning approaches that support improvement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
+</h4>
+<p class="fr-book-author">By Carol S. Dweck</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
+<p class="fr-book-desc">Addresses beliefs and learning approaches that support improvement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+7+Habits+of+Highly+Effective+People&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The 7 Habits of Highly Effective People</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Drive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drive</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+7+Habits+of+Highly+Effective+People&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The 7 Habits of Highly Effective People</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Drive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drive</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fitness Goal Planner Sheet – Habit &amp; Body Measurement Tracker (4 Pack) A4"><img src="https://i.ebayimg.com/images/g/oCMAAeSwtchplyjP/s-l225.jpg" alt="Listing image for Fitness Goal Planner Sheet – Habit &amp; Body Measurement Tracker (4 Pack) A4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer">Fitness Goal Planner Sheet – Habit &amp; Body Measurement Tracker (4 Pack) A4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracker poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal tracker poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fitness Goal Planner Sheet – Habit &amp; Body Measurement Tracker (4 Pack) A4"><img src="https://i.ebayimg.com/images/g/oCMAAeSwtchplyjP/s-l225.jpg" alt="Listing image for Fitness Goal Planner Sheet – Habit &amp; Body Measurement Tracker (4 Pack) A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer">Fitness Goal Planner Sheet – Habit &amp; Body Measurement Tracker (4 Pack) A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracker poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: goal tracker poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weight Loss Progress Chart A4 Print, Motivational Diet Goal Tracker with Star St"><img src="https://i.ebayimg.com/images/g/hSEAAeSwXcZoxGPE/s-l225.jpg" alt="Listing image for Weight Loss Progress Chart A4 Print, Motivational Diet Goal Tracker with Star St" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer">Weight Loss Progress Chart A4 Print, Motivational Diet Goal Tracker with Star St</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracker poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal tracker poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weight Loss Progress Chart A4 Print, Motivational Diet Goal Tracker with Star St"><img src="https://i.ebayimg.com/images/g/hSEAAeSwXcZoxGPE/s-l225.jpg" alt="Listing image for Weight Loss Progress Chart A4 Print, Motivational Diet Goal Tracker with Star St" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer">Weight Loss Progress Chart A4 Print, Motivational Diet Goal Tracker with Star St</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracker poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: goal tracker poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weight Loss Progress Chart A4 Print, Motivational Diet Goal Tracker with Star S"><img src="https://i.ebayimg.com/images/g/h1EAAeSwrgtpRZe3/s-l225.jpg" alt="Listing image for Weight Loss Progress Chart A4 Print, Motivational Diet Goal Tracker with Star S" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer">Weight Loss Progress Chart A4 Print, Motivational Diet Goal Tracker with Star S</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracker poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal tracker poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weight Loss Progress Chart A4 Print, Motivational Diet Goal Tracker with Star S"><img src="https://i.ebayimg.com/images/g/h1EAAeSwrgtpRZe3/s-l225.jpg" alt="Listing image for Weight Loss Progress Chart A4 Print, Motivational Diet Goal Tracker with Star S" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer">Weight Loss Progress Chart A4 Print, Motivational Diet Goal Tracker with Star S</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracker poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: goal tracker poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3 Pcs Fundraising Thermometer Goal Charts 11&quot; X 46.5&quot; Dry Erase Goal Trackers Ch"><img src="https://i.ebayimg.com/images/g/KfQAAeSwFrRqHkw2/s-l225.jpg" alt="Listing image for 3 Pcs Fundraising Thermometer Goal Charts 11&quot; X 46.5&quot; Dry Erase Goal Trackers Ch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer">3 Pcs Fundraising Thermometer Goal Charts 11&quot; X 46.5&quot; Dry Erase Goal Trackers Ch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracker poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal tracker poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3 Pcs Fundraising Thermometer Goal Charts 11&quot; X 46.5&quot; Dry Erase Goal Trackers Ch"><img src="https://i.ebayimg.com/images/g/KfQAAeSwFrRqHkw2/s-l225.jpg" alt="Listing image for 3 Pcs Fundraising Thermometer Goal Charts 11&quot; X 46.5&quot; Dry Erase Goal Trackers Ch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer">3 Pcs Fundraising Thermometer Goal Charts 11&quot; X 46.5&quot; Dry Erase Goal Trackers Ch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal tracker poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: goal tracker poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+tracker+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-goal-worth-repeating-goal-tracker-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal tracker poster" data-ebay-reference="what-makes-a-goal-worth-repeating-goal-tracker-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -870,7 +870,7 @@ The best goals are often modest in appearance and deep in function. They make a 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -890,7 +890,7 @@ The best goals are often modest in appearance and deep in function. They make a 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -922,7 +922,7 @@ The best goals are often modest in appearance and deep in function. They make a 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -974,7 +974,7 @@ The best goals are often modest in appearance and deep in function. They make a 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -1019,7 +1019,7 @@ The best goals are often modest in appearance and deep in function. They make a 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1060,204 +1060,204 @@ The best goals are often modest in appearance and deep in function. They make a 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCOn the Function of Boredom  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4217586/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4217586/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4217586/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4217586/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4643833/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4643833/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4643833/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4643833/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Breaking Monotony with Meaning: Motivation in Crowdsourcing Markets  
-   Link: <a href="https://arxiv.org/abs/1210.0962" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1210.0962</a>  
+   Link:<a href="https://arxiv.org/abs/1210.0962" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1210.0962</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/psychsocgerontology/article/76/Supplement_2/S105/6369279" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/psychsocgerontology/article/76/Supplement_2/S105/6369279</a>  
+   Link:<a href="https://academic.oup.com/psychsocgerontology/article/76/Supplement_2/S105/6369279" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/psychsocgerontology/article/76/Supplement_2/S105/6369279</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2402.00121" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2402.00121</a>  
+   Link:<a href="https://arxiv.org/abs/2402.00121" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2402.00121</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCMental contrasting as a behaviour change technique  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5123225/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5123225/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5123225/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5123225/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: self.inc  
-   Link: <a href="https://www.self.inc/" target="_blank" rel="noopener noreferrer nofollow">https://www.self.inc/</a>  
+   Link:<a href="https://www.self.inc/" target="_blank" rel="noopener noreferrer nofollow">https://www.self.inc/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: goal.com  
-   Link: <a href="https://www.goal.com/en-ca" target="_blank" rel="noopener noreferrer nofollow">https://www.goal.com/en-ca</a>  
+   Link:<a href="https://www.goal.com/en-ca" target="_blank" rel="noopener noreferrer nofollow">https://www.goal.com/en-ca</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: goal.com  
    Title: Antoine Semenyo's moment of magic lights up gloomy Wembley  
-   Link: <a href="https://www.goal.com/en-ca/lists/antoine-semenyo-magic-wembley-doom-chelsea-europe-winners-losers-man-city-fa-cup-final/blte0ba1fb31fd7ff26" target="_blank" rel="noopener noreferrer nofollow">https://www.goal.com/en-ca/lists/antoine-semenyo-magic-wembley-doom-chelsea-europe-winners-losers-man-city-fa-cup-final/blte0ba1fb31fd7ff26</a>  
+   Link:<a href="https://www.goal.com/en-ca/lists/antoine-semenyo-magic-wembley-doom-chelsea-europe-winners-losers-man-city-fa-cup-final/blte0ba1fb31fd7ff26" target="_blank" rel="noopener noreferrer nofollow">https://www.goal.com/en-ca/lists/antoine-semenyo-magic-wembley-doom-chelsea-europe-winners-losers-man-city-fa-cup-final/blte0ba1fb31fd7ff26</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: goal.com  
-   Link: <a href="https://www.goal.com/en-ca/lists/rayan-cherki-shares-cheeky-selfie-he-took-with-prince-william-during-man-city-s-fa-cup-trophy-lift/bltc5179ee6b4bc4913" target="_blank" rel="noopener noreferrer nofollow">https://www.goal.com/en-ca/lists/rayan-cherki-shares-cheeky-selfie-he-took-with-prince-william-during-man-city-s-fa-cup-trophy-lift/bltc5179ee6b4bc4913</a>  
+   Link:<a href="https://www.goal.com/en-ca/lists/rayan-cherki-shares-cheeky-selfie-he-took-with-prince-william-during-man-city-s-fa-cup-trophy-lift/bltc5179ee6b4bc4913" target="_blank" rel="noopener noreferrer nofollow">https://www.goal.com/en-ca/lists/rayan-cherki-shares-cheeky-selfie-he-took-with-prince-william-during-man-city-s-fa-cup-trophy-lift/bltc5179ee6b4bc4913</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/the-mission/how-to-stay-focused-when-you-get-bored-working-toward-your-goals-1fd43ba4a908" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-mission/how-to-stay-focused-when-you-get-bored-working-toward-your-goals-1fd43ba4a908</a>  
+   Link:<a href="https://medium.com/the-mission/how-to-stay-focused-when-you-get-bored-working-toward-your-goals-1fd43ba4a908" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-mission/how-to-stay-focused-when-you-get-bored-working-toward-your-goals-1fd43ba4a908</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40jamesclear/identity-based-habits-how-to-actually-stick-to-your-goals-bc8cde3c8e22" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40jamesclear/identity-based-habits-how-to-actually-stick-to-your-goals-bc8cde3c8e22</a>  
+   Link:<a href="https://medium.com/%40jamesclear/identity-based-habits-how-to-actually-stick-to-your-goals-bc8cde3c8e22" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40jamesclear/identity-based-habits-how-to-actually-stick-to-your-goals-bc8cde3c8e22</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/iwc/article/38/3/447/7760010" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/iwc/article/38/3/447/7760010</a>  
+   Link:<a href="https://academic.oup.com/iwc/article/38/3/447/7760010" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/iwc/article/38/3/447/7760010</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: How to become 37.78 times better at anything | Atomic Habits  
-   Link: <a href="http://www.youtube.com/watch?v=PZ7lDrwYdZc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=PZ7lDrwYdZc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Edward Deci - Self-Determination Theory...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=PZ7lDrwYdZc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=PZ7lDrwYdZc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Edward Deci - Self-Determination Theory...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Edward Deci  
-   Link: <a href="http://www.youtube.com/watch?v=m6fm1gt5YAM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=m6fm1gt5YAM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory Explained...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=m6fm1gt5YAM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=m6fm1gt5YAM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory Explained...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Self-Determination Theory Explained  
-   Link: <a href="http://www.youtube.com/watch?v=_juPDoa3GBY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=_juPDoa3GBY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Boredom goals self determination theory habits james clear Atomic Habits: How to Get 1% Better Every Day - James Clear APB Speakers...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=_juPDoa3GBY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=_juPDoa3GBY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boredom goals self determination theory habits james clear Atomic Habits: How to Get 1% Better Every Day - James Clear APB Speakers...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29189034/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 492 — Goal setting is an effective behavior change t...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/29189034/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29189034/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unique effects of setting goals on behavior changeby T Epton · 2017 · Cited by 492 — Goal setting is an effective behavior change t...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: selfdeterminationtheory.org  
    Title: 2000 RyanDeci SDT  
-   Link: <a href="https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination TheorySelf-Determination Theory and the Facilitation of Intrinsic...by RM Ryan · 2000 · Cited by 86814 — SDT is an ap...</p></details>
+   Link:<a href="https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination TheorySelf-Determination Theory and the Facilitation of Intrinsic...by RM Ryan · 2000 · Cited by 86814 — SDT is an ap...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: selfdeterminationtheory.org  
    Title: 1999 SheldonElliot  
-   Link: <a href="https://selfdeterminationtheory.org/SDT/documents/1999_SheldonElliot.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/SDT/documents/1999_SheldonElliot.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination TheoryGoal striving, need satisfaction, and longitudinal well-beingby KM Sheldon · 1999 · Cited by 4370 — The self-con...</p></details>
+   Link:<a href="https://selfdeterminationtheory.org/SDT/documents/1999_SheldonElliot.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/SDT/documents/1999_SheldonElliot.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination TheoryGoal striving, need satisfaction, and longitudinal well-beingby KM Sheldon · 1999 · Cited by 4370 — The self-con...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/wellness/2025/feb/07/boredom-explainer-good-or-bad" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/wellness/2025/feb/07/boredom-explainer-good-or-bad</a>  
+   Link:<a href="https://www.theguardian.com/wellness/2025/feb/07/boredom-explainer-good-or-bad" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/wellness/2025/feb/07/boredom-explainer-good-or-bad</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.565202/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.565202/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.565202/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.565202/full</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Self" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Self</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Self" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Self</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Self determination theory  
-   Link: <a href="https://en.wikipedia.org/wiki/Self-determination_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Self-determination_theory</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Self-determination_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Self-determination_theory</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/10101878/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/10101878/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/12237980/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12237980/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/12237980/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12237980/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38006625/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38006625/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/38006625/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38006625/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: sciencedirect.com  
    Title: Self-Determination Theory  
-   Link: <a href="https://www.sciencedirect.com/topics/social-sciences/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/social-sciences/self-determination-theory</a>  
+   Link:<a href="https://www.sciencedirect.com/topics/social-sciences/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/social-sciences/self-determination-theory</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: selfdeterminationtheory.org  
    Title: 2022 RyanDeci SDT Encyclopedia  
-   Link: <a href="https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2022_RyanDeci_SDT_Encyclopedia.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2022_RyanDeci_SDT_Encyclopedia.pdf</a>  
+   Link:<a href="https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2022_RyanDeci_SDT_Encyclopedia.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2022_RyanDeci_SDT_Encyclopedia.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: selfdeterminationtheory.org  
    Title: 2008 DeciRyan CanPsy Eng  
-   Link: <a href="https://selfdeterminationtheory.org/SDT/documents/2008_DeciRyan_CanPsy_Eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/SDT/documents/2008_DeciRyan_CanPsy_Eng.pdf</a>  
+   Link:<a href="https://selfdeterminationtheory.org/SDT/documents/2008_DeciRyan_CanPsy_Eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/SDT/documents/2008_DeciRyan_CanPsy_Eng.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: open.ncl.ac.uk  
    Title: self determination theory  
-   Link: <a href="https://open.ncl.ac.uk/theories/20/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://open.ncl.ac.uk/theories/20/self-determination-theory/</a>  
+   Link:<a href="https://open.ncl.ac.uk/theories/20/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://open.ncl.ac.uk/theories/20/self-determination-theory/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1382345/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1382345/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1382345/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1382345/full</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: rccs.org.uk  
    Title: Self Determination Theory Explained – RCCS  
-   Link: <a href="https://www.rccs.org.uk/post/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.rccs.org.uk/post/self-determination-theory</a>  
+   Link:<a href="https://www.rccs.org.uk/post/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.rccs.org.uk/post/self-determination-theory</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: ukcoaching.org  
-   Link: <a href="https://www.ukcoaching.org/ukc-club/resources/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://www.ukcoaching.org/ukc-club/resources/self-determination-theory/</a>  
+   Link:<a href="https://www.ukcoaching.org/ukc-club/resources/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://www.ukcoaching.org/ukc-club/resources/self-determination-theory/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: positivepsychology.com  
    Title: self determination theory  
-   Link: <a href="https://positivepsychology.com/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://positivepsychology.com/self-determination-theory/</a>  
+   Link:<a href="https://positivepsychology.com/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://positivepsychology.com/self-determination-theory/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: ATOMIC HABITS  
-   Link: <a href="http://www.youtube.com/watch?v=1gdkBt9it84" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=1gdkBt9it84</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to become 37.78 times better at anything | Atomic Habits summary (by James Clear)...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=1gdkBt9it84" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=1gdkBt9it84</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to become 37.78 times better at anything | Atomic Habits summary (by James Clear)...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
    Title: Atomic Habits: How to Get 1% Better Every Day  
-   Link: <a href="http://www.youtube.com/watch?v=U_nzqnXWvSo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=U_nzqnXWvSo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ATOMIC HABITS - Tiny Changes that Create Remarkable Results - James Clear...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=U_nzqnXWvSo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=U_nzqnXWvSo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ATOMIC HABITS - Tiny Changes that Create Remarkable Results - James Clear...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/232501090_A_Theory_of_Goal_Setting_Task_Performance" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232501090_A_Theory_of_Goal_Setting_Task_Performance</a>  
+   Link:<a href="https://www.researchgate.net/publication/232501090_A_Theory_of_Goal_Setting_Task_Performance" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232501090_A_Theory_of_Goal_Setting_Task_Performance</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/265649028_Boring_but_Important_A_Self-Transcendent_Purpose_for_Learning_Fosters_Academic_Self-Regulation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/265649028_Boring_but_Important_A_Self-Transcendent_Purpose_for_Learning_Fosters_Academic_Self-Regulation</a>  
+   Link:<a href="https://www.researchgate.net/publication/265649028_Boring_but_Important_A_Self-Transcendent_Purpose_for_Learning_Fosters_Academic_Self-Regulation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/265649028_Boring_but_Important_A_Self-Transcendent_Purpose_for_Learning_Fosters_Academic_Self-Regulation</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/372372306_Motivation_and_goal_development_across_the_adult_lifespan_Goal_engagement_disengagement_and_adjustment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/372372306_Motivation_and_goal_development_across_the_adult_lifespan_Goal_engagement_disengagement_and_adjustment</a>  
+   Link:<a href="https://www.researchgate.net/publication/372372306_Motivation_and_goal_development_across_the_adult_lifespan_Goal_engagement_disengagement_and_adjustment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/372372306_Motivation_and_goal_development_across_the_adult_lifespan_Goal_engagement_disengagement_and_adjustment</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/374630805_Goal_Motives_Mental_Contrasting_with_Implementation_Intentions_and_the_Self-Regulation_of_Saving_Goals_A_Longitudinal_Investigation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374630805_Goal_Motives_Mental_Contrasting_with_Implementation_Intentions_and_the_Self-Regulation_of_Saving_Goals_A_Longitudinal_Investigation</a>  
+   Link:<a href="https://www.researchgate.net/publication/374630805_Goal_Motives_Mental_Contrasting_with_Implementation_Intentions_and_the_Self-Regulation_of_Saving_Goals_A_Longitudinal_Investigation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374630805_Goal_Motives_Mental_Contrasting_with_Implementation_Intentions_and_the_Self-Regulation_of_Saving_Goals_A_Longitudinal_Investigation</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: strongerbyscience.com  
-   Link: <a href="https://www.strongerbyscience.com/goal-setting/" target="_blank" rel="noopener noreferrer nofollow">https://www.strongerbyscience.com/goal-setting/</a>  
+   Link:<a href="https://www.strongerbyscience.com/goal-setting/" target="_blank" rel="noopener noreferrer nofollow">https://www.strongerbyscience.com/goal-setting/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/227583849_Boredom_in_the_workplace_More_than_monotonous_tasks" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227583849_Boredom_in_the_workplace_More_than_monotonous_tasks</a>  
+   Link:<a href="https://www.researchgate.net/publication/227583849_Boredom_in_the_workplace_More_than_monotonous_tasks" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227583849_Boredom_in_the_workplace_More_than_monotonous_tasks</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: techscience.com  
-   Link: <a href="https://www.techscience.com/IJMHP/v23n2/42430/html" target="_blank" rel="noopener noreferrer nofollow">https://www.techscience.com/IJMHP/v23n2/42430/html</a>  
+   Link:<a href="https://www.techscience.com/IJMHP/v23n2/42430/html" target="_blank" rel="noopener noreferrer nofollow">https://www.techscience.com/IJMHP/v23n2/42430/html</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: sammatla.com  
-   Link: <a href="https://sammatla.com/how-to-grind-through-the-boring-work/" target="_blank" rel="noopener noreferrer nofollow">https://sammatla.com/how-to-grind-through-the-boring-work/</a>
+   Link:<a href="https://sammatla.com/how-to-grind-through-the-boring-work/" target="_blank" rel="noopener noreferrer nofollow">https://sammatla.com/how-to-grind-through-the-boring-work/</a>

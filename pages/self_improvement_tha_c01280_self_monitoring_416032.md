@@ -505,13 +505,13 @@ image: /assets/images/self_improvement_tha_c01280_self_monitoring_416032-overvie
 Self-monitoring works when it makes behaviour visible without turning life into a scoreboard. The useful question is not “How can I track everything?” but “What single signal will help me notice, adjust and continue?” In evidence-based [self improvement]({{ 'self-improvement-that-works/' | relative_url }}), tracking is strongest when it records a behaviour you can control, such as writing for 20 minutes, walking after lunch or putting your phone away at 9.30 pm. It becomes weaker when it fixates on an outcome that moves slowly or is partly outside your control, such as weight, mood, income, sleep score or follower count.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032-overview.webp" | relative_url }}" alt="Overview image for Tracking" loading="eager" decoding="sync" fetchpriority="high">
-The best tracking system is small, boring and actionable. It should answer three questions: did the behaviour happen, what got in the way, and what should change next time? Research on [behaviour change]({{ 'behaviour-change/' | relative_url }}) supports self-monitoring as a useful active ingredient, especially when it is paired with goals, [feedback]({{ 'feedback/' | relative_url }}) and practical adjustment rather than self-criticism. But the same tools can become noisy or harmful when they create anxiety, shame, compulsive checking or rigid rules around food, exercise, productivity or health. PubMed <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK580337/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIResults of the behaviour change technique synthesis</span><span class="citation-popover-snippet">NCBIResults of the behaviour change technique synthesis</span></span></span>
+The best tracking system is small, boring and actionable. It should answer three questions: did the behaviour happen, what got in the way, and what should change next time? Research on [behaviour change]({{ 'behaviour-change/' | relative_url }}) supports self-monitoring as a useful active ingredient, especially when it is paired with goals, [feedback]({{ 'feedback/' | relative_url }}) and practical adjustment rather than self-criticism. But the same tools can become noisy or harmful when they create anxiety, shame, compulsive checking or rigid rules around food, exercise, productivity or health. PubMed<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK580337/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIResults of the behaviour change technique synthesis</span><span class="citation-popover-snippet">NCBIResults of the behaviour change technique synthesis</span></span></span>
 
 ## Track behaviour before outcomes
 
 A behaviour metric records the action you took. An outcome metric records the result you hope will follow. Both can be useful, but they are not equally helpful for day-to-day change.
 
-For [self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}), behaviour metrics usually belong closest to the person. They are immediate, adjustable and fair. “Did I do ten minutes of stretching?” gives clearer feedback than “Is my back pain gone?” “Did I prepare tomorrow’s lunch?” is more actionable than “Did I lose weight today?” “Did I start revising at 7 pm?” is more useful than “Do I feel like a disciplined person?” The Behaviour Change Technique Taxonomy distinguishes between self-monitoring of behaviour and self-monitoring of outcomes: one records what the person does, while the other records the consequences of that behaviour. That distinction matters because people can change actions more directly than results. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK580337/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIResults of the behaviour change technique synthesis</span><span class="citation-popover-snippet">NCBIResults of the behaviour change technique synthesis</span></span></span>
+For [self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}), behaviour metrics usually belong closest to the person. They are immediate, adjustable and fair. “Did I do ten minutes of stretching?” gives clearer feedback than “Is my back pain gone?” “Did I prepare tomorrow’s lunch?” is more actionable than “Did I lose weight today?” “Did I start revising at 7 pm?” is more useful than “Do I feel like a disciplined person?” The Behaviour Change Technique Taxonomy distinguishes between self-monitoring of behaviour and self-monitoring of outcomes: one records what the person does, while the other records the consequences of that behaviour. That distinction matters because people can change actions more directly than results.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK580337/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIResults of the behaviour change technique synthesis</span><span class="citation-popover-snippet">NCBIResults of the behaviour change technique synthesis</span></span></span>
 
 Outcome metrics are not useless. They help check whether the behaviour is working. A runner may track weekly mileage as a behaviour and race time as an outcome. Someone trying to sleep better may track “phone out of bedroom by 10 pm” as a behaviour and perceived restfulness as an outcome. The problem comes when the outcome is checked too often and treated as a daily verdict. Many outcomes are noisy: weight fluctuates with water and digestion, sleep scores depend on device algorithms, mood varies with stress and hormones, and creative work may improve before it is recognised externally.
 
@@ -522,9 +522,9 @@ A useful rule is to put behaviour metrics on the daily dashboard and outcome met
 
 Self-monitoring helps because it closes the gap between intention and reality. Many people do not fail because they lack values; they fail because they underestimate friction, forget their plan, misread their patterns or notice the problem only after the moment has passed. Tracking supplies a feedback loop: evidence, comparison with the goal, and an opportunity to adjust.
 
-A large meta-analysis in *Psychological Bulletin* found that monitoring progress towards goals promotes goal attainment, with stronger effects when progress is physically recorded or reported to someone else. That finding is important because it suggests tracking is not merely motivational decoration. The act of recording can make a goal more concrete and harder to misremember. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A large meta-analysis in *Psychological Bulletin* found that monitoring progress towards goals promotes goal attainment, with stronger effects when progress is physically recorded or reported to someone else. That finding is important because it suggests tracking is not merely motivational decoration. The act of recording can make a goal more concrete and harder to misremember.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The evidence is strongest when monitoring is part of a broader self-regulation system. A meta-review of health behaviour change found self-regulation [techniques]({{ 'techniques/' | relative_url }}) are widely used but do not operate like magic switches; their effects depend on how they are combined, delivered and linked to a specific behaviour. Reviews of physical activity interventions also suggest that self-monitoring alone can be less effective than self-monitoring paired with added support, such as counselling, feedback or goal adjustment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8485346/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+The evidence is strongest when monitoring is part of a broader self-regulation system. A meta-review of health behaviour change found self-regulation [techniques]({{ 'techniques/' | relative_url }}) are widely used but do not operate like magic switches; their effects depend on how they are combined, delivered and linked to a specific behaviour. Reviews of physical activity interventions also suggest that self-monitoring alone can be less effective than self-monitoring paired with added support, such as counselling, feedback or goal adjustment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8485346/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
 That is the practical lesson: do not track for proof of virtue. Track to create a next move. A missed habit is useful data only if it leads to a better cue, smaller version, earlier preparation or different [environment]({{ 'environment/' | relative_url }}). “I failed three times” is a dead-end interpretation. “The habit fails on days when I leave it until after dinner” is a design insight.
 
@@ -542,7 +542,7 @@ For most everyday changes, one of these systems is enough:
 
 **The temporary audit.** Track intensively for a short diagnostic period, then stop or simplify. For example, a person might track spending for two weeks to identify the main leak, track screen time for one week to find the worst trigger, or keep a food-and-symptom diary under clinical guidance to investigate a digestive issue. The goal is to learn the pattern, not to monitor forever.
 
-The evidence on habit formation supports this modest approach. Habit research emphasises repeated behaviour in a stable context, with cues doing more work over time. A UCL study reported that automaticity developed at different speeds across people and behaviours, with an average of 66 days in the sample, while later reviews have stressed that habit formation varies widely and should not be reduced to a neat fixed timeline. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[University College London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-title">University College London How long does it take to form a habit?</span><span class="citation-popover-snippet">University College London How long does it take to form a habit?</span></span></span>
+The evidence on habit formation supports this modest approach. Habit research emphasises repeated behaviour in a stable context, with cues doing more work over time. A UCL study reported that automaticity developed at different speeds across people and behaviours, with an average of 66 days in the sample, while later reviews have stressed that habit formation varies widely and should not be reduced to a neat fixed timeline.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[University College London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-title">University College London How long does it take to form a habit?</span><span class="citation-popover-snippet">University College London How long does it take to form a habit?</span></span></span>
 
 Tracking should therefore fade as a behaviour becomes more automatic. Early on, it helps establish consistency. Later, it may be replaced by environmental cues: the shoes by the door, the book on the pillow, the blocked app after 9 pm, the standing meeting that prompts preparation. The best system is not the one you need forever; it is the one that helps the behaviour survive long enough to need less conscious supervision.
 
@@ -567,11 +567,11 @@ There is also a difference between a **score** and a **signal**. A score invites
 
 Tracking has crossed the line when it stops improving the behaviour and starts dominating the person’s attention. The [warning signs]({{ 'warning-signs/' | relative_url }}) are usually practical before they are dramatic: checking the app many times a day without changing anything, feeling that an untracked action “doesn’t count”, ignoring bodily cues to satisfy a device target, or abandoning a good activity because the numbers look disappointing.
 
-Research on self-tracking and quantified-self tools reflects this tension. A systematic review in *JMIR* found that self-tracking can support health and wellbeing through awareness, reflection and behaviour change, but the literature also reports challenges around burden, data interpretation, privacy and psychological effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7571594/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+Research on self-tracking and quantified-self tools reflects this tension. A systematic review in *JMIR* found that self-tracking can support health and wellbeing through awareness, reflection and behaviour change, but the literature also reports challenges around burden, data interpretation, privacy and psychological effects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7571594/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
-The risks are sharper in areas involving food, weight, exercise and body image. A qualitative study of women with eating-disorder-related behaviours found that diet and fitness apps could have unintended negative consequences, including increased fixation on numbers and reinforcement of disordered patterns. A 2025 review similarly concluded that cross-sectional evidence links diet and fitness app use with disordered eating, body-image concerns and compulsive exercise, while noting that causal conclusions remain limited. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+The risks are sharper in areas involving food, weight, exercise and body image. A qualitative study of women with eating-disorder-related behaviours found that diet and fitness apps could have unintended negative consequences, including increased fixation on numbers and reinforcement of disordered patterns. A 2025 review similarly concluded that cross-sectional evidence links diet and fitness app use with disordered eating, body-image concerns and compulsive exercise, while noting that causal conclusions remain limited.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
-This does not mean all food, exercise or health tracking is bad. It means context matters. Tracking medication, symptoms or blood glucose under medical guidance can be helpful. A short food diary may help identify intolerance patterns. Step counts can encourage movement for some people. But a tool that helps one person may harm another if it feeds anxiety, restriction, comparison or compulsive rule-following. NICE guidance treats eating disorders as serious conditions requiring recognition, assessment and appropriate care, and the NHS describes eating disorders as mental health conditions involving the use of food control to cope with feelings and situations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nice.org.uk/guidance/ng69/chapter/recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nice.org.uk">[NICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nice.org.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This does not mean all food, exercise or health tracking is bad. It means context matters. Tracking medication, symptoms or blood glucose under medical guidance can be helpful. A short food diary may help identify intolerance patterns. Step counts can encourage movement for some people. But a tool that helps one person may harm another if it feeds anxiety, restriction, comparison or compulsive rule-following. NICE guidance treats eating disorders as serious conditions requiring recognition, assessment and appropriate care, and the NHS describes eating disorders as mental health conditions involving the use of food control to cope with feelings and situations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nice.org.uk/guidance/ng69/chapter/recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nice.org.uk">[NICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nice.org.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 A simple safeguard is to track the least risky variable that still supports the change. For general fitness, that might mean tracking “movement completed” rather than calories burned. For nutrition, it might mean tracking regular meals, protein at breakfast or vegetable servings rather than strict calorie limits. For productivity, it might mean tracking a starting ritual rather than total output. For mood, it might mean recording sleep, social contact and outdoor time rather than repeatedly rating distress.
 
@@ -601,194 +601,194 @@ The point of tracking is not to become a perfectly measured person. It is to mak
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XrELaG4Bcyk" title="Psychology of People Who Track Their Calories" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XrELaG4Bcyk" target="_blank" rel="noopener noreferrer">Psychology of People Who Track Their Calories</a></p><p class="youtube-embed-meta">Channel: Obsessed Minds &middot; Views: 274 &middot; Uploaded: April 2026 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XrELaG4Bcyk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XrELaG4Bcyk">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Should You Track to Actually Change?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Should You Track to Actually Change?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Explains measuring behaviours that drive outcomes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Explains measuring behaviours that drive outcomes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
-        </h4>
-        <p class="fr-book-author">By B. J. Fogg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
+</h4>
+<p class="fr-book-author">By B. J. Fogg</p>
         
-        <p class="fr-book-desc">Focuses on behaviour-level change and monitoring.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on behaviour-level change and monitoring.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Carol S. Dweck</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
-        <p class="fr-book-desc">Addresses beliefs and learning approaches that support improvement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
+</h4>
+<p class="fr-book-author">By Carol S. Dweck</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
+<p class="fr-book-desc">Addresses beliefs and learning approaches that support improvement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Measure+What+Matters+by+John+Doerr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Measure What Matters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VEtTDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Measure What Matters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Measure+What+Matters+by+John+Doerr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Measure What Matters">Measure What Matters</a>
-        </h4>
-        <p class="fr-book-author">By John Doerr</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Measure+What+Matters+by+John+Doerr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Measure What Matters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VEtTDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Measure What Matters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Measure+What+Matters+by+John+Doerr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Measure What Matters">Measure What Matters</a>
+</h4>
+<p class="fr-book-author">By John Doerr</p>
         
-        <p class="fr-book-desc">Connects metrics with behaviour and outcomes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Measure+What+Matters+by+John+Doerr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects metrics with behaviour and outcomes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Measure+What+Matters+by+John+Doerr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-you-track-to-actually-change-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="what-should-you-track-to-actually-change-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Monthly Habit Tracker Notepad"><img src="https://i.ebayimg.com/images/g/jRQAAeSwQjlqGaNk/s-l225.jpg" alt="Listing image for Monthly Habit Tracker Notepad" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-you-track-to-actually-change-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="what-should-you-track-to-actually-change-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Monthly Habit Tracker Notepad</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-you-track-to-actually-change-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="what-should-you-track-to-actually-change-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-you-track-to-actually-change-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="what-should-you-track-to-actually-change-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-you-track-to-actually-change-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="what-should-you-track-to-actually-change-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Monthly Habit Tracker Notepad"><img src="https://i.ebayimg.com/images/g/jRQAAeSwQjlqGaNk/s-l225.jpg" alt="Listing image for Monthly Habit Tracker Notepad" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-you-track-to-actually-change-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="what-should-you-track-to-actually-change-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Monthly Habit Tracker Notepad</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-you-track-to-actually-change-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="what-should-you-track-to-actually-change-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-you-track-to-actually-change-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="what-should-you-track-to-actually-change-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-you-track-to-actually-change-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="what-should-you-track-to-actually-change-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Journal: Habit Tracker Log Book, Habit Tracker Planner"><img src="https://i.ebayimg.com/images/g/LKQAAOSw~nNnS0A~/s-l225.jpg" alt="Listing image for Habit Tracker Journal: Habit Tracker Log Book, Habit Tracker Planner" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-you-track-to-actually-change-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="what-should-you-track-to-actually-change-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Journal: Habit Tracker Log Book, Habit Tracker Planner</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-you-track-to-actually-change-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="what-should-you-track-to-actually-change-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-you-track-to-actually-change-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="what-should-you-track-to-actually-change-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-you-track-to-actually-change-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="what-should-you-track-to-actually-change-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Journal: Habit Tracker Log Book, Habit Tracker Planner"><img src="https://i.ebayimg.com/images/g/LKQAAOSw~nNnS0A~/s-l225.jpg" alt="Listing image for Habit Tracker Journal: Habit Tracker Log Book, Habit Tracker Planner" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-you-track-to-actually-change-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="what-should-you-track-to-actually-change-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Journal: Habit Tracker Log Book, Habit Tracker Planner</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-you-track-to-actually-change-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="what-should-you-track-to-actually-change-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-you-track-to-actually-change-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="what-should-you-track-to-actually-change-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-you-track-to-actually-change-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="what-should-you-track-to-actually-change-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Weekly Planner 52 Week To View Diary Desk Pad Habit Tracker Todo To Do List"><img src="https://i.ebayimg.com/images/g/P-cAAOSwFExkVm3h/s-l225.jpg" alt="Listing image for A4 Weekly Planner 52 Week To View Diary Desk Pad Habit Tracker Todo To Do List" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-you-track-to-actually-change-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="what-should-you-track-to-actually-change-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">A4 Weekly Planner 52 Week To View Diary Desk Pad Habit Tracker Todo To Do List</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-you-track-to-actually-change-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="what-should-you-track-to-actually-change-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-you-track-to-actually-change-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="what-should-you-track-to-actually-change-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-you-track-to-actually-change-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="what-should-you-track-to-actually-change-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Weekly Planner 52 Week To View Diary Desk Pad Habit Tracker Todo To Do List"><img src="https://i.ebayimg.com/images/g/P-cAAOSwFExkVm3h/s-l225.jpg" alt="Listing image for A4 Weekly Planner 52 Week To View Diary Desk Pad Habit Tracker Todo To Do List" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-you-track-to-actually-change-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="what-should-you-track-to-actually-change-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">A4 Weekly Planner 52 Week To View Diary Desk Pad Habit Tracker Todo To Do List</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-you-track-to-actually-change-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="what-should-you-track-to-actually-change-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-you-track-to-actually-change-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="what-should-you-track-to-actually-change-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-you-track-to-actually-change-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="what-should-you-track-to-actually-change-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weekly Productivity Planner Undated. Goal Setting, Habit Tracker, Monthly Review"><img src="https://i.ebayimg.com/images/g/eBAAAeSwAS9omOvh/s-l225.jpg" alt="Listing image for Weekly Productivity Planner Undated. Goal Setting, Habit Tracker, Monthly Review" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-you-track-to-actually-change-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="what-should-you-track-to-actually-change-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Weekly Productivity Planner Undated. Goal Setting, Habit Tracker, Monthly Review</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-you-track-to-actually-change-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="what-should-you-track-to-actually-change-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-you-track-to-actually-change-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="what-should-you-track-to-actually-change-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-you-track-to-actually-change-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="what-should-you-track-to-actually-change-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-you-track-to-actually-change-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="what-should-you-track-to-actually-change-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weekly Productivity Planner Undated. Goal Setting, Habit Tracker, Monthly Review"><img src="https://i.ebayimg.com/images/g/eBAAAeSwAS9omOvh/s-l225.jpg" alt="Listing image for Weekly Productivity Planner Undated. Goal Setting, Habit Tracker, Monthly Review" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-you-track-to-actually-change-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="what-should-you-track-to-actually-change-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Weekly Productivity Planner Undated. Goal Setting, Habit Tracker, Monthly Review</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-you-track-to-actually-change-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="what-should-you-track-to-actually-change-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-you-track-to-actually-change-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="what-should-you-track-to-actually-change-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-you-track-to-actually-change-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="what-should-you-track-to-actually-change-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -804,7 +804,7 @@ The point of tracking is not to become a perfectly measured person. It is to mak
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -824,7 +824,7 @@ The point of tracking is not to become a perfectly measured person. It is to mak
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -856,7 +856,7 @@ The point of tracking is not to become a perfectly measured person. It is to mak
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -908,7 +908,7 @@ The point of tracking is not to become a perfectly measured person. It is to mak
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -953,7 +953,7 @@ The point of tracking is not to become a perfectly measured person. It is to mak
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -994,151 +994,151 @@ The point of tracking is not to become a perfectly measured person. It is to mak
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIResults of the behaviour change technique synthesis  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK580337/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK580337/</a>  
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK580337/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK580337/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8485346/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8485346/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8485346/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8485346/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7571594/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7571594/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7571594/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7571594/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8493454/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8493454/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8493454/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8493454/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nice.org.uk  
-   Link: <a href="https://www.nice.org.uk/guidance/ng69/chapter/recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/ng69/chapter/recommendations</a>  
+   Link:<a href="https://www.nice.org.uk/guidance/ng69/chapter/recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/ng69/chapter/recommendations</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nhs.uk  
    Title: Overview – Eating disorders  
-   Link: <a href="https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/eating-disorders/overview/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/eating-disorders/overview/</a>  
+   Link:<a href="https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/eating-disorders/overview/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/eating-disorders/overview/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nhs.uk  
    Title: www.nhs.uk Calorie counting  
-   Link: <a href="https://www.nhs.uk/better-health/lose-weight/calorie-counting/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/better-health/lose-weight/calorie-counting/</a>  
+   Link:<a href="https://www.nhs.uk/better-health/lose-weight/calorie-counting/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/better-health/lose-weight/calorie-counting/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: rightdecisions.scot.nhs.uk  
    Title: scot.nhs.uk Eating Disorders  
-   Link: <a href="https://www.rightdecisions.scot.nhs.uk/nhs-tayside-refguide/mental-health/child-and-adolescent-mental-health-services-camhs/eating-disorders/?UNLID=" target="_blank" rel="noopener noreferrer nofollow">https://www.rightdecisions.scot.nhs.uk/nhs-tayside-refguide/mental-health/child-and-adolescent-mental-health-services-camhs/eating-disorders/?UNLID=</a>  
+   Link:<a href="https://www.rightdecisions.scot.nhs.uk/nhs-tayside-refguide/mental-health/child-and-adolescent-mental-health-services-camhs/eating-disorders/?UNLID=" target="_blank" rel="noopener noreferrer nofollow">https://www.rightdecisions.scot.nhs.uk/nhs-tayside-refguide/mental-health/child-and-adolescent-mental-health-services-camhs/eating-disorders/?UNLID=</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: mhealth.jmir.org  
-   Link: <a href="https://mhealth.jmir.org/2023/1/e45057" target="_blank" rel="noopener noreferrer nofollow">https://mhealth.jmir.org/2023/1/e45057</a>  
+   Link:<a href="https://mhealth.jmir.org/2023/1/e45057" target="_blank" rel="noopener noreferrer nofollow">https://mhealth.jmir.org/2023/1/e45057</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: formative.jmir.org  
-   Link: <a href="https://formative.jmir.org/2022/2/e33603/" target="_blank" rel="noopener noreferrer nofollow">https://formative.jmir.org/2022/2/e33603/</a>  
+   Link:<a href="https://formative.jmir.org/2022/2/e33603/" target="_blank" rel="noopener noreferrer nofollow">https://formative.jmir.org/2022/2/e33603/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: jmir.org  
-   Link: <a href="https://www.jmir.org/2024/1/e54978/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e54978/</a>  
+   Link:<a href="https://www.jmir.org/2024/1/e54978/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e54978/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: jmir.org  
-   Link: <a href="https://www.jmir.org/2021/9/e25171/citations" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2021/9/e25171/citations</a>  
+   Link:<a href="https://www.jmir.org/2021/9/e25171/citations" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2021/9/e25171/citations</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: jmir.org  
-   Link: <a href="https://www.jmir.org/2023/1/e40529/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2023/1/e40529/</a>  
+   Link:<a href="https://www.jmir.org/2023/1/e40529/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2023/1/e40529/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: madeinheene.hee.nhs.uk  
-   Link: <a href="https://madeinheene.hee.nhs.uk/Portals/19/Eating%20Disorders-%20C%20Reynolds.pdf" target="_blank" rel="noopener noreferrer nofollow">https://madeinheene.hee.nhs.uk/Portals/19/Eating%20Disorders-%20C%20Reynolds.pdf</a>  
+   Link:<a href="https://madeinheene.hee.nhs.uk/Portals/19/Eating%20Disorders-%20C%20Reynolds.pdf" target="_blank" rel="noopener noreferrer nofollow">https://madeinheene.hee.nhs.uk/Portals/19/Eating%20Disorders-%20C%20Reynolds.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26479070/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26479070/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ucl.ac.uk  
    Title: University College London How long does it take to form a habit?  
-   Link: <a href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow">https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit</a>  
+   Link:<a href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow">https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26616119/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26616119/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26616119/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26616119/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/21185970/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/21185970/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/21185970/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/21185970/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23512568/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23512568/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/28214452/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/28214452/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/28214452/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/28214452/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Self" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Self</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Self" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Self</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: theoryandtechniquetool.humanbehaviourchange.org  
-   Link: <a href="https://theoryandtechniquetool.humanbehaviourchange.org/tool" target="_blank" rel="noopener noreferrer nofollow">https://theoryandtechniquetool.humanbehaviourchange.org/tool</a>  
+   Link:<a href="https://theoryandtechniquetool.humanbehaviourchange.org/tool" target="_blank" rel="noopener noreferrer nofollow">https://theoryandtechniquetool.humanbehaviourchange.org/tool</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: obesityaction.org  
-   Link: <a href="https://www.obesityaction.org/resources/self-monitoring-the-way-to-successful-weight-management/" target="_blank" rel="noopener noreferrer nofollow">https://www.obesityaction.org/resources/self-monitoring-the-way-to-successful-weight-management/</a>  
+   Link:<a href="https://www.obesityaction.org/resources/self-monitoring-the-way-to-successful-weight-management/" target="_blank" rel="noopener noreferrer nofollow">https://www.obesityaction.org/resources/self-monitoring-the-way-to-successful-weight-management/</a>  
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: 5 Ways to Actually Make Your Habits Stick (Evidence-Based)  
-   Link: <a href="https://www.youtube.com/watch?v=DPRnrZH6weU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DPRnrZH6weU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Making &amp; Breaking Habits: How to Change Your Life in 1 Month...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DPRnrZH6weU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DPRnrZH6weU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Making &amp; Breaking Habits: How to Change Your Life in 1 Month...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: The 16 Year Habit-Tracking Flip-Flop By Behavioral Scientists  
-   Link: <a href="https://www.youtube.com/watch?v=KZxxelfslok" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KZxxelfslok</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Ways to Actually Make Your Habits Stick (Evidence-Based)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KZxxelfslok" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KZxxelfslok</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Ways to Actually Make Your Habits Stick (Evidence-Based)...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Psychology of People Who Track Their Calories  
-   Link: <a href="https://www.youtube.com/watch?v=XrELaG4Bcyk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XrELaG4Bcyk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 16 Year Habit-Tracking Flip-Flop By Behavioral Scientists...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XrELaG4Bcyk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XrELaG4Bcyk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 16 Year Habit-Tracking Flip-Flop By Behavioral Scientists...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WIONews/posts/gravitas-the-negative-feedback-from-your-fitness-tracker-could-be-affecting-your/1928939890649970/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/gravitas-the-negative-feedback-from-your-fitness-tracker-could-be-affecting-your/1928939890649970/</a>  
+   Link:<a href="https://www.facebook.com/WIONews/posts/gravitas-the-negative-feedback-from-your-fitness-tracker-could-be-affecting-your/1928939890649970/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/gravitas-the-negative-feedback-from-your-fitness-tracker-could-be-affecting-your/1928939890649970/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/274008273_Unintended_effects_of_self-tracking" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/274008273_Unintended_effects_of_self-tracking</a>  
+   Link:<a href="https://www.researchgate.net/publication/274008273_Unintended_effects_of_self-tracking" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/274008273_Unintended_effects_of_self-tracking</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/353303143_How_Self-tracking_and_the_Quantified_Self_Promote_Health_and_Well-being_A_Systematic_Literature_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/353303143_How_Self-tracking_and_the_Quantified_Self_Promote_Health_and_Well-being_A_Systematic_Literature_Review</a>  
+   Link:<a href="https://www.researchgate.net/publication/353303143_How_Self-tracking_and_the_Quantified_Self_Promote_Health_and_Well-being_A_Systematic_Literature_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/353303143_How_Self-tracking_and_the_Quantified_Self_Promote_Health_and_Well-being_A_Systematic_Literature_Review</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: beateatingdisorders.org.uk  
-   Link: <a href="https://www.beateatingdisorders.org.uk/news/exercise-calorie-labelling/" target="_blank" rel="noopener noreferrer nofollow">https://www.beateatingdisorders.org.uk/news/exercise-calorie-labelling/</a>  
+   Link:<a href="https://www.beateatingdisorders.org.uk/news/exercise-calorie-labelling/" target="_blank" rel="noopener noreferrer nofollow">https://www.beateatingdisorders.org.uk/news/exercise-calorie-labelling/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: beateatingdisorders.org.uk  
-   Link: <a href="https://www.beateatingdisorders.org.uk/news/beats-response-government-plan-calorie-count/" target="_blank" rel="noopener noreferrer nofollow">https://www.beateatingdisorders.org.uk/news/beats-response-government-plan-calorie-count/</a>  
+   Link:<a href="https://www.beateatingdisorders.org.uk/news/beats-response-government-plan-calorie-count/" target="_blank" rel="noopener noreferrer nofollow">https://www.beateatingdisorders.org.uk/news/beats-response-government-plan-calorie-count/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: europepmc.org  
-   Link: <a href="https://europepmc.org/abstract/MED/32313670" target="_blank" rel="noopener noreferrer nofollow">https://europepmc.org/abstract/MED/32313670</a>  
+   Link:<a href="https://europepmc.org/abstract/MED/32313670" target="_blank" rel="noopener noreferrer nofollow">https://europepmc.org/abstract/MED/32313670</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: apa.org  
-   Link: <a href="https://www.apa.org/pubs/journals/releases/bul-bul0000025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/journals/releases/bul-bul0000025.pdf</a>
+   Link:<a href="https://www.apa.org/pubs/journals/releases/bul-bul0000025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/journals/releases/bul-bul0000025.pdf</a>

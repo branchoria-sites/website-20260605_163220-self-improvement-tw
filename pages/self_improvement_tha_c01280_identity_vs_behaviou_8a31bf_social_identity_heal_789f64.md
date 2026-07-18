@@ -274,18 +274,18 @@ image: /assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_so
 
 ## Introduction
 
-Self-improvement is often described as a matter of individual [willpower]({{ 'willpower/' | relative_url }}), routines or [motivation]({{ 'motivation/' | relative_url }}). Yet a large body of research suggests that behaviour is also shaped by something more social: the groups people identify with and the norms those groups make visible. People do not merely choose behaviours because they seem useful. They often adopt, defend or reject behaviours because those actions communicate membership in a group that matters to them. When a healthy behaviour becomes part of “what people like us do”, it can feel normal, expected and easier to maintain. When an unhealthy behaviour is tied to group identity, change can feel like distancing oneself from the group itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://researchportalplus.anu.edu.au/en/publications/social-identity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchportalplus.anu.edu.au">[The Australian National University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchportalplus.anu.edu.au</span><span class="citation-popover-title">The Australian National University Social Identity</span><span class="citation-popover-snippet">The Australian National UniversitySocial Identity - The Australian National Universityby SA Haslam · 2020 · Cited by 42 — Social identity...</span></span></span>
+Self-improvement is often described as a matter of individual [willpower]({{ 'willpower/' | relative_url }}), routines or [motivation]({{ 'motivation/' | relative_url }}). Yet a large body of research suggests that behaviour is also shaped by something more social: the groups people identify with and the norms those groups make visible. People do not merely choose behaviours because they seem useful. They often adopt, defend or reject behaviours because those actions communicate membership in a group that matters to them. When a healthy behaviour becomes part of “what people like us do”, it can feel normal, expected and easier to maintain. When an unhealthy behaviour is tied to group identity, change can feel like distancing oneself from the group itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://researchportalplus.anu.edu.au/en/publications/social-identity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchportalplus.anu.edu.au">[The Australian National University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchportalplus.anu.edu.au</span><span class="citation-popover-title">The Australian National University Social Identity</span><span class="citation-popover-snippet">The Australian National UniversitySocial Identity - The Australian National Universityby SA Haslam · 2020 · Cited by 42 — Social identity...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_social_identity_heal_789f64-Illustration-1-dark.svg" | relative_url }}" alt="Group norms illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_social_identity_heal_789f64-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_social_identity_heal_789f64-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters for self-improvement because it shifts attention from the isolated individual to the social [environment]({{ 'environment/' | relative_url }}). Evidence from a 2024 systematic review and meta-analysis found a small but consistent positive association between social identification and health-related behaviour, with stronger effects when the group [identity]({{ 'identity/' | relative_url }}) itself was linked to health-promoting norms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S027795362400073X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Social identity and health-related behavior: A systematic...by N de Hoog · 2024 · Cited by 43 — This paper examined the rel...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38330634/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">identity and health-related behavior: A systematic...by N de Hoog · 2024 · Cited by 44 — This paper examined the relationship between so...</span></span></span>
+This matters for self-improvement because it shifts attention from the isolated individual to the social [environment]({{ 'environment/' | relative_url }}). Evidence from a 2024 systematic review and meta-analysis found a small but consistent positive association between social identification and health-related behaviour, with stronger effects when the group [identity]({{ 'identity/' | relative_url }}) itself was linked to health-promoting norms.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S027795362400073X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Social identity and health-related behavior: A systematic...by N de Hoog · 2024 · Cited by 43 — This paper examined the rel...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38330634/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">identity and health-related behavior: A systematic...by N de Hoog · 2024 · Cited by 44 — This paper examined the relationship between so...</span></span></span>
 
 ## How belonging shapes everyday choices
 
-Social identity refers to the part of a person's self-concept that comes from belonging to social groups. These groups may be formal, such as sports clubs, workplaces and recovery programmes, or informal, such as friendship circles, neighbourhoods or online communities. When a particular identity becomes important, people tend to align their behaviour with what they perceive to be the group's norms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://researchportalplus.anu.edu.au/en/publications/social-identity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchportalplus.anu.edu.au">[The Australian National University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchportalplus.anu.edu.au</span><span class="citation-popover-title">The Australian National University Social Identity</span><span class="citation-popover-snippet">The Australian National UniversitySocial Identity - The Australian National Universityby SA Haslam · 2020 · Cited by 42 — Social identity...</span></span></span>
+Social identity refers to the part of a person's self-concept that comes from belonging to social groups. These groups may be formal, such as sports clubs, workplaces and recovery programmes, or informal, such as friendship circles, neighbourhoods or online communities. When a particular identity becomes important, people tend to align their behaviour with what they perceive to be the group's norms.<span class="citation-chip-wrap"><a class="citation-chip" href="https://researchportalplus.anu.edu.au/en/publications/social-identity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchportalplus.anu.edu.au">[The Australian National University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchportalplus.anu.edu.au</span><span class="citation-popover-title">The Australian National University Social Identity</span><span class="citation-popover-snippet">The Australian National UniversitySocial Identity - The Australian National Universityby SA Haslam · 2020 · Cited by 42 — Social identity...</span></span></span>
 
 This process operates in ordinary situations. A person joining a walking group may begin taking daily walks not simply because exercise is beneficial, but because walking is what group members do together. Someone in a workplace where lunch breaks involve a short walk may find movement easier to sustain than someone whose colleagues remain at their desks. In both cases, behaviour is reinforced by belonging rather than by constant self-control.
 
-Research on social identity and norm adherence suggests the relationship works in both directions. Strong identification with a group increases adherence to its norms, while acting in line with those norms can further strengthen identification with the group. In practice, this creates [feedback]({{ 'feedback/' | relative_url }}) loops: participation increases belonging, and belonging increases participation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.12635" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bpspsychub.onlinelibrary.wiley.com">[BPS PsychHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bpspsychub.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">BPS PsychHubThe reciprocal relationship between social identity and...14 Feb 2023 — Not only does social identity promote norm adherence...</span></span></span>
+Research on social identity and norm adherence suggests the relationship works in both directions. Strong identification with a group increases adherence to its norms, while acting in line with those norms can further strengthen identification with the group. In practice, this creates [feedback]({{ 'feedback/' | relative_url }}) loops: participation increases belonging, and belonging increases participation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.12635" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bpspsychub.onlinelibrary.wiley.com">[BPS PsychHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bpspsychub.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">BPS PsychHubThe reciprocal relationship between social identity and...14 Feb 2023 — Not only does social identity promote norm adherence...</span></span></span>
 
 This helps explain why some habits feel effortless within one social setting and difficult in another. The behaviour itself may be identical, but its social meaning changes.
 
@@ -297,9 +297,9 @@ Healthy behaviour becomes easier when a valued group treats it as normal, desira
 
 Several patterns appear repeatedly in the evidence:
 
-* **Physical activity becomes more sustainable when linked to group membership.** Research applying social identity theory to exercise shows that identification with active groups can increase participation, [enjoyment]({{ 'enjoyment/' | relative_url }}) and persistence. Exercise becomes a social activity rather than a solitary obligation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5603625/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nih.gov</span><span class="citation-popover-title">PMC5603625</span><span class="citation-popover-snippet">PMCA Social Identity Approach to Understanding and Promoting ...by M Stevens · 2017 · Cited by 209 — The social identity approach provide...</span></span></span>
-* **Health-related identities have stronger effects than generic identities.** The 2024 meta-analysis found that identities directly connected to health behaviours showed stronger associations with health outcomes than broader social identities. A person who identifies as a runner, cyclist or member of a fitness community receives clearer behavioural guidance than someone who merely identifies with a large social category. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S027795362400073X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Social identity and health-related behavior: A systematic...by N de Hoog · 2024 · Cited by 43 — This paper examined the rel...</span></span></span>
-* **Shared identity can improve support and accountability.** Group-based behaviour change programmes often work partly because members see each other as part of a common “us”. Recent work on group-based interventions argues that fostering shared identity helps established behaviour-change techniques work more effectively. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38330634/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">identity and health-related behavior: A systematic...by N de Hoog · 2024 · Cited by 44 — This paper examined the relationship between so...</span></span></span>
+* **Physical activity becomes more sustainable when linked to group membership.** Research applying social identity theory to exercise shows that identification with active groups can increase participation, [enjoyment]({{ 'enjoyment/' | relative_url }}) and persistence. Exercise becomes a social activity rather than a solitary obligation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5603625/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nih.gov</span><span class="citation-popover-title">PMC5603625</span><span class="citation-popover-snippet">PMCA Social Identity Approach to Understanding and Promoting ...by M Stevens · 2017 · Cited by 209 — The social identity approach provide...</span></span></span>
+* **Health-related identities have stronger effects than generic identities.** The 2024 meta-analysis found that identities directly connected to health behaviours showed stronger associations with health outcomes than broader social identities. A person who identifies as a runner, cyclist or member of a fitness community receives clearer behavioural guidance than someone who merely identifies with a large social category.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S027795362400073X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Social identity and health-related behavior: A systematic...by N de Hoog · 2024 · Cited by 43 — This paper examined the rel...</span></span></span>
+* **Shared identity can improve support and accountability.** Group-based behaviour change programmes often work partly because members see each other as part of a common “us”. Recent work on group-based interventions argues that fostering shared identity helps established behaviour-change techniques work more effectively.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38330634/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">identity and health-related behavior: A systematic...by N de Hoog · 2024 · Cited by 44 — This paper examined the relationship between so...</span></span></span>
 
 An important implication is that belonging can reduce decision fatigue. If the group's norm is to attend the weekly training session, prepare healthy meals or avoid smoking, individuals spend less effort repeatedly debating the behaviour. The action is already socially defined as appropriate.
 
@@ -309,7 +309,7 @@ An important implication is that belonging can reduce decision fatigue. If the g
 
 People do not always respond to actual group behaviour. They often respond to what they believe the group does.
 
-This distinction has practical importance because people frequently overestimate unhealthy behaviour and underestimate healthy behaviour. Public-health researchers have long studied “social norms” approaches that correct these misperceptions. Instead of warning people about unhealthy conduct, these approaches highlight the healthier behaviours that are already common within a group. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yhphnetwork.co.uk/media/2141/social-norms-approach-smoking-alcohol.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yhphnetwork.co.uk">[YHPHN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yhphnetwork.co.uk</span><span class="citation-popover-title">YHPHNThe Social Norms Approach</span><span class="citation-popover-snippet">March 11, 2019 — The social norms approach focuses on positive messages about healthy behaviours and attitudes that are common to most pe...</span><span class="citation-popover-meta">Published: March 11, 2019</span></span></span>
+This distinction has practical importance because people frequently overestimate unhealthy behaviour and underestimate healthy behaviour. Public-health researchers have long studied “social norms” approaches that correct these misperceptions. Instead of warning people about unhealthy conduct, these approaches highlight the healthier behaviours that are already common within a group.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.yhphnetwork.co.uk/media/2141/social-norms-approach-smoking-alcohol.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yhphnetwork.co.uk">[YHPHN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yhphnetwork.co.uk</span><span class="citation-popover-title">YHPHNThe Social Norms Approach</span><span class="citation-popover-snippet">March 11, 2019 — The social norms approach focuses on positive messages about healthy behaviours and attitudes that are common to most pe...</span><span class="citation-popover-meta">Published: March 11, 2019</span></span></span>
 
 For example, students may assume heavy drinking is more widespread than it really is. If most students actually drink moderately, communicating that reality can reduce pressure to conform to an exaggerated image of campus culture. The mechanism is not simply information. It is a correction of what people think their group expects.
 
@@ -320,9 +320,9 @@ This helps explain why self-improvement advice that focuses exclusively on perso
 
 The same processes that [support]({{ 'support/' | relative_url }}) healthy change can also preserve unhealthy behaviour.
 
-Groups can attach positive meaning to behaviours that carry health costs. Smoking provides a clear historical example. Researchers have documented how tobacco marketing and social influence helped establish smoking as a socially accepted practice in many communities and demographic groups. Once smoking became linked to belonging, status or adulthood, quitting required more than understanding health risks. It often required renegotiating identity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tobaccocontrol.bmj.com/content/31/2/358" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tobaccocontrol.bmj.com">[Tobacco Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tobaccocontrol.bmj.com</span><span class="citation-popover-snippet">Tobacco companies manipulated social norms to establish smoking as a socially accepted practice and encourage uptake among all population...</span></span></span>
+Groups can attach positive meaning to behaviours that carry health costs. Smoking provides a clear historical example. Researchers have documented how tobacco marketing and social influence helped establish smoking as a socially accepted practice in many communities and demographic groups. Once smoking became linked to belonging, status or adulthood, quitting required more than understanding health risks. It often required renegotiating identity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tobaccocontrol.bmj.com/content/31/2/358" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tobaccocontrol.bmj.com">[Tobacco Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tobaccocontrol.bmj.com</span><span class="citation-popover-snippet">Tobacco companies manipulated social norms to establish smoking as a socially accepted practice and encourage uptake among all population...</span></span></span>
 
-Studies of smoker identity illustrate this challenge. For some people, smoking is not merely a habit but part of how they understand themselves and their social relationships. Attempts to stop smoking can therefore create feelings of social loss, exclusion or identity conflict. <span class="citation-chip-wrap"><a class="citation-chip" href="https://discovery.ucl.ac.uk/1454422/1/Michie_pub_pdf.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.ucl.ac.uk">[UCL Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.ucl.ac.uk</span><span class="citation-popover-title">Michie pub pdf</span><span class="citation-popover-snippet">To identify potential targets for smoking cessation interventions in young adults...Read more...</span></span></span>
+Studies of smoker identity illustrate this challenge. For some people, smoking is not merely a habit but part of how they understand themselves and their social relationships. Attempts to stop smoking can therefore create feelings of social loss, exclusion or identity conflict.<span class="citation-chip-wrap"><a class="citation-chip" href="https://discovery.ucl.ac.uk/1454422/1/Michie_pub_pdf.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.ucl.ac.uk">[UCL Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.ucl.ac.uk</span><span class="citation-popover-title">Michie pub pdf</span><span class="citation-popover-snippet">To identify potential targets for smoking cessation interventions in young adults...Read more...</span></span></span>
 
 Similar dynamics appear elsewhere:
 
@@ -344,7 +344,7 @@ One lesson from social identity research is that behaviour change is often more 
 
 A person attempting to become more active may struggle if their primary social environment discourages exercise. Joining a recreational sports club, walking group or fitness community introduces a different set of expectations. Instead of relying entirely on motivation, the person enters a context where the desired behaviour is already normal.
 
-Research on social identity and health repeatedly points to the protective value of meaningful group memberships. Shared identities can provide [social support]({{ 'social-support/' | relative_url }}), increase engagement and make health-promoting actions feel aligned with who a person is. Groningen Research Portal <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-social-identity-processes/337997BD9CAEC07E7A15B4C16A18546A" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment16</span><span class="citation-popover-snippet">Cambridge University Press &amp; Assessment16 - Changing Behavior Using Social Identity ProcessesThis chapter outlines the potential of socia...</span></span></span>
+Research on social identity and health repeatedly points to the protective value of meaningful group memberships. Shared identities can provide [social support]({{ 'social-support/' | relative_url }}), increase engagement and make health-promoting actions feel aligned with who a person is. Groningen Research Portal<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-social-identity-processes/337997BD9CAEC07E7A15B4C16A18546A" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment16</span><span class="citation-popover-snippet">Cambridge University Press &amp; Assessment16 - Changing Behavior Using Social Identity ProcessesThis chapter outlines the potential of socia...</span></span></span>
 
 This does not mean abandoning existing relationships whenever a habit proves difficult. It means recognising that behaviour is partly social. Sometimes the most effective change is not asking, “How can I become more disciplined?” but asking, “Which groups make this behaviour feel ordinary?”
 
@@ -354,274 +354,274 @@ This does not mean abandoning existing relationships whenever a habit proves dif
 
 The contrast between identity change and behaviour design is often presented as a choice. Social identity research suggests they interact. Behaviour design influences what people do today, while group identity influences what feels natural to keep doing tomorrow.
 
-For lasting change, healthy actions benefit from becoming socially reinforced rather than merely personally intended. A person is more likely to continue a behaviour when it fits a valued group's norms, receives social approval and contributes to a sense of belonging. Conversely, behaviours tied to important group identities can be remarkably resistant to change even when individuals understand their disadvantages. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S027795362400073X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Social identity and health-related behavior: A systematic...by N de Hoog · 2024 · Cited by 43 — This paper examined the rel...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.12635" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bpspsychub.onlinelibrary.wiley.com">[BPS PsychHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bpspsychub.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">BPS PsychHubThe reciprocal relationship between social identity and...14 Feb 2023 — Not only does social identity promote norm adherence...</span></span></span>
+For lasting change, healthy actions benefit from becoming socially reinforced rather than merely personally intended. A person is more likely to continue a behaviour when it fits a valued group's norms, receives social approval and contributes to a sense of belonging. Conversely, behaviours tied to important group identities can be remarkably resistant to change even when individuals understand their disadvantages.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S027795362400073X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Social identity and health-related behavior: A systematic...by N de Hoog · 2024 · Cited by 43 — This paper examined the rel...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.12635" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bpspsychub.onlinelibrary.wiley.com">[BPS PsychHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bpspsychub.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">BPS PsychHubThe reciprocal relationship between social identity and...14 Feb 2023 — Not only does social identity promote norm adherence...</span></span></span>
 
-The practical insight is simple: habits do not exist in isolation. They are embedded in social worlds. When healthier behaviour becomes part of a shared identity, it often stops feeling like a constant act of self-improvement and starts feeling like the normal thing to do. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-social-identity-processes/337997BD9CAEC07E7A15B4C16A18546A" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment16</span><span class="citation-popover-snippet">Cambridge University Press &amp; Assessment16 - Changing Behavior Using Social Identity ProcessesThis chapter outlines the potential of socia...</span></span></span>
+The practical insight is simple: habits do not exist in isolation. They are embedded in social worlds. When healthier behaviour becomes part of a shared identity, it often stops feeling like a constant act of self-improvement and starts feeling like the normal thing to do. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-social-identity-processes/337997BD9CAEC07E7A15B4C16A18546A" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment16</span><span class="citation-popover-snippet">Cambridge University Press &amp; Assessment16 - Changing Behavior Using Social Identity ProcessesThis chapter outlines the potential of socia...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why groups can make change feel normal. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why groups can make change feel normal. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Discusses how culture and groups shape behaviour.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Discusses how culture and groups shape behaviour.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rrlPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Power of Habit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
-        </h4>
-        <p class="fr-book-author">By Charles Duhigg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rrlPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Power of Habit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
+</h4>
+<p class="fr-book-author">By Charles Duhigg</p>
         
-        <p class="fr-book-desc">Includes social dimensions of habit formation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes social dimensions of habit formation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Culture+Code+by+Daniel+Coyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Culture Code on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SwtFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Culture Code" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Culture+Code+by+Daniel+Coyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Culture Code">The Culture Code</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Coyle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Culture+Code+by+Daniel+Coyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Culture Code on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SwtFDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Culture Code" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Culture+Code+by+Daniel+Coyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Culture Code">The Culture Code</a>
+</h4>
+<p class="fr-book-author">By Daniel Coyle</p>
         
-        <p class="fr-book-desc">Explains how group norms influence actions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Culture+Code+by+Daniel+Coyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how group norms influence actions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Culture+Code+by+Daniel+Coyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
-        </h4>
-        <p class="fr-book-author">By Robert B. Cialdini</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Influence on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Influence">Influence</a>
+</h4>
+<p class="fr-book-author">By Robert B. Cialdini</p>
         
-        <p class="fr-book-desc">Covers social pressures and behavioural conformity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers social pressures and behavioural conformity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Influence+by+Robert+B.+Cialdini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Power+of+Habit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Power of Habit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Culture+Code&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Culture Code</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Power+of+Habit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Power of Habit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Culture+Code&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Culture Code</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/889e8acbca3b73af071f.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/889e8acbca3b73af071f.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/cdb87d9c00637e7f5353.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/cdb87d9c00637e7f5353.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quotes Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/79bcfa06dda89ad237ca.jpg' | relative_url }}" alt="Listing image for Motivational Quotes Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quotes Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quotes Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/79bcfa06dda89ad237ca.jpg' | relative_url }}" alt="Listing image for Motivational Quotes Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quotes Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/72cf51fc129cd58e3c35.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/72cf51fc129cd58e3c35.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=group-norms-why-groups-can-make-change-feel-normal-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -637,7 +637,7 @@ The practical insight is simple: habits do not exist in isolation. They are embe
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -657,7 +657,7 @@ The practical insight is simple: habits do not exist in isolation. They are embe
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -689,7 +689,7 @@ The practical insight is simple: habits do not exist in isolation. They are embe
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -719,7 +719,7 @@ The practical insight is simple: habits do not exist in isolation. They are embe
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -777,145 +777,145 @@ The practical insight is simple: habits do not exist in isolation. They are embe
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S027795362400073X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S027795362400073X</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Social identity and health-related behavior: A systematic...by N de Hoog · 2024 · Cited by 43 — This paper examined the rel...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S027795362400073X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S027795362400073X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social identity and health-related behavior: A systematic...by N de Hoog · 2024 · Cited by 43 — This paper examined the rel...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cambridge.org  
    Title: University Press & Assessment16  
-   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-social-identity-processes/337997BD9CAEC07E7A15B4C16A18546A" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-social-identity-processes/337997BD9CAEC07E7A15B4C16A18546A</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment16 - Changing Behavior Using Social Identity ProcessesThis chapter outlines the potential of socia...</p></details>
+   Link:<a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-social-identity-processes/337997BD9CAEC07E7A15B4C16A18546A" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-social-identity-processes/337997BD9CAEC07E7A15B4C16A18546A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment16 - Changing Behavior Using Social Identity ProcessesThis chapter outlines the potential of socia...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cambridge.org  
    Title: University Press & Assessment Social Identity Interventions (Chapter 44)  
-   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/social-identity-interventions/B967A5A5E4F61C3929EAEE0CF8B388B0" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/social-identity-interventions/B967A5A5E4F61C3929EAEE0CF8B388B0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentSocial Identity Interventions (Chapter 44) - The Handbook...This chapter describes an evidence-ba...</p></details>
+   Link:<a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/social-identity-interventions/B967A5A5E4F61C3929EAEE0CF8B388B0" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/social-identity-interventions/B967A5A5E4F61C3929EAEE0CF8B388B0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentSocial Identity Interventions (Chapter 44) - The Handbook...This chapter describes an evidence-ba...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: yhphnetwork.co.uk  
    Title: YHPHNThe Social Norms Approach  
-   Link: <a href="https://www.yhphnetwork.co.uk/media/2141/social-norms-approach-smoking-alcohol.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.yhphnetwork.co.uk/media/2141/social-norms-approach-smoking-alcohol.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 11, 2019 — The social norms approach focuses on positive messages about healthy behaviours and attitudes that are common to most pe...</p></details>
+   Link:<a href="https://www.yhphnetwork.co.uk/media/2141/social-norms-approach-smoking-alcohol.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.yhphnetwork.co.uk/media/2141/social-norms-approach-smoking-alcohol.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 11, 2019 — The social norms approach focuses on positive messages about healthy behaviours and attitudes that are common to most pe...</p></details>
    Published: March 11, 2019  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/books/social-scaffolding/social-identity-approach-to-health/22C5C57474D57EEA04644D1281D6888B" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/social-scaffolding/social-identity-approach-to-health/22C5C57474D57EEA04644D1281D6888B</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentThe Social Identity Approach to Health (Chapter 4)The key point to take from this model is that th...</p></details>
+   Link:<a href="https://www.cambridge.org/core/books/social-scaffolding/social-identity-approach-to-health/22C5C57474D57EEA04644D1281D6888B" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/social-scaffolding/social-identity-approach-to-health/22C5C57474D57EEA04644D1281D6888B</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentThe Social Identity Approach to Health (Chapter 4)The key point to take from this model is that th...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/social" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/social</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary7 days ago — SOCIAL definition: 1. relating to activities in which you meet and spend time with o...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/social" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/social</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary7 days ago — SOCIAL definition: 1. relating to activities in which you meet and spend time with o...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2590291125008952" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2590291125008952</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Social norms structure underlying health behaviors...by C Ogland-Hand · 2025 — Social norms play an important role in understanding heal...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2590291125008952" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2590291125008952</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social norms structure underlying health behaviors...by C Ogland-Hand · 2025 — Social norms play an important role in understanding heal...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchportalplus.anu.edu.au  
    Title: The Australian National University Social Identity  
-   Link: <a href="https://researchportalplus.anu.edu.au/en/publications/social-identity/" target="_blank" rel="noopener noreferrer nofollow">https://researchportalplus.anu.edu.au/en/publications/social-identity/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Australian National UniversitySocial Identity - The Australian National Universityby SA Haslam · 2020 · Cited by 42 — Social identity...</p></details>
+   Link:<a href="https://researchportalplus.anu.edu.au/en/publications/social-identity/" target="_blank" rel="noopener noreferrer nofollow">https://researchportalplus.anu.edu.au/en/publications/social-identity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Australian National UniversitySocial Identity - The Australian National Universityby SA Haslam · 2020 · Cited by 42 — Social identity...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38330634/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38330634/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>identity and health-related behavior: A systematic...by N de Hoog · 2024 · Cited by 44 — This paper examined the relationship between so...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/38330634/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38330634/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>identity and health-related behavior: A systematic...by N de Hoog · 2024 · Cited by 44 — This paper examined the relationship between so...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: bpspsychub.onlinelibrary.wiley.com  
-   Link: <a href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.12635" target="_blank" rel="noopener noreferrer nofollow">https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.12635</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BPS PsychHubThe reciprocal relationship between social identity and...14 Feb 2023 — Not only does social identity promote norm adherence...</p></details>
+   Link:<a href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.12635" target="_blank" rel="noopener noreferrer nofollow">https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.12635</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BPS PsychHubThe reciprocal relationship between social identity and...14 Feb 2023 — Not only does social identity promote norm adherence...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38965643/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38965643/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Development of a group-based behaviour change...by S Moghadam · 2024 · Cited by 3 — This article outlines a new approach to design...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/38965643/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38965643/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Development of a group-based behaviour change...by S Moghadam · 2024 · Cited by 3 — This article outlines a new approach to design...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: tobaccocontrol.bmj.com  
-   Link: <a href="https://tobaccocontrol.bmj.com/content/31/2/358" target="_blank" rel="noopener noreferrer nofollow">https://tobaccocontrol.bmj.com/content/31/2/358</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tobacco companies manipulated social norms to establish smoking as a socially accepted practice and encourage uptake among all population...</p></details>
+   Link:<a href="https://tobaccocontrol.bmj.com/content/31/2/358" target="_blank" rel="noopener noreferrer nofollow">https://tobaccocontrol.bmj.com/content/31/2/358</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tobacco companies manipulated social norms to establish smoking as a socially accepted practice and encourage uptake among all population...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: discovery.ucl.ac.uk  
    Title: Michie pub pdf  
-   Link: <a href="https://discovery.ucl.ac.uk/1454422/1/Michie_pub_pdf.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/1454422/1/Michie_pub_pdf.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>To identify potential targets for smoking cessation interventions in young adults...Read more...</p></details>
+   Link:<a href="https://discovery.ucl.ac.uk/1454422/1/Michie_pub_pdf.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/1454422/1/Michie_pub_pdf.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>To identify potential targets for smoking cessation interventions in young adults...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/40105110/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/40105110/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>relationship between habit and identity in health...by L Zhu · 2025 · Cited by 9 — This meta-analytic review aimed to synthesize the eff...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/40105110/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/40105110/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>relationship between habit and identity in health...by L Zhu · 2025 · Cited by 9 — This meta-analytic review aimed to synthesize the eff...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/40983670/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/40983670/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nat...Rea...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/40983670/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/40983670/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nat...Rea...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41143785/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41143785/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>identity processes affect objectively measured...by T Cruwys · Cited by 1 — Objective: A systematic review (CRD42023422237) examined the...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/41143785/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41143785/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>identity processes affect objectively measured...by T Cruwys · Cited by 1 — Objective: A systematic review (CRD42023422237) examined the...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/368509360_The_reciprocal_relationship_between_social_identity_and_adherence_to_group_norms" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/368509360_The_reciprocal_relationship_between_social_identity_and_adherence_to_group_norms</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The reciprocal relationship between social identity and...17 Feb 2023 — We proposed a reciprocal relationship between social identificat...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/368509360_The_reciprocal_relationship_between_social_identity_and_adherence_to_group_norms" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/368509360_The_reciprocal_relationship_between_social_identity_and_adherence_to_group_norms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The reciprocal relationship between social identity and...17 Feb 2023 — We proposed a reciprocal relationship between social identificat...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/377935190_Social_identity_and_health-related_behavior_A_systematic_review_and_meta-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377935190_Social_identity_and_health-related_behavior_A_systematic_review_and_meta-analysis</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Social identity and health-related behavior: A systematic...16 Feb 2024 — Social identity and health-related behavior: A systematic revi...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/377935190_Social_identity_and_health-related_behavior_A_systematic_review_and_meta-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377935190_Social_identity_and_health-related_behavior_A_systematic_review_and_meta-analysis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social identity and health-related behavior: A systematic...16 Feb 2024 — Social identity and health-related behavior: A systematic revi...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: visualize.jove.com  
-   Link: <a href="https://visualize.jove.com/38330634-social-identity-and-health-related-behavior-a-systematic-review-and-meta-analysis" target="_blank" rel="noopener noreferrer nofollow">https://visualize.jove.com/38330634-social-identity-and-health-related-behavior-a-systematic-review-and-meta-analysis</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>JoVE VisualizeSocial identity and health-related behavior: A systematic...Jan 8, 2020 — This paper examined the relationship between soc...</p></details>
+   Link:<a href="https://visualize.jove.com/38330634-social-identity-and-health-related-behavior-a-systematic-review-and-meta-analysis" target="_blank" rel="noopener noreferrer nofollow">https://visualize.jove.com/38330634-social-identity-and-health-related-behavior-a-systematic-review-and-meta-analysis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JoVE VisualizeSocial identity and health-related behavior: A systematic...Jan 8, 2020 — This paper examined the relationship between soc...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: crd.york.ac.uk  
-   Link: <a href="https://www.crd.york.ac.uk/PROSPERO/view/CRD42023422237" target="_blank" rel="noopener noreferrer nofollow">https://www.crd.york.ac.uk/PROSPERO/view/CRD42023422237</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>will describe main characteristics and the effect of social identity operationalisations on objectively measured physical health outcomes...</p></details>
+   Link:<a href="https://www.crd.york.ac.uk/PROSPERO/view/CRD42023422237" target="_blank" rel="noopener noreferrer nofollow">https://www.crd.york.ac.uk/PROSPERO/view/CRD42023422237</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>will describe main characteristics and the effect of social identity operationalisations on objectively measured physical health outcomes...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: academia.edu  
    Title: A Social Identity Approach to Understanding and Promoting Physical Activity  
-   Link: <a href="https://www.academia.edu/36846192/A_Social_Identity_Approach_to_Understanding_and_Promoting_Physical_Activity" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/36846192/A_Social_Identity_Approach_to_Understanding_and_Promoting_Physical_Activity</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A Social Identity Approach to Understanding and...11 Oct 2025 — The social identity approach provides a valuable framework from wh...</p></details>
+   Link:<a href="https://www.academia.edu/36846192/A_Social_Identity_Approach_to_Understanding_and_Promoting_Physical_Activity" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/36846192/A_Social_Identity_Approach_to_Understanding_and_Promoting_Physical_Activity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A Social Identity Approach to Understanding and...11 Oct 2025 — The social identity approach provides a valuable framework from wh...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: research.ou.nl  
-   Link: <a href="https://research.ou.nl/en/publications/social-identity-and-health-related-behavior-a-systematic-review-a/" target="_blank" rel="noopener noreferrer nofollow">https://research.ou.nl/en/publications/social-identity-and-health-related-behavior-a-systematic-review-a/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Open Universiteit research portalSocial identity and health-related behavior: A systematic...by N de Hoog · 2024 · Cited by 45 — This pa...</p></details>
+   Link:<a href="https://research.ou.nl/en/publications/social-identity-and-health-related-behavior-a-systematic-review-a/" target="_blank" rel="noopener noreferrer nofollow">https://research.ou.nl/en/publications/social-identity-and-health-related-behavior-a-systematic-review-a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Open Universiteit research portalSocial identity and health-related behavior: A systematic...by N de Hoog · 2024 · Cited by 45 — This pa...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: research.rug.nl  
    Title: social identity health and well being an emerging agenda for appl  
-   Link: <a href="https://research.rug.nl/en/publications/social-identity-health-and-well-being-an-emerging-agenda-for-appl/" target="_blank" rel="noopener noreferrer nofollow">https://research.rug.nl/en/publications/social-identity-health-and-well-being-an-emerging-agenda-for-appl/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Groningen Research PortalSocial Identity, Health and Well-Being: An Emerging...by SA Haslam · 2009 · Cited by 2246 — These themes addres...</p></details>
+   Link:<a href="https://research.rug.nl/en/publications/social-identity-health-and-well-being-an-emerging-agenda-for-appl/" target="_blank" rel="noopener noreferrer nofollow">https://research.rug.nl/en/publications/social-identity-health-and-well-being-an-emerging-agenda-for-appl/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Groningen Research PortalSocial Identity, Health and Well-Being: An Emerging...by SA Haslam · 2009 · Cited by 2246 — These themes addres...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: researchportal.hw.ac.uk  
    Title: Stevens2017 Article ASocialIdentityApproachToUnder  
-   Link: <a href="https://researchportal.hw.ac.uk/files/55463082/Stevens2017_Article_ASocialIdentityApproachToUnder.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.hw.ac.uk/files/55463082/Stevens2017_Article_ASocialIdentityApproachToUnder.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heriot-Watt Research PortalA Social Identity Approach to Understanding and Promoting...by M Stevens · 2017 · Cited by 199 — In partic- u...</p></details>
+   Link:<a href="https://researchportal.hw.ac.uk/files/55463082/Stevens2017_Article_ASocialIdentityApproachToUnder.pdf" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.hw.ac.uk/files/55463082/Stevens2017_Article_ASocialIdentityApproachToUnder.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heriot-Watt Research PortalA Social Identity Approach to Understanding and Promoting...by M Stevens · 2017 · Cited by 199 — In partic- u...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: ovid.com  
    Title: Social Identity Processes Affect Objectively  
-   Link: <a href="https://www.ovid.com/journals/hepsy/fulltext/10.1037/hea0001552~social-identity-processes-affect-objectively-measured" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/hepsy/fulltext/10.1037/hea0001552~social-identity-processes-affect-objectively-measured</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>T Cruwys · 2025 · Cited by 1 — Objective: A systematic review (CRD42023422237) examined the effect of social identity proces...</p></details>
+   Link:<a href="https://www.ovid.com/journals/hepsy/fulltext/10.1037/hea0001552~social-identity-processes-affect-objectively-measured" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/hepsy/fulltext/10.1037/hea0001552~social-identity-processes-affect-objectively-measured</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>T Cruwys · 2025 · Cited by 1 — Objective: A systematic review (CRD42023422237) examined the effect of social identity proces...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: karger.com  
    Title: Group Identity and Ingroup Bias The Social  
-   Link: <a href="https://karger.com/hde/article/65/5-6/311/828433/Group-Identity-and-Ingroup-Bias-The-Social" target="_blank" rel="noopener noreferrer nofollow">https://karger.com/hde/article/65/5-6/311/828433/Group-Identity-and-Ingroup-Bias-The-Social</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Group Identity and Ingroup Bias: The Social Identity...3 Sept 2021 — This article discusses the social identity approach (social identit...</p></details>
+   Link:<a href="https://karger.com/hde/article/65/5-6/311/828433/Group-Identity-and-Ingroup-Bias-The-Social" target="_blank" rel="noopener noreferrer nofollow">https://karger.com/hde/article/65/5-6/311/828433/Group-Identity-and-Ingroup-Bias-The-Social</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Group Identity and Ingroup Bias: The Social Identity...3 Sept 2021 — This article discusses the social identity approach (social identit...</p></details>

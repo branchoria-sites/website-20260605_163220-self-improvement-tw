@@ -271,7 +271,7 @@ image: /assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_values
 A goal survives boredom when its daily actions continue to prove something that matters to you. Many goals fail not because the method is wrong, but because the person loses contact with the reason behind the repetition. A values test is a simple way to check whether a goal is anchored in a genuine priority rather than in excitement, guilt, comparison or temporary enthusiasm.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_values_test_goals_227752-Illustration-1-dark.svg" | relative_url }}" alt="Values Test illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_values_test_goals_227752-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_values_test_goals_227752-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research on self-concordant goals suggests that people make better progress when their goals are aligned with their deeper interests and values. Goals that fit who a person wants to be tend to attract more sustained effort, especially when the work becomes routine. Autonomous [motivation]({{ 'motivation/' | relative_url }})—the feeling that a goal is personally endorsed rather than externally imposed—is also linked to greater persistence when tasks become difficult or monotonous. PubMed <span class="citation-chip-wrap"><a class="citation-chip" href="https://open.ncl.ac.uk/theories/20/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.ncl.ac.uk">[Self Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.ncl.ac.uk</span><span class="citation-popover-snippet">TheoryHubSelf-Determination Theory: A review14 Mar 2026 — Integrated regulation is the most autonomous form of extrinsic motivation in SD...</span></span></span>
+Research on self-concordant goals suggests that people make better progress when their goals are aligned with their deeper interests and values. Goals that fit who a person wants to be tend to attract more sustained effort, especially when the work becomes routine. Autonomous [motivation]({{ 'motivation/' | relative_url }})—the feeling that a goal is personally endorsed rather than externally imposed—is also linked to greater persistence when tasks become difficult or monotonous. PubMed<span class="citation-chip-wrap"><a class="citation-chip" href="https://open.ncl.ac.uk/theories/20/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.ncl.ac.uk">[Self Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.ncl.ac.uk</span><span class="citation-popover-snippet">TheoryHubSelf-Determination Theory: A review14 Mar 2026 — Integrated regulation is the most autonomous form of extrinsic motivation in SD...</span></span></span>
 
 The practical question is not whether a goal sounds meaningful. The question is whether the next small action still expresses a value you care about.
 
@@ -285,7 +285,7 @@ A repeatable goal creates a bridge between a value and a behaviour. Instead of t
 
 This distinction matters because motivation changes over time. [Enjoyment]({{ 'enjoyment/' | relative_url }}) comes and goes. External [rewards]({{ 'rewards/' | relative_url }}) fluctuate. Social approval disappears. What remains is whether the action still feels connected to something personally important.
 
-Self-concordance research repeatedly finds that goals aligned with core values and interests are associated with greater effort, better progress and higher likelihood of attainment. The mechanism is not constant excitement. It is the perception that the goal belongs to the person pursuing it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Goal striving, need satisfaction, and longitudinal well-beingby KM Sheldon · 1999 · Cited by 4389 — The self-concordance of goals (...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0191886916301477" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Some goals just feel easier: Self-concordance leads to...by KM Werner · 2016 · Cited by 210 — Research has found that pursuing self-conc...</span></span></span>
+Self-concordance research repeatedly finds that goals aligned with core values and interests are associated with greater effort, better progress and higher likelihood of attainment. The mechanism is not constant excitement. It is the perception that the goal belongs to the person pursuing it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Goal striving, need satisfaction, and longitudinal well-beingby KM Sheldon · 1999 · Cited by 4389 — The self-concordance of goals (...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0191886916301477" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Some goals just feel easier: Self-concordance leads to...by KM Werner · 2016 · Cited by 210 — Research has found that pursuing self-conc...</span></span></span>
 
 A useful warning sign is when a goal can no longer answer the question: “What value does this action express?” If the answer is vague or unconvincing, the goal may be running on habit, pressure or [identity]({{ 'identity/' | relative_url }}) borrowed from other people.
 
@@ -333,7 +333,7 @@ Ask:
 
 A “yes” suggests the goal is value-driven. A “no” suggests the goal may depend primarily on rewards, status, comparison or novelty.
 
-This third question resembles findings from research on autonomous motivation. People persist more effectively when they identify with the reason for the effort rather than relying solely on immediate outcomes. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://open.ncl.ac.uk/theories/20/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.ncl.ac.uk">[TheoryHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.ncl.ac.uk</span><span class="citation-popover-title">self determination theory</span><span class="citation-popover-snippet">TheoryHubSelf-Determination Theory: A review14 Mar 2026 — Integrated regulation is the most autonomous form of extrinsic motivation in SD...</span></span></span>
+This third question resembles findings from research on autonomous motivation. People persist more effectively when they identify with the reason for the effort rather than relying solely on immediate outcomes. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://open.ncl.ac.uk/theories/20/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.ncl.ac.uk">[TheoryHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.ncl.ac.uk</span><span class="citation-popover-title">self determination theory</span><span class="citation-popover-snippet">TheoryHubSelf-Determination Theory: A review14 Mar 2026 — Integrated regulation is the most autonomous form of extrinsic motivation in SD...</span></span></span>
 
 ## Examples for Health, Money, Study and Creative Practice
 
@@ -380,7 +380,7 @@ A stronger values link might be:
 
 > “I value mastery, competence and the ability to contribute useful knowledge.”
 
-Research on purpose and learning suggests that connecting tedious academic work to a larger personally meaningful reason can improve persistence on boring but important tasks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4288988/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">When the Going Gets Tough: The “Why” of Goal Striving Mattersby N Ntoumanis · 2013 · Cited by 166 — No prior research has examined how...</span></span></span>
+Research on purpose and learning suggests that connecting tedious academic work to a larger personally meaningful reason can improve persistence on boring but important tasks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4288988/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">When the Going Gets Tough: The “Why” of Goal Striving Mattersby N Ntoumanis · 2013 · Cited by 166 — No prior research has examined how...</span></span></span>
 
 A difficult revision session then becomes evidence of commitment to learning rather than merely a hurdle before an exam.
 
@@ -417,7 +417,7 @@ The goal makes sense only if success arrives quickly. Once progress slows, motiv
 
 **The identity mismatch.**
 
-The behaviour conflicts with what the person actually values. Research on self-concordance suggests that goals disconnected from authentic interests and values tend to generate less sustained engagement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Goal striving, need satisfaction, and longitudinal well-beingby KM Sheldon · 1999 · Cited by 4389 — The self-concordance of goals (...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Goal striving, need satisfaction, and longitudinal well-beingby KM Sheldon · 1999 · Cited by 4389 — The self-concordance of goals (...</span></span></span>
+The behaviour conflicts with what the person actually values. Research on self-concordance suggests that goals disconnected from authentic interests and values tend to generate less sustained engagement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Goal striving, need satisfaction, and longitudinal well-beingby KM Sheldon · 1999 · Cited by 4389 — The self-concordance of goals (...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Goal striving, need satisfaction, and longitudinal well-beingby KM Sheldon · 1999 · Cited by 4389 — The self-concordance of goals (...</span></span></span>
 
 **The slogan problem.**
 
@@ -448,194 +448,194 @@ For example:
 When the connection between behaviour and value is obvious, boredom loses some of its power. The routine may still feel ordinary, but it no longer feels arbitrary. Each repetition becomes a small piece of evidence that the value remains real, and that is often enough to keep a worthwhile goal moving long after the novelty has disappeared.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Three Questions That Strengthen a Goal. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Three Questions That Strengthen a Goal. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+7+Habits+of+Highly+Effective+People+by+Stephen+R.+Covey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The 7 Habits of Highly Effective People on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8HvdtAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The 7 Habits of Highly Effective People" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+7+Habits+of+Highly+Effective+People+by+Stephen+R.+Covey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The 7 Habits of Highly Effective People">The 7 Habits of Highly Effective People</a>
-        </h4>
-        <p class="fr-book-author">By Stephen R. Covey</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+7+Habits+of+Highly+Effective+People+by+Stephen+R.+Covey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The 7 Habits of Highly Effective People on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8HvdtAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The 7 Habits of Highly Effective People" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+7+Habits+of+Highly+Effective+People+by+Stephen+R.+Covey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The 7 Habits of Highly Effective People">The 7 Habits of Highly Effective People</a>
+</h4>
+<p class="fr-book-author">By Stephen R. Covey</p>
         
-        <p class="fr-book-desc">Strong emphasis on values-driven goals and personal principles.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+7+Habits+of+Highly+Effective+People+by+Stephen+R.+Covey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong emphasis on values-driven goals and personal principles.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+7+Habits+of+Highly+Effective+People+by+Stephen+R.+Covey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Links identity and values to repeatable behaviour.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Links identity and values to repeatable behaviour.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Happiness+Trap+by+Russ+Harris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Happiness Trap on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Q6wE1Z6FCtcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Happiness Trap" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Happiness+Trap+by+Russ+Harris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Happiness Trap">The Happiness Trap</a>
-        </h4>
-        <p class="fr-book-author">By Russ Harris</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Happiness+Trap+by+Russ+Harris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Happiness Trap on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Q6wE1Z6FCtcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Happiness Trap" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Happiness+Trap+by+Russ+Harris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Happiness Trap">The Happiness Trap</a>
+</h4>
+<p class="fr-book-author">By Russ Harris</p>
         
-        <p class="fr-book-desc">Centers on values-based action rather than feelings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Happiness+Trap+by+Russ+Harris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Centers on values-based action rather than feelings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Happiness+Trap+by+Russ+Harris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Essentialism+by+Greg+McKeown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Essentialism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=pK7PBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Essentialism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Essentialism+by+Greg+McKeown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Essentialism">Essentialism</a>
-        </h4>
-        <p class="fr-book-author">By Greg McKeown</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Essentialism+by+Greg+McKeown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Essentialism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=pK7PBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Essentialism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Essentialism+by+Greg+McKeown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Essentialism">Essentialism</a>
+</h4>
+<p class="fr-book-author">By Greg McKeown</p>
         
-        <p class="fr-book-desc">Helps align effort with what matters most.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Essentialism+by+Greg+McKeown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps align effort with what matters most.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Essentialism+by+Greg+McKeown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+7+Habits+of+Highly+Effective+People&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The 7 Habits of Highly Effective People</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Happiness+Trap&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Happiness Trap</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+7+Habits+of+Highly+Effective+People&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The 7 Habits of Highly Effective People</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Happiness+Trap&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Happiness Trap</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A5 Undated Daily Planner Pro Guided Journal Organization Productivity Goals Book"><img src="https://i.ebayimg.com/images/g/pc4AAOSwxQllyner/s-l225.jpg" alt="Listing image for A5 Undated Daily Planner Pro Guided Journal Organization Productivity Goals Book" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" target="_blank" rel="sponsored noopener noreferrer">A5 Undated Daily Planner Pro Guided Journal Organization Productivity Goals Book</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal planner">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal planner</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A5 Undated Daily Planner Pro Guided Journal Organization Productivity Goals Book"><img src="https://i.ebayimg.com/images/g/pc4AAOSwxQllyner/s-l225.jpg" alt="Listing image for A5 Undated Daily Planner Pro Guided Journal Organization Productivity Goals Book" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" target="_blank" rel="sponsored noopener noreferrer">A5 Undated Daily Planner Pro Guided Journal Organization Productivity Goals Book</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal planner">Search<span data-ebay-domain-label>eBay.co.uk</span>: goal planner</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weekly &amp; Monthly Life Planner | Goal Tracker &amp; Organizer Notebook | A5 Rose Gold"><img src="https://i.ebayimg.com/images/g/3LYAAeSwZIZqJAvw/s-l225.jpg" alt="Listing image for Weekly &amp; Monthly Life Planner | Goal Tracker &amp; Organizer Notebook | A5 Rose Gold" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" target="_blank" rel="sponsored noopener noreferrer">Weekly &amp; Monthly Life Planner | Goal Tracker &amp; Organizer Notebook | A5 Rose Gold</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal planner">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal planner</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weekly &amp; Monthly Life Planner | Goal Tracker &amp; Organizer Notebook | A5 Rose Gold"><img src="https://i.ebayimg.com/images/g/3LYAAeSwZIZqJAvw/s-l225.jpg" alt="Listing image for Weekly &amp; Monthly Life Planner | Goal Tracker &amp; Organizer Notebook | A5 Rose Gold" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" target="_blank" rel="sponsored noopener noreferrer">Weekly &amp; Monthly Life Planner | Goal Tracker &amp; Organizer Notebook | A5 Rose Gold</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal planner">Search<span data-ebay-domain-label>eBay.co.uk</span>: goal planner</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Goals Space Daily Planner 365 Productive Days, DAILY Productivity. Plan EVERYDAY"><img src="https://i.ebayimg.com/images/g/GFEAAeSwo9ZoEnwu/s-l225.jpg" alt="Listing image for Goals Space Daily Planner 365 Productive Days, DAILY Productivity. Plan EVERYDAY" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" target="_blank" rel="sponsored noopener noreferrer">Goals Space Daily Planner 365 Productive Days, DAILY Productivity. Plan EVERYDAY</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal planner">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal planner</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Goals Space Daily Planner 365 Productive Days, DAILY Productivity. Plan EVERYDAY"><img src="https://i.ebayimg.com/images/g/GFEAAeSwo9ZoEnwu/s-l225.jpg" alt="Listing image for Goals Space Daily Planner 365 Productive Days, DAILY Productivity. Plan EVERYDAY" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" target="_blank" rel="sponsored noopener noreferrer">Goals Space Daily Planner 365 Productive Days, DAILY Productivity. Plan EVERYDAY</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal planner">Search<span data-ebay-domain-label>eBay.co.uk</span>: goal planner</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PAPERCHASE GOAL PLANNER , 224 Pages, A5 SIZE, 100 GSM with 2 Book Marks"><img src="https://i.ebayimg.com/images/g/jqAAAeSwmpBpCOh1/s-l225.jpg" alt="Listing image for PAPERCHASE GOAL PLANNER , 224 Pages, A5 SIZE, 100 GSM with 2 Book Marks" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" target="_blank" rel="sponsored noopener noreferrer">PAPERCHASE GOAL PLANNER , 224 Pages, A5 SIZE, 100 GSM with 2 Book Marks</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal planner">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal planner</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PAPERCHASE GOAL PLANNER , 224 Pages, A5 SIZE, 100 GSM with 2 Book Marks"><img src="https://i.ebayimg.com/images/g/jqAAAeSwmpBpCOh1/s-l225.jpg" alt="Listing image for PAPERCHASE GOAL PLANNER , 224 Pages, A5 SIZE, 100 GSM with 2 Book Marks" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" target="_blank" rel="sponsored noopener noreferrer">PAPERCHASE GOAL PLANNER , 224 Pages, A5 SIZE, 100 GSM with 2 Book Marks</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal planner">Search<span data-ebay-domain-label>eBay.co.uk</span>: goal planner</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-three-questions-that-strengthen-a-goal-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="the-three-questions-that-strengthen-a-goal-goal-planner" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -651,7 +651,7 @@ When the connection between behaviour and value is obvious, boredom loses some o
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -671,7 +671,7 @@ When the connection between behaviour and value is obvious, boredom loses some o
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -703,7 +703,7 @@ When the connection between behaviour and value is obvious, boredom loses some o
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -755,7 +755,7 @@ When the connection between behaviour and value is obvious, boredom loses some o
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -800,7 +800,7 @@ When the connection between behaviour and value is obvious, boredom loses some o
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -841,177 +841,177 @@ When the connection between behaviour and value is obvious, boredom loses some o
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4288988/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4288988/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When the Going Gets Tough: The “Why” of Goal Striving Mattersby N Ntoumanis · 2013 · Cited by 166 — No prior research has examined how...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4288988/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4288988/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When the Going Gets Tough: The “Why” of Goal Striving Mattersby N Ntoumanis · 2013 · Cited by 166 — No prior research has examined how...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0191886916301477" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0191886916301477</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Some goals just feel easier: Self-concordance leads to...by KM Werner · 2016 · Cited by 210 — Research has found that pursuing self-conc...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0191886916301477" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0191886916301477</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Some goals just feel easier: Self-concordance leads to...by KM Werner · 2016 · Cited by 210 — Research has found that pursuing self-conc...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13076967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC13076967/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govSelf-Concordance Theory and the Goal-Striving Reasons...by C Ehrlich · 2024 · Cited by 5 — Self-concordance theory and the goal-s...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC13076967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC13076967/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govSelf-Concordance Theory and the Goal-Striving Reasons...by C Ehrlich · 2024 · Cited by 5 — Self-concordance theory and the goal-s...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: self.inc  
-   Link: <a href="https://www.self.inc/" target="_blank" rel="noopener noreferrer nofollow">https://www.self.inc/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Build Credit, Build Savings and Access CashBuild credit and savings with Self. The Credit Builder Account and Self Visa® Credit Ca...</p></details>
+   Link:<a href="https://www.self.inc/" target="_blank" rel="noopener noreferrer nofollow">https://www.self.inc/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Build Credit, Build Savings and Access CashBuild credit and savings with Self. The Credit Builder Account and Self Visa® Credit Ca...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/org/science/article/pii/S1462373021000158" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S1462373021000158</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Goal Self-Concordance Model: What Have We Learned...by P Wan · 2021 · Cited by 13 — The impacts of goal self-concordance on the willpowe...</p></details>
+   Link:<a href="https://www.sciencedirect.com/org/science/article/pii/S1462373021000158" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S1462373021000158</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goal Self-Concordance Model: What Have We Learned...by P Wan · 2021 · Cited by 13 — The impacts of goal self-concordance on the willpowe...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0092656618301168" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0092656618301168</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rightly crossing the Rubicon: Evaluating goal self...by KM Sheldon · 2019 · Cited by 60 — We conclude that considering one&#x27;s motivations...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0092656618301168" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0092656618301168</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rightly crossing the Rubicon: Evaluating goal self...by KM Sheldon · 2019 · Cited by 60 — We conclude that considering one&#x27;s motivations...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0191886914007569" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0191886914007569</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why do people set more self-concordant goals in need...by M Milyavskaya · 2015 · Cited by 35 — These needs are competence, autonomy, and...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0191886914007569" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0191886914007569</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why do people set more self-concordant goals in need...by M Milyavskaya · 2015 · Cited by 35 — These needs are competence, autonomy, and...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: self.it  
-   Link: <a href="https://www.self.it/" target="_blank" rel="noopener noreferrer nofollow">https://www.self.it/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self Distribuzione S.r.l.: HomeGeneri Musicali · Blues · Children s · Classical · Colonne Sonore · Compilation · Dance · Electronic · Fol...</p></details>
+   Link:<a href="https://www.self.it/" target="_blank" rel="noopener noreferrer nofollow">https://www.self.it/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self Distribuzione S.r.l.: HomeGeneri Musicali · Blues · Children s · Classical · Colonne Sonore · Compilation · Dance · Electronic · Fol...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Are You Driven by Purpose — or Running From Something?  
-   Link: <a href="https://www.youtube.com/watch?v=Nt8jr9XRnF0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Nt8jr9XRnF0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory Explained...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Nt8jr9XRnF0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Nt8jr9XRnF0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory Explained...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Self-Determination Theory Explained  
-   Link: <a href="https://www.youtube.com/watch?v=ZpAwJKq8TOc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZpAwJKq8TOc</a>  
+   Link:<a href="https://www.youtube.com/watch?v=ZpAwJKq8TOc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZpAwJKq8TOc</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/10101878/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Goal striving, need satisfaction, and longitudinal well-beingby KM Sheldon · 1999 · Cited by 4389 — The self-concordance of goals (...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/10101878/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goal striving, need satisfaction, and longitudinal well-beingby KM Sheldon · 1999 · Cited by 4389 — The self-concordance of goals (...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: selfdeterminationtheory.org  
-   Link: <a href="https://selfdeterminationtheory.org/SDT/documents/2008_KoestnerOtisPowesPelletierGagnon_JOP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/SDT/documents/2008_KoestnerOtisPowesPelletierGagnon_JOP.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self Determination TheoryAutonomous Motivation, Controlled Motivation, and Goal...by R Koestner · 2008 · Cited by 682 — Self-Determinati...</p></details>
+   Link:<a href="https://selfdeterminationtheory.org/SDT/documents/2008_KoestnerOtisPowesPelletierGagnon_JOP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/SDT/documents/2008_KoestnerOtisPowesPelletierGagnon_JOP.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self Determination TheoryAutonomous Motivation, Controlled Motivation, and Goal...by R Koestner · 2008 · Cited by 682 — Self-Determinati...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: open.ncl.ac.uk  
    Title: self determination theory  
-   Link: <a href="https://open.ncl.ac.uk/theories/20/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://open.ncl.ac.uk/theories/20/self-determination-theory/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TheoryHubSelf-Determination Theory: A review14 Mar 2026 — Integrated regulation is the most autonomous form of extrinsic motivation in SD...</p></details>
+   Link:<a href="https://open.ncl.ac.uk/theories/20/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://open.ncl.ac.uk/theories/20/self-determination-theory/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TheoryHubSelf-Determination Theory: A review14 Mar 2026 — Integrated regulation is the most autonomous form of extrinsic motivation in SD...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/24981515/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24981515/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Becoming oneself: the central role of self-concordant goal...by KM Sheldon · 2014 · Cited by 398 — This article suggests that self...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/24981515/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24981515/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Becoming oneself: the central role of self-concordant goal...by KM Sheldon · 2014 · Cited by 398 — This article suggests that self...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: selfdeterminationtheory.org  
    Title: 1999 SheldonElliot  
-   Link: <a href="https://selfdeterminationtheory.org/SDT/documents/1999_SheldonElliot.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/SDT/documents/1999_SheldonElliot.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Goal Striving, Need Satisfaction, and Longitudinal Well-Beingby KM Sheldon · 1999 · Cited by 4266 — Brunstein (1993) found [support](&amp;#123;&amp;#123; &#x27;support/&#x27; | relative_url &amp;#125;&amp;#125;) for th...</p></details>
+   Link:<a href="https://selfdeterminationtheory.org/SDT/documents/1999_SheldonElliot.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/SDT/documents/1999_SheldonElliot.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goal Striving, Need Satisfaction, and Longitudinal Well-Beingby KM Sheldon · 1999 · Cited by 4266 — Brunstein (1993) found [support](&amp;#123;&amp;#123; &#x27;support/&#x27; | relative_url &amp;#125;&amp;#125;) for th...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: selfdeterminationtheory.org  
    Title: 2023 RyanDuineveldDiDomenicoEtAl Meta 1  
-   Link: <a href="https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2023_RyanDuineveldDiDomenicoEtAl_Meta-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2023_RyanDuineveldDiDomenicoEtAl_Meta-1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>meta-analytic findings within self-determination theoryby RM Ryan · 2022 · Cited by 410 — We conclude by discussing the importance of bro...</p></details>
+   Link:<a href="https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2023_RyanDuineveldDiDomenicoEtAl_Meta-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2023_RyanDuineveldDiDomenicoEtAl_Meta-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>meta-analytic findings within self-determination theoryby RM Ryan · 2022 · Cited by 410 — We conclude by discussing the importance of bro...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: selfdeterminationtheory.org  
    Title: 2002 KoestnerLekesPowersChicoine JPSP  
-   Link: <a href="https://www.selfdeterminationtheory.org/SDT/documents/2002_KoestnerLekesPowersChicoine_JPSP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.selfdeterminationtheory.org/SDT/documents/2002_KoestnerLekesPowersChicoine_JPSP.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Attaining Personal Goals: Self-Concordance Plus...by R Koestner · 2002 · Cited by 892 — The present article includes separate meta-analy...</p></details>
+   Link:<a href="https://www.selfdeterminationtheory.org/SDT/documents/2002_KoestnerLekesPowersChicoine_JPSP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.selfdeterminationtheory.org/SDT/documents/2002_KoestnerLekesPowersChicoine_JPSP.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Attaining Personal Goals: Self-Concordance Plus...by R Koestner · 2002 · Cited by 892 — The present article includes separate meta-analy...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: selfdeterminationtheory.org  
-   Link: <a href="https://selfdeterminationtheory.org/wp-content/uploads/2016/03/Some-goals-just-feel-easier-Self-concordance-leads-to-goal-progress-through-subjective-ease-not-effor.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2016/03/Some-goals-just-feel-easier-Self-concordance-leads-to-goal-progress-through-subjective-ease-not-effor.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Some goals just feel easierby KM Werner · 2016 · Cited by 208 — As such, self-concordance is typically calculated by combining the averag...</p></details>
+   Link:<a href="https://selfdeterminationtheory.org/wp-content/uploads/2016/03/Some-goals-just-feel-easier-Self-concordance-leads-to-goal-progress-through-subjective-ease-not-effor.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2016/03/Some-goals-just-feel-easier-Self-concordance-leads-to-goal-progress-through-subjective-ease-not-effor.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Some goals just feel easierby KM Werner · 2016 · Cited by 208 — As such, self-concordance is typically calculated by combining the averag...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: selfdeterminationtheory.org  
-   Link: <a href="https://selfdeterminationtheory.org/authors/kennon-sheldon/" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/authors/kennon-sheldon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kennon SheldonGoal motives, approach/avoidance appraisals, psychological needs, and well-being: A systematic review and meta-AnalysisRead...</p></details>
+   Link:<a href="https://selfdeterminationtheory.org/authors/kennon-sheldon/" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/authors/kennon-sheldon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kennon SheldonGoal motives, approach/avoidance appraisals, psychological needs, and well-being: A systematic review and meta-AnalysisRead...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/12088128/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12088128/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govself-concordance plus implementation intentions equals...by R Koestner · 2002 · Cited by 899 — The article also reports a meta-an...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/12088128/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12088128/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govself-concordance plus implementation intentions equals...by R Koestner · 2002 · Cited by 899 — The article also reports a meta-an...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: self-pa.net  
-   Link: <a href="https://www.self-pa.net/" target="_blank" rel="noopener noreferrer nofollow">https://www.self-pa.net/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SELFIl Sistema di E-Learning Federato per la Pubblica Amministrazione dell&#x27;Emilia-Romagna organizza un ciclo di webinar rivolti ai format...</p></details>
+   Link:<a href="https://www.self-pa.net/" target="_blank" rel="noopener noreferrer nofollow">https://www.self-pa.net/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SELFIl Sistema di E-Learning Federato per la Pubblica Amministrazione dell&#x27;Emilia-Romagna organizza un ciclo di webinar rivolti ai format...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Self" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Self</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SelfIn philosophy, the self is an individual&#x27;s own being, knowledge, and values, and the relationship between these attributes. The fi...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Self" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Self</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SelfIn philosophy, the self is an individual&#x27;s own being, knowledge, and values, and the relationship between these attributes. The fi...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SelfTuttoIlMondoDelFaiDaTe/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SelfTuttoIlMondoDelFaiDaTe/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tutto il Mondo del Fai da TeSelf - Tutto il Mondo del Fai da Te · Oggi sono 45 anni della nostra storia. · Da oggi, per essere sempre agg...</p></details>
+   Link:<a href="https://www.facebook.com/SelfTuttoIlMondoDelFaiDaTe/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SelfTuttoIlMondoDelFaiDaTe/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tutto il Mondo del Fai da TeSelf - Tutto il Mondo del Fai da Te · Oggi sono 45 anni della nostra storia. · Da oggi, per essere sempre agg...</p></details>
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: farmaself.it  
-   Link: <a href="https://www.farmaself.it/?srsltid=AfmBOoreEdFalNi4FowG-x7O8aNETQMZEYmIpGxynrYBV8wodb9mLImf" target="_blank" rel="noopener noreferrer nofollow">https://www.farmaself.it/?srsltid=AfmBOoreEdFalNi4FowG-x7O8aNETQMZEYmIpGxynrYBV8wodb9mLImf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Farmacia Online, Parafarmaci e CosmesiCerchi una farmacia online? Farmaself fa al caso tuo: scopri tutti i farmaci, para-farma...</p></details>
+   Link:<a href="https://www.farmaself.it/?srsltid=AfmBOoreEdFalNi4FowG-x7O8aNETQMZEYmIpGxynrYBV8wodb9mLImf" target="_blank" rel="noopener noreferrer nofollow">https://www.farmaself.it/?srsltid=AfmBOoreEdFalNi4FowG-x7O8aNETQMZEYmIpGxynrYBV8wodb9mLImf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Farmacia Online, Parafarmaci e CosmesiCerchi una farmacia online? Farmaself fa al caso tuo: scopri tutti i farmaci, para-farma...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: bricofer.it  
-   Link: <a href="https://www.bricofer.it/storesearch/aosta-self/?srsltid=AfmBOoq8Wiz0zAtXvIIB41L2-TjbTENgiGbl93sfPtdwO53alIFTiCfd" target="_blank" rel="noopener noreferrer nofollow">https://www.bricofer.it/storesearch/aosta-self/?srsltid=AfmBOoq8Wiz0zAtXvIIB41L2-TjbTENgiGbl93sfPtdwO53alIFTiCfd</a>  
+   Link:<a href="https://www.bricofer.it/storesearch/aosta-self/?srsltid=AfmBOoq8Wiz0zAtXvIIB41L2-TjbTENgiGbl93sfPtdwO53alIFTiCfd" target="_blank" rel="noopener noreferrer nofollow">https://www.bricofer.it/storesearch/aosta-self/?srsltid=AfmBOoq8Wiz0zAtXvIIB41L2-TjbTENgiGbl93sfPtdwO53alIFTiCfd</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/self" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/self</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SELF Definition &amp; Meaning1. a (1): an individual&#x27;s typical character or behavior her true self was revealed (2): an individual&#x27;s tempor...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/self" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/self</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SELF Definition &amp; Meaning1. a (1): an individual&#x27;s typical character or behavior her true self was revealed (2): an individual&#x27;s tempor...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/683276802/Becoming-Oneself-The-Central-Role-of-Self-Concordant-Goal-Selection" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/683276802/Becoming-Oneself-The-Central-Role-of-Self-Concordant-Goal-Selection</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Concordant Goals and Well-Being | PDF | MotivationalThis document discusses the concept of self-concordant goal selection, which ref...</p></details>
+   Link:<a href="https://www.scribd.com/document/683276802/Becoming-Oneself-The-Central-Role-of-Self-Concordant-Goal-Selection" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/683276802/Becoming-Oneself-The-Central-Role-of-Self-Concordant-Goal-Selection</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Concordant Goals and Well-Being | PDF | MotivationalThis document discusses the concept of self-concordant goal selection, which ref...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: radar.brookes.ac.uk  
-   Link: <a href="https://radar.brookes.ac.uk/radar/file/03b30c01-cbb3-4837-a4b2-d68050e26fd0/1/ehrlich-et-al-2024-self-concordance-theory-and-the-goal-striving-reasons-framework-and-their-distinct-relationships.pdf" target="_blank" rel="noopener noreferrer nofollow">https://radar.brookes.ac.uk/radar/file/03b30c01-cbb3-4837-a4b2-d68050e26fd0/1/ehrlich-et-al-2024-self-concordance-theory-and-the-goal-striving-reasons-framework-and-their-distinct-relationships.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-concordance theory and the goal-striving reasons framework both measure the quality of people&#x27;s reasons for their goal pursuits.Read...</p></details>
+   Link:<a href="https://radar.brookes.ac.uk/radar/file/03b30c01-cbb3-4837-a4b2-d68050e26fd0/1/ehrlich-et-al-2024-self-concordance-theory-and-the-goal-striving-reasons-framework-and-their-distinct-relationships.pdf" target="_blank" rel="noopener noreferrer nofollow">https://radar.brookes.ac.uk/radar/file/03b30c01-cbb3-4837-a4b2-d68050e26fd0/1/ehrlich-et-al-2024-self-concordance-theory-and-the-goal-striving-reasons-framework-and-their-distinct-relationships.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-concordance theory and the goal-striving reasons framework both measure the quality of people&#x27;s reasons for their goal pursuits.Read...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: researchgate.net  
    Title: 23173293 Autonomous Motivation Controlled Motivation and Goal Progress  
-   Link: <a href="https://www.researchgate.net/publication/23173293_Autonomous_Motivation_Controlled_Motivation_and_Goal_Progress" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/23173293_Autonomous_Motivation_Controlled_Motivation_and_Goal_Progress</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous Motivation, Controlled Motivation, and Goal...Consistent with self-concordance theory (Sheldon &amp; Elliot, 1999), research on m...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/23173293_Autonomous_Motivation_Controlled_Motivation_and_Goal_Progress" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/23173293_Autonomous_Motivation_Controlled_Motivation_and_Goal_Progress</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomous Motivation, Controlled Motivation, and Goal...Consistent with self-concordance theory (Sheldon &amp; Elliot, 1999), research on m...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: selfthebrand.com  
    Title: Join a vibrant community embracing individuality  
-   Link: <a href="https://selfthebrand.com/" target="_blank" rel="noopener noreferrer nofollow">https://selfthebrand.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self the brand: Luxury &amp; confidence for your everyday life...Self: luxurious yet accessible, empowering rebellious girls with comfy, eff...</p></details>
+   Link:<a href="https://selfthebrand.com/" target="_blank" rel="noopener noreferrer nofollow">https://selfthebrand.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self the brand: Luxury &amp; confidence for your everyday life...Self: luxurious yet accessible, empowering rebellious girls with comfy, eff...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: techscience.com  
-   Link: <a href="https://www.techscience.com/IJMHP/v23n2/42430/html" target="_blank" rel="noopener noreferrer nofollow">https://www.techscience.com/IJMHP/v23n2/42430/html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>interests and core values in one&#x27;s implicit personality as organic...</p></details>
+   Link:<a href="https://www.techscience.com/IJMHP/v23n2/42430/html" target="_blank" rel="noopener noreferrer nofollow">https://www.techscience.com/IJMHP/v23n2/42430/html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>interests and core values in one&#x27;s implicit personality as organic...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: journals.sagepub.com  
    Title: Where Do Self-Concordant Goals Come From?  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/0146167214524445" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0146167214524445</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Role...We propose that self-concordant goals are pursued in those domains that satisfy the basic psychological needs for autonomy, c...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/0146167214524445" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0146167214524445</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Role...We propose that self-concordant goals are pursued in those domains that satisfy the basic psychological needs for autonomy, c...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: repository.londonmet.ac.uk  
    Title: Main Manuscript 2 REVISION 1  
-   Link: <a href="https://repository.londonmet.ac.uk/9535/3/Main_Manuscript_2_REVISION_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.londonmet.ac.uk/9535/3/Main_Manuscript_2_REVISION_1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>londonmet.ac.ukSelf-Concordance Theory and the Goal-Striving Reasons...by C Ehrlich · 2024 · Cited by 5 — This paper aims to contribute...</p></details>
+   Link:<a href="https://repository.londonmet.ac.uk/9535/3/Main_Manuscript_2_REVISION_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.londonmet.ac.uk/9535/3/Main_Manuscript_2_REVISION_1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>londonmet.ac.ukSelf-Concordance Theory and the Goal-Striving Reasons...by C Ehrlich · 2024 · Cited by 5 — This paper aims to contribute...</p></details>

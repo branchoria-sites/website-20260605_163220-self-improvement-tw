@@ -277,7 +277,7 @@ image: /assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_repeate
 A common mistake in self-improvement is treating repeated failure as proof that more effort is needed. In many cases, the opposite is true. When the same goal has failed three or four times in roughly the same way, the most useful question is no longer “How can I try harder?” but “What am I unable to see?”
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_repeated_failed_goal_c1b2e1-Illustration-1-dark.svg" | relative_url }}" alt="Repeat failure illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_repeated_failed_goal_c1b2e1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_repeated_failed_goal_c1b2e1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Repeated failure is often a diagnostic signal. It suggests that the obstacle is not a temporary lack of [motivation]({{ 'motivation/' | relative_url }}) but a hidden bottleneck in skills, planning, [environment]({{ 'environment/' | relative_url }}), habits, emotional regulation, health, or decision-making. Research on goal pursuit consistently shows that good intentions alone do not reliably produce action and that feedback is essential for correcting the gap between goals and behaviour. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span>
+Repeated failure is often a diagnostic signal. It suggests that the obstacle is not a temporary lack of [motivation]({{ 'motivation/' | relative_url }}) but a hidden bottleneck in skills, planning, [environment]({{ 'environment/' | relative_url }}), habits, emotional regulation, health, or decision-making. Research on goal pursuit consistently shows that good intentions alone do not reliably produce action and that feedback is essential for correcting the gap between goals and behaviour. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span>
 
 This is where coaches, therapists and other experts become valuable. Their role is not to supply motivation that has somehow gone missing. Their role is to identify the mechanism that keeps producing the same failure.
 
@@ -289,7 +289,7 @@ Repeated failure is different because it creates a pattern.
 
 If someone repeatedly decides to exercise and repeatedly stops after two weeks, the issue is unlikely to be the stated goal. Something in the system consistently breaks. If someone repeatedly promises to stop procrastinating but always stalls when work becomes ambiguous, the bottleneck may be task definition rather than discipline. If a person repeatedly attempts to improve sleep but abandons the effort after stressful periods, anxiety or emotional overload may be the hidden factor.
 
-Behaviour-change research often describes a gap between intentions and actions. People can genuinely want a result and still fail to execute consistently because planning, environmental cues, habits, emotional responses and competing motivations interfere with goal pursuit. Implementation-intention research shows that translating goals into specific [action plans]({{ 'action-plans/' | relative_url }}) can improve follow-through precisely because intentions alone are frequently insufficient. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span> ResearchGate The important clue is repetition. When the same breakdown occurs at the same stage <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Implementation Intentions and Goal AchievementThis review analyzes whether realization of goal intentions is facilitate...</span></span></span>, the failure is no longer random. It becomes information.
+Behaviour-change research often describes a gap between intentions and actions. People can genuinely want a result and still fail to execute consistently because planning, environmental cues, habits, emotional responses and competing motivations interfere with goal pursuit. Implementation-intention research shows that translating goals into specific [action plans]({{ 'action-plans/' | relative_url }}) can improve follow-through precisely because intentions alone are frequently insufficient.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span> ResearchGate The important clue is repetition. When the same breakdown occurs at the same stage<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Implementation Intentions and Goal AchievementThis review analyzes whether realization of goal intentions is facilitate...</span></span></span>, the failure is no longer random. It becomes information.
 
 Typical examples include:
 
@@ -312,7 +312,7 @@ The repeated outcome suggests that the current explanation is incomplete. More e
 
 Many self-improvement cultures treat persistence as the answer to every setback. Persistence matters, but it is most effective when directed at the correct problem.
 
-Research on habits and [behaviour change]({{ 'behaviour-change/' | relative_url }}) suggests that long-term behaviour is heavily influenced by automatic routines, environmental cues and learned responses rather than moment-by-moment effort. Habit-based behaviour can continue even when motivation fluctuates, while motivation-dependent systems often collapse under stress, fatigue or competing demands. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://openresearch.surrey.ac.uk/esploro/outputs/bookChapter/Habit-Formation-and-Behavior-Change/99648862902346" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openresearch.surrey.ac.uk">[Open Research Surrey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openresearch.surrey.ac.uk</span><span class="citation-popover-title">Open Research Surrey Habit Formation and Behavior Change</span><span class="citation-popover-snippet">Open Research SurreyHabit Formation and Behavior Change - University of Surreyby AL Rebar · 2019 · Cited by 415 — It has been argued that...</span></span></span>
+Research on habits and [behaviour change]({{ 'behaviour-change/' | relative_url }}) suggests that long-term behaviour is heavily influenced by automatic routines, environmental cues and learned responses rather than moment-by-moment effort. Habit-based behaviour can continue even when motivation fluctuates, while motivation-dependent systems often collapse under stress, fatigue or competing demands. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://openresearch.surrey.ac.uk/esploro/outputs/bookChapter/Habit-Formation-and-Behavior-Change/99648862902346" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openresearch.surrey.ac.uk">[Open Research Surrey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openresearch.surrey.ac.uk</span><span class="citation-popover-title">Open Research Surrey Habit Formation and Behavior Change</span><span class="citation-popover-snippet">Open Research SurreyHabit Formation and Behavior Change - University of Surreyby AL Rebar · 2019 · Cited by 415 — It has been argued that...</span></span></span>
 
 This helps explain why repeated failures can survive multiple bursts of determination.
 
@@ -330,7 +330,7 @@ Someone may repeatedly renew their commitment, buy new tools, make fresh promise
 
 </div>
 
-Research on goal failure also shows that repeated failure can damage self-perception. People may begin to interpret failure as evidence that they lack ability or character rather than treating it as [feedback]({{ 'feedback/' | relative_url }}) about the system they are using. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.704790/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersGoal Missed, Self Hit: Goal-Setting, Goal-Failure, and Their...September 21, 2021 — by J Höpfner · 2021 · Cited by 104 — Failin...</span><span class="citation-popover-meta">Published: September 21, 2021</span></span></span>
+Research on goal failure also shows that repeated failure can damage self-perception. People may begin to interpret failure as evidence that they lack ability or character rather than treating it as [feedback]({{ 'feedback/' | relative_url }}) about the system they are using.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.704790/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersGoal Missed, Self Hit: Goal-Setting, Goal-Failure, and Their...September 21, 2021 — by J Höpfner · 2021 · Cited by 104 — Failin...</span><span class="citation-popover-meta">Published: September 21, 2021</span></span></span>
 
 At that point, simply pushing harder can worsen the problem because the person is reinforcing discouragement instead of generating new information.
 
@@ -353,7 +353,7 @@ Someone repeatedly avoids important work. Productivity systems fail. A therapist
 
 **The planning problem mistaken for a character flaw.**
 
-A person repeatedly abandons exercise programmes. A coach discovers that every plan depends on ideal conditions and contains no recovery strategy for interruptions. The issue is plan design. Research on implementation intentions and coping plans suggests that specifying responses to predictable obstacles improves execution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment39</span><span class="citation-popover-snippet">Cambridge University Press &amp; Assessment39 - Planning and Implementation Intention InterventionsThis chapter provides resources and best-p...</span></span></span> University Press & Assessment <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span>
+A person repeatedly abandons exercise programmes. A coach discovers that every plan depends on ideal conditions and contains no recovery strategy for interruptions. The issue is plan design. Research on implementation intentions and coping plans suggests that specifying responses to predictable obstacles improves execution.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment39</span><span class="citation-popover-snippet">Cambridge University Press &amp; Assessment39 - Planning and Implementation Intention InterventionsThis chapter provides resources and best-p...</span></span></span> University Press & Assessment<span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span>
 
 **The health problem mistaken for poor discipline.**
 
@@ -382,7 +382,7 @@ A practical rule is to pay attention when:
 
 The reason this threshold matters is that repeated attempts generate enough data to reveal a pattern. Before that point, there may not be enough information to identify the bottleneck. After that point, continuing without feedback often means collecting the same evidence repeatedly.
 
-Control-theory approaches to coaching emphasise the role of feedback loops. Goals create standards, behaviour generates outcomes, and feedback helps people adjust. When adjustment never occurs because the person cannot correctly interpret the feedback, external input becomes increasingly valuable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Implementation Intentions and Goal AchievementThis review analyzes whether realization of goal intentions is facilitate...</span></span></span>
+Control-theory approaches to coaching emphasise the role of feedback loops. Goals create standards, behaviour generates outcomes, and feedback helps people adjust. When adjustment never occurs because the person cannot correctly interpret the feedback, external input becomes increasingly valuable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) Implementation Intentions and Goal AchievementThis review analyzes whether realization of goal intentions is facilitate...</span></span></span>
 
 The question is not whether failure occurred. The question is whether the failures are teaching you something new.
 
@@ -419,201 +419,201 @@ Instead of saying, “I failed to maintain the habit again,” the review become
 
 The next attempt is then an experiment rather than a repetition.
 
-Research on goal attainment and planning repeatedly finds that successful behaviour change often depends on refining the path between intention and action rather than strengthening intention itself. Specific action plans, obstacle planning and targeted feedback improve the likelihood that goals survive real-world conditions. Taylor & Francis Online 3ResearchGate <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span>
+Research on goal attainment and planning repeatedly finds that successful behaviour change often depends on refining the path between intention and action rather than strengthening intention itself. Specific action plans, obstacle planning and targeted feedback improve the likelihood that goals survive real-world conditions. Taylor & Francis Online 3ResearchGate<span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span>
 
 The practical value of outside help is therefore not that it rescues people from failure. It helps them stop running the same failed experiment. When the same goal keeps collapsing in the same place, expert feedback can identify the bottleneck, redesign the approach and convert repetition from a cycle of frustration into a source of useful evidence.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BtKN4y-59Ic" title="EXPOSING The Hesitator Mindset (And How You Can Finally Break Free)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BtKN4y-59Ic" target="_blank" rel="noopener noreferrer">EXPOSING The Hesitator Mindset (And How You Can Finally Break Free)</a></p><p class="youtube-embed-meta">Channel: Therapy Tips &middot; Views: 744 &middot; Uploaded: July 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BtKN4y-59Ic" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BtKN4y-59Ic">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Repeating the Same Goal Means Get Help. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Repeating the Same Goal Means Get Help. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Helps diagnose system failures behind repeated goal failure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Helps diagnose system failures behind repeated goal failure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
-        </h4>
-        <p class="fr-book-author">By B. J. Fogg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
+</h4>
+<p class="fr-book-author">By B. J. Fogg</p>
         
-        <p class="fr-book-desc">Shows how to redesign goals into workable actions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how to redesign goals into workable actions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Carol S. Dweck</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
-        <p class="fr-book-desc">Frames feedback as a tool for growth rather than judgment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
+</h4>
+<p class="fr-book-author">By Carol S. Dweck</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
+<p class="fr-book-desc">Frames feedback as a tool for growth rather than judgment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Obstacle+is+the+Way+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Obstacle is the Way on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WOf7mAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Obstacle is the Way" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Obstacle+is+the+Way+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Obstacle is the Way">The Obstacle is the Way</a>
-        </h4>
-        <p class="fr-book-author">By Ryan Holiday</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Obstacle+is+the+Way+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Obstacle is the Way on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WOf7mAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Obstacle is the Way" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Obstacle+is+the+Way+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Obstacle is the Way">The Obstacle is the Way</a>
+</h4>
+<p class="fr-book-author">By Ryan Holiday</p>
         
-        <p class="fr-book-desc">Encourages learning from repeated setbacks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Obstacle+is+the+Way+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages learning from repeated setbacks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Obstacle+is+the+Way+by+Ryan+Holiday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Undated A5 Productivity Planner - 90-Day Goal Tracker for Personal Growth"><img src="https://i.ebayimg.com/images/g/3a8AAeSwW2BqKy8X/s-l225.jpg" alt="Listing image for Undated A5 Productivity Planner - 90-Day Goal Tracker for Personal Growth" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" target="_blank" rel="sponsored noopener noreferrer">Undated A5 Productivity Planner - 90-Day Goal Tracker for Personal Growth</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal planner">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal planner</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Undated A5 Productivity Planner - 90-Day Goal Tracker for Personal Growth"><img src="https://i.ebayimg.com/images/g/3a8AAeSwW2BqKy8X/s-l225.jpg" alt="Listing image for Undated A5 Productivity Planner - 90-Day Goal Tracker for Personal Growth" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" target="_blank" rel="sponsored noopener noreferrer">Undated A5 Productivity Planner - 90-Day Goal Tracker for Personal Growth</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal planner">Search<span data-ebay-domain-label>eBay.co.uk</span>: goal planner</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DAILY/HOURLY Planner - Timetable, To Do List And Priorities. Set Goals and Memo"><img src="https://i.ebayimg.com/images/g/t-0AAeSwlDtouCzP/s-l225.jpg" alt="Listing image for DAILY/HOURLY Planner - Timetable, To Do List And Priorities. Set Goals and Memo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" target="_blank" rel="sponsored noopener noreferrer">DAILY/HOURLY Planner - Timetable, To Do List And Priorities. Set Goals and Memo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal planner">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal planner</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DAILY/HOURLY Planner - Timetable, To Do List And Priorities. Set Goals and Memo"><img src="https://i.ebayimg.com/images/g/t-0AAeSwlDtouCzP/s-l225.jpg" alt="Listing image for DAILY/HOURLY Planner - Timetable, To Do List And Priorities. Set Goals and Memo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" target="_blank" rel="sponsored noopener noreferrer">DAILY/HOURLY Planner - Timetable, To Do List And Priorities. Set Goals and Memo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal planner">Search<span data-ebay-domain-label>eBay.co.uk</span>: goal planner</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Yop &amp; Tom Undated Goal Planner Power of 3 The Weekly Productivity Planner"><img src="https://i.ebayimg.com/images/g/8BgAAeSwtIppUrJ8/s-l225.jpg" alt="Listing image for Yop &amp; Tom Undated Goal Planner Power of 3 The Weekly Productivity Planner" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" target="_blank" rel="sponsored noopener noreferrer">Yop &amp; Tom Undated Goal Planner Power of 3 The Weekly Productivity Planner</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal planner">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal planner</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Yop &amp; Tom Undated Goal Planner Power of 3 The Weekly Productivity Planner"><img src="https://i.ebayimg.com/images/g/8BgAAeSwtIppUrJ8/s-l225.jpg" alt="Listing image for Yop &amp; Tom Undated Goal Planner Power of 3 The Weekly Productivity Planner" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" target="_blank" rel="sponsored noopener noreferrer">Yop &amp; Tom Undated Goal Planner Power of 3 The Weekly Productivity Planner</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal planner">Search<span data-ebay-domain-label>eBay.co.uk</span>: goal planner</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Botanical 12 page habit tracker lifestyle goals planner with wall hanging hook"><img src="https://i.ebayimg.com/images/g/ogYAAeSwQW9p7oHN/s-l225.jpg" alt="Listing image for Botanical 12 page habit tracker lifestyle goals planner with wall hanging hook" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" target="_blank" rel="sponsored noopener noreferrer">Botanical 12 page habit tracker lifestyle goals planner with wall hanging hook</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal planner">Search <span data-ebay-domain-label>eBay.co.uk</span>: goal planner</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Botanical 12 page habit tracker lifestyle goals planner with wall hanging hook"><img src="https://i.ebayimg.com/images/g/ogYAAeSwQW9p7oHN/s-l225.jpg" alt="Listing image for Botanical 12 page habit tracker lifestyle goals planner with wall hanging hook" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" target="_blank" rel="sponsored noopener noreferrer">Botanical 12 page habit tracker lifestyle goals planner with wall hanging hook</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goal planner">Search<span data-ebay-domain-label>eBay.co.uk</span>: goal planner</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=goal+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-repeating-the-same-goal-means-get-help-goal-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="goal planner" data-ebay-reference="when-repeating-the-same-goal-means-get-help-goal-planner" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -629,7 +629,7 @@ The practical value of outside help is therefore not that it rescues people from
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -649,7 +649,7 @@ The practical value of outside help is therefore not that it rescues people from
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -681,7 +681,7 @@ The practical value of outside help is therefore not that it rescues people from
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -733,7 +733,7 @@ The practical value of outside help is therefore not that it rescues people from
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -778,7 +778,7 @@ The practical value of outside help is therefore not that it rescues people from
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -819,132 +819,132 @@ The practical value of outside help is therefore not that it rescues people from
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6796229/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6796229/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Goal Setting and Action Planning for Health Behavior Changeby RR Bailey · 2017 · Cited by 408 — If one sets a performance goal to lose...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6796229/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6796229/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goal Setting and Action Planning for Health Behavior Changeby RR Bailey · 2017 · Cited by 408 — If one sets a performance goal to lose...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cancercontrol.cancer.gov  
-   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</p></details>
+   Link:<a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Implementation Intentions and Goal AchievementThis review analyzes whether realization of goal intentions is facilitate...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Implementation Intentions and Goal AchievementThis review analyzes whether realization of goal intentions is facilitate...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cambridge.org  
    Title: University Press & Assessment39  
-   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment39 - Planning and Implementation Intention InterventionsThis chapter provides resources and best-p...</p></details>
+   Link:<a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/planning-and-implementation-intention-interventions/E1C8DA422E9BA21E7D2C4881A04898D0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment39 - Planning and Implementation Intention InterventionsThis chapter provides resources and best-p...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 896 — Psychological theory and evide...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 896 — Psychological theory and evide...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/232566619_GOALS_FEEDBACK_AND_SELF-REGULATION_CONTROL_THEORY_AS_A_NATURAL_FRAMEWORK_FOR_EXECUTIVE_COACHING" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232566619_GOALS_FEEDBACK_AND_SELF-REGULATION_CONTROL_THEORY_AS_A_NATURAL_FRAMEWORK_FOR_EXECUTIVE_COACHING</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>goals, feedback, and self-regulation: control theory as a...March 1, 2011 — 7 Sept 2016 — The current paper seeks to contrib...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/232566619_GOALS_FEEDBACK_AND_SELF-REGULATION_CONTROL_THEORY_AS_A_NATURAL_FRAMEWORK_FOR_EXECUTIVE_COACHING" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232566619_GOALS_FEEDBACK_AND_SELF-REGULATION_CONTROL_THEORY_AS_A_NATURAL_FRAMEWORK_FOR_EXECUTIVE_COACHING</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>goals, feedback, and self-regulation: control theory as a...March 1, 2011 — 7 Sept 2016 — The current paper seeks to contrib...</p></details>
    Published: March 1, 2011  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
    Title: (PDF) FACILITATING SUCCESSFUL BEHAVIOR CHANGE  
-   Link: <a href="https://www.researchgate.net/publication/316174359_FACILITATING_SUCCESSFUL_BEHAVIOR_CHANGE_BEYOND_GOAL_SETTING_TO_GOAL_FLOURISHING" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/316174359_FACILITATING_SUCCESSFUL_BEHAVIOR_CHANGE_BEYOND_GOAL_SETTING_TO_GOAL_FLOURISHING</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>change level of their clients to avoid potential derailment or outright. failure. How Long Does It Take for New Habits to Form? One impor...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/316174359_FACILITATING_SUCCESSFUL_BEHAVIOR_CHANGE_BEYOND_GOAL_SETTING_TO_GOAL_FLOURISHING" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/316174359_FACILITATING_SUCCESSFUL_BEHAVIOR_CHANGE_BEYOND_GOAL_SETTING_TO_GOAL_FLOURISHING</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>change level of their clients to avoid potential derailment or outright. failure. How Long Does It Take for New Habits to Form? One impor...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
    Title: 290193001 Implementation Intentions  
-   Link: <a href="https://www.researchgate.net/publication/290193001_Implementation_Intentions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/290193001_Implementation_Intentions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Implementation Intentions12 Jan 2016 — Implementation intentions have been used extensively to promote health behaviour change. Res...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/290193001_Implementation_Intentions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/290193001_Implementation_Intentions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Implementation Intentions12 Jan 2016 — Implementation intentions have been used extensively to promote health behaviour change. Res...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/232586066_Implementation_Intentions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232586066_Implementation_Intentions</a>  
+   Link:<a href="https://www.researchgate.net/publication/232586066_Implementation_Intentions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232586066_Implementation_Intentions</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/215540657_The_differential_effects_of_solution-focused_and_problem-focused_coaching_questions_A_pilot_study_with_implications_for_practice" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/215540657_The_differential_effects_of_solution-focused_and_problem-focused_coaching_questions_A_pilot_study_with_implications_for_practice</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ocused and solution-focused coaching questions by means of a literature overview.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/215540657_The_differential_effects_of_solution-focused_and_problem-focused_coaching_questions_A_pilot_study_with_implications_for_practice" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/215540657_The_differential_effects_of_solution-focused_and_problem-focused_coaching_questions_A_pilot_study_with_implications_for_practice</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ocused and solution-focused coaching questions by means of a literature overview.Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/49832449_Breaking_Habits_With_Implementation_Intentions_A_Test_of_Underlying_Processes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/49832449_Breaking_Habits_With_Implementation_Intentions_A_Test_of_Underlying_Processes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Breaking Habits With Implementation IntentionsImplementation intentions specifying the replacement of a habitual response with an a...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/49832449_Breaking_Habits_With_Implementation_Intentions_A_Test_of_Underlying_Processes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/49832449_Breaking_Habits_With_Implementation_Intentions_A_Test_of_Underlying_Processes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Breaking Habits With Implementation IntentionsImplementation intentions specifying the replacement of a habitual response with an a...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: openresearch.surrey.ac.uk  
    Title: Open Research Surrey Habit Formation and Behavior Change  
-   Link: <a href="https://openresearch.surrey.ac.uk/esploro/outputs/bookChapter/Habit-Formation-and-Behavior-Change/99648862902346" target="_blank" rel="noopener noreferrer nofollow">https://openresearch.surrey.ac.uk/esploro/outputs/bookChapter/Habit-Formation-and-Behavior-Change/99648862902346</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Open Research SurreyHabit Formation and Behavior Change - University of Surreyby AL Rebar · 2019 · Cited by 415 — It has been argued that...</p></details>
+   Link:<a href="https://openresearch.surrey.ac.uk/esploro/outputs/bookChapter/Habit-Formation-and-Behavior-Change/99648862902346" target="_blank" rel="noopener noreferrer nofollow">https://openresearch.surrey.ac.uk/esploro/outputs/bookChapter/Habit-Formation-and-Behavior-Change/99648862902346</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Open Research SurreyHabit Formation and Behavior Change - University of Surreyby AL Rebar · 2019 · Cited by 415 — It has been argued that...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.704790/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.704790/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersGoal Missed, Self Hit: Goal-Setting, Goal-Failure, and Their...September 21, 2021 — by J Höpfner · 2021 · Cited by 104 — Failin...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.704790/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.704790/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersGoal Missed, Self Hit: Goal-Setting, Goal-Failure, and Their...September 21, 2021 — by J Höpfner · 2021 · Cited by 104 — Failin...</p></details>
    Published: September 21, 2021  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1832021/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1832021/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Extensive empirical research confirms positive effects across...Read more...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1832021/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1832021/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Extensive empirical research confirms positive effects across...Read more...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pedocs.de  
-   Link: <a href="https://www.pedocs.de/volltexte/2026/35156/pdf/Educ_Psychol_2026_Theobald_u.a._how_much_do_people_revise_their_goals_after_success_and_failure.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pedocs.de/volltexte/2026/35156/pdf/Educ_Psychol_2026_Theobald_u.a._how_much_do_people_revise_their_goals_after_success_and_failure.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How (much) do people revise their goals after success and...by M Theobald · 2025 · Cited by 7 — Revising one&#x27;s goal in response to feedb...</p></details>
+   Link:<a href="https://www.pedocs.de/volltexte/2026/35156/pdf/Educ_Psychol_2026_Theobald_u.a._how_much_do_people_revise_their_goals_after_success_and_failure.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.pedocs.de/volltexte/2026/35156/pdf/Educ_Psychol_2026_Theobald_u.a._how_much_do_people_revise_their_goals_after_success_and_failure.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How (much) do people revise their goals after success and...by M Theobald · 2025 · Cited by 7 — Revising one&#x27;s goal in response to feedb...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: discovery.ucl.ac.uk  
-   Link: <a href="https://discovery.ucl.ac.uk/10139326/9/Lally_Developing%20habit%20based%20health%20behaviour%20change%20interventions%20twenty%20one%20questions%20to%20guide%20future%20research.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/10139326/9/Lally_Developing%20habit%20based%20health%20behaviour%20change%20interventions%20twenty%20one%20questions%20to%20guide%20future%20research.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>habit-based health behaviour change interventionsby B Gardner · 2021 · Cited by 157 — Yet, many behaviour change interventions have only...</p></details>
+   Link:<a href="https://discovery.ucl.ac.uk/10139326/9/Lally_Developing%20habit%20based%20health%20behaviour%20change%20interventions%20twenty%20one%20questions%20to%20guide%20future%20research.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/10139326/9/Lally_Developing%20habit%20based%20health%20behaviour%20change%20interventions%20twenty%20one%20questions%20to%20guide%20future%20research.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>habit-based health behaviour change interventionsby B Gardner · 2021 · Cited by 157 — Yet, many behaviour change interventions have only...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: sk.sagepub.com  
-   Link: <a href="https://sk.sagepub.com/book/mono/work-motivation-2e/chpt/cognition-goals-feedback-selfregulation" target="_blank" rel="noopener noreferrer nofollow">https://sk.sagepub.com/book/mono/work-motivation-2e/chpt/cognition-goals-feedback-selfregulation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The increase in performance over time increases more in the presence rather than the absence of feedback...Read more...</p></details>
+   Link:<a href="https://sk.sagepub.com/book/mono/work-motivation-2e/chpt/cognition-goals-feedback-selfregulation" target="_blank" rel="noopener noreferrer nofollow">https://sk.sagepub.com/book/mono/work-motivation-2e/chpt/cognition-goals-feedback-selfregulation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The increase in performance over time increases more in the presence rather than the absence of feedback...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: eprints.gla.ac.uk  
    Title: Enlighten Publications Can a simple plan change a complex behavior?  
-   Link: <a href="https://eprints.gla.ac.uk/289340/1/289340.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.gla.ac.uk/289340/1/289340.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by A Rodger · 2023 · Cited by 24 — Implementation intentions provide a potential, pragmatic solution to reduce the intention-behavior gap...</p></details>
+   Link:<a href="https://eprints.gla.ac.uk/289340/1/289340.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.gla.ac.uk/289340/1/289340.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by A Rodger · 2023 · Cited by 24 — Implementation intentions provide a potential, pragmatic solution to reduce the intention-behavior gap...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: globalrph.com  
-   Link: <a href="https://globalrph.com/2026/04/the-science-of-habit-formation-how-to-rewire-your-brain-for-change/" target="_blank" rel="noopener noreferrer nofollow">https://globalrph.com/2026/04/the-science-of-habit-formation-how-to-rewire-your-brain-for-change/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lying habit formation and explores evidence-based strategies for behavioral change.Read more...</p></details>
+   Link:<a href="https://globalrph.com/2026/04/the-science-of-habit-formation-how-to-rewire-your-brain-for-change/" target="_blank" rel="noopener noreferrer nofollow">https://globalrph.com/2026/04/the-science-of-habit-formation-how-to-rewire-your-brain-for-change/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lying habit formation and explores evidence-based strategies for behavioral change.Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/39685110/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/39685110/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to Form a Habit: A Systematic Review and Meta...by B Singh · 2024 · Cited by 95 — This systematic review aims to explore the time requir...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/39685110/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/39685110/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to Form a Habit: A Systematic Review and Meta...by B Singh · 2024 · Cited by 95 — This systematic review aims to explore the time requir...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: annualreviews.org  
    Title: Does changing behavioral intentions engender behavior change?Read more  
-   Link: <a href="https://www.annualreviews.org/docserver/fulltext/psych/73/1/annurev-psych-020821-011744.pdf?accname=guest&amp;checksum=25BC0568471D2B3B1729FC0D8A37C3FC&amp;expires=1734081569&amp;id=id" target="_blank" rel="noopener noreferrer nofollow">https://www.annualreviews.org/docserver/fulltext/psych/73/1/annurev-psych-020821-011744.pdf?accname=guest&amp;checksum=25BC0568471D2B3B1729FC0D8A37C3FC&amp;expires=1734081569&amp;id=id</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Attitudes, Habits, and Behavior Change4 Jan 2022 — Breaking habits with implementation intentions: a test of underlying processes...</p></details>
+   Link:<a href="https://www.annualreviews.org/docserver/fulltext/psych/73/1/annurev-psych-020821-011744.pdf?accname=guest&amp;checksum=25BC0568471D2B3B1729FC0D8A37C3FC&amp;expires=1734081569&amp;id=id" target="_blank" rel="noopener noreferrer nofollow">https://www.annualreviews.org/docserver/fulltext/psych/73/1/annurev-psych-020821-011744.pdf?accname=guest&amp;checksum=25BC0568471D2B3B1729FC0D8A37C3FC&amp;expires=1734081569&amp;id=id</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Attitudes, Habits, and Behavior Change4 Jan 2022 — Breaking habits with implementation intentions: a test of underlying processes...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: coachtrainingedu.com  
-   Link: <a href="https://www.coachtrainingedu.com/blog/facilitating-successful-behavior-change-beyond-goal-setting-to-goal-flourishing/" target="_blank" rel="noopener noreferrer nofollow">https://www.coachtrainingedu.com/blog/facilitating-successful-behavior-change-beyond-goal-setting-to-goal-flourishing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Facilitating Successful Behavior Change: Beyond Goal...16 Jul 2021 — How backup plans can harm goal pursuit: The unexpected downside of...</p></details>
+   Link:<a href="https://www.coachtrainingedu.com/blog/facilitating-successful-behavior-change-beyond-goal-setting-to-goal-flourishing/" target="_blank" rel="noopener noreferrer nofollow">https://www.coachtrainingedu.com/blog/facilitating-successful-behavior-change-beyond-goal-setting-to-goal-flourishing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Facilitating Successful Behavior Change: Beyond Goal...16 Jul 2021 — How backup plans can harm goal pursuit: The unexpected downside of...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: business.columbia.edu  
    Title: Success Failure Feedback  
-   Link: <a href="https://business.columbia.edu/sites/default/files-efs/pubfiles/535/Success-Failure_Feedback.pdf" target="_blank" rel="noopener noreferrer nofollow">https://business.columbia.edu/sites/default/files-efs/pubfiles/535/Success-Failure_Feedback.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>columbia.eduSuccess/Failure Feedback, Expectancies, and Approach...by J Förster · Cited by 521 — There is evidence that regulatory focus...</p></details>
+   Link:<a href="https://business.columbia.edu/sites/default/files-efs/pubfiles/535/Success-Failure_Feedback.pdf" target="_blank" rel="noopener noreferrer nofollow">https://business.columbia.edu/sites/default/files-efs/pubfiles/535/Success-Failure_Feedback.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>columbia.eduSuccess/Failure Feedback, Expectancies, and Approach...by J Förster · Cited by 521 — There is evidence that regulatory focus...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineDeveloping habit-based health behaviour change...by B Gardner · 2023 · Cited by 157 — Theory suggests that making...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/08870446.2021.2003362</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineDeveloping habit-based health behaviour change...by B Gardner · 2023 · Cited by 157 — Theory suggests that making...</p></details>

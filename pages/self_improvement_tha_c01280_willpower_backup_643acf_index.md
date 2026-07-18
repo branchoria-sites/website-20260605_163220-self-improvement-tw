@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /self-improvement-tha-c01280-willpower/
 description: Focused pages that expand on Willpower.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: self_improvement_tha_c01280_willpower_backup_643acf
 parent_title: Willpower
@@ -16,7 +16,7 @@ parent_permalink: /willpower/
 
 # Explore Topics in Willpower
 
-The following pages expand on the main **[Willpower]({{ '/willpower/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Willpower]({{ '/willpower/' | relative_url }})** page and cover its key branches in.
 
 - [Better Defaults]({{ '/better-defaults/' | relative_url }})
 - [Depletion Debate]({{ '/depletion-debate/' | relative_url }})

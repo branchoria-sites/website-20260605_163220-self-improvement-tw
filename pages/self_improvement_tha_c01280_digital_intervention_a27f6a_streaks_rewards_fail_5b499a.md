@@ -274,7 +274,7 @@ image: /assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_st
 
 ## Introduction
 
-Streaks, badges, levels and progress bars are among the most common features in self-improvement apps because they make progress visible. Used well, they can increase repetition, strengthen routines and provide a satisfying sense of momentum. Used badly, they can turn one missed day into a perceived failure and shift attention from the behaviour itself to protecting a number on a screen. Research on gamification and habit formation suggests that [rewards]({{ 'rewards/' | relative_url }}) can support [behaviour change]({{ 'behaviour-change/' | relative_url }}), but their effects depend heavily on how they are designed and what they encourage people to value. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S074756321630855X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">How gamification motivates: An experimental study of the...by M Sailer · 2017 · Cited by 3419 — Our results show that badge...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S074756321630855X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">How gamification motivates: An experimental study of the...by M Sailer · 2017 · Cited by 3419 — Our results show that badge...</span></span></span>
+Streaks, badges, levels and progress bars are among the most common features in self-improvement apps because they make progress visible. Used well, they can increase repetition, strengthen routines and provide a satisfying sense of momentum. Used badly, they can turn one missed day into a perceived failure and shift attention from the behaviour itself to protecting a number on a screen. Research on gamification and habit formation suggests that [rewards]({{ 'rewards/' | relative_url }}) can support [behaviour change]({{ 'behaviour-change/' | relative_url }}), but their effects depend heavily on how they are designed and what they encourage people to value.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S074756321630855X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">How gamification motivates: An experimental study of the...by M Sailer · 2017 · Cited by 3419 — Our results show that badge...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S074756321630855X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">How gamification motivates: An experimental study of the...by M Sailer · 2017 · Cited by 3419 — Our results show that badge...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_streaks_rewards_fail_5b499a-Illustration-1-dark.svg" | relative_url }}" alt="Streaks illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_streaks_rewards_fail_5b499a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_streaks_rewards_fail_5b499a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The key question is not whether streaks work. They often do. The more important question is whether they help people return after an interruption. Real life includes illness, travel, family [emergencies]({{ 'emergencies/' | relative_url }}) and simple forgetfulness. A reward system that only works under perfect conditions may increase engagement for a while but can undermine long-term self-improvement.
@@ -283,7 +283,7 @@ The key question is not whether streaks work. They often do. The more important 
 
 Progress indicators work because they provide immediate evidence that effort is accumulating. Many worthwhile behaviours—exercise, language learning, reading, [saving]({{ 'saving/' | relative_url }}) money—produce benefits slowly. A progress bar, badge or streak count creates a shorter [feedback]({{ 'feedback/' | relative_url }}) loop.
 
-Research on gamification has found that elements such as badges, performance graphs and visible progress can increase feelings of competence and make tasks feel more meaningful. Rather than [motivation]({{ 'motivation/' | relative_url }}) appearing from nowhere, these features help people see that their actions are having an effect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S074756321630855X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">How gamification motivates: An experimental study of the...by M Sailer · 2017 · Cited by 3419 — Our results show that badge...</span></span></span>
+Research on gamification has found that elements such as badges, performance graphs and visible progress can increase feelings of competence and make tasks feel more meaningful. Rather than [motivation]({{ 'motivation/' | relative_url }}) appearing from nowhere, these features help people see that their actions are having an effect.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S074756321630855X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">How gamification motivates: An experimental study of the...by M Sailer · 2017 · Cited by 3419 — Our results show that badge...</span></span></span>
 
 Several mechanisms are at work:
 
@@ -292,23 +292,23 @@ Several mechanisms are at work:
 * **Visible progress reduces uncertainty.** People can see that they are moving forward rather than relying on memory or feelings.
 * **Consistency becomes rewarding.** Repetition itself gains value because each action contributes to a growing record.
 * **Small actions feel significant.** One lesson, one walk or one page read contributes to a larger pattern.
-* **Identity becomes easier to maintain.** A streak can reinforce the feeling of being “someone who does this regularly”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8037535/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">of Gamification on Behavioral Change in Educationby J Kim · 2021 · Cited by 333 — The following gamification elements were examined withi...</span></span></span>
+* **Identity becomes easier to maintain.** A streak can reinforce the feeling of being “someone who does this regularly”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8037535/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">of Gamification on Behavioral Change in Educationby J Kim · 2021 · Cited by 333 — The following gamification elements were examined withi...</span></span></span>
 
 </div>
 
-This is one reason why apps such as Duolingo have invested heavily in streaks, progress indicators and achievement systems. The goal is not merely to entertain users but to increase the likelihood that they return tomorrow. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.duolingo.com/how-duolingo-streak-builds-habit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.duolingo.com">[Duolingo Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.duolingo.com</span><span class="citation-popover-title">how duolingo streak builds habit</span><span class="citation-popover-snippet">Duolingo BlogThe habit-building research behind your Duolingo streak31 Jan 2022 — The Duolingo streak was designed with habit-building in...</span></span></span>
+This is one reason why apps such as Duolingo have invested heavily in streaks, progress indicators and achievement systems. The goal is not merely to entertain users but to increase the likelihood that they return tomorrow.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.duolingo.com/how-duolingo-streak-builds-habit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.duolingo.com">[Duolingo Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.duolingo.com</span><span class="citation-popover-title">how duolingo streak builds habit</span><span class="citation-popover-snippet">Duolingo BlogThe habit-building research behind your Duolingo streak31 Jan 2022 — The Duolingo streak was designed with habit-building in...</span></span></span>
 
-Importantly, the motivational effect does not come from a streak alone. Research on gamification repeatedly finds that different game-like elements influence different psychological needs. Progress indicators are most useful when they help people feel competent and capable rather than merely monitored. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S074756321630855X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">How gamification motivates: An experimental study of the...by M Sailer · 2017 · Cited by 3419 — Our results show that badge...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0747563221002867" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Revealing the theoretical basis of gamificationby J Krath · 2021 · Cited by 1566 — We identified 118 theories in the areas o...</span></span></span>
+Importantly, the motivational effect does not come from a streak alone. Research on gamification repeatedly finds that different game-like elements influence different psychological needs. Progress indicators are most useful when they help people feel competent and capable rather than merely monitored.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S074756321630855X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">How gamification motivates: An experimental study of the...by M Sailer · 2017 · Cited by 3419 — Our results show that badge...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0747563221002867" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Revealing the theoretical basis of gamificationby J Krath · 2021 · Cited by 1566 — We identified 118 theories in the areas o...</span></span></span>
 
 ## How streaks can backfire
 
 The same feature that encourages consistency can also create fragility.
 
-A streak transforms behaviour into an all-or-nothing sequence. As the number grows, people often become motivated not only by the underlying goal but by the desire to avoid losing the streak itself. Behavioural researchers describe this as a form of loss aversion: losing something feels more painful than gaining an equivalent amount feels rewarding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologytoday.com/gb/blog/ulterior-motives/202306/how-broken-streaks-sap-motivation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">how broken streaks sap motivation</span><span class="citation-popover-snippet">Psychology TodayHow Broken Streaks Sap Motivation12 Jun 2023 — Keeping up a streak can be motivating above and beyond the task itself. Br...</span></span></span>
+A streak transforms behaviour into an all-or-nothing sequence. As the number grows, people often become motivated not only by the underlying goal but by the desire to avoid losing the streak itself. Behavioural researchers describe this as a form of loss aversion: losing something feels more painful than gaining an equivalent amount feels rewarding.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologytoday.com/gb/blog/ulterior-motives/202306/how-broken-streaks-sap-motivation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">how broken streaks sap motivation</span><span class="citation-popover-snippet">Psychology TodayHow Broken Streaks Sap Motivation12 Jun 2023 — Keeping up a streak can be motivating above and beyond the task itself. Br...</span></span></span>
 
 This creates a paradox. A person who has exercised for 120 days has built a strong behavioural record, yet one missed day can make them feel as though they have failed completely.
 
-Studies of streak-based behaviour show both benefits and risks. Research on running streaks found that consecutive-day goals can strengthen commitment and habit formation, but participants also described pressure, obligation and identity concerns linked to maintaining the streak. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11494719/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Qualitative study examining streaking as a behaviour change...by M Curran · 2024 · Cited by 6 — The aim of the study is to examine &#x27;r...</span></span></span>
+Studies of streak-based behaviour show both benefits and risks. Research on running streaks found that consecutive-day goals can strengthen commitment and habit formation, but participants also described pressure, obligation and identity concerns linked to maintaining the streak.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11494719/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Qualitative study examining streaking as a behaviour change...by M Curran · 2024 · Cited by 6 — The aim of the study is to examine &#x27;r...</span></span></span>
 
 Several common failure patterns emerge:
 
@@ -318,13 +318,13 @@ Several common failure patterns emerge:
 
 The original purpose may be learning a language, exercising or writing regularly. Over time, preserving the streak can become more important than achieving meaningful progress.
 
-Research examining gamification misuse in learning environments found that some users become overly focused on points, badges and competitive mechanics, distracting them from the learning objective itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2402.00121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Research examining gamification misuse in learning environments found that some users become overly focused on points, badges and competitive mechanics, distracting them from the learning objective itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2402.00121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 A language learner may complete the quickest possible lesson to preserve a streak while learning very little. An exerciser may perform a token workout solely to keep a counter alive.
 
 ### The “I ruined it anyway” effect
 
-Broken streaks often create a disproportionate emotional response. Psychological research suggests that streak interruptions can reduce motivation in the short term, even when the interruption has little practical impact on long-term progress. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologytoday.com/gb/blog/ulterior-motives/202306/how-broken-streaks-sap-motivation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">how broken streaks sap motivation</span><span class="citation-popover-snippet">Psychology TodayHow Broken Streaks Sap Motivation12 Jun 2023 — Keeping up a streak can be motivating above and beyond the task itself. Br...</span></span></span>
+Broken streaks often create a disproportionate emotional response. Psychological research suggests that streak interruptions can reduce motivation in the short term, even when the interruption has little practical impact on long-term progress.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologytoday.com/gb/blog/ulterior-motives/202306/how-broken-streaks-sap-motivation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">how broken streaks sap motivation</span><span class="citation-popover-snippet">Psychology TodayHow Broken Streaks Sap Motivation12 Jun 2023 — Keeping up a streak can be motivating above and beyond the task itself. Br...</span></span></span>
 
 This can trigger a familiar pattern:
 
@@ -332,7 +332,7 @@ This can trigger a familiar pattern:
 
 1. A person maintains a streak.
 2. They miss one day.
-3. The streak resets to zero. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40milanicreative/the-art-of-sustainable-progress-why-habit-tracking-your-streaks-is-killing-your-motivation-46db12933e3f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[medium.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+3. The streak resets to zero.<span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40milanicreative/the-art-of-sustainable-progress-why-habit-tracking-your-streaks-is-killing-your-motivation-46db12933e3f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[medium.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 4. The reset feels like losing months of effort.
 5. They stop altogether.
 
@@ -343,13 +343,13 @@ The behavioural damage comes not from missing the day but from how the missed da
 <img src="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_streaks_rewards_fail_5b499a-Illustration-2-dark.svg" | relative_url }}" alt="Streaks illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_streaks_rewards_fail_5b499a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_streaks_rewards_fail_5b499a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Obsession and anxiety
 
-Long streaks can create pressure. Journalistic reporting and qualitative research have documented cases where users continue behaviours primarily to avoid losing a streak, even after [enjoyment]({{ 'enjoyment/' | relative_url }}) or value has diminished. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/lifeandstyle/article/2024/sep/08/streak-daily-ritual-can-enrich-your-life-or-become-unhealthy-obsession" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Don&#x27;t break the streak!</span><span class="citation-popover-snippet">How a daily ritual can enrich your life - or become an unhealthy obsessionThe article examines the concept of &quot;streaks&quot;—consistent, unbro...</span></span></span>
+Long streaks can create pressure. Journalistic reporting and qualitative research have documented cases where users continue behaviours primarily to avoid losing a streak, even after [enjoyment]({{ 'enjoyment/' | relative_url }}) or value has diminished.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/lifeandstyle/article/2024/sep/08/streak-daily-ritual-can-enrich-your-life-or-become-unhealthy-obsession" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Don&#x27;t break the streak!</span><span class="citation-popover-snippet">How a daily ritual can enrich your life - or become an unhealthy obsessionThe article examines the concept of &quot;streaks&quot;—consistent, unbro...</span></span></span>
 
 At that point, the reward system is no longer supporting the behaviour. The behaviour is serving the reward system.
 
 ### Behaviour distortion
 
-Evidence from online platforms suggests that streak counters can influence behaviour in unexpected ways. When GitHub removed public streak indicators, some streak-oriented activity patterns declined, indicating that users had been altering behaviour to maintain visible streaks rather than purely for productive reasons. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2402.00121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Evidence from online platforms suggests that streak counters can influence behaviour in unexpected ways. When GitHub removed public streak indicators, some streak-oriented activity patterns declined, indicating that users had been altering behaviour to maintain visible streaks rather than purely for productive reasons.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2402.00121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The lesson is not that streaks are harmful. It is that people adapt to whatever is measured. If the metric becomes more important than the outcome, behaviour can drift away from the original goal.
 
@@ -373,14 +373,14 @@ This shifts attention from failure to recovery, which is often a more important 
 
 A person who exercises on 27 of the last 30 days is doing extremely well, regardless of whether those days were consecutive.
 
-Percentage-based tracking captures consistency without making a single missed day erase visible progress. Several designers and behaviour-change researchers have proposed adherence rates, heat maps and rolling averages as alternatives that preserve motivation while reducing all-or-nothing thinking. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.professorgame.com/podcast/423/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: professorgame.com">[Professor Game]</a><span class="citation-popover" role="note"><span class="citation-popover-source">professorgame.com</span><span class="citation-popover-snippet">Professor GameWhy streaks backfire and what works &#124; Ep 42314 Dec 2025 — Examining why streak mechanics (borrowed from Duolingo and medita...</span></span></span>
+Percentage-based tracking captures consistency without making a single missed day erase visible progress. Several designers and behaviour-change researchers have proposed adherence rates, heat maps and rolling averages as alternatives that preserve motivation while reducing all-or-nothing thinking.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.professorgame.com/podcast/423/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: professorgame.com">[Professor Game]</a><span class="citation-popover" role="note"><span class="citation-popover-source">professorgame.com</span><span class="citation-popover-snippet">Professor GameWhy streaks backfire and what works &#124; Ep 42314 Dec 2025 — Examining why streak mechanics (borrowed from Duolingo and medita...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_streaks_rewards_fail_5b499a-Illustration-3-dark.svg" | relative_url }}" alt="Streaks illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_streaks_rewards_fail_5b499a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_streaks_rewards_fail_5b499a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Build in grace periods
 
 Many successful systems now include mechanisms that acknowledge unavoidable interruptions.
 
-Features such as “streak freezes” recognise that missing one day does not erase the habit that has already been established. Duolingo's implementation is a well-known example of this approach. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.duolingo.com/how-duolingo-streak-builds-habit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.duolingo.com">[Duolingo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.duolingo.com</span><span class="citation-popover-title">how duolingo streak builds habit</span><span class="citation-popover-snippet">Duolingo BlogThe habit-building research behind your Duolingo streak31 Jan 2022 — The Duolingo streak was designed with habit-building in...</span></span></span>
+Features such as “streak freezes” recognise that missing one day does not erase the habit that has already been established. Duolingo's implementation is a well-known example of this approach.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.duolingo.com/how-duolingo-streak-builds-habit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.duolingo.com">[Duolingo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.duolingo.com</span><span class="citation-popover-title">how duolingo streak builds habit</span><span class="citation-popover-snippet">Duolingo BlogThe habit-building research behind your Duolingo streak31 Jan 2022 — The Duolingo streak was designed with habit-building in...</span></span></span>
 
 The underlying behavioural insight is simple: habits are patterns, not perfect records.
 
@@ -390,7 +390,7 @@ Rewards work best when they reinforce the target behaviour rather than mere app 
 
 A reading app might reward books completed rather than consecutive log-ins. A fitness app might highlight improvements in strength, endurance or training volume rather than only counting days.
 
-Research on motivation suggests that gamification is most effective when it supports feelings of competence, autonomy and genuine progress instead of relying solely on external rewards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S074756321630855X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">How gamification motivates: An experimental study of the...by M Sailer · 2017 · Cited by 3419 — Our results show that badge...</span></span></span> 2arXiv
+Research on motivation suggests that gamification is most effective when it supports feelings of competence, autonomy and genuine progress instead of relying solely on external rewards.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S074756321630855X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">How gamification motivates: An experimental study of the...by M Sailer · 2017 · Cited by 3419 — Our results show that badge...</span></span></span> 2arXiv
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1fNDnfJxAFE" title="You’re Using Streaks Wrong – Here’s What Actually Works" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1fNDnfJxAFE" target="_blank" rel="noopener noreferrer">You’re Using Streaks Wrong – Here’s What Actually Works</a></p><p class="youtube-embed-meta">Channel: Professor Game &middot; Views: 14 &middot; Uploaded: December 2025 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1fNDnfJxAFE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1fNDnfJxAFE">Open on YouTube</a></p></div></div></div>
 
@@ -400,7 +400,7 @@ One practical way to reduce streak fragility is to define success very broadly.
 
 A daily writing habit might require one sentence rather than five hundred words. A reading habit might require one page. A fitness habit might require five minutes of movement.
 
-When the threshold is small, interruptions become less likely and recovery becomes easier. This preserves the behavioural identity without creating excessive pressure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://habit-streak.com/en/blog/habit-tracking/why-streaks-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: habit-streak.com">[Habit Streak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">habit-streak.com</span><span class="citation-popover-title">why streaks work</span><span class="citation-popover-snippet">Phillippa Lally&#x27;s research found that missing a single day had no measurable effect on habit formation.Read more...</span></span></span>
+When the threshold is small, interruptions become less likely and recovery becomes easier. This preserves the behavioural identity without creating excessive pressure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://habit-streak.com/en/blog/habit-tracking/why-streaks-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: habit-streak.com">[Habit Streak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">habit-streak.com</span><span class="citation-popover-title">why streaks work</span><span class="citation-popover-snippet">Phillippa Lally&#x27;s research found that missing a single day had no measurable effect on habit formation.Read more...</span></span></span>
 
 ## The most useful question to ask of any streak
 
@@ -408,272 +408,272 @@ The value of a streak is not whether it produces a large number. The value is wh
 
 A good reward system makes progress visible, celebrates effort and provides momentum. A poor reward system convinces people that one missed day wipes out months of success.
 
-For self-improvement that works, the most robust design is usually not the one that demands perfection. It is the one that makes restarting feel normal. Streaks can be powerful motivational tools, but they are most effective when they measure persistence without turning ordinary interruptions into reasons to quit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8037535/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">of Gamification on Behavioral Change in Educationby J Kim · 2021 · Cited by 333 — The following gamification elements were examined withi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psychologytoday.com/gb/blog/ulterior-motives/202306/how-broken-streaks-sap-motivation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">how broken streaks sap motivation</span><span class="citation-popover-snippet">Psychology TodayHow Broken Streaks Sap Motivation12 Jun 2023 — Keeping up a streak can be motivating above and beyond the task itself. Br...</span></span></span>
+For self-improvement that works, the most robust design is usually not the one that demands perfection. It is the one that makes restarting feel normal. Streaks can be powerful motivational tools, but they are most effective when they measure persistence without turning ordinary interruptions into reasons to quit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8037535/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">of Gamification on Behavioral Change in Educationby J Kim · 2021 · Cited by 333 — The following gamification elements were examined withi...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psychologytoday.com/gb/blog/ulterior-motives/202306/how-broken-streaks-sap-motivation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">how broken streaks sap motivation</span><span class="citation-popover-snippet">Psychology TodayHow Broken Streaks Sap Motivation12 Jun 2023 — Keeping up a streak can be motivating above and beyond the task itself. Br...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Do streaks motivate or set you up to quit?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Do streaks motivate or set you up to quit?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Explains feedback loops, rewards, identity, and recovering after missed days.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Explains feedback loops, rewards, identity, and recovering after missed days.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
-        </h4>
-        <p class="fr-book-author">By B. J. Fogg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
+</h4>
+<p class="fr-book-author">By B. J. Fogg</p>
         
-        <p class="fr-book-desc">Focuses on sustainable habits rather than fragile streak maintenance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on sustainable habits rather than fragile streak maintenance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hooked on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=R42aBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Hooked" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hooked">Hooked</a>
-        </h4>
-        <p class="fr-book-author">By Nir Eyal</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hooked on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=R42aBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Hooked" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hooked">Hooked</a>
+</h4>
+<p class="fr-book-author">By Nir Eyal</p>
         
-        <p class="fr-book-desc">Explains reward loops, engagement mechanics, and habit-forming product design.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains reward loops, engagement mechanics, and habit-forming product design.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
-        </h4>
-        <p class="fr-book-author">By Charles Duhigg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
+</h4>
+<p class="fr-book-author">By Charles Duhigg</p>
         
-        <p class="fr-book-desc">Covers cue-routine-reward cycles underlying gamified behavior systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers cue-routine-reward cycles underlying gamified behavior systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hooked&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hooked</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hooked&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hooked</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar 12‑Month Undated Daily Weekly Monthly Goal Planner A4"><img src="{{ '/assets/images/marketplace-covers/7954881b4b2556a6a539.jpg' | relative_url }}" alt="Listing image for Habit Tracker Calendar 12‑Month Undated Daily Weekly Monthly Goal Planner A4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar 12‑Month Undated Daily Weekly Monthly Goal Planner A4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar 12‑Month Undated Daily Weekly Monthly Goal Planner A4"><img src="{{ '/assets/images/marketplace-covers/7954881b4b2556a6a539.jpg' | relative_url }}" alt="Listing image for Habit Tracker Calendar 12‑Month Undated Daily Weekly Monthly Goal Planner A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar 12‑Month Undated Daily Weekly Monthly Goal Planner A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Undated Calendar The Motivational Journal Features Space for 20..."><img src="{{ '/assets/images/marketplace-covers/74cc77b1c46199d403d5.jpg' | relative_url }}" alt="Listing image for Habit Tracker Undated Calendar The Motivational Journal Features Space for 20..." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Undated Calendar The Motivational Journal Features Space for 20...</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Undated Calendar The Motivational Journal Features Space for 20..."><img src="{{ '/assets/images/marketplace-covers/74cc77b1c46199d403d5.jpg' | relative_url }}" alt="Listing image for Habit Tracker Undated Calendar The Motivational Journal Features Space for 20..." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Undated Calendar The Motivational Journal Features Space for 20...</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,..."><img src="{{ '/assets/images/marketplace-covers/f52bec22c2fa875efffc.jpg' | relative_url }}" alt="Listing image for Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,..." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,...</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,..."><img src="{{ '/assets/images/marketplace-covers/f52bec22c2fa875efffc.jpg' | relative_url }}" alt="Listing image for Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,..." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,...</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar 2026 Motivational Journal Inspirational Goal Pl"><img src="{{ '/assets/images/marketplace-covers/3600932120a919340b81.jpg' | relative_url }}" alt="Listing image for Habit Tracker Calendar 2026 Motivational Journal Inspirational Goal Pl" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar 2026 Motivational Journal Inspirational Goal Pl</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar 2026 Motivational Journal Inspirational Goal Pl"><img src="{{ '/assets/images/marketplace-covers/3600932120a919340b81.jpg' | relative_url }}" alt="Listing image for Habit Tracker Calendar 2026 Motivational Journal Inspirational Goal Pl" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar 2026 Motivational Journal Inspirational Goal Pl</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-78cd9d-do-streaks-motivate-or-set-you-up-to-quit-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -689,7 +689,7 @@ For self-improvement that works, the most robust design is usually not the one t
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -709,7 +709,7 @@ For self-improvement that works, the most robust design is usually not the one t
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -741,7 +741,7 @@ For self-improvement that works, the most robust design is usually not the one t
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -771,7 +771,7 @@ For self-improvement that works, the most robust design is usually not the one t
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -829,210 +829,210 @@ For self-improvement that works, the most robust design is usually not the one t
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S074756321630855X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S074756321630855X</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How gamification motivates: An experimental study of the...by M Sailer · 2017 · Cited by 3419 — Our results show that badge...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S074756321630855X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S074756321630855X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How gamification motivates: An experimental study of the...by M Sailer · 2017 · Cited by 3419 — Our results show that badge...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0747563221002867" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0747563221002867</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Revealing the theoretical basis of gamificationby J Krath · 2021 · Cited by 1566 — We identified 118 theories in the areas o...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0747563221002867" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0747563221002867</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Revealing the theoretical basis of gamificationby J Krath · 2021 · Cited by 1566 — We identified 118 theories in the areas o...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2402.00121" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2402.00121</a>  
+   Link:<a href="https://arxiv.org/abs/2402.00121" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2402.00121</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8037535/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8037535/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of Gamification on Behavioral Change in Educationby J Kim · 2021 · Cited by 333 — The following gamification elements were examined withi...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8037535/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8037535/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Gamification on Behavioral Change in Educationby J Kim · 2021 · Cited by 333 — The following gamification elements were examined withi...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11494719/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11494719/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Qualitative study examining streaking as a behaviour change...by M Curran · 2024 · Cited by 6 — The aim of the study is to examine &#x27;r...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11494719/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11494719/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Qualitative study examining streaking as a behaviour change...by M Curran · 2024 · Cited by 6 — The aim of the study is to examine &#x27;r...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: blog.duolingo.com  
    Title: how duolingo streak builds habit  
-   Link: <a href="https://blog.duolingo.com/how-duolingo-streak-builds-habit/" target="_blank" rel="noopener noreferrer nofollow">https://blog.duolingo.com/how-duolingo-streak-builds-habit/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Duolingo BlogThe habit-building research behind your Duolingo streak31 Jan 2022 — The Duolingo streak was designed with habit-building in...</p></details>
+   Link:<a href="https://blog.duolingo.com/how-duolingo-streak-builds-habit/" target="_blank" rel="noopener noreferrer nofollow">https://blog.duolingo.com/how-duolingo-streak-builds-habit/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Duolingo BlogThe habit-building research behind your Duolingo streak31 Jan 2022 — The Duolingo streak was designed with habit-building in...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2203.16175" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2203.16175</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When Gamification Spoils Your Learning: A Qualitative Case Study of Gamification Misuse in a Language-Learning AppMarch 30, 2022...</p></details>
+   Link:<a href="https://arxiv.org/abs/2203.16175" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2203.16175</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Gamification Spoils Your Learning: A Qualitative Case Study of Gamification Misuse in a Language-Learning AppMarch 30, 2022...</p></details>
    Published: March 30, 2022  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2006.02371" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2006.02371</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Gamification Affects Software Developers: Cautionary Evidence from a Natural Experiment on GitHubJune 3, 2020...</p></details>
+   Link:<a href="https://arxiv.org/abs/2006.02371" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2006.02371</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Gamification Affects Software Developers: Cautionary Evidence from a Natural Experiment on GitHubJune 3, 2020...</p></details>
    Published: June 3, 2020  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
    Title: arXiv Gamification with Purpose: What Learners Prefer to Motivate Their Learning  
-   Link: <a href="https://arxiv.org/abs/2512.08551" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2512.08551</a>  
+   Link:<a href="https://arxiv.org/abs/2512.08551" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2512.08551</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: duolingo.com  
    Title: Help Center  
-   Link: <a href="https://www.duolingo.com/help/what-is-a-streak" target="_blank" rel="noopener noreferrer nofollow">https://www.duolingo.com/help/what-is-a-streak</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Help Center - What is a streak?A streak freeze lets you maintain your streak when you forget to practice for a day. A streak free...</p></details>
+   Link:<a href="https://www.duolingo.com/help/what-is-a-streak" target="_blank" rel="noopener noreferrer nofollow">https://www.duolingo.com/help/what-is-a-streak</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Help Center - What is a streak?A streak freeze lets you maintain your streak when you forget to practice for a day. A streak free...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: habit-streak.com  
    Title: why streaks work  
-   Link: <a href="https://habit-streak.com/en/blog/habit-tracking/why-streaks-work" target="_blank" rel="noopener noreferrer nofollow">https://habit-streak.com/en/blog/habit-tracking/why-streaks-work</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Phillippa Lally&#x27;s research found that missing a single day had no measurable effect on habit formation.Read more...</p></details>
+   Link:<a href="https://habit-streak.com/en/blog/habit-tracking/why-streaks-work" target="_blank" rel="noopener noreferrer nofollow">https://habit-streak.com/en/blog/habit-tracking/why-streaks-work</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phillippa Lally&#x27;s research found that missing a single day had no measurable effect on habit formation.Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2451958826000564" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2451958826000564</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(2014) found that Achievements have a positive effect on motivation, but cautioned that...Read more...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2451958826000564" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2451958826000564</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(2014) found that Achievements have a positive effect on motivation, but cautioned that...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2666557323000095" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2666557323000095</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gamification through need-supporting scaffolded design to...by MM Grabner-Hagen · 2023 · Cited by 86 — Researchers and instructors are t...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2666557323000095" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2666557323000095</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gamification through need-supporting scaffolded design to...by MM Grabner-Hagen · 2023 · Cited by 86 — Researchers and instructors are t...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2512.08551v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2512.08551v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Learners Prefer to Motivate Their Learning9 Dec 2025 — The motivational themes align well with Self-Determination Theory, particular...</p></details>
+   Link:<a href="https://arxiv.org/html/2512.08551v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2512.08551v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Learners Prefer to Motivate Their Learning9 Dec 2025 — The motivational themes align well with Self-Determination Theory, particular...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40salamprem49/duolingo-streak-system-detailed-breakdown-design-flow-886f591c953f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40salamprem49/duolingo-streak-system-detailed-breakdown-design-flow-886f591c953f</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>learning every day. It encourages them to come back...Read more...</p></details>
+   Link:<a href="https://medium.com/%40salamprem49/duolingo-streak-system-detailed-breakdown-design-flow-886f591c953f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40salamprem49/duolingo-streak-system-detailed-breakdown-design-flow-886f591c953f</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>learning every day. It encourages them to come back...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: psychologytoday.com  
    Title: how broken streaks sap motivation  
-   Link: <a href="https://www.psychologytoday.com/gb/blog/ulterior-motives/202306/how-broken-streaks-sap-motivation" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/blog/ulterior-motives/202306/how-broken-streaks-sap-motivation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology TodayHow Broken Streaks Sap Motivation12 Jun 2023 — Keeping up a streak can be motivating above and beyond the task itself. Br...</p></details>
+   Link:<a href="https://www.psychologytoday.com/gb/blog/ulterior-motives/202306/how-broken-streaks-sap-motivation" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/gb/blog/ulterior-motives/202306/how-broken-streaks-sap-motivation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology TodayHow Broken Streaks Sap Motivation12 Jun 2023 — Keeping up a streak can be motivating above and beyond the task itself. Br...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: theguardian.com  
    Title: The Guardian Don't break the streak!  
-   Link: <a href="https://www.theguardian.com/lifeandstyle/article/2024/sep/08/streak-daily-ritual-can-enrich-your-life-or-become-unhealthy-obsession" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/lifeandstyle/article/2024/sep/08/streak-daily-ritual-can-enrich-your-life-or-become-unhealthy-obsession</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How a daily ritual can enrich your life - or become an unhealthy obsessionThe article examines the concept of &quot;streaks&quot;—consistent, unbro...</p></details>
+   Link:<a href="https://www.theguardian.com/lifeandstyle/article/2024/sep/08/streak-daily-ritual-can-enrich-your-life-or-become-unhealthy-obsession" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/lifeandstyle/article/2024/sep/08/streak-daily-ritual-can-enrich-your-life-or-become-unhealthy-obsession</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How a daily ritual can enrich your life - or become an unhealthy obsessionThe article examines the concept of &quot;streaks&quot;—consistent, unbro...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: professorgame.com  
-   Link: <a href="https://www.professorgame.com/podcast/423/" target="_blank" rel="noopener noreferrer nofollow">https://www.professorgame.com/podcast/423/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Professor GameWhy streaks backfire and what works | Ep 42314 Dec 2025 — Examining why streak mechanics (borrowed from Duolingo and medita...</p></details>
+   Link:<a href="https://www.professorgame.com/podcast/423/" target="_blank" rel="noopener noreferrer nofollow">https://www.professorgame.com/podcast/423/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Professor GameWhy streaks backfire and what works | Ep 42314 Dec 2025 — Examining why streak mechanics (borrowed from Duolingo and medita...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: strivecloud.io  
-   Link: <a href="https://www.strivecloud.io/blog/blog-gamification-examples-boost-user-retention-duolingo" target="_blank" rel="noopener noreferrer nofollow">https://www.strivecloud.io/blog/blog-gamification-examples-boost-user-retention-duolingo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Duolingo Gamification: 5 Tactics for User RetentionTL;DR: Duolingo replaced traditional study methods with high-[frequency](&amp;#123;&amp;#123; &#x27;frequency/&#x27; | relative_url &amp;#125;&amp;#125;) triggers like s...</p></details>
+   Link:<a href="https://www.strivecloud.io/blog/blog-gamification-examples-boost-user-retention-duolingo" target="_blank" rel="noopener noreferrer nofollow">https://www.strivecloud.io/blog/blog-gamification-examples-boost-user-retention-duolingo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Duolingo Gamification: 5 Tactics for User RetentionTL;DR: Duolingo replaced traditional study methods with high-[frequency](&amp;#123;&amp;#123; &#x27;frequency/&#x27; | relative_url &amp;#125;&amp;#125;) triggers like s...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: strivecloud.io  
-   Link: <a href="https://strivecloud.io/blog/gamification-examples-boost-user-retention-duolingo" target="_blank" rel="noopener noreferrer nofollow">https://strivecloud.io/blog/gamification-examples-boost-user-retention-duolingo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Duolingo gamification explainedDuolingo gamification helped the learning app increase user retention from 12% to 55%. How? Discover the w...</p></details>
+   Link:<a href="https://strivecloud.io/blog/gamification-examples-boost-user-retention-duolingo" target="_blank" rel="noopener noreferrer nofollow">https://strivecloud.io/blog/gamification-examples-boost-user-retention-duolingo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Duolingo gamification explainedDuolingo gamification helped the learning app increase user retention from 12% to 55%. How? Discover the w...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/keerthanam0_a-few-days-ago-i-wrote-about-why-duolingo-activity-7452051422625349632-oCm0" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/keerthanam0_a-few-days-ago-i-wrote-about-why-duolingo-activity-7452051422625349632-oCm0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>l these things make a perfect blend of product. It...Read more...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/keerthanam0_a-few-days-ago-i-wrote-about-why-duolingo-activity-7452051422625349632-oCm0" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/keerthanam0_a-few-days-ago-i-wrote-about-why-duolingo-activity-7452051422625349632-oCm0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>l these things make a perfect blend of product. It...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/chris-koronowski_duolingo-has-135-million-monthly-active-users-activity-7422945748536827904-XdF_" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/chris-koronowski_duolingo-has-135-million-monthly-active-users-activity-7422945748536827904-XdF_</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Duolingo&#x27;s Gamification Secrets: Boost User HabitsBut the real engine is retention: → Daily streaks → Gamified progression → Push reminde...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/chris-koronowski_duolingo-has-135-million-monthly-active-users-activity-7422945748536827904-XdF_" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/chris-koronowski_duolingo-has-135-million-monthly-active-users-activity-7422945748536827904-XdF_</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Duolingo&#x27;s Gamification Secrets: Boost User HabitsBut the real engine is retention: → Daily streaks → Gamified progression → Push reminde...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/katiegraytt_really-interesting-insights-from-amy-rodger-activity-7372243525884874754-nIfc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/katiegraytt_really-interesting-insights-from-amy-rodger-activity-7372243525884874754-nIfc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Every time. Duolingo didn&#x27;t grow by teaching languages better. It grew by getting people hooked on streaks.Read more...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/katiegraytt_really-interesting-insights-from-amy-rodger-activity-7372243525884874754-nIfc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/katiegraytt_really-interesting-insights-from-amy-rodger-activity-7372243525884874754-nIfc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Every time. Duolingo didn&#x27;t grow by teaching languages better. It grew by getting people hooked on streaks.Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: trophy.so  
    Title: duolingo gamification case study  
-   Link: <a href="https://trophy.so/blog/duolingo-gamification-case-study" target="_blank" rel="noopener noreferrer nofollow">https://trophy.so/blog/duolingo-gamification-case-study</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Duolingo Gamification Strategy: A Full Case Study (2026)26 Sept 2025 — How Duolingo uses XP, streaks, leagues, and social mechanics to re...</p></details>
+   Link:<a href="https://trophy.so/blog/duolingo-gamification-case-study" target="_blank" rel="noopener noreferrer nofollow">https://trophy.so/blog/duolingo-gamification-case-study</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Duolingo Gamification Strategy: A Full Case Study (2026)26 Sept 2025 — How Duolingo uses XP, streaks, leagues, and social mechanics to re...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: ehm-tech.com  
    Title: habit streaks do they actually work  
-   Link: <a href="https://www.ehm-tech.com/habit/blog/habit-streaks-do-they-actually-work/" target="_blank" rel="noopener noreferrer nofollow">https://www.ehm-tech.com/habit/blog/habit-streaks-do-they-actually-work/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit Streaks: Why They Work and When They Backfire10 Mar 2026 — Habit streaks tap into loss aversion, dopamine loops, and identity forma...</p></details>
+   Link:<a href="https://www.ehm-tech.com/habit/blog/habit-streaks-do-they-actually-work/" target="_blank" rel="noopener noreferrer nofollow">https://www.ehm-tech.com/habit/blog/habit-streaks-do-they-actually-work/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Habit Streaks: Why They Work and When They Backfire10 Mar 2026 — Habit streaks tap into loss aversion, dopamine loops, and identity forma...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: psychologytoday.com  
    Title: the science behind habit tracking  
-   Link: <a href="https://www.psychologytoday.com/us/blog/parenting-from-a-neuroscience-perspective/202512/the-science-behind-habit-tracking" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/blog/parenting-from-a-neuroscience-perspective/202512/the-science-behind-habit-tracking</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>14 Dec 2025 — Discover why a simple daily checklist can reshape motivation, reduce mental load, and turn small actions into lasting change...</p></details>
+   Link:<a href="https://www.psychologytoday.com/us/blog/parenting-from-a-neuroscience-perspective/202512/the-science-behind-habit-tracking" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/blog/parenting-from-a-neuroscience-perspective/202512/the-science-behind-habit-tracking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>14 Dec 2025 — Discover why a simple daily checklist can reshape motivation, reduce mental load, and turn small actions into lasting change...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: duolingo.fandom.com  
-   Link: <a href="https://duolingo.fandom.com/wiki/Streak" target="_blank" rel="noopener noreferrer nofollow">https://duolingo.fandom.com/wiki/Streak</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Duolingo Wiki - FandomYou can freeze your streak to avoid it resetting from a day of inactivity by buying a streak freeze in the gems sto...</p></details>
+   Link:<a href="https://duolingo.fandom.com/wiki/Streak" target="_blank" rel="noopener noreferrer nofollow">https://duolingo.fandom.com/wiki/Streak</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Duolingo Wiki - FandomYou can freeze your streak to avoid it resetting from a day of inactivity by buying a streak freeze in the gems sto...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: orizon.co  
    Title: duolingos gamification secrets  
-   Link: <a href="https://www.orizon.co/blog/duolingos-gamification-secrets" target="_blank" rel="noopener noreferrer nofollow">https://www.orizon.co/blog/duolingos-gamification-secrets</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Duolingo&#x27;s Gamification Secrets: How Streaks &amp; XP Boost...19 Feb 2025 — Streaks increase commitment by 60%. · XP leaderboards drive 40%...</p></details>
+   Link:<a href="https://www.orizon.co/blog/duolingos-gamification-secrets" target="_blank" rel="noopener noreferrer nofollow">https://www.orizon.co/blog/duolingos-gamification-secrets</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Duolingo&#x27;s Gamification Secrets: How Streaks &amp; XP Boost...19 Feb 2025 — Streaks increase commitment by 60%. · XP leaderboards drive 40%...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: duolingo.deconstructoroffun.com  
-   Link: <a href="https://duolingo.deconstructoroffun.com/mechanics/streaks" target="_blank" rel="noopener noreferrer nofollow">https://duolingo.deconstructoroffun.com/mechanics/streaks</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How the Mechanic Drives 2x Daily RetentionA deconstruction of Duolingo&#x27;s streak system — how Classic, Freezes, Perfect, and Friend Streak...</p></details>
+   Link:<a href="https://duolingo.deconstructoroffun.com/mechanics/streaks" target="_blank" rel="noopener noreferrer nofollow">https://duolingo.deconstructoroffun.com/mechanics/streaks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How the Mechanic Drives 2x Daily RetentionA deconstruction of Duolingo&#x27;s streak system — how Classic, Freezes, Perfect, and Friend Streak...</p></details>
 
 ### Additional References
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/360817493_Gamification_and_Motivation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360817493_Gamification_and_Motivation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Gamification and MotivationThe author of this report examines research describing self-determination theory, gamification, and thei...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/360817493_Gamification_and_Motivation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360817493_Gamification_and_Motivation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Gamification and MotivationThe author of this report examines research describing self-determination theory, gamification, and thei...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/392184319_Gamification_in_higher_education_a_self-determination_theory_perspective_on_the_reward_system" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392184319_Gamification_in_higher_education_a_self-determination_theory_perspective_on_the_reward_system</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gamification in higher education: a self-determination...19 Jan 2026 — The authors of this study explore how game elements commonly used...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/392184319_Gamification_in_higher_education_a_self-determination_theory_perspective_on_the_reward_system" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392184319_Gamification_in_higher_education_a_self-determination_theory_perspective_on_the_reward_system</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gamification in higher education: a self-determination...19 Jan 2026 — The authors of this study explore how game elements commonly used...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: yukaichou.com  
-   Link: <a href="https://yukaichou.com/gamification-study/master-the-art-of-streak-design-for-short-term-engagement-and-long-term-success/" target="_blank" rel="noopener noreferrer nofollow">https://yukaichou.com/gamification-study/master-the-art-of-streak-design-for-short-term-engagement-and-long-term-success/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Streak Design: 4 Rules Behind Duolingo&#x27;s LoopDuolingo&#x27;s streak feature helped improve their next-day retention from 12% to 55%, and their...</p></details>
+   Link:<a href="https://yukaichou.com/gamification-study/master-the-art-of-streak-design-for-short-term-engagement-and-long-term-success/" target="_blank" rel="noopener noreferrer nofollow">https://yukaichou.com/gamification-study/master-the-art-of-streak-design-for-short-term-engagement-and-long-term-success/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Streak Design: 4 Rules Behind Duolingo&#x27;s LoopDuolingo&#x27;s streak feature helped improve their next-day retention from 12% to 55%, and their...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/design-bootcamp/streaks-the-gamification-feature-everyone-gets-wrong-6506e46fa9ca" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/design-bootcamp/streaks-the-gamification-feature-everyone-gets-wrong-6506e46fa9ca</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Streaks: The Gamification Feature Everyone Gets WrongDuolingo spent years refining their streak system, learning from mistakes, adding fe...</p></details>
+   Link:<a href="https://medium.com/design-bootcamp/streaks-the-gamification-feature-everyone-gets-wrong-6506e46fa9ca" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/design-bootcamp/streaks-the-gamification-feature-everyone-gets-wrong-6506e46fa9ca</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Streaks: The Gamification Feature Everyone Gets WrongDuolingo spent years refining their streak system, learning from mistakes, adding fe...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: icenet.blog  
-   Link: <a href="https://icenet.blog/2025/06/17/align-the-game-to-your-aim-considering-gamification-through-the-lens-of-self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://icenet.blog/2025/06/17/align-the-game-to-your-aim-considering-gamification-through-the-lens-of-self-determination-theory/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Align the Game to Your Aim: Considering Gamification...Jun 17, 2025 — The explanatory theoretical framework most often cited within game...</p></details>
+   Link:<a href="https://icenet.blog/2025/06/17/align-the-game-to-your-aim-considering-gamification-through-the-lens-of-self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://icenet.blog/2025/06/17/align-the-game-to-your-aim-considering-gamification-through-the-lens-of-self-determination-theory/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Align the Game to Your Aim: Considering Gamification...Jun 17, 2025 — The explanatory theoretical framework most often cited within game...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: jenniferhandali.medium.com  
-   Link: <a href="https://jenniferhandali.medium.com/habit-forming-design-gamify-motivate-retain-learn-how-duolingo-keeps-their-users-hooked-6812c85a0a42" target="_blank" rel="noopener noreferrer nofollow">https://jenniferhandali.medium.com/habit-forming-design-gamify-motivate-retain-learn-how-duolingo-keeps-their-users-hooked-6812c85a0a42</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Motivate. Retain. — Learn How Duolingo Keeps Their...Monetization: Committed users are more likely to upgrade (e.g., streak freeze, unli...</p></details>
+   Link:<a href="https://jenniferhandali.medium.com/habit-forming-design-gamify-motivate-retain-learn-how-duolingo-keeps-their-users-hooked-6812c85a0a42" target="_blank" rel="noopener noreferrer nofollow">https://jenniferhandali.medium.com/habit-forming-design-gamify-motivate-retain-learn-how-duolingo-keeps-their-users-hooked-6812c85a0a42</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Motivate. Retain. — Learn How Duolingo Keeps Their...Monetization: Committed users are more likely to upgrade (e.g., streak freeze, unli...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40milanicreative/the-art-of-sustainable-progress-why-habit-tracking-your-streaks-is-killing-your-motivation-46db12933e3f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40milanicreative/the-art-of-sustainable-progress-why-habit-tracking-your-streaks-is-killing-your-motivation-46db12933e3f</a>  
+   Link:<a href="https://medium.com/%40milanicreative/the-art-of-sustainable-progress-why-habit-tracking-your-streaks-is-killing-your-motivation-46db12933e3f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40milanicreative/the-art-of-sustainable-progress-why-habit-tracking-your-streaks-is-killing-your-motivation-46db12933e3f</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: trophy.so  
-   Link: <a href="https://trophy.so/blog/the-psychology-of-streaks-how-sylvi-weaponized-duolingos-best-feature-against-them" target="_blank" rel="noopener noreferrer nofollow">https://trophy.so/blog/the-psychology-of-streaks-how-sylvi-weaponized-duolingos-best-feature-against-them</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychology of Streaks: How Sylvi Weaponized Duolingo&#x27;s...30 Jun 2025 — Streaks might be the most powerful retention mechanism in con...</p></details>
+   Link:<a href="https://trophy.so/blog/the-psychology-of-streaks-how-sylvi-weaponized-duolingos-best-feature-against-them" target="_blank" rel="noopener noreferrer nofollow">https://trophy.so/blog/the-psychology-of-streaks-how-sylvi-weaponized-duolingos-best-feature-against-them</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychology of Streaks: How Sylvi Weaponized Duolingo&#x27;s...30 Jun 2025 — Streaks might be the most powerful retention mechanism in con...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: researchgate.net  
    Title: 321123886 An Analysis of Winning Streak's Effects in Language Course of Duolingo  
-   Link: <a href="https://www.researchgate.net/publication/321123886_An_Analysis_of_Winning_Streak%27s_Effects_in_Language_Course_of_Duolingo" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/321123886_An_Analysis_of_Winning_Streak%27s_Effects_in_Language_Course_of_Duolingo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) An Analysis of Winning Streak&#x27;s Effects in Language...17 Nov 2017 — This paper explores the effects of the winning streak on users...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/321123886_An_Analysis_of_Winning_Streak%27s_Effects_in_Language_Course_of_Duolingo" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/321123886_An_Analysis_of_Winning_Streak%27s_Effects_in_Language_Course_of_Duolingo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) An Analysis of Winning Streak&#x27;s Effects in Language...17 Nov 2017 — This paper explores the effects of the winning streak on users...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: yukaichou.com  
    Title: self determination theory guide to ryan and decis motivation framework  
-   Link: <a href="https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/" target="_blank" rel="noopener noreferrer nofollow">https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory: Complete Guide (2026)7 days ago — Research shows that people who prioritize intrinsic goals report higher well...</p></details>
+   Link:<a href="https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/" target="_blank" rel="noopener noreferrer nofollow">https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory: Complete Guide (2026)7 days ago — Research shows that people who prioritize intrinsic goals report higher well...</p></details>

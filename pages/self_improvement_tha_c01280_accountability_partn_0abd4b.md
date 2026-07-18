@@ -496,10 +496,10 @@ image: /assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b-ov
 
 ## Introduction
 
-An accountability partner or study group is useful when it turns a private intention into a clear, repeated, low-shame feedback loop. The best version is not someone who nags, competes or acts as a moral judge. It is a person or small group that helps define the next action, checks whether it happened, notices obstacles, and adjusts the plan before the goal quietly disappears. That makes accountability a practical part of [self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}): it combines [social support]({{ 'social-support/' | relative_url }}) with goal setting, self-monitoring, feedback and action planning, all of which are recognised behaviour-change ingredients rather than motivational slogans. <span class="citation-chip-wrap"><a class="citation-chip" href="https://discovery.ucl.ac.uk/id/eprint/1400691/1/Michie_et%20al.%20%28in%20press%29%20-%20BCT%20Taxonomy%20v1%20development%20paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.ucl.ac.uk">[UCL Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.ucl.ac.uk</span><span class="citation-popover-snippet">UCL Discovery1 The Behavior Change Technique Taxonomy (v1) of 93...December 18, 2015 — by S Michie · 2013 · Cited by 8935 — Consequences...</span><span class="citation-popover-meta">Published: December 18, 2015</span></span></span>
+An accountability partner or study group is useful when it turns a private intention into a clear, repeated, low-shame feedback loop. The best version is not someone who nags, competes or acts as a moral judge. It is a person or small group that helps define the next action, checks whether it happened, notices obstacles, and adjusts the plan before the goal quietly disappears. That makes accountability a practical part of [self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}): it combines [social support]({{ 'social-support/' | relative_url }}) with goal setting, self-monitoring, feedback and action planning, all of which are recognised behaviour-change ingredients rather than motivational slogans.<span class="citation-chip-wrap"><a class="citation-chip" href="https://discovery.ucl.ac.uk/id/eprint/1400691/1/Michie_et%20al.%20%28in%20press%29%20-%20BCT%20Taxonomy%20v1%20development%20paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.ucl.ac.uk">[UCL Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.ucl.ac.uk</span><span class="citation-popover-snippet">UCL Discovery1 The Behavior Change Technique Taxonomy (v1) of 93...December 18, 2015 — by S Michie · 2013 · Cited by 8935 — Consequences...</span><span class="citation-popover-meta">Published: December 18, 2015</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b-overview.webp" | relative_url }}" alt="Overview image for Accountability" loading="eager" decoding="sync" fetchpriority="high">
-[Study groups]({{ 'study-groups/' | relative_url }}) work on the same principle, but with learning as the target behaviour. A good group does more than sit together in a library. It creates a rhythm of preparation, explanation, retrieval practice, question-sharing and follow-through. Harvard’s Academic Resource Center describes study groups as a way to strengthen understanding and build accountability into the week, while research on peer assessment and collaborative learning suggests that structured peer interaction can produce measurable, though usually modest, academic gains. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academicresourcecenter.harvard.edu/2023/09/27/study-groups/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academicresourcecenter.harvard.edu">[Academic Resource Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academicresourcecenter.harvard.edu</span><span class="citation-popover-title">Academic Resource Center Study Groups</span><span class="citation-popover-snippet">Academic Resource CenterStudy Groups - Academic Resource Center - Harvard University27 Sept 2023 — Study groups are safe spaces where you...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10648-019-09510-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Nature Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer Nature LinkThe Impact of Peer Assessment on Academic Performanceby KS Double · 2020 · Cited by 718 — Here, we present a meta-ana...</span></span></span>
+[Study groups]({{ 'study-groups/' | relative_url }}) work on the same principle, but with learning as the target behaviour. A good group does more than sit together in a library. It creates a rhythm of preparation, explanation, retrieval practice, question-sharing and follow-through. Harvard’s Academic Resource Center describes study groups as a way to strengthen understanding and build accountability into the week, while research on peer assessment and collaborative learning suggests that structured peer interaction can produce measurable, though usually modest, academic gains.<span class="citation-chip-wrap"><a class="citation-chip" href="https://academicresourcecenter.harvard.edu/2023/09/27/study-groups/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academicresourcecenter.harvard.edu">[Academic Resource Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academicresourcecenter.harvard.edu</span><span class="citation-popover-title">Academic Resource Center Study Groups</span><span class="citation-popover-snippet">Academic Resource CenterStudy Groups - Academic Resource Center - Harvard University27 Sept 2023 — Study groups are safe spaces where you...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10648-019-09510-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Nature Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer Nature LinkThe Impact of Peer Assessment on Academic Performanceby KS Double · 2020 · Cited by 718 — Here, we present a meta-ana...</span></span></span>
 
 The central rule is simple: accountability should make the desired behaviour easier to do and easier to review, not make the person feel smaller for struggling.
 
@@ -507,9 +507,9 @@ The central rule is simple: accountability should make the desired behaviour eas
 
 Most self-improvement failures are not caused by a lack of belief in the goal. They happen in the gap between intention and action: the workout is planned but not started, the essay is opened but not written, the revision session is scheduled but replaced by easier distractions. Accountability helps because it adds a social checkpoint to that gap. The person is no longer only asking, “Do I feel like doing this?” They are also asking, “What did I agree to report back on?”
 
-Behaviour-change research gives this a clearer shape. The [Behaviour Change]({{ 'behaviour-change/' | relative_url }}) Technique Taxonomy lists techniques such as [goal setting]({{ 'goal-setting/' | relative_url }}), action planning, reviewing goals, self-monitoring, feedback and social support as distinct ingredients in interventions. An accountability partner can combine several of these in one lightweight routine: “What will you do?”, “When will you do it?”, “How will you record it?”, “What happened?”, and “What needs changing?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalwellbeing.org">[digitalwellbeing.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalwellbeing.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Behaviour-change research gives this a clearer shape. The [Behaviour Change]({{ 'behaviour-change/' | relative_url }}) Technique Taxonomy lists techniques such as [goal setting]({{ 'goal-setting/' | relative_url }}), action planning, reviewing goals, self-monitoring, feedback and social support as distinct ingredients in interventions. An accountability partner can combine several of these in one lightweight routine: “What will you do?”, “When will you do it?”, “How will you record it?”, “What happened?”, and “What needs changing?”<span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalwellbeing.org">[digitalwellbeing.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalwellbeing.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The strongest model for this is “supportive accountability”, developed in research on human [support]({{ 'support/' | relative_url }}) in digital health interventions. The model argues that human support improves adherence when the supporter is seen as trustworthy, benevolent and legitimate, and when expectations are clear and process-oriented rather than vague or punitive. Although the original context was eHealth, the logic transfers well to everyday accountability: people respond better to a credible ally than to a scolding audience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jmir.org/2011/1/e30/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">Open source on jmir.org.</span></span></span>
+The strongest model for this is “supportive accountability”, developed in research on human [support]({{ 'support/' | relative_url }}) in digital health interventions. The model argues that human support improves adherence when the supporter is seen as trustworthy, benevolent and legitimate, and when expectations are clear and process-oriented rather than vague or punitive. Although the original context was eHealth, the logic transfers well to everyday accountability: people respond better to a credible ally than to a scolding audience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jmir.org/2011/1/e30/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">Open source on jmir.org.</span></span></span>
 
 A useful accountability partner therefore does three jobs at once. They make the goal visible, make progress reviewable, and make the next attempt feel possible. That is different from motivation theatre, where two people trade big declarations but never define the small action that would prove progress.
 
@@ -528,9 +528,9 @@ A good partner usually has four traits:
 
 </div>
 
-Supportive accountability research is useful here because it separates accountability from pressure. In Mohr, Cuijpers and Lehman’s model, accountability works best when expectations are clear and the supporter is perceived as benevolent and trustworthy. That means a partner who enjoys catching people out is a poor choice, even if they are “tough” or “high standards”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jmir.org/2011/1/e30/authors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">Open source on jmir.org.</span></span></span>
+Supportive accountability research is useful here because it separates accountability from pressure. In Mohr, Cuijpers and Lehman’s model, accountability works best when expectations are clear and the supporter is perceived as benevolent and trustworthy. That means a partner who enjoys catching people out is a poor choice, even if they are “tough” or “high standards”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jmir.org/2011/1/e30/authors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">Open source on jmir.org.</span></span></span>
 
-For study groups, the selection question is slightly different. The best group is not always made of the highest-achieving students; it is made of people willing to prepare, explain, ask questions and keep the meeting on task. Research on collaborative learning in higher education identifies student factors such as preparation, contribution and interaction quality as important parts of effective collaboration, rather than assuming that merely putting people in a group will improve learning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lifescied.org/doi/10.1187/cbe.16-07-0219" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lifescied.org">[lifescied.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lifescied.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+For study groups, the selection question is slightly different. The best group is not always made of the highest-achieving students; it is made of people willing to prepare, explain, ask questions and keep the meeting on task. Research on collaborative learning in higher education identifies student factors such as preparation, contribution and interaction quality as important parts of effective collaboration, rather than assuming that merely putting people in a group will improve learning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lifescied.org/doi/10.1187/cbe.16" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lifescied.org">[lifescied.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lifescied.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 A practical test is to run a two-week trial before treating the partnership or group as permanent. If people arrive unprepared, dominate the conversation, turn every meeting into comparison, or repeatedly cancel without repair, that is not a character verdict. It is evidence that the structure is not useful enough to keep.
 
@@ -551,11 +551,11 @@ For an accountability pair, a useful weekly format can be short:
 
 </div>
 
-This works because it turns accountability into a [feedback]({{ 'feedback/' | relative_url }}) loop. Goal-setting and action-planning research emphasises that goals should be translated into concrete plans, while implementation-intention research shows that “if–then” planning can help bridge the intention–behaviour gap. A check-in should therefore end with a sentence that can be acted on, such as: “If I finish dinner before 8 pm, I will revise for 25 minutes at the kitchen table,” or “If I miss Monday’s gym session, I will do the 20-minute home session on Tuesday morning.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6796229/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralGoal Setting and Action Planning for Health Behavior Changeby RR Bailey · 2017 · Cited by 406 — Setting appropriate goals a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6796229/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralGoal Setting and Action Planning for Health Behavior Changeby RR Bailey · 2017 · Cited by 406 — Setting appropriate goals a...</span></span></span>
+This works because it turns accountability into a [feedback]({{ 'feedback/' | relative_url }}) loop. Goal-setting and action-planning research emphasises that goals should be translated into concrete plans, while implementation-intention research shows that “if–then” planning can help bridge the intention–behaviour gap. A check-in should therefore end with a sentence that can be acted on, such as: “If I finish dinner before 8 pm, I will revise for 25 minutes at the kitchen table,” or “If I miss Monday’s gym session, I will do the 20-minute home session on Tuesday morning.”<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6796229/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralGoal Setting and Action Planning for Health Behavior Changeby RR Bailey · 2017 · Cited by 406 — Setting appropriate goals a...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6796229/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralGoal Setting and Action Planning for Health Behavior Changeby RR Bailey · 2017 · Cited by 406 — Setting appropriate goals a...</span></span></span>
 
 For study groups, the check-in should be built into the meeting design, not added as an awkward moral audit. A group might open with five minutes in which each person names the problem set, reading, flashcards or exam topic they prepared. Then the session moves quickly into active work: teaching a concept, testing recall, comparing answers, or explaining errors.
 
-The University of North Carolina Learning Center advises students to make study partnerships productive by setting expectations, choosing suitable partners, planning meetings and using the time actively rather than passively. Harvard’s guidance similarly frames study groups as a way to ask questions, practise participation and create weekly accountability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://learningcenter.unc.edu/tips-and-tools/study-partners/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learningcenter.unc.edu">[The Learning Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learningcenter.unc.edu</span><span class="citation-popover-title">The Learning Center Study Groups</span><span class="citation-popover-snippet">The Learning Center Study Groups</span></span></span>
+The University of North Carolina Learning Center advises students to make study partnerships productive by setting expectations, choosing suitable partners, planning meetings and using the time actively rather than passively. Harvard’s guidance similarly frames study groups as a way to ask questions, practise participation and create weekly accountability.<span class="citation-chip-wrap"><a class="citation-chip" href="https://learningcenter.unc.edu/tips-and-tools/study-partners/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learningcenter.unc.edu">[The Learning Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learningcenter.unc.edu</span><span class="citation-popover-title">The Learning Center Study Groups</span><span class="citation-popover-snippet">The Learning Center Study Groups</span></span></span>
 
 The key is that a check-in should be small enough to repeat. A ten-minute weekly accountability call that happens is better than a dramatic monthly review that everyone avoids.
 
@@ -565,9 +565,9 @@ The key is that a check-in should be small enough to repeat. A ten-minute weekly
 
 A study group is most useful when it changes how students study, not merely where they study. Quiet co-working can help people start, but deeper learning usually comes from effortful activities: retrieving information from memory, explaining reasoning, correcting misunderstandings and applying ideas to new problems.
 
-One concrete example is collaborative retrieval practice. Retrieval practice means trying to recall information rather than simply rereading it. A 2023 study found that collaborative retrieval practice reduced mind-wandering during learning, suggesting that working with others can help attention as well as recall when the task is structured around active retrieval. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6796229/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralGoal Setting and Action Planning for Health Behavior Changeby RR Bailey · 2017 · Cited by 406 — Setting appropriate goals a...</span></span></span>
+One concrete example is collaborative retrieval practice. Retrieval practice means trying to recall information rather than simply rereading it. A 2023 study found that collaborative retrieval practice reduced mind-wandering during learning, suggesting that working with others can help attention as well as recall when the task is structured around active retrieval.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6796229/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralGoal Setting and Action Planning for Health Behavior Changeby RR Bailey · 2017 · Cited by 406 — Setting appropriate goals a...</span></span></span>
 
-Peer assessment is another structured form of study-group accountability. A meta-analysis of 54 experimental and quasi-experimental studies found a small-to-medium positive effect of peer assessment on academic performance. The result does not mean peer feedback is magic; it means that reviewing someone else’s work and receiving peer feedback can improve learning when the process is designed well. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10648-019-09510-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Nature Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer Nature LinkThe Impact of Peer Assessment on Academic Performanceby KS Double · 2020 · Cited by 718 — Here, we present a meta-ana...</span></span></span>
+Peer assessment is another structured form of study-group accountability. A meta-analysis of 54 experimental and quasi-experimental studies found a small-to-medium positive effect of peer assessment on academic performance. The result does not mean peer feedback is magic; it means that reviewing someone else’s work and receiving peer feedback can improve learning when the process is designed well.<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10648-019-09510-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Nature Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer Nature LinkThe Impact of Peer Assessment on Academic Performanceby KS Double · 2020 · Cited by 718 — Here, we present a meta-ana...</span></span></span>
 
 A useful study group usually includes some combination of:
 
@@ -590,7 +590,7 @@ Accountability works best when the unit of commitment is clear. “Be productive
 
 Small groups make this easier. In a pair, hiding is difficult. In a group of three to five, there is enough variety for explanation and problem-solving, but not so many people that responsibility dissolves. Larger groups can work for co-working sessions, but they usually need stronger facilitation: timed blocks, shared agendas, roles and visible outputs.
 
-Aarhus University’s report on study groups notes that there is no single definitive formula for creating ideal study-group conditions, and that the research picture is fragmented. That is a useful warning against overclaiming. Study groups are not automatically effective; their value depends on what the group is asked to do, how members are selected, how work is structured, and how common challenges are handled. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ced.au.dk/en/consultancy/study-groups-how-do-we-do-it-at-au" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ced.au.dk">[ced.au.dk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ced.au.dk</span><span class="citation-popover-title">study groups how do we do it at au</span><span class="citation-popover-snippet">study groups how do we do it at au</span></span></span>
+Aarhus University’s report on study groups notes that there is no single definitive formula for creating ideal study-group conditions, and that the research picture is fragmented. That is a useful warning against overclaiming. Study groups are not automatically effective; their value depends on what the group is asked to do, how members are selected, how work is structured, and how common challenges are handled.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ced.au.dk/en/consultancy/study-groups-how-do-we-do-it-at-au" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ced.au.dk">[ced.au.dk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ced.au.dk</span><span class="citation-popover-title">study groups how do we do it at au</span><span class="citation-popover-snippet">study groups how do we do it at au</span></span></span>
 
 For everyday [self improvement]({{ 'self-improvement-that-works/' | relative_url }}), the same caution applies. An accountability partner cannot compensate for a goal that is too vague, too large, or unsupported by time and environment. The partnership is a multiplier, not a substitute for design.
 
@@ -598,7 +598,7 @@ For everyday [self improvement]({{ 'self-improvement-that-works/' | relative_url
 
 Accountability often goes wrong when progress review turns into social ranking. In a study group, one person’s fast understanding can make another feel stupid. In a fitness or writing partnership, one person’s streak can make the other feel exposed. The group may still be “accountable” in a literal sense, but the emotional climate starts to damage follow-through.
 
-Social comparison is not always harmful. Seeing a peer make progress can provide information, hope and strategy. The problem comes when comparison becomes identity judgement: “They are disciplined; I am lazy,” or “They understand this; I do not belong here.” Research on social comparison and academic emotions suggests that comparisons around grades and performance can affect motivation and emotional experience, including negative emotions such as shame. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1472811723000514" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Social comparison is not always harmful. Seeing a peer make progress can provide information, hope and strategy. The problem comes when comparison becomes identity judgement: “They are disciplined; I am lazy,” or “They understand this; I do not belong here.” Research on social comparison and academic emotions suggests that comparisons around grades and performance can affect motivation and emotional experience, including negative emotions such as shame.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1472811723000514" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The fix is not to pretend comparison never happens. It is to redirect the comparison towards process. Instead of asking, “Who did best?”, a healthier group asks:
 
@@ -622,7 +622,7 @@ A good rule is to compare systems, not worth. It is fair to ask why one plan sur
 
 Accountability is not automatically good. It becomes counterproductive when it increases pressure without increasing clarity, support or capacity. A partner who says “no excuses” but never helps identify the obstacle may create fear rather than change. A study group that praises speed over understanding may reward shallow performance. A public leaderboard may motivate some people while making others disengage.
 
-The supportive accountability model is helpful because it includes both support and accountability. It does not treat human pressure as the active ingredient by itself. Later work on supportive accountability measurement also distinguishes monitoring and expectations as components of accountability in coached digital interventions, reinforcing that the useful mechanism is structured follow-through rather than vague social surveillance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6796229/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralGoal Setting and Action Planning for Health Behavior Changeby RR Bailey · 2017 · Cited by 406 — Setting appropriate goals a...</span></span></span>
+The supportive accountability model is helpful because it includes both support and accountability. It does not treat human pressure as the active ingredient by itself. Later work on supportive accountability measurement also distinguishes monitoring and expectations as components of accountability in coached digital interventions, reinforcing that the useful mechanism is structured follow-through rather than vague social surveillance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6796229/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralGoal Setting and Action Planning for Health Behavior Changeby RR Bailey · 2017 · Cited by 406 — Setting appropriate goals a...</span></span></span>
 
 Warning signs include:
 
@@ -664,7 +664,7 @@ For a study group, use this format:
 
 **Final five minutes:** each member names the next study action and the evidence they will bring next time.
 
-This structure reflects the broader evidence that self improvement works better when goals are specific, monitored, reviewed and supported. It also keeps accountability humane. The question is not “Are you a disciplined person?” The question is “What did the system make easier, what did it make harder, and what will you try next?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6796229/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralGoal Setting and Action Planning for Health Behavior Changeby RR Bailey · 2017 · Cited by 406 — Setting appropriate goals a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10648-019-09510-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Nature Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer Nature LinkThe Impact of Peer Assessment on Academic Performanceby KS Double · 2020 · Cited by 718 — Here, we present a meta-ana...</span></span></span>
+This structure reflects the broader evidence that self improvement works better when goals are specific, monitored, reviewed and supported. It also keeps accountability humane. The question is not “Are you a disciplined person?” The question is “What did the system make easier, what did it make harder, and what will you try next?”<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6796229/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralGoal Setting and Action Planning for Health Behavior Changeby RR Bailey · 2017 · Cited by 406 — Setting appropriate goals a...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10648-019-09510-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Nature Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer Nature LinkThe Impact of Peer Assessment on Academic Performanceby KS Double · 2020 · Cited by 718 — Here, we present a meta-ana...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PZqNn17OXOE" title="How an Accountability Partner Can Help You Transform! | Dr. David Hawkins" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PZqNn17OXOE" target="_blank" rel="noopener noreferrer">How an Accountability Partner Can Help You Transform! | Dr. David Hawkins</a></p><p class="youtube-embed-meta">Channel: Dr. David Hawkins &middot; Views: 1.6K &middot; Uploaded: January 2023 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PZqNn17OXOE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PZqNn17OXOE">Open on YouTube</a></p></div></div></div>
 
@@ -675,269 +675,269 @@ The lasting value of an accountability partner or study group is not constant mo
 That is why the best accountability feels calmer than people expect. It is not a public confession booth or a productivity contest. It is a small social structure that protects the next useful action. In self improvement that works, that is often enough: a clear commitment, a regular check-in, a truthful review, and a better plan for the next attempt.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Makes an Accountability Partner Useful?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Makes an Accountability Partner Useful?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Covers tracking, feedback, social influence, and habit maintenance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Covers tracking, feedback, social influence, and habit maintenance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coaching+Habit+by+Michael+Bungay+Stanier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coaching Habit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EGFPDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Coaching Habit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Coaching+Habit+by+Michael+Bungay+Stanier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coaching Habit">The Coaching Habit</a>
-        </h4>
-        <p class="fr-book-author">By Michael Bungay Stanier</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coaching+Habit+by+Michael+Bungay+Stanier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coaching Habit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EGFPDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Coaching Habit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Coaching+Habit+by+Michael+Bungay+Stanier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coaching Habit">The Coaching Habit</a>
+</h4>
+<p class="fr-book-author">By Michael Bungay Stanier</p>
         
-        <p class="fr-book-desc">Helps structure useful check-ins and follow-up discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Coaching+Habit+by+Michael+Bungay+Stanier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps structure useful check-ins and follow-up discussions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Coaching+Habit+by+Michael+Bungay+Stanier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
-        </h4>
-        <p class="fr-book-author">By B. J. Fogg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
+</h4>
+<p class="fr-book-author">By B. J. Fogg</p>
         
-        <p class="fr-book-desc">Supports incremental progress and accountability systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports incremental progress and accountability systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Carol S. Dweck</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
-        <p class="fr-book-desc">Encourages constructive feedback and growth-oriented learning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
+</h4>
+<p class="fr-book-author">By Carol S. Dweck</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
+<p class="fr-book-desc">Encourages constructive feedback and growth-oriented learning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coaching+Habit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coaching Habit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coaching+Habit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coaching Habit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/889e8acbca3b73af071f.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/889e8acbca3b73af071f.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quotes Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/79bcfa06dda89ad237ca.jpg' | relative_url }}" alt="Listing image for Motivational Quotes Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quotes Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quotes Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/79bcfa06dda89ad237ca.jpg' | relative_url }}" alt="Listing image for Motivational Quotes Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quotes Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/cdb87d9c00637e7f5353.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/cdb87d9c00637e7f5353.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/ab8e18c59c3009355dfa.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/ab8e18c59c3009355dfa.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-what-makes-an-accountability-partner-useful-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -953,7 +953,7 @@ That is why the best accountability feels calmer than people expect. It is not a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -973,7 +973,7 @@ That is why the best accountability feels calmer than people expect. It is not a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1005,7 +1005,7 @@ That is why the best accountability feels calmer than people expect. It is not a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -1035,7 +1035,7 @@ That is why the best accountability feels calmer than people expect. It is not a
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -1093,207 +1093,207 @@ That is why the best accountability feels calmer than people expect. It is not a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: academicresourcecenter.harvard.edu  
    Title: Academic Resource Center Study Groups  
-   Link: <a href="https://academicresourcecenter.harvard.edu/2023/09/27/study-groups/" target="_blank" rel="noopener noreferrer nofollow">https://academicresourcecenter.harvard.edu/2023/09/27/study-groups/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Academic Resource CenterStudy Groups - Academic Resource Center - Harvard University27 Sept 2023 — Study groups are safe spaces where you...</p></details>
+   Link:<a href="https://academicresourcecenter.harvard.edu/2023/09/27/study-groups/" target="_blank" rel="noopener noreferrer nofollow">https://academicresourcecenter.harvard.edu/2023/09/27/study-groups/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Academic Resource CenterStudy Groups - Academic Resource Center - Harvard University27 Sept 2023 — Study groups are safe spaces where you...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s10648-019-09510-3" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10648-019-09510-3</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer Nature LinkThe Impact of Peer Assessment on Academic Performanceby KS Double · 2020 · Cited by 718 — Here, we present a meta-ana...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s10648-019-09510-3" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10648-019-09510-3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Springer Nature LinkThe Impact of Peer Assessment on Academic Performanceby KS Double · 2020 · Cited by 718 — Here, we present a meta-ana...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: lifescied.org  
-   Link: <a href="https://www.lifescied.org/doi/10.1187/cbe.16-07-0219" target="_blank" rel="noopener noreferrer nofollow">https://www.lifescied.org/doi/10.1187/cbe.16-07-0219</a>  
+   Link:<a href="https://www.lifescied.org/doi/10.1187/cbe.16" target="_blank" rel="noopener noreferrer nofollow">https://www.lifescied.org/doi/10.1187/cbe.16</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: digitalwellbeing.org  
-   Link: <a href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf</a>  
+   Link:<a href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: jmir.org  
-   Link: <a href="https://www.jmir.org/2011/1/e30/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2011/1/e30/</a>  
+   Link:<a href="https://www.jmir.org/2011/1/e30/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2011/1/e30/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ced.au.dk  
    Title: study groups how do we do it at au  
-   Link: <a href="https://ced.au.dk/en/consultancy/study-groups-how-do-we-do-it-at-au" target="_blank" rel="noopener noreferrer nofollow">https://ced.au.dk/en/consultancy/study-groups-how-do-we-do-it-at-au</a>  
+   Link:<a href="https://ced.au.dk/en/consultancy/study-groups-how-do-we-do-it-at-au" target="_blank" rel="noopener noreferrer nofollow">https://ced.au.dk/en/consultancy/study-groups-how-do-we-do-it-at-au</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1472811723000514" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1472811723000514</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1472811723000514" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1472811723000514</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2214782921000397" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2214782921000397</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2214782921000397" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2214782921000397</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1186/s12966-023-01555-6" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12966-023-01555-6</a>  
+   Link:<a href="https://link.springer.com/article/10.1186/s12966-023-01555-6" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12966-023-01555-6</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40iamrahulrao15/the-accountability-effect-why-sharing-your-habits-makes-them-3x-more-likely-to-stick-77c1c84f54d6" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40iamrahulrao15/the-accountability-effect-why-sharing-your-habits-makes-them-3x-more-likely-to-stick-77c1c84f54d6</a>  
+   Link:<a href="https://medium.com/%40iamrahulrao15/the-accountability-effect-why-sharing-your-habits-makes-them-3x-more-likely-to-stick-77c1c84f54d6" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40iamrahulrao15/the-accountability-effect-why-sharing-your-habits-makes-them-3x-more-likely-to-stick-77c1c84f54d6</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: doctorkevin.medium.com  
-   Link: <a href="https://doctorkevin.medium.com/accountability-partners-are-insanely-essential-for-monumental-success-831fd59c32a6" target="_blank" rel="noopener noreferrer nofollow">https://doctorkevin.medium.com/accountability-partners-are-insanely-essential-for-monumental-success-831fd59c32a6</a>  
+   Link:<a href="https://doctorkevin.medium.com/accountability-partners-are-insanely-essential-for-monumental-success-831fd59c32a6" target="_blank" rel="noopener noreferrer nofollow">https://doctorkevin.medium.com/accountability-partners-are-insanely-essential-for-monumental-success-831fd59c32a6</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: jmir.org  
-   Link: <a href="https://www.jmir.org/2011/1/e30/authors" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2011/1/e30/authors</a>  
+   Link:<a href="https://www.jmir.org/2011/1/e30/authors" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2011/1/e30/authors</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: jmir.org  
-   Link: <a href="https://www.jmir.org/2011/1/e30/citations" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2011/1/e30/citations</a>  
+   Link:<a href="https://www.jmir.org/2011/1/e30/citations" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2011/1/e30/citations</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1747938X22000537" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1747938X22000537</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1747938X22000537" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1747938X22000537</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1747938X13000122" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1747938X13000122</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S1747938X13000122" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1747938X13000122</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2542454824000225" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2542454824000225</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2542454824000225" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2542454824000225</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352550925000260" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352550925000260</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S2352550925000260" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2352550925000260</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0738399123003178" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0738399123003178</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0738399123003178" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0738399123003178</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1096751623000209" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1096751623000209</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S1096751623000209" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1096751623000209</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/org/science/article/pii/S1438887125013159" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S1438887125013159</a>  
+   Link:<a href="https://www.sciencedirect.com/org/science/article/pii/S1438887125013159" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S1438887125013159</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/am/pii/S0738399123004603" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/am/pii/S0738399123004603</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/am/pii/S0738399123004603" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/am/pii/S0738399123004603</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0272735823000090" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0272735823000090</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0272735823000090" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0272735823000090</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2352396424001269" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352396424001269</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2352396424001269" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352396424001269</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: sciencedirect.com  
    Title: Behavior Change Technique  
-   Link: <a href="https://www.sciencedirect.com/topics/psychology/behavior-change-technique" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/behavior-change-technique</a>  
+   Link:<a href="https://www.sciencedirect.com/topics/psychology/behavior-change-technique" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/behavior-change-technique</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/nature-index/topics/l4/goal-setting-strategies-in-health-behavior-change" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/goal-setting-strategies-in-health-behavior-change</a>  
+   Link:<a href="https://www.nature.com/nature-index/topics/l4/goal-setting-strategies-in-health-behavior-change" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/goal-setting-strategies-in-health-behavior-change</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41599-025-05766-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-025-05766-z</a>  
+   Link:<a href="https://www.nature.com/articles/s41599-025-05766-z" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41599-025-05766-z</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: discovery.ucl.ac.uk  
-   Link: <a href="https://discovery.ucl.ac.uk/id/eprint/1400691/1/Michie_et%20al.%20%28in%20press%29%20-%20BCT%20Taxonomy%20v1%20development%20paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/id/eprint/1400691/1/Michie_et%20al.%20%28in%20press%29%20-%20BCT%20Taxonomy%20v1%20development%20paper.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UCL Discovery1 The Behavior Change Technique Taxonomy (v1) of 93...December 18, 2015 — by S Michie · 2013 · Cited by 8935 — Consequences...</p></details>
+   Link:<a href="https://discovery.ucl.ac.uk/id/eprint/1400691/1/Michie_et%20al.%20%28in%20press%29%20-%20BCT%20Taxonomy%20v1%20development%20paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/id/eprint/1400691/1/Michie_et%20al.%20%28in%20press%29%20-%20BCT%20Taxonomy%20v1%20development%20paper.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UCL Discovery1 The Behavior Change Technique Taxonomy (v1) of 93...December 18, 2015 — by S Michie · 2013 · Cited by 8935 — Consequences...</p></details>
    Published: December 18, 2015  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6796229/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6796229/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralGoal Setting and Action Planning for Health Behavior Changeby RR Bailey · 2017 · Cited by 406 — Setting appropriate goals a...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6796229/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6796229/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralGoal Setting and Action Planning for Health Behavior Changeby RR Bailey · 2017 · Cited by 406 — Setting appropriate goals a...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central The Supportive Accountability Inventory  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8122167/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8122167/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8122167/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8122167/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central A Meta-Analysis of the Effects of Mental Contrasting  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8149892/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8149892/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8149892/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8149892/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: learningcenter.unc.edu  
    Title: The Learning Center Study Groups  
-   Link: <a href="https://learningcenter.unc.edu/tips-and-tools/study-partners/" target="_blank" rel="noopener noreferrer nofollow">https://learningcenter.unc.edu/tips-and-tools/study-partners/</a>  
+   Link:<a href="https://learningcenter.unc.edu/tips-and-tools/study-partners/" target="_blank" rel="noopener noreferrer nofollow">https://learningcenter.unc.edu/tips-and-tools/study-partners/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10929687/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10929687/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10929687/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10929687/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11948784/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11948784/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11948784/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11948784/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10545861/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10545861/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10545861/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10545861/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: positivepsychology.com  
    Title: social comparison  
-   Link: <a href="https://positivepsychology.com/social-comparison/" target="_blank" rel="noopener noreferrer nofollow">https://positivepsychology.com/social-comparison/</a>  
+   Link:<a href="https://positivepsychology.com/social-comparison/" target="_blank" rel="noopener noreferrer nofollow">https://positivepsychology.com/social-comparison/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/ja/dictionary/english/implementation" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/ja/dictionary/english/implementation</a>  
+   Link:<a href="https://dictionary.cambridge.org/ja/dictionary/english/implementation" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/ja/dictionary/english/implementation</a>  
 
 ### Additional References
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=OV6h20ijZas" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OV6h20ijZas</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Accountability System That Makes Success Inevitable...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OV6h20ijZas" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OV6h20ijZas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Accountability System That Makes Success Inevitable...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
    Title: Simon Sinek on How Accountability Partners Keep You Committed  
-   Link: <a href="https://www.youtube.com/watch?v=qd10-f9bzu0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qd10-f9bzu0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter - 17 | How an Accountability Partner Can Change Everything #AtomicHabitsJamesClear...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qd10-f9bzu0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qd10-f9bzu0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter - 17 | How an Accountability Partner Can Change Everything #AtomicHabitsJamesClear...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
    Title: The Science of Accountability Partners: What Research Actually Shows  
-   Link: <a href="https://www.youtube.com/watch?v=heEbcOnMlRk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=heEbcOnMlRk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Simon Sinek on How Accountability Partners Keep You Committed...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=heEbcOnMlRk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=heEbcOnMlRk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Simon Sinek on How Accountability Partners Keep You Committed...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
    Title: The Accountability System That Makes Success Inevitable  
-   Link: <a href="https://www.youtube.com/watch?v=Ej-XE_AkNNY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ej-XE_AkNNY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How an Accountability Partner Can Help You Transform! | Dr. David Hawkins...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ej-XE_AkNNY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ej-XE_AkNNY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How an Accountability Partner Can Help You Transform! | Dr. David Hawkins...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/321440716_Unique_Effects_of_Setting_Goals_on_Behavior_Change_Systematic_Review_and_Meta-Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/321440716_Unique_Effects_of_Setting_Goals_on_Behavior_Change_Systematic_Review_and_Meta-Analysis</a>  
+   Link:<a href="https://www.researchgate.net/publication/321440716_Unique_Effects_of_Setting_Goals_on_Behavior_Change_Systematic_Review_and_Meta-Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/321440716_Unique_Effects_of_Setting_Goals_on_Behavior_Change_Systematic_Review_and_Meta-Analysis</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/328092148_The_Effect_of_Collaborative_Learning_on_Enhancing_Student_Achievement_A_Meta-Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/328092148_The_Effect_of_Collaborative_Learning_on_Enhancing_Student_Achievement_A_Meta-Analysis</a>  
+   Link:<a href="https://www.researchgate.net/publication/328092148_The_Effect_of_Collaborative_Learning_on_Enhancing_Student_Achievement_A_Meta-Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/328092148_The_Effect_of_Collaborative_Learning_on_Enhancing_Student_Achievement_A_Meta-Analysis</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/333460665_Peer_Support_a_Human_Factor_to_Enhance_Engagement_in_Digital_Health_Behavior_Change_Interventions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/333460665_Peer_Support_a_Human_Factor_to_Enhance_Engagement_in_Digital_Health_Behavior_Change_Interventions</a>  
+   Link:<a href="https://www.researchgate.net/publication/333460665_Peer_Support_a_Human_Factor_to_Enhance_Engagement_in_Digital_Health_Behavior_Change_Interventions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/333460665_Peer_Support_a_Human_Factor_to_Enhance_Engagement_in_Digital_Health_Behavior_Change_Interventions</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/342132276_Behavior_Change_Techniques_Included_in_Reports_of_Social_Media_Interventions_for_Promoting_Health_Behaviors_in_Adults_Content_Analysis_Within_a_Systematic_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342132276_Behavior_Change_Techniques_Included_in_Reports_of_Social_Media_Interventions_for_Promoting_Health_Behaviors_in_Adults_Content_Analysis_Within_a_Systematic_Review</a>  
+   Link:<a href="https://www.researchgate.net/publication/342132276_Behavior_Change_Techniques_Included_in_Reports_of_Social_Media_Interventions_for_Promoting_Health_Behaviors_in_Adults_Content_Analysis_Within_a_Systematic_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342132276_Behavior_Change_Techniques_Included_in_Reports_of_Social_Media_Interventions_for_Promoting_Health_Behaviors_in_Adults_Content_Analysis_Within_a_Systematic_Review</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes</a>  
+   Link:<a href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/382446949_The_association_between_social_support_and_prosocial_behavior_A_three-level_meta-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/382446949_The_association_between_social_support_and_prosocial_behavior_A_three-level_meta-analysis</a>
+   Link:<a href="https://www.researchgate.net/publication/382446949_The_association_between_social_support_and_prosocial_behavior_A_three-level_meta-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/382446949_The_association_between_social_support_and_prosocial_behavior_A_three-level_meta-analysis</a>

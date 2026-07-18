@@ -277,13 +277,13 @@ image: /assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_strea
 Habit apps often promise a simple bargain: do the behaviour every day and watch the streak grow. That visible chain can be remarkably motivating, especially in the early stages of habit formation when the underlying [rewards]({{ 'rewards/' | relative_url }}) are still distant. Yet real life rarely cooperates with perfect consistency. Illness, travel, family [emergencies]({{ 'emergencies/' | relative_url }}), poor sleep or simple forgetfulness can break a streak that took weeks or months to build.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_streak_freeze_recove_ff2f6f-Illustration-1-dark.svg" | relative_url }}" alt="Grace Days illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_streak_freeze_recove_ff2f6f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_streak_freeze_recove_ff2f6f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This is why many modern habit systems include grace features such as Streak Freeze tokens, recovery windows, rest days or streak repair mechanisms. Rather than treating a single missed day as total failure, these policies recognise that sustainable self-improvement depends on returning after disruption. The key question is not whether people should be allowed to miss a day. It is whether a recovery system helps protect the underlying habit without making the streak meaningless. Research on habit formation, relapse and self-compassion suggests that carefully designed flexibility can improve long-term persistence, but too much flexibility can weaken the signal that made the streak motivating in the first place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.duolingo.com/how-duolingo-streak-builds-habit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.duolingo.com">[Duolingo Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.duolingo.com</span><span class="citation-popover-title">how duolingo streak builds habit</span><span class="citation-popover-snippet">Duolingo BlogThe habit-building research behind your Duolingo streak31 Jan 2022 — The Streak Freeze, which allows you to hit pause on you...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 75 — Four studies reported the...</span></span></span>
+This is why many modern habit systems include grace features such as Streak Freeze tokens, recovery windows, rest days or streak repair mechanisms. Rather than treating a single missed day as total failure, these policies recognise that sustainable self-improvement depends on returning after disruption. The key question is not whether people should be allowed to miss a day. It is whether a recovery system helps protect the underlying habit without making the streak meaningless. Research on habit formation, relapse and self-compassion suggests that carefully designed flexibility can improve long-term persistence, but too much flexibility can weaken the signal that made the streak motivating in the first place.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.duolingo.com/how-duolingo-streak-builds-habit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.duolingo.com">[Duolingo Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.duolingo.com</span><span class="citation-popover-title">how duolingo streak builds habit</span><span class="citation-popover-snippet">Duolingo BlogThe habit-building research behind your Duolingo streak31 Jan 2022 — The Streak Freeze, which allows you to hit pause on you...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 75 — Four studies reported the...</span></span></span>
 
 ## Should Habit Apps Let You Miss a Day?
 
-The strongest argument for strict streaks is that they create clarity. A streak measures one thing: did the behaviour happen today? There is no negotiation and no ambiguity. Because people are often motivated by loss aversion—the tendency to feel losses more strongly than gains—the prospect of losing a long streak can be a powerful reason to act. This is one reason why streaks became central to products such as Duolingo and many fitness and habit-tracking apps. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.justanotherpm.com/blog/the-psychology-behind-duolingos-streak-feature" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justanotherpm.com">[JustAnotherPM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justanotherpm.com</span><span class="citation-popover-snippet">The Psychology Behind Duolingo&#x27;s Streak Feature26 May 2025 — Habit formation: Short, low-friction actions repeated daily = s...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+The strongest argument for strict streaks is that they create clarity. A streak measures one thing: did the behaviour happen today? There is no negotiation and no ambiguity. Because people are often motivated by loss aversion—the tendency to feel losses more strongly than gains—the prospect of losing a long streak can be a powerful reason to act. This is one reason why streaks became central to products such as Duolingo and many fitness and habit-tracking apps.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.justanotherpm.com/blog/the-psychology-behind-duolingos-streak-feature" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justanotherpm.com">[JustAnotherPM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justanotherpm.com</span><span class="citation-popover-snippet">The Psychology Behind Duolingo&#x27;s Streak Feature26 May 2025 — Habit formation: Short, low-friction actions repeated daily = s...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
-The problem is that strict streaks are fragile. A system that treats one missed day exactly the same as a month-long [abandonment]({{ 'abandonment/' | relative_url }}) can create an all-or-nothing mindset. The user who misses a day may feel that weeks of effort have been erased. In behaviour-change research, a lapse is often most dangerous when it is interpreted as evidence of personal failure rather than a temporary interruption. Researchers studying [behaviour change]({{ 'behaviour-change/' | relative_url }}) and relapse have repeatedly noted that setbacks are a normal part of the change process, not proof that the attempt has failed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 75 — Four studies reported the...</span></span></span>
+The problem is that strict streaks are fragile. A system that treats one missed day exactly the same as a month-long [abandonment]({{ 'abandonment/' | relative_url }}) can create an all-or-nothing mindset. The user who misses a day may feel that weeks of effort have been erased. In behaviour-change research, a lapse is often most dangerous when it is interpreted as evidence of personal failure rather than a temporary interruption. Researchers studying [behaviour change]({{ 'behaviour-change/' | relative_url }}) and relapse have repeatedly noted that setbacks are a normal part of the change process, not proof that the attempt has failed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 75 — Four studies reported the...</span></span></span>
 
 For self-improvement that works in the real world, the important outcome is not an unbroken chain. It is whether the behaviour survives disruptions.
 
@@ -300,7 +300,7 @@ This creates several useful effects:
 
 However, the same mechanism can become a weakness. When the streak itself becomes the goal, people may protect the number rather than the behaviour. A language learner might complete a ten-second lesson before midnight purely to preserve a streak. A runner might run while injured. A habit intended to improve life can become a maintenance task for a visible score.
 
-Qualitative research on run streaking illustrates this tension. Consecutive-day commitments can help people maintain behaviour and identity, but participants also describe pressure, obligation and the challenge of sustaining perfection indefinitely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 75 — Four studies reported the...</span></span></span>
+Qualitative research on run streaking illustrates this tension. Consecutive-day commitments can help people maintain behaviour and identity, but participants also describe pressure, obligation and the challenge of sustaining perfection indefinitely.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 75 — Four studies reported the...</span></span></span>
 
 The more emotionally significant the streak becomes, the greater the risk that a break feels catastrophic.
 
@@ -310,7 +310,7 @@ The more emotionally significant the streak becomes, the greater the risk that a
 
 A Streak Freeze changes the rules. Instead of defining success as "never miss", it defines success as "return after disruption".
 
-Duolingo explicitly describes its Streak Freeze as a way to preserve a streak when a day is missed, and the company has argued that this flexibility helps users remain persistent rather than abandon the habit entirely. The feature was created because strict adherence is not always realistic, even for highly motivated users. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.duolingo.com/how-duolingo-streak-builds-habit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.duolingo.com">[Duolingo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.duolingo.com</span><span class="citation-popover-title">how duolingo streak builds habit</span><span class="citation-popover-snippet">Duolingo BlogThe habit-building research behind your Duolingo streak31 Jan 2022 — The Streak Freeze, which allows you to hit pause on you...</span></span></span>
+Duolingo explicitly describes its Streak Freeze as a way to preserve a streak when a day is missed, and the company has argued that this flexibility helps users remain persistent rather than abandon the habit entirely. The feature was created because strict adherence is not always realistic, even for highly motivated users.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.duolingo.com/how-duolingo-streak-builds-habit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.duolingo.com">[Duolingo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.duolingo.com</span><span class="citation-popover-title">how duolingo streak builds habit</span><span class="citation-popover-snippet">Duolingo BlogThe habit-building research behind your Duolingo streak31 Jan 2022 — The Streak Freeze, which allows you to hit pause on you...</span></span></span>
 
 The governance question behind a grace-day policy is simple: what counts as a legitimate interruption?
 
@@ -333,24 +333,24 @@ Importantly, the habit remains visible. The user still notices the interruption.
 
 The strongest case for flexibility emerges from what is known about habit formation and behavioural lapses.
 
-Habit formation is not a perfectly linear process. Reviews of habit research show that automaticity develops over time through repetition, but the process varies widely across individuals and behaviours. Studies have reported median formation periods around two months, while some habits take much longer. A single missed occurrence does not erase the learning accumulated through weeks of repetition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 75 — Four studies reported the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[University College London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-title">how long does it take form habit</span><span class="citation-popover-snippet">University College LondonHow long does it take to form a habit?4 Aug 2009 — It takes an average 66 days to form a new habit, according to...</span></span></span>
+Habit formation is not a perfectly linear process. Reviews of habit research show that automaticity develops over time through repetition, but the process varies widely across individuals and behaviours. Studies have reported median formation periods around two months, while some habits take much longer. A single missed occurrence does not erase the learning accumulated through weeks of repetition.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 75 — Four studies reported the...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[University College London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-title">how long does it take form habit</span><span class="citation-popover-snippet">University College LondonHow long does it take to form a habit?4 Aug 2009 — It takes an average 66 days to form a new habit, according to...</span></span></span>
 
 Grace mechanisms can therefore support habit persistence in several ways.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_streak_freeze_recove_ff2f6f-Illustration-2-dark.svg" | relative_url }}" alt="Grace Days illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_streak_freeze_recove_ff2f6f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_streak_freeze_recove_ff2f6f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### They reduce all-or-nothing thinking
 
-A missed day is less likely to become a reason for quitting altogether. Behaviour-change researchers emphasise that relapse and lapses are common during change efforts. Framing them as temporary setbacks rather than total failure increases the chance of re-engagement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 75 — Four studies reported the...</span></span></span>
+A missed day is less likely to become a reason for quitting altogether. Behaviour-change researchers emphasise that relapse and lapses are common during change efforts. Framing them as temporary setbacks rather than total failure increases the chance of re-engagement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 75 — Four studies reported the...</span></span></span>
 
 ### They support self-compassion
 
-Research examining responses to dietary lapses found that self-kindness was associated with greater control over subsequent behaviour. Instead of spiralling into guilt, people who responded more constructively were better positioned to continue pursuing their goals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 75 — Four studies reported the...</span></span></span>
+Research examining responses to dietary lapses found that self-kindness was associated with greater control over subsequent behaviour. Instead of spiralling into guilt, people who responded more constructively were better positioned to continue pursuing their goals.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 75 — Four studies reported the...</span></span></span>
 
 A grace-day policy effectively embeds a form of self-compassion into product design. The system acknowledges that human behaviour is imperfect.
 
 ### They encourage return behaviour
 
-Evidence from Duolingo's experimentation suggests that allowing users more flexibility through additional streak freezes improved return rates among people who had taken time away from the app. The company observed that users who experienced interruptions were more likely to come back when recovery mechanisms existed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/lennyrachitsky_the-thinking-behind-duolingos-streak-freezes-activity-7275197877256179713-tvBJ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">The thinking behind Duolingo&#x27;s streak freezes feature, and...So basically users who had taken a day off, we were getting them to...</span></span></span>
+Evidence from Duolingo's experimentation suggests that allowing users more flexibility through additional streak freezes improved return rates among people who had taken time away from the app. The company observed that users who experienced interruptions were more likely to come back when recovery mechanisms existed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/posts/lennyrachitsky_the-thinking-behind-duolingos-streak-freezes-activity-7275197877256179713-tvBJ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">The thinking behind Duolingo&#x27;s streak freezes feature, and...So basically users who had taken a day off, we were getting them to...</span></span></span>
 
 This is a critical distinction. The goal is not preserving a number. The goal is preserving the habit.
 
@@ -382,7 +382,7 @@ A useful grace policy therefore preserves some friction. Missing a day should re
 
 An increasingly popular compromise is the earn-back model.
 
-Instead of permanently protecting a streak, the system allows users to recover it through additional effort. Recent examples in language-learning apps have included completing extra lessons within a defined period after losing a streak. Advocates argue that this approach preserves the value of consistency while recognising that occasional disruptions happen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thesun.co.uk/tech/39274143/duolingo-streak-lost-new-recovery-method/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesun.co.uk">[The Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesun.co.uk</span><span class="citation-popover-title">The Sun Lost your Duolingo streak?</span><span class="citation-popover-snippet">There&#x27;s a new way you can get it BACK3 days ago — Duolingo has introduced a long-requested feature allowing users to recover lost activit...</span></span></span>
+Instead of permanently protecting a streak, the system allows users to recover it through additional effort. Recent examples in language-learning apps have included completing extra lessons within a defined period after losing a streak. Advocates argue that this approach preserves the value of consistency while recognising that occasional disruptions happen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thesun.co.uk/tech/39274143/duolingo-streak-lost-new-recovery-method/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesun.co.uk">[The Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesun.co.uk</span><span class="citation-popover-title">The Sun Lost your Duolingo streak?</span><span class="citation-popover-snippet">There&#x27;s a new way you can get it BACK3 days ago — Duolingo has introduced a long-requested feature allowing users to recover lost activit...</span></span></span>
 
 From a behaviour-change perspective, earn-back systems have an attractive property: they reinforce the target behaviour itself.
 
@@ -404,199 +404,199 @@ For self-improvement purposes, the most effective grace systems tend to follow a
 
 This balance reflects a broader lesson from behaviour science. Sustainable habits are not built by never failing. They are built by recovering quickly when failure occurs.
 
-A streak can be a useful form of visible feedback, but the most valuable number is not the longest uninterrupted chain. It is the number of times a person returns to the behaviour after life inevitably gets in the way. A well-designed Streak Freeze or recovery policy recognises that resilience, not perfection, is what keeps habits alive over the long term. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 75 — Four studies reported the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.duolingo.com/how-duolingo-streak-builds-habit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.duolingo.com">[Duolingo Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.duolingo.com</span><span class="citation-popover-title">how duolingo streak builds habit</span><span class="citation-popover-snippet">Duolingo BlogThe habit-building research behind your Duolingo streak31 Jan 2022 — The Streak Freeze, which allows you to hit pause on you...</span></span></span>
+A streak can be a useful form of visible feedback, but the most valuable number is not the longest uninterrupted chain. It is the number of times a person returns to the behaviour after life inevitably gets in the way. A well-designed Streak Freeze or recovery policy recognises that resilience, not perfection, is what keeps habits alive over the long term.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 75 — Four studies reported the...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.duolingo.com/how-duolingo-streak-builds-habit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.duolingo.com">[Duolingo Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.duolingo.com</span><span class="citation-popover-title">how duolingo streak builds habit</span><span class="citation-popover-snippet">Duolingo BlogThe habit-building research behind your Duolingo streak31 Jan 2022 — The Streak Freeze, which allows you to hit pause on you...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cCWYiCMEQDk" title="The Psychology Behind Duolingo&#x27;s Streak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cCWYiCMEQDk" target="_blank" rel="noopener noreferrer">The Psychology Behind Duolingo&#x27;s Streak</a></p><p class="youtube-embed-meta">Channel: Tarek Reslan &middot; Views: 4.4K &middot; Uploaded: February 2024 &middot; Length: 3 minutes 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cCWYiCMEQDk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cCWYiCMEQDk">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Should Habit Apps Let You Miss a Day?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Should Habit Apps Let You Miss a Day?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Addresses recovering from missed days and maintaining consistency.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Addresses recovering from missed days and maintaining consistency.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
-        </h4>
-        <p class="fr-book-author">By B. J. Fogg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
+</h4>
+<p class="fr-book-author">By B. J. Fogg</p>
         
-        <p class="fr-book-desc">Focuses on keeping habits alive through easy actions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on keeping habits alive through easy actions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rrlPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Power of Habit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
-        </h4>
-        <p class="fr-book-author">By Charles Duhigg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rrlPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Power of Habit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
+</h4>
+<p class="fr-book-author">By Charles Duhigg</p>
         
-        <p class="fr-book-desc">Explains why routine continuity matters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why routine continuity matters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bOGHDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Carol S. Dweck</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bOGHDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
+</h4>
+<p class="fr-book-author">By Carol S. Dweck</p>
         
-        <p class="fr-book-desc">Supports recovery from setbacks without all-or-nothing thinking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports recovery from setbacks without all-or-nothing thinking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Power+of+Habit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Power of Habit</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Power+of+Habit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Power of Habit</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Wall Calendar 2026"><img src="https://i.ebayimg.com/images/g/BgMAAeSw0mNqArLP/s-l225.jpg" alt="Listing image for Habit Tracker Wall Calendar 2026" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Wall Calendar 2026</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Wall Calendar 2026"><img src="https://i.ebayimg.com/images/g/BgMAAeSw0mNqArLP/s-l225.jpg" alt="Listing image for Habit Tracker Wall Calendar 2026" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Wall Calendar 2026</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Clever Fox Habit Tracker Calendar Habit &amp; Goal Planner Journal (Turquoise)"><img src="https://i.ebayimg.com/images/g/dBsAAeSwXVho5J1X/s-l225.jpg" alt="Listing image for Clever Fox Habit Tracker Calendar Habit &amp; Goal Planner Journal (Turquoise)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Clever Fox Habit Tracker Calendar Habit &amp; Goal Planner Journal (Turquoise)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Clever Fox Habit Tracker Calendar Habit &amp; Goal Planner Journal (Turquoise)"><img src="https://i.ebayimg.com/images/g/dBsAAeSwXVho5J1X/s-l225.jpg" alt="Listing image for Clever Fox Habit Tracker Calendar Habit &amp; Goal Planner Journal (Turquoise)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Clever Fox Habit Tracker Calendar Habit &amp; Goal Planner Journal (Turquoise)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1Pc Habit Tracker Calendar to Do List Planner Spiral Bound Daily Weekly and Mont"><img src="https://i.ebayimg.com/images/g/HOMAAeSwHUxp6goB/s-l225.jpg" alt="Listing image for 1Pc Habit Tracker Calendar to Do List Planner Spiral Bound Daily Weekly and Mont" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">1Pc Habit Tracker Calendar to Do List Planner Spiral Bound Daily Weekly and Mont</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1Pc Habit Tracker Calendar to Do List Planner Spiral Bound Daily Weekly and Mont"><img src="https://i.ebayimg.com/images/g/HOMAAeSwHUxp6goB/s-l225.jpg" alt="Listing image for 1Pc Habit Tracker Calendar to Do List Planner Spiral Bound Daily Weekly and Mont" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">1Pc Habit Tracker Calendar to Do List Planner Spiral Bound Daily Weekly and Mont</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar – Daily, Weekly &amp; Monthly Habit &amp; Goal Tracker, Wire-Boun"><img src="https://i.ebayimg.com/images/g/cOEAAeSw5jFppzlq/s-l225.jpg" alt="Listing image for Habit Tracker Calendar – Daily, Weekly &amp; Monthly Habit &amp; Goal Tracker, Wire-Boun" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar – Daily, Weekly &amp; Monthly Habit &amp; Goal Tracker, Wire-Boun</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar – Daily, Weekly &amp; Monthly Habit &amp; Goal Tracker, Wire-Boun"><img src="https://i.ebayimg.com/images/g/cOEAAeSw5jFppzlq/s-l225.jpg" alt="Listing image for Habit Tracker Calendar – Daily, Weekly &amp; Monthly Habit &amp; Goal Tracker, Wire-Boun" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar – Daily, Weekly &amp; Monthly Habit &amp; Goal Tracker, Wire-Boun</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=should-habit-apps-let-you-miss-a-day-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="should-habit-apps-let-you-miss-a-day-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -612,7 +612,7 @@ A streak can be a useful form of visible feedback, but the most valuable number 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -632,7 +632,7 @@ A streak can be a useful form of visible feedback, but the most valuable number 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -664,7 +664,7 @@ A streak can be a useful form of visible feedback, but the most valuable number 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -716,7 +716,7 @@ A streak can be a useful form of visible feedback, but the most valuable number 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -761,7 +761,7 @@ A streak can be a useful form of visible feedback, but the most valuable number 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -802,179 +802,179 @@ A streak can be a useful form of visible feedback, but the most valuable number 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: blog.duolingo.com  
    Title: how duolingo streak builds habit  
-   Link: <a href="https://blog.duolingo.com/how-duolingo-streak-builds-habit/" target="_blank" rel="noopener noreferrer nofollow">https://blog.duolingo.com/how-duolingo-streak-builds-habit/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Duolingo BlogThe habit-building research behind your Duolingo streak31 Jan 2022 — The Streak Freeze, which allows you to hit pause on you...</p></details>
+   Link:<a href="https://blog.duolingo.com/how-duolingo-streak-builds-habit/" target="_blank" rel="noopener noreferrer nofollow">https://blog.duolingo.com/how-duolingo-streak-builds-habit/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Duolingo BlogThe habit-building research behind your Duolingo streak31 Jan 2022 — The Streak Freeze, which allows you to hit pause on you...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: justanotherpm.com  
-   Link: <a href="https://www.justanotherpm.com/blog/the-psychology-behind-duolingos-streak-feature" target="_blank" rel="noopener noreferrer nofollow">https://www.justanotherpm.com/blog/the-psychology-behind-duolingos-streak-feature</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychology Behind Duolingo&#x27;s Streak Feature26 May 2025 — Habit formation: Short, low-friction actions repeated daily = s...</p></details>
+   Link:<a href="https://www.justanotherpm.com/blog/the-psychology-behind-duolingos-streak-feature" target="_blank" rel="noopener noreferrer nofollow">https://www.justanotherpm.com/blog/the-psychology-behind-duolingos-streak-feature</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychology Behind Duolingo&#x27;s Streak Feature26 May 2025 — Habit formation: Short, low-friction actions repeated daily = s...</p></details>
    Published: May 2025  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: duolingo.com  
    Title: Help Center  
-   Link: <a href="https://www.duolingo.com/help/what-is-a-streak" target="_blank" rel="noopener noreferrer nofollow">https://www.duolingo.com/help/what-is-a-streak</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Help Center - What is a streak?A streak freeze lets you maintain your streak when you forget to practice for a day. A streak free...</p></details>
+   Link:<a href="https://www.duolingo.com/help/what-is-a-streak" target="_blank" rel="noopener noreferrer nofollow">https://www.duolingo.com/help/what-is-a-streak</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Help Center - What is a streak?A streak freeze lets you maintain your streak when you forget to practice for a day. A streak free...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/lennyrachitsky_the-thinking-behind-duolingos-streak-freezes-activity-7275197877256179713-tvBJ" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/lennyrachitsky_the-thinking-behind-duolingos-streak-freezes-activity-7275197877256179713-tvBJ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The thinking behind Duolingo&#x27;s streak freezes feature, and...So basically users who had taken a day off, we were getting them to...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/lennyrachitsky_the-thinking-behind-duolingos-streak-freezes-activity-7275197877256179713-tvBJ" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/lennyrachitsky_the-thinking-behind-duolingos-streak-freezes-activity-7275197877256179713-tvBJ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The thinking behind Duolingo&#x27;s streak freezes feature, and...So basically users who had taken a day off, we were getting them to...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: self-compassion.org  
-   Link: <a href="https://self-compassion.org/self-compassion-practices/" target="_blank" rel="noopener noreferrer nofollow">https://self-compassion.org/self-compassion-practices/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Compassion Practices: Cultivate Inner Peace and JoyExplore the benefits of self-compassion practices. Foster self-love, resilience...</p></details>
+   Link:<a href="https://self-compassion.org/self-compassion-practices/" target="_blank" rel="noopener noreferrer nofollow">https://self-compassion.org/self-compassion-practices/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Compassion Practices: Cultivate Inner Peace and JoyExplore the benefits of self-compassion practices. Foster self-love, resilience...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: blog.duolingo.com  
    Title: improving the streak  
-   Link: <a href="https://blog.duolingo.com/improving-the-streak/" target="_blank" rel="noopener noreferrer nofollow">https://blog.duolingo.com/improving-the-streak/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the streak: Forming habits one lesson at a time19 Nov 2020 — Under our new change, learners complete just one lesson to extend their stre...</p></details>
+   Link:<a href="https://blog.duolingo.com/improving-the-streak/" target="_blank" rel="noopener noreferrer nofollow">https://blog.duolingo.com/improving-the-streak/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the streak: Forming habits one lesson at a time19 Nov 2020 — Under our new change, learners complete just one lesson to extend their stre...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: blog.duolingo.com  
    Title: how to keep your streak on vacation  
-   Link: <a href="https://blog.duolingo.com/how-to-keep-your-streak-on-vacation/" target="_blank" rel="noopener noreferrer nofollow">https://blog.duolingo.com/how-to-keep-your-streak-on-vacation/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>· Do lessons that feel the most manageable.; Adapt to your new schedule · Find yourself a...Read more...</p></details>
+   Link:<a href="https://blog.duolingo.com/how-to-keep-your-streak-on-vacation/" target="_blank" rel="noopener noreferrer nofollow">https://blog.duolingo.com/how-to-keep-your-streak-on-vacation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>· Do lessons that feel the most manageable.; Adapt to your new schedule · Find yourself a...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/habit-formation-science-backed-strategies-leaders-pedro-qsahf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/habit-formation-science-backed-strategies-leaders-pedro-qsahf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit Formation: Science-Backed Strategies for Leaders to...Streak maintenance: The psychological power of unbroken streaks has been val...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/habit-formation-science-backed-strategies-leaders-pedro-qsahf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/habit-formation-science-backed-strategies-leaders-pedro-qsahf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Habit Formation: Science-Backed Strategies for Leaders to...Streak maintenance: The psychological power of unbroken streaks has been val...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 75 — Four studies reported the...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 75 — Four studies reported the...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: It is always  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralRelapse on the Road to Recovery: Learning the Lessons of...by CC DiClemente · 2022 · Cited by 64 — Relapse, or the failure...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralRelapse on the Road to Recovery: Learning the Lessons of...by CC DiClemente · 2022 · Cited by 64 — Relapse, or the failure...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40salamprem49/duolingo-streak-system-detailed-breakdown-design-flow-886f591c953f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40salamprem49/duolingo-streak-system-detailed-breakdown-design-flow-886f591c953f</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sychology of commitment and loss aversion, people feel...Read more...</p></details>
+   Link:<a href="https://medium.com/%40salamprem49/duolingo-streak-system-detailed-breakdown-design-flow-886f591c953f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40salamprem49/duolingo-streak-system-detailed-breakdown-design-flow-886f591c953f</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sychology of commitment and loss aversion, people feel...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 856 — Psychological theor...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 856 — Psychological theor...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11494719/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11494719/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralQualitative study examining streaking as a behaviour change...by M Curran · 2024 · Cited by 4 — The aim of the study is to...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11494719/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11494719/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralQualitative study examining streaking as a behaviour change...by M Curran · 2024 · Cited by 4 — The aim of the study is to...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ucl.ac.uk  
    Title: how long does it take form habit  
-   Link: <a href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow">https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>University College LondonHow long does it take to form a habit?4 Aug 2009 — It takes an average [66 days](&amp;#123;&amp;#123; &#x27;66-days/&#x27; | relative_url &amp;#125;&amp;#125;) to form a new habit, according to...</p></details>
+   Link:<a href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow">https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University College LondonHow long does it take to form a habit?4 Aug 2009 — It takes an average [66 days](&amp;#123;&amp;#123; &#x27;66-days/&#x27; | relative_url &amp;#125;&amp;#125;) to form a new habit, according to...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10543633/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10543633/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Our findings showed that self-...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10543633/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10543633/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Our findings showed that self-...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: thesun.co.uk  
    Title: The Sun Lost your Duolingo streak?  
-   Link: <a href="https://www.thesun.co.uk/tech/39274143/duolingo-streak-lost-new-recovery-method/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/tech/39274143/duolingo-streak-lost-new-recovery-method/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>There&#x27;s a new way you can get it BACK3 days ago — Duolingo has introduced a long-requested feature allowing users to recover lost activit...</p></details>
+   Link:<a href="https://www.thesun.co.uk/tech/39274143/duolingo-streak-lost-new-recovery-method/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/tech/39274143/duolingo-streak-lost-new-recovery-method/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>There&#x27;s a new way you can get it BACK3 days ago — Duolingo has introduced a long-requested feature allowing users to recover lost activit...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/duolingo/comments/11qqo47/duolingo_applies_a_streak_freeze_even_though_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/duolingo/comments/11qqo47/duolingo_applies_a_streak_freeze_even_though_a/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ied over otherwise I never would have lost my biggest streak.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/duolingo/comments/11qqo47/duolingo_applies_a_streak_freeze_even_though_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/duolingo/comments/11qqo47/duolingo_applies_a_streak_freeze_even_though_a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ied over otherwise I never would have lost my biggest streak.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: duolingo.fandom.com  
    Title: Streak freeze  
-   Link: <a href="https://duolingo.fandom.com/wiki/Shop/Streak_freeze" target="_blank" rel="noopener noreferrer nofollow">https://duolingo.fandom.com/wiki/Shop/Streak_freeze</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>fandom.comShop/Streak freeze - Duolingo Wiki - FandomA streak freeze can be bought at any time and will stay equipped until you miss a da...</p></details>
+   Link:<a href="https://duolingo.fandom.com/wiki/Shop/Streak_freeze" target="_blank" rel="noopener noreferrer nofollow">https://duolingo.fandom.com/wiki/Shop/Streak_freeze</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fandom.comShop/Streak freeze - Duolingo Wiki - FandomA streak freeze can be bought at any time and will stay equipped until you miss a da...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: duolingo.fandom.com  
-   Link: <a href="https://duolingo.fandom.com/wiki/Streak" target="_blank" rel="noopener noreferrer nofollow">https://duolingo.fandom.com/wiki/Streak</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Duolingo Wiki - FandomYou can freeze your streak to avoid it resetting from a day of inactivity by buying a streak freeze in the gems sto...</p></details>
+   Link:<a href="https://duolingo.fandom.com/wiki/Streak" target="_blank" rel="noopener noreferrer nofollow">https://duolingo.fandom.com/wiki/Streak</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Duolingo Wiki - FandomYou can freeze your streak to avoid it resetting from a day of inactivity by buying a streak freeze in the gems sto...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/design-bootcamp/duolingo-and-the-psychology-of-streaks-why-you-cant-stop-learning-e926b190acaa" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/design-bootcamp/duolingo-and-the-psychology-of-streaks-why-you-cant-stop-learning-e926b190acaa</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>st to avoid losing progress? Congrats, you&#x27;ve been loss-averse!Read more...</p></details>
+   Link:<a href="https://medium.com/design-bootcamp/duolingo-and-the-psychology-of-streaks-why-you-cant-stop-learning-e926b190acaa" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/design-bootcamp/duolingo-and-the-psychology-of-streaks-why-you-cant-stop-learning-e926b190acaa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>st to avoid losing progress? Congrats, you&#x27;ve been loss-averse!Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: duoplanet.com  
    Title: Duolingo Streak Freeze  
-   Link: <a href="https://duoplanet.com/duolingo-streak-freeze/" target="_blank" rel="noopener noreferrer nofollow">https://duoplanet.com/duolingo-streak-freeze/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This means that if you miss a day — i.e. you don&#x27;t login...Read more...</p></details>
+   Link:<a href="https://duoplanet.com/duolingo-streak-freeze/" target="_blank" rel="noopener noreferrer nofollow">https://duoplanet.com/duolingo-streak-freeze/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This means that if you miss a day — i.e. you don&#x27;t login...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: duolingo.hobune.stream  
-   Link: <a href="https://duolingo.hobune.stream/comment/10483341/Hey-Duo-here-s-a-better-way-for-folks-to-preserve-their-streak" target="_blank" rel="noopener noreferrer nofollow">https://duolingo.hobune.stream/comment/10483341/Hey-Duo-here-s-a-better-way-for-folks-to-preserve-their-streak</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Duo, here&#x27;s a better way for folks to preserve their &quot;...You say buying a streak freeze leads to less study, but you have to have studie...</p></details>
+   Link:<a href="https://duolingo.hobune.stream/comment/10483341/Hey-Duo-here-s-a-better-way-for-folks-to-preserve-their-streak" target="_blank" rel="noopener noreferrer nofollow">https://duolingo.hobune.stream/comment/10483341/Hey-Duo-here-s-a-better-way-for-folks-to-preserve-their-streak</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Duo, here&#x27;s a better way for folks to preserve their &quot;...You say buying a streak freeze leads to less study, but you have to have studie...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: orizon.co  
    Title: duolingos gamification secrets  
-   Link: <a href="https://www.orizon.co/blog/duolingos-gamification-secrets" target="_blank" rel="noopener noreferrer nofollow">https://www.orizon.co/blog/duolingos-gamification-secrets</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Duolingo&#x27;s Gamification Secrets: How Streaks &amp; XP Boost...19 Feb 2025 — In this article, we break down Duolingo&#x27;s most impactful UX stra...</p></details>
+   Link:<a href="https://www.orizon.co/blog/duolingos-gamification-secrets" target="_blank" rel="noopener noreferrer nofollow">https://www.orizon.co/blog/duolingos-gamification-secrets</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Duolingo&#x27;s Gamification Secrets: How Streaks &amp; XP Boost...19 Feb 2025 — In this article, we break down Duolingo&#x27;s most impactful UX stra...</p></details>
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/382076431_Self-Compassion_is_Associated_with_Improved_Well-Being_and_Healthier_Cortisol_Profiles_in_Undergraduate_Students" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/382076431_Self-Compassion_is_Associated_with_Improved_Well-Being_and_Healthier_Cortisol_Profiles_in_Undergraduate_Students</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Self-Compassion is Associated with Improved Well...8 Jul 2024 — Conclusions These results confirm that self-compassion may be prot...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/382076431_Self-Compassion_is_Associated_with_Improved_Well-Being_and_Healthier_Cortisol_Profiles_in_Undergraduate_Students" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/382076431_Self-Compassion_is_Associated_with_Improved_Well-Being_and_Healthier_Cortisol_Profiles_in_Undergraduate_Students</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Self-Compassion is Associated with Improved Well...8 Jul 2024 — Conclusions These results confirm that self-compassion may be prot...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/383867423_Self-compassion_and_mental_health_a_systematic_review_and_transactional_model_on_mechanisms_of_change" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/383867423_Self-compassion_and_mental_health_a_systematic_review_and_transactional_model_on_mechanisms_of_change</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-compassion and mental health: a systematic review...12 Sept 2024 — There is strong evidence that self-compassion improves both face...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/383867423_Self-compassion_and_mental_health_a_systematic_review_and_transactional_model_on_mechanisms_of_change" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/383867423_Self-compassion_and_mental_health_a_systematic_review_and_transactional_model_on_mechanisms_of_change</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-compassion and mental health: a systematic review...12 Sept 2024 — There is strong evidence that self-compassion improves both face...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/habit" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/habit</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HABIT Definition &amp; Meaning6 days ago — The word habit most often refers to a usual way of behaving or a tendency that someone has settled...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/habit" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/habit</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HABIT Definition &amp; Meaning6 days ago — The word habit most often refers to a usual way of behaving or a tendency that someone has settled...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/science/comments/1i9xaah/myth_busted_healthy_habits_take_longer_than_21/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/science/comments/1i9xaah/myth_busted_healthy_habits_take_longer_than_21/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Myth busted: Healthy habits take longer than 21 days to set inResearchers found that new habits can begin forming within about two months...</p></details>
+   Link:<a href="https://www.reddit.com/r/science/comments/1i9xaah/myth_busted_healthy_habits_take_longer_than_21/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/science/comments/1i9xaah/myth_busted_healthy_habits_take_longer_than_21/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Myth busted: Healthy habits take longer than 21 days to set inResearchers found that new habits can begin forming within about two months...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/design-bootcamp/streaks-the-gamification-feature-everyone-gets-wrong-6506e46fa9ca" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/design-bootcamp/streaks-the-gamification-feature-everyone-gets-wrong-6506e46fa9ca</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Streaks: The Gamification Feature Everyone Gets WrongDuolingo&#x27;s solution was the streak freeze: an item users can earn or purchase that p...</p></details>
+   Link:<a href="https://medium.com/design-bootcamp/streaks-the-gamification-feature-everyone-gets-wrong-6506e46fa9ca" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/design-bootcamp/streaks-the-gamification-feature-everyone-gets-wrong-6506e46fa9ca</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Streaks: The Gamification Feature Everyone Gets WrongDuolingo&#x27;s solution was the streak freeze: an item users can earn or purchase that p...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: theonlinegp.com  
-   Link: <a href="https://www.theonlinegp.com/blog/transform-your-life-in-30-days-the-science-backed-guide-to-building-habits-that-actually-stick" target="_blank" rel="noopener noreferrer nofollow">https://www.theonlinegp.com/blog/transform-your-life-in-30-days-the-science-backed-guide-to-building-habits-that-actually-stick</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Transform Your Life in 30 Days: The Science-Backed...12 Aug 2025 — Self-compassion research reveals that individuals who treat themselve...</p></details>
+   Link:<a href="https://www.theonlinegp.com/blog/transform-your-life-in-30-days-the-science-backed-guide-to-building-habits-that-actually-stick" target="_blank" rel="noopener noreferrer nofollow">https://www.theonlinegp.com/blog/transform-your-life-in-30-days-the-science-backed-guide-to-building-habits-that-actually-stick</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Transform Your Life in 30 Days: The Science-Backed...12 Aug 2025 — Self-compassion research reveals that individuals who treat themselve...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: thelakestreatmentcenter.com  
-   Link: <a href="https://www.thelakestreatmentcenter.com/bad-habits-in-recovery/" target="_blank" rel="noopener noreferrer nofollow">https://www.thelakestreatmentcenter.com/bad-habits-in-recovery/</a>  
+   Link:<a href="https://www.thelakestreatmentcenter.com/bad-habits-in-recovery/" target="_blank" rel="noopener noreferrer nofollow">https://www.thelakestreatmentcenter.com/bad-habits-in-recovery/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: trophy.so  
-   Link: <a href="https://trophy.so/blog/the-psychology-of-streaks-how-sylvi-weaponized-duolingos-best-feature-against-them" target="_blank" rel="noopener noreferrer nofollow">https://trophy.so/blog/the-psychology-of-streaks-how-sylvi-weaponized-duolingos-best-feature-against-them</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychology of Streaks: How Sylvi Weaponized Duolingo&#x27;s...30 Jun 2025 — The research revealed that consecutive daily activity creates...</p></details>
+   Link:<a href="https://trophy.so/blog/the-psychology-of-streaks-how-sylvi-weaponized-duolingos-best-feature-against-them" target="_blank" rel="noopener noreferrer nofollow">https://trophy.so/blog/the-psychology-of-streaks-how-sylvi-weaponized-duolingos-best-feature-against-them</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychology of Streaks: How Sylvi Weaponized Duolingo&#x27;s...30 Jun 2025 — The research revealed that consecutive daily activity creates...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40ann_p/when-life-resets-how-to-rebuild-habits-that-hold-you-steady-d979f23d38d7" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40ann_p/when-life-resets-how-to-rebuild-habits-that-hold-you-steady-d979f23d38d7</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Treat it as information about triggers, not moral failure. Practice self-compassion deliberately. Self...Read more...</p></details>
+   Link:<a href="https://medium.com/%40ann_p/when-life-resets-how-to-rebuild-habits-that-hold-you-steady-d979f23d38d7" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40ann_p/when-life-resets-how-to-rebuild-habits-that-hold-you-steady-d979f23d38d7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Treat it as information about triggers, not moral failure. Practice self-compassion deliberately. Self...Read more...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/publishous/a-broken-streak-broken-motivation-and-living-with-a-brain-that-wont-behave-d63068bfe730" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/publishous/a-broken-streak-broken-motivation-and-living-with-a-brain-that-wont-behave-d63068bfe730</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Streaks can drive engagement through loss aversion psychology. But when the streak resets to zero...Read more...</p></details>
+   Link:<a href="https://medium.com/publishous/a-broken-streak-broken-motivation-and-living-with-a-brain-that-wont-behave-d63068bfe730" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/publishous/a-broken-streak-broken-motivation-and-living-with-a-brain-that-wont-behave-d63068bfe730</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Streaks can drive engagement through loss aversion psychology. But when the streak resets to zero...Read more...</p></details>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /self-improvement-tha-c01280-specific/
 description: Focused pages that expand on Goal Setting.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: self_improvement_tha_c01280_specific_behaviour_g_4d4ee0
 parent_title: Goal Setting
@@ -16,7 +16,7 @@ parent_permalink: /goal-setting/
 
 # Explore Topics in Goal Setting
 
-The following pages expand on the main **[Goal Setting]({{ '/goal-setting/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Goal Setting]({{ '/goal-setting/' | relative_url }})** page and cover its key branches in.
 
 - [Goal Conversion]({{ '/goal-conversion/' | relative_url }})
 - [Frequency]({{ '/frequency/' | relative_url }})

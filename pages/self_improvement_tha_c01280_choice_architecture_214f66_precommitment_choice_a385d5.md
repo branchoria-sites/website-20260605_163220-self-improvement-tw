@@ -268,7 +268,7 @@ image: /assets/images/self_improvement_tha_c01280_choice_architecture_214f66_pre
 
 ## Introduction
 
-Pre-commitment is the practice of making a decision today that protects a goal tomorrow. Within choice architecture, it is one of the most practical ways to reduce the gap between intentions and actions. Rather than relying on [willpower]({{ 'willpower/' | relative_url }}) when tired, stressed, hungry or distracted, a person arranges circumstances in advance so that the desired behaviour becomes easier and the unwanted behaviour becomes harder. Researchers in behavioural economics and psychology refer to these arrangements as commitment devices: voluntary constraints that help people follow through on plans they already endorse. Evidence from studies of [saving]({{ 'saving/' | relative_url }}), food choice, exercise, education and health behaviour suggests that well-designed pre-commitments can improve follow-through, especially when they are chosen freely and matched to predictable moments of weakness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/24777472/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Commitment devices: using initiatives to change behaviorby T Rogers · 2014 · Cited by 248 — Commitment devices: using initiatives t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://houdekpetr.cz/%21data/public_html/papers/Bryan%20et%20al%202010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: houdekpetr.cz">[Petr Houdek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">houdekpetr.cz</span><span class="citation-popover-title">Bryan et al 2010</span><span class="citation-popover-snippet">Petr HoudekCommitment Devicesby G Bryan · 2010 · Cited by 834 — We refer to commitment devices that call for real economic penalties for...</span></span></span>
+Pre-commitment is the practice of making a decision today that protects a goal tomorrow. Within choice architecture, it is one of the most practical ways to reduce the gap between intentions and actions. Rather than relying on [willpower]({{ 'willpower/' | relative_url }}) when tired, stressed, hungry or distracted, a person arranges circumstances in advance so that the desired behaviour becomes easier and the unwanted behaviour becomes harder. Researchers in behavioural economics and psychology refer to these arrangements as commitment devices: voluntary constraints that help people follow through on plans they already endorse. Evidence from studies of [saving]({{ 'saving/' | relative_url }}), food choice, exercise, education and health behaviour suggests that well-designed pre-commitments can improve follow-through, especially when they are chosen freely and matched to predictable moments of weakness.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/24777472/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Commitment devices: using initiatives to change behaviorby T Rogers · 2014 · Cited by 248 — Commitment devices: using initiatives t...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://houdekpetr.cz/%21data/public_html/papers/Bryan%20et%20al%202010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: houdekpetr.cz">[Petr Houdek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">houdekpetr.cz</span><span class="citation-popover-title">Bryan et al 2010</span><span class="citation-popover-snippet">Petr HoudekCommitment Devicesby G Bryan · 2010 · Cited by 834 — We refer to commitment devices that call for real economic penalties for...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_precommitment_choice_a385d5-Illustration-1-dark.svg" | relative_url }}" alt="Precommitment illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_precommitment_choice_a385d5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_precommitment_choice_a385d5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The key idea is simple: your calmer self often knows more about your long-term interests than your future tired self. Pre-commitment gives that calmer self some authority before temptation arrives.
@@ -277,7 +277,7 @@ The key idea is simple: your calmer self often knows more about your long-term i
 
 Many goals fail not because people change their values, but because preferences shift with circumstances. A plan made on Sunday evening can feel sensible and attractive. The same plan may feel inconvenient on Tuesday afternoon after poor sleep, unexpected stress or a demanding day.
 
-Behavioural economists describe this pattern as a form of present bias: immediate comfort or convenience gains weight when the decision moment arrives. Commitment devices exist because people often recognise this pattern in advance and willingly choose constraints to protect themselves from it. The classic logic is not that future selves are irrational, but that they face different incentives and emotions than the self making the original plan. Petr Houdek PubMed Research on precommitment repeatedly finds that people are often willing to restrict their future options when they anticipate a self-control <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=HFcqu7ai69Y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Ulysses pact &#124; Commitment Device</span><span class="citation-popover-snippet">Behavioural Economics - Commitment Contracts...</span></span></span> problem. Experimental studies suggest that offering a precommitment option can improve persistence on effortful tasks and help people align behaviour with longer-term goals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6335452/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Conquering the inner couch potato: precommitment is</span><span class="citation-popover-snippet">by B Studer · 2018 · Cited by 28 — Our findings show that offering precommitment is effective in helping individuals optimize their mo...</span></span></span>
+Behavioural economists describe this pattern as a form of present bias: immediate comfort or convenience gains weight when the decision moment arrives. Commitment devices exist because people often recognise this pattern in advance and willingly choose constraints to protect themselves from it. The classic logic is not that future selves are irrational, but that they face different incentives and emotions than the self making the original plan. Petr Houdek PubMed Research on precommitment repeatedly finds that people are often willing to restrict their future options when they anticipate a self-control<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=HFcqu7ai69Y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Ulysses pact &#124; Commitment Device</span><span class="citation-popover-snippet">Behavioural Economics - Commitment Contracts...</span></span></span> problem. Experimental studies suggest that offering a precommitment option can improve persistence on effortful tasks and help people align behaviour with longer-term goals.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6335452/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Conquering the inner couch potato: precommitment is</span><span class="citation-popover-snippet">by B Studer · 2018 · Cited by 28 — Our findings show that offering precommitment is effective in helping individuals optimize their mo...</span></span></span>
 
 A useful test is to ask: “What decision do I repeatedly regret making in the moment?” That question often reveals where pre-commitment can be more effective than [motivation]({{ 'motivation/' | relative_url }}).
 
@@ -289,7 +289,7 @@ The most useful pre-commitments are often ordinary and low drama. They do not re
 
 Food choices illustrate the principle well. Hunger changes preferences. A shopping trip made without preparation can easily produce purchases that conflict with longer-term health goals.
 
-Studies of grocery-shopping commitment devices have found that people can improve purchasing patterns by making choices in advance and attaching consequences to deviations. Research on voluntary precommitment in grocery shopping showed that households could use commitment arrangements to encourage healthier purchasing behaviour. Other research suggests that predetermined shopping lists can reduce impulsive purchases and improve diet-related outcomes. Sage Journals <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=HFcqu7ai69Y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[PubMed In practice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Ulysses pact &#124; Commitment Device</span><span class="citation-popover-snippet">Behavioural Economics - Commitment Contracts...</span></span></span>, this can mean:
+Studies of grocery-shopping commitment devices have found that people can improve purchasing patterns by making choices in advance and attaching consequences to deviations. Research on voluntary precommitment in grocery shopping showed that households could use commitment arrangements to encourage healthier purchasing behaviour. Other research suggests that predetermined shopping lists can reduce impulsive purchases and improve diet-related outcomes. Sage Journals<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=HFcqu7ai69Y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[PubMed In practice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Ulysses pact &#124; Commitment Device</span><span class="citation-popover-snippet">Behavioural Economics - Commitment Contracts...</span></span></span>, this can mean:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -325,7 +325,7 @@ The goal is not to remove freedom entirely. It is to reduce the number of negoti
 
 Another effective form of pre-commitment is making future behaviour visible to another person.
 
-A planned study session, training partner or accountability meeting changes the decision from “Will I do this?” to “Will I break an arrangement?” Social expectations create friction against abandoning the plan. Research on commitment mechanisms and educational settings suggests that even relatively soft commitments can improve progress on complex tasks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aeaweb.org/articles?id=10.1257%2Fapp.20170288" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeaweb.org">[American Economic Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeaweb.org</span><span class="citation-popover-snippet">American Economic AssociationSoft Commitments, Reminders, and Academic Performanceby O Himmler · 2019 · Cited by 104 — We provide first e...</span></span></span>
+A planned study session, training partner or accountability meeting changes the decision from “Will I do this?” to “Will I break an arrangement?” Social expectations create friction against abandoning the plan. Research on commitment mechanisms and educational settings suggests that even relatively soft commitments can improve progress on complex tasks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aeaweb.org/articles?id=10.1257%2Fapp.20170288" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeaweb.org">[American Economic Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeaweb.org</span><span class="citation-popover-snippet">American Economic AssociationSoft Commitments, Reminders, and Academic Performanceby O Himmler · 2019 · Cited by 104 — We provide first e...</span></span></span>
 
 This is why recurring [study groups]({{ 'study-groups/' | relative_url }}), scheduled exercise partners and regular check-ins often outperform solitary intentions. The calendar entry becomes a commitment made before motivation fluctuates.
 
@@ -359,7 +359,7 @@ Not all pre-commitments are equally strong. They exist on a spectrum.
 
 </div>
 
-Research suggests that commitment devices can be effective across this spectrum, but stronger commitments also require greater care in design. <span class="citation-chip-wrap"><a class="citation-chip" href="https://houdekpetr.cz/%21data/public_html/papers/Bryan%20et%20al%202010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: houdekpetr.cz">[Petr Houdek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">houdekpetr.cz</span><span class="citation-popover-title">Bryan et al 2010</span><span class="citation-popover-snippet">Petr HoudekCommitment Devicesby G Bryan · 2010 · Cited by 834 — We refer to commitment devices that call for real economic penalties for...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://repository.upenn.edu/bitstreams/86231aed-054d-4d85-8958-8e38cb6730e3/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: repository.upenn.edu">[Penn Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">repository.upenn.edu</span><span class="citation-popover-title">For health professionals and patients to get</span><span class="citation-popover-snippet">Penn RepositoryCommitment Devices Using Initiatives to Change Behaviorby T Rogers · 2014 · Cited by 242 — Commitment devices may be power...</span></span></span>
+Research suggests that commitment devices can be effective across this spectrum, but stronger commitments also require greater care in design.<span class="citation-chip-wrap"><a class="citation-chip" href="https://houdekpetr.cz/%21data/public_html/papers/Bryan%20et%20al%202010.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: houdekpetr.cz">[Petr Houdek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">houdekpetr.cz</span><span class="citation-popover-title">Bryan et al 2010</span><span class="citation-popover-snippet">Petr HoudekCommitment Devicesby G Bryan · 2010 · Cited by 834 — We refer to commitment devices that call for real economic penalties for...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://repository.upenn.edu/bitstreams/86231aed-054d-4d85-8958-8e38cb6730e3/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: repository.upenn.edu">[Penn Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">repository.upenn.edu</span><span class="citation-popover-title">For health professionals and patients to get</span><span class="citation-popover-snippet">Penn RepositoryCommitment Devices Using Initiatives to Change Behaviorby T Rogers · 2014 · Cited by 242 — Commitment devices may be power...</span></span></span>
 
 The best choice is often the weakest intervention that reliably protects the behaviour. If a calendar appointment solves the problem, a financial penalty may be unnecessary.
 
@@ -369,7 +369,7 @@ The best choice is often the weakest intervention that reliably protects the beh
 
 A common mistake is assuming that stronger commitment is always better.
 
-Hard commitments can fail because life is uncertain. An arrangement that seems reasonable in advance may become inappropriate when circumstances change. Research examining commitment contracts has documented substantial rates of default and penalty payments when people underestimate future obstacles or overestimate their future discipline. Some studies show that individuals who voluntarily adopt hard commitments can still fail to maintain them, particularly when unexpected shocks occur. <span class="citation-chip-wrap"><a class="citation-chip" href="https://economics.yale.edu/sites/default/files/john_when_commitment_fails_march2018.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: economics.yale.edu">[yale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">economics.yale.edu</span><span class="citation-popover-title">Department of Economics When Commitment Fails – Evidence from a Field Experiment</span><span class="citation-popover-snippet">Yale Department of EconomicsWhen Commitment Fails – Evidence from a Field ExperimentApril 1, 2018 — by A JOHN · 2018 · Cited by 138 — Emp...</span><span class="citation-popover-meta">Published: April 1, 2018</span></span></span> Department of Economics
+Hard commitments can fail because life is uncertain. An arrangement that seems reasonable in advance may become inappropriate when circumstances change. Research examining commitment contracts has documented substantial rates of default and penalty payments when people underestimate future obstacles or overestimate their future discipline. Some studies show that individuals who voluntarily adopt hard commitments can still fail to maintain them, particularly when unexpected shocks occur.<span class="citation-chip-wrap"><a class="citation-chip" href="https://economics.yale.edu/sites/default/files/john_when_commitment_fails_march2018.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: economics.yale.edu">[yale]</a><span class="citation-popover" role="note"><span class="citation-popover-source">economics.yale.edu</span><span class="citation-popover-title">Department of Economics When Commitment Fails – Evidence from a Field Experiment</span><span class="citation-popover-snippet">Yale Department of EconomicsWhen Commitment Fails – Evidence from a Field ExperimentApril 1, 2018 — by A JOHN · 2018 · Cited by 138 — Emp...</span><span class="citation-popover-meta">Published: April 1, 2018</span></span></span> Department of Economics
 
 This creates a paradox. The people most motivated to change may sometimes choose commitments that are too rigid for real life.
 
@@ -384,7 +384,7 @@ Examples include:
 
 </div>
 
-Recent research also suggests that revocable or more flexible forms of precommitment can retain benefits while reducing the costs of rigidity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/scan/article/19/1/nsae093/7919776" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicThe effectiveness of revocable precommitment strategies in...by D Wang · 2024 · Cited by 2 — This study aimed to explore the...</span></span></span>
+Recent research also suggests that revocable or more flexible forms of precommitment can retain benefits while reducing the costs of rigidity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/scan/article/19/1/nsae093/7919776" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicThe effectiveness of revocable precommitment strategies in...by D Wang · 2024 · Cited by 2 — This study aimed to explore the...</span></span></span>
 
 A robust pre-commitment should survive ordinary disruptions. Missing one planned workout should not destroy an exercise habit. Missing one study session should not invalidate an entire semester's plan.
 
@@ -410,194 +410,194 @@ This approach reflects a broader principle of self-improvement that works: make 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HFcqu7ai69Y" title="Ulysses pact | Commitment Device - How to use a Greek Hero&#x27;s Strategy!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HFcqu7ai69Y" target="_blank" rel="noopener noreferrer">Ulysses pact | Commitment Device - How to use a Greek Hero&#x27;s Strategy!</a></p><p class="youtube-embed-meta">Channel: Sharp Sapiens &middot; Views: 2.7K &middot; Uploaded: April 2021 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HFcqu7ai69Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HFcqu7ai69Y">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Let your calmer self choose first. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Let your calmer self choose first. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Strong coverage of designing systems that reduce reliance on willpower.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Strong coverage of designing systems that reduce reliance on willpower.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nudge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Wf1AEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Nudge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nudge">Nudge</a>
-        </h4>
-        <p class="fr-book-author">By Richard H. Thaler, Cass R. Sunstein</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nudge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Wf1AEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Nudge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nudge">Nudge</a>
+</h4>
+<p class="fr-book-author">By Richard H. Thaler, Cass R. Sunstein</p>
         
-        <p class="fr-book-desc">Foundational book on choice architecture and decision design.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Foundational book on choice architecture and decision design.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains biases that make precommitment useful.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains biases that make precommitment useful.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
-        </h4>
-        <p class="fr-book-author">By Charles Duhigg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
+</h4>
+<p class="fr-book-author">By Charles Duhigg</p>
         
-        <p class="fr-book-desc">Shows how habits can replace repeated difficult choices.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how habits can replace repeated difficult choices.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Nudge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nudge</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Nudge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nudge</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-your-calmer-self-choose-first-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A5 Gratitude Planner and Habit Tracker Journal for Men and Women"><img src="https://i.ebayimg.com/images/g/fmUAAeSwlyJpJTtk/s-l225.jpg" alt="Listing image for A5 Gratitude Planner and Habit Tracker Journal for Men and Women" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-your-calmer-self-choose-first-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">A5 Gratitude Planner and Habit Tracker Journal for Men and Women</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-your-calmer-self-choose-first-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-your-calmer-self-choose-first-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-your-calmer-self-choose-first-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A5 Gratitude Planner and Habit Tracker Journal for Men and Women"><img src="https://i.ebayimg.com/images/g/fmUAAeSwlyJpJTtk/s-l225.jpg" alt="Listing image for A5 Gratitude Planner and Habit Tracker Journal for Men and Women" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-your-calmer-self-choose-first-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">A5 Gratitude Planner and Habit Tracker Journal for Men and Women</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-your-calmer-self-choose-first-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-your-calmer-self-choose-first-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-your-calmer-self-choose-first-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2026 Habit Tracker Calendar – Premium Daily Habit Tracker Journal and Goal Board"><img src="https://i.ebayimg.com/images/g/BOYAAeSwxgZpukgY/s-l225.jpg" alt="Listing image for 2026 Habit Tracker Calendar – Premium Daily Habit Tracker Journal and Goal Board" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-your-calmer-self-choose-first-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">2026 Habit Tracker Calendar – Premium Daily Habit Tracker Journal and Goal Board</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-your-calmer-self-choose-first-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-your-calmer-self-choose-first-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-your-calmer-self-choose-first-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2026 Habit Tracker Calendar – Premium Daily Habit Tracker Journal and Goal Board"><img src="https://i.ebayimg.com/images/g/BOYAAeSwxgZpukgY/s-l225.jpg" alt="Listing image for 2026 Habit Tracker Calendar – Premium Daily Habit Tracker Journal and Goal Board" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-your-calmer-self-choose-first-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">2026 Habit Tracker Calendar – Premium Daily Habit Tracker Journal and Goal Board</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-your-calmer-self-choose-first-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-your-calmer-self-choose-first-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-your-calmer-self-choose-first-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2024 Law of Attraction Planner - Undated B5 Goal Setting Journal &amp; Vision Board"><img src="https://i.ebayimg.com/images/g/R4EAAeSwC6dpFKqr/s-l225.jpg" alt="Listing image for 2024 Law of Attraction Planner - Undated B5 Goal Setting Journal &amp; Vision Board" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-your-calmer-self-choose-first-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">2024 Law of Attraction Planner - Undated B5 Goal Setting Journal &amp; Vision Board</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-your-calmer-self-choose-first-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-your-calmer-self-choose-first-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-your-calmer-self-choose-first-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2024 Law of Attraction Planner - Undated B5 Goal Setting Journal &amp; Vision Board"><img src="https://i.ebayimg.com/images/g/R4EAAeSwC6dpFKqr/s-l225.jpg" alt="Listing image for 2024 Law of Attraction Planner - Undated B5 Goal Setting Journal &amp; Vision Board" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-your-calmer-self-choose-first-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">2024 Law of Attraction Planner - Undated B5 Goal Setting Journal &amp; Vision Board</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-your-calmer-self-choose-first-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-your-calmer-self-choose-first-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-your-calmer-self-choose-first-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2026 Faith-Based Daily Planner: Vision Board &amp; Habit Tracker in Ultra Violet"><img src="https://i.ebayimg.com/images/g/sE0AAeSwSBNpjUl~/s-l225.jpg" alt="Listing image for 2026 Faith-Based Daily Planner: Vision Board &amp; Habit Tracker in Ultra Violet" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-your-calmer-self-choose-first-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">2026 Faith-Based Daily Planner: Vision Board &amp; Habit Tracker in Ultra Violet</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-your-calmer-self-choose-first-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-your-calmer-self-choose-first-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-your-calmer-self-choose-first-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-your-calmer-self-choose-first-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2026 Faith-Based Daily Planner: Vision Board &amp; Habit Tracker in Ultra Violet"><img src="https://i.ebayimg.com/images/g/sE0AAeSwSBNpjUl~/s-l225.jpg" alt="Listing image for 2026 Faith-Based Daily Planner: Vision Board &amp; Habit Tracker in Ultra Violet" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-your-calmer-self-choose-first-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">2026 Faith-Based Daily Planner: Vision Board &amp; Habit Tracker in Ultra Violet</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-your-calmer-self-choose-first-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-your-calmer-self-choose-first-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-your-calmer-self-choose-first-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="let-your-calmer-self-choose-first-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -613,7 +613,7 @@ This approach reflects a broader principle of self-improvement that works: make 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -633,7 +633,7 @@ This approach reflects a broader principle of self-improvement that works: make 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -665,7 +665,7 @@ This approach reflects a broader principle of self-improvement that works: make 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -717,7 +717,7 @@ This approach reflects a broader principle of self-improvement that works: make 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -762,7 +762,7 @@ This approach reflects a broader principle of self-improvement that works: make 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -803,119 +803,119 @@ This approach reflects a broader principle of self-improvement that works: make 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: economics.yale.edu  
    Title: Department of Economics When Commitment Fails – Evidence from a Field Experiment  
-   Link: <a href="https://economics.yale.edu/sites/default/files/john_when_commitment_fails_march2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://economics.yale.edu/sites/default/files/john_when_commitment_fails_march2018.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Yale Department of EconomicsWhen Commitment Fails – Evidence from a Field ExperimentApril 1, 2018 — by A JOHN · 2018 · Cited by 138 — Emp...</p></details>
+   Link:<a href="https://economics.yale.edu/sites/default/files/john_when_commitment_fails_march2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://economics.yale.edu/sites/default/files/john_when_commitment_fails_march2018.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Yale Department of EconomicsWhen Commitment Fails – Evidence from a Field ExperimentApril 1, 2018 — by A JOHN · 2018 · Cited by 138 — Emp...</p></details>
    Published: April 1, 2018  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/scan/article/19/1/nsae093/7919776" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/scan/article/19/1/nsae093/7919776</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicThe effectiveness of revocable precommitment strategies in...by D Wang · 2024 · Cited by 2 — This study aimed to explore the...</p></details>
+   Link:<a href="https://academic.oup.com/scan/article/19/1/nsae093/7919776" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/scan/article/19/1/nsae093/7919776</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicThe effectiveness of revocable precommitment strategies in...by D Wang · 2024 · Cited by 2 — This study aimed to explore the...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/qopen/article/5/2/qoaf028/8293232" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/qopen/article/5/2/qoaf028/8293232</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>incentivized study in online grocery shopping | Q Openby LZH Jansen · 2025 — Precommitment to a health goal makes consumers more cognitiv...</p></details>
+   Link:<a href="https://academic.oup.com/qopen/article/5/2/qoaf028/8293232" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/qopen/article/5/2/qoaf028/8293232</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>incentivized study in online grocery shopping | Q Openby LZH Jansen · 2025 — Precommitment to a health goal makes consumers more cognitiv...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: Ulysses pact | Commitment Device  
-   Link: <a href="https://www.youtube.com/watch?v=HFcqu7ai69Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HFcqu7ai69Y</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioural Economics - Commitment Contracts...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=HFcqu7ai69Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HFcqu7ai69Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioural Economics - Commitment Contracts...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: Behavioural Economics  
-   Link: <a href="https://www.youtube.com/watch?v=bRbJtvg9AzI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bRbJtvg9AzI</a>  
+   Link:<a href="https://www.youtube.com/watch?v=bRbJtvg9AzI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bRbJtvg9AzI</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/24777472/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24777472/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Commitment devices: using initiatives to change behaviorby T Rogers · 2014 · Cited by 248 — Commitment devices: using initiatives t...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/24777472/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24777472/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Commitment devices: using initiatives to change behaviorby T Rogers · 2014 · Cited by 248 — Commitment devices: using initiatives t...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: houdekpetr.cz  
    Title: Bryan et al 2010  
-   Link: <a href="https://houdekpetr.cz/%21data/public_html/papers/Bryan%20et%20al%202010.pdf" target="_blank" rel="noopener noreferrer nofollow">https://houdekpetr.cz/%21data/public_html/papers/Bryan%20et%20al%202010.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Petr HoudekCommitment Devicesby G Bryan · 2010 · Cited by 834 — We refer to commitment devices that call for real economic penalties for...</p></details>
+   Link:<a href="https://houdekpetr.cz/%21data/public_html/papers/Bryan%20et%20al%202010.pdf" target="_blank" rel="noopener noreferrer nofollow">https://houdekpetr.cz/%21data/public_html/papers/Bryan%20et%20al%202010.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Petr HoudekCommitment Devicesby G Bryan · 2010 · Cited by 834 — We refer to commitment devices that call for real economic penalties for...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: repository.upenn.edu  
    Title: For health professionals and patients to get  
-   Link: <a href="https://repository.upenn.edu/bitstreams/86231aed-054d-4d85-8958-8e38cb6730e3/download" target="_blank" rel="noopener noreferrer nofollow">https://repository.upenn.edu/bitstreams/86231aed-054d-4d85-8958-8e38cb6730e3/download</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Penn RepositoryCommitment Devices Using Initiatives to Change Behaviorby T Rogers · 2014 · Cited by 242 — Commitment devices may be power...</p></details>
+   Link:<a href="https://repository.upenn.edu/bitstreams/86231aed-054d-4d85-8958-8e38cb6730e3/download" target="_blank" rel="noopener noreferrer nofollow">https://repository.upenn.edu/bitstreams/86231aed-054d-4d85-8958-8e38cb6730e3/download</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Penn RepositoryCommitment Devices Using Initiatives to Change Behaviorby T Rogers · 2014 · Cited by 242 — Commitment devices may be power...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Conquering the inner couch potato: precommitment is  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6335452/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6335452/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Studer · 2018 · Cited by 28 — Our findings show that offering precommitment is effective in helping individuals optimize their mo...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6335452/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6335452/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by B Studer · 2018 · Cited by 28 — Our findings show that offering precommitment is effective in helping individuals optimize their mo...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/24390824/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24390824/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by Precommitmentby J Schwartz · 2014 · Cited by 199 — We tested a voluntary self-control commitment device to help grocery shoppers make...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/24390824/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24390824/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by Precommitmentby J Schwartz · 2014 · Cited by 199 — We tested a voluntary self-control commitment device to help grocery shoppers make...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aeaweb.org  
-   Link: <a href="https://www.aeaweb.org/articles?id=10.1257%2Fapp.20170288" target="_blank" rel="noopener noreferrer nofollow">https://www.aeaweb.org/articles?id=10.1257%2Fapp.20170288</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Economic AssociationSoft Commitments, Reminders, and Academic Performanceby O Himmler · 2019 · Cited by 104 — We provide first e...</p></details>
+   Link:<a href="https://www.aeaweb.org/articles?id=10.1257%2Fapp.20170288" target="_blank" rel="noopener noreferrer nofollow">https://www.aeaweb.org/articles?id=10.1257%2Fapp.20170288</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Economic AssociationSoft Commitments, Reminders, and Academic Performanceby O Himmler · 2019 · Cited by 104 — We provide first e...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ncn.gov.pl  
-   Link: <a href="https://www.ncn.gov.pl/sites/default/files/listy-rankingowe/2025-03-17-mmatyB0da2/streszczenia/649594-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ncn.gov.pl/sites/default/files/listy-rankingowe/2025-03-17-mmatyB0da2/streszczenia/649594-en.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioral economics of commitment devicesWe will examine two types of commitment devices.... The results will be shared through scienti...</p></details>
+   Link:<a href="https://www.ncn.gov.pl/sites/default/files/listy-rankingowe/2025-03-17-mmatyB0da2/streszczenia/649594-en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ncn.gov.pl/sites/default/files/listy-rankingowe/2025-03-17-mmatyB0da2/streszczenia/649594-en.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioral economics of commitment devicesWe will examine two types of commitment devices.... The results will be shared through scienti...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/behavior-design-hub/your-commitment-devices-database-35a54df3a64f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/behavior-design-hub/your-commitment-devices-database-35a54df3a64f</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Commitment Devices — Your Ultimate GuideCommitment Devices has two main components. Firstly, it&#x27;s a voluntary choice you make in the pres...</p></details>
+   Link:<a href="https://medium.com/behavior-design-hub/your-commitment-devices-database-35a54df3a64f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/behavior-design-hub/your-commitment-devices-database-35a54df3a64f</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Commitment Devices — Your Ultimate GuideCommitment Devices has two main components. Firstly, it&#x27;s a voluntary choice you make in the pres...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/precommitment" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/precommitment</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PrecommitmentPrecommitment is a strategy to ensure we reach the goals we set out for ourselves. It is employed by various businesses to e...</p></details>
+   Link:<a href="https://thedecisionlab.com/reference-guide/psychology/precommitment" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/precommitment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PrecommitmentPrecommitment is a strategy to ensure we reach the goals we set out for ourselves. It is employed by various businesses to e...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: povertyactionlab.org  
-   Link: <a href="https://www.povertyactionlab.org/sites/default/files/research-paper/WP6340_Appointments-a-more-effective-commitment-device-for-health-behaviors-in-Malawi_Kerwin-et-al_Feb2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.povertyactionlab.org/sites/default/files/research-paper/WP6340_Appointments-a-more-effective-commitment-device-for-health-behaviors-in-Malawi_Kerwin-et-al_Feb2024.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We show that ordinary appointments can act as effective substitutes for hard com- mitment devices and increase demand for a...</p></details>
+   Link:<a href="https://www.povertyactionlab.org/sites/default/files/research-paper/WP6340_Appointments-a-more-effective-commitment-device-for-health-behaviors-in-Malawi_Kerwin-et-al_Feb2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.povertyactionlab.org/sites/default/files/research-paper/WP6340_Appointments-a-more-effective-commitment-device-for-health-behaviors-in-Malawi_Kerwin-et-al_Feb2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We show that ordinary appointments can act as effective substitutes for hard com- mitment devices and increase demand for a...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: data4impactproject.org  
    Title: They are ways to 'lock ourselves' into a behavior, often by selecting a penalty  
-   Link: <a href="https://www.data4impactproject.org/blog/from-intentions-to-actions-using-commitment-devices-for-evidence-use/" target="_blank" rel="noopener noreferrer nofollow">https://www.data4impactproject.org/blog/from-intentions-to-actions-using-commitment-devices-for-evidence-use/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From Intentions to Actions – Using Commitment Devices for...Commitment devices help us stick to a goal, even when it is tempting not to...</p></details>
+   Link:<a href="https://www.data4impactproject.org/blog/from-intentions-to-actions-using-commitment-devices-for-evidence-use/" target="_blank" rel="noopener noreferrer nofollow">https://www.data4impactproject.org/blog/from-intentions-to-actions-using-commitment-devices-for-evidence-use/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From Intentions to Actions – Using Commitment Devices for...Commitment devices help us stick to a goal, even when it is tempting not to...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
    Title: We conduct a field experiment to evaluate the effectiveness of different  
-   Link: <a href="https://www.researchgate.net/publication/386308436_People_do_not_demand_commitment_devices_because_they_might_not_work" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/386308436_People_do_not_demand_commitment_devices_because_they_might_not_work</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>People do not demand commitment devices because they...Behavioral economics offers a tool to solve such problems: commitment devices...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/386308436_People_do_not_demand_commitment_devices_because_they_might_not_work" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/386308436_People_do_not_demand_commitment_devices_because_they_might_not_work</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>People do not demand commitment devices because they...Behavioral economics offers a tool to solve such problems: commitment devices...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: hsag.co.za  
-   Link: <a href="https://hsag.co.za/index.php/hsag/article/view/2750/5404" target="_blank" rel="noopener noreferrer nofollow">https://hsag.co.za/index.php/hsag/article/view/2750/5404</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-reported meal planning practices among households...by LJ Ncube · 2024 — The study aims to assess meal planning practices in househ...</p></details>
+   Link:<a href="https://hsag.co.za/index.php/hsag/article/view/2750/5404" target="_blank" rel="noopener noreferrer nofollow">https://hsag.co.za/index.php/hsag/article/view/2750/5404</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-reported meal planning practices among households...by LJ Ncube · 2024 — The study aims to assess meal planning practices in househ...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: behavioraleconomics.com  
    Title: Behavioral Economics.com | The BE Hub Commitment  
-   Link: <a href="https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/commitment/" target="_blank" rel="noopener noreferrer nofollow">https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/commitment/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The BE HubCommitment - BehavioralEconomics.com | The BE HubDec 4, 2024 — Commitments (see also precommitment) are often used as a tool to...</p></details>
+   Link:<a href="https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/commitment/" target="_blank" rel="noopener noreferrer nofollow">https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/commitment/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The BE HubCommitment - BehavioralEconomics.com | The BE HubDec 4, 2024 — Commitments (see also precommitment) are often used as a tool to...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: goalsandprogress.com  
-   Link: <a href="https://goalsandprogress.com/commitment-devices-that-help-you-stick-to-goals/" target="_blank" rel="noopener noreferrer nofollow">https://goalsandprogress.com/commitment-devices-that-help-you-stick-to-goals/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>You set a goal, you mean it, and for a few weeks you follow...Read more...</p></details>
+   Link:<a href="https://goalsandprogress.com/commitment-devices-that-help-you-stick-to-goals/" target="_blank" rel="noopener noreferrer nofollow">https://goalsandprogress.com/commitment-devices-that-help-you-stick-to-goals/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>You set a goal, you mean it, and for a few weeks you follow...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: workmate.com  
    Title: Accountability partnerships: activate social  
-   Link: <a href="https://www.workmate.com/blog/commitment-devices-vs-accountability-partners-which-works" target="_blank" rel="noopener noreferrer nofollow">https://www.workmate.com/blog/commitment-devices-vs-accountability-partners-which-works</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Commitment Devices vs Accountability Partners: Which Works?Commitment devices: leverage pre-commitment, loss aversion, and friction to pr...</p></details>
+   Link:<a href="https://www.workmate.com/blog/commitment-devices-vs-accountability-partners-which-works" target="_blank" rel="noopener noreferrer nofollow">https://www.workmate.com/blog/commitment-devices-vs-accountability-partners-which-works</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Commitment Devices vs Accountability Partners: Which Works?Commitment devices: leverage pre-commitment, loss aversion, and friction to pr...</p></details>

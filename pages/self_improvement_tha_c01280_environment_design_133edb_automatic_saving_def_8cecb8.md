@@ -277,7 +277,7 @@ image: /assets/images/self_improvement_tha_c01280_environment_design_133edb_auto
 [Saving]({{ 'saving/' | relative_url }}) money is often described as a test of self-control: spend less today so that you have more tomorrow. In practice, many people discover that good intentions lose repeatedly to convenience. Bills arrive, tempting purchases appear, and each month requires another decision to save rather than spend. Automatic saving changes the structure of the problem. Instead of relying on repeated acts of discipline, it makes saving the default outcome.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_automatic_saving_def_8cecb8-Illustration-1-dark.svg" | relative_url }}" alt="Money Defaults illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_automatic_saving_def_8cecb8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_automatic_saving_def_8cecb8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This is a classic example of [environment]({{ 'environment/' | relative_url }}) design. Rather than asking people to win the same internal argument over and over again, automatic transfers move money before spending decisions occur. Research on defaults, automatic enrolment and [payroll savings]({{ 'payroll-saving/' | relative_url }}) consistently shows that people save more when saving happens automatically and requires action to stop rather than action to start. NBER <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK593519/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIRetirement Benefits</span><span class="citation-popover-snippet">Benefits - Behavioral Economics - NCBI - NIHHowever, the authors found that making automatic enrollment the default dramatically increase...</span></span></span>
+This is a classic example of [environment]({{ 'environment/' | relative_url }}) design. Rather than asking people to win the same internal argument over and over again, automatic transfers move money before spending decisions occur. Research on defaults, automatic enrolment and [payroll savings]({{ 'payroll-saving/' | relative_url }}) consistently shows that people save more when saving happens automatically and requires action to stop rather than action to start. NBER<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK593519/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIRetirement Benefits</span><span class="citation-popover-snippet">Benefits - Behavioral Economics - NCBI - NIHHowever, the authors found that making automatic enrollment the default dramatically increase...</span></span></span>
 
 ## How defaults remove repeated money decisions
 
@@ -287,9 +287,9 @@ Every discretionary saving decision creates an opportunity to delay, rationalise
 
 Automatic [defaults]({{ 'defaults/' | relative_url }}) remove those repeated choices. A transfer is scheduled in advance, often on the day income arrives. The saving occurs before the individual decides what to buy, reducing the need for ongoing self-control.
 
-Behavioural economists have documented the power of defaults in many settings, but retirement saving has provided some of the strongest evidence. Studies of automatic enrolment found that participation rates rose dramatically when workers were enrolled by default and had to opt out rather than opt in. In one influential example, participation increased from roughly 49% to 86% after automatic enrolment was introduced. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/26874/chapter/10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesChapter: 6 Retirement BenefitsHowever, the authors found that making automatic enrollment the default dramatically incr...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cepr.org/voxeu/columns/auto-enrollment-changes-who-passive-saver" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cepr.org">[CEPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cepr.org</span><span class="citation-popover-title">auto enrollment changes who passive saver</span><span class="citation-popover-snippet">Auto-enrollment changes who is a passive saverFeb 11, 2020 — A subsequent change of the default to auto-enrollment increases the part...</span></span></span>
+Behavioural economists have documented the power of defaults in many settings, but retirement saving has provided some of the strongest evidence. Studies of automatic enrolment found that participation rates rose dramatically when workers were enrolled by default and had to opt out rather than opt in. In one influential example, participation increased from roughly 49% to 86% after automatic enrolment was introduced.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/26874/chapter/10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">National AcademiesChapter: 6 Retirement BenefitsHowever, the authors found that making automatic enrollment the default dramatically incr...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://cepr.org/voxeu/columns/auto-enrollment-changes-who-passive-saver" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cepr.org">[CEPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cepr.org</span><span class="citation-popover-title">auto enrollment changes who passive saver</span><span class="citation-popover-snippet">Auto-enrollment changes who is a passive saverFeb 11, 2020 — A subsequent change of the default to auto-enrollment increases the part...</span></span></span>
 
-The lesson extends beyond pensions. The broader finding is that people frequently accept default arrangements, especially when taking action requires effort or attention. Saving becomes easier when the system assumes saving will happen unless someone actively intervenes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2798815/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCOptimal Defaults and Active Decisions</span><span class="citation-popover-snippet">Under “standard enrollment,” employees are by default not enrolled and can choose to opt into the plan.Read more...</span></span></span>
+The lesson extends beyond pensions. The broader finding is that people frequently accept default arrangements, especially when taking action requires effort or attention. Saving becomes easier when the system assumes saving will happen unless someone actively intervenes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2798815/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCOptimal Defaults and Active Decisions</span><span class="citation-popover-snippet">Under “standard enrollment,” employees are by default not enrolled and can choose to opt into the plan.Read more...</span></span></span>
 
 From an environment-design perspective, the important change is that the desired behaviour occurs before [motivation]({{ 'motivation/' | relative_url }}) has a chance to fluctuate.
 
@@ -299,7 +299,7 @@ From an environment-design perspective, the important change is that the desired
 
 Money habits are especially sensitive to convenience because spending offers [immediate rewards]({{ 'immediate-rewards/' | relative_url }}) while saving delays gratification.
 
-Behavioural research has repeatedly found that people place disproportionate weight on immediate outcomes relative to future ones. This tendency helps explain why many individuals sincerely intend to save more yet struggle to act consistently. Automatic systems work because they move the decision into the present and then execute it in the future without requiring further effort. UCLA Anderson School of Management <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.journals.uchicago.edu/doi/10.1086/380085" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.uchicago.edu">[Chicago Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.uchicago.edu</span><span class="citation-popover-snippet">Chicago JournalsUsing Behavioral Economics to Increase Employee SavingThe program is called Save More Tomorrow™ (or SMarT), and the basic...</span></span></span>
+Behavioural research has repeatedly found that people place disproportionate weight on immediate outcomes relative to future ones. This tendency helps explain why many individuals sincerely intend to save more yet struggle to act consistently. Automatic systems work because they move the decision into the present and then execute it in the future without requiring further effort. UCLA Anderson School of Management<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.journals.uchicago.edu/doi/10.1086/380085" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.uchicago.edu">[Chicago Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.uchicago.edu</span><span class="citation-popover-snippet">Chicago JournalsUsing Behavioral Economics to Increase Employee SavingThe program is called Save More Tomorrow™ (or SMarT), and the basic...</span></span></span>
 
 Consider two scenarios:
 
@@ -316,9 +316,9 @@ One of the most effective implementations is the combination of automatic transf
 
 A transfer scheduled for payday captures money before it is mixed with everyday spending funds. Separate accounts create a mental and practical boundary that makes savings less likely to be spent impulsively.
 
-Payroll-deducted savings programmes apply this principle directly. Contributions are removed from pay before reaching a primary spending account, making saving the path of least resistance. Organisations promoting workplace financial wellbeing have highlighted payroll deduction as a particularly effective method because it reduces friction and helps people accumulate funds consistently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://maps.org.uk/en/work-with-us/financial-wellbeing-in-the-workplace/payroll-deducted-saving-schemes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maps.org.uk">[MaPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maps.org.uk</span><span class="citation-popover-snippet">Payroll-deducted saving schemesWorkplace savings deducted from payroll can help your employees save and build financial security for...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nestinsight.org.uk/wp-content/uploads/2022/06/Payroll-savings-schemes-building-the-evidence-making-the-case-expanding-take-up.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nestinsight.org.uk">[NEST Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nestinsight.org.uk</span><span class="citation-popover-snippet">Payroll savings schemesPayroll savings schemes aim to help people save by automatically diverting a proportion of their salary into a sav...</span></span></span>
+Payroll-deducted savings programmes apply this principle directly. Contributions are removed from pay before reaching a primary spending account, making saving the path of least resistance. Organisations promoting workplace financial wellbeing have highlighted payroll deduction as a particularly effective method because it reduces friction and helps people accumulate funds consistently.<span class="citation-chip-wrap"><a class="citation-chip" href="https://maps.org.uk/en/work-with-us/financial-wellbeing-in-the-workplace/payroll-deducted-saving-schemes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maps.org.uk">[MaPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maps.org.uk</span><span class="citation-popover-snippet">Payroll-deducted saving schemesWorkplace savings deducted from payroll can help your employees save and build financial security for...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nestinsight.org.uk/wp-content/uploads/2022/06/Payroll-savings-schemes-building-the-evidence-making-the-case-expanding-take-up.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nestinsight.org.uk">[NEST Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nestinsight.org.uk</span><span class="citation-popover-snippet">Payroll savings schemesPayroll savings schemes aim to help people save by automatically diverting a proportion of their salary into a sav...</span></span></span>
 
-Evidence from workplace and retirement savings programmes repeatedly shows that payroll deduction dramatically increases participation and accumulated balances compared with systems that require individuals to initiate transfers themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pew.org/en/research-and-analysis/articles/2022/11/01/state-automated-savings-programs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pew.org">[Pew Charitable Trusts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pew.org</span><span class="citation-popover-title">state automated savings programs</span><span class="citation-popover-snippet">Pew Charitable TrustsState Automated Savings ProgramsNov 1, 2022 — Research shows that workers are 15 times more likely to save for retir...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nber.org/system/files/working_papers/w8651/w8651.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nber.org">[NBER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nber.org</span><span class="citation-popover-snippet">DEFAULT EFFECTS AND 401(K) SAVINGS BEHAVIOR...by JJ Choi · 2001 · Cited by 1065 — As a result, automatic enrollment has a dramatic i...</span></span></span>
+Evidence from workplace and retirement savings programmes repeatedly shows that payroll deduction dramatically increases participation and accumulated balances compared with systems that require individuals to initiate transfers themselves.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pew.org/en/research-and-analysis/articles/2022/11/01/state-automated-savings-programs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pew.org">[Pew Charitable Trusts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pew.org</span><span class="citation-popover-title">state automated savings programs</span><span class="citation-popover-snippet">Pew Charitable TrustsState Automated Savings ProgramsNov 1, 2022 — Research shows that workers are 15 times more likely to save for retir...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nber.org/system/files/working_papers/w8651/w8651.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nber.org">[NBER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nber.org</span><span class="citation-popover-snippet">DEFAULT EFFECTS AND 401(K) SAVINGS BEHAVIOR...by JJ Choi · 2001 · Cited by 1065 — As a result, automatic enrollment has a dramatic i...</span></span></span>
 
 The practical pattern is straightforward:
 
@@ -338,11 +338,11 @@ Because the transfer happens first, saving no longer competes directly with ever
 
 A common objection to automatic saving is that people fear committing to a contribution level that feels uncomfortable.
 
-One influential solution is the "Save More Tomorrow" approach developed by Richard Thaler and Shlomo Benartzi. Instead of asking workers to sacrifice current income immediately, the programme allows them to commit in advance to increasing savings when future pay rises occur. UCLA Anderson School of Management <span class="citation-chip-wrap"><a class="citation-chip" href="https://clear.dol.gov/study/save-more-tomorrow%E2%84%A2-using-behavioral-economics-increase-employee-saving-thaler-benartzi-2004" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clear.dol.gov">[Clearance Verification]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clear.dol.gov</span><span class="citation-popover-snippet">2004). Save More Tomorrow™: Using behavioral economics to increase employee saving. Journal of Political Economy, 112(S1), S164-S187...</span></span></span>
+One influential solution is the "Save More Tomorrow" approach developed by Richard Thaler and Shlomo Benartzi. Instead of asking workers to sacrifice current income immediately, the programme allows them to commit in advance to increasing savings when future pay rises occur. UCLA Anderson School of Management<span class="citation-chip-wrap"><a class="citation-chip" href="https://clear.dol.gov/study/save-more-tomorrow%E2%84%A2-using-behavioral-economics-increase-employee-saving-thaler-benartzi-2004" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: clear.dol.gov">[Clearance Verification]</a><span class="citation-popover" role="note"><span class="citation-popover-source">clear.dol.gov</span><span class="citation-popover-snippet">2004). Save More Tomorrow™: Using behavioral economics to increase employee saving. Journal of Political Economy, 112(S1), S164-S187...</span></span></span>
 
 The design takes advantage of a predictable behavioural pattern: agreeing to future sacrifice is often easier than accepting immediate sacrifice.
 
-The original programme achieved unusually high participation among employees who had previously resisted increasing their contributions. Many participants remained enrolled, and savings rates rose substantially over time. Later research has continued to find benefits from automatic escalation and pre-commitment approaches. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/rof/article/29/5/1587/8195745" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicSave more tomorrow, today: experimental evidence on the...by CE Freeman · 2025 — The original analysis estimates participati...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.studeersnel.nl/nl/document/rijksuniversiteit-groningen/behavioural-finance/paper-11-week-7-save-more-tomorrow-behavioral-economics-in-employee-savings/130559660" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studeersnel.nl">[Studocu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studeersnel.nl</span><span class="citation-popover-snippet">StudocuPaper 11: Week 7 - Save More Tomorrow: Behavioral...Even with this aggressive strategy of increasing saving rates, the SMarT plan...</span></span></span>
+The original programme achieved unusually high participation among employees who had previously resisted increasing their contributions. Many participants remained enrolled, and savings rates rose substantially over time. Later research has continued to find benefits from automatic escalation and pre-commitment approaches.<span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/rof/article/29/5/1587/8195745" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicSave more tomorrow, today: experimental evidence on the...by CE Freeman · 2025 — The original analysis estimates participati...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.studeersnel.nl/nl/document/rijksuniversiteit-groningen/behavioural-finance/paper-11-week-7-save-more-tomorrow-behavioral-economics-in-employee-savings/130559660" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studeersnel.nl">[Studocu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studeersnel.nl</span><span class="citation-popover-snippet">StudocuPaper 11: Week 7 - Save More Tomorrow: Behavioral...Even with this aggressive strategy of increasing saving rates, the SMarT plan...</span></span></span>
 
 This illustrates an important principle of environment design. The best default is not always the largest contribution. Often it is the contribution level that people will actually maintain.
 
@@ -352,9 +352,9 @@ This illustrates an important principle of environment design. The best default 
 
 Automatic saving is powerful, but it is not infallible.
 
-One risk is treating a default as automatically optimal. Research has shown that many people remain at default contribution rates even when higher rates might better serve their long-term goals. In some plans, participants continue using default settings simply because changing them requires attention and effort. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/Delivery.cfm/nber_w12009.pdf?abstractid=881243" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-title">nber w12009</span><span class="citation-popover-snippet">The Importance of Default Options for Retirement Savings...by J Beshears · 2006 · Cited by 970 — Under automatic enrollment, however...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nber.org/bah/summer06/effect-default-options-retirement-savings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nber.org">[NBER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nber.org</span><span class="citation-popover-snippet">The authors look at the experience of one firm that switched from standard to automatic enrollment, where only workers...Read more...</span></span></span>
+One risk is treating a default as automatically optimal. Research has shown that many people remain at default contribution rates even when higher rates might better serve their long-term goals. In some plans, participants continue using default settings simply because changing them requires attention and effort.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/Delivery.cfm/nber_w12009.pdf?abstractid=881243" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-title">nber w12009</span><span class="citation-popover-snippet">The Importance of Default Options for Retirement Savings...by J Beshears · 2006 · Cited by 970 — Under automatic enrollment, however...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nber.org/bah/summer06/effect-default-options-retirement-savings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nber.org">[NBER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nber.org</span><span class="citation-popover-snippet">The authors look at the experience of one firm that switched from standard to automatic enrollment, where only workers...Read more...</span></span></span>
 
-There is also evidence that automatic enrolment can produce smaller long-term gains than headline participation figures suggest. Some workers leave jobs, withdraw funds early, opt out of contribution increases or offset additional saving through borrowing. These effects do not eliminate the benefits of automation, but they show why periodic review matters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://crr.bc.edu/savings-boost-from-auto-enrollment-wanes-over-time/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crr.bc.edu">[Center for Retirement Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crr.bc.edu</span><span class="citation-popover-title">savings boost from auto enrollment wanes over time</span><span class="citation-popover-snippet">Center for Retirement ResearchSavings Boost from Auto-Enrollment Wanes Over TimeOct 24, 2024 — The study, conducted by some of the pionee...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://bfi.uchicago.edu/wp-content/uploads/2025/08/Beshears.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.uchicago.edu">[Becker Friedman Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.uchicago.edu</span><span class="citation-popover-title">Becker Friedman Institute Smaller than We Thought?</span><span class="citation-popover-snippet">The Effect of Automatic Savings...by JJ Choi · 2024 · Cited by 23 — Across nine natural experiments, steady-state saving rates increase...</span></span></span>
+There is also evidence that automatic enrolment can produce smaller long-term gains than headline participation figures suggest. Some workers leave jobs, withdraw funds early, opt out of contribution increases or offset additional saving through borrowing. These effects do not eliminate the benefits of automation, but they show why periodic review matters.<span class="citation-chip-wrap"><a class="citation-chip" href="https://crr.bc.edu/savings-boost-from-auto-enrollment-wanes-over-time/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crr.bc.edu">[Center for Retirement Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crr.bc.edu</span><span class="citation-popover-title">savings boost from auto enrollment wanes over time</span><span class="citation-popover-snippet">Center for Retirement ResearchSavings Boost from Auto-Enrollment Wanes Over TimeOct 24, 2024 — The study, conducted by some of the pionee...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://bfi.uchicago.edu/wp-content/uploads/2025/08/Beshears.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bfi.uchicago.edu">[Becker Friedman Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bfi.uchicago.edu</span><span class="citation-popover-title">Becker Friedman Institute Smaller than We Thought?</span><span class="citation-popover-snippet">The Effect of Automatic Savings...by JJ Choi · 2024 · Cited by 23 — Across nine natural experiments, steady-state saving rates increase...</span></span></span>
 
 A useful rule is to automate execution while keeping strategy under review.
 
@@ -384,269 +384,269 @@ When saving depends on a monthly act of resolve, every month becomes a fresh tes
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hBatoCgLbzk" title="You Were Designed To Do Nothing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hBatoCgLbzk" target="_blank" rel="noopener noreferrer">You Were Designed To Do Nothing</a></p><p class="youtube-embed-meta">Channel: ScratchTheNomics &middot; Views: 283 &middot; Uploaded: May 2026 &middot; Length: 3 minutes 49 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hBatoCgLbzk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hBatoCgLbzk">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why automatic saving beats repeated resolve. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why automatic saving beats repeated resolve. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Environment design is a central theme of the book.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Environment design is a central theme of the book.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nudge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Wf1AEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Nudge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nudge">Nudge</a>
-        </h4>
-        <p class="fr-book-author">By Richard H. Thaler, Cass R. Sunstein</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nudge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Wf1AEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Nudge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nudge">Nudge</a>
+</h4>
+<p class="fr-book-author">By Richard H. Thaler, Cass R. Sunstein</p>
         
-        <p class="fr-book-desc">Defaults and automatic enrollment are core examples in the book.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Defaults and automatic enrollment are core examples in the book.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Automatic+Millionaire+by+David+Bach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Automatic Millionaire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3DNoY93VQ6EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Automatic Millionaire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Automatic+Millionaire+by+David+Bach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Automatic Millionaire">The Automatic Millionaire</a>
-        </h4>
-        <p class="fr-book-author">By David Bach</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Automatic+Millionaire+by+David+Bach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Automatic Millionaire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3DNoY93VQ6EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Automatic Millionaire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Automatic+Millionaire+by+David+Bach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Automatic Millionaire">The Automatic Millionaire</a>
+</h4>
+<p class="fr-book-author">By David Bach</p>
         
-        <p class="fr-book-desc">Centered on automating savings and investing decisions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Automatic+Millionaire+by+David+Bach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Centered on automating savings and investing decisions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Automatic+Millionaire+by+David+Bach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=I+Will+Teach+You+to+Be+Rich+by+Ramit+Sethi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open I Will Teach You to Be Rich on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cZ94EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for I Will Teach You to Be Rich" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=I+Will+Teach+You+to+Be+Rich+by+Ramit+Sethi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="I Will Teach You to Be Rich">I Will Teach You to Be Rich</a>
-        </h4>
-        <p class="fr-book-author">By Ramit Sethi</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=I+Will+Teach+You+to+Be+Rich+by+Ramit+Sethi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open I Will Teach You to Be Rich on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cZ94EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for I Will Teach You to Be Rich" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=I+Will+Teach+You+to+Be+Rich+by+Ramit+Sethi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="I Will Teach You to Be Rich">I Will Teach You to Be Rich</a>
+</h4>
+<p class="fr-book-author">By Ramit Sethi</p>
         
-        <p class="fr-book-desc">Advocates automated financial systems rather than constant discipline.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=I+Will+Teach+You+to+Be+Rich+by+Ramit+Sethi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Advocates automated financial systems rather than constant discipline.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=I+Will+Teach+You+to+Be+Rich+by+Ramit+Sethi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Nudge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nudge</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Automatic+Millionaire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Automatic Millionaire</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Nudge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nudge</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Automatic+Millionaire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Automatic Millionaire</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GoGirl Budget Planner – Monthly Financial Planner Organizer Budget Book."><img src="{{ '/assets/images/marketplace-covers/a50b05f2e46c2782acb4.jpg' | relative_url }}" alt="Listing image for GoGirl Budget Planner – Monthly Financial Planner Organizer Budget Book." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">GoGirl Budget Planner – Monthly Financial Planner Organizer Budget Book.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for budget organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: budget organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-budget-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GoGirl Budget Planner – Monthly Financial Planner Organizer Budget Book."><img src="{{ '/assets/images/marketplace-covers/a50b05f2e46c2782acb4.jpg' | relative_url }}" alt="Listing image for GoGirl Budget Planner – Monthly Financial Planner Organizer Budget Book." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">GoGirl Budget Planner – Monthly Financial Planner Organizer Budget Book.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for budget organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: budget organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-budget-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 100 Envelope Challenge Cash Budget Binder Money Saving Planner Wallet UK Seller"><img src="{{ '/assets/images/marketplace-covers/450a92fe8f152242a234.jpg' | relative_url }}" alt="Listing image for 100 Envelope Challenge Cash Budget Binder Money Saving Planner Wallet UK Seller" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">100 Envelope Challenge Cash Budget Binder Money Saving Planner Wallet UK Seller</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for budget organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: budget organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-budget-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 100 Envelope Challenge Cash Budget Binder Money Saving Planner Wallet UK Seller"><img src="{{ '/assets/images/marketplace-covers/450a92fe8f152242a234.jpg' | relative_url }}" alt="Listing image for 100 Envelope Challenge Cash Budget Binder Money Saving Planner Wallet UK Seller" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">100 Envelope Challenge Cash Budget Binder Money Saving Planner Wallet UK Seller</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for budget organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: budget organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-budget-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 100 Envelope Challenge Cash Budget Binder Money Saving Planner Wallet UK stock"><img src="{{ '/assets/images/marketplace-covers/2dab614387dc1b8fb354.jpg' | relative_url }}" alt="Listing image for 100 Envelope Challenge Cash Budget Binder Money Saving Planner Wallet UK stock" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">100 Envelope Challenge Cash Budget Binder Money Saving Planner Wallet UK stock</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for budget organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: budget organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-budget-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 100 Envelope Challenge Cash Budget Binder Money Saving Planner Wallet UK stock"><img src="{{ '/assets/images/marketplace-covers/2dab614387dc1b8fb354.jpg' | relative_url }}" alt="Listing image for 100 Envelope Challenge Cash Budget Binder Money Saving Planner Wallet UK stock" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">100 Envelope Challenge Cash Budget Binder Money Saving Planner Wallet UK stock</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for budget organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: budget organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-budget-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 100 Envelope Challenge Cash Budget Binder Money Saving Planner Wallet UK"><img src="{{ '/assets/images/marketplace-covers/616e91d135ef807fad44.jpg' | relative_url }}" alt="Listing image for 100 Envelope Challenge Cash Budget Binder Money Saving Planner Wallet UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">100 Envelope Challenge Cash Budget Binder Money Saving Planner Wallet UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for budget organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: budget organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-budget-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 100 Envelope Challenge Cash Budget Binder Money Saving Planner Wallet UK"><img src="{{ '/assets/images/marketplace-covers/616e91d135ef807fad44.jpg' | relative_url }}" alt="Listing image for 100 Envelope Challenge Cash Budget Binder Money Saving Planner Wallet UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">100 Envelope Challenge Cash Budget Binder Money Saving Planner Wallet UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for budget organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: budget organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-budget-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=budget+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=money-defaults-why-automatic-saving-beats-repeated-resolve-self-improvement-that-works-budget-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -662,7 +662,7 @@ When saving depends on a monthly act of resolve, every month becomes a fresh tes
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -682,7 +682,7 @@ When saving depends on a monthly act of resolve, every month becomes a fresh tes
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -714,7 +714,7 @@ When saving depends on a monthly act of resolve, every month becomes a fresh tes
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -744,7 +744,7 @@ When saving depends on a monthly act of resolve, every month becomes a fresh tes
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -802,191 +802,191 @@ When saving depends on a monthly act of resolve, every month becomes a fresh tes
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nber.org  
-   Link: <a href="https://www.nber.org/system/files/working_papers/w8651/w8651.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/system/files/working_papers/w8651/w8651.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DEFAULT EFFECTS AND 401(K) SAVINGS BEHAVIOR...by JJ Choi · 2001 · Cited by 1065 — As a result, automatic enrollment has a dramatic i...</p></details>
+   Link:<a href="https://www.nber.org/system/files/working_papers/w8651/w8651.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/system/files/working_papers/w8651/w8651.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DEFAULT EFFECTS AND 401(K) SAVINGS BEHAVIOR...by JJ Choi · 2001 · Cited by 1065 — As a result, automatic enrollment has a dramatic i...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIRetirement Benefits  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK593519/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK593519/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Benefits - Behavioral Economics - NCBI - NIHHowever, the authors found that making automatic enrollment the default dramatically increase...</p></details>
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK593519/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK593519/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Benefits - Behavioral Economics - NCBI - NIHHowever, the authors found that making automatic enrollment the default dramatically increase...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: papers.ssrn.com  
    Title: nber w12009  
-   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/nber_w12009.pdf?abstractid=881243" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/nber_w12009.pdf?abstractid=881243</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Importance of Default Options for Retirement Savings...by J Beshears · 2006 · Cited by 970 — Under automatic enrollment, however...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/Delivery.cfm/nber_w12009.pdf?abstractid=881243" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/nber_w12009.pdf?abstractid=881243</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Importance of Default Options for Retirement Savings...by J Beshears · 2006 · Cited by 970 — Under automatic enrollment, however...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cepr.org  
    Title: auto enrollment changes who passive saver  
-   Link: <a href="https://cepr.org/voxeu/columns/auto-enrollment-changes-who-passive-saver" target="_blank" rel="noopener noreferrer nofollow">https://cepr.org/voxeu/columns/auto-enrollment-changes-who-passive-saver</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Auto-enrollment changes who is a passive saverFeb 11, 2020 — A subsequent change of the default to auto-enrollment increases the part...</p></details>
+   Link:<a href="https://cepr.org/voxeu/columns/auto-enrollment-changes-who-passive-saver" target="_blank" rel="noopener noreferrer nofollow">https://cepr.org/voxeu/columns/auto-enrollment-changes-who-passive-saver</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Auto-enrollment changes who is a passive saverFeb 11, 2020 — A subsequent change of the default to auto-enrollment increases the part...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCOptimal Defaults and Active Decisions  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2798815/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2798815/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Under “standard enrollment,” employees are by default not enrolled and can choose to opt into the plan.Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2798815/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2798815/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Under “standard enrollment,” employees are by default not enrolled and can choose to opt into the plan.Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: anderson.ucla.edu  
-   Link: <a href="https://www.anderson.ucla.edu/documents/areas/fac/accounting/smartjpe226.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.anderson.ucla.edu/documents/areas/fac/accounting/smartjpe226.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UCLA Anderson School of ManagementUsing Behavioral Economics to Increase Employee Savingby RH Thaler · 2003 · Cited by 4362 — The program...</p></details>
+   Link:<a href="https://www.anderson.ucla.edu/documents/areas/fac/accounting/smartjpe226.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.anderson.ucla.edu/documents/areas/fac/accounting/smartjpe226.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UCLA Anderson School of ManagementUsing Behavioral Economics to Increase Employee Savingby RH Thaler · 2003 · Cited by 4362 — The program...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pew.org  
    Title: state automated savings programs  
-   Link: <a href="https://www.pew.org/en/research-and-analysis/articles/2022/11/01/state-automated-savings-programs" target="_blank" rel="noopener noreferrer nofollow">https://www.pew.org/en/research-and-analysis/articles/2022/11/01/state-automated-savings-programs</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pew Charitable TrustsState Automated Savings ProgramsNov 1, 2022 — Research shows that workers are 15 times more likely to save for retir...</p></details>
+   Link:<a href="https://www.pew.org/en/research-and-analysis/articles/2022/11/01/state-automated-savings-programs" target="_blank" rel="noopener noreferrer nofollow">https://www.pew.org/en/research-and-analysis/articles/2022/11/01/state-automated-savings-programs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pew Charitable TrustsState Automated Savings ProgramsNov 1, 2022 — Research shows that workers are 15 times more likely to save for retir...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/rof/article/29/5/1587/8195745" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/rof/article/29/5/1587/8195745</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicSave more tomorrow, today: experimental evidence on the...by CE Freeman · 2025 — The original analysis estimates participati...</p></details>
+   Link:<a href="https://academic.oup.com/rof/article/29/5/1587/8195745" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/rof/article/29/5/1587/8195745</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicSave more tomorrow, today: experimental evidence on the...by CE Freeman · 2025 — The original analysis estimates participati...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: papers.ssrn.com  
    Title: nber W8651  
-   Link: <a href="https://papers.ssrn.com/sol3/delivery.cfm/nber_W8651.pdf?abstractid=294089" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/delivery.cfm/nber_W8651.pdf?abstractid=294089</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1. For example...Read more...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/delivery.cfm/nber_W8651.pdf?abstractid=294089" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/delivery.cfm/nber_W8651.pdf?abstractid=294089</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1. For example...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nber.org  
-   Link: <a href="https://www.nber.org/bah/summer06/effect-default-options-retirement-savings" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/bah/summer06/effect-default-options-retirement-savings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The authors look at the experience of one firm that switched from standard to automatic enrollment, where only workers...Read more...</p></details>
+   Link:<a href="https://www.nber.org/bah/summer06/effect-default-options-retirement-savings" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/bah/summer06/effect-default-options-retirement-savings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The authors look at the experience of one firm that switched from standard to automatic enrollment, where only workers...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nber.org  
-   Link: <a href="https://www.nber.org/system/files/working_papers/w32581/revisions/w32581.rev0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/system/files/working_papers/w32581/revisions/w32581.rev0.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Automating Short-Term Payroll SavingsIn the automatic enrollment arm, new members were by default enrolled to contribute £40 to the savin...</p></details>
+   Link:<a href="https://www.nber.org/system/files/working_papers/w32581/revisions/w32581.rev0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/system/files/working_papers/w32581/revisions/w32581.rev0.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Automating Short-Term Payroll SavingsIn the automatic enrollment arm, new members were by default enrolled to contribute £40 to the savin...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nber.org  
-   Link: <a href="https://www.nber.org/reporter/2024number3/influencing-retirement-savings-decisions-automatic-enrollment-and-related-tools" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/reporter/2024number3/influencing-retirement-savings-decisions-automatic-enrollment-and-related-tools</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Influencing Retirement Savings Decisions with Automatic...Oct 22, 2024 — Overall, this study suggested that 401(k) automatic enrollment...</p></details>
+   Link:<a href="https://www.nber.org/reporter/2024number3/influencing-retirement-savings-decisions-automatic-enrollment-and-related-tools" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/reporter/2024number3/influencing-retirement-savings-decisions-automatic-enrollment-and-related-tools</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Influencing Retirement Savings Decisions with Automatic...Oct 22, 2024 — Overall, this study suggested that 401(k) automatic enrollment...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4867445" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4867445</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Short-Term Payroll Savingsby S Holmes · 2024 · Cited by 3 — We evaluate two experiments in the UK at employers that enable workers to set...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4867445" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4867445</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Short-Term Payroll Savingsby S Holmes · 2024 · Cited by 3 — We evaluate two experiments in the UK at employers that enable workers to set...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: anderson.ucla.edu  
-   Link: <a href="https://www.anderson.ucla.edu/faculty/shlomo.benartzi/savemore.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.anderson.ucla.edu/faculty/shlomo.benartzi/savemore.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>More Tomorrowby RH Thaler · Cited by 4416 — The essence of the plan is straightforward: people commit in advance to allocate a portion of...</p></details>
+   Link:<a href="https://www.anderson.ucla.edu/faculty/shlomo.benartzi/savemore.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.anderson.ucla.edu/faculty/shlomo.benartzi/savemore.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>More Tomorrowby RH Thaler · Cited by 4416 — The essence of the plan is straightforward: people commit in advance to allocate a portion of...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/read/26874/chapter/10" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/26874/chapter/10</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National AcademiesChapter: 6 Retirement BenefitsHowever, the authors found that making automatic enrollment the default dramatically incr...</p></details>
+   Link:<a href="https://www.nationalacademies.org/read/26874/chapter/10" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/26874/chapter/10</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National AcademiesChapter: 6 Retirement BenefitsHowever, the authors found that making automatic enrollment the default dramatically incr...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: journals.uchicago.edu  
-   Link: <a href="https://www.journals.uchicago.edu/doi/10.1086/380085" target="_blank" rel="noopener noreferrer nofollow">https://www.journals.uchicago.edu/doi/10.1086/380085</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chicago JournalsUsing Behavioral Economics to Increase Employee SavingThe program is called Save More Tomorrow™ (or SMarT), and the basic...</p></details>
+   Link:<a href="https://www.journals.uchicago.edu/doi/10.1086/380085" target="_blank" rel="noopener noreferrer nofollow">https://www.journals.uchicago.edu/doi/10.1086/380085</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chicago JournalsUsing Behavioral Economics to Increase Employee SavingThe program is called Save More Tomorrow™ (or SMarT), and the basic...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: maps.org.uk  
-   Link: <a href="https://maps.org.uk/en/work-with-us/financial-wellbeing-in-the-workplace/payroll-deducted-saving-schemes" target="_blank" rel="noopener noreferrer nofollow">https://maps.org.uk/en/work-with-us/financial-wellbeing-in-the-workplace/payroll-deducted-saving-schemes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Payroll-deducted saving schemesWorkplace savings deducted from payroll can help your employees save and build financial security for...</p></details>
+   Link:<a href="https://maps.org.uk/en/work-with-us/financial-wellbeing-in-the-workplace/payroll-deducted-saving-schemes" target="_blank" rel="noopener noreferrer nofollow">https://maps.org.uk/en/work-with-us/financial-wellbeing-in-the-workplace/payroll-deducted-saving-schemes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Payroll-deducted saving schemesWorkplace savings deducted from payroll can help your employees save and build financial security for...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nestinsight.org.uk  
-   Link: <a href="https://www.nestinsight.org.uk/wp-content/uploads/2022/06/Payroll-savings-schemes-building-the-evidence-making-the-case-expanding-take-up.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nestinsight.org.uk/wp-content/uploads/2022/06/Payroll-savings-schemes-building-the-evidence-making-the-case-expanding-take-up.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Payroll savings schemesPayroll savings schemes aim to help people save by automatically diverting a proportion of their salary into a sav...</p></details>
+   Link:<a href="https://www.nestinsight.org.uk/wp-content/uploads/2022/06/Payroll-savings-schemes-building-the-evidence-making-the-case-expanding-take-up.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nestinsight.org.uk/wp-content/uploads/2022/06/Payroll-savings-schemes-building-the-evidence-making-the-case-expanding-take-up.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Payroll savings schemesPayroll savings schemes aim to help people save by automatically diverting a proportion of their salary into a sav...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: clear.dol.gov  
-   Link: <a href="https://clear.dol.gov/study/save-more-tomorrow%E2%84%A2-using-behavioral-economics-increase-employee-saving-thaler-benartzi-2004" target="_blank" rel="noopener noreferrer nofollow">https://clear.dol.gov/study/save-more-tomorrow%E2%84%A2-using-behavioral-economics-increase-employee-saving-thaler-benartzi-2004</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(2004). Save More Tomorrow™: Using behavioral economics to increase employee saving. Journal of Political Economy, 112(S1), S164-S187...</p></details>
+   Link:<a href="https://clear.dol.gov/study/save-more-tomorrow%E2%84%A2-using-behavioral-economics-increase-employee-saving-thaler-benartzi-2004" target="_blank" rel="noopener noreferrer nofollow">https://clear.dol.gov/study/save-more-tomorrow%E2%84%A2-using-behavioral-economics-increase-employee-saving-thaler-benartzi-2004</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(2004). Save More Tomorrow™: Using behavioral economics to increase employee saving. Journal of Political Economy, 112(S1), S164-S187...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: studeersnel.nl  
-   Link: <a href="https://www.studeersnel.nl/nl/document/rijksuniversiteit-groningen/behavioural-finance/paper-11-week-7-save-more-tomorrow-behavioral-economics-in-employee-savings/130559660" target="_blank" rel="noopener noreferrer nofollow">https://www.studeersnel.nl/nl/document/rijksuniversiteit-groningen/behavioural-finance/paper-11-week-7-save-more-tomorrow-behavioral-economics-in-employee-savings/130559660</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>StudocuPaper 11: Week 7 - Save More Tomorrow: Behavioral...Even with this aggressive strategy of increasing saving rates, the SMarT plan...</p></details>
+   Link:<a href="https://www.studeersnel.nl/nl/document/rijksuniversiteit-groningen/behavioural-finance/paper-11-week-7-save-more-tomorrow-behavioral-economics-in-employee-savings/130559660" target="_blank" rel="noopener noreferrer nofollow">https://www.studeersnel.nl/nl/document/rijksuniversiteit-groningen/behavioural-finance/paper-11-week-7-save-more-tomorrow-behavioral-economics-in-employee-savings/130559660</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>StudocuPaper 11: Week 7 - Save More Tomorrow: Behavioral...Even with this aggressive strategy of increasing saving rates, the SMarT plan...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: crr.bc.edu  
    Title: savings boost from auto enrollment wanes over time  
-   Link: <a href="https://crr.bc.edu/savings-boost-from-auto-enrollment-wanes-over-time/" target="_blank" rel="noopener noreferrer nofollow">https://crr.bc.edu/savings-boost-from-auto-enrollment-wanes-over-time/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Retirement ResearchSavings Boost from Auto-Enrollment Wanes Over TimeOct 24, 2024 — The study, conducted by some of the pionee...</p></details>
+   Link:<a href="https://crr.bc.edu/savings-boost-from-auto-enrollment-wanes-over-time/" target="_blank" rel="noopener noreferrer nofollow">https://crr.bc.edu/savings-boost-from-auto-enrollment-wanes-over-time/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Retirement ResearchSavings Boost from Auto-Enrollment Wanes Over TimeOct 24, 2024 — The study, conducted by some of the pionee...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: bfi.uchicago.edu  
    Title: Becker Friedman Institute Smaller than We Thought?  
-   Link: <a href="https://bfi.uchicago.edu/wp-content/uploads/2025/08/Beshears.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bfi.uchicago.edu/wp-content/uploads/2025/08/Beshears.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Effect of Automatic Savings...by JJ Choi · 2024 · Cited by 23 — Across nine natural experiments, steady-state saving rates increase...</p></details>
+   Link:<a href="https://bfi.uchicago.edu/wp-content/uploads/2025/08/Beshears.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bfi.uchicago.edu/wp-content/uploads/2025/08/Beshears.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Effect of Automatic Savings...by JJ Choi · 2024 · Cited by 23 — Across nine natural experiments, steady-state saving rates increase...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: crr.bc.edu  
    Title: how helpful is auto enrollment in 401k plans  
-   Link: <a href="https://crr.bc.edu/how-helpful-is-auto-enrollment-in-401k-plans/" target="_blank" rel="noopener noreferrer nofollow">https://crr.bc.edu/how-helpful-is-auto-enrollment-in-401k-plans/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Retirement ResearchHow Much Does 401(k) Auto-Enrollment Help Workers Save...Jan 9, 2025 — The positive effect of auto-enrollm...</p></details>
+   Link:<a href="https://crr.bc.edu/how-helpful-is-auto-enrollment-in-401k-plans/" target="_blank" rel="noopener noreferrer nofollow">https://crr.bc.edu/how-helpful-is-auto-enrollment-in-401k-plans/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Retirement ResearchHow Much Does 401(k) Auto-Enrollment Help Workers Save...Jan 9, 2025 — The positive effect of auto-enrollm...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nestinsight.org.uk  
    Title: millions are saving more for tomorrow  
-   Link: <a href="https://www.nestinsight.org.uk/millions-are-saving-more-for-tomorrow/" target="_blank" rel="noopener noreferrer nofollow">https://www.nestinsight.org.uk/millions-are-saving-more-for-tomorrow/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Jun 2020 — Our latest research shines a light on auto enrolment&#x27;s smart design and provides strong evidence that even when a system do...</p></details>
+   Link:<a href="https://www.nestinsight.org.uk/millions-are-saving-more-for-tomorrow/" target="_blank" rel="noopener noreferrer nofollow">https://www.nestinsight.org.uk/millions-are-saving-more-for-tomorrow/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>18 Jun 2020 — Our latest research shines a light on auto enrolment&#x27;s smart design and provides strong evidence that even when a system do...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: ifs.org.uk  
    Title: Automatic enrolment  
-   Link: <a href="https://ifs.org.uk/articles/automatic-enrolment-too-successful-nudge-boost-pension-saving" target="_blank" rel="noopener noreferrer nofollow">https://ifs.org.uk/articles/automatic-enrolment-too-successful-nudge-boost-pension-saving</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>too successful a nudge to boost...18 May 2020 — Automatic enrolment increased pension membership across all eligible employees from unde...</p></details>
+   Link:<a href="https://ifs.org.uk/articles/automatic-enrolment-too-successful-nudge-boost-pension-saving" target="_blank" rel="noopener noreferrer nofollow">https://ifs.org.uk/articles/automatic-enrolment-too-successful-nudge-boost-pension-saving</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>too successful a nudge to boost...18 May 2020 — Automatic enrolment increased pension membership across all eligible employees from unde...</p></details>
    Published: May 2020  
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: newamerica.org  
-   Link: <a href="https://www.newamerica.org/insights/autosave-concept-paper/" target="_blank" rel="noopener noreferrer nofollow">https://www.newamerica.org/insights/autosave-concept-paper/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AutoSave Concept PaperAutoSave is a unique saving plan that automatically diverts through payroll deduction a small amount of post-tax wa...</p></details>
+   Link:<a href="https://www.newamerica.org/insights/autosave-concept-paper/" target="_blank" rel="noopener noreferrer nofollow">https://www.newamerica.org/insights/autosave-concept-paper/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AutoSave Concept PaperAutoSave is a unique saving plan that automatically diverts through payroll deduction a small amount of post-tax wa...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: troweprice.com  
-   Link: <a href="https://www.troweprice.com/content/dam/retirement-plan-services/pdfs/insights/Auto-Enroll-2020-White-Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.troweprice.com/content/dam/retirement-plan-services/pdfs/insights/Auto-Enroll-2020-White-Paper.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Auto-enrollment&#x27;s Long-term effect on Retirement SavingThe research also suggests that the employees who are auto-enrolled run the risk o...</p></details>
+   Link:<a href="https://www.troweprice.com/content/dam/retirement-plan-services/pdfs/insights/Auto-Enroll-2020-White-Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.troweprice.com/content/dam/retirement-plan-services/pdfs/insights/Auto-Enroll-2020-White-Paper.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Auto-enrollment&#x27;s Long-term effect on Retirement SavingThe research also suggests that the employees who are auto-enrolled run the risk o...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: chicagobooth.edu  
-   Link: <a href="https://www.chicagobooth.edu/review/behavioral-economics-retirement-savings-crisis" target="_blank" rel="noopener noreferrer nofollow">https://www.chicagobooth.edu/review/behavioral-economics-retirement-savings-crisis</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioral Economics and the Retirement Savings CrisisWe argue that the solution to the problem of saving too little is automatic escalat...</p></details>
+   Link:<a href="https://www.chicagobooth.edu/review/behavioral-economics-retirement-savings-crisis" target="_blank" rel="noopener noreferrer nofollow">https://www.chicagobooth.edu/review/behavioral-economics-retirement-savings-crisis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioral Economics and the Retirement Savings CrisisWe argue that the solution to the problem of saving too little is automatic escalat...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: chicagobooth.edu  
-   Link: <a href="https://www.chicagobooth.edu/review/save-more-tomorrow" target="_blank" rel="noopener noreferrer nofollow">https://www.chicagobooth.edu/review/save-more-tomorrow</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Booth School of BusinessSave More Tomorrow | Chicago Booth ReviewThe Save More Tomorrow plan allows employees to allocate a portion of th...</p></details>
+   Link:<a href="https://www.chicagobooth.edu/review/save-more-tomorrow" target="_blank" rel="noopener noreferrer nofollow">https://www.chicagobooth.edu/review/save-more-tomorrow</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Booth School of BusinessSave More Tomorrow | Chicago Booth ReviewThe Save More Tomorrow plan allows employees to allocate a portion of th...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: professionalpensions.com  
-   Link: <a href="https://www.professionalpensions.com/analysis/2472941/-save-tomorrow-programmes" target="_blank" rel="noopener noreferrer nofollow">https://www.professionalpensions.com/analysis/2472941/-save-tomorrow-programmes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How &#x27;Save More Tomorrow&#x27; programmes workJonathan Stapleton looks at how the concept of &#x27;Save More Tomorrow&#x27; can help firms increase emplo...</p></details>
+   Link:<a href="https://www.professionalpensions.com/analysis/2472941/-save-tomorrow-programmes" target="_blank" rel="noopener noreferrer nofollow">https://www.professionalpensions.com/analysis/2472941/-save-tomorrow-programmes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How &#x27;Save More Tomorrow&#x27; programmes workJonathan Stapleton looks at how the concept of &#x27;Save More Tomorrow&#x27; can help firms increase emplo...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: povertyactionlab.org  
-   Link: <a href="https://www.povertyactionlab.org/evaluation/impact-defaults-and-financial-incentives-savings-decisions-mobile-money-platform" target="_blank" rel="noopener noreferrer nofollow">https://www.povertyactionlab.org/evaluation/impact-defaults-and-financial-incentives-savings-decisions-mobile-money-platform</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Impact of Defaults and Financial Incentives on Savings...Default assignments influence behavior: from organ donation to retirement s...</p></details>
+   Link:<a href="https://www.povertyactionlab.org/evaluation/impact-defaults-and-financial-incentives-savings-decisions-mobile-money-platform" target="_blank" rel="noopener noreferrer nofollow">https://www.povertyactionlab.org/evaluation/impact-defaults-and-financial-incentives-savings-decisions-mobile-money-platform</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Impact of Defaults and Financial Incentives on Savings...Default assignments influence behavior: from organ donation to retirement s...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: revfin.org  
-   Link: <a href="https://revfin.org/save-more-tomorrow-today-experimental-evidence-on-the-role-of-[precommitment" target="_blank" rel="noopener noreferrer nofollow">https://revfin.org/save-more-tomorrow-today-experimental-evidence-on-the-role-of-[precommitment</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Review of FinanceSave more tomorrow, today: experimental evidence on the...Our research contributes to the retirement savings literature...</p></details>
+   Link:<a href="https://revfin.org/save-more-tomorrow-today-experimental-evidence-on-the-role-of-[precommitment" target="_blank" rel="noopener noreferrer nofollow">https://revfin.org/save-more-tomorrow-today-experimental-evidence-on-the-role-of-[precommitment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Review of FinanceSave more tomorrow, today: experimental evidence on the...Our research contributes to the retirement savings literature...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: shlomobenartzi.com  
-   Link: <a href="https://www.shlomobenartzi.com/save-more-tomorrow" target="_blank" rel="noopener noreferrer nofollow">https://www.shlomobenartzi.com/save-more-tomorrow</a>  
+   Link:<a href="https://www.shlomobenartzi.com/save-more-tomorrow" target="_blank" rel="noopener noreferrer nofollow">https://www.shlomobenartzi.com/save-more-tomorrow</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: financialplanningassociation.org  
-   Link: <a href="https://www.financialplanningassociation.org/learning/publications/journal/MAR24-benefits-behavioral-nudges-using-choice-architecture-improve-decisions-and-shape-outcomes-OPEN" target="_blank" rel="noopener noreferrer nofollow">https://www.financialplanningassociation.org/learning/publications/journal/MAR24-benefits-behavioral-nudges-using-choice-architecture-improve-decisions-and-shape-outcomes-OPEN</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Benefits of Behavioral Nudges: Using Choice...by SJ Eckert · 2024 · Cited by 2 — Setting up a separate savings account dedicated to...</p></details>
+   Link:<a href="https://www.financialplanningassociation.org/learning/publications/journal/MAR24-benefits-behavioral-nudges-using-choice-architecture-improve-decisions-and-shape-outcomes-OPEN" target="_blank" rel="noopener noreferrer nofollow">https://www.financialplanningassociation.org/learning/publications/journal/MAR24-benefits-behavioral-nudges-using-choice-architecture-improve-decisions-and-shape-outcomes-OPEN</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Benefits of Behavioral Nudges: Using Choice...by SJ Eckert · 2024 · Cited by 2 — Setting up a separate savings account dedicated to...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: clear.dol.gov  
    Title: better or worse default effects and 401k savings behavior choi et al 2004  
-   Link: <a href="https://clear.dol.gov/study/better-or-worse-default-effects-and-401k-savings-behavior-choi-et-al-2004" target="_blank" rel="noopener noreferrer nofollow">https://clear.dol.gov/study/better-or-worse-default-effects-and-401k-savings-behavior-choi-et-al-2004</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In addition, automatic enrollment led to a larger percentage of participants investing...Read more...</p></details>
+   Link:<a href="https://clear.dol.gov/study/better-or-worse-default-effects-and-401k-savings-behavior-choi-et-al-2004" target="_blank" rel="noopener noreferrer nofollow">https://clear.dol.gov/study/better-or-worse-default-effects-and-401k-savings-behavior-choi-et-al-2004</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In addition, automatic enrollment led to a larger percentage of participants investing...Read more...</p></details>

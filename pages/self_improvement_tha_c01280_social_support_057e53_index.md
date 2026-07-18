@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /self-improvement-tha-c01280-social/
 description: Focused pages that expand on Social Support.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: self_improvement_tha_c01280_social_support_057e53
 parent_title: Social Support
@@ -16,7 +16,7 @@ parent_permalink: /social-support/
 
 # Explore Topics in Social Support
 
-The following pages expand on the main **[Social Support]({{ '/social-support/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Social Support]({{ '/social-support/' | relative_url }})** page and cover its key branches in.
 
 - [Autonomy support]({{ '/autonomy-support/' | relative_url }})
 - [Comparison traps]({{ '/comparison-traps/' | relative_url }})

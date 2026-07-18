@@ -274,18 +274,18 @@ image: /assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_ap
 
 ## Introduction
 
-An apology can stop resentment from hardening, but it does not by itself repair trust. When the same problem could happen again, the real test of sincerity is whether behaviour changes in a way the other person can actually observe. Research on effective [apologies]({{ 'apologies/' | relative_url }}) consistently finds that taking responsibility matters, but an offer of repair is nearly as important because it converts words into action. In practical terms, “I’m sorry” becomes credible when it is followed by a specific adjustment that addresses the harm and reduces the chance of repetition. Ohio State News <span class="citation-chip-wrap"><a class="citation-chip" href="https://facultyombuds.ncsu.edu/apology-research-how-to-do-it-well/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facultyombuds.ncsu.edu">[Faculty &amp;amp]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facultyombuds.ncsu.edu</span><span class="citation-popover-title">Faculty &amp; Staff Ombuds Office Apology Research</span><span class="citation-popover-snippet">Faculty &amp; Staff Ombuds OfficeApology Research - How to do it WellMay 31, 2016 — According to Professor Lewicki – “Apologies really do...</span><span class="citation-popover-meta">Published: May 31, 2016</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://facultyombuds.ncsu.edu/apology-research-how-to-do-it-well/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facultyombuds.ncsu.edu">[Staff Ombuds Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facultyombuds.ncsu.edu</span><span class="citation-popover-title">Faculty &amp; Staff Ombuds Office Apology Research</span><span class="citation-popover-snippet">Faculty &amp; Staff Ombuds OfficeApology Research - How to do it WellMay 31, 2016 — According to Professor Lewicki – “Apologies really do...</span><span class="citation-popover-meta">Published: May 31, 2016</span></span></span>
+An apology can stop resentment from hardening, but it does not by itself repair trust. When the same problem could happen again, the real test of sincerity is whether behaviour changes in a way the other person can actually observe. Research on effective [apologies]({{ 'apologies/' | relative_url }}) consistently finds that taking responsibility matters, but an offer of repair is nearly as important because it converts words into action. In practical terms, “I’m sorry” becomes credible when it is followed by a specific adjustment that addresses the harm and reduces the chance of repetition. Ohio State News<span class="citation-chip-wrap"><a class="citation-chip" href="https://facultyombuds.ncsu.edu/apology-research-how-to-do-it-well/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facultyombuds.ncsu.edu">[Faculty &amp;amp]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facultyombuds.ncsu.edu</span><span class="citation-popover-title">Faculty &amp; Staff Ombuds Office Apology Research</span><span class="citation-popover-snippet">Faculty &amp; Staff Ombuds OfficeApology Research - How to do it WellMay 31, 2016 — According to Professor Lewicki – “Apologies really do...</span><span class="citation-popover-meta">Published: May 31, 2016</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://facultyombuds.ncsu.edu/apology-research-how-to-do-it-well/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facultyombuds.ncsu.edu">[Staff Ombuds Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facultyombuds.ncsu.edu</span><span class="citation-popover-title">Faculty &amp; Staff Ombuds Office Apology Research</span><span class="citation-popover-snippet">Faculty &amp; Staff Ombuds OfficeApology Research - How to do it WellMay 31, 2016 — According to Professor Lewicki – “Apologies really do...</span><span class="citation-popover-meta">Published: May 31, 2016</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_apology_behaviour_ch_a1fd98-Illustration-1-dark.svg" | relative_url }}" alt="Behaviour Change illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_apology_behaviour_ch_a1fd98-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_apology_behaviour_ch_a1fd98-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This is where many apologies succeed or fail. People often apologise for an outcome while leaving the underlying habit untouched. The result is a cycle of hurt, apology, temporary relief, and recurrence. Effective self-improvement requires breaking that cycle by linking accountability to observable behaviour change rather than treating the apology as the finish line. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S014829632100179X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Employee trust repair: A systematic review of 20 years...by T Kähkönen · 2021 · Cited by 168 — We find that most empirical...</span></span></span>
+This is where many apologies succeed or fail. People often apologise for an outcome while leaving the underlying habit untouched. The result is a cycle of hurt, apology, temporary relief, and recurrence. Effective self-improvement requires breaking that cycle by linking accountability to observable behaviour change rather than treating the apology as the finish line.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S014829632100179X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Employee trust repair: A systematic review of 20 years...by T Kähkönen · 2021 · Cited by 168 — We find that most empirical...</span></span></span>
 
 ## Why Words Need a Practical Repair Step
 
 A good apology acknowledges responsibility. A stronger apology also answers an unspoken question: “What will be different next time?”
 
-Research on apology effectiveness found that acknowledgement of responsibility is the most important element, with an offer of repair ranking immediately behind it. The reason is intuitive. Responsibility shows understanding of the problem; repair shows commitment to solving it. NCMR Larry Ferlazzo's Websites of the Day... <span class="citation-chip-wrap"><a class="citation-chip" href="https://larryferlazzo.edublogs.org/2016/04/15/new-study-highlights-six-components-of-an-effective-apology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: larryferlazzo.edublogs.org">[larryferlazzo.edublogs.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">larryferlazzo.edublogs.org</span><span class="citation-popover-title">The second most important element was an offer</span><span class="citation-popover-snippet">Larry Ferlazzo&#x27;s Websites of the Day...New Study Highlights Six Components Of An Effective ApologyApr 15, 2016 — “Our findings showed tha...</span></span></span>
+Research on apology effectiveness found that acknowledgement of responsibility is the most important element, with an offer of repair ranking immediately behind it. The reason is intuitive. Responsibility shows understanding of the problem; repair shows commitment to solving it. NCMR Larry Ferlazzo's Websites of the Day...<span class="citation-chip-wrap"><a class="citation-chip" href="https://larryferlazzo.edublogs.org/2016/04/15/new-study-highlights-six-components-of-an-effective-apology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: larryferlazzo.edublogs.org">[larryferlazzo.edublogs.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">larryferlazzo.edublogs.org</span><span class="citation-popover-title">The second most important element was an offer</span><span class="citation-popover-snippet">Larry Ferlazzo&#x27;s Websites of the Day...New Study Highlights Six Components Of An Effective ApologyApr 15, 2016 — “Our findings showed tha...</span></span></span>
 
-Trust research points in the same direction. Apologies can improve perceptions of trustworthiness and encourage people to take another chance on a relationship. However, trust repair is not sustained by language alone. Reviews of trust-repair research distinguish between verbal responses such as apologies and substantive responses involving concrete actions. Action-based responses are especially important when confidence has been damaged by repeated behaviour rather than a one-off mistake. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7082420/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by CVO Witvliet · 2020 · Cited by 47 — Apology and restitution each independently increased empathy, forgiveness, gratitude, and posit...</span></span></span>
+Trust research points in the same direction. Apologies can improve perceptions of trustworthiness and encourage people to take another chance on a relationship. However, trust repair is not sustained by language alone. Reviews of trust-repair research distinguish between verbal responses such as apologies and substantive responses involving concrete actions. Action-based responses are especially important when confidence has been damaged by repeated behaviour rather than a one-off mistake.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7082420/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by CVO Witvliet · 2020 · Cited by 47 — Apology and restitution each independently increased empathy, forgiveness, gratitude, and posit...</span></span></span>
 
 Consider three common examples:
 
@@ -359,7 +359,7 @@ For example:
 
 Notice what is absent. There is no demand for immediate forgiveness, no lengthy defence, and no attempt to prove moral character. The focus stays on the behaviour that caused harm and the behaviour that will replace it.
 
-Research on restitution and repair suggests that actions intended to remedy harm can independently increase forgiveness, empathy, gratitude, and positive feelings while reducing lingering resentment. The practical lesson is that repair should not merely symbolise regret; it should actively improve the situation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7082420/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by CVO Witvliet · 2020 · Cited by 47 — Apology and restitution each independently increased empathy, forgiveness, gratitude, and posit...</span></span></span>
+Research on restitution and repair suggests that actions intended to remedy harm can independently increase forgiveness, empathy, gratitude, and positive feelings while reducing lingering resentment. The practical lesson is that repair should not merely symbolise regret; it should actively improve the situation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7082420/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by CVO Witvliet · 2020 · Cited by 47 — Apology and restitution each independently increased empathy, forgiveness, gratitude, and posit...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IudovhKp27M" title="5 Boundaries That Instantly Shut Down Manipulators" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IudovhKp27M" target="_blank" rel="noopener noreferrer">5 Boundaries That Instantly Shut Down Manipulators</a></p><p class="youtube-embed-meta">Channel: Chill Dude Unpacks &middot; Views: 68.5K &middot; Uploaded: January 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IudovhKp27M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IudovhKp27M">Open on YouTube</a></p></div></div></div>
 
@@ -367,7 +367,7 @@ Research on restitution and repair suggests that actions intended to remedy harm
 
 One of the most overlooked parts of repair is what happens after the apology.
 
-People sometimes become impatient when they have apologised and begun changing. They expect appreciation, reassurance, or immediate reconciliation. Yet forgiveness is a separate process from accountability. An apology can be accepted while trust remains incomplete. Research on forgiveness emphasises that it develops over time rather than appearing automatically after a single conversation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psy.ox.ac.uk/research/social-foundations/Forgiveness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psy.ox.ac.uk">[Department of Experimental Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psy.ox.ac.uk</span><span class="citation-popover-title">Department of Experimental Psychology Forgiveness</span><span class="citation-popover-snippet">It involves intentionally shifting your thoughts, feelings, and motivations from negative...Read more...</span></span></span>
+People sometimes become impatient when they have apologised and begun changing. They expect appreciation, reassurance, or immediate reconciliation. Yet forgiveness is a separate process from accountability. An apology can be accepted while trust remains incomplete. Research on forgiveness emphasises that it develops over time rather than appearing automatically after a single conversation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psy.ox.ac.uk/research/social-foundations/Forgiveness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psy.ox.ac.uk">[Department of Experimental Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psy.ox.ac.uk</span><span class="citation-popover-title">Department of Experimental Psychology Forgiveness</span><span class="citation-popover-snippet">It involves intentionally shifting your thoughts, feelings, and motivations from negative...Read more...</span></span></span>
 
 A better follow-up approach is:
 
@@ -387,7 +387,7 @@ The paradox is that behaviour change becomes more convincing when it is not cons
 
 Some apologies fail because the behavioural change exists only when the relationship feels at risk. Once the immediate discomfort passes, old habits return.
 
-People are generally skilled at detecting this pattern. Research on trust repair shows that perceptions of sincerity matter greatly. Behaviour that appears designed merely to escape consequences often repairs less trust than behaviour that reflects genuine accountability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rips-irsp.com/articles/10.5334/irsp.479" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rips-irsp.com">[IRSP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rips-irsp.com</span><span class="citation-popover-snippet">IRSPRepairing Trust Between Individuals and Groupsby CPR Folmer · 2021 · Cited by 27 — We examined how apologies impacted the restoration...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ncmr.lps.library.cmu.edu/article/id/264/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncmr.lps.library.cmu.edu">[NCMR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncmr.lps.library.cmu.edu</span><span class="citation-popover-snippet">Six components of an apology were defined from previous research and presented to...Read more...</span></span></span>
+People are generally skilled at detecting this pattern. Research on trust repair shows that perceptions of sincerity matter greatly. Behaviour that appears designed merely to escape consequences often repairs less trust than behaviour that reflects genuine accountability.<span class="citation-chip-wrap"><a class="citation-chip" href="https://rips-irsp.com/articles/10.5334/irsp.479" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rips-irsp.com">[IRSP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rips-irsp.com</span><span class="citation-popover-snippet">IRSPRepairing Trust Between Individuals and Groupsby CPR Folmer · 2021 · Cited by 27 — We examined how apologies impacted the restoration...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://ncmr.lps.library.cmu.edu/article/id/264/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncmr.lps.library.cmu.edu">[NCMR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncmr.lps.library.cmu.edu</span><span class="citation-popover-snippet">Six components of an apology were defined from previous research and presented to...Read more...</span></span></span>
 
 A useful question after apologising is not, “How can I prove I am sorry?” but, “What system, habit, or routine needs to change so this becomes less likely?”
 
@@ -397,274 +397,274 @@ That question shifts attention from image management to implementation. The answ
 
 The most effective repair is usually smaller than people expect and more consistent than they expect. An apology earns credibility when it identifies a realistic next action, carries it out repeatedly, and keeps doing so after the emotional intensity of the incident has faded.
 
-In the broader practice of self-improvement that works, this is the key transition: moving from regret to design. The apology acknowledges the harm. The behavioural change reduces the likelihood of repeating it. Over time, that pattern of action—not the original words—becomes the strongest evidence that the apology was real. Ohio State News <span class="citation-chip-wrap"><a class="citation-chip" href="https://tammylenski.com/6-ingredients-of-an-effective-apology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tammylenski.com">[2tammylenski.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tammylenski.com</span><span class="citation-popover-title">6 ingredients of an effective apology</span><span class="citation-popover-snippet">Apr 26, 2016 — Explanation of what went wrong; Acknowledgment of responsibility; Declaration of repentance; Offer of repair; Request for...</span></span></span>
+In the broader practice of self-improvement that works, this is the key transition: moving from regret to design. The apology acknowledges the harm. The behavioural change reduces the likelihood of repeating it. Over time, that pattern of action—not the original words—becomes the strongest evidence that the apology was real. Ohio State News<span class="citation-chip-wrap"><a class="citation-chip" href="https://tammylenski.com/6-ingredients-of-an-effective-apology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tammylenski.com">[2tammylenski.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tammylenski.com</span><span class="citation-popover-title">6 ingredients of an effective apology</span><span class="citation-popover-snippet">Apr 26, 2016 — Explanation of what went wrong; Acknowledgment of responsibility; Declaration of repentance; Offer of repair; Request for...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/R7vP01U8qr4" title="The power of the apology | Robert M. Gordon | TEDxLehighRiver" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=R7vP01U8qr4" target="_blank" rel="noopener noreferrer">The power of the apology | Robert M. Gordon | TEDxLehighRiver</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 131.6K &middot; Uploaded: November 2014 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=R7vP01U8qr4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=R7vP01U8qr4">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Should Change After the Apology?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Should Change After the Apology?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Crucial+Conversations+by+Kerry+Patterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crucial Conversations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PibJN5XVQRkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Crucial Conversations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Crucial+Conversations+by+Kerry+Patterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crucial Conversations">Crucial Conversations</a>
-        </h4>
-        <p class="fr-book-author">By Kerry Patterson, Joseph Grenny et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Crucial+Conversations+by+Kerry+Patterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crucial Conversations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PibJN5XVQRkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Crucial Conversations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Crucial+Conversations+by+Kerry+Patterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crucial Conversations">Crucial Conversations</a>
+</h4>
+<p class="fr-book-author">By Kerry Patterson, Joseph Grenny et al.</p>
         
-        <p class="fr-book-desc">Focuses on turning conversations into behavioural change.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Crucial+Conversations+by+Kerry+Patterson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on turning conversations into behavioural change.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Crucial+Conversations+by+Kerry+Patterson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Five+Languages+of+Apology+by+Gary+Chapman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Five Languages of Apology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wHtyN-sIP1EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Five Languages of Apology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Five+Languages+of+Apology+by+Gary+Chapman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Five Languages of Apology">The Five Languages of Apology</a>
-        </h4>
-        <p class="fr-book-author">By Gary Chapman, Jennifer M. Thomas</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Five+Languages+of+Apology+by+Gary+Chapman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Five Languages of Apology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wHtyN-sIP1EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Five Languages of Apology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Five+Languages+of+Apology+by+Gary+Chapman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Five Languages of Apology">The Five Languages of Apology</a>
+</h4>
+<p class="fr-book-author">By Gary Chapman, Jennifer M. Thomas</p>
         
-        <p class="fr-book-desc">Connects apology with meaningful repair actions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Five+Languages+of+Apology+by+Gary+Chapman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects apology with meaningful repair actions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Five+Languages+of+Apology+by+Gary+Chapman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Nonviolent+Communication+by+Marshall+B.+Rosenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nonviolent Communication on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bTgQrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Nonviolent Communication" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Nonviolent+Communication+by+Marshall+B.+Rosenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nonviolent Communication">Nonviolent Communication</a>
-        </h4>
-        <p class="fr-book-author">By Marshall B. Rosenberg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Nonviolent+Communication+by+Marshall+B.+Rosenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nonviolent Communication on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bTgQrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Nonviolent Communication" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Nonviolent+Communication+by+Marshall+B.+Rosenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nonviolent Communication">Nonviolent Communication</a>
+</h4>
+<p class="fr-book-author">By Marshall B. Rosenberg</p>
         
-        <p class="fr-book-desc">Encourages accountability and observable repair.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Nonviolent+Communication+by+Marshall+B.+Rosenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages accountability and observable repair.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Nonviolent+Communication+by+Marshall+B.+Rosenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Seven+Principles+For+Making+Marriage+Work+by+John+Gottman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Seven Principles For Making Marriage Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HB43DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Seven Principles For Making Marriage Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Seven+Principles+For+Making+Marriage+Work+by+John+Gottman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Seven Principles For Making Marriage Work">The Seven Principles For Making Marriage Work</a>
-        </h4>
-        <p class="fr-book-author">By John Gottman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Seven+Principles+For+Making+Marriage+Work+by+John+Gottman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Seven Principles For Making Marriage Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HB43DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Seven Principles For Making Marriage Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Seven+Principles+For+Making+Marriage+Work+by+John+Gottman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Seven Principles For Making Marriage Work">The Seven Principles For Making Marriage Work</a>
+</h4>
+<p class="fr-book-author">By John Gottman</p>
         
-        <p class="fr-book-desc">Covers trust repair through changed behaviour.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Seven+Principles+For+Making+Marriage+Work+by+John+Gottman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers trust repair through changed behaviour.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Seven+Principles+For+Making+Marriage+Work+by+John+Gottman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Crucial+Conversations&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crucial Conversations</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Five+Languages+of+Apology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Five Languages of Apology</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Nonviolent+Communication&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nonviolent Communication</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Crucial+Conversations&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crucial Conversations</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Five+Languages+of+Apology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Five Languages of Apology</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Nonviolent+Communication&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nonviolent Communication</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/72cf51fc129cd58e3c35.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/72cf51fc129cd58e3c35.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gym Motivational Posters Work Out Insperational Quotes Wall Art"><img src="{{ '/assets/images/marketplace-covers/4d2a471cca3e54fc14d8.jpg' | relative_url }}" alt="Listing image for Gym Motivational Posters Work Out Insperational Quotes Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Gym Motivational Posters Work Out Insperational Quotes Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gym Motivational Posters Work Out Insperational Quotes Wall Art"><img src="{{ '/assets/images/marketplace-covers/4d2a471cca3e54fc14d8.jpg' | relative_url }}" alt="Listing image for Gym Motivational Posters Work Out Insperational Quotes Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Gym Motivational Posters Work Out Insperational Quotes Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/889e8acbca3b73af071f.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/889e8acbca3b73af071f.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/cdb87d9c00637e7f5353.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/cdb87d9c00637e7f5353.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=behaviour-change-what-should-change-after-the-apology-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -680,7 +680,7 @@ In the broader practice of self-improvement that works, this is the key transiti
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -700,7 +700,7 @@ In the broader practice of self-improvement that works, this is the key transiti
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -732,7 +732,7 @@ In the broader practice of self-improvement that works, this is the key transiti
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -762,7 +762,7 @@ In the broader practice of self-improvement that works, this is the key transiti
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -820,141 +820,141 @@ In the broader practice of self-improvement that works, this is the key transiti
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S014829632100179X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S014829632100179X</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Employee trust repair: A systematic review of 20 years...by T Kähkönen · 2021 · Cited by 168 — We find that most empirical...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S014829632100179X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S014829632100179X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Employee trust repair: A systematic review of 20 years...by T Kähkönen · 2021 · Cited by 168 — We find that most empirical...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ncmr.lps.library.cmu.edu  
-   Link: <a href="https://ncmr.lps.library.cmu.edu/article/id/264/" target="_blank" rel="noopener noreferrer nofollow">https://ncmr.lps.library.cmu.edu/article/id/264/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Six components of an apology were defined from previous research and presented to...Read more...</p></details>
+   Link:<a href="https://ncmr.lps.library.cmu.edu/article/id/264/" target="_blank" rel="noopener noreferrer nofollow">https://ncmr.lps.library.cmu.edu/article/id/264/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Six components of an apology were defined from previous research and presented to...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: rips-irsp.com  
-   Link: <a href="https://rips-irsp.com/articles/10.5334/irsp.479" target="_blank" rel="noopener noreferrer nofollow">https://rips-irsp.com/articles/10.5334/irsp.479</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IRSPRepairing Trust Between Individuals and Groupsby CPR Folmer · 2021 · Cited by 27 — We examined how apologies impacted the restoration...</p></details>
+   Link:<a href="https://rips-irsp.com/articles/10.5334/irsp.479" target="_blank" rel="noopener noreferrer nofollow">https://rips-irsp.com/articles/10.5334/irsp.479</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IRSPRepairing Trust Between Individuals and Groupsby CPR Folmer · 2021 · Cited by 27 — We examined how apologies impacted the restoration...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ncmr.lps.library.cmu.edu  
-   Link: <a href="https://ncmr.lps.library.cmu.edu/article/id/817/" target="_blank" rel="noopener noreferrer nofollow">https://ncmr.lps.library.cmu.edu/article/id/817/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Forced versus Voluntary Apologies: Trust Repair as a Matter...by LA Langlinais · 2025 — We found evidence that a voluntary apology r...</p></details>
+   Link:<a href="https://ncmr.lps.library.cmu.edu/article/id/817/" target="_blank" rel="noopener noreferrer nofollow">https://ncmr.lps.library.cmu.edu/article/id/817/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forced versus Voluntary Apologies: Trust Repair as a Matter...by LA Langlinais · 2025 — We found evidence that a voluntary apology r...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: tammylenski.com  
    Title: 6 ingredients of an effective apology  
-   Link: <a href="https://tammylenski.com/6-ingredients-of-an-effective-apology/" target="_blank" rel="noopener noreferrer nofollow">https://tammylenski.com/6-ingredients-of-an-effective-apology/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Apr 26, 2016 — Explanation of what went wrong; Acknowledgment of responsibility; Declaration of repentance; Offer of repair; Request for...</p></details>
+   Link:<a href="https://tammylenski.com/6-ingredients-of-an-effective-apology/" target="_blank" rel="noopener noreferrer nofollow">https://tammylenski.com/6-ingredients-of-an-effective-apology/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Apr 26, 2016 — Explanation of what went wrong; Acknowledgment of responsibility; Declaration of repentance; Offer of repair; Request for...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0749597810000403" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0749597810000403</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How matching apology components to victims&#x27; self...by R Fehr · 2010 · Cited by 511 — The present research begins to address this gap by...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0749597810000403" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0749597810000403</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How matching apology components to victims&#x27; self...by R Fehr · 2010 · Cited by 511 — The present research begins to address this gap by...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022096517306513" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0022096517306513</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Apologies repair children&#x27;s trust: The mediating role of...by F Ma · 2018 · Cited by 24 — The current study examined whether emotions me...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0022096517306513" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0022096517306513</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Apologies repair children&#x27;s trust: The mediating role of...by F Ma · 2018 · Cited by 24 — The current study examined whether emotions me...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sciencedirect.com  
    Title: However, beliefs about the morality,  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2666622725000176" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2666622725000176</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The role of apology beliefs for apology tendencies across...by A Kirchner-Häusler · 2025 · Cited by 2 — Apologies serve as crucial tools...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2666622725000176" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2666622725000176</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The role of apology beliefs for apology tendencies across...by A Kirchner-Häusler · 2025 · Cited by 2 — Apologies serve as crucial tools...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facultyombuds.ncsu.edu  
    Title: Faculty &amp; Staff Ombuds Office Apology Research  
-   Link: <a href="https://facultyombuds.ncsu.edu/apology-research-how-to-do-it-well/" target="_blank" rel="noopener noreferrer nofollow">https://facultyombuds.ncsu.edu/apology-research-how-to-do-it-well/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Faculty &amp;amp; Staff Ombuds OfficeApology Research - How to do it WellMay 31, 2016 — According to Professor Lewicki – “Apologies really do...</p></details>
+   Link:<a href="https://facultyombuds.ncsu.edu/apology-research-how-to-do-it-well/" target="_blank" rel="noopener noreferrer nofollow">https://facultyombuds.ncsu.edu/apology-research-how-to-do-it-well/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Faculty &amp;amp; Staff Ombuds OfficeApology Research - How to do it WellMay 31, 2016 — According to Professor Lewicki – “Apologies really do...</p></details>
    Published: May 31, 2016  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: larryferlazzo.edublogs.org  
    Title: The second most important element was an offer  
-   Link: <a href="https://larryferlazzo.edublogs.org/2016/04/15/new-study-highlights-six-components-of-an-effective-apology/" target="_blank" rel="noopener noreferrer nofollow">https://larryferlazzo.edublogs.org/2016/04/15/new-study-highlights-six-components-of-an-effective-apology/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Larry Ferlazzo&#x27;s Websites of the Day...New Study Highlights Six Components Of An Effective ApologyApr 15, 2016 — “Our findings showed tha...</p></details>
+   Link:<a href="https://larryferlazzo.edublogs.org/2016/04/15/new-study-highlights-six-components-of-an-effective-apology/" target="_blank" rel="noopener noreferrer nofollow">https://larryferlazzo.edublogs.org/2016/04/15/new-study-highlights-six-components-of-an-effective-apology/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Larry Ferlazzo&#x27;s Websites of the Day...New Study Highlights Six Components Of An Effective ApologyApr 15, 2016 — “Our findings showed tha...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7082420/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7082420/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by CVO Witvliet · 2020 · Cited by 47 — Apology and restitution each independently increased empathy, forgiveness, gratitude, and posit...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7082420/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7082420/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by CVO Witvliet · 2020 · Cited by 47 — Apology and restitution each independently increased empathy, forgiveness, gratitude, and posit...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6457316/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6457316/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralApologies Repair Trust via Perceived Trustworthiness and...by F Ma · 2019 · Cited by 45 — The present study examined the e...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6457316/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6457316/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralApologies Repair Trust via Perceived Trustworthiness and...by F Ma · 2019 · Cited by 45 — The present study examined the e...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: psy.ox.ac.uk  
    Title: Department of Experimental Psychology Forgiveness  
-   Link: <a href="https://www.psy.ox.ac.uk/research/social-foundations/Forgiveness" target="_blank" rel="noopener noreferrer nofollow">https://www.psy.ox.ac.uk/research/social-foundations/Forgiveness</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It involves intentionally shifting your thoughts, feelings, and motivations from negative...Read more...</p></details>
+   Link:<a href="https://www.psy.ox.ac.uk/research/social-foundations/Forgiveness" target="_blank" rel="noopener noreferrer nofollow">https://www.psy.ox.ac.uk/research/social-foundations/Forgiveness</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It involves intentionally shifting your thoughts, feelings, and motivations from negative...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8096994/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8096994/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralVictim&#x27;s Perspective of Forgiveness Seeking Behaviors After...by P Martinez-Diaz · 2021 · Cited by 35 — This research focu...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8096994/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8096994/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralVictim&#x27;s Perspective of Forgiveness Seeking Behaviors After...by P Martinez-Diaz · 2021 · Cited by 35 — This research focu...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Effectiveness" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Effectiveness</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EffectivenessEffectiveness or effectivity [1] is the capability of producing a desired result or the ability to produce desired output...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Effectiveness" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Effectiveness</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EffectivenessEffectiveness or effectivity [1] is the capability of producing a desired result or the ability to produce desired output...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: khanacademy.org  
-   Link: <a href="https://www.khanacademy.org/ela/new-6th-grade-reading-and-vocabulary/x8ddea1200317e822%3Awhat-defines-us/x8ddea1200317e822%3Aanalyzing-text-structure/v/effective-vocabulary-624a" target="_blank" rel="noopener noreferrer nofollow">https://www.khanacademy.org/ela/new-6th-grade-reading-and-vocabulary/x8ddea1200317e822%3Awhat-defines-us/x8ddea1200317e822%3Aanalyzing-text-structure/v/effective-vocabulary-624a</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effective | Vocabulary (video) | VocabularySomething that is effective tends to, or has the quality of making things happen, of making ou...</p></details>
+   Link:<a href="https://www.khanacademy.org/ela/new-6th-grade-reading-and-vocabulary/x8ddea1200317e822%3Awhat-defines-us/x8ddea1200317e822%3Aanalyzing-text-structure/v/effective-vocabulary-624a" target="_blank" rel="noopener noreferrer nofollow">https://www.khanacademy.org/ela/new-6th-grade-reading-and-vocabulary/x8ddea1200317e822%3Awhat-defines-us/x8ddea1200317e822%3Aanalyzing-text-structure/v/effective-vocabulary-624a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effective | Vocabulary (video) | VocabularySomething that is effective tends to, or has the quality of making things happen, of making ou...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: abacademies.org  
-   Link: <a href="https://www.abacademies.org/articles/An-integrated-model-of-relationship-repair-reintroducing-the-roles-of-forgiveness-and-trust-1939-4691-21-1-101.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.abacademies.org/articles/An-integrated-model-of-relationship-repair-reintroducing-the-roles-of-forgiveness-and-trust-1939-4691-21-1-101.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AN INTEGRATED MODEL OF RELATIONSHIP REPAIRA formal apology, on the other hand, consists of the offender&#x27;s admission of responsibility and...</p></details>
+   Link:<a href="https://www.abacademies.org/articles/An-integrated-model-of-relationship-repair-reintroducing-the-roles-of-forgiveness-and-trust-1939-4691-21-1-101.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.abacademies.org/articles/An-integrated-model-of-relationship-repair-reintroducing-the-roles-of-forgiveness-and-trust-1939-4691-21-1-101.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AN INTEGRATED MODEL OF RELATIONSHIP REPAIRA formal apology, on the other hand, consists of the offender&#x27;s admission of responsibility and...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/301251986_An_Exploration_of_the_Structure_of_Effective_Apologies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/301251986_An_Exploration_of_the_Structure_of_Effective_Apologies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An Exploration of the Structure of Effective ApologiesEffective apologies often contain multiple components-such as expressions of regret...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/301251986_An_Exploration_of_the_Structure_of_Effective_Apologies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/301251986_An_Exploration_of_the_Structure_of_Effective_Apologies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An Exploration of the Structure of Effective ApologiesEffective apologies often contain multiple components-such as expressions of regret...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/effective" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/effective</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EFFECTIVE Definition &amp; Meaning1. a: producing a decided, decisive, or desired effect an effective policy b: impressive, striking a gold...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/effective" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/effective</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EFFECTIVE Definition &amp; Meaning1. a: producing a decided, decisive, or desired effect an effective policy b: impressive, striking a gold...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: dictionary.com  
-   Link: <a href="https://www.dictionary.com/browse/effective" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/effective</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EFFECTIVE Definition &amp; Meaningadjective adequate to accomplish a purpose; producing the intended or expected result: effective teaching m...</p></details>
+   Link:<a href="https://www.dictionary.com/browse/effective" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/effective</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EFFECTIVE Definition &amp; Meaningadjective adequate to accomplish a purpose; producing the intended or expected result: effective teaching m...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: britannica.com  
-   Link: <a href="https://www.britannica.com/dictionary/eb/qa/How-to-Use-Effective-and-Efficient" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/dictionary/eb/qa/How-to-Use-Effective-and-Efficient</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Use Effective and EfficientEffective means &quot;producing a result that is wanted&quot;. Efficient means &quot;capable of producing desired resu...</p></details>
+   Link:<a href="https://www.britannica.com/dictionary/eb/qa/How-to-Use-Effective-and-Efficient" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/dictionary/eb/qa/How-to-Use-Effective-and-Efficient</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Use Effective and EfficientEffective means &quot;producing a result that is wanted&quot;. Efficient means &quot;capable of producing desired resu...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/737313115/Apologizing-Effectively" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/737313115/Apologizing-Effectively</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Structure of Effective Apologies | PDF | PsychologyResearch identifies six key components that make an apology effective: an acknowledgme...</p></details>
+   Link:<a href="https://www.scribd.com/document/737313115/Apologizing-Effectively" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/737313115/Apologizing-Effectively</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Structure of Effective Apologies | PDF | PsychologyResearch identifies six key components that make an apology effective: an acknowledgme...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/332204013_Apologies_Repair_Trust_via_Perceived_Trustworthiness_and_Negative_Emotions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/332204013_Apologies_Repair_Trust_via_Perceived_Trustworthiness_and_Negative_Emotions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Apologies Repair Trust via Perceived...3 Apr 2019 — Results revealed that participants who received an apology were more likely to...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/332204013_Apologies_Repair_Trust_via_Perceived_Trustworthiness_and_Negative_Emotions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/332204013_Apologies_Repair_Trust_via_Perceived_Trustworthiness_and_Negative_Emotions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Apologies Repair Trust via Perceived...3 Apr 2019 — Results revealed that participants who received an apology were more likely to...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: mayoclinic.org  
-   Link: <a href="https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/forgiveness/art-20047692" target="_blank" rel="noopener noreferrer nofollow">https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/forgiveness/art-20047692</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>· Recognize the value of forgiveness and how it can improve your life. · Find what needs healing and who you want to forgive.Read more...</p></details>
+   Link:<a href="https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/forgiveness/art-20047692" target="_blank" rel="noopener noreferrer nofollow">https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/forgiveness/art-20047692</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>· Recognize the value of forgiveness and how it can improve your life. · Find what needs healing and who you want to forgive.Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: news.osu.edu  
    Title: the 6 elements of an effective apology according to science  
-   Link: <a href="https://news.osu.edu/the-6-elements-of-an-effective-apology-according-to-science/" target="_blank" rel="noopener noreferrer nofollow">https://news.osu.edu/the-6-elements-of-an-effective-apology-according-to-science/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Expression of regret · 2. Explanation of what went wrong · 3. Acknowledgment of responsibility · 4. Declaration of repentance · 5. Offer...</p></details>
+   Link:<a href="https://news.osu.edu/the-6-elements-of-an-effective-apology-according-to-science/" target="_blank" rel="noopener noreferrer nofollow">https://news.osu.edu/the-6-elements-of-an-effective-apology-according-to-science/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Expression of regret · 2. Explanation of what went wrong · 3. Acknowledgment of responsibility · 4. Declaration of repentance · 5. Offer...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: collinsdictionary.com  
-   Link: <a href="https://www.collinsdictionary.com/dictionary/english/effective" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/effective</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>productive of or capable of producing a result 2. in effect; operative effective from midnight 3. producing a striking impression; impres...</p></details>
+   Link:<a href="https://www.collinsdictionary.com/dictionary/english/effective" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/effective</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>productive of or capable of producing a result 2. in effect; operative effective from midnight 3. producing a striking impression; impres...</p></details>

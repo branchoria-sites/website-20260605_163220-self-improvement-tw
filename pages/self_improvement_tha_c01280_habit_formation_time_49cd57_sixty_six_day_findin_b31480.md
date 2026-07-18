@@ -274,18 +274,18 @@ image: /assets/images/self_improvement_tha_c01280_habit_formation_time_49cd57_si
 
 ## Introduction
 
-The famous “66-day habit rule” is one of the most widely repeated findings in self-improvement, but it is also one of the most misunderstood. The original research did not discover a universal deadline after which a behaviour suddenly becomes automatic. Instead, it showed that habit formation is a gradual process and that the time required varies enormously between people and behaviours. The real lesson is not that habits take 66 days. It is that expecting every habit to become effortless within a fixed timeframe is unrealistic. For anyone interested in [self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}), that distinction matters because it changes how progress should be judged: by increasing [automaticity]({{ 'automaticity/' | relative_url }}) over time, not by reaching a calendar milestone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryHow are habits formed: Modelling habit formation in the...by P Lally · 2010 · Cited by 3630 — This research was cond...</span></span></span>
+The famous “66-day habit rule” is one of the most widely repeated findings in self-improvement, but it is also one of the most misunderstood. The original research did not discover a universal deadline after which a behaviour suddenly becomes automatic. Instead, it showed that habit formation is a gradual process and that the time required varies enormously between people and behaviours. The real lesson is not that habits take 66 days. It is that expecting every habit to become effortless within a fixed timeframe is unrealistic. For anyone interested in [self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}), that distinction matters because it changes how progress should be judged: by increasing [automaticity]({{ 'automaticity/' | relative_url }}) over time, not by reaching a calendar milestone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryHow are habits formed: Modelling habit formation in the...by P Lally · 2010 · Cited by 3630 — This research was cond...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_habit_formation_time_49cd57_sixty_six_day_findin_b31480-Illustration-1-dark.svg" | relative_url }}" alt="66 Days illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_habit_formation_time_49cd57_sixty_six_day_findin_b31480-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_habit_formation_time_49cd57_sixty_six_day_findin_b31480-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How the Lally Study Measured Automaticity
 
-The 66-day figure comes from research led by health psychologist Phillippa Lally and colleagues at University College London. Participants selected a simple health-related behaviour and repeated it daily in a consistent context. Examples included drinking water with lunch, eating fruit after breakfast, or performing a short exercise routine. Researchers then tracked how automatic the behaviour felt over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryHow are habits formed: Modelling habit formation in the...by P Lally · 2010 · Cited by 3630 — This research was cond...</span></span></span>
+The 66-day figure comes from research led by health psychologist Phillippa Lally and colleagues at University College London. Participants selected a simple health-related behaviour and repeated it daily in a consistent context. Examples included drinking water with lunch, eating fruit after breakfast, or performing a short exercise routine. Researchers then tracked how automatic the behaviour felt over time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryHow are habits formed: Modelling habit formation in the...by P Lally · 2010 · Cited by 3630 — This research was cond...</span></span></span>
 
-This detail is important because the study was not measuring whether participants liked the behaviour, whether they never missed a day, or whether they had permanently changed their lives. It was measuring automaticity: the extent to which the behaviour began to feel natural, requiring less conscious effort and deliberation. Researchers used a habit measurement approach focused on automatic behaviour rather than simple repetition counts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thebehavioralscientist.com/articles/how-long-to-form-a-habit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thebehavioralscientist.com">[The Behavioral Scientist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thebehavioralscientist.com</span><span class="citation-popover-title">The Behavioral Scientist How Long Does It Take to Form a Habit?</span><span class="citation-popover-snippet">What Lally et al...by J Hreha — The researchers used the Self-Report Habit Index to measure automaticity, a participant&#x27;s subjective sen...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=DjPiyRZLgkY" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[University of Surrey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">It Takes 66 Days to Build a Habit — NOT 21 (Harvard Research Explained</span><span class="citation-popover-snippet">University of Surrey...</span></span></span>
+This detail is important because the study was not measuring whether participants liked the behaviour, whether they never missed a day, or whether they had permanently changed their lives. It was measuring automaticity: the extent to which the behaviour began to feel natural, requiring less conscious effort and deliberation. Researchers used a habit measurement approach focused on automatic behaviour rather than simple repetition counts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thebehavioralscientist.com/articles/how-long-to-form-a-habit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thebehavioralscientist.com">[The Behavioral Scientist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thebehavioralscientist.com</span><span class="citation-popover-title">The Behavioral Scientist How Long Does It Take to Form a Habit?</span><span class="citation-popover-snippet">What Lally et al...by J Hreha — The researchers used the Self-Report Habit Index to measure automaticity, a participant&#x27;s subjective sen...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=DjPiyRZLgkY" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[University of Surrey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">It Takes 66 Days to Build a Habit — NOT 21 (Harvard Research Explained</span><span class="citation-popover-snippet">University of Surrey...</span></span></span>
 
-The resulting pattern was not a straight line. Automaticity increased rapidly at first and then gradually levelled off. In other words, habit formation resembled a curve approaching a plateau rather than a switch being flipped on a particular day. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cir.nii.ac.jp/crid/1361418518778992640" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cir.nii.ac.jp">[CiNii Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cir.nii.ac.jp</span><span class="citation-popover-snippet">CiNii ResearchHow are habits formed: Modelling habit formation in the real...by P Lally · 2009 · Cited by 3684 — How are habits formed...</span></span></span>
+The resulting pattern was not a straight line. Automaticity increased rapidly at first and then gradually levelled off. In other words, habit formation resembled a curve approaching a plateau rather than a switch being flipped on a particular day.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cir.nii.ac.jp/crid/1361418518778992640" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cir.nii.ac.jp">[CiNii Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cir.nii.ac.jp</span><span class="citation-popover-snippet">CiNii ResearchHow are habits formed: Modelling habit formation in the real...by P Lally · 2009 · Cited by 3684 — How are habits formed...</span></span></span>
 
-One of the most cited statistics from the study was that the median time required to reach 95% of maximum automaticity was 66 days. Yet that number only describes the middle of a distribution. It does not describe everyone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.studocu.vn/vn/document/truong-dai-hoc-ngoai-ngu-dai-hoc-da-nang/ngon-ngu-anh/modelling-habit-formation-insights-from-eur-j-soc-psychol-40-2010/157504686" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studocu.vn">[Studocu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studocu.vn</span><span class="citation-popover-title">Modelling Habit Formation: Insights from Eur</span><span class="citation-popover-snippet">J. Soc....The median time to reach 95% of asymptote was 66 days, with a range from 18 to 254 days. There was substantial variation in cu...</span></span></span>
+One of the most cited statistics from the study was that the median time required to reach 95% of maximum automaticity was 66 days. Yet that number only describes the middle of a distribution. It does not describe everyone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.studocu.vn/vn/document/truong-dai-hoc-ngoai-ngu-dai-hoc-da-nang/ngon-ngu-anh/modelling-habit-formation-insights-from-eur-j-soc-psychol-40-2010/157504686" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studocu.vn">[Studocu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studocu.vn</span><span class="citation-popover-title">Modelling Habit Formation: Insights from Eur</span><span class="citation-popover-snippet">J. Soc....The median time to reach 95% of asymptote was 66 days, with a range from 18 to 254 days. There was substantial variation in cu...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/F7kVOdO_vaU" title="It Takes 66 Days To Form A Habit | BAPS wellNESS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=F7kVOdO_vaU" target="_blank" rel="noopener noreferrer">It Takes 66 Days To Form A Habit | BAPS wellNESS</a></p><p class="youtube-embed-meta">Channel: BAPS UK &amp; Europe &middot; Views: 325 &middot; Uploaded: February 2025 &middot; Length: 1 minute 41 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=F7kVOdO_vaU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=F7kVOdO_vaU">Open on YouTube</a></p></div></div></div>
 
@@ -293,7 +293,7 @@ One of the most cited statistics from the study was that the median time require
 
 The most important finding in the study was not 66 days. It was the enormous variation between participants.
 
-Some habits approached automaticity in as little as 18 days. Others were projected to require as long as 254 days. The researchers repeatedly highlighted this variability as a central result. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=DjPiyRZLgkY" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[University of Surrey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">It Takes 66 Days to Build a Habit — NOT 21 (Harvard Research Explained</span><span class="citation-popover-snippet">University of Surrey...</span></span></span> Studocu This range matters because it reveals several realities that fixed habit deadlines hide: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.studocu.vn/vn/document/truong-dai-hoc-ngoai-ngu-dai-hoc-da-nang/ngon-ngu-anh/modelling-habit-formation-insights-from-eur-j-soc-psychol-40-2010/157504686" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studocu.vn">[studocu.vn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studocu.vn</span><span class="citation-popover-title">Modelling Habit Formation: Insights from Eur</span><span class="citation-popover-snippet">J. Soc....The median time to reach 95% of asymptote was 66 days, with a range from 18 to 254 days. There was substantial variation in cu...</span></span></span>
+Some habits approached automaticity in as little as 18 days. Others were projected to require as long as 254 days. The researchers repeatedly highlighted this variability as a central result.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=DjPiyRZLgkY" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[University of Surrey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">It Takes 66 Days to Build a Habit — NOT 21 (Harvard Research Explained</span><span class="citation-popover-snippet">University of Surrey...</span></span></span> Studocu This range matters because it reveals several realities that fixed habit deadlines hide:<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.studocu.vn/vn/document/truong-dai-hoc-ngoai-ngu-dai-hoc-da-nang/ngon-ngu-anh/modelling-habit-formation-insights-from-eur-j-soc-psychol-40-2010/157504686" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studocu.vn">[studocu.vn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studocu.vn</span><span class="citation-popover-title">Modelling Habit Formation: Insights from Eur</span><span class="citation-popover-snippet">J. Soc....The median time to reach 95% of asymptote was 66 days, with a range from 18 to 254 days. There was substantial variation in cu...</span></span></span>
 
 * Different behaviours place different demands on attention, effort and [motivation]({{ 'motivation/' | relative_url }}).
 
@@ -301,24 +301,24 @@ Some habits approached automaticity in as little as 18 days. Others were project
 
 * Different people respond differently to the same behaviour.
 * More complex actions generally take longer to become automatic than simple ones.
-* Context stability influences how quickly automatic cues develop. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=DjPiyRZLgkY" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[University of Surrey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">It Takes 66 Days to Build a Habit — NOT 21 (Harvard Research Explained</span><span class="citation-popover-snippet">University of Surrey...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3552971/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTowards parsimony in habit measurement</span><span class="citation-popover-snippet">This measure characterises...</span></span></span>
+* Context stability influences how quickly automatic cues develop.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=DjPiyRZLgkY" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[University of Surrey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">It Takes 66 Days to Build a Habit — NOT 21 (Harvard Research Explained</span><span class="citation-popover-snippet">University of Surrey...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3552971/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTowards parsimony in habit measurement</span><span class="citation-popover-snippet">This measure characterises...</span></span></span>
 
 </div>
 
 A person trying to drink a glass of water at lunch is not facing the same challenge as someone trying to establish a daily exercise routine. Both may eventually become habitual, but their timelines are unlikely to match.
 
-This is why treating 66 days as a deadline can be counterproductive. If someone expects a new behaviour to feel effortless by day 66 and it does not, they may assume they have failed. The study suggests the opposite interpretation may be correct. They may simply be following a normal habit-formation trajectory for that particular behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=DjPiyRZLgkY" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[University of Surrey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">It Takes 66 Days to Build a Habit — NOT 21 (Harvard Research Explained</span><span class="citation-popover-snippet">University of Surrey...</span></span></span>
+This is why treating 66 days as a deadline can be counterproductive. If someone expects a new behaviour to feel effortless by day 66 and it does not, they may assume they have failed. The study suggests the opposite interpretation may be correct. They may simply be following a normal habit-formation trajectory for that particular behaviour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=DjPiyRZLgkY" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[University of Surrey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">It Takes 66 Days to Build a Habit — NOT 21 (Harvard Research Explained</span><span class="citation-popover-snippet">University of Surrey...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_habit_formation_time_49cd57_sixty_six_day_findin_b31480-Illustration-2-dark.svg" | relative_url }}" alt="66 Days illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_habit_formation_time_49cd57_sixty_six_day_findin_b31480-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_habit_formation_time_49cd57_sixty_six_day_findin_b31480-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What People Commonly Get Wrong About the Finding
 
 Several misconceptions have emerged as the research spread through popular self-improvement culture.
 
-The first mistake is turning an average or median into a rule. The study never claimed that every habit forms in 66 days. In fact, the researchers explicitly emphasised the wide range of outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=DjPiyRZLgkY" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[University of Surrey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">It Takes 66 Days to Build a Habit — NOT 21 (Harvard Research Explained</span><span class="citation-popover-snippet">University of Surrey...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=DjPiyRZLgkY" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">It Takes 66 Days to Build a Habit — NOT 21 (Harvard Research Explained</span><span class="citation-popover-snippet">University of Surrey...</span></span></span>
+The first mistake is turning an average or median into a rule. The study never claimed that every habit forms in 66 days. In fact, the researchers explicitly emphasised the wide range of outcomes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=DjPiyRZLgkY" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[University of Surrey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">It Takes 66 Days to Build a Habit — NOT 21 (Harvard Research Explained</span><span class="citation-popover-snippet">University of Surrey...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=DjPiyRZLgkY" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">It Takes 66 Days to Build a Habit — NOT 21 (Harvard Research Explained</span><span class="citation-popover-snippet">University of Surrey...</span></span></span>
 
-The second mistake is assuming habits suddenly “arrive”. The data showed gradual gains in automaticity rather than a dramatic transformation at a specific point. Habit strength increased progressively and then levelled off. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cir.nii.ac.jp/crid/1361418518778992640" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cir.nii.ac.jp">[CiNii Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cir.nii.ac.jp</span><span class="citation-popover-snippet">CiNii ResearchHow are habits formed: Modelling habit formation in the real...by P Lally · 2009 · Cited by 3684 — How are habits formed...</span></span></span>
+The second mistake is assuming habits suddenly “arrive”. The data showed gradual gains in automaticity rather than a dramatic transformation at a specific point. Habit strength increased progressively and then levelled off.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cir.nii.ac.jp/crid/1361418518778992640" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cir.nii.ac.jp">[CiNii Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cir.nii.ac.jp</span><span class="citation-popover-snippet">CiNii ResearchHow are habits formed: Modelling habit formation in the real...by P Lally · 2009 · Cited by 3684 — How are habits formed...</span></span></span>
 
-The third mistake is believing that one missed day destroys progress. The study found that missing a single opportunity to perform the behaviour did not significantly disrupt habit development. Consistency mattered, but perfection was not required. University College London <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryHow are habits formed: Modelling habit formation in the...by P Lally · 2010 · Cited by 3630 — This research was cond...</span></span></span>
+The third mistake is believing that one missed day destroys progress. The study found that missing a single opportunity to perform the behaviour did not significantly disrupt habit development. Consistency mattered, but perfection was not required. University College London<span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryHow are habits formed: Modelling habit formation in the...by P Lally · 2010 · Cited by 3630 — This research was cond...</span></span></span>
 
 These findings are often more useful than the headline number itself. They suggest that persistence after interruptions may matter more than maintaining an unbroken streak.
 
@@ -330,7 +330,7 @@ These findings are often more useful than the headline number itself. They sugge
 
 The practical value of the 66-day finding is as an expectation-setting tool rather than a target.
 
-Instead of viewing 66 days as a finish line, it is better understood as evidence that meaningful habit change often takes longer than people expect. The study challenges the idea that a few weeks of repetition are enough for most behaviours. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=DjPiyRZLgkY" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[University of Surrey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">It Takes 66 Days to Build a Habit — NOT 21 (Harvard Research Explained</span><span class="citation-popover-snippet">University of Surrey...</span></span></span>
+Instead of viewing 66 days as a finish line, it is better understood as evidence that meaningful habit change often takes longer than people expect. The study challenges the idea that a few weeks of repetition are enough for most behaviours.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=DjPiyRZLgkY" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[University of Surrey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">It Takes 66 Days to Build a Habit — NOT 21 (Harvard Research Explained</span><span class="citation-popover-snippet">University of Surrey...</span></span></span>
 
 A more productive way to use the finding is to adopt three assumptions:
 
@@ -338,187 +338,187 @@ A more productive way to use the finding is to adopt three assumptions:
 
 * Expect habit formation to be measured in months rather than weeks.
 * Focus on whether the behaviour is becoming easier, not whether it feels fully automatic yet.
-* Treat occasional misses as temporary disruptions rather than complete failures. University College London <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3552971/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTowards parsimony in habit measurement</span><span class="citation-popover-snippet">This measure characterises...</span></span></span>
+* Treat occasional misses as temporary disruptions rather than complete failures. University College London<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3552971/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCTowards parsimony in habit measurement</span><span class="citation-popover-snippet">This measure characterises...</span></span></span>
 
 </div>
 
-The research points towards a patience-based model of [behaviour change]({{ 'behaviour-change/' | relative_url }}). Automaticity grows through repetition in a stable context, but it does not obey a universal timetable. The number 66 is therefore best viewed as a reminder that habits often take longer than the popular 21-day myth suggests, while still varying widely from one person and behaviour to another. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryHow are habits formed: Modelling habit formation in the...by P Lally · 2010 · Cited by 3630 — This research was cond...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=DjPiyRZLgkY" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[University of Surrey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">It Takes 66 Days to Build a Habit — NOT 21 (Harvard Research Explained</span><span class="citation-popover-snippet">University of Surrey...</span></span></span>
+The research points towards a patience-based model of [behaviour change]({{ 'behaviour-change/' | relative_url }}). Automaticity grows through repetition in a stable context, but it does not obey a universal timetable. The number 66 is therefore best viewed as a reminder that habits often take longer than the popular 21-day myth suggests, while still varying widely from one person and behaviour to another.<span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryHow are habits formed: Modelling habit formation in the...by P Lally · 2010 · Cited by 3630 — This research was cond...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=DjPiyRZLgkY" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[University of Surrey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">It Takes 66 Days to Build a Habit — NOT 21 (Harvard Research Explained</span><span class="citation-popover-snippet">University of Surrey...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_habit_formation_time_49cd57_sixty_six_day_findin_b31480-Illustration-3-dark.svg" | relative_url }}" alt="66 Days illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_habit_formation_time_49cd57_sixty_six_day_findin_b31480-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_habit_formation_time_49cd57_sixty_six_day_findin_b31480-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What 66 Days Really Means for Habits. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What 66 Days Really Means for Habits. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Frequently referenced in discussions of habit timelines and automaticity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Frequently referenced in discussions of habit timelines and automaticity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
-        </h4>
-        <p class="fr-book-author">By B. J. Fogg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
+</h4>
+<p class="fr-book-author">By B. J. Fogg</p>
         
-        <p class="fr-book-desc">Shows how habits emerge gradually through repetition.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how habits emerge gradually through repetition.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Change+by+Katy+Milkman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Change on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AHInEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Change" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Change+by+Katy+Milkman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Change">How to Change</a>
-        </h4>
-        <p class="fr-book-author">By Katy Milkman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Change+by+Katy+Milkman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Change on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AHInEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Change" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Change+by+Katy+Milkman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Change">How to Change</a>
+</h4>
+<p class="fr-book-author">By Katy Milkman</p>
         
-        <p class="fr-book-desc">Addresses realistic expectations for behavior change.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Change+by+Katy+Milkman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses realistic expectations for behavior change.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Change+by+Katy+Milkman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
-        </h4>
-        <p class="fr-book-author">By Charles Duhigg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
+</h4>
+<p class="fr-book-author">By Charles Duhigg</p>
         
-        <p class="fr-book-desc">Provides context for understanding habit development.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for understanding habit development.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Change&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Change</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Change&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Change</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-    </div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=66-days-what-66-days-really-means-for-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quotes Success Mindset Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/32e39242372f242900ec.jpg' | relative_url }}" alt="Listing image for Motivational Quotes Success Mindset Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=66-days-what-66-days-really-means-for-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quotes Success Mindset Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=66-days-what-66-days-really-means-for-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.com</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=66-days-what-66-days-really-means-for-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=66-days-what-66-days-really-means-for-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quotes Success Mindset Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/32e39242372f242900ec.jpg' | relative_url }}" alt="Listing image for Motivational Quotes Success Mindset Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=66-days-what-66-days-really-means-for-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quotes Success Mindset Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=66-days-what-66-days-really-means-for-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search<span data-ebay-domain-label>eBay.com</span>: motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=66-days-what-66-days-really-means-for-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=66-days-what-66-days-really-means-for-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Michael Make It Happen Motivational Unframed Poster Basketball Home Deco"><img src="{{ '/assets/images/marketplace-covers/ef54b23105145bc0a6ab.jpg' | relative_url }}" alt="Listing image for Michael Make It Happen Motivational Unframed Poster Basketball Home Deco" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=66-days-what-66-days-really-means-for-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Michael Make It Happen Motivational Unframed Poster Basketball Home Deco</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=66-days-what-66-days-really-means-for-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.com</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=66-days-what-66-days-really-means-for-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=66-days-what-66-days-really-means-for-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Michael Make It Happen Motivational Unframed Poster Basketball Home Deco"><img src="{{ '/assets/images/marketplace-covers/ef54b23105145bc0a6ab.jpg' | relative_url }}" alt="Listing image for Michael Make It Happen Motivational Unframed Poster Basketball Home Deco" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=66-days-what-66-days-really-means-for-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Michael Make It Happen Motivational Unframed Poster Basketball Home Deco</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=66-days-what-66-days-really-means-for-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search<span data-ebay-domain-label>eBay.com</span>: motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=66-days-what-66-days-really-means-for-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=66-days-what-66-days-really-means-for-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Challenge motivational poster 36 x 24 inches free shipping"><img src="{{ '/assets/images/marketplace-covers/18bc1ddc6aab15d58da5.jpg' | relative_url }}" alt="Listing image for Challenge motivational poster 36 x 24 inches free shipping" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=66-days-what-66-days-really-means-for-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Challenge motivational poster 36 x 24 inches free shipping</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=66-days-what-66-days-really-means-for-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.com</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=66-days-what-66-days-really-means-for-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=66-days-what-66-days-really-means-for-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Challenge motivational poster 36 x 24 inches free shipping"><img src="{{ '/assets/images/marketplace-covers/18bc1ddc6aab15d58da5.jpg' | relative_url }}" alt="Listing image for Challenge motivational poster 36 x 24 inches free shipping" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=66-days-what-66-days-really-means-for-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Challenge motivational poster 36 x 24 inches free shipping</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=66-days-what-66-days-really-means-for-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search<span data-ebay-domain-label>eBay.com</span>: motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=66-days-what-66-days-really-means-for-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=66-days-what-66-days-really-means-for-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hang In There Cat Motivational Vintage Poster"><img src="{{ '/assets/images/marketplace-covers/4af89d6ea9027e5afd06.jpg' | relative_url }}" alt="Listing image for Hang In There Cat Motivational Vintage Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=66-days-what-66-days-really-means-for-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Hang In There Cat Motivational Vintage Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=66-days-what-66-days-really-means-for-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.com</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=66-days-what-66-days-really-means-for-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=66-days-what-66-days-really-means-for-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=66-days-what-66-days-really-means-for-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hang In There Cat Motivational Vintage Poster"><img src="{{ '/assets/images/marketplace-covers/4af89d6ea9027e5afd06.jpg' | relative_url }}" alt="Listing image for Hang In There Cat Motivational Vintage Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=66-days-what-66-days-really-means-for-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Hang In There Cat Motivational Vintage Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=66-days-what-66-days-really-means-for-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search<span data-ebay-domain-label>eBay.com</span>: motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=66-days-what-66-days-really-means-for-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=66-days-what-66-days-really-means-for-habits-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -534,7 +534,7 @@ The research points towards a patience-based model of [behaviour change]({{ 'beh
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -554,7 +554,7 @@ The research points towards a patience-based model of [behaviour change]({{ 'beh
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -586,7 +586,7 @@ The research points towards a patience-based model of [behaviour change]({{ 'beh
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -616,7 +616,7 @@ The research points towards a patience-based model of [behaviour change]({{ 'beh
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -674,138 +674,138 @@ The research points towards a patience-based model of [behaviour change]({{ 'beh
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: onlinelibrary.wiley.com  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryHow are habits formed: Modelling habit formation in the...by P Lally · 2010 · Cited by 3630 — This research was cond...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryHow are habits formed: Modelling habit formation in the...by P Lally · 2010 · Cited by 3630 — This research was cond...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCTowards parsimony in habit measurement  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3552971/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3552971/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This measure characterises...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3552971/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3552971/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This measure characterises...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: studocu.vn  
    Title: Modelling Habit Formation: Insights from Eur  
-   Link: <a href="https://www.studocu.vn/vn/document/truong-dai-hoc-ngoai-ngu-dai-hoc-da-nang/ngon-ngu-anh/modelling-habit-formation-insights-from-eur-j-soc-psychol-40-2010/157504686" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.vn/vn/document/truong-dai-hoc-ngoai-ngu-dai-hoc-da-nang/ngon-ngu-anh/modelling-habit-formation-insights-from-eur-j-soc-psychol-40-2010/157504686</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>J. Soc....The median time to reach 95% of asymptote was 66 days, with a range from 18 to 254 days. There was substantial variation in cu...</p></details>
+   Link:<a href="https://www.studocu.vn/vn/document/truong-dai-hoc-ngoai-ngu-dai-hoc-da-nang/ngon-ngu-anh/modelling-habit-formation-insights-from-eur-j-soc-psychol-40-2010/157504686" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.vn/vn/document/truong-dai-hoc-ngoai-ngu-dai-hoc-da-nang/ngon-ngu-anh/modelling-habit-formation-insights-from-eur-j-soc-psychol-40-2010/157504686</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>J. Soc....The median time to reach 95% of asymptote was 66 days, with a range from 18 to 254 days. There was substantial variation in cu...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: onlinelibrary.wiley.com  
    Title: asymptote was 66 days, with a range from 18 to 254 days.Read more  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674?538fcd4b_page=6&amp;d2101103_page=2&amp;ref_=b2b_cm_3p_cs_t_ww" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674?538fcd4b_page=6&amp;d2101103_page=2&amp;ref_=b2b_cm_3p_cs_t_ww</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryHow are habits formed: Modelling habit formation in the...16 Jul 2009 — In this study, we consider how a single miss...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674?538fcd4b_page=6&amp;d2101103_page=2&amp;ref_=b2b_cm_3p_cs_t_ww" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674?538fcd4b_page=6&amp;d2101103_page=2&amp;ref_=b2b_cm_3p_cs_t_ww</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryHow are habits formed: Modelling habit formation in the...16 Jul 2009 — In this study, we consider how a single miss...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 871 — More relevant research found t...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 871 — More relevant research found t...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: studocu.vn  
    Title: Modelling Habit Formation: Insights from Eur  
-   Link: <a href="https://www.studocu.vn/vn/document/hoc-vien-ngoai-giao-viet-nam/van-hoa-viet-nam-va-hoi-nhap-quoc-te/modelling-habit-formation-insights-from-eur-j-soc-psychol-40-2010/147722239" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.vn/vn/document/hoc-vien-ngoai-giao-viet-nam/van-hoa-viet-nam-va-hoi-nhap-quoc-te/modelling-habit-formation-insights-from-eur-j-soc-psychol-40-2010/147722239</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>J. Soc....The time it took participants to reach 95% of their asymptote of automaticity ranged from 18 to 254 days; indicating considera...</p></details>
+   Link:<a href="https://www.studocu.vn/vn/document/hoc-vien-ngoai-giao-viet-nam/van-hoa-viet-nam-va-hoi-nhap-quoc-te/modelling-habit-formation-insights-from-eur-j-soc-psychol-40-2010/147722239" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.vn/vn/document/hoc-vien-ngoai-giao-viet-nam/van-hoa-viet-nam-va-hoi-nhap-quoc-te/modelling-habit-formation-insights-from-eur-j-soc-psychol-40-2010/147722239</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>J. Soc....The time it took participants to reach 95% of their asymptote of automaticity ranged from 18 to 254 days; indicating considera...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: iaap-journals.onlinelibrary.wiley.com  
-   Link: <a href="https://iaap-journals.onlinelibrary.wiley.com/doi/abs/10.1111/aphw.12600" target="_blank" rel="noopener noreferrer nofollow">https://iaap-journals.onlinelibrary.wiley.com/doi/abs/10.1111/aphw.12600</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>wiley.comCan—and should—automaticity be self‐reported using a...by B Gardner · 2024 · Cited by 14 — The most used measure, the Self-Repo...</p></details>
+   Link:<a href="https://iaap-journals.onlinelibrary.wiley.com/doi/abs/10.1111/aphw.12600" target="_blank" rel="noopener noreferrer nofollow">https://iaap-journals.onlinelibrary.wiley.com/doi/abs/10.1111/aphw.12600</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wiley.comCan—and should—automaticity be self‐reported using a...by B Gardner · 2024 · Cited by 14 — The most used measure, the Self-Repo...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: It Takes 66 Days to Build a Habit — NOT 21 (Harvard Research Explained)  
-   Link: <a href="https://www.youtube.com/watch?v=DjPiyRZLgkY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DjPiyRZLgkY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Surrey...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DjPiyRZLgkY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DjPiyRZLgkY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of Surrey...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: surrey.ac.uk  
-   Link: <a href="https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally" target="_blank" rel="noopener noreferrer nofollow">https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>University of SurreyDoes it really take 66 days to form a habit?Jan 21, 2026 — The average time it took for the participants in my study...</p></details>
+   Link:<a href="https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally" target="_blank" rel="noopener noreferrer nofollow">https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of SurreyDoes it really take 66 days to form a habit?Jan 21, 2026 — The average time it took for the participants in my study...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: thebehavioralscientist.com  
    Title: The Behavioral Scientist How Long Does It Take to Form a Habit?  
-   Link: <a href="https://www.thebehavioralscientist.com/articles/how-long-to-form-a-habit" target="_blank" rel="noopener noreferrer nofollow">https://www.thebehavioralscientist.com/articles/how-long-to-form-a-habit</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Lally et al...by J Hreha — The researchers used the Self-Report Habit Index to measure automaticity, a participant&#x27;s subjective sen...</p></details>
+   Link:<a href="https://www.thebehavioralscientist.com/articles/how-long-to-form-a-habit" target="_blank" rel="noopener noreferrer nofollow">https://www.thebehavioralscientist.com/articles/how-long-to-form-a-habit</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Lally et al...by J Hreha — The researchers used the Self-Report Habit Index to measure automaticity, a participant&#x27;s subjective sen...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: surrey.ac.uk  
    Title: theory and methods  
-   Link: <a href="https://www.surrey.ac.uk/habitat-surrey-habit-application-and-theory-group/research/theory-and-methods" target="_blank" rel="noopener noreferrer nofollow">https://www.surrey.ac.uk/habitat-surrey-habit-application-and-theory-group/research/theory-and-methods</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of SurreyTheory and Methods(2012) Towards parsimony in habit measurement: Testing the convergent and predictive validity of an...</p></details>
+   Link:<a href="https://www.surrey.ac.uk/habitat-surrey-habit-application-and-theory-group/research/theory-and-methods" target="_blank" rel="noopener noreferrer nofollow">https://www.surrey.ac.uk/habitat-surrey-habit-application-and-theory-group/research/theory-and-methods</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of SurreyTheory and Methods(2012) Towards parsimony in habit measurement: Testing the convergent and predictive validity of an...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cir.nii.ac.jp  
-   Link: <a href="https://cir.nii.ac.jp/crid/1361418518778992640" target="_blank" rel="noopener noreferrer nofollow">https://cir.nii.ac.jp/crid/1361418518778992640</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CiNii ResearchHow are habits formed: Modelling habit formation in the real...by P Lally · 2009 · Cited by 3684 — How are habits formed...</p></details>
+   Link:<a href="https://cir.nii.ac.jp/crid/1361418518778992640" target="_blank" rel="noopener noreferrer nofollow">https://cir.nii.ac.jp/crid/1361418518778992640</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CiNii ResearchHow are habits formed: Modelling habit formation in the real...by P Lally · 2009 · Cited by 3684 — How are habits formed...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ucl.ac.uk  
    Title: how long does it take form habit  
-   Link: <a href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow">https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In our study we showed that missing one opportunity did not significantly impact the habit...Read more...</p></details>
+   Link:<a href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow">https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In our study we showed that missing one opportunity did not significantly impact the habit...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/how" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/how</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English [meaning](&amp;#123;&amp;#123; &#x27;meaning/&#x27; | relative_url &amp;#125;&amp;#125;) - Cambridge DictionaryHOW definition: 1. in what way, or by what methods: 2. used to ask about someone&#x27;s physical or em...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/how" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/how</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English [meaning](&amp;#123;&amp;#123; &#x27;meaning/&#x27; | relative_url &amp;#125;&amp;#125;) - Cambridge DictionaryHOW definition: 1. in what way, or by what methods: 2. used to ask about someone&#x27;s physical or em...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/How" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/How</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How - WikipediaHow (greeting), an anglicization of the Lakota word háu; How, an interrogative word in English grammar. Contents. 1 Art...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/How" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/How</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How - WikipediaHow (greeting), an anglicization of the Lakota word háu; How, an interrogative word in English grammar. Contents. 1 Art...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: dictionary.com  
-   Link: <a href="https://www.dictionary.com/browse/how" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/how</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HOW Definition &amp; Meaninga way or manner of doing something. to consider all the hows and wherefores. a word formerly used in communicatio...</p></details>
+   Link:<a href="https://www.dictionary.com/browse/how" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/how</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HOW Definition &amp; Meaninga way or manner of doing something. to consider all the hows and wherefores. a word formerly used in communicatio...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: langeek.co  
-   Link: <a href="https://langeek.co/en/grammar/course/636/how" target="_blank" rel="noopener noreferrer nofollow">https://langeek.co/en/grammar/course/636/how</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Use &quot;How&quot; in the English GrammarUse How as an interrogative adverb is used to ask questions about the way an action occurs. It als...</p></details>
+   Link:<a href="https://langeek.co/en/grammar/course/636/how" target="_blank" rel="noopener noreferrer nofollow">https://langeek.co/en/grammar/course/636/how</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Use &quot;How&quot; in the English GrammarUse How as an interrogative adverb is used to ask questions about the way an action occurs. It als...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/how" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/how</a>  
+   Link:<a href="https://www.merriam-webster.com/dictionary/how" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/how</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: philpapers.org  
-   Link: <a href="https://philpapers.org/rec/LALHAH" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/LALHAH</a>  
+   Link:<a href="https://philpapers.org/rec/LALHAH" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/LALHAH</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: blog.theteamw.com  
-   Link: <a href="https://www.blog.theteamw.com/2011/03/18/100-things-you-should-know-about-people-84-average-time-to-form-a-habit-is-66-days/" target="_blank" rel="noopener noreferrer nofollow">https://www.blog.theteamw.com/2011/03/18/100-things-you-should-know-about-people-84-average-time-to-form-a-habit-is-66-days/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Time To Form A Habit Is 66 Days – The Team W, Inc.Mar 18, 2011 — The average amount of time it took for people to form a habit was 66 day...</p></details>
+   Link:<a href="https://www.blog.theteamw.com/2011/03/18/100-things-you-should-know-about-people-84-average-time-to-form-a-habit-is-66-days/" target="_blank" rel="noopener noreferrer nofollow">https://www.blog.theteamw.com/2011/03/18/100-things-you-should-know-about-people-84-average-time-to-form-a-habit-is-66-days/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Time To Form A Habit Is 66 Days – The Team W, Inc.Mar 18, 2011 — The average amount of time it took for people to form a habit was 66 day...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: collinsdictionary.com  
-   Link: <a href="https://www.collinsdictionary.com/dictionary/english/how" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/how</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in what way or manner; by what means? How did the accident happen? · 2. to what extent, degree, etc.? How damaged...Read more...</p></details>
+   Link:<a href="https://www.collinsdictionary.com/dictionary/english/how" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/how</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in what way or manner; by what means? How did the accident happen? · 2. to what extent, degree, etc.? How damaged...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100075645770251/posts/a-2009-study-of-phillippa-lally-et-al-showed-that-the-average-days-in-forming-a-/204505905414267/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100075645770251/posts/a-2009-study-of-phillippa-lally-et-al-showed-that-the-average-days-in-forming-a-/204505905414267/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A 2009 study of Phillippa Lally et al., showed that the...According to a 2009 study, it can take anywhere from 18 to 254 days to develop...</p></details>
+   Link:<a href="https://www.facebook.com/100075645770251/posts/a-2009-study-of-phillippa-lally-et-al-showed-that-the-average-days-in-forming-a-/204505905414267/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100075645770251/posts/a-2009-study-of-phillippa-lally-et-al-showed-that-the-average-days-in-forming-a-/204505905414267/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A 2009 study of Phillippa Lally et al., showed that the...According to a 2009 study, it can take anywhere from 18 to 254 days to develop...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: mentalzon.com  
    Title: 66 days to build a new habit why it’s not a myth but real habit psychology  
-   Link: <a href="https://mentalzon.com/en/post/7770/66-days-to-build-a-new-habit-why-it%E2%80%99s-not-a-myth-but-real-habit-psychology" target="_blank" rel="noopener noreferrer nofollow">https://mentalzon.com/en/post/7770/66-days-to-build-a-new-habit-why-it%E2%80%99s-not-a-myth-but-real-habit-psychology</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>66 Days to Build a New Habit: Why It&#x27;s Not a Myth, But Real...Nov 1, 2025 — The result: on average, it took 66 days for the new behavior...</p></details>
+   Link:<a href="https://mentalzon.com/en/post/7770/66-days-to-build-a-new-habit-why-it%E2%80%99s-not-a-myth-but-real-habit-psychology" target="_blank" rel="noopener noreferrer nofollow">https://mentalzon.com/en/post/7770/66-days-to-build-a-new-habit-why-it%E2%80%99s-not-a-myth-but-real-habit-psychology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>66 Days to Build a New Habit: Why It&#x27;s Not a Myth, But Real...Nov 1, 2025 — The result: on average, it took 66 days for the new behavior...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: researchgate.net  
    Title: Modeling habit formation in the real world | Request PDFLally et al  
-   Link: <a href="https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(2010) demonstrated that new behavioural patterns require between 18 and 254 days to reach automaticity, with a median of approximately 6...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(2010) demonstrated that new behavioural patterns require between 18 and 254 days to reach automaticity, with a median of approximately 6...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: openresearch.surrey.ac.uk  
    Title: Open Research Surrey Modelling habit formation in the real world  
-   Link: <a href="https://openresearch.surrey.ac.uk/esploro/outputs/journalArticle/How-are-habits-formed-Modelling-habit/99783513802346" target="_blank" rel="noopener noreferrer nofollow">https://openresearch.surrey.ac.uk/esploro/outputs/journalArticle/How-are-habits-formed-Modelling-habit/99783513802346</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How are habits formed: Modelling habit formation in the real world; Publication Details. European journal of social psychology, Vol.40(6...</p></details>
+   Link:<a href="https://openresearch.surrey.ac.uk/esploro/outputs/journalArticle/How-are-habits-formed-Modelling-habit/99783513802346" target="_blank" rel="noopener noreferrer nofollow">https://openresearch.surrey.ac.uk/esploro/outputs/journalArticle/How-are-habits-formed-Modelling-habit/99783513802346</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How are habits formed: Modelling habit formation in the real world; Publication Details. European journal of social psychology, Vol.40(6...</p></details>

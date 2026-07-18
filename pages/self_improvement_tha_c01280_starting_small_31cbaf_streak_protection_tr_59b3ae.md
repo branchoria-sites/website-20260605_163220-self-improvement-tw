@@ -268,14 +268,14 @@ image: /assets/images/self_improvement_tha_c01280_starting_small_31cbaf_streak_p
 
 ## Introduction
 
-Streaks are one of the most popular tools in self-improvement because they make consistency visible. A growing number on a calendar, app or habit tracker can turn an abstract goal into something concrete. Research on self-monitoring suggests that tracking behaviour often improves follow-through, and streaks can provide a powerful short-term motivational boost. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jamesclear.com/habit-tracker" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamesclear.com">[James Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamesclear.com</span><span class="citation-popover-snippet">James ClearThe Ultimate Habit Tracker Guide: Why and How to Track...A habit tracker is a simple way to log your behavior, and the mere a...</span></span></span>
+Streaks are one of the most popular tools in self-improvement because they make consistency visible. A growing number on a calendar, app or habit tracker can turn an abstract goal into something concrete. Research on self-monitoring suggests that tracking behaviour often improves follow-through, and streaks can provide a powerful short-term motivational boost.<span class="citation-chip-wrap"><a class="citation-chip" href="https://jamesclear.com/habit-tracker" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamesclear.com">[James Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamesclear.com</span><span class="citation-popover-snippet">James ClearThe Ultimate Habit Tracker Guide: Why and How to Track...A habit tracker is a simple way to log your behavior, and the mere a...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf_streak_protection_tr_59b3ae-Illustration-1-dark.svg" | relative_url }}" alt="Streak Trap illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf_streak_protection_tr_59b3ae-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_starting_small_31cbaf_streak_protection_tr_59b3ae-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The problem begins when the streak becomes more important than the habit itself. Instead of asking, “What would help me improve now?”, people start asking, “What can I do without breaking the chain?” At that point, a tool designed to [support]({{ 'support/' | relative_url }}) growth can quietly shift attention towards preservation. The result is a common trap: someone who successfully started small becomes reluctant to take on a harder, more useful version of the behaviour because the existing streak feels too valuable to risk.
 
 ## When a Helpful Streak Becomes a Limitation
 
-Streaks work partly because they exploit a basic psychological tendency: people dislike losing something they already possess. Once a streak reaches 30, 100 or 500 days, breaking it feels like a loss rather than a neutral event. Researchers and behavioural writers frequently describe this as one reason streaks can be so motivating. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ehm-tech.com/habit/blog/habit-streaks-do-they-actually-work/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ehm-tech.com">[EHM Tech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ehm-tech.com</span><span class="citation-popover-title">habit streaks do they actually work</span><span class="citation-popover-snippet">EHM TechHabit Streaks: Why They Work and When They BackfireMar 10, 2026 — Habit streaks tap into loss aversion, dopamine loops, and ident...</span></span></span>
+Streaks work partly because they exploit a basic psychological tendency: people dislike losing something they already possess. Once a streak reaches 30, 100 or 500 days, breaking it feels like a loss rather than a neutral event. Researchers and behavioural writers frequently describe this as one reason streaks can be so motivating.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ehm-tech.com/habit/blog/habit-streaks-do-they-actually-work/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ehm-tech.com">[EHM Tech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ehm-tech.com</span><span class="citation-popover-title">habit streaks do they actually work</span><span class="citation-popover-snippet">EHM TechHabit Streaks: Why They Work and When They BackfireMar 10, 2026 — Habit streaks tap into loss aversion, dopamine loops, and ident...</span></span></span>
 
 That [motivation]({{ 'motivation/' | relative_url }}) is useful during the fragile early stages of habit formation. The danger appears later.
 
@@ -289,7 +289,7 @@ The person continues succeeding at the original habit while avoiding the more ch
 
 The core mechanism is subtle. Tracking starts by measuring behaviour. Over time, the metric itself can become the target.
 
-Behaviour-change technologies and habit-tracking systems often focus on engagement, checkmarks and visible progress indicators because these features encourage continued participation. Yet researchers examining motivation in behaviour-change technologies have warned that systems can end up strengthening attachment to the intervention itself rather than to the underlying behavioural goal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2402.00121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Designing for Sustained Motivation: A Review of Self-Determination Theory in Behaviour Change TechnologiesJanuary 31, 2024...</span><span class="citation-popover-meta">Published: January 31, 2024</span></span></span>
+Behaviour-change technologies and habit-tracking systems often focus on engagement, checkmarks and visible progress indicators because these features encourage continued participation. Yet researchers examining motivation in behaviour-change technologies have warned that systems can end up strengthening attachment to the intervention itself rather than to the underlying behavioural goal.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2402.00121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Designing for Sustained Motivation: A Review of Self-Determination Theory in Behaviour Change TechnologiesJanuary 31, 2024...</span><span class="citation-popover-meta">Published: January 31, 2024</span></span></span>
 
 Several shifts commonly occur:
 
@@ -338,7 +338,7 @@ Someone may start thinking:
 
 The [identity]({{ 'identity/' | relative_url }}) becomes attached to consistency itself rather than to the purpose behind the behaviour.
 
-This is one reason why breaking a streak can feel disproportionately painful. Some people report losing motivation entirely after a broken streak because the symbolic loss overshadows the actual behaviour. Community discussions among habit-tracking users frequently describe this all-or-nothing reaction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/selfimprovement/comments/1s0utik/has_anyone_else_struggled_with_habit_trackers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Has anyone else struggled with habit trackers because of...I&#x27;ve noticed that when the streak breaks, I often lose motivation and s...</span></span></span>
+This is one reason why breaking a streak can feel disproportionately painful. Some people report losing motivation entirely after a broken streak because the symbolic loss overshadows the actual behaviour. Community discussions among habit-tracking users frequently describe this all-or-nothing reaction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/selfimprovement/comments/1s0utik/has_anyone_else_struggled_with_habit_trackers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Has anyone else struggled with habit trackers because of...I&#x27;ve noticed that when the streak breaks, I often lose motivation and s...</span></span></span>
 
 ### Comfort disguised as discipline
 
@@ -379,7 +379,7 @@ If the answer is no, the streak may be preserving routine rather than supporting
 
 ## Better Ways to Track Resilient Progress
 
-The solution is not to abandon tracking altogether. Self-monitoring remains one of the most consistently useful behaviour-change techniques. Tracking often helps people maintain awareness, accountability and momentum. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jamesclear.com/habit-tracker" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamesclear.com">[James Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamesclear.com</span><span class="citation-popover-snippet">James ClearThe Ultimate Habit Tracker Guide: Why and How to Track...A habit tracker is a simple way to log your behavior, and the mere a...</span></span></span>
+The solution is not to abandon tracking altogether. Self-monitoring remains one of the most consistently useful behaviour-change techniques. Tracking often helps people maintain awareness, accountability and momentum.<span class="citation-chip-wrap"><a class="citation-chip" href="https://jamesclear.com/habit-tracker" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamesclear.com">[James Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamesclear.com</span><span class="citation-popover-snippet">James ClearThe Ultimate Habit Tracker Guide: Why and How to Track...A habit tracker is a simple way to log your behavior, and the mere a...</span></span></span>
 
 The challenge is to track in a way that rewards development rather than mere preservation.
 
@@ -428,7 +428,7 @@ That framing aligns the score with the purpose.
 
 ## The Goal Is Not a Perfect Record
 
-Research and practical habit-building experience both suggest that consistency is valuable because it helps behaviours become established. But the purpose of starting small is not to remain small forever. Tiny actions are training wheels, not the destination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gsb.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gsb.stanford.edu</span><span class="citation-popover-snippet">Stanford Graduate School of BusinessBuilding Habits: The Key to Lasting Behavior ChangeApr 18, 2023 — In this episode, BJ Fogg reveals th...</span></span></span> Graduate School of Business <span class="citation-chip-wrap"><a class="citation-chip" href="https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mariashriver.com">[Maria Shriver]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mariashriver.com</span><span class="citation-popover-snippet">When you go tiny, when you set the bar really low, you are much more likely to succeed. You...Read more...</span></span></span>
+Research and practical habit-building experience both suggest that consistency is valuable because it helps behaviours become established. But the purpose of starting small is not to remain small forever. Tiny actions are training wheels, not the destination.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gsb.stanford.edu">[stanford]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gsb.stanford.edu</span><span class="citation-popover-snippet">Stanford Graduate School of BusinessBuilding Habits: The Key to Lasting Behavior ChangeApr 18, 2023 — In this episode, BJ Fogg reveals th...</span></span></span> Graduate School of Business<span class="citation-chip-wrap"><a class="citation-chip" href="https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mariashriver.com">[Maria Shriver]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mariashriver.com</span><span class="citation-popover-snippet">When you go tiny, when you set the bar really low, you are much more likely to succeed. You...Read more...</span></span></span>
 
 A streak is useful when it lowers resistance and helps a behaviour become normal. It becomes problematic when preserving the record matters more than increasing capability.
 
@@ -437,269 +437,269 @@ The healthiest relationship with a streak is to treat it as evidence that a habi
 It is “What is the next challenge this habit now makes possible?”
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Streaks Stop You Getting Better. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Streaks Stop You Getting Better. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Discusses tracking without losing sight of improvement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Discusses tracking without losing sight of improvement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Carol S. Dweck</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
-        <p class="fr-book-desc">Encourages growth over scorekeeping.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
+</h4>
+<p class="fr-book-author">By Carol S. Dweck</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
+<p class="fr-book-desc">Encourages growth over scorekeeping.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practicing+Mind+by+Thomas+M.+Sterner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practicing Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GlM7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Practicing Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Practicing+Mind+by+Thomas+M.+Sterner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practicing Mind">The Practicing Mind</a>
-        </h4>
-        <p class="fr-book-author">By Thomas M. Sterner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practicing+Mind+by+Thomas+M.+Sterner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practicing Mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GlM7DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Practicing Mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Practicing+Mind+by+Thomas+M.+Sterner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practicing Mind">The Practicing Mind</a>
+</h4>
+<p class="fr-book-author">By Thomas M. Sterner</p>
         
-        <p class="fr-book-desc">Helps shift focus from streak preservation to mastery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Practicing+Mind+by+Thomas+M.+Sterner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps shift focus from streak preservation to mastery.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Practicing+Mind+by+Thomas+M.+Sterner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Grit+by+Angela+Duckworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Grit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SQYeDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Grit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Grit+by+Angela+Duckworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Grit">Grit</a>
-        </h4>
-        <p class="fr-book-author">By Angela Duckworth</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Grit+by+Angela+Duckworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Grit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SQYeDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Grit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Grit+by+Angela+Duckworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Grit">Grit</a>
+</h4>
+<p class="fr-book-author">By Angela Duckworth</p>
         
-        <p class="fr-book-desc">Supports persistence beyond superficial metrics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Grit+by+Angela+Duckworth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports persistence beyond superficial metrics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Grit+by+Angela+Duckworth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practicing+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practicing Mind</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practicing+Mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practicing Mind</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-productivity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PRODUCTIVITY UNKNOWN WFH METAL POSTER WALL TIN SIGN MAN CAVE SHED HOME PLAQUE"><img src="{{ '/assets/images/marketplace-covers/90dbcdff3995fdcbcbac.jpg' | relative_url }}" alt="Listing image for PRODUCTIVITY UNKNOWN WFH METAL POSTER WALL TIN SIGN MAN CAVE SHED HOME PLAQUE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-productivity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">PRODUCTIVITY UNKNOWN WFH METAL POSTER WALL TIN SIGN MAN CAVE SHED HOME PLAQUE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-productivity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for productivity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: productivity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-productivity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-productivity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PRODUCTIVITY UNKNOWN WFH METAL POSTER WALL TIN SIGN MAN CAVE SHED HOME PLAQUE"><img src="{{ '/assets/images/marketplace-covers/90dbcdff3995fdcbcbac.jpg' | relative_url }}" alt="Listing image for PRODUCTIVITY UNKNOWN WFH METAL POSTER WALL TIN SIGN MAN CAVE SHED HOME PLAQUE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-productivity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">PRODUCTIVITY UNKNOWN WFH METAL POSTER WALL TIN SIGN MAN CAVE SHED HOME PLAQUE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-productivity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for productivity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: productivity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-productivity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-productivity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Productivity Chart- Funny - Dog lov Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/cb8b8354c2577f028ac2.jpg' | relative_url }}" alt="Listing image for Productivity Chart- Funny - Dog lov Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-productivity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Productivity Chart- Funny - Dog lov Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-productivity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for productivity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: productivity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-productivity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-productivity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Productivity Chart- Funny - Dog lov Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/cb8b8354c2577f028ac2.jpg' | relative_url }}" alt="Listing image for Productivity Chart- Funny - Dog lov Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-productivity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Productivity Chart- Funny - Dog lov Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-productivity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for productivity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: productivity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-productivity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-productivity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Productivity Does Not Define Your W Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b7023aac6261dca3cfe3.jpg' | relative_url }}" alt="Listing image for Productivity Does Not Define Your W Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-productivity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Productivity Does Not Define Your W Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-productivity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for productivity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: productivity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-productivity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-productivity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Productivity Does Not Define Your W Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b7023aac6261dca3cfe3.jpg' | relative_url }}" alt="Listing image for Productivity Does Not Define Your W Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-productivity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Productivity Does Not Define Your W Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-productivity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for productivity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: productivity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-productivity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-productivity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Focus On The Present Poster|Motivational Wall Art| Minimalist Productivity Decor"><img src="{{ '/assets/images/marketplace-covers/6ce938b5948ce5314dd0.jpg' | relative_url }}" alt="Listing image for Focus On The Present Poster|Motivational Wall Art| Minimalist Productivity Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-productivity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Focus On The Present Poster|Motivational Wall Art| Minimalist Productivity Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-productivity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for productivity poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: productivity poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-productivity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-productivity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-productivity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Focus On The Present Poster|Motivational Wall Art| Minimalist Productivity Decor"><img src="{{ '/assets/images/marketplace-covers/6ce938b5948ce5314dd0.jpg' | relative_url }}" alt="Listing image for Focus On The Present Poster|Motivational Wall Art| Minimalist Productivity Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-productivity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Focus On The Present Poster|Motivational Wall Art| Minimalist Productivity Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-productivity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for productivity poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: productivity poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-productivity-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streak-trap-when-streaks-stop-you-getting-better-self-improvement-that-works-productivity-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -715,7 +715,7 @@ It is “What is the next challenge this habit now makes possible?”
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -735,7 +735,7 @@ It is “What is the next challenge this habit now makes possible?”
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -767,7 +767,7 @@ It is “What is the next challenge this habit now makes possible?”
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -797,7 +797,7 @@ It is “What is the next challenge this habit now makes possible?”
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -855,104 +855,104 @@ It is “What is the next challenge this habit now makes possible?”
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ehm-tech.com  
    Title: habit streaks do they actually work  
-   Link: <a href="https://www.ehm-tech.com/habit/blog/habit-streaks-do-they-actually-work/" target="_blank" rel="noopener noreferrer nofollow">https://www.ehm-tech.com/habit/blog/habit-streaks-do-they-actually-work/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EHM TechHabit Streaks: Why They Work and When They BackfireMar 10, 2026 — Habit streaks tap into loss aversion, dopamine loops, and ident...</p></details>
+   Link:<a href="https://www.ehm-tech.com/habit/blog/habit-streaks-do-they-actually-work/" target="_blank" rel="noopener noreferrer nofollow">https://www.ehm-tech.com/habit/blog/habit-streaks-do-they-actually-work/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EHM TechHabit Streaks: Why They Work and When They BackfireMar 10, 2026 — Habit streaks tap into loss aversion, dopamine loops, and ident...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2402.00121" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2402.00121</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Designing for Sustained Motivation: A Review of Self-Determination Theory in [Behaviour Change](&amp;#123;&amp;#123; &#x27;behaviour-change/&#x27; | relative_url &amp;#125;&amp;#125;) TechnologiesJanuary 31, 2024...</p></details>
+   Link:<a href="https://arxiv.org/abs/2402.00121" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2402.00121</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Designing for Sustained Motivation: A Review of Self-Determination Theory in [Behaviour Change](&amp;#123;&amp;#123; &#x27;behaviour-change/&#x27; | relative_url &amp;#125;&amp;#125;) TechnologiesJanuary 31, 2024...</p></details>
    Published: January 31, 2024  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/selfimprovement/comments/1s0utik/has_anyone_else_struggled_with_habit_trackers/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/selfimprovement/comments/1s0utik/has_anyone_else_struggled_with_habit_trackers/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Has anyone else struggled with habit trackers because of...I&#x27;ve noticed that when the streak breaks, I often lose motivation and s...</p></details>
+   Link:<a href="https://www.reddit.com/r/selfimprovement/comments/1s0utik/has_anyone_else_struggled_with_habit_trackers/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/selfimprovement/comments/1s0utik/has_anyone_else_struggled_with_habit_trackers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Has anyone else struggled with habit trackers because of...I&#x27;ve noticed that when the streak breaks, I often lose motivation and s...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: gsb.stanford.edu  
-   Link: <a href="https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change" target="_blank" rel="noopener noreferrer nofollow">https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Graduate School of BusinessBuilding Habits: The Key to Lasting Behavior ChangeApr 18, 2023 — In this episode, BJ Fogg reveals th...</p></details>
+   Link:<a href="https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change" target="_blank" rel="noopener noreferrer nofollow">https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Graduate School of BusinessBuilding Habits: The Key to Lasting Behavior ChangeApr 18, 2023 — In this episode, BJ Fogg reveals th...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: keelify.com  
    Title: case against gamified habits  
-   Link: <a href="https://keelify.com/blog/case-against-gamified-habits" target="_blank" rel="noopener noreferrer nofollow">https://keelify.com/blog/case-against-gamified-habits</a>  
+   Link:<a href="https://keelify.com/blog/case-against-gamified-habits" target="_blank" rel="noopener noreferrer nofollow">https://keelify.com/blog/case-against-gamified-habits</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: jamesclear.com  
-   Link: <a href="https://jamesclear.com/habit-tracker" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/habit-tracker</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>James ClearThe Ultimate Habit Tracker Guide: Why and How to Track...A habit tracker is a simple way to log your behavior, and the mere a...</p></details>
+   Link:<a href="https://jamesclear.com/habit-tracker" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/habit-tracker</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>James ClearThe Ultimate Habit Tracker Guide: Why and How to Track...A habit tracker is a simple way to log your behavior, and the mere a...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: mariashriver.com  
-   Link: <a href="https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/" target="_blank" rel="noopener noreferrer nofollow">https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When you go tiny, when you set the bar really low, you are much more likely to succeed. You...Read more...</p></details>
+   Link:<a href="https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/" target="_blank" rel="noopener noreferrer nofollow">https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When you go tiny, when you set the bar really low, you are much more likely to succeed. You...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: play.google.com  
-   Link: <a href="https://play.google.com/store/apps/details?hl=en_SG&amp;id=com.adrienblc.habitstracker" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_SG&amp;id=com.adrienblc.habitstracker</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tracker - Habit Streak – Apps on Google Play11 Feb 2026 — Habit Streak is the most powerful habit tracker and daily planner app designed...</p></details>
+   Link:<a href="https://play.google.com/store/apps/details?hl=en_SG&amp;id=com.adrienblc.habitstracker" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_SG&amp;id=com.adrienblc.habitstracker</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tracker - Habit Streak – Apps on Google Play11 Feb 2026 — Habit Streak is the most powerful habit tracker and daily planner app designed...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: iheart.com  
    Title: stanford behaviour change expert bj fogg 57869504  
-   Link: <a href="https://www.iheart.com/podcast/239-how-i-work-31072293/episode/stanford-behaviour-change-expert-bj-fogg-57869504/" target="_blank" rel="noopener noreferrer nofollow">https://www.iheart.com/podcast/239-how-i-work-31072293/episode/stanford-behaviour-change-expert-bj-fogg-57869504/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford behaviour change expert, BJ Fogg, on how he...Stanford behaviour change expert, BJ Fogg, on how he decides which habits to form...</p></details>
+   Link:<a href="https://www.iheart.com/podcast/239-how-i-work-31072293/episode/stanford-behaviour-change-expert-bj-fogg-57869504/" target="_blank" rel="noopener noreferrer nofollow">https://www.iheart.com/podcast/239-how-i-work-31072293/episode/stanford-behaviour-change-expert-bj-fogg-57869504/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford behaviour change expert, BJ Fogg, on how he...Stanford behaviour change expert, BJ Fogg, on how he decides which habits to form...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: bjsrestaurants.com  
-   Link: <a href="https://www.bjsrestaurants.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.bjsrestaurants.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BJ&#x27;s Restaurants and BrewhouseDiscover our brewhouse menu featuring deep dish pizza, handcrafted burgers, seasonal specials, popular favo...</p></details>
+   Link:<a href="https://www.bjsrestaurants.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.bjsrestaurants.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BJ&#x27;s Restaurants and BrewhouseDiscover our brewhouse menu featuring deep dish pizza, handcrafted burgers, seasonal specials, popular favo...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/design-bootcamp/streaks-and-daily-rewards-as-habit-forming-systems-dab7f5a34539" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/design-bootcamp/streaks-and-daily-rewards-as-habit-forming-systems-dab7f5a34539</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Streaks and Daily Rewards as Habit-Forming SystemsThis text explores streaks and daily rewards not as features, but as habit-forming syst...</p></details>
+   Link:<a href="https://medium.com/design-bootcamp/streaks-and-daily-rewards-as-habit-forming-systems-dab7f5a34539" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/design-bootcamp/streaks-and-daily-rewards-as-habit-forming-systems-dab7f5a34539</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Streaks and Daily Rewards as Habit-Forming SystemsThis text explores streaks and daily rewards not as features, but as habit-forming syst...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/nudge-notes/the-science-behind-habit-forming-products-b0be52dec61e" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/nudge-notes/the-science-behind-habit-forming-products-b0be52dec61e</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science Behind Habit-Forming ProductsAccording to BJ Fogg&#x27;s Behavior Model, three elements must converge simultaneously for a behavio...</p></details>
+   Link:<a href="https://medium.com/nudge-notes/the-science-behind-habit-forming-products-b0be52dec61e" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/nudge-notes/the-science-behind-habit-forming-products-b0be52dec61e</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Science Behind Habit-Forming ProductsAccording to BJ Fogg&#x27;s Behavior Model, three elements must converge simultaneously for a behavio...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: tinyhabits.com  
-   Link: <a href="https://tinyhabits.com/" target="_blank" rel="noopener noreferrer nofollow">https://tinyhabits.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: BJ FoggBJ Fogg, PhD, created the Tiny Habits method. He directs the Behavior Design Lab at Stanford University. Dr. Fogg&#x27;s m...</p></details>
+   Link:<a href="https://tinyhabits.com/" target="_blank" rel="noopener noreferrer nofollow">https://tinyhabits.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: BJ FoggBJ Fogg, PhD, created the Tiny Habits method. He directs the Behavior Design Lab at Stanford University. Dr. Fogg&#x27;s m...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40webbercookn/why-some-people-achieve-their-goals-while-others-quit-dd9d0297033a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40webbercookn/why-some-people-achieve-their-goals-while-others-quit-dd9d0297033a</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Some People Achieve Their Goals While Others QuitThe people who reach long‑term goals typically turn important actions into habits so...</p></details>
+   Link:<a href="https://medium.com/%40webbercookn/why-some-people-achieve-their-goals-while-others-quit-dd9d0297033a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40webbercookn/why-some-people-achieve-their-goals-while-others-quit-dd9d0297033a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Some People Achieve Their Goals While Others QuitThe people who reach long‑term goals typically turn important actions into habits so...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: gc-bs.org  
-   Link: <a href="https://gc-bs.org/articles/the-architecture-of-influence-a-comprehensive-analysis-of-gamification-in-behavioral-change-strategies/" target="_blank" rel="noopener noreferrer nofollow">https://gc-bs.org/articles/the-architecture-of-influence-a-comprehensive-analysis-of-gamification-in-behavioral-change-strategies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Architecture of Influence: A Comprehensive Analysis...10 Nov 2025 — Self-Determination Theory, a macro-theory of human motivation de...</p></details>
+   Link:<a href="https://gc-bs.org/articles/the-architecture-of-influence-a-comprehensive-analysis-of-gamification-in-behavioral-change-strategies/" target="_blank" rel="noopener noreferrer nofollow">https://gc-bs.org/articles/the-architecture-of-influence-a-comprehensive-analysis-of-gamification-in-behavioral-change-strategies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Architecture of Influence: A Comprehensive Analysis...10 Nov 2025 — Self-Determination Theory, a macro-theory of human motivation de...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: discovery.ucl.ac.uk  
-   Link: <a href="https://discovery.ucl.ac.uk/1477627/1/Chi%202016%20LBW%202.1%20camera%20ready.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/1477627/1/Chi%202016%20LBW%202.1%20camera%20ready.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Role of Dependency in Habit Formation AppsStreaks motivated participants by providing a challenge to maintain a streak, a form of &#x27;gamifi...</p></details>
+   Link:<a href="https://discovery.ucl.ac.uk/1477627/1/Chi%202016%20LBW%202.1%20camera%20ready.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/1477627/1/Chi%202016%20LBW%202.1%20camera%20ready.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Role of Dependency in Habit Formation AppsStreaks motivated participants by providing a challenge to maintain a streak, a form of &#x27;gamifi...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: oneyoufeed.net  
-   Link: <a href="https://www.oneyoufeed.net/why-[willpower" target="_blank" rel="noopener noreferrer nofollow">https://www.oneyoufeed.net/why-[willpower</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Willpower Isn&#x27;t Enough: The Tiny Habits Method...23 Dec 2025 — Eric and Dr. BJ Fogg discuss why willpower isn&#x27;t enough as they explo...</p></details>
+   Link:<a href="https://www.oneyoufeed.net/why-[willpower" target="_blank" rel="noopener noreferrer nofollow">https://www.oneyoufeed.net/why-[willpower</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Willpower Isn&#x27;t Enough: The Tiny Habits Method...23 Dec 2025 — Eric and Dr. BJ Fogg discuss why willpower isn&#x27;t enough as they explo...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: happily.ai  
-   Link: <a href="https://happily.ai/blog/using-gamification-to-change-workplace-outcomes-how-play-transforms-anxiety-into-progress/" target="_blank" rel="noopener noreferrer nofollow">https://happily.ai/blog/using-gamification-to-change-workplace-outcomes-how-play-transforms-anxiety-into-progress/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why &#x27;Play&#x27; is the Cure for Workplace Anxiety (According to...14 Nov 2025 — This approach satisfies all three psychological needs from Se...</p></details>
+   Link:<a href="https://happily.ai/blog/using-gamification-to-change-workplace-outcomes-how-play-transforms-anxiety-into-progress/" target="_blank" rel="noopener noreferrer nofollow">https://happily.ai/blog/using-gamification-to-change-workplace-outcomes-how-play-transforms-anxiety-into-progress/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why &#x27;Play&#x27; is the Cure for Workplace Anxiety (According to...14 Nov 2025 — This approach satisfies all three psychological needs from Se...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: yukaichou.com  
    Title: self determination theory guide to ryan and decis motivation framework  
-   Link: <a href="https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/" target="_blank" rel="noopener noreferrer nofollow">https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory: All 6 Mini-Theories6 May 2026 — Self-Determination Theory is the most empirically validated motivation framewo...</p></details>
+   Link:<a href="https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/" target="_blank" rel="noopener noreferrer nofollow">https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory: All 6 Mini-Theories6 May 2026 — Self-Determination Theory is the most empirically validated motivation framewo...</p></details>
    Published: May 2026

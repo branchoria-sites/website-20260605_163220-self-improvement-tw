@@ -277,7 +277,7 @@ image: /assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_morn
 Coffee can be a useful productivity cue, but only if it leads into the work that matters. One of the most common failure modes is inbox drift: you sit down with a coffee intending to start a meaningful task, open email “for a minute”, and find that the first hour has been reorganised around other people’s requests.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_morning_email_drift_43fde9-Illustration-1-dark.svg" | relative_url }}" alt="Email Drift illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_morning_email_drift_43fde9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_morning_email_drift_43fde9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The problem is not that email is unimportant. The problem is sequencing. Email is a reactive [environment]({{ 'environment/' | relative_url }}). It presents decisions, requests, updates and problems chosen by other people. When it becomes the first cue after coffee, it can replace your own priorities before you have made progress on them. Research on interruptions, attention switching and email habits consistently suggests that frequent task switching increases stress and fragments attention, while more deliberate handling of email can reduce interruptions and emotional exhaustion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ics.uci.edu/~gmark/chi08-mark.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ics.uci.edu">[UCI Bren School of ICS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ics.uci.edu</span><span class="citation-popover-snippet">UCI Bren School of ICSThe Cost of Interrupted Work: More Speed and Stressby G Mark · Cited by 1279 — We performed an empirical study to i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dl.acm.org/doi/10.1145/1357054.1357072" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dl.acm.org">[ACM Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dl.acm.org</span><span class="citation-popover-snippet">ACM Digital LibraryThe cost of interrupted work: more speed and stressby G Mark · 2008 · Cited by 1277 — Our data suggests that people co...</span></span></span>
+The problem is not that email is unimportant. The problem is sequencing. Email is a reactive [environment]({{ 'environment/' | relative_url }}). It presents decisions, requests, updates and problems chosen by other people. When it becomes the first cue after coffee, it can replace your own priorities before you have made progress on them. Research on interruptions, attention switching and email habits consistently suggests that frequent task switching increases stress and fragments attention, while more deliberate handling of email can reduce interruptions and emotional exhaustion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ics.uci.edu/~gmark/chi08-mark.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ics.uci.edu">[UCI Bren School of ICS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ics.uci.edu</span><span class="citation-popover-snippet">UCI Bren School of ICSThe Cost of Interrupted Work: More Speed and Stressby G Mark · Cited by 1279 — We performed an empirical study to i...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://dl.acm.org/doi/10.1145/1357054.1357072" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dl.acm.org">[ACM Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dl.acm.org</span><span class="citation-popover-snippet">ACM Digital LibraryThe cost of interrupted work: more speed and stressby G Mark · 2008 · Cited by 1277 — Our data suggests that people co...</span></span></span>
 
 ## How Coffee Turns Into Inbox Drift
 
@@ -285,7 +285,7 @@ The transition is usually subtle.
 
 A person makes coffee, sits at their desk and thinks they are preparing to work. Opening email feels responsible. It feels connected to work. Unlike social media, it even feels productive. Yet email often changes the question from “What is the most important thing I should do?” to “What does everyone else want from me right now?”
 
-This shift matters because mornings are often the period of highest mental freshness. Productivity researchers and management writers have long noted that starting the day in the inbox can consume the hours best suited to concentrated work. Email checking is frequently described as a reactive activity that redirects attention towards incoming demands rather than self-chosen priorities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lauravanderkam.com/2016/05/how-to-never-check-email-in-the-morning-while-still-checking-email-in-the-morning/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lauravanderkam.com">[Laura Vanderkam]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lauravanderkam.com</span><span class="citation-popover-title">Laura Vanderkam How to never check email in the morning (while still</span><span class="citation-popover-snippet">Laura VanderkamHow to never check email in the morning (while still...May 3, 2016 — The most dramatic, effective way to boost your produ...</span><span class="citation-popover-meta">Published: May 3, 2016</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/tip/2016/07/respond-to-complicated-emails-first-thing-in-the-morning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-title">respond to complicated emails first thing in the morning</span><span class="citation-popover-snippet">Harvard Business ReviewRespond to Complicated Emails First Thing in the MorningJul 12, 2016 — We&#x27;ve been warned repeatedly that it&#x27;s a ba...</span></span></span>
+This shift matters because mornings are often the period of highest mental freshness. Productivity researchers and management writers have long noted that starting the day in the inbox can consume the hours best suited to concentrated work. Email checking is frequently described as a reactive activity that redirects attention towards incoming demands rather than self-chosen priorities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://lauravanderkam.com/2016/05/how-to-never-check-email-in-the-morning-while-still-checking-email-in-the-morning/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lauravanderkam.com">[Laura Vanderkam]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lauravanderkam.com</span><span class="citation-popover-title">Laura Vanderkam How to never check email in the morning (while still</span><span class="citation-popover-snippet">Laura VanderkamHow to never check email in the morning (while still...May 3, 2016 — The most dramatic, effective way to boost your produ...</span><span class="citation-popover-meta">Published: May 3, 2016</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://hbr.org/tip/2016/07/respond-to-complicated-emails-first-thing-in-the-morning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbr.org">[Harvard Business Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbr.org</span><span class="citation-popover-title">respond to complicated emails first thing in the morning</span><span class="citation-popover-snippet">Harvard Business ReviewRespond to Complicated Emails First Thing in the MorningJul 12, 2016 — We&#x27;ve been warned repeatedly that it&#x27;s a ba...</span></span></span>
 
 The coffee itself is not the cause. The issue is that coffee creates a transition moment. Whatever behaviour immediately follows can become the default next step. If the habitual sequence is:
 
@@ -299,9 +299,9 @@ then coffee has become a cue for email rather than a cue for meaningful work.
 
 Email creates uncertainty. Each message carries a small question: reply, ignore, schedule, investigate, delegate or worry about later. Even when individual decisions are minor, they consume attention.
 
-Research by Gloria Mark and colleagues has repeatedly shown that interruptions and attention switching are associated with greater stress and fragmented focus. Workers often compensate by working faster, but at a psychological cost. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ics.uci.edu/~gmark/chi08-mark.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ics.uci.edu">[UCI Bren School of ICS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ics.uci.edu</span><span class="citation-popover-snippet">UCI Bren School of ICSThe Cost of Interrupted Work: More Speed and Stressby G Mark · Cited by 1279 — We performed an empirical study to i...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dl.acm.org/doi/10.1145/1357054.1357072" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dl.acm.org">[ACM Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dl.acm.org</span><span class="citation-popover-snippet">ACM Digital LibraryThe cost of interrupted work: more speed and stressby G Mark · 2008 · Cited by 1277 — Our data suggests that people co...</span></span></span>
+Research by Gloria Mark and colleagues has repeatedly shown that interruptions and attention switching are associated with greater stress and fragmented focus. Workers often compensate by working faster, but at a psychological cost.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ics.uci.edu/~gmark/chi08-mark.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ics.uci.edu">[UCI Bren School of ICS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ics.uci.edu</span><span class="citation-popover-snippet">UCI Bren School of ICSThe Cost of Interrupted Work: More Speed and Stressby G Mark · Cited by 1279 — We performed an empirical study to i...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://dl.acm.org/doi/10.1145/1357054.1357072" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dl.acm.org">[ACM Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dl.acm.org</span><span class="citation-popover-snippet">ACM Digital LibraryThe cost of interrupted work: more speed and stressby G Mark · 2008 · Cited by 1277 — Our data suggests that people co...</span></span></span>
 
-The inbox also encourages self-interruption. You may enter to check one message and leave having followed several threads, opened documents, scheduled meetings and answered low-value requests. Studies of email behaviour suggest that batching email can reduce interruptions and emotional exhaustion, particularly for people handling large email volumes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8897209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central For whom and under what circumstances does email</span><span class="citation-popover-snippet">by I Wijngaards · 2022 · Cited by 11 — Email batching was negatively related to email interruptions and emotional exhaustion but was u...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/Email20Duration20Camera20Ready20submission3-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: microsoft.com">[microsoft]</a><span class="citation-popover" role="note"><span class="citation-popover-source">microsoft.com</span><span class="citation-popover-title">Email20Duration20Camera20Ready20submission3 1</span><span class="citation-popover-snippet">Email Duration, Batching and Self-interruption: Patterns of...by G Mark · 2016 · Cited by 287 — With high email use, people who chose wh...</span></span></span> The deeper risk is strategic rather than tactical. When the first clear attention of the day is spent processing incoming requests, the day's agenda can become externally defined before any progress has been made on high-value work.
+The inbox also encourages self-interruption. You may enter to check one message and leave having followed several threads, opened documents, scheduled meetings and answered low-value requests. Studies of email behaviour suggest that batching email can reduce interruptions and emotional exhaustion, particularly for people handling large email volumes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8897209/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central For whom and under what circumstances does email</span><span class="citation-popover-snippet">by I Wijngaards · 2022 · Cited by 11 — Email batching was negatively related to email interruptions and emotional exhaustion but was u...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/Email20Duration20Camera20Ready20submission3-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: microsoft.com">[microsoft]</a><span class="citation-popover" role="note"><span class="citation-popover-source">microsoft.com</span><span class="citation-popover-title">Email20Duration20Camera20Ready20submission3 1</span><span class="citation-popover-snippet">Email Duration, Batching and Self-interruption: Patterns of...by G Mark · 2016 · Cited by 287 — With high email use, people who chose wh...</span></span></span> The deeper risk is strategic rather than tactical. When the first clear attention of the day is spent processing incoming requests, the day's agenda can become externally defined before any progress has been made on high-value work.
 
 That is why email drift often feels productive while producing surprisingly little of what people intended to accomplish.
 
@@ -332,7 +332,7 @@ The [coffee cue]({{ 'coffee-cue/' | relative_url }}) can be linked directly to t
 
 > After I sit down with my coffee, I will spend ten minutes on my priority task before checking email.
 
-Implementation-intention research consistently finds that specifying exactly when and where an action will occur improves follow-through compared with vague intentions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jamesclear.com/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamesclear.com">[James Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamesclear.com</span><span class="citation-popover-title">James Clear Achieve Your Goals: The Simple Trick That Doubles</span><span class="citation-popover-snippet">James ClearAchieve Your Goals: The Simple Trick That Doubles...May 16, 2013 — An implementation intention sweeps away foggy notions like...</span><span class="citation-popover-meta">Published: May 16, 2013</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://rightprose.co/implementation-intentions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rightprose.co">[Right Prose]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rightprose.co</span><span class="citation-popover-title">Right Prose Implementation Intentions</span><span class="citation-popover-snippet">Implementation Intentions - Right ProseAn implementation intention is a plan you make beforehand about when and where to act. It can help...</span></span></span>
+Implementation-intention research consistently finds that specifying exactly when and where an action will occur improves follow-through compared with vague intentions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://jamesclear.com/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamesclear.com">[James Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamesclear.com</span><span class="citation-popover-title">James Clear Achieve Your Goals: The Simple Trick That Doubles</span><span class="citation-popover-snippet">James ClearAchieve Your Goals: The Simple Trick That Doubles...May 16, 2013 — An implementation intention sweeps away foggy notions like...</span><span class="citation-popover-meta">Published: May 16, 2013</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://rightprose.co/implementation-intentions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rightprose.co">[Right Prose]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rightprose.co</span><span class="citation-popover-title">Right Prose Implementation Intentions</span><span class="citation-popover-snippet">Implementation Intentions - Right ProseAn implementation intention is a plan you make beforehand about when and where to act. It can help...</span></span></span>
 
 Notice the difference between these two plans:
 
@@ -393,7 +393,7 @@ For most knowledge workers, a simple sequence is enough:
 * Identify the day's most important task.
 * Start one concrete action on that task.
 * Continue for a predetermined period, such as ten to thirty minutes.
-* Check email afterwards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lauravanderkam.com/2016/05/how-to-never-check-email-in-the-morning-while-still-checking-email-in-the-morning/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lauravanderkam.com">[lauravanderkam.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lauravanderkam.com</span><span class="citation-popover-title">Laura Vanderkam How to never check email in the morning (while still</span><span class="citation-popover-snippet">Laura VanderkamHow to never check email in the morning (while still...May 3, 2016 — The most dramatic, effective way to boost your produ...</span><span class="citation-popover-meta">Published: May 3, 2016</span></span></span>
+* Check email afterwards.<span class="citation-chip-wrap"><a class="citation-chip" href="https://lauravanderkam.com/2016/05/how-to-never-check-email-in-the-morning-while-still-checking-email-in-the-morning/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lauravanderkam.com">[lauravanderkam.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lauravanderkam.com</span><span class="citation-popover-title">Laura Vanderkam How to never check email in the morning (while still</span><span class="citation-popover-snippet">Laura VanderkamHow to never check email in the morning (while still...May 3, 2016 — The most dramatic, effective way to boost your produ...</span><span class="citation-popover-meta">Published: May 3, 2016</span></span></span>
 
 The goal is not inbox avoidance. It is preventing the inbox from claiming the first and often clearest attention of the day.
 
@@ -402,253 +402,253 @@ When coffee becomes a cue for starting meaningful work rather than opening commu
 <img src="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_morning_email_drift_43fde9-Illustration-3-dark.svg" | relative_url }}" alt="Email Drift illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_morning_email_drift_43fde9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_morning_email_drift_43fde9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Coffee Turns Into Inbox Drift. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Coffee Turns Into Inbox Drift. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Habit stacking and cue-based routines fit the coffee-trigger concept perfectly.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Habit stacking and cue-based routines fit the coffee-trigger concept perfectly.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B_L8CAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
-        </h4>
-        <p class="fr-book-author">By Cal Newport</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B_L8CAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
+</h4>
+<p class="fr-book-author">By Cal Newport</p>
         
-        <p class="fr-book-desc">Directly addresses distraction and protecting focused work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses distraction and protecting focused work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+One+Thing+by+Gary+Keller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The One Thing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=94ScMQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The One Thing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+One+Thing+by+Gary+Keller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The One Thing">The One Thing</a>
-        </h4>
-        <p class="fr-book-author">By Gary Keller, Jay Papasan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+One+Thing+by+Gary+Keller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The One Thing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=94ScMQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The One Thing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+One+Thing+by+Gary+Keller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The One Thing">The One Thing</a>
+</h4>
+<p class="fr-book-author">By Gary Keller, Jay Papasan</p>
         
-        <p class="fr-book-desc">Encourages priority-first work before reactive tasks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+One+Thing+by+Gary+Keller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages priority-first work before reactive tasks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+One+Thing+by+Gary+Keller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Getting+Things+Done+by+David+Allen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Getting Things Done on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7PoYBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Getting Things Done" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Getting+Things+Done+by+David+Allen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Getting Things Done">Getting Things Done</a>
-        </h4>
-        <p class="fr-book-author">By David Allen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Getting+Things+Done+by+David+Allen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Getting Things Done on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=7PoYBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Getting Things Done" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Getting+Things+Done+by+David+Allen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Getting Things Done">Getting Things Done</a>
+</h4>
+<p class="fr-book-author">By David Allen</p>
         
-        <p class="fr-book-desc">Provides structure for handling incoming requests without losing priorities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Getting+Things+Done+by+David+Allen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides structure for handling incoming requests without losing priorities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Getting+Things+Done+by+David+Allen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Work&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Work</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+One+Thing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The One Thing</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Work&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Work</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+One+Thing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The One Thing</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wooden Desk Sign &#x27;Focus On The Good&#x27; | Office Gift | Engraved Plaque"><img src="{{ '/assets/images/marketplace-covers/b6947d589dfa70f3fb2b.jpg' | relative_url }}" alt="Listing image for Wooden Desk Sign &#x27;Focus On The Good&#x27; | Office Gift | Engraved Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Wooden Desk Sign &#x27;Focus On The Good&#x27; | Office Gift | Engraved Plaque</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for focus desk sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: focus desk sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wooden Desk Sign &#x27;Focus On The Good&#x27; | Office Gift | Engraved Plaque"><img src="{{ '/assets/images/marketplace-covers/b6947d589dfa70f3fb2b.jpg' | relative_url }}" alt="Listing image for Wooden Desk Sign &#x27;Focus On The Good&#x27; | Office Gift | Engraved Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Wooden Desk Sign &#x27;Focus On The Good&#x27; | Office Gift | Engraved Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for focus desk sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: focus desk sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4 Pcs Motivational Desk Decor Wooden Office Decor Inspirational Tiered Tray Deco"><img src="{{ '/assets/images/marketplace-covers/bf2aed45e186b4b68711.jpg' | relative_url }}" alt="Listing image for 4 Pcs Motivational Desk Decor Wooden Office Decor Inspirational Tiered Tray Deco" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">4 Pcs Motivational Desk Decor Wooden Office Decor Inspirational Tiered Tray Deco</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for focus desk sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: focus desk sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4 Pcs Motivational Desk Decor Wooden Office Decor Inspirational Tiered Tray Deco"><img src="{{ '/assets/images/marketplace-covers/bf2aed45e186b4b68711.jpg' | relative_url }}" alt="Listing image for 4 Pcs Motivational Desk Decor Wooden Office Decor Inspirational Tiered Tray Deco" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">4 Pcs Motivational Desk Decor Wooden Office Decor Inspirational Tiered Tray Deco</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for focus desk sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: focus desk sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Focus Novelty Desk Sign"><img src="{{ '/assets/images/marketplace-covers/df4f976c1d0d9efb667a.jpg' | relative_url }}" alt="Listing image for Focus Novelty Desk Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Focus Novelty Desk Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for focus desk sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: focus desk sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Focus Novelty Desk Sign"><img src="{{ '/assets/images/marketplace-covers/df4f976c1d0d9efb667a.jpg' | relative_url }}" alt="Listing image for Focus Novelty Desk Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Focus Novelty Desk Sign</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for focus desk sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: focus desk sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=focus+desk+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=email-drift-how-coffee-turns-into-inbox-drift-self-improvement-that-works-focus-desk-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -664,7 +664,7 @@ When coffee becomes a cue for starting meaningful work rather than opening commu
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -684,7 +684,7 @@ When coffee becomes a cue for starting meaningful work rather than opening commu
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -716,7 +716,7 @@ When coffee becomes a cue for starting meaningful work rather than opening commu
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -746,7 +746,7 @@ When coffee becomes a cue for starting meaningful work rather than opening commu
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -804,110 +804,110 @@ When coffee becomes a cue for starting meaningful work rather than opening commu
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ics.uci.edu  
-   Link: <a href="https://ics.uci.edu/~gmark/chi08-mark.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ics.uci.edu/~gmark/chi08-mark.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UCI Bren School of ICSThe Cost of Interrupted Work: More Speed and Stressby G Mark · Cited by 1279 — We performed an empirical study to i...</p></details>
+   Link:<a href="https://ics.uci.edu/~gmark/chi08-mark.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ics.uci.edu/~gmark/chi08-mark.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UCI Bren School of ICSThe Cost of Interrupted Work: More Speed and Stressby G Mark · Cited by 1279 — We performed an empirical study to i...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: dl.acm.org  
-   Link: <a href="https://dl.acm.org/doi/10.1145/1357054.1357072" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/1357054.1357072</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ACM Digital LibraryThe cost of interrupted work: more speed and stressby G Mark · 2008 · Cited by 1277 — Our data suggests that people co...</p></details>
+   Link:<a href="https://dl.acm.org/doi/10.1145/1357054.1357072" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/1357054.1357072</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ACM Digital LibraryThe cost of interrupted work: more speed and stressby G Mark · 2008 · Cited by 1277 — Our data suggests that people co...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: microsoft.com  
    Title: Email20Duration20Camera20Ready20submission3 1  
-   Link: <a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/Email20Duration20Camera20Ready20submission3-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/Email20Duration20Camera20Ready20submission3-1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Email Duration, Batching and Self-interruption: Patterns of...by G Mark · 2016 · Cited by 287 — With high email use, people who chose wh...</p></details>
+   Link:<a href="https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/Email20Duration20Camera20Ready20submission3-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/Email20Duration20Camera20Ready20submission3-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Email Duration, Batching and Self-interruption: Patterns of...by G Mark · 2016 · Cited by 287 — With high email use, people who chose wh...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central For whom and under what circumstances does email  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8897209/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8897209/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by I Wijngaards · 2022 · Cited by 11 — Email batching was negatively related to email interruptions and emotional exhaustion but was u...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8897209/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8897209/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by I Wijngaards · 2022 · Cited by 11 — Email batching was negatively related to email interruptions and emotional exhaustion but was u...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: lauravanderkam.com  
    Title: Laura Vanderkam How to never check email in the morning (while still  
-   Link: <a href="https://lauravanderkam.com/2016/05/how-to-never-check-email-in-the-morning-while-still-checking-email-in-the-morning/" target="_blank" rel="noopener noreferrer nofollow">https://lauravanderkam.com/2016/05/how-to-never-check-email-in-the-morning-while-still-checking-email-in-the-morning/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Laura VanderkamHow to never check email in the morning (while still...May 3, 2016 — The most dramatic, effective way to boost your produ...</p></details>
+   Link:<a href="https://lauravanderkam.com/2016/05/how-to-never-check-email-in-the-morning-while-still-checking-email-in-the-morning/" target="_blank" rel="noopener noreferrer nofollow">https://lauravanderkam.com/2016/05/how-to-never-check-email-in-the-morning-while-still-checking-email-in-the-morning/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Laura VanderkamHow to never check email in the morning (while still...May 3, 2016 — The most dramatic, effective way to boost your produ...</p></details>
    Published: May 3, 2016  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: hbr.org  
    Title: respond to complicated emails first thing in the morning  
-   Link: <a href="https://hbr.org/tip/2016/07/respond-to-complicated-emails-first-thing-in-the-morning" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/tip/2016/07/respond-to-complicated-emails-first-thing-in-the-morning</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Business ReviewRespond to Complicated Emails First Thing in the MorningJul 12, 2016 — We&#x27;ve been warned repeatedly that it&#x27;s a ba...</p></details>
+   Link:<a href="https://hbr.org/tip/2016/07/respond-to-complicated-emails-first-thing-in-the-morning" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/tip/2016/07/respond-to-complicated-emails-first-thing-in-the-morning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Business ReviewRespond to Complicated Emails First Thing in the MorningJul 12, 2016 — We&#x27;ve been warned repeatedly that it&#x27;s a ba...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: jamesclear.com  
    Title: James Clear Achieve Your Goals: The Simple Trick That Doubles  
-   Link: <a href="https://jamesclear.com/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/implementation-intentions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>James ClearAchieve Your Goals: The Simple Trick That Doubles...May 16, 2013 — An implementation intention sweeps away foggy notions like...</p></details>
+   Link:<a href="https://jamesclear.com/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/implementation-intentions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>James ClearAchieve Your Goals: The Simple Trick That Doubles...May 16, 2013 — An implementation intention sweeps away foggy notions like...</p></details>
    Published: May 16, 2013  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: rightprose.co  
    Title: Right Prose Implementation Intentions  
-   Link: <a href="https://rightprose.co/implementation-intentions/" target="_blank" rel="noopener noreferrer nofollow">https://rightprose.co/implementation-intentions/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Intentions - Right ProseAn implementation intention is a plan you make beforehand about when and where to act. It can help...</p></details>
+   Link:<a href="https://rightprose.co/implementation-intentions/" target="_blank" rel="noopener noreferrer nofollow">https://rightprose.co/implementation-intentions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Intentions - Right ProseAn implementation intention is a plan you make beforehand about when and where to act. It can help...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: marishamanahova.com  
    Title: implementation intentions  
-   Link: <a href="https://marishamanahova.com/tag/implementation-intentions/" target="_blank" rel="noopener noreferrer nofollow">https://marishamanahova.com/tag/implementation-intentions/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Good Life14 Dec 2018 — Implementation intentions are examples of simple, explicit planning: “If situation X arises, then I will do Y.”R...</p></details>
+   Link:<a href="https://marishamanahova.com/tag/implementation-intentions/" target="_blank" rel="noopener noreferrer nofollow">https://marishamanahova.com/tag/implementation-intentions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Good Life14 Dec 2018 — Implementation intentions are examples of simple, explicit planning: “If situation X arises, then I will do Y.”R...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: goalsandprogress.com  
-   Link: <a href="https://goalsandprogress.com/habit-stacking-productivity-creativity/" target="_blank" rel="noopener noreferrer nofollow">https://goalsandprogress.com/habit-stacking-productivity-creativity/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit Stacking for Productivity: Build Work RoutinesHabit stacking for productivity uses the Anchor-Stack-Seal method to build work routi...</p></details>
+   Link:<a href="https://goalsandprogress.com/habit-stacking-productivity-creativity/" target="_blank" rel="noopener noreferrer nofollow">https://goalsandprogress.com/habit-stacking-productivity-creativity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Habit Stacking for Productivity: Build Work RoutinesHabit stacking for productivity uses the Anchor-Stack-Seal method to build work routi...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40caephler/implementation-intentions-starting-a-new-habit-88dbae463b26" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40caephler/implementation-intentions-starting-a-new-habit-88dbae463b26</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Intentions: Starting a New HabitAn implementation intention that I used for the start of my morning routine goes like this...</p></details>
+   Link:<a href="https://medium.com/%40caephler/implementation-intentions-starting-a-new-habit-88dbae463b26" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40caephler/implementation-intentions-starting-a-new-habit-88dbae463b26</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Intentions: Starting a New HabitAn implementation intention that I used for the start of my morning routine goes like this...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/301935517_Email_Duration_Batching_and_Self-interruption_Patterns_of_Email_Use_on_Productivity_and_Stress" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/301935517_Email_Duration_Batching_and_Self-interruption_Patterns_of_Email_Use_on_Productivity_and_Stress</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Email Duration, Batching and Self-interruption: Patterns of...We investigate how three email use patterns: duration, interruption habit...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/301935517_Email_Duration_Batching_and_Self-interruption_Patterns_of_Email_Use_on_Productivity_and_Stress" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/301935517_Email_Duration_Batching_and_Self-interruption_Patterns_of_Email_Use_on_Productivity_and_Stress</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Email Duration, Batching and Self-interruption: Patterns of...We investigate how three email use patterns: duration, interruption habit...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/strengthen-action-taking-habits-success-gabriel-dibble--yrnqc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/strengthen-action-taking-habits-success-gabriel-dibble--yrnqc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strengthening Action-Taking Habits for Career SuccessIn a professional setting, a morning email-check ritual (cue) can trigger anxious co...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/strengthen-action-taking-habits-success-gabriel-dibble--yrnqc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/strengthen-action-taking-habits-success-gabriel-dibble--yrnqc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strengthening Action-Taking Habits for Career SuccessIn a professional setting, a morning email-check ritual (cue) can trigger anxious co...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchmasterminds.com  
    Title: the researchers superpower habit formation academic productivity  
-   Link: <a href="https://www.researchmasterminds.com/blog/the-researchers-superpower-habit-formation-academic-productivity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchmasterminds.com/blog/the-researchers-superpower-habit-formation-academic-productivity</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How habit formation impacts academic productivity4 Aug 2025 — Examples of effective habit stacks phrased as implementation intentions: &quot;A...</p></details>
+   Link:<a href="https://www.researchmasterminds.com/blog/the-researchers-superpower-habit-formation-academic-productivity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchmasterminds.com/blog/the-researchers-superpower-habit-formation-academic-productivity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How habit formation impacts academic productivity4 Aug 2025 — Examples of effective habit stacks phrased as implementation intentions: &quot;A...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/new-writers-welcome/how-to-resist-the-urge-to-check-emails-first-thing-in-the-morning-f1bdf49047bf" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/new-writers-welcome/how-to-resist-the-urge-to-check-emails-first-thing-in-the-morning-f1bdf49047bf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Quick morning fix. Start by setting a 5-minute timer to briefly look at emails in the morning, but only to flag important ones. · 2. Time...</p></details>
+   Link:<a href="https://medium.com/new-writers-welcome/how-to-resist-the-urge-to-check-emails-first-thing-in-the-morning-f1bdf49047bf" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/new-writers-welcome/how-to-resist-the-urge-to-check-emails-first-thing-in-the-morning-f1bdf49047bf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Quick morning fix. Start by setting a 5-minute timer to briefly look at emails in the morning, but only to flag important ones. · 2. Time...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/productivity/comments/1ne5sgm/does_anyone_else_spend_their_whole_morning_just/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/productivity/comments/1ne5sgm/does_anyone_else_spend_their_whole_morning_just/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>for anything marked as (!) high priority. I then use my most...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/productivity/comments/1ne5sgm/does_anyone_else_spend_their_whole_morning_just/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/productivity/comments/1ne5sgm/does_anyone_else_spend_their_whole_morning_just/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>for anything marked as (!) high priority. I then use my most...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: hughculver.com  
    Title: seriously need stop checking email morning  
-   Link: <a href="https://www.hughculver.com/blog/seriously-need-stop-checking-email-morning" target="_blank" rel="noopener noreferrer nofollow">https://www.hughculver.com/blog/seriously-need-stop-checking-email-morning</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Seriously, You Need to Stop Checking Email in the MorningJan 12, 2018 — The latest research found we are now burning up one-third of our...</p></details>
+   Link:<a href="https://www.hughculver.com/blog/seriously-need-stop-checking-email-morning" target="_blank" rel="noopener noreferrer nofollow">https://www.hughculver.com/blog/seriously-need-stop-checking-email-morning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Seriously, You Need to Stop Checking Email in the MorningJan 12, 2018 — The latest research found we are now burning up one-third of our...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/31704939/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31704939/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and productivity patterns of interrupted, synergistic...by S Zaman · 2019 · Cited by 20 — We describe a controlled experiment, aiming t...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/31704939/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31704939/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and productivity patterns of interrupted, synergistic...by S Zaman · 2019 · Cited by 20 — We describe a controlled experiment, aiming t...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/stevenbartlett-123_checking-your-emails-in-the-morning-is-a-activity-7236418916502188032-mWn_" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/stevenbartlett-123_checking-your-emails-in-the-morning-is-a-activity-7236418916502188032-mWn_</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ions at the mercy of whatever is at the other end.Read more...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/stevenbartlett-123_checking-your-emails-in-the-morning-is-a-activity-7236418916502188032-mWn_" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/stevenbartlett-123_checking-your-emails-in-the-morning-is-a-activity-7236418916502188032-mWn_</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ions at the mercy of whatever is at the other end.Read more...</p></details>

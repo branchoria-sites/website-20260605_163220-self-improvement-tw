@@ -268,14 +268,14 @@ image: /assets/images/self_improvement_tha_c01280_walking_after_lunch_d84c67_lun
 
 ## Introduction
 
-A lunch walk becomes reliable not when you feel motivated, but when lunch itself becomes the trigger. Research on habit formation consistently shows that behaviours are more likely to become automatic when they are repeated in the same context and linked to a stable cue. The practical lesson for a workday lunch walk is simple: remove as many decisions as possible before lunch starts. Decide where you will walk, what shoes you will wear, how long the route is, and what marks the moment of departure. Over time, the end of lunch stops being a point of choice and becomes a launch signal. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">When encountered, cues activate a single, specific well-learned behavioral response.Read more...</span></span></span>
+A lunch walk becomes reliable not when you feel motivated, but when lunch itself becomes the trigger. Research on habit formation consistently shows that behaviours are more likely to become automatic when they are repeated in the same context and linked to a stable cue. The practical lesson for a workday lunch walk is simple: remove as many decisions as possible before lunch starts. Decide where you will walk, what shoes you will wear, how long the route is, and what marks the moment of departure. Over time, the end of lunch stops being a point of choice and becomes a launch signal. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">When encountered, cues activate a single, specific well-learned behavioral response.Read more...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_walking_after_lunch_d84c67_lunch_walk_workday_c_71ac67-Illustration-1-dark.svg" | relative_url }}" alt="Workday Cue illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_walking_after_lunch_d84c67_lunch_walk_workday_c_71ac67-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_walking_after_lunch_d84c67_lunch_walk_workday_c_71ac67-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For people trying to make walking after lunch a lasting self-improvement habit, the challenge is rarely understanding the benefits. The challenge is surviving busy calendars, unexpected meetings, working from home, office distractions, and the temptation to return straight to a chair. A durable cue system is designed specifically for those disruptions.
 
 ## Turning lunch into a cue
 
-Habit researchers describe habits as cue-driven behaviours that become increasingly automatic through repetition in a consistent context. The cue matters because it reduces the need for conscious decision-making. Rather than asking, “Should I walk today?”, the person follows a pre-set rule triggered by a familiar event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.643753/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersSelf-Efficacy in Habit Building: How General and...by M Stojanovic · 2021 · Cited by 41 — A habit is an automized behavioral pa...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/20658824/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">automatic component of habit in health behaviorby S Orbell · 2010 · Cited by 707 — Objective: Habit might be usefully characterized as a...</span></span></span>
+Habit researchers describe habits as cue-driven behaviours that become increasingly automatic through repetition in a consistent context. The cue matters because it reduces the need for conscious decision-making. Rather than asking, “Should I walk today?”, the person follows a pre-set rule triggered by a familiar event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.643753/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersSelf-Efficacy in Habit Building: How General and...by M Stojanovic · 2021 · Cited by 41 — A habit is an automized behavioral pa...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/20658824/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">automatic component of habit in health behaviorby S Orbell · 2010 · Cited by 707 — Objective: Habit might be usefully characterized as a...</span></span></span>
 
 For a lunch walk, the strongest cues tend to be concrete and observable:
 
@@ -289,7 +289,7 @@ For a lunch walk, the strongest cues tend to be concrete and observable:
 
 </div>
 
-These cues work better than vague intentions such as “sometime after lunch” because they happen in a clearly identifiable moment. Habit-formation research repeatedly points to the value of context-dependent repetition: the same trigger, followed by the same action, in the same setting whenever possible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openresearch.surrey.ac.uk/esploro/outputs/journalArticle/How-are-habits-formed-Modelling-habit/99783513802346" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openresearch.surrey.ac.uk">[Open Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openresearch.surrey.ac.uk</span><span class="citation-popover-title">How are habits formed Modelling habit</span><span class="citation-popover-snippet">Creators. Phillippa Lally - University College London. Cornelia H. M VAN JAARSVELD...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 851 — Psychological theory and evide...</span></span></span>
+These cues work better than vague intentions such as “sometime after lunch” because they happen in a clearly identifiable moment. Habit-formation research repeatedly points to the value of context-dependent repetition: the same trigger, followed by the same action, in the same setting whenever possible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://openresearch.surrey.ac.uk/esploro/outputs/journalArticle/How-are-habits-formed-Modelling-habit/99783513802346" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openresearch.surrey.ac.uk">[Open Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openresearch.surrey.ac.uk</span><span class="citation-popover-title">How are habits formed Modelling habit</span><span class="citation-popover-snippet">Creators. Phillippa Lally - University College London. Cornelia H. M VAN JAARSVELD...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 851 — Psychological theory and evide...</span></span></span>
 
 A useful rule is to define lunch as incomplete until the walk starts. In practical terms, the meal is not finished when the food is gone; it is finished when you are moving.
 
@@ -309,7 +309,7 @@ Many workday walks fail because the person reaches the cue and then faces severa
 
 Each decision creates friction.
 
-Research on habit development suggests that stable contexts and reduced variability support [automaticity]({{ 'automaticity/' | relative_url }}). When the [environment]({{ 'environment/' | relative_url }}) stays predictable, the brain learns the cue-response association more quickly. Frontiers <span class="citation-chip-wrap"><a class="citation-chip" href="https://discovery.ucl.ac.uk/10144814/1/23311908.2022.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.ucl.ac.uk">[UCL Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.ucl.ac.uk</span><span class="citation-popover-title">UCL Discovery How does habit form?</span><span class="citation-popover-snippet">Guidelines for tracking realby B Gardner · 2022 · Cited by 104 — Habit develops when a behaviour is repeated in a consistent context (Fou...</span></span></span>
+Research on habit development suggests that stable contexts and reduced variability support [automaticity]({{ 'automaticity/' | relative_url }}). When the [environment]({{ 'environment/' | relative_url }}) stays predictable, the brain learns the cue-response association more quickly. Frontiers<span class="citation-chip-wrap"><a class="citation-chip" href="https://discovery.ucl.ac.uk/10144814/1/23311908.2022.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.ucl.ac.uk">[UCL Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.ucl.ac.uk</span><span class="citation-popover-title">UCL Discovery How does habit form?</span><span class="citation-popover-snippet">Guidelines for tracking realby B Gardner · 2022 · Cited by 104 — Habit develops when a behaviour is repeated in a consistent context (Fou...</span></span></span>
 
 That makes pre-deciding the route one of the highest-leverage actions.
 
@@ -337,7 +337,7 @@ The same principle applies to the launch sequence. A reliable sequence might be:
 
 </div>
 
-Repeated enough times, the sequence becomes a behavioural script. Research on habits suggests that automatic responses emerge from exactly this kind of repeated cue-behaviour pairing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">When encountered, cues activate a single, specific well-learned behavioral response.Read more...</span></span></span> University Press & Assessment <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">2010) showed that when people perform a behavior repeatedly in the same context (e.g., taking a walk after dinner), over time the contex...</span></span></span>
+Repeated enough times, the sequence becomes a behavioural script. Research on habits suggests that automatic responses emerge from exactly this kind of repeated cue-behaviour pairing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">When encountered, cues activate a single, specific well-learned behavioral response.Read more...</span></span></span> University Press & Assessment<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">2010) showed that when people perform a behavior repeatedly in the same context (e.g., taking a walk after dinner), over time the contex...</span></span></span>
 
 ## Protecting the walk with a calendar buffer
 
@@ -360,7 +360,7 @@ For example:
 
 This approach works because it removes competition between the walk and afternoon work. The walk occupies protected time rather than borrowing from work time.
 
-From a habit perspective, consistency matters more than duration. A five- or ten-minute walk completed nearly every workday strengthens the cue-response relationship more effectively than an occasional ambitious walk that is frequently skipped. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Time to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 81 — The determinants affecting habit form...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4566897/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">NIHby B Gardner · 2014 · Cited by 1305 — This paper examines use of the term in the context of health-related behaviour, and explor...</span></span></span>
+From a habit perspective, consistency matters more than duration. A five- or ten-minute walk completed nearly every workday strengthens the cue-response relationship more effectively than an occasional ambitious walk that is frequently skipped.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Time to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 81 — The determinants affecting habit form...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4566897/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">NIHby B Gardner · 2014 · Cited by 1305 — This paper examines use of the term in the context of health-related behaviour, and explor...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_walking_after_lunch_d84c67_lunch_walk_workday_c_71ac67-Illustration-2-dark.svg" | relative_url }}" alt="Workday Cue illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_walking_after_lunch_d84c67_lunch_walk_workday_c_71ac67-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_walking_after_lunch_d84c67_lunch_walk_workday_c_71ac67-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Designing for desk lunches
@@ -384,7 +384,7 @@ Useful approaches include:
 
 The key is that the cue should direct attention outward. If the cue leaves you facing the inbox, the inbox often wins.
 
-Research on habit formation emphasises the importance of contextual cues. Small environmental adjustments can make the desired behaviour more likely to occur when the cue appears. <span class="citation-chip-wrap"><a class="citation-chip" href="https://behaviouralleeway.com/behaviour-frameworks-to-[support" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behaviouralleeway.com">[Behavioural Leeway]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behaviouralleeway.com</span><span class="citation-popover-snippet">Behavioural LeewayBehaviour Frameworks to Support Habit Formation8 May 2024 — Habits form through repeated behaviours in stable contexts...</span><span class="citation-popover-meta">Published: May 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.643753/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersSelf-Efficacy in Habit Building: How General and...by M Stojanovic · 2021 · Cited by 41 — A habit is an automized behavioral pa...</span></span></span>
+Research on habit formation emphasises the importance of contextual cues. Small environmental adjustments can make the desired behaviour more likely to occur when the cue appears.<span class="citation-chip-wrap"><a class="citation-chip" href="https://behaviouralleeway.com/behaviour-frameworks-to-[support" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behaviouralleeway.com">[Behavioural Leeway]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behaviouralleeway.com</span><span class="citation-popover-snippet">Behavioural LeewayBehaviour Frameworks to Support Habit Formation8 May 2024 — Habits form through repeated behaviours in stable contexts...</span><span class="citation-popover-meta">Published: May 2024</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.643753/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersSelf-Efficacy in Habit Building: How General and...by M Stojanovic · 2021 · Cited by 41 — A habit is an automized behavioral pa...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wJisQL506pI" title="Tiny Habits: The Small Changes that Change Everything by BJ Fogg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wJisQL506pI" target="_blank" rel="noopener noreferrer">Tiny Habits: The Small Changes that Change Everything by BJ Fogg</a></p><p class="youtube-embed-meta">Channel: Life Beyond The Covers &middot; Views: 13 &middot; Uploaded: April 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wJisQL506pI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wJisQL506pI">Open on YouTube</a></p></div></div></div>
 
@@ -407,7 +407,7 @@ Examples include:
 
 The payment receipt, departure from the café, or exit through the restaurant door can become the cue.
 
-This works because the behaviour is attached to an event that already occurs every time the meal happens. Habit theory suggests that stable, repeated cues are more important than elaborate motivational strategies. OUP Academic <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">When encountered, cues activate a single, specific well-learned behavioral response.Read more...</span></span></span>
+This works because the behaviour is attached to an event that already occurs every time the meal happens. Habit theory suggests that stable, repeated cues are more important than elaborate motivational strategies. OUP Academic<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">When encountered, cues activate a single, specific well-learned behavioral response.Read more...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_walking_after_lunch_d84c67_lunch_walk_workday_c_71ac67-Illustration-3-dark.svg" | relative_url }}" alt="Workday Cue illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_walking_after_lunch_d84c67_lunch_walk_workday_c_71ac67-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_walking_after_lunch_d84c67_lunch_walk_workday_c_71ac67-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Designing for home-working days
@@ -422,11 +422,11 @@ A strong home-working version might be:
 * Put dishes in the sink.
 * Put on outdoor shoes immediately.
 * Exit through the front door.
-* Walk the same loop. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">2010) showed that when people perform a behavior repeatedly in the same context (e.g., taking a walk after dinner), over time the contex...</span></span></span>
+* Walk the same loop.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">2010) showed that when people perform a behavior repeatedly in the same context (e.g., taking a walk after dinner), over time the contex...</span></span></span>
 
 Notice that the cue is not merely finishing lunch. It includes a physical transition from the eating environment to the walking environment.
 
-Studies of habit formation suggest that context stability strengthens automaticity. Repeating the same door, route, and departure sequence can help create a dependable association between lunch and walking. Frontiers <span class="citation-chip-wrap"><a class="citation-chip" href="https://discovery.ucl.ac.uk/10144814/1/23311908.2022.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.ucl.ac.uk">[UCL Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.ucl.ac.uk</span><span class="citation-popover-title">UCL Discovery How does habit form?</span><span class="citation-popover-snippet">Guidelines for tracking realby B Gardner · 2022 · Cited by 104 — Habit develops when a behaviour is repeated in a consistent context (Fou...</span></span></span>
+Studies of habit formation suggest that context stability strengthens automaticity. Repeating the same door, route, and departure sequence can help create a dependable association between lunch and walking. Frontiers<span class="citation-chip-wrap"><a class="citation-chip" href="https://discovery.ucl.ac.uk/10144814/1/23311908.2022.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.ucl.ac.uk">[UCL Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.ucl.ac.uk</span><span class="citation-popover-title">UCL Discovery How does habit form?</span><span class="citation-popover-snippet">Guidelines for tracking realby B Gardner · 2022 · Cited by 104 — Habit develops when a behaviour is repeated in a consistent context (Fou...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eXM2lIRCjc0" title="BJ Fogg: Why Big Change Starts With Tiny Habits" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eXM2lIRCjc0" target="_blank" rel="noopener noreferrer">BJ Fogg: Why Big Change Starts With Tiny Habits</a></p><p class="youtube-embed-meta">Channel: FranklinCovey &middot; Views: 458 &middot; Uploaded: January 2026 &middot; Length: 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eXM2lIRCjc0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eXM2lIRCjc0">Open on YouTube</a></p></div></div></div>
 
@@ -436,13 +436,13 @@ Studies of habit formation suggest that context stability strengthens automatici
 
 The cue is probably too weak.
 
-Attach the walk to a visible action such as closing the lunch container or standing up from the table. Supplementing the cue with a calendar reminder can help until the behaviour becomes more automatic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.veri.co/learn/how-to-build-healthy-habits?srsltid=AfmBOoq_p30dT48GUZVnI0-ZjYMUYrISdeHi6Hgb9Z_k1kcoxuoLpAG0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: veri.co">[veri.co]</a><span class="citation-popover" role="note"><span class="citation-popover-source">veri.co</span><span class="citation-popover-snippet">Reminder: Setting an alarm on your phone as a reminder to take a short walk after lunch. Routine: Going for a brisk walk...Read more...</span></span></span>
+Attach the walk to a visible action such as closing the lunch container or standing up from the table. Supplementing the cue with a calendar reminder can help until the behaviour becomes more automatic.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.veri.co/learn/how-to-build-healthy-habits?srsltid=AfmBOoq_p30dT48GUZVnI0-ZjYMUYrISdeHi6Hgb9Z_k1kcoxuoLpAG0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: veri.co">[veri.co]</a><span class="citation-popover" role="note"><span class="citation-popover-source">veri.co</span><span class="citation-popover-snippet">Reminder: Setting an alarm on your phone as a reminder to take a short walk after lunch. Routine: Going for a brisk walk...Read more...</span></span></span>
 
 ### “I waste time deciding where to go”
 
 Create a default route.
 
-The route should be so familiar that it requires almost no planning. Decision-free routes are easier to repeat consistently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.643753/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersSelf-Efficacy in Habit Building: How General and...by M Stojanovic · 2021 · Cited by 41 — A habit is an automized behavioral pa...</span></span></span>
+The route should be so familiar that it requires almost no planning. Decision-free routes are easier to repeat consistently.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.643753/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersSelf-Efficacy in Habit Building: How General and...by M Stojanovic · 2021 · Cited by 41 — A habit is an automized behavioral pa...</span></span></span>
 
 ### “Meetings keep interrupting it”
 
@@ -456,181 +456,181 @@ Maintain a fallback route. The objective is preserving the cue-response link. A 
 
 The most successful lunch-walk cue is not the most sophisticated one. It is the one that survives ordinary workdays.
 
-Habit research shows that behaviours become more automatic when they are repeated in stable contexts and consistently triggered by the same cues. The practical implication is straightforward: decide the trigger, route, shoes, and timing before lunch begins. Then allow lunch itself to signal the walk. Over weeks and months, the habit becomes less dependent on [motivation]({{ 'motivation/' | relative_url }}) and more dependent on routine—a far more reliable foundation for self-improvement that works. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openresearch.surrey.ac.uk/esploro/outputs/journalArticle/How-are-habits-formed-Modelling-habit/99783513802346" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openresearch.surrey.ac.uk">[Open Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openresearch.surrey.ac.uk</span><span class="citation-popover-title">How are habits formed Modelling habit</span><span class="citation-popover-snippet">Creators. Phillippa Lally - University College London. Cornelia H. M VAN JAARSVELD...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">When encountered, cues activate a single, specific well-learned behavioral response.Read more...</span></span></span>
+Habit research shows that behaviours become more automatic when they are repeated in stable contexts and consistently triggered by the same cues. The practical implication is straightforward: decide the trigger, route, shoes, and timing before lunch begins. Then allow lunch itself to signal the walk. Over weeks and months, the habit becomes less dependent on [motivation]({{ 'motivation/' | relative_url }}) and more dependent on routine—a far more reliable foundation for self-improvement that works.<span class="citation-chip-wrap"><a class="citation-chip" href="https://openresearch.surrey.ac.uk/esploro/outputs/journalArticle/How-are-habits-formed-Modelling-habit/99783513802346" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openresearch.surrey.ac.uk">[Open Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openresearch.surrey.ac.uk</span><span class="citation-popover-title">How are habits formed Modelling habit</span><span class="citation-popover-snippet">Creators. Phillippa Lally - University College London. Cornelia H. M VAN JAARSVELD...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">When encountered, cues activate a single, specific well-learned behavioral response.Read more...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How to make lunch trigger the walk. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How to make lunch trigger the walk. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Focuses on cues, routines, and environment design.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Focuses on cues, routines, and environment design.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
-        </h4>
-        <p class="fr-book-author">By B. J. Fogg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
+</h4>
+<p class="fr-book-author">By B. J. Fogg</p>
         
-        <p class="fr-book-desc">Matches cue-based lunch-walk implementation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches cue-based lunch-walk implementation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+Time+by+Jake+Knapp&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make Time on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eaFHDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make Time" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+Time+by+Jake+Knapp&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make Time">Make Time</a>
-        </h4>
-        <p class="fr-book-author">By Jake Knapp, John Zeratsky</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+Time+by+Jake+Knapp&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make Time on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eaFHDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make Time" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+Time+by+Jake+Knapp&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make Time">Make Time</a>
+</h4>
+<p class="fr-book-author">By Jake Knapp, John Zeratsky</p>
         
-        <p class="fr-book-desc">Useful for fitting lunch walks into busy workdays.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+Time+by+Jake+Knapp&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for fitting lunch walks into busy workdays.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+Time+by+Jake+Knapp&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
-        </h4>
-        <p class="fr-book-author">By Charles Duhigg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
+</h4>
+<p class="fr-book-author">By Charles Duhigg</p>
         
-        <p class="fr-book-desc">Explains habit triggers and automatic behavior.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains habit triggers and automatic behavior.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+Time&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make Time</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+Time&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make Time</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-    </div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workday-cue-how-to-make-lunch-trigger-the-walk-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workday-cue-how-to-make-lunch-trigger-the-walk-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workday-cue-how-to-make-lunch-trigger-the-walk-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workday-cue-how-to-make-lunch-trigger-the-walk-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workday-cue-how-to-make-lunch-trigger-the-walk-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workday-cue-how-to-make-lunch-trigger-the-walk-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workday-cue-how-to-make-lunch-trigger-the-walk-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workday-cue-how-to-make-lunch-trigger-the-walk-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workday-cue-how-to-make-lunch-trigger-the-walk-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workday-cue-how-to-make-lunch-trigger-the-walk-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workday-cue-how-to-make-lunch-trigger-the-walk-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workday-cue-how-to-make-lunch-trigger-the-walk-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workday-cue-how-to-make-lunch-trigger-the-walk-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workday-cue-how-to-make-lunch-trigger-the-walk-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workday-cue-how-to-make-lunch-trigger-the-walk-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workday-cue-how-to-make-lunch-trigger-the-walk-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workday-cue-how-to-make-lunch-trigger-the-walk-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workday-cue-how-to-make-lunch-trigger-the-walk-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workday-cue-how-to-make-lunch-trigger-the-walk-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workday-cue-how-to-make-lunch-trigger-the-walk-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workday-cue-how-to-make-lunch-trigger-the-walk-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workday-cue-how-to-make-lunch-trigger-the-walk-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workday-cue-how-to-make-lunch-trigger-the-walk-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workday-cue-how-to-make-lunch-trigger-the-walk-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workday-cue-how-to-make-lunch-trigger-the-walk-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workday-cue-how-to-make-lunch-trigger-the-walk-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workday-cue-how-to-make-lunch-trigger-the-walk-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workday-cue-how-to-make-lunch-trigger-the-walk-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workday-cue-how-to-make-lunch-trigger-the-walk-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workday-cue-how-to-make-lunch-trigger-the-walk-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workday-cue-how-to-make-lunch-trigger-the-walk-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workday-cue-how-to-make-lunch-trigger-the-walk-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workday-cue-how-to-make-lunch-trigger-the-walk-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=workday-cue-how-to-make-lunch-trigger-the-walk-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -646,7 +646,7 @@ Habit research shows that behaviours become more automatic when they are repeate
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -666,7 +666,7 @@ Habit research shows that behaviours become more automatic when they are repeate
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -698,7 +698,7 @@ Habit research shows that behaviours become more automatic when they are repeate
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -728,7 +728,7 @@ Habit research shows that behaviours become more automatic when they are repeate
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -786,133 +786,133 @@ Habit research shows that behaviours become more automatic when they are repeate
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 851 — Psychological theory and evide...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 851 — Psychological theory and evide...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When encountered, cues activate a single, specific well-learned behavioral response.Read more...</p></details>
+   Link:<a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When encountered, cues activate a single, specific well-learned behavioral response.Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(2010) showed that when people perform a behavior repeatedly in the same context (e.g., taking a walk after dinner), over time the contex...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(2010) showed that when people perform a behavior repeatedly in the same context (e.g., taking a walk after dinner), over time the contex...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Time to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 81 — The determinants affecting habit form...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Time to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 81 — The determinants affecting habit form...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: veri.co  
-   Link: <a href="https://www.veri.co/learn/how-to-build-healthy-habits?srsltid=AfmBOoq_p30dT48GUZVnI0-ZjYMUYrISdeHi6Hgb9Z_k1kcoxuoLpAG0" target="_blank" rel="noopener noreferrer nofollow">https://www.veri.co/learn/how-to-build-healthy-habits?srsltid=AfmBOoq_p30dT48GUZVnI0-ZjYMUYrISdeHi6Hgb9Z_k1kcoxuoLpAG0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reminder: Setting an alarm on your phone as a reminder to take a short walk after lunch. Routine: Going for a brisk walk...Read more...</p></details>
+   Link:<a href="https://www.veri.co/learn/how-to-build-healthy-habits?srsltid=AfmBOoq_p30dT48GUZVnI0-ZjYMUYrISdeHi6Hgb9Z_k1kcoxuoLpAG0" target="_blank" rel="noopener noreferrer nofollow">https://www.veri.co/learn/how-to-build-healthy-habits?srsltid=AfmBOoq_p30dT48GUZVnI0-ZjYMUYrISdeHi6Hgb9Z_k1kcoxuoLpAG0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reminder: Setting an alarm on your phone as a reminder to take a short walk after lunch. Routine: Going for a brisk walk...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: discovery.ucl.ac.uk  
    Title: UCL Discovery How does habit form?  
-   Link: <a href="https://discovery.ucl.ac.uk/10144814/1/23311908.2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/10144814/1/23311908.2022.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Guidelines for tracking realby B Gardner · 2022 · Cited by 104 — Habit develops when a behaviour is repeated in a consistent context (Fou...</p></details>
+   Link:<a href="https://discovery.ucl.ac.uk/10144814/1/23311908.2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/10144814/1/23311908.2022.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guidelines for tracking realby B Gardner · 2022 · Cited by 104 — Habit develops when a behaviour is repeated in a consistent context (Fou...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.643753/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.643753/full</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersSelf-Efficacy in Habit Building: How General and...by M Stojanovic · 2021 · Cited by 41 — A habit is an automized behavioral pa...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.643753/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.643753/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersSelf-Efficacy in Habit Building: How General and...by M Stojanovic · 2021 · Cited by 41 — A habit is an automized behavioral pa...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/20658824/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/20658824/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>automatic component of habit in health behaviorby S Orbell · 2010 · Cited by 707 — Objective: Habit might be usefully characterized as a...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/20658824/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/20658824/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>automatic component of habit in health behaviorby S Orbell · 2010 · Cited by 707 — Objective: Habit might be usefully characterized as a...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: openresearch.surrey.ac.uk  
    Title: How are habits formed Modelling habit  
-   Link: <a href="https://openresearch.surrey.ac.uk/esploro/outputs/journalArticle/How-are-habits-formed-Modelling-habit/99783513802346" target="_blank" rel="noopener noreferrer nofollow">https://openresearch.surrey.ac.uk/esploro/outputs/journalArticle/How-are-habits-formed-Modelling-habit/99783513802346</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Creators. Phillippa Lally - University College London. Cornelia H. M VAN JAARSVELD...Read more...</p></details>
+   Link:<a href="https://openresearch.surrey.ac.uk/esploro/outputs/journalArticle/How-are-habits-formed-Modelling-habit/99783513802346" target="_blank" rel="noopener noreferrer nofollow">https://openresearch.surrey.ac.uk/esploro/outputs/journalArticle/How-are-habits-formed-Modelling-habit/99783513802346</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Creators. Phillippa Lally - University College London. Cornelia H. M VAN JAARSVELD...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersContext Stability in Habit Building Increases Automaticity...by M Stojanovic · 2022 · Cited by 19 — In this paper, we investiga...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersContext Stability in Habit Building Increases Automaticity...by M Stojanovic · 2022 · Cited by 19 — In this paper, we investiga...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: behaviouralleeway.com  
-   Link: <a href="https://behaviouralleeway.com/behaviour-frameworks-to-[support" target="_blank" rel="noopener noreferrer nofollow">https://behaviouralleeway.com/behaviour-frameworks-to-[support</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioural LeewayBehaviour Frameworks to Support Habit Formation8 May 2024 — Habits form through repeated behaviours in stable contexts...</p></details>
+   Link:<a href="https://behaviouralleeway.com/behaviour-frameworks-to-[support" target="_blank" rel="noopener noreferrer nofollow">https://behaviouralleeway.com/behaviour-frameworks-to-[support</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioural LeewayBehaviour Frameworks to Support Habit Formation8 May 2024 — Habits form through repeated behaviours in stable contexts...</p></details>
    Published: May 2024  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/21749245/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/21749245/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of habit formation: a qualitative studyby P Lally · 2011 · Cited by 362 — This study documented experiences of habit development in 10 pa...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/21749245/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/21749245/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of habit formation: a qualitative studyby P Lally · 2011 · Cited by 362 — This study documented experiences of habit development in 10 pa...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4566897/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4566897/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby B Gardner · 2014 · Cited by 1305 — This paper examines use of the term in the context of health-related behaviour, and explor...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4566897/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4566897/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby B Gardner · 2014 · Cited by 1305 — This paper examines use of the term in the context of health-related behaviour, and explor...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: oxford-review.com  
    Title: Habit Formation  
-   Link: <a href="https://oxford-review.com/habit-formation-what-the-neuroscience-is-saying/" target="_blank" rel="noopener noreferrer nofollow">https://oxford-review.com/habit-formation-what-the-neuroscience-is-saying/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What the Neuroscience is SayingFormed through repeated actions in stable environments · Strengthened by positive reinforcement · Develops...</p></details>
+   Link:<a href="https://oxford-review.com/habit-formation-what-the-neuroscience-is-saying/" target="_blank" rel="noopener noreferrer nofollow">https://oxford-review.com/habit-formation-what-the-neuroscience-is-saying/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What the Neuroscience is SayingFormed through repeated actions in stable environments · Strengthened by positive reinforcement · Develops...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/39279827/How_Habits_are_Formed" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/39279827/How_Habits_are_Formed</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) How Habits are FormedTo investigate the process of habit formation in everyday life, 96 volunteers chose an eating, drinking or act...</p></details>
+   Link:<a href="https://www.academia.edu/39279827/How_Habits_are_Formed" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/39279827/How_Habits_are_Formed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) How Habits are FormedTo investigate the process of habit formation in everyday life, 96 volunteers chose an eating, drinking or act...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: therapyroute.com  
-   Link: <a href="https://www.therapyroute.com/article/habit-formation-by-therapyroute" target="_blank" rel="noopener noreferrer nofollow">https://www.therapyroute.com/article/habit-formation-by-therapyroute</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit FormationHabit formation is the process by which behaviours become automatic through repetition and practice. It&#x27;s how your brain c...</p></details>
+   Link:<a href="https://www.therapyroute.com/article/habit-formation-by-therapyroute" target="_blank" rel="noopener noreferrer nofollow">https://www.therapyroute.com/article/habit-formation-by-therapyroute</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Habit FormationHabit formation is the process by which behaviours become automatic through repetition and practice. It&#x27;s how your brain c...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: repository.essex.ac.uk  
    Title: The relationship of habit formation ([frequency](&#123;&#123; 'frequency/' | relative_url &#125;&#125;), complexity, context  
-   Link: <a href="https://repository.essex.ac.uk/30320/1/Attitudes%20and%20Habits_Final.09.05.2021.ARP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.essex.ac.uk/30320/1/Attitudes%20and%20Habits_Final.09.05.2021.ARP.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>essex.ac.ukattitudes, habits and behavior changeby B Verplanken · 2022 · Cited by 521 — This study demonstrated that habit formation can...</p></details>
+   Link:<a href="https://repository.essex.ac.uk/30320/1/Attitudes%20and%20Habits_Final.09.05.2021.ARP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.essex.ac.uk/30320/1/Attitudes%20and%20Habits_Final.09.05.2021.ARP.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>essex.ac.ukattitudes, habits and behavior changeby B Verplanken · 2022 · Cited by 521 — This study demonstrated that habit formation can...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: lilyandloaf.com  
    Title: walking after meals a simple habit for blood sugar and digestion  
-   Link: <a href="https://lilyandloaf.com/a/blog/post/walking-after-meals-a-simple-habit-for-blood-sugar-and-digestion?srsltid=AfmBOooaLiUKlhZ6aD9_NH0rHl_VV0EipH4rhCzQS7YKLhySq2w4tyjg" target="_blank" rel="noopener noreferrer nofollow">https://lilyandloaf.com/a/blog/post/walking-after-meals-a-simple-habit-for-blood-sugar-and-digestion?srsltid=AfmBOooaLiUKlhZ6aD9_NH0rHl_VV0EipH4rhCzQS7YKLhySq2w4tyjg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Walking After Meals for Digestion14 Nov 2025 — Discover how a short walk after meals can aid digestion, balance blood sugar, and improve...</p></details>
+   Link:<a href="https://lilyandloaf.com/a/blog/post/walking-after-meals-a-simple-habit-for-blood-sugar-and-digestion?srsltid=AfmBOooaLiUKlhZ6aD9_NH0rHl_VV0EipH4rhCzQS7YKLhySq2w4tyjg" target="_blank" rel="noopener noreferrer nofollow">https://lilyandloaf.com/a/blog/post/walking-after-meals-a-simple-habit-for-blood-sugar-and-digestion?srsltid=AfmBOooaLiUKlhZ6aD9_NH0rHl_VV0EipH4rhCzQS7YKLhySq2w4tyjg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Walking After Meals for Digestion14 Nov 2025 — Discover how a short walk after meals can aid digestion, balance blood sugar, and improve...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: companyaddress.co.uk  
-   Link: <a href="https://companyaddress.co.uk/sites/detail/index.php?p=Research-Shows-3-Critical-Factors-for-Successful-Habit-Formation-msgJv8C9cYpWR" target="_blank" rel="noopener noreferrer nofollow">https://companyaddress.co.uk/sites/detail/index.php?p=Research-Shows-3-Critical-Factors-for-Successful-Habit-Formation-msgJv8C9cYpWR</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>eliable contextual cue in your daily routine (e.g., &quot;after I brush my teeth&quot; or...Read more...</p></details>
+   Link:<a href="https://companyaddress.co.uk/sites/detail/index.php?p=Research-Shows-3-Critical-Factors-for-Successful-Habit-Formation-msgJv8C9cYpWR" target="_blank" rel="noopener noreferrer nofollow">https://companyaddress.co.uk/sites/detail/index.php?p=Research-Shows-3-Critical-Factors-for-Successful-Habit-Formation-msgJv8C9cYpWR</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>eliable contextual cue in your daily routine (e.g., &quot;after I brush my teeth&quot; or...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: advetresearch.com  
-   Link: <a href="https://www.advetresearch.com/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=%2Findex.php%2Findex%2Flogin%2FsignOut%3Fsource%3D.c.openf1.cloud%2Fbs%2F&amp;id=0iH8N5" target="_blank" rel="noopener noreferrer nofollow">https://www.advetresearch.com/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=%2Findex.php%2Findex%2Flogin%2FsignOut%3Fsource%3D.c.openf1.cloud%2Fbs%2F&amp;id=0iH8N5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>luggish after lunch, a short post-meal walk can make a noticeable difference in...Read more...</p></details>
+   Link:<a href="https://www.advetresearch.com/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=%2Findex.php%2Findex%2Flogin%2FsignOut%3Fsource%3D.c.openf1.cloud%2Fbs%2F&amp;id=0iH8N5" target="_blank" rel="noopener noreferrer nofollow">https://www.advetresearch.com/plugins/generic/pdfJsViewer/pdf.js/web/viewer.html?file=%2Findex.php%2Findex%2Flogin%2FsignOut%3Fsource%3D.c.openf1.cloud%2Fbs%2F&amp;id=0iH8N5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>luggish after lunch, a short post-meal walk can make a noticeable difference in...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: news-medical.net  
    Title: Walking After Meals Small Habit Big Metabolic Gains.aspx  
-   Link: <a href="https://www.news-medical.net/health/Walking-After-Meals-Small-Habit-Big-Metabolic-Gains.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.news-medical.net/health/Walking-After-Meals-Small-Habit-Big-Metabolic-Gains.aspx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Walking After Meals: Small Habit, Big Metabolic Gains29 Apr 2025 — Emerging research shows that the simple act of walking after meals may...</p></details>
+   Link:<a href="https://www.news-medical.net/health/Walking-After-Meals-Small-Habit-Big-Metabolic-Gains.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.news-medical.net/health/Walking-After-Meals-Small-Habit-Big-Metabolic-Gains.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Walking After Meals: Small Habit, Big Metabolic Gains29 Apr 2025 — Emerging research shows that the simple act of walking after meals may...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: coachpedropinto.com  
    Title: habit formation science backed strategies for leaders  
-   Link: <a href="https://coachpedropinto.com/habit-formation-science-backed-strategies-for-leaders/" target="_blank" rel="noopener noreferrer nofollow">https://coachpedropinto.com/habit-formation-science-backed-strategies-for-leaders/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit Formation: Science-Backed Strategies For Leaders...4 Jun 2025 — Through a process called automaticity, it transforms frequently re...</p></details>
+   Link:<a href="https://coachpedropinto.com/habit-formation-science-backed-strategies-for-leaders/" target="_blank" rel="noopener noreferrer nofollow">https://coachpedropinto.com/habit-formation-science-backed-strategies-for-leaders/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Habit Formation: Science-Backed Strategies For Leaders...4 Jun 2025 — Through a process called automaticity, it transforms frequently re...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: scienceopen.com  
-   Link: <a href="https://www.scienceopen.com/document_citation/cbbfec42-2c4f-4f97-9ce2-40bd5823aadd/BIBTEX" target="_blank" rel="noopener noreferrer nofollow">https://www.scienceopen.com/document_citation/cbbfec42-2c4f-4f97-9ce2-40bd5823aadd/BIBTEX</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lally, Cornelia H. M. van Jaarsveld and Henry W. W. Potts et al. }, title = {How are habits formed: Modelling habit formation... 2010, v...</p></details>
+   Link:<a href="https://www.scienceopen.com/document_citation/cbbfec42-2c4f-4f97-9ce2-40bd5823aadd/BIBTEX" target="_blank" rel="noopener noreferrer nofollow">https://www.scienceopen.com/document_citation/cbbfec42-2c4f-4f97-9ce2-40bd5823aadd/BIBTEX</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lally, Cornelia H. M. van Jaarsveld and Henry W. W. Potts et al. }, title = {How are habits formed: Modelling habit formation... 2010, v...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: shieldmedicalgroup.com  
    Title: healthy habits start with a 10 minute walk after meals  
-   Link: <a href="https://shieldmedicalgroup.com/healthy-habits-start-with-a-10-minute-walk-after-meals/" target="_blank" rel="noopener noreferrer nofollow">https://shieldmedicalgroup.com/healthy-habits-start-with-a-10-minute-walk-after-meals/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A 10-minute walk after meals offers significant health benefits, making it a great starting point for a healthier lifestyle.Read more...</p></details>
+   Link:<a href="https://shieldmedicalgroup.com/healthy-habits-start-with-a-10-minute-walk-after-meals/" target="_blank" rel="noopener noreferrer nofollow">https://shieldmedicalgroup.com/healthy-habits-start-with-a-10-minute-walk-after-meals/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A 10-minute walk after meals offers significant health benefits, making it a great starting point for a healthier lifestyle.Read more...</p></details>

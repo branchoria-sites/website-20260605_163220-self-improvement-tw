@@ -277,17 +277,17 @@ image: /assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_smal
 Small wins matter in self-improvement, but not because they create a temporary feeling of success. They matter because they provide evidence. When a small action demonstrates that you can learn, improve, or handle a challenge, it strengthens the sense of competence that supports long-term [motivation]({{ 'motivation/' | relative_url }}). In contrast, easy wins that have little connection to a valued goal may feel good briefly without building any lasting capability.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_small_wins_competenc_735851-Illustration-1-dark.svg" | relative_url }}" alt="Small Wins illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_small_wins_competenc_735851-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_small_wins_competenc_735851-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research on motivation consistently points to competence as a central psychological need. People are more likely to persist when they can see proof that their efforts are making them more effective. The most useful small wins are therefore not random achievements. They are visible, repeatable steps that move a person in a direction they genuinely care about. Over time, these small pieces of evidence accumulate into a stronger belief: “I can do this, and I am getting better at it.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.next.co.uk/shop/brand-self-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: next.co.uk">[Self]</a><span class="citation-popover" role="note"><span class="citation-popover-source">next.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> -Determination Theory
+Research on motivation consistently points to competence as a central psychological need. People are more likely to persist when they can see proof that their efforts are making them more effective. The most useful small wins are therefore not random achievements. They are visible, repeatable steps that move a person in a direction they genuinely care about. Over time, these small pieces of evidence accumulate into a stronger belief: “I can do this, and I am getting better at it.”<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.next.co.uk/shop/brand-self-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: next.co.uk">[Self]</a><span class="citation-popover" role="note"><span class="citation-popover-source">next.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> -Determination Theory
 
 ## Why competence depends on evidence, not hype
 
 A common mistake in self-improvement is trying to create motivation through encouragement alone. Encouragement can help, but confidence built only on positive thinking is fragile. Real confidence grows from experience.
 
-Psychologist Albert Bandura's work on self-efficacy—the belief that one can successfully perform a task—identified mastery experiences as the most powerful source of confidence. In practical terms, people become more confident when they repeatedly succeed at meaningful tasks, even small ones. Success creates evidence that they can influence outcomes through their own actions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://educational-innovation.sydney.edu.au/news/pdfs/Bandura%201977.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educational-innovation.sydney.edu.au">[Teaching at Sydney]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educational-innovation.sydney.edu.au</span><span class="citation-popover-snippet">1977). Self-EfficacyMarch 8, 2006 — by A Bandura · Cited by 132145 — In the proposed model, expectations of personal efficacy are derive...</span><span class="citation-popover-meta">Published: March 8, 2006</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.simplypsychology.org/self-efficacy.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-snippet">Simply PsychologyBandura&#x27;s Self-Efficacy Theory Of Motivation In Psychologyby G Lopez-Garrido · Cited by 180 — Performance Outcomes (Mast...</span></span></span>
+Psychologist Albert Bandura's work on self-efficacy—the belief that one can successfully perform a task—identified mastery experiences as the most powerful source of confidence. In practical terms, people become more confident when they repeatedly succeed at meaningful tasks, even small ones. Success creates evidence that they can influence outcomes through their own actions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://educational-innovation.sydney.edu.au/news/pdfs/Bandura%201977.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educational-innovation.sydney.edu.au">[Teaching at Sydney]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educational-innovation.sydney.edu.au</span><span class="citation-popover-snippet">1977). Self-EfficacyMarch 8, 2006 — by A Bandura · Cited by 132145 — In the proposed model, expectations of personal efficacy are derive...</span><span class="citation-popover-meta">Published: March 8, 2006</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.simplypsychology.org/self-efficacy.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-snippet">Simply PsychologyBandura&#x27;s Self-Efficacy Theory Of Motivation In Psychologyby G Lopez-Garrido · Cited by 180 — Performance Outcomes (Mast...</span></span></span>
 
 This explains why a person who completes a ten-minute walk every day may become more motivated than someone who spends hours consuming inspirational content about fitness. The walk provides direct evidence. The inspiration provides a feeling.
 
-The distinction matters because competence is not merely a belief. It is an interpretation of accumulated experience. Self-determination theory, which places competence alongside autonomy and relatedness as a basic psychological need, suggests that people function best when they experience themselves as increasingly capable. That experience comes from interacting successfully with challenges, not from being told they are capable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.next.co.uk/shop/brand-self-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: next.co.uk">[Self]</a><span class="citation-popover" role="note"><span class="citation-popover-source">next.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> -Determination Theory <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5070217/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWhy Do I Feel More Confident?</span><span class="citation-popover-snippet">Bandura&#x27;s Sources Predict...by F Pfitzner-Eden · 2016 · Cited by 521 — Bandura (1997) proposed four sources of self-efficacy: mastery ex...</span></span></span>
+The distinction matters because competence is not merely a belief. It is an interpretation of accumulated experience. Self-determination theory, which places competence alongside autonomy and relatedness as a basic psychological need, suggests that people function best when they experience themselves as increasingly capable. That experience comes from interacting successfully with challenges, not from being told they are capable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.next.co.uk/shop/brand-self-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: next.co.uk">[Self]</a><span class="citation-popover" role="note"><span class="citation-popover-source">next.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> -Determination Theory<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5070217/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWhy Do I Feel More Confident?</span><span class="citation-popover-snippet">Bandura&#x27;s Sources Predict...by F Pfitzner-Eden · 2016 · Cited by 521 — Bandura (1997) proposed four sources of self-efficacy: mastery ex...</span></span></span>
 
 A useful test is to ask whether a small win teaches something.
 
@@ -300,7 +300,7 @@ Only the second activity strengthens competence directly.
 
 The power of small wins is not just a theory of skill development. It is also a theory of motivation.
 
-Research by Teresa Amabile and Steven Kramer analysed nearly 12,000 work diary entries and found that making progress in meaningful work was one of the strongest drivers of positive emotions, engagement and motivation. Importantly, the progress did not have to be dramatic. Even modest forward movement mattered when it occurred in a direction that people considered meaningful. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hbs.edu/faculty/Pages/item.aspx?num=40692" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbs.edu">[Harvard Business School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbs.edu</span><span class="citation-popover-snippet">Harvard Business SchoolThe Progress Principle: Using Small Wins to Ignite Joy...by TM Amabile · 2011 · Cited by 1632 — The book shows h...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amanet.org/articles/the-worth-of-small-wins-teresa-amabile-and-steven-kramer-on-the-progress-principle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amanet.org">[American Management Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amanet.org</span><span class="citation-popover-snippet">American Management AssociationThe Worth of Small Wins: Teresa Amabile and Steven...First, the progress principle provides the key—provi...</span></span></span>
+Research by Teresa Amabile and Steven Kramer analysed nearly 12,000 work diary entries and found that making progress in meaningful work was one of the strongest drivers of positive emotions, engagement and motivation. Importantly, the progress did not have to be dramatic. Even modest forward movement mattered when it occurred in a direction that people considered meaningful.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hbs.edu/faculty/Pages/item.aspx?num=40692" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hbs.edu">[Harvard Business School]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hbs.edu</span><span class="citation-popover-snippet">Harvard Business SchoolThe Progress Principle: Using Small Wins to Ignite Joy...by TM Amabile · 2011 · Cited by 1632 — The book shows h...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amanet.org/articles/the-worth-of-small-wins-teresa-amabile-and-steven-kramer-on-the-progress-principle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amanet.org">[American Management Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amanet.org</span><span class="citation-popover-snippet">American Management AssociationThe Worth of Small Wins: Teresa Amabile and Steven...First, the progress principle provides the key—provi...</span></span></span>
 
 This helps explain why people often abandon goals despite occasional large achievements. A dramatic result can be motivating, but motivation becomes more reliable when progress is frequent enough to be noticed.
 
@@ -411,7 +411,7 @@ This can happen in several ways:
 
 </div>
 
-Bandura's work suggests that self-efficacy develops through mastery experiences, not through endless repetition of actions that require little effort. Eventually, competence requires slightly larger challenges. <span class="citation-chip-wrap"><a class="citation-chip" href="https://educational-innovation.sydney.edu.au/news/pdfs/Bandura%201977.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educational-innovation.sydney.edu.au">[Teaching at Sydney]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educational-innovation.sydney.edu.au</span><span class="citation-popover-snippet">1977). Self-EfficacyMarch 8, 2006 — by A Bandura · Cited by 132145 — In the proposed model, expectations of personal efficacy are derive...</span><span class="citation-popover-meta">Published: March 8, 2006</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5070217/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWhy Do I Feel More Confident?</span><span class="citation-popover-snippet">Bandura&#x27;s Sources Predict...by F Pfitzner-Eden · 2016 · Cited by 521 — Bandura (1997) proposed four sources of self-efficacy: mastery ex...</span></span></span>
+Bandura's work suggests that self-efficacy develops through mastery experiences, not through endless repetition of actions that require little effort. Eventually, competence requires slightly larger challenges.<span class="citation-chip-wrap"><a class="citation-chip" href="https://educational-innovation.sydney.edu.au/news/pdfs/Bandura%201977.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educational-innovation.sydney.edu.au">[Teaching at Sydney]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educational-innovation.sydney.edu.au</span><span class="citation-popover-snippet">1977). Self-EfficacyMarch 8, 2006 — by A Bandura · Cited by 132145 — In the proposed model, expectations of personal efficacy are derive...</span><span class="citation-popover-meta">Published: March 8, 2006</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5070217/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWhy Do I Feel More Confident?</span><span class="citation-popover-snippet">Bandura&#x27;s Sources Predict...by F Pfitzner-Eden · 2016 · Cited by 521 — Bandura (1997) proposed four sources of self-efficacy: mastery ex...</span></span></span>
 
 A useful pattern is gradual expansion:
 
@@ -434,272 +434,272 @@ Within the broader question of motivation quality, the value of small wins is th
 
 The most powerful small wins are not impressive from the outside. They are the ones that quietly answer a meaningful question: “Am I becoming more capable than I was before?”
 
-When the answer becomes visible day after day, motivation no longer depends entirely on mood. Progress itself becomes a source of energy. Small wins stop being tiny achievements and start becoming proof that growth is possible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.next.co.uk/shop/brand-self-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: next.co.uk">[Self]</a><span class="citation-popover" role="note"><span class="citation-popover-source">next.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> -Determination Theory <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5070217/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWhy Do I Feel More Confident?</span><span class="citation-popover-snippet">Bandura&#x27;s Sources Predict...by F Pfitzner-Eden · 2016 · Cited by 521 — Bandura (1997) proposed four sources of self-efficacy: mastery ex...</span></span></span>
+When the answer becomes visible day after day, motivation no longer depends entirely on mood. Progress itself becomes a source of energy. Small wins stop being tiny achievements and start becoming proof that growth is possible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.next.co.uk/shop/brand-self-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: next.co.uk">[Self]</a><span class="citation-popover" role="note"><span class="citation-popover-source">next.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> -Determination Theory<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5070217/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCWhy Do I Feel More Confident?</span><span class="citation-popover-snippet">Bandura&#x27;s Sources Predict...by F Pfitzner-Eden · 2016 · Cited by 521 — Bandura (1997) proposed four sources of self-efficacy: mastery ex...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why tiny progress can feel powerful. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why tiny progress can feel powerful. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Built around small improvements, visible progress, and accumulating evidence of competence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Built around small improvements, visible progress, and accumulating evidence of competence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
-        </h4>
-        <p class="fr-book-author">By B. J. Fogg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
+</h4>
+<p class="fr-book-author">By B. J. Fogg</p>
         
-        <p class="fr-book-desc">Shows how very small actions create momentum and confidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how very small actions create momentum and confidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Slight+Edge+by+Jeff+Olson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Slight Edge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5bzfAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Slight Edge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Slight+Edge+by+Jeff+Olson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Slight Edge">The Slight Edge</a>
-        </h4>
-        <p class="fr-book-author">By Jeff Olson, John David Mann</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Slight+Edge+by+Jeff+Olson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Slight Edge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5bzfAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Slight Edge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Slight+Edge+by+Jeff+Olson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Slight Edge">The Slight Edge</a>
+</h4>
+<p class="fr-book-author">By Jeff Olson, John David Mann</p>
         
-        <p class="fr-book-desc">Explains how small repeated actions compound into meaningful results.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Slight+Edge+by+Jeff+Olson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how small repeated actions compound into meaningful results.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Slight+Edge+by+Jeff+Olson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bOGHDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Carol S. Dweck</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bOGHDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
+</h4>
+<p class="fr-book-author">By Carol S. Dweck</p>
         
-        <p class="fr-book-desc">Supports competence development through learning and gradual improvement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports competence development through learning and gradual improvement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Slight+Edge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Slight Edge</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Slight+Edge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Slight Edge</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Acrylic Sign Positive Quote Office or Home Desk Decor 4x4 Inch"><img src="{{ '/assets/images/marketplace-covers/70720b9dbe1e26f3c7df.jpg' | relative_url }}" alt="Listing image for Motivational Acrylic Sign Positive Quote Office or Home Desk Decor 4x4 Inch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Acrylic Sign Positive Quote Office or Home Desk Decor 4x4 Inch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk motivation sign">Search <span data-ebay-domain-label>eBay.com</span>: desk motivation sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Acrylic Sign Positive Quote Office or Home Desk Decor 4x4 Inch"><img src="{{ '/assets/images/marketplace-covers/70720b9dbe1e26f3c7df.jpg' | relative_url }}" alt="Listing image for Motivational Acrylic Sign Positive Quote Office or Home Desk Decor 4x4 Inch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Acrylic Sign Positive Quote Office or Home Desk Decor 4x4 Inch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk motivation sign">Search<span data-ebay-domain-label>eBay.com</span>: desk motivation sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Desk Sign Inspirational Office Decor Gift Tabletop Sign Clear Ac..."><img src="{{ '/assets/images/marketplace-covers/694453786d6371230db0.jpg' | relative_url }}" alt="Listing image for Motivational Desk Sign Inspirational Office Decor Gift Tabletop Sign Clear Ac..." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Desk Sign Inspirational Office Decor Gift Tabletop Sign Clear Ac...</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk motivation sign">Search <span data-ebay-domain-label>eBay.com</span>: desk motivation sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Desk Sign Inspirational Office Decor Gift Tabletop Sign Clear Ac..."><img src="{{ '/assets/images/marketplace-covers/694453786d6371230db0.jpg' | relative_url }}" alt="Listing image for Motivational Desk Sign Inspirational Office Decor Gift Tabletop Sign Clear Ac..." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Desk Sign Inspirational Office Decor Gift Tabletop Sign Clear Ac...</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk motivation sign">Search<span data-ebay-domain-label>eBay.com</span>: desk motivation sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Office Wooden Desk Sign Farmhouse Positive Teamwork Definition"><img src="{{ '/assets/images/marketplace-covers/303b92699d768cc2573c.jpg' | relative_url }}" alt="Listing image for Motivational Office Wooden Desk Sign Farmhouse Positive Teamwork Definition" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Office Wooden Desk Sign Farmhouse Positive Teamwork Definition</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk motivation sign">Search <span data-ebay-domain-label>eBay.com</span>: desk motivation sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Office Wooden Desk Sign Farmhouse Positive Teamwork Definition"><img src="{{ '/assets/images/marketplace-covers/303b92699d768cc2573c.jpg' | relative_url }}" alt="Listing image for Motivational Office Wooden Desk Sign Farmhouse Positive Teamwork Definition" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Office Wooden Desk Sign Farmhouse Positive Teamwork Definition</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk motivation sign">Search<span data-ebay-domain-label>eBay.com</span>: desk motivation sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Inspirational Desk Sign - Motivational Quote - Clear Acrylic - 4 X 4 Inches - Mo"><img src="{{ '/assets/images/marketplace-covers/7edc36771fc3d2eb3a6b.jpg' | relative_url }}" alt="Listing image for Inspirational Desk Sign - Motivational Quote - Clear Acrylic - 4 X 4 Inches - Mo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Inspirational Desk Sign - Motivational Quote - Clear Acrylic - 4 X 4 Inches - Mo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk motivation sign">Search <span data-ebay-domain-label>eBay.com</span>: desk motivation sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Inspirational Desk Sign - Motivational Quote - Clear Acrylic - 4 X 4 Inches - Mo"><img src="{{ '/assets/images/marketplace-covers/7edc36771fc3d2eb3a6b.jpg' | relative_url }}" alt="Listing image for Inspirational Desk Sign - Motivational Quote - Clear Acrylic - 4 X 4 Inches - Mo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Inspirational Desk Sign - Motivational Quote - Clear Acrylic - 4 X 4 Inches - Mo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk motivation sign">Search<span data-ebay-domain-label>eBay.com</span>: desk motivation sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=desk+motivation+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-desk-motivation-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=achievement+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-achievement-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Achievement Motivational Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/347c4a3224636fe608ac.jpg' | relative_url }}" alt="Listing image for Achievement Motivational Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=achievement+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-achievement-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Achievement Motivational Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=achievement+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-achievement-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for achievement poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: achievement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=achievement+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-achievement-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=achievement+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-achievement-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Achievement Motivational Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/347c4a3224636fe608ac.jpg' | relative_url }}" alt="Listing image for Achievement Motivational Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=achievement+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-achievement-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Achievement Motivational Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=achievement+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-achievement-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for achievement poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: achievement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=achievement+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-achievement-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=achievement+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-achievement-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Achievement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/107c0cbd98619ef433d6.jpg' | relative_url }}" alt="Listing image for Achievement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=achievement+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-achievement-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Achievement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=achievement+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-achievement-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for achievement poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: achievement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=achievement+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-achievement-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=achievement+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-achievement-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Achievement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/107c0cbd98619ef433d6.jpg' | relative_url }}" alt="Listing image for Achievement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=achievement+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-achievement-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Achievement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=achievement+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-achievement-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for achievement poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: achievement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=achievement+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-achievement-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=achievement+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-achievement-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Achievement Unlocked: Social Intera Framed Wall Art Poster Canvas Print Picture"><span>eBay</span></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=achievement+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-achievement-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Achievement Unlocked: Social Intera Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=achievement+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-achievement-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for achievement poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: achievement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=achievement+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-achievement-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=achievement+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-achievement-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Achievement Unlocked: Social Intera Framed Wall Art Poster Canvas Print Picture"><span>eBay</span></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=achievement+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-achievement-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Achievement Unlocked: Social Intera Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=achievement+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-achievement-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for achievement poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: achievement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=achievement+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-achievement-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=achievement+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-achievement-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Achievement Starts With Desire Quote Print Poster Rose Gold Wall Art"><img src="{{ '/assets/images/marketplace-covers/fa24b5a1c58f32e0621d.jpg' | relative_url }}" alt="Listing image for Achievement Starts With Desire Quote Print Poster Rose Gold Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=achievement+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-achievement-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Achievement Starts With Desire Quote Print Poster Rose Gold Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=achievement+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-achievement-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for achievement poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: achievement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=achievement+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-achievement-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=achievement+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-achievement-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=achievement+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-achievement-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Achievement Starts With Desire Quote Print Poster Rose Gold Wall Art"><img src="{{ '/assets/images/marketplace-covers/fa24b5a1c58f32e0621d.jpg' | relative_url }}" alt="Listing image for Achievement Starts With Desire Quote Print Poster Rose Gold Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=achievement+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-achievement-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Achievement Starts With Desire Quote Print Poster Rose Gold Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=achievement+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-achievement-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for achievement poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: achievement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=achievement+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-achievement-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=achievement+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=small-wins-why-tiny-progress-can-feel-powerful-self-improvement-that-works-achievement-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -715,7 +715,7 @@ When the answer becomes visible day after day, motivation no longer depends enti
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -735,7 +735,7 @@ When the answer becomes visible day after day, motivation no longer depends enti
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -767,7 +767,7 @@ When the answer becomes visible day after day, motivation no longer depends enti
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -797,7 +797,7 @@ When the answer becomes visible day after day, motivation no longer depends enti
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -855,122 +855,122 @@ When the answer becomes visible day after day, motivation no longer depends enti
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCWhy Do I Feel More Confident?  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5070217/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5070217/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bandura&#x27;s Sources Predict...by F Pfitzner-Eden · 2016 · Cited by 521 — Bandura (1997) proposed four sources of self-efficacy: mastery ex...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5070217/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5070217/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bandura&#x27;s Sources Predict...by F Pfitzner-Eden · 2016 · Cited by 521 — Bandura (1997) proposed four sources of self-efficacy: mastery ex...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: teresa.com  
-   Link: <a href="https://www.teresa.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.teresa.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Teresa, who uses only her first name, is a Singer-Songwriter who brings her sunny disposition and positive approach to her music an...</p></details>
+   Link:<a href="https://www.teresa.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.teresa.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Teresa, who uses only her first name, is a Singer-Songwriter who brings her sunny disposition and positive approach to her music an...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: educational-innovation.sydney.edu.au  
-   Link: <a href="https://educational-innovation.sydney.edu.au/news/pdfs/Bandura%201977.pdf" target="_blank" rel="noopener noreferrer nofollow">https://educational-innovation.sydney.edu.au/news/pdfs/Bandura%201977.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(1977). Self-EfficacyMarch 8, 2006 — by A Bandura · Cited by 132145 — In the proposed model, expectations of personal efficacy are derive...</p></details>
+   Link:<a href="https://educational-innovation.sydney.edu.au/news/pdfs/Bandura%201977.pdf" target="_blank" rel="noopener noreferrer nofollow">https://educational-innovation.sydney.edu.au/news/pdfs/Bandura%201977.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(1977). Self-EfficacyMarch 8, 2006 — by A Bandura · Cited by 132145 — In the proposed model, expectations of personal efficacy are derive...</p></details>
    Published: March 8, 2006  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: simplypsychology.org  
-   Link: <a href="https://www.simplypsychology.org/self-efficacy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/self-efficacy.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Simply PsychologyBandura&#x27;s Self-Efficacy Theory Of Motivation In Psychologyby G Lopez-Garrido · Cited by 180 — Performance Outcomes (Mast...</p></details>
+   Link:<a href="https://www.simplypsychology.org/self-efficacy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/self-efficacy.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Simply PsychologyBandura&#x27;s Self-Efficacy Theory Of Motivation In Psychologyby G Lopez-Garrido · Cited by 180 — Performance Outcomes (Mast...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: hbs.edu  
-   Link: <a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=40692" target="_blank" rel="noopener noreferrer nofollow">https://www.hbs.edu/faculty/Pages/item.aspx?num=40692</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Business SchoolThe Progress Principle: Using Small Wins to Ignite Joy...by TM Amabile · 2011 · Cited by 1632 — The book shows h...</p></details>
+   Link:<a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=40692" target="_blank" rel="noopener noreferrer nofollow">https://www.hbs.edu/faculty/Pages/item.aspx?num=40692</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harvard Business SchoolThe Progress Principle: Using Small Wins to Ignite Joy...by TM Amabile · 2011 · Cited by 1632 — The book shows h...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: amanet.org  
-   Link: <a href="https://www.amanet.org/articles/the-worth-of-small-wins-teresa-amabile-and-steven-kramer-on-the-progress-principle/" target="_blank" rel="noopener noreferrer nofollow">https://www.amanet.org/articles/the-worth-of-small-wins-teresa-amabile-and-steven-kramer-on-the-progress-principle/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>American Management AssociationThe Worth of Small Wins: Teresa Amabile and Steven...First, the progress principle provides the key—provi...</p></details>
+   Link:<a href="https://www.amanet.org/articles/the-worth-of-small-wins-teresa-amabile-and-steven-kramer-on-the-progress-principle/" target="_blank" rel="noopener noreferrer nofollow">https://www.amanet.org/articles/the-worth-of-small-wins-teresa-amabile-and-steven-kramer-on-the-progress-principle/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Management AssociationThe Worth of Small Wins: Teresa Amabile and Steven...First, the progress principle provides the key—provi...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Teresa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Teresa</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TeresaArts · Teresa Berganza (1933–2022), Spanish opera singer · Teresa Brewer (1931–2007), American pop and jazz singer · Teresa Came...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Teresa" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Teresa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TeresaArts · Teresa Berganza (1933–2022), Spanish opera singer · Teresa Brewer (1931–2007), American pop and jazz singer · Teresa Came...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: next.co.uk  
-   Link: <a href="https://www.next.co.uk/shop/brand-self-0" target="_blank" rel="noopener noreferrer nofollow">https://www.next.co.uk/shop/brand-self-0</a>  
+   Link:<a href="https://www.next.co.uk/shop/brand-self-0" target="_blank" rel="noopener noreferrer nofollow">https://www.next.co.uk/shop/brand-self-0</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: simplypsychology.org  
    Title: self determination theory  
-   Link: <a href="https://www.simplypsychology.org/self-determination-theory.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/self-determination-theory.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory Of Motivation1 Apr 2026 — The term self-determination refers to a person&#x27;s own ability to manage themselves, to...</p></details>
+   Link:<a href="https://www.simplypsychology.org/self-determination-theory.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/self-determination-theory.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory Of Motivation1 Apr 2026 — The term self-determination refers to a person&#x27;s own ability to manage themselves, to...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sciencedirect.com  
    Title: Sources of Self-efficacy  
-   Link: <a href="https://www.sciencedirect.com/topics/social-sciences/sources-of-self-efficacy" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/social-sciences/sources-of-self-efficacy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>an overviewAccording to Bandura, self-efficacy can arise from four sources—mastery of experiences, vicarious experiences, social or verba...</p></details>
+   Link:<a href="https://www.sciencedirect.com/topics/social-sciences/sources-of-self-efficacy" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/social-sciences/sources-of-self-efficacy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>an overviewAccording to Bandura, self-efficacy can arise from four sources—mastery of experiences, vicarious experiences, social or verba...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Teresa Amabile  
-   Link: <a href="https://www.youtube.com/watch?v=-v9c8Q4lfKs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-v9c8Q4lfKs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Progress PrincipleThe Progress Principle: How Small Wins Boost Motivation and Happiness at Work... research on motivation and emotio...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-v9c8Q4lfKs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-v9c8Q4lfKs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Progress PrincipleThe Progress Principle: How Small Wins Boost Motivation and Happiness at Work... research on motivation and emotio...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: progressprinciple.com  
    Title: Teresa amabile  
-   Link: <a href="https://progressprinciple.com/" target="_blank" rel="noopener noreferrer nofollow">https://progressprinciple.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Her books include Retiring: Creating a Life That Works for You and The Progress Principle: Using Small Wins to Ignite Joy, Engagement, an...</p></details>
+   Link:<a href="https://progressprinciple.com/" target="_blank" rel="noopener noreferrer nofollow">https://progressprinciple.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Her books include Retiring: Creating a Life That Works for You and The Progress Principle: Using Small Wins to Ignite Joy, Engagement, an...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: psychologywriting.com  
-   Link: <a href="https://psychologywriting.com/experiences-to-enhance-self-efficacy/" target="_blank" rel="noopener noreferrer nofollow">https://psychologywriting.com/experiences-to-enhance-self-efficacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Experiences to Enhance Self-EfficacyBandura identified mastery experiences as the most significant motivator of self-efficacy among the f...</p></details>
+   Link:<a href="https://psychologywriting.com/experiences-to-enhance-self-efficacy/" target="_blank" rel="noopener noreferrer nofollow">https://psychologywriting.com/experiences-to-enhance-self-efficacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Experiences to Enhance Self-EfficacyBandura identified mastery experiences as the most significant motivator of self-efficacy among the f...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: helloitsdanielle.com  
-   Link: <a href="https://helloitsdanielle.com/blogs/news/the-power-of-small-wins" target="_blank" rel="noopener noreferrer nofollow">https://helloitsdanielle.com/blogs/news/the-power-of-small-wins</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of Small WinsHer studies found that making progress, even in tiny increments, is one of the most powerful motivators. This is k...</p></details>
+   Link:<a href="https://helloitsdanielle.com/blogs/news/the-power-of-small-wins" target="_blank" rel="noopener noreferrer nofollow">https://helloitsdanielle.com/blogs/news/the-power-of-small-wins</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of Small WinsHer studies found that making progress, even in tiny increments, is one of the most powerful motivators. This is k...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: open.ncl.ac.uk  
-   Link: <a href="https://open.ncl.ac.uk/academic-theories/30/self-efficacy-theory/" target="_blank" rel="noopener noreferrer nofollow">https://open.ncl.ac.uk/academic-theories/30/self-efficacy-theory/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TheoryHubSelf-Efficacy TheoryThe theory posits that self-efficacy is influenced by four primary sources: mastery experiences, vicarious e...</p></details>
+   Link:<a href="https://open.ncl.ac.uk/academic-theories/30/self-efficacy-theory/" target="_blank" rel="noopener noreferrer nofollow">https://open.ncl.ac.uk/academic-theories/30/self-efficacy-theory/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TheoryHubSelf-Efficacy TheoryThe theory posits that self-efficacy is influenced by four primary sources: mastery experiences, vicarious e...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: fuelingcreativitypodcast.com  
-   Link: <a href="https://fuelingcreativitypodcast.com/the-value-of-small-wins-and-the-progress-principle-with-dr-teresa-amabile-part-two" target="_blank" rel="noopener noreferrer nofollow">https://fuelingcreativitypodcast.com/the-value-of-small-wins-and-the-progress-principle-with-dr-teresa-amabile-part-two</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Amabile shares insights from her research involving R&amp;D teams at corporations, revealing how a positive inner work life, driven by progress...</p></details>
+   Link:<a href="https://fuelingcreativitypodcast.com/the-value-of-small-wins-and-the-progress-principle-with-dr-teresa-amabile-part-two" target="_blank" rel="noopener noreferrer nofollow">https://fuelingcreativitypodcast.com/the-value-of-small-wins-and-the-progress-principle-with-dr-teresa-amabile-part-two</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Amabile shares insights from her research involving R&amp;D teams at corporations, revealing how a positive inner work life, driven by progress...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cambridge.org  
    Title: University Press & Assessment Self-Efficacy Interventions (Chapter 32)  
-   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/selfefficacy-interventions/D4EC41A2F16CB6171058C5B00AE575AB" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/selfefficacy-interventions/D4EC41A2F16CB6171058C5B00AE575AB</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentSelf-Efficacy Interventions (Chapter 32) - The Handbook of...Bandura posits that guided mastery e...</p></details>
+   Link:<a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/selfefficacy-interventions/D4EC41A2F16CB6171058C5B00AE575AB" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/selfefficacy-interventions/D4EC41A2F16CB6171058C5B00AE575AB</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentSelf-Efficacy Interventions (Chapter 32) - The Handbook of...Bandura posits that guided mastery e...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/11490001_The_theory_and_measurement_of_the_self-efficacy_construct" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/11490001_The_theory_and_measurement_of_the_self-efficacy_construct</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-efficacy is influenced by four important sources of information: performance...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/11490001_The_theory_and_measurement_of_the_self-efficacy_construct" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/11490001_The_theory_and_measurement_of_the_self-efficacy_construct</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-efficacy is influenced by four important sources of information: performance...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: uvi.edu  
    Title: National Self Determination Richard Ryan and Edward Deci  
-   Link: <a href="https://www.uvi.edu/files/documents/College_of_Liberal_Arts_and_Social_Sciences/social_sciences/OSDCD/National_Self_Determination_Richard_Ryan_and_Edward_Deci.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uvi.edu/files/documents/College_of_Liberal_Arts_and_Social_Sciences/social_sciences/OSDCD/National_Self_Determination_Richard_Ryan_and_Edward_Deci.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory and the Facilitation of Intrinsic...by RM Ryan · 2000 · Cited by 88300 — Accumulated research now suggests tha...</p></details>
+   Link:<a href="https://www.uvi.edu/files/documents/College_of_Liberal_Arts_and_Social_Sciences/social_sciences/OSDCD/National_Self_Determination_Richard_Ryan_and_Edward_Deci.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.uvi.edu/files/documents/College_of_Liberal_Arts_and_Social_Sciences/social_sciences/OSDCD/National_Self_Determination_Richard_Ryan_and_Edward_Deci.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory and the Facilitation of Intrinsic...by RM Ryan · 2000 · Cited by 88300 — Accumulated research now suggests tha...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/381567340_A_systematic_review_and_meta-analysis_of_self-determination-theory-based_interventions_in_the_education_context" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/381567340_A_systematic_review_and_meta-analysis_of_self-determination-theory-based_interventions_in_the_education_context</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>autonomy, competence, and relatedness, which are highly relevant in SRL...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/381567340_A_systematic_review_and_meta-analysis_of_self-determination-theory-based_interventions_in_the_education_context" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/381567340_A_systematic_review_and_meta-analysis_of_self-determination-theory-based_interventions_in_the_education_context</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>autonomy, competence, and relatedness, which are highly relevant in SRL...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: verywellmind.com  
-   Link: <a href="https://www.verywellmind.com/what-is-self-efficacy-2795954" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/what-is-self-efficacy-2795954</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>iences,&quot; Bandura explained.1 Performing a task successfully strengthens...Read more...</p></details>
+   Link:<a href="https://www.verywellmind.com/what-is-self-efficacy-2795954" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/what-is-self-efficacy-2795954</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>iences,&quot; Bandura explained.1 Performing a task successfully strengthens...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: positivepsychology.com  
    Title: How to Improve Self-Efficacy: 4 Science Based Ways1  
-   Link: <a href="https://positivepsychology.com/3-ways-build-self-efficacy/" target="_blank" rel="noopener noreferrer nofollow">https://positivepsychology.com/3-ways-build-self-efficacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mastery Experiences. Among the four sources of self-efficacy, Bandura identified mastery experiences as the most powerful driver of self...</p></details>
+   Link:<a href="https://positivepsychology.com/3-ways-build-self-efficacy/" target="_blank" rel="noopener noreferrer nofollow">https://positivepsychology.com/3-ways-build-self-efficacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mastery Experiences. Among the four sources of self-efficacy, Bandura identified mastery experiences as the most powerful driver of self...</p></details>

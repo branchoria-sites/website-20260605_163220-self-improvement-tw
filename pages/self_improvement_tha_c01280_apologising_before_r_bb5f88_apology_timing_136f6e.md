@@ -268,14 +268,14 @@ image: /assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_ap
 
 ## Introduction
 
-A common mistake in relationship repair is assuming that faster is always better. It is true that waiting too long can allow resentment to harden, but research suggests that an apology offered before the other person feels heard can be surprisingly ineffective. The most useful timing is often neither immediate nor delayed for its own sake. It is early enough to show responsibility, yet slow enough to allow the injured person to express what happened and how it affected them. The central question is not “How quickly can I say sorry?” but “What does this moment need to move towards repair?” Studies on apology timing, conflict discussions, and forgiveness consistently point to the same principle: people respond better when accountability is paired with understanding. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://oamonitor.ireland.openaire.eu/rfo/sfi_rfo/search/publication?pid=10.1080%2F10570314.2013.770160" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oamonitor.ireland.openaire.eu">[OA Monitor Ireland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oamonitor.ireland.openaire.eu</span><span class="citation-popover-snippet">OA Monitor IrelandEffects of Timing and Sincerity of an Apology on Satisfaction...Using attribution theory, this study examined the effe...</span></span></span>
+A common mistake in relationship repair is assuming that faster is always better. It is true that waiting too long can allow resentment to harden, but research suggests that an apology offered before the other person feels heard can be surprisingly ineffective. The most useful timing is often neither immediate nor delayed for its own sake. It is early enough to show responsibility, yet slow enough to allow the injured person to express what happened and how it affected them. The central question is not “How quickly can I say sorry?” but “What does this moment need to move towards repair?” Studies on apology timing, conflict discussions, and forgiveness consistently point to the same principle: people respond better when accountability is paired with understanding. ScienceDirect<span class="citation-chip-wrap"><a class="citation-chip" href="https://oamonitor.ireland.openaire.eu/rfo/sfi_rfo/search/publication?pid=10.1080%2F10570314.2013.770160" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oamonitor.ireland.openaire.eu">[OA Monitor Ireland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oamonitor.ireland.openaire.eu</span><span class="citation-popover-snippet">OA Monitor IrelandEffects of Timing and Sincerity of an Apology on Satisfaction...Using attribution theory, this study examined the effe...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_apology_timing_136f6e-Illustration-1-dark.svg" | relative_url }}" alt="Timing illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_apology_timing_136f6e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_apology_timing_136f6e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## When a Quick Apology Prevents Escalation
 
 Some situations benefit from an immediate apology because the harm is obvious and the facts are not in dispute. If you interrupt someone, forget a commitment, make a cutting remark, or react defensively, a prompt acknowledgement can stop a small injury from becoming a larger argument.
 
-In these moments, the apology serves as a repair attempt. Relationship researcher John Gottman describes repair attempts as actions that interrupt escalating negativity and help people return to a more constructive conversation. Successful repair attempts are strongly associated with healthier relationships because they prevent conflicts from spiralling into mutual defensiveness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gottman.com/blog/make-repair-attempts-partner-feels-loved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gottman.com">[The Gottman Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gottman.com</span><span class="citation-popover-title">make repair attempts partner feels loved</span><span class="citation-popover-snippet">The Gottman InstituteHow to Make Repair Attempts So Your Partner Feels Loved17 Mar 2017 — A repair attempt is any statement or action — v...</span></span></span>
+In these moments, the apology serves as a repair attempt. Relationship researcher John Gottman describes repair attempts as actions that interrupt escalating negativity and help people return to a more constructive conversation. Successful repair attempts are strongly associated with healthier relationships because they prevent conflicts from spiralling into mutual defensiveness.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gottman.com/blog/make-repair-attempts-partner-feels-loved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gottman.com">[The Gottman Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gottman.com</span><span class="citation-popover-title">make repair attempts partner feels loved</span><span class="citation-popover-snippet">The Gottman InstituteHow to Make Repair Attempts So Your Partner Feels Loved17 Mar 2017 — A repair attempt is any statement or action — v...</span></span></span>
 
 A quick apology is especially useful when:
 
@@ -292,7 +292,7 @@ For example:
 
 > “I'm sorry I snapped at you. That wasn't fair.”
 
-That sentence does not settle every issue, but it signals responsibility before the injured person has to fight for recognition. Research on forgiveness and trust repair suggests that [apologies]({{ 'apologies/' | relative_url }}) improve outcomes when they communicate relationship value and demonstrate concern for the harmed person rather than self-protection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8222305/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralExperimental evidence that apologies promote forgiveness by...by DE Forster · 2021 · Cited by 39 — These interference effe...</span></span></span>
+That sentence does not settle every issue, but it signals responsibility before the injured person has to fight for recognition. Research on forgiveness and trust repair suggests that [apologies]({{ 'apologies/' | relative_url }}) improve outcomes when they communicate relationship value and demonstrate concern for the harmed person rather than self-protection.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8222305/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralExperimental evidence that apologies promote forgiveness by...by DE Forster · 2021 · Cited by 39 — These interference effe...</span></span></span>
 
 The key distinction is that a quick apology should open the conversation, not close it. It says, “I see that I hurt you,” not “Now we can move on.”
 
@@ -302,7 +302,7 @@ The key distinction is that a quick apology should open the conversation, not cl
 
 Many apologies fail because they arrive before understanding. The speaker becomes uncomfortable, apologises immediately, and then expects the emotional discomfort to disappear.
 
-Research on apology timing found that later apologies were often judged more effective than earlier ones because recipients had a greater opportunity to feel heard and understood. The benefit did not come from delay itself; it came from the experience of being listened to before the apology arrived. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0022103104001167" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Better late than early: The influence of timing on apology...by CMP Frantz · 2005 · Cited by 697 — The results showed that...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/222331911_Better_Late_Than_Early_The_Influence_of_Timing_on_Apology_Effectiveness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Better Late Than Early: The Influence of Timing on Apology...The results showed that later apologies were more effective than earlier on...</span></span></span>
+Research on apology timing found that later apologies were often judged more effective than earlier ones because recipients had a greater opportunity to feel heard and understood. The benefit did not come from delay itself; it came from the experience of being listened to before the apology arrived.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0022103104001167" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Better late than early: The influence of timing on apology...by CMP Frantz · 2005 · Cited by 697 — The results showed that...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/222331911_Better_Late_Than_Early_The_Influence_of_Timing_on_Apology_Effectiveness" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Better Late Than Early: The Influence of Timing on Apology...The results showed that later apologies were more effective than earlier on...</span></span></span>
 
 This explains why some apologies trigger irritation rather than relief.
 
@@ -324,7 +324,7 @@ A rushed apology often carries one of three hidden messages:
 
 </div>
 
-People are remarkably sensitive to these signals. Studies of conflict discussions in couples show that feeling understood plays a significant role in communication satisfaction and emotional recovery after disagreements. Timing and sincerity matter partly because they influence whether the recipient feels genuinely understood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oamonitor.ireland.openaire.eu/rfo/sfi_rfo/search/publication?pid=10.1080%2F10570314.2013.770160" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oamonitor.ireland.openaire.eu">[OA Monitor Ireland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oamonitor.ireland.openaire.eu</span><span class="citation-popover-snippet">OA Monitor IrelandEffects of Timing and Sincerity of an Apology on Satisfaction...Using attribution theory, this study examined the effe...</span></span></span>
+People are remarkably sensitive to these signals. Studies of conflict discussions in couples show that feeling understood plays a significant role in communication satisfaction and emotional recovery after disagreements. Timing and sincerity matter partly because they influence whether the recipient feels genuinely understood.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oamonitor.ireland.openaire.eu/rfo/sfi_rfo/search/publication?pid=10.1080%2F10570314.2013.770160" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oamonitor.ireland.openaire.eu">[OA Monitor Ireland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oamonitor.ireland.openaire.eu</span><span class="citation-popover-snippet">OA Monitor IrelandEffects of Timing and Sincerity of an Apology on Satisfaction...Using attribution theory, this study examined the effe...</span></span></span>
 
 Signs that listening should come before apologising include:
 
@@ -365,7 +365,7 @@ A productive sequence often looks like this:
 
 </div>
 
-Research on apology effectiveness repeatedly shows that acknowledgement of harm and demonstrated understanding increase the likelihood that an apology will be accepted. Victims respond more positively when they believe the offender understands what the offence meant to them, not merely that a rule was broken. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0022103104001167" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Better late than early: The influence of timing on apology...by CMP Frantz · 2005 · Cited by 697 — The results showed that...</span></span></span>
+Research on apology effectiveness repeatedly shows that acknowledgement of harm and demonstrated understanding increase the likelihood that an apology will be accepted. Victims respond more positively when they believe the offender understands what the offence meant to them, not merely that a rule was broken.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0022103104001167" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Better late than early: The influence of timing on apology...by CMP Frantz · 2005 · Cited by 697 — The results showed that...</span></span></span>
 
 For example:
 
@@ -373,7 +373,7 @@ For example:
 
 Compared with an immediate “Sorry about that,” the second version arrives slightly later but carries much more evidence that the speaker understands the injury.
 
-This is one reason timing can be counterintuitive. A brief period of listening may actually make the eventual apology feel earlier in an emotional sense because it reaches the real wound rather than merely the surface event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0022103104001167" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Better late than early: The influence of timing on apology...by CMP Frantz · 2005 · Cited by 697 — The results showed that...</span></span></span>
+This is one reason timing can be counterintuitive. A brief period of listening may actually make the eventual apology feel earlier in an emotional sense because it reaches the real wound rather than merely the surface event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0022103104001167" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Better late than early: The influence of timing on apology...by CMP Frantz · 2005 · Cited by 697 — The results showed that...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1xBCYkvoMAg" title="How to Heal and Process a Fight - The Gottmans Act it out" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1xBCYkvoMAg" target="_blank" rel="noopener noreferrer">How to Heal and Process a Fight - The Gottmans Act it out</a></p><p class="youtube-embed-meta">Channel: The Gottman Institute &middot; Views: 46.1K &middot; Uploaded: October 2025 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1xBCYkvoMAg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1xBCYkvoMAg">Open on YouTube</a></p></div></div></div>
 
@@ -396,274 +396,274 @@ This approach avoids the two extremes that commonly damage repair efforts:
 * Waiting so long that the apology feels reluctant.
 * Apologising so quickly that the person feels unheard.
 
-The most effective timing balances urgency with curiosity. It communicates, “I am taking responsibility now, and I am willing to stay long enough to understand the impact.” Research on apology timing, forgiveness, and conflict repair suggests that this combination—accountability plus understanding—is what makes an apology feel like care rather than a strategy for ending discomfort. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gottman.com/blog/make-repair-attempts-partner-feels-loved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gottman.com">[The Gottman Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gottman.com</span><span class="citation-popover-title">make repair attempts partner feels loved</span><span class="citation-popover-snippet">The Gottman InstituteHow to Make Repair Attempts So Your Partner Feels Loved17 Mar 2017 — A repair attempt is any statement or action — v...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0022103104001167" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Better late than early: The influence of timing on apology...by CMP Frantz · 2005 · Cited by 697 — The results showed that...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://oamonitor.ireland.openaire.eu/rfo/sfi_rfo/search/publication?pid=10.1080%2F10570314.2013.770160" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oamonitor.ireland.openaire.eu">[OA Monitor Ireland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oamonitor.ireland.openaire.eu</span><span class="citation-popover-snippet">OA Monitor IrelandEffects of Timing and Sincerity of an Apology on Satisfaction...Using attribution theory, this study examined the effe...</span></span></span>
+The most effective timing balances urgency with curiosity. It communicates, “I am taking responsibility now, and I am willing to stay long enough to understand the impact.” Research on apology timing, forgiveness, and conflict repair suggests that this combination—accountability plus understanding—is what makes an apology feel like care rather than a strategy for ending discomfort.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gottman.com/blog/make-repair-attempts-partner-feels-loved/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gottman.com">[The Gottman Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gottman.com</span><span class="citation-popover-title">make repair attempts partner feels loved</span><span class="citation-popover-snippet">The Gottman InstituteHow to Make Repair Attempts So Your Partner Feels Loved17 Mar 2017 — A repair attempt is any statement or action — v...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0022103104001167" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Better late than early: The influence of timing on apology...by CMP Frantz · 2005 · Cited by 697 — The results showed that...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://oamonitor.ireland.openaire.eu/rfo/sfi_rfo/search/publication?pid=10.1080%2F10570314.2013.770160" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oamonitor.ireland.openaire.eu">[OA Monitor Ireland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oamonitor.ireland.openaire.eu</span><span class="citation-popover-snippet">OA Monitor IrelandEffects of Timing and Sincerity of an Apology on Satisfaction...Using attribution theory, this study examined the effe...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_apology_timing_136f6e-Illustration-3-dark.svg" | relative_url }}" alt="Timing illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_apology_timing_136f6e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_apologising_before_r_bb5f88_apology_timing_136f6e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Should You Apologise Now or Listen First?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Should You Apologise Now or Listen First?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Crucial+Conversations+by+Kerry+Patterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crucial Conversations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PibJN5XVQRkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Crucial Conversations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Crucial+Conversations+by+Kerry+Patterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crucial Conversations">Crucial Conversations</a>
-        </h4>
-        <p class="fr-book-author">By Kerry Patterson, Joseph Grenny et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Crucial+Conversations+by+Kerry+Patterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crucial Conversations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PibJN5XVQRkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Crucial Conversations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Crucial+Conversations+by+Kerry+Patterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crucial Conversations">Crucial Conversations</a>
+</h4>
+<p class="fr-book-author">By Kerry Patterson, Joseph Grenny et al.</p>
         
-        <p class="fr-book-desc">Helps readers judge when to speak and when to listen.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Crucial+Conversations+by+Kerry+Patterson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers judge when to speak and when to listen.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Crucial+Conversations+by+Kerry+Patterson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Difficult+Conversations+by+Douglas+Stone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Difficult Conversations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UEOLDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Difficult Conversations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Difficult+Conversations+by+Douglas+Stone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Difficult Conversations">Difficult Conversations</a>
-        </h4>
-        <p class="fr-book-author">By Douglas Stone, Bruce Patton et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Difficult+Conversations+by+Douglas+Stone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Difficult Conversations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UEOLDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Difficult Conversations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Difficult+Conversations+by+Douglas+Stone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Difficult Conversations">Difficult Conversations</a>
+</h4>
+<p class="fr-book-author">By Douglas Stone, Bruce Patton et al.</p>
         
-        <p class="fr-book-desc">Addresses timing, listening, and understanding.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Difficult+Conversations+by+Douglas+Stone&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses timing, listening, and understanding.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Difficult+Conversations+by+Douglas+Stone&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Nonviolent+Communication+by+Marshall+B.+Rosenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nonviolent Communication on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bTgQrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Nonviolent Communication" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Nonviolent+Communication+by+Marshall+B.+Rosenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nonviolent Communication">Nonviolent Communication</a>
-        </h4>
-        <p class="fr-book-author">By Marshall B. Rosenberg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Nonviolent+Communication+by+Marshall+B.+Rosenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nonviolent Communication on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bTgQrgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Nonviolent Communication" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Nonviolent+Communication+by+Marshall+B.+Rosenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nonviolent Communication">Nonviolent Communication</a>
+</h4>
+<p class="fr-book-author">By Marshall B. Rosenberg</p>
         
-        <p class="fr-book-desc">Balances acknowledgement with empathy and listening.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Nonviolent+Communication+by+Marshall+B.+Rosenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Balances acknowledgement with empathy and listening.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Nonviolent+Communication+by+Marshall+B.+Rosenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Five+Languages+of+Apology+by+Gary+Chapman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Five Languages of Apology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wHtyN-sIP1EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Five Languages of Apology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Five+Languages+of+Apology+by+Gary+Chapman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Five Languages of Apology">The Five Languages of Apology</a>
-        </h4>
-        <p class="fr-book-author">By Gary Chapman, Jennifer M. Thomas</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Five+Languages+of+Apology+by+Gary+Chapman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Five Languages of Apology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wHtyN-sIP1EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Five Languages of Apology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Five+Languages+of+Apology+by+Gary+Chapman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Five Languages of Apology">The Five Languages of Apology</a>
+</h4>
+<p class="fr-book-author">By Gary Chapman, Jennifer M. Thomas</p>
         
-        <p class="fr-book-desc">Discusses what makes apologies effective.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Five+Languages+of+Apology+by+Gary+Chapman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses what makes apologies effective.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Five+Languages+of+Apology+by+Gary+Chapman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Crucial+Conversations&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crucial Conversations</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Difficult+Conversations&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Difficult Conversations</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Nonviolent+Communication&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nonviolent Communication</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Crucial+Conversations&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crucial Conversations</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Difficult+Conversations&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Difficult Conversations</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Nonviolent+Communication&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nonviolent Communication</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Gym Banner - Inspirational Wall Art - Weightlifting Decor"><img src="{{ '/assets/images/marketplace-covers/ab5fbbf23d54058e8082.jpg' | relative_url }}" alt="Listing image for Motivational Gym Banner - Inspirational Wall Art - Weightlifting Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Gym Banner - Inspirational Wall Art - Weightlifting Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for inspirational wall art">Search <span data-ebay-domain-label>eBay.com</span>: inspirational wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Gym Banner - Inspirational Wall Art - Weightlifting Decor"><img src="{{ '/assets/images/marketplace-covers/ab5fbbf23d54058e8082.jpg' | relative_url }}" alt="Listing image for Motivational Gym Banner - Inspirational Wall Art - Weightlifting Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Gym Banner - Inspirational Wall Art - Weightlifting Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for inspirational wall art">Search<span data-ebay-domain-label>eBay.com</span>: inspirational wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3 Piece Motivational Classroom Canvas Wall Art Set Inspirational Quote Posters"><img src="{{ '/assets/images/marketplace-covers/39c621405b3bc81083a2.jpg' | relative_url }}" alt="Listing image for 3 Piece Motivational Classroom Canvas Wall Art Set Inspirational Quote Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">3 Piece Motivational Classroom Canvas Wall Art Set Inspirational Quote Posters</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for inspirational wall art">Search <span data-ebay-domain-label>eBay.com</span>: inspirational wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3 Piece Motivational Classroom Canvas Wall Art Set Inspirational Quote Posters"><img src="{{ '/assets/images/marketplace-covers/39c621405b3bc81083a2.jpg' | relative_url }}" alt="Listing image for 3 Piece Motivational Classroom Canvas Wall Art Set Inspirational Quote Posters" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">3 Piece Motivational Classroom Canvas Wall Art Set Inspirational Quote Posters</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for inspirational wall art">Search<span data-ebay-domain-label>eBay.com</span>: inspirational wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Positive Affirmations Inspirational Boho Sunshine Wall Art Decor,Inspirational A"><img src="{{ '/assets/images/marketplace-covers/42a7c4f79cf30722c7f6.jpg' | relative_url }}" alt="Listing image for Positive Affirmations Inspirational Boho Sunshine Wall Art Decor,Inspirational A" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Positive Affirmations Inspirational Boho Sunshine Wall Art Decor,Inspirational A</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for inspirational wall art">Search <span data-ebay-domain-label>eBay.com</span>: inspirational wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Positive Affirmations Inspirational Boho Sunshine Wall Art Decor,Inspirational A"><img src="{{ '/assets/images/marketplace-covers/42a7c4f79cf30722c7f6.jpg' | relative_url }}" alt="Listing image for Positive Affirmations Inspirational Boho Sunshine Wall Art Decor,Inspirational A" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Positive Affirmations Inspirational Boho Sunshine Wall Art Decor,Inspirational A</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for inspirational wall art">Search<span data-ebay-domain-label>eBay.com</span>: inspirational wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mike Tyson Boxing Quote Poster – Inspirational Gym Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/bf24b18cd7728352aeff.jpg' | relative_url }}" alt="Listing image for Mike Tyson Boxing Quote Poster – Inspirational Gym Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Mike Tyson Boxing Quote Poster – Inspirational Gym Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for inspirational wall art">Search <span data-ebay-domain-label>eBay.com</span>: inspirational wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mike Tyson Boxing Quote Poster – Inspirational Gym Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/bf24b18cd7728352aeff.jpg' | relative_url }}" alt="Listing image for Mike Tyson Boxing Quote Poster – Inspirational Gym Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Mike Tyson Boxing Quote Poster – Inspirational Gym Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for inspirational wall art">Search<span data-ebay-domain-label>eBay.com</span>: inspirational wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Muhammad Ali Dream Motivational Quote Canvas Wall Art Picture Print"><img src="{{ '/assets/images/marketplace-covers/c420d04fa46cf995b7dc.jpg' | relative_url }}" alt="Listing image for Muhammad Ali Dream Motivational Quote Canvas Wall Art Picture Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Muhammad Ali Dream Motivational Quote Canvas Wall Art Picture Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Muhammad Ali Dream Motivational Quote Canvas Wall Art Picture Print"><img src="{{ '/assets/images/marketplace-covers/c420d04fa46cf995b7dc.jpg' | relative_url }}" alt="Listing image for Muhammad Ali Dream Motivational Quote Canvas Wall Art Picture Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Muhammad Ali Dream Motivational Quote Canvas Wall Art Picture Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rocky Motivational Quote Canvas Wall Art Picture Print"><img src="{{ '/assets/images/marketplace-covers/f40c97414ab72f71986c.jpg' | relative_url }}" alt="Listing image for Rocky Motivational Quote Canvas Wall Art Picture Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Rocky Motivational Quote Canvas Wall Art Picture Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rocky Motivational Quote Canvas Wall Art Picture Print"><img src="{{ '/assets/images/marketplace-covers/f40c97414ab72f71986c.jpg' | relative_url }}" alt="Listing image for Rocky Motivational Quote Canvas Wall Art Picture Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Rocky Motivational Quote Canvas Wall Art Picture Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rudyard Kipling IF Poem Canvas Wall Art Framed Motivational Quote Print Decor"><img src="{{ '/assets/images/marketplace-covers/3e3353db022f6bf74f7a.jpg' | relative_url }}" alt="Listing image for Rudyard Kipling IF Poem Canvas Wall Art Framed Motivational Quote Print Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Rudyard Kipling IF Poem Canvas Wall Art Framed Motivational Quote Print Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rudyard Kipling IF Poem Canvas Wall Art Framed Motivational Quote Print Decor"><img src="{{ '/assets/images/marketplace-covers/3e3353db022f6bf74f7a.jpg' | relative_url }}" alt="Listing image for Rudyard Kipling IF Poem Canvas Wall Art Framed Motivational Quote Print Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Rudyard Kipling IF Poem Canvas Wall Art Framed Motivational Quote Print Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/72cf51fc129cd58e3c35.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/72cf51fc129cd58e3c35.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-should-you-apologise-now-or-listen-first-self-improvement-that-works-motivational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -679,7 +679,7 @@ The most effective timing balances urgency with curiosity. It communicates, “I
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -699,7 +699,7 @@ The most effective timing balances urgency with curiosity. It communicates, “I
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -731,7 +731,7 @@ The most effective timing balances urgency with curiosity. It communicates, “I
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -761,7 +761,7 @@ The most effective timing balances urgency with curiosity. It communicates, “I
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -819,139 +819,139 @@ The most effective timing balances urgency with curiosity. It communicates, “I
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0022103104001167" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0022103104001167</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Better late than early: The influence of timing on apology...by CMP Frantz · 2005 · Cited by 697 — The results showed that...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0022103104001167" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0022103104001167</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Better late than early: The influence of timing on apology...by CMP Frantz · 2005 · Cited by 697 — The results showed that...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: time.com  
    Title: 5 key components of a good apology  
-   Link: <a href="https://time.com/3161274/5-key-components-of-a-good-apology/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/3161274/5-key-components-of-a-good-apology/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>29 Aug 2014 — Timing is crucial — and faster is not better. People need to feel they are heard and understood so a delayed apology is act...</p></details>
+   Link:<a href="https://time.com/3161274/5-key-components-of-a-good-apology/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/3161274/5-key-components-of-a-good-apology/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>29 Aug 2014 — Timing is crucial — and faster is not better. People need to feel they are heard and understood so a delayed apology is act...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: gottman.com  
    Title: make repair attempts partner feels loved  
-   Link: <a href="https://www.gottman.com/blog/make-repair-attempts-partner-feels-loved/" target="_blank" rel="noopener noreferrer nofollow">https://www.gottman.com/blog/make-repair-attempts-partner-feels-loved/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Gottman InstituteHow to Make Repair Attempts So Your Partner Feels Loved17 Mar 2017 — A repair attempt is any statement or action — v...</p></details>
+   Link:<a href="https://www.gottman.com/blog/make-repair-attempts-partner-feels-loved/" target="_blank" rel="noopener noreferrer nofollow">https://www.gottman.com/blog/make-repair-attempts-partner-feels-loved/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Gottman InstituteHow to Make Repair Attempts So Your Partner Feels Loved17 Mar 2017 — A repair attempt is any statement or action — v...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/222331911_Better_Late_Than_Early_The_Influence_of_Timing_on_Apology_Effectiveness" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/222331911_Better_Late_Than_Early_The_Influence_of_Timing_on_Apology_Effectiveness</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Better Late Than Early: The Influence of Timing on Apology...The results showed that later apologies were more effective than earlier on...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/222331911_Better_Late_Than_Early_The_Influence_of_Timing_on_Apology_Effectiveness" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/222331911_Better_Late_Than_Early_The_Influence_of_Timing_on_Apology_Effectiveness</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Better Late Than Early: The Influence of Timing on Apology...The results showed that later apologies were more effective than earlier on...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/263444715_Effects_of_Timing_and_Sincerity_of_an_Apology_on_Satisfaction_and_Changes_in_Negative_Feelings_During_Conflicts" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/263444715_Effects_of_Timing_and_Sincerity_of_an_Apology_on_Satisfaction_and_Changes_in_Negative_Feelings_During_Conflicts</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Effects of Timing and Sincerity of an Apology on...Mar 4, 2016 — This study examined the effects of apology timing, apology sincer...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/263444715_Effects_of_Timing_and_Sincerity_of_an_Apology_on_Satisfaction_and_Changes_in_Negative_Feelings_During_Conflicts" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/263444715_Effects_of_Timing_and_Sincerity_of_an_Apology_on_Satisfaction_and_Changes_in_Negative_Feelings_During_Conflicts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Effects of Timing and Sincerity of an Apology on...Mar 4, 2016 — This study examined the effects of apology timing, apology sincer...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0749597810000403" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0749597810000403</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How matching apology components to victims&#x27; self...by R Fehr · 2010 · Cited by 505 — The present research begins to address...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0749597810000403" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0749597810000403</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How matching apology components to victims&#x27; self...by R Fehr · 2010 · Cited by 505 — The present research begins to address...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: gottman.com  
    Title: the art of the mindful apology why sorry is not enough  
-   Link: <a href="https://www.gottman.com/blog/the-art-of-the-mindful-apology-why-sorry-is-not-enough/" target="_blank" rel="noopener noreferrer nofollow">https://www.gottman.com/blog/the-art-of-the-mindful-apology-why-sorry-is-not-enough/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This is a process of compassionate communication that takes two of you, not just the one who messed up.Read more...</p></details>
+   Link:<a href="https://www.gottman.com/blog/the-art-of-the-mindful-apology-why-sorry-is-not-enough/" target="_blank" rel="noopener noreferrer nofollow">https://www.gottman.com/blog/the-art-of-the-mindful-apology-why-sorry-is-not-enough/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This is a process of compassionate communication that takes two of you, not just the one who messed up.Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: gottman.com  
    Title: how we used the aftermath of a fight to repair our relationship  
-   Link: <a href="https://www.gottman.com/blog/how-we-used-the-aftermath-of-a-fight-to-repair-our-relationship/" target="_blank" rel="noopener noreferrer nofollow">https://www.gottman.com/blog/how-we-used-the-aftermath-of-a-fight-to-repair-our-relationship/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How We Used the Aftermath of a Fight to Repair Our...9 Jan 2019 — As John Gottman&#x27;s research has shown, it&#x27;s not you fight about that ma...</p></details>
+   Link:<a href="https://www.gottman.com/blog/how-we-used-the-aftermath-of-a-fight-to-repair-our-relationship/" target="_blank" rel="noopener noreferrer nofollow">https://www.gottman.com/blog/how-we-used-the-aftermath-of-a-fight-to-repair-our-relationship/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How We Used the Aftermath of a Fight to Repair Our...9 Jan 2019 — As John Gottman&#x27;s research has shown, it&#x27;s not you fight about that ma...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: gottman.com  
    Title: r is for repair  
-   Link: <a href="https://www.gottman.com/blog/r-is-for-repair/" target="_blank" rel="noopener noreferrer nofollow">https://www.gottman.com/blog/r-is-for-repair/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Sept 2014 — The Good and Bad of Resilience... Resilience can carry a couple through almost anything. The &quot;almost&quot; matters more than it...</p></details>
+   Link:<a href="https://www.gottman.com/blog/r-is-for-repair/" target="_blank" rel="noopener noreferrer nofollow">https://www.gottman.com/blog/r-is-for-repair/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 Sept 2014 — The Good and Bad of Resilience... Resilience can carry a couple through almost anything. The &quot;almost&quot; matters more than it...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: gottman.com  
    Title: its not my fault why defensiveness is damaging  
-   Link: <a href="https://www.gottman.com/blog/its-not-my-fault-why-defensiveness-is-damaging/" target="_blank" rel="noopener noreferrer nofollow">https://www.gottman.com/blog/its-not-my-fault-why-defensiveness-is-damaging/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;It&#x27;s Not My Fault!&#x27;: Why Defensiveness is DamagingMar 31, 2022 — Defensiveness is the &quot;horsemen&quot; that escalates conflict. See why it hur...</p></details>
+   Link:<a href="https://www.gottman.com/blog/its-not-my-fault-why-defensiveness-is-damaging/" target="_blank" rel="noopener noreferrer nofollow">https://www.gottman.com/blog/its-not-my-fault-why-defensiveness-is-damaging/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;It&#x27;s Not My Fault!&#x27;: Why Defensiveness is DamagingMar 31, 2022 — Defensiveness is the &quot;horsemen&quot; that escalates conflict. See why it hur...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/398326385_Are_Apologies_Always_the_Best_Policy_Apologies_for_Service_Failures_Backfire_When_Consumers_Are_Not_Aware_of_the_Failure" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398326385_Are_Apologies_Always_the_Best_Policy_Apologies_for_Service_Failures_Backfire_When_Consumers_Are_Not_Aware_of_the_Failure</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Are Apologies Always the Best Policy...15 May 2026 — Five experiments, including a large-scale field experiment, demonstrate that apolog...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/398326385_Are_Apologies_Always_the_Best_Policy_Apologies_for_Service_Failures_Backfire_When_Consumers_Are_Not_Aware_of_the_Failure" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398326385_Are_Apologies_Always_the_Best_Policy_Apologies_for_Service_Failures_Backfire_When_Consumers_Are_Not_Aware_of_the_Failure</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Are Apologies Always the Best Policy...15 May 2026 — Five experiments, including a large-scale field experiment, demonstrate that apolog...</p></details>
    Published: May 2026  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: oamonitor.ireland.openaire.eu  
-   Link: <a href="https://oamonitor.ireland.openaire.eu/rfo/sfi_rfo/search/publication?pid=10.1080%2F10570314.2013.770160" target="_blank" rel="noopener noreferrer nofollow">https://oamonitor.ireland.openaire.eu/rfo/sfi_rfo/search/publication?pid=10.1080%2F10570314.2013.770160</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OA Monitor IrelandEffects of Timing and Sincerity of an Apology on Satisfaction...Using attribution theory, this study examined the effe...</p></details>
+   Link:<a href="https://oamonitor.ireland.openaire.eu/rfo/sfi_rfo/search/publication?pid=10.1080%2F10570314.2013.770160" target="_blank" rel="noopener noreferrer nofollow">https://oamonitor.ireland.openaire.eu/rfo/sfi_rfo/search/publication?pid=10.1080%2F10570314.2013.770160</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OA Monitor IrelandEffects of Timing and Sincerity of an Apology on Satisfaction...Using attribution theory, this study examined the effe...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8222305/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8222305/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralExperimental evidence that apologies promote forgiveness by...by DE Forster · 2021 · Cited by 39 — These interference effe...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8222305/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8222305/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralExperimental evidence that apologies promote forgiveness by...by DE Forster · 2021 · Cited by 39 — These interference effe...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/GottmanInstitute/posts/its-tough-to-find-the-right-words-after-a-stressful-period-of-time-or-after-an-a/315972080577800/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GottmanInstitute/posts/its-tough-to-find-the-right-words-after-a-stressful-period-of-time-or-after-an-a/315972080577800/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Gottman InstituteIt’s tough to find the right words after a stressful period of time or after an argument, but repair attempts are ke...</p></details>
+   Link:<a href="https://www.facebook.com/GottmanInstitute/posts/its-tough-to-find-the-right-words-after-a-stressful-period-of-time-or-after-an-a/315972080577800/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GottmanInstitute/posts/its-tough-to-find-the-right-words-after-a-stressful-period-of-time-or-after-an-a/315972080577800/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Gottman InstituteIt’s tough to find the right words after a stressful period of time or after an argument, but repair attempts are ke...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/GottmanInstitute/posts/making-amends-takes-more-than-an-apology-it-takes-deep-listening-emotional-attun/1141655488009451/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GottmanInstitute/posts/making-amends-takes-more-than-an-apology-it-takes-deep-listening-emotional-attun/1141655488009451/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Gottman InstituteMaking amends takes more than an apology, it takes deep listening, emotional attunement, and a commitment to rebuild...</p></details>
+   Link:<a href="https://www.facebook.com/GottmanInstitute/posts/making-amends-takes-more-than-an-apology-it-takes-deep-listening-emotional-attun/1141655488009451/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GottmanInstitute/posts/making-amends-takes-more-than-an-apology-it-takes-deep-listening-emotional-attun/1141655488009451/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Gottman InstituteMaking amends takes more than an apology, it takes deep listening, emotional attunement, and a commitment to rebuild...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: couplestherapyinc.com  
-   Link: <a href="https://couplestherapyinc.com/gottman-repair-attempts/" target="_blank" rel="noopener noreferrer nofollow">https://couplestherapyinc.com/gottman-repair-attempts/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gottman Repair AttemptsLearning to fight well and repair relationship conflicts before they spiral out of control is a skill. It&#x27;s one of...</p></details>
+   Link:<a href="https://couplestherapyinc.com/gottman-repair-attempts/" target="_blank" rel="noopener noreferrer nofollow">https://couplestherapyinc.com/gottman-repair-attempts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gottman Repair AttemptsLearning to fight well and repair relationship conflicts before they spiral out of control is a skill. It&#x27;s one of...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: mylifepsychologists.com.au  
-   Link: <a href="https://mylifepsychologists.com.au/relationship-conflict-the-art-of-repair/" target="_blank" rel="noopener noreferrer nofollow">https://mylifepsychologists.com.au/relationship-conflict-the-art-of-repair/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Relationship Conflict: The Art of RepairAccording to Dr John Gottman, a renowned relationships researcher, repair attempts are the “happy...</p></details>
+   Link:<a href="https://mylifepsychologists.com.au/relationship-conflict-the-art-of-repair/" target="_blank" rel="noopener noreferrer nofollow">https://mylifepsychologists.com.au/relationship-conflict-the-art-of-repair/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Relationship Conflict: The Art of RepairAccording to Dr John Gottman, a renowned relationships researcher, repair attempts are the “happy...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/top-content/communication/building-trust-with-apologies/the-impact-of-apologizing-thoughtfully/" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/top-content/communication/building-trust-with-apologies/the-impact-of-apologizing-thoughtfully/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Impact of Apologizing ThoughtfullyWhat happens when apologies never come: → Trust erodes in silence → People stop bringing up problem...</p></details>
+   Link:<a href="https://www.linkedin.com/top-content/communication/building-trust-with-apologies/the-impact-of-apologizing-thoughtfully/" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/top-content/communication/building-trust-with-apologies/the-impact-of-apologizing-thoughtfully/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Impact of Apologizing ThoughtfullyWhat happens when apologies never come: → Trust erodes in silence → People stop bringing up problem...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: apa.org  
-   Link: <a href="https://www.apa.org/news/podcasts/speaking-of-psychology/apologize" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/news/podcasts/speaking-of-psychology/apologize</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationWhy you should apologize even when it&#x27;s hard to, with...Karina Schumann, PhD, discusses why apologies...</p></details>
+   Link:<a href="https://www.apa.org/news/podcasts/speaking-of-psychology/apologize" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/news/podcasts/speaking-of-psychology/apologize</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationWhy you should apologize even when it&#x27;s hard to, with...Karina Schumann, PhD, discusses why apologies...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
    Title: couples who make repair attempts are both willing to admit responsibility for th  
-   Link: <a href="https://www.facebook.com/GottmanInstitute/posts/couples-who-make-repair-attempts-are-both-willing-to-admit-responsibility-for-th/679488920892779/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GottmanInstitute/posts/couples-who-make-repair-attempts-are-both-willing-to-admit-responsibility-for-th/679488920892779/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Couples who make repair attempts are both willing to admit...Couples who make repair attempts are both willing to admit responsibility f...</p></details>
+   Link:<a href="https://www.facebook.com/GottmanInstitute/posts/couples-who-make-repair-attempts-are-both-willing-to-admit-responsibility-for-th/679488920892779/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GottmanInstitute/posts/couples-who-make-repair-attempts-are-both-willing-to-admit-responsibility-for-th/679488920892779/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Couples who make repair attempts are both willing to admit...Couples who make repair attempts are both willing to admit responsibility f...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: psychologicalscience.org  
-   Link: <a href="https://www.psychologicalscience.org/news/tact-tone-and-timing-the-power-of-apology.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/news/tact-tone-and-timing-the-power-of-apology.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tact, Tone And Timing: The Power Of Apology5 Jun 2013 — NPR: An effective apology involves a delicate balance between tact, tone and timing...</p></details>
+   Link:<a href="https://www.psychologicalscience.org/news/tact-tone-and-timing-the-power-of-apology.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/news/tact-tone-and-timing-the-power-of-apology.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tact, Tone And Timing: The Power Of Apology5 Jun 2013 — NPR: An effective apology involves a delicate balance between tact, tone and timing...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: bakadesuyo.com  
-   Link: <a href="https://bakadesuyo.com/2012/07/you-screwed-up-what-are-the-four-secrets-to-a/" target="_blank" rel="noopener noreferrer nofollow">https://bakadesuyo.com/2012/07/you-screwed-up-what-are-the-four-secrets-to-a/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Acknowledge that you did it. 2. Explain what happened. 3. Express remorse. 4. Repair the...Read more...</p></details>
+   Link:<a href="https://bakadesuyo.com/2012/07/you-screwed-up-what-are-the-four-secrets-to-a/" target="_blank" rel="noopener noreferrer nofollow">https://bakadesuyo.com/2012/07/you-screwed-up-what-are-the-four-secrets-to-a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Acknowledge that you did it. 2. Explain what happened. 3. Express remorse. 4. Repair the...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: internationalforgiveness.com  
    Title: the role of emotional validation in apologies and forgiveness  
-   Link: <a href="https://internationalforgiveness.com/2025/03/17/the-role-of-emotional-validation-in-apologies-and-forgiveness/" target="_blank" rel="noopener noreferrer nofollow">https://internationalforgiveness.com/2025/03/17/the-role-of-emotional-validation-in-apologies-and-forgiveness/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of Emotional Validation in Apologies and...17 Mar 2025 — Emotional validation plays an essential role in healing by acknowledgi...</p></details>
+   Link:<a href="https://internationalforgiveness.com/2025/03/17/the-role-of-emotional-validation-in-apologies-and-forgiveness/" target="_blank" rel="noopener noreferrer nofollow">https://internationalforgiveness.com/2025/03/17/the-role-of-emotional-validation-in-apologies-and-forgiveness/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Role of Emotional Validation in Apologies and...17 Mar 2025 — Emotional validation plays an essential role in healing by acknowledgi...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: howcommunicationworks.com  
    Title: relationship communication john gottmans repair attempts  
-   Link: <a href="https://www.howcommunicationworks.com/blog/2021/1/4/relationship-communication-john-gottmans-repair-attempts" target="_blank" rel="noopener noreferrer nofollow">https://www.howcommunicationworks.com/blog/2021/1/4/relationship-communication-john-gottmans-repair-attempts</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Relationship Communication: John Gottman&#x27;s Repair...4 Jan 2021 — I&#x27;m going to give you a list of exact phrases you can use to repair the...</p></details>
+   Link:<a href="https://www.howcommunicationworks.com/blog/2021/1/4/relationship-communication-john-gottmans-repair-attempts" target="_blank" rel="noopener noreferrer nofollow">https://www.howcommunicationworks.com/blog/2021/1/4/relationship-communication-john-gottmans-repair-attempts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Relationship Communication: John Gottman&#x27;s Repair...4 Jan 2021 — I&#x27;m going to give you a list of exact phrases you can use to repair the...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: lakemichigandates.com  
-   Link: <a href="https://www.lakemichigandates.com/blog/gottman-repair-4-steps-to-apology" target="_blank" rel="noopener noreferrer nofollow">https://www.lakemichigandates.com/blog/gottman-repair-4-steps-to-apology</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Gottman Apology for Travel: 4 Steps to Repair After Conflict22 Oct 2025 — The Gottman apology is a structured way of repairing after...</p></details>
+   Link:<a href="https://www.lakemichigandates.com/blog/gottman-repair-4-steps-to-apology" target="_blank" rel="noopener noreferrer nofollow">https://www.lakemichigandates.com/blog/gottman-repair-4-steps-to-apology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Gottman Apology for Travel: 4 Steps to Repair After Conflict22 Oct 2025 — The Gottman apology is a structured way of repairing after...</p></details>

@@ -268,7 +268,7 @@ image: /assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_make
 
 ## Introduction
 
-A goal feels more chosen when it is connected to reasons you genuinely endorse, pursued through methods that leave room for meaningful choice, and described in language that supports commitment rather than pressure. Research in self-determination theory suggests that people sustain effort more effectively when they experience autonomy—a sense that their actions are willingly endorsed rather than imposed. Importantly, a chosen goal does not have to be pleasant or easy. Revision, rehabilitation exercises, [saving]({{ 'saving/' | relative_url }}) money, or training for a race can all feel demanding while still feeling personally worthwhile. The difference is whether you can honestly say, “I choose this because it matters to me,” rather than “I have to do this because I’ll feel guilty if I do not.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.self.inc/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: self.inc">[self]</a><span class="citation-popover" role="note"><span class="citation-popover-source">self.inc</span><span class="citation-popover-snippet">Build Credit, Build Savings and Access CashBuild credit and savings with Self. The Credit Builder Account and Self Visa® Credit Ca...</span></span></span> -Determination Theory
+A goal feels more chosen when it is connected to reasons you genuinely endorse, pursued through methods that leave room for meaningful choice, and described in language that supports commitment rather than pressure. Research in self-determination theory suggests that people sustain effort more effectively when they experience autonomy—a sense that their actions are willingly endorsed rather than imposed. Importantly, a chosen goal does not have to be pleasant or easy. Revision, rehabilitation exercises, [saving]({{ 'saving/' | relative_url }}) money, or training for a race can all feel demanding while still feeling personally worthwhile. The difference is whether you can honestly say, “I choose this because it matters to me,” rather than “I have to do this because I’ll feel guilty if I do not.”<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.self.inc/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: self.inc">[self]</a><span class="citation-popover" role="note"><span class="citation-popover-source">self.inc</span><span class="citation-popover-snippet">Build Credit, Build Savings and Access CashBuild credit and savings with Self. The Credit Builder Account and Self Visa® Credit Ca...</span></span></span> -Determination Theory
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_make_goals_feel_chos_6b2cd5-Illustration-1-dark.svg" | relative_url }}" alt="Chosen Goals illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_make_goals_feel_chos_6b2cd5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_make_goals_feel_chos_6b2cd5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within self-improvement, making a goal feel more chosen is often less about changing the target and more about changing the relationship to the target. The aim is not to eliminate discipline but to strengthen ownership.
@@ -277,7 +277,7 @@ Within self-improvement, making a goal feel more chosen is often less about chan
 
 Many goals begin as borrowed ambitions. A person decides to get fit because it seems socially desirable, earn a qualification because others expect it, or start a side project because successful people appear to do the same. These goals may produce short bursts of effort, but they often become fragile when [motivation]({{ 'motivation/' | relative_url }}) drops.
 
-Research on self-concordant goals shows that people invest more sustained effort when goals align with their interests and core values. That sustained effort increases the likelihood of attainment and contributes to greater wellbeing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Goal striving, need satisfaction, and longitudinal well-beingby KM Sheldon · 1999 · Cited by 4375 — First, those pursuing self-conc...</span></span></span>
+Research on self-concordant goals shows that people invest more sustained effort when goals align with their interests and core values. That sustained effort increases the likelihood of attainment and contributes to greater wellbeing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Goal striving, need satisfaction, and longitudinal well-beingby KM Sheldon · 1999 · Cited by 4375 — First, those pursuing self-conc...</span></span></span>
 
 A practical way to increase ownership is to repeatedly ask why the goal matters until the answer becomes personal rather than performative.
 
@@ -305,7 +305,7 @@ These statements sound similar but create different motivational experiences:
 * “I exercise because I value having energy and mobility.”
 * “I exercise because I should be fitter.”
 
-The first reflects identified value. The second reflects pressure. Self-determination theory describes identified regulation as a form of motivation where a person recognises and accepts the personal importance of an activity, even when the activity itself is not especially enjoyable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://open.ncl.ac.uk/theories/20/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.ncl.ac.uk">[TheoryHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.ncl.ac.uk</span><span class="citation-popover-title">self determination theory</span><span class="citation-popover-snippet">TheoryHubSelf-Determination Theory: A review14 Mar 2026 — Identified regulation is a form of extrinsic motivation in SDT where an individ...</span></span></span>
+The first reflects identified value. The second reflects pressure. Self-determination theory describes identified regulation as a form of motivation where a person recognises and accepts the personal importance of an activity, even when the activity itself is not especially enjoyable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://open.ncl.ac.uk/theories/20/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.ncl.ac.uk">[TheoryHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.ncl.ac.uk</span><span class="citation-popover-title">self determination theory</span><span class="citation-popover-snippet">TheoryHubSelf-Determination Theory: A review14 Mar 2026 — Identified regulation is a form of extrinsic motivation in SDT where an individ...</span></span></span>
 
 When a goal feels stale, the problem is often not the goal itself but the fact that the original value connection has become buried beneath layers of obligation.
 
@@ -315,7 +315,7 @@ When a goal feels stale, the problem is often not the goal itself but the fact t
 
 Many people assume that commitment requires removing choice. In reality, autonomy tends to increase when people retain control over how a goal is pursued.
 
-Research on autonomy-supportive environments consistently finds that providing meaningful choices strengthens motivation and engagement. Choice does not mean unlimited freedom; it means having options within a clear structure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://stial.ie/resources/Ryan%20and%20Deci%202020%20self%20determination%20theory.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stial.ie">[Stial]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stial.ie</span><span class="citation-popover-title">Ryan and Deci 2020 self determination theory</span><span class="citation-popover-snippet">SDT suggests that when students experience a sense of choice they feel.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/08295735211055355" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsApplying Self-Determination Theory to Educationby F Guay · 2022 · Cited by 796 — Autonomy-supportive behaviors encompass beh...</span></span></span>
+Research on autonomy-supportive environments consistently finds that providing meaningful choices strengthens motivation and engagement. Choice does not mean unlimited freedom; it means having options within a clear structure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://stial.ie/resources/Ryan%20and%20Deci%202020%20self%20determination%20theory.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stial.ie">[Stial]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stial.ie</span><span class="citation-popover-title">Ryan and Deci 2020 self determination theory</span><span class="citation-popover-snippet">SDT suggests that when students experience a sense of choice they feel.Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/08295735211055355" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsApplying Self-Determination Theory to Educationby F Guay · 2022 · Cited by 796 — Autonomy-supportive behaviors encompass beh...</span></span></span>
 
 A useful principle is to keep the destination stable while allowing flexibility in the route.
 
@@ -348,7 +348,7 @@ Choice is particularly valuable in three areas:
 
 **Intensity choice.** On difficult days, allowing a smaller version of the behaviour can prevent the all-or-nothing thinking that makes goals feel imposed.
 
-Research on autonomy-supportive communication has found that opportunities for choice often have stronger motivational effects than wording changes alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jmir.org/2019/10/e14074/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">Identifying the Most Autonomy-Supportive Message Frame...by ES Smit · 2019 · Cited by 37 — Conclusions: Results suggest that provisi...</span></span></span>
+Research on autonomy-supportive communication has found that opportunities for choice often have stronger motivational effects than wording changes alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jmir.org/2019/10/e14074/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">Identifying the Most Autonomy-Supportive Message Frame...by ES Smit · 2019 · Cited by 37 — Conclusions: Results suggest that provisi...</span></span></span>
 
 The key is that the choices must be real. Offering fake choices that all lead to the same outcome rarely creates a genuine sense of ownership.
 
@@ -358,7 +358,7 @@ The key is that the choices must be real. Offering fake choices that all lead to
 
 The way a goal is described influences how it feels.
 
-Controlling language signals pressure: <span class="citation-chip-wrap"><a class="citation-chip" href="https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yukaichou.com">[yukaichou.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yukaichou.com</span><span class="citation-popover-snippet">Self-Determination Theory: All 6 Mini-TheoriesMay 6, 2026 — Replace controlling language with autonomy-supportive language...</span><span class="citation-popover-meta">Published: May 6, 2026</span></span></span>
+Controlling language signals pressure:<span class="citation-chip-wrap"><a class="citation-chip" href="https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yukaichou.com">[yukaichou.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yukaichou.com</span><span class="citation-popover-snippet">Self-Determination Theory: All 6 Mini-TheoriesMay 6, 2026 — Replace controlling language with autonomy-supportive language...</span><span class="citation-popover-meta">Published: May 6, 2026</span></span></span>
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -369,7 +369,7 @@ Controlling language signals pressure: <span class="citation-chip-wrap"><a class
 
 </div>
 
-Autonomy-supportive language signals endorsement: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jmir.org/2019/10/e14074/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[jmir.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">Identifying the Most Autonomy-Supportive Message Frame...by ES Smit · 2019 · Cited by 37 — Conclusions: Results suggest that provisi...</span></span></span>
+Autonomy-supportive language signals endorsement:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jmir.org/2019/10/e14074/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[jmir.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">Identifying the Most Autonomy-Supportive Message Frame...by ES Smit · 2019 · Cited by 37 — Conclusions: Results suggest that provisi...</span></span></span>
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -380,7 +380,7 @@ Autonomy-supportive language signals endorsement: <span class="citation-chip-wra
 
 </div>
 
-Research within self-determination theory has repeatedly found that controlling environments increase feelings of pressure and tension, while autonomy-supportive approaches are associated with greater engagement and intrinsic motivation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.self.inc/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: self.inc">[self]</a><span class="citation-popover" role="note"><span class="citation-popover-source">self.inc</span><span class="citation-popover-snippet">Build Credit, Build Savings and Access CashBuild credit and savings with Self. The Credit Builder Account and Self Visa® Credit Ca...</span></span></span> -Determination Theory ScienceDirect This does not mean pretending difficult tasks are enjoyable. A more effective approach is acknowledging the difficulty while reaffirming the <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0742051X24002348" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Learning how to become an autonomy-supportive teacher...by J Reeve · 2024 · Cited by 51 — First, a self-determination theory model of te...</span></span></span> value.
+Research within self-determination theory has repeatedly found that controlling environments increase feelings of pressure and tension, while autonomy-supportive approaches are associated with greater engagement and intrinsic motivation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.self.inc/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: self.inc">[self]</a><span class="citation-popover" role="note"><span class="citation-popover-source">self.inc</span><span class="citation-popover-snippet">Build Credit, Build Savings and Access CashBuild credit and savings with Self. The Credit Builder Account and Self Visa® Credit Ca...</span></span></span> -Determination Theory ScienceDirect This does not mean pretending difficult tasks are enjoyable. A more effective approach is acknowledging the difficulty while reaffirming the<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0742051X24002348" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Learning how to become an autonomy-supportive teacher...by J Reeve · 2024 · Cited by 51 — First, a self-determination theory model of te...</span></span></span> value.
 
 For example:
 
@@ -407,7 +407,7 @@ The behaviour often stays the same. The psychological experience changes.
 
 ## A Chosen Goal Still Includes Effort
 
-One common misunderstanding is that a chosen goal should feel easy. Research on internalisation suggests the opposite. People frequently adopt goals that are demanding, repetitive, or uncomfortable because they see them as personally important. The crucial factor is not [enjoyment]({{ 'enjoyment/' | relative_url }}) but endorsement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Goal striving, need satisfaction, and longitudinal well-beingby KM Sheldon · 1999 · Cited by 4375 — First, those pursuing self-conc...</span></span></span>
+One common misunderstanding is that a chosen goal should feel easy. Research on internalisation suggests the opposite. People frequently adopt goals that are demanding, repetitive, or uncomfortable because they see them as personally important. The crucial factor is not [enjoyment]({{ 'enjoyment/' | relative_url }}) but endorsement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Goal striving, need satisfaction, and longitudinal well-beingby KM Sheldon · 1999 · Cited by 4375 — First, those pursuing self-conc...</span></span></span>
 
 Someone training for a marathon may dislike early morning runs. A student may not enjoy every revision session. A person recovering from injury may find rehabilitation tedious. Yet these actions can still feel autonomous because the individual accepts the purpose behind them.
 
@@ -437,194 +437,194 @@ A goal is becoming more chosen when:
 Self-improvement works best when goals are not merely imposed targets but commitments that reflect personal values. The more clearly a goal is connected to who you want to be and why you care, the less it feels like a burden handed to you by circumstance and the more it feels like a direction you have deliberately chosen.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How to make a goal feel like yours. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How to make a goal feel like yours. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Drive+by+Daniel+H.+Pink&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=pYc-DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Drive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Drive+by+Daniel+H.+Pink&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drive">Drive</a>
-        </h4>
-        <p class="fr-book-author">By Daniel H. Pink</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Drive+by+Daniel+H.+Pink&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=pYc-DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Drive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Drive+by+Daniel+H.+Pink&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drive">Drive</a>
+</h4>
+<p class="fr-book-author">By Daniel H. Pink</p>
         
-        <p class="fr-book-desc">Explains autonomy and self-directed motivation, closely matching the idea of making goals feel personally chosen.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Drive+by+Daniel+H.+Pink&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains autonomy and self-directed motivation, closely matching the idea of making goals feel personally chosen.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Drive+by+Daniel+H.+Pink&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Carol S. Dweck</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
-        <p class="fr-book-desc">Supports competence and growth through small wins.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
+</h4>
+<p class="fr-book-author">By Carol S. Dweck</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
+<p class="fr-book-desc">Supports competence and growth through small wins.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Shows how to align habits and systems with identity, increasing ownership of goals.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Shows how to align habits and systems with identity, increasing ownership of goals.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Start+with+Why+by+Simon+Sinek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Start with Why on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fkOKDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Start with Why" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Start+with+Why+by+Simon+Sinek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Start with Why">Start with Why</a>
-        </h4>
-        <p class="fr-book-author">By Simon Sinek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Start+with+Why+by+Simon+Sinek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Start with Why on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fkOKDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Start with Why" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Start+with+Why+by+Simon+Sinek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Start with Why">Start with Why</a>
+</h4>
+<p class="fr-book-author">By Simon Sinek</p>
         
-        <p class="fr-book-desc">Helps readers connect actions and goals to deeper personal reasons.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Start+with+Why+by+Simon+Sinek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers connect actions and goals to deeper personal reasons.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Start+with+Why+by+Simon+Sinek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Drive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drive</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Drive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drive</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-goal-feel-like-yours-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="how-to-make-a-goal-feel-like-yours-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bruce Lee &quot;Be Like Water&quot; Motivational Poster | Wall Art Print A3 A4"><img src="https://i.ebayimg.com/images/g/8NwAAeSw8lxodhJn/s-l225.jpg" alt="Listing image for Bruce Lee &quot;Be Like Water&quot; Motivational Poster | Wall Art Print A3 A4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-goal-feel-like-yours-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="how-to-make-a-goal-feel-like-yours-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">Bruce Lee &quot;Be Like Water&quot; Motivational Poster | Wall Art Print A3 A4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-goal-feel-like-yours-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="how-to-make-a-goal-feel-like-yours-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-goal-feel-like-yours-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="how-to-make-a-goal-feel-like-yours-motivational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-goal-feel-like-yours-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="how-to-make-a-goal-feel-like-yours-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bruce Lee &quot;Be Like Water&quot; Motivational Poster | Wall Art Print A3 A4"><img src="https://i.ebayimg.com/images/g/8NwAAeSw8lxodhJn/s-l225.jpg" alt="Listing image for Bruce Lee &quot;Be Like Water&quot; Motivational Poster | Wall Art Print A3 A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-goal-feel-like-yours-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="how-to-make-a-goal-feel-like-yours-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">Bruce Lee &quot;Be Like Water&quot; Motivational Poster | Wall Art Print A3 A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-goal-feel-like-yours-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="how-to-make-a-goal-feel-like-yours-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-goal-feel-like-yours-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="how-to-make-a-goal-feel-like-yours-motivational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-goal-feel-like-yours-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="how-to-make-a-goal-feel-like-yours-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="https://i.ebayimg.com/images/g/TAMAAeSw3iFoo0of/s-l225.jpg" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-goal-feel-like-yours-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="how-to-make-a-goal-feel-like-yours-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-goal-feel-like-yours-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="how-to-make-a-goal-feel-like-yours-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-goal-feel-like-yours-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="how-to-make-a-goal-feel-like-yours-motivational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-goal-feel-like-yours-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="how-to-make-a-goal-feel-like-yours-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="https://i.ebayimg.com/images/g/TAMAAeSw3iFoo0of/s-l225.jpg" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-goal-feel-like-yours-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="how-to-make-a-goal-feel-like-yours-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-goal-feel-like-yours-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="how-to-make-a-goal-feel-like-yours-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-goal-feel-like-yours-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="how-to-make-a-goal-feel-like-yours-motivational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-goal-feel-like-yours-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="how-to-make-a-goal-feel-like-yours-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="https://i.ebayimg.com/images/g/30gAAeSwmSdopb7Q/s-l225.jpg" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-goal-feel-like-yours-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="how-to-make-a-goal-feel-like-yours-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-goal-feel-like-yours-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="how-to-make-a-goal-feel-like-yours-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-goal-feel-like-yours-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="how-to-make-a-goal-feel-like-yours-motivational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-goal-feel-like-yours-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="how-to-make-a-goal-feel-like-yours-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="https://i.ebayimg.com/images/g/30gAAeSwmSdopb7Q/s-l225.jpg" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-goal-feel-like-yours-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="how-to-make-a-goal-feel-like-yours-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-goal-feel-like-yours-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="how-to-make-a-goal-feel-like-yours-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-goal-feel-like-yours-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="how-to-make-a-goal-feel-like-yours-motivational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-goal-feel-like-yours-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="how-to-make-a-goal-feel-like-yours-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="https://i.ebayimg.com/images/g/XM8AAeSw3gJopJi8/s-l225.jpg" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-goal-feel-like-yours-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="how-to-make-a-goal-feel-like-yours-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-goal-feel-like-yours-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="how-to-make-a-goal-feel-like-yours-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-goal-feel-like-yours-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="how-to-make-a-goal-feel-like-yours-motivational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-goal-feel-like-yours-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="how-to-make-a-goal-feel-like-yours-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-goal-feel-like-yours-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="how-to-make-a-goal-feel-like-yours-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="https://i.ebayimg.com/images/g/XM8AAeSw3gJopJi8/s-l225.jpg" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-goal-feel-like-yours-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="how-to-make-a-goal-feel-like-yours-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-goal-feel-like-yours-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="how-to-make-a-goal-feel-like-yours-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-goal-feel-like-yours-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="how-to-make-a-goal-feel-like-yours-motivational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-make-a-goal-feel-like-yours-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="how-to-make-a-goal-feel-like-yours-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -640,7 +640,7 @@ Self-improvement works best when goals are not merely imposed targets but commit
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -660,7 +660,7 @@ Self-improvement works best when goals are not merely imposed targets but commit
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -692,7 +692,7 @@ Self-improvement works best when goals are not merely imposed targets but commit
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -744,7 +744,7 @@ Self-improvement works best when goals are not merely imposed targets but commit
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -789,7 +789,7 @@ Self-improvement works best when goals are not merely imposed targets but commit
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -830,129 +830,129 @@ Self-improvement works best when goals are not merely imposed targets but commit
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: stial.ie  
    Title: Ryan and Deci 2020 self determination theory  
-   Link: <a href="https://stial.ie/resources/Ryan%20and%20Deci%202020%20self%20determination%20theory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stial.ie/resources/Ryan%20and%20Deci%202020%20self%20determination%20theory.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SDT suggests that when students experience a sense of choice they feel.Read more...</p></details>
+   Link:<a href="https://stial.ie/resources/Ryan%20and%20Deci%202020%20self%20determination%20theory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stial.ie/resources/Ryan%20and%20Deci%202020%20self%20determination%20theory.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SDT suggests that when students experience a sense of choice they feel.Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: jmir.org  
-   Link: <a href="https://www.jmir.org/2019/10/e14074/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2019/10/e14074/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying the Most Autonomy-Supportive Message Frame...by ES Smit · 2019 · Cited by 37 — Conclusions: Results suggest that provisi...</p></details>
+   Link:<a href="https://www.jmir.org/2019/10/e14074/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2019/10/e14074/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying the Most Autonomy-Supportive Message Frame...by ES Smit · 2019 · Cited by 37 — Conclusions: Results suggest that provisi...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0742051X24002348" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0742051X24002348</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning how to become an autonomy-supportive teacher...by J Reeve · 2024 · Cited by 51 — First, a self-determination theory model of te...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0742051X24002348" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0742051X24002348</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Learning how to become an autonomy-supportive teacher...by J Reeve · 2024 · Cited by 51 — First, a self-determination theory model of te...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: self.inc  
-   Link: <a href="https://www.self.inc/" target="_blank" rel="noopener noreferrer nofollow">https://www.self.inc/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Build Credit, Build Savings and Access CashBuild credit and savings with Self. The Credit Builder Account and Self Visa® Credit Ca...</p></details>
+   Link:<a href="https://www.self.inc/" target="_blank" rel="noopener noreferrer nofollow">https://www.self.inc/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Build Credit, Build Savings and Access CashBuild credit and savings with Self. The Credit Builder Account and Self Visa® Credit Ca...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0361476X20300254" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0361476X20300254</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Intrinsic and extrinsic motivation from a self-determination...by RM Ryan · 2020 · Cited by 10215 — SDT is a broad framework for underst...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0361476X20300254" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0361476X20300254</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Intrinsic and extrinsic motivation from a self-determination...by RM Ryan · 2020 · Cited by 10215 — SDT is a broad framework for underst...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/org/science/article/pii/S1462373021000158" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S1462373021000158</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Goal Self-Concordance Model: What Have We Learned...by P Wan · 2021 · Cited by 15 — Goal self-concordance reflects self-generated person...</p></details>
+   Link:<a href="https://www.sciencedirect.com/org/science/article/pii/S1462373021000158" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S1462373021000158</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goal Self-Concordance Model: What Have We Learned...by P Wan · 2021 · Cited by 15 — Goal self-concordance reflects self-generated person...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0191886916301477" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0191886916301477</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Some goals just feel easier: Self-concordance leads to...by KM Werner · 2016 · Cited by 211 — Research has found that pursuing self-conc...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0191886916301477" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0191886916301477</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Some goals just feel easier: Self-concordance leads to...by KM Werner · 2016 · Cited by 211 — Research has found that pursuing self-conc...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sciencedirect.com  
    Title: Self-Determination Theory  
-   Link: <a href="https://www.sciencedirect.com/topics/social-sciences/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/social-sciences/self-determination-theory</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>an overviewIdentified regulation reflects a more internalized form of extrinsic motivation whereby individuals understand the value of th...</p></details>
+   Link:<a href="https://www.sciencedirect.com/topics/social-sciences/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/social-sciences/self-determination-theory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>an overviewIdentified regulation reflects a more internalized form of extrinsic motivation whereby individuals understand the value of th...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/10101878/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Goal striving, need satisfaction, and longitudinal well-beingby KM Sheldon · 1999 · Cited by 4375 — First, those pursuing self-conc...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/10101878/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/10101878/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goal striving, need satisfaction, and longitudinal well-beingby KM Sheldon · 1999 · Cited by 4375 — First, those pursuing self-conc...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: open.ncl.ac.uk  
    Title: self determination theory  
-   Link: <a href="https://open.ncl.ac.uk/theories/20/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://open.ncl.ac.uk/theories/20/self-determination-theory/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TheoryHubSelf-Determination Theory: A review14 Mar 2026 — Identified regulation is a form of extrinsic motivation in SDT where an individ...</p></details>
+   Link:<a href="https://open.ncl.ac.uk/theories/20/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://open.ncl.ac.uk/theories/20/self-determination-theory/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TheoryHubSelf-Determination Theory: A review14 Mar 2026 — Identified regulation is a form of extrinsic motivation in SDT where an individ...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/08295735211055355" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/08295735211055355</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsApplying Self-Determination Theory to Educationby F Guay · 2022 · Cited by 796 — Autonomy-supportive behaviors encompass beh...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/08295735211055355" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/08295735211055355</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsApplying Self-Determination Theory to Educationby F Guay · 2022 · Cited by 796 — Autonomy-supportive behaviors encompass beh...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/11392867/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govSelf-determination theory and the facilitation of intrinsic...Research guided by self-determination theory has focused on the soc...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/11392867/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govSelf-determination theory and the facilitation of intrinsic...Research guided by self-determination theory has focused on the soc...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/8169757/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/8169757/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Facilitating internalization: the self-determination theory...by EL Deci · 1994 · Cited by 4810 — Self-determination theory (Deci...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/8169757/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/8169757/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Facilitating internalization: the self-determination theory...by EL Deci · 1994 · Cited by 4810 — Self-determination theory (Deci...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Self" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Self</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SelfIn philosophy, the self is an individual&#x27;s own being, knowledge, and values, and the relationship between these attributes. The fi...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Self" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Self</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SelfIn philosophy, the self is an individual&#x27;s own being, knowledge, and values, and the relationship between these attributes. The fi...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/11946306_Self-Determination_Theory_and_the_Facilitation_of_Intrinsic_Motivation_Social_Development_and_Well-Being" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/11946306_Self-Determination_Theory_and_the_Facilitation_of_Intrinsic_Motivation_Social_Development_and_Well-Being</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory and the Facilitation of Intrinsic...11 Nov 2025 — Self-regulation is analyzed in terms of self-determination t...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/11946306_Self-Determination_Theory_and_the_Facilitation_of_Intrinsic_Motivation_Social_Development_and_Well-Being" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/11946306_Self-Determination_Theory_and_the_Facilitation_of_Intrinsic_Motivation_Social_Development_and_Well-Being</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory and the Facilitation of Intrinsic...11 Nov 2025 — Self-regulation is analyzed in terms of self-determination t...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: selfdeterminationtheory.org  
-   Link: <a href="https://selfdeterminationtheory.org/research/autonomy-supportive-practices/" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/research/autonomy-supportive-practices/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomy-Supportive Practices – Page ArrayExploring the pathways through which teacher [support](&amp;#123;&amp;#123; &#x27;support/&#x27; | relative_url &amp;#125;&amp;#125;) predicts changes in students&#x27; academic cop...</p></details>
+   Link:<a href="https://selfdeterminationtheory.org/research/autonomy-supportive-practices/" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/research/autonomy-supportive-practices/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomy-Supportive Practices – Page ArrayExploring the pathways through which teacher [support](&amp;#123;&amp;#123; &#x27;support/&#x27; | relative_url &amp;#125;&amp;#125;) predicts changes in students&#x27; academic cop...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/self" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/self</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SELF Definition &amp; Meaning1. a (1): an individual&#x27;s typical character or behavior her true self was revealed (2): an individual&#x27;s tempor...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/self" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/self</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SELF Definition &amp; Meaning1. a (1): an individual&#x27;s typical character or behavior her true self was revealed (2): an individual&#x27;s tempor...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/CRedit/comments/161z70h/self_credit_builder/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/CRedit/comments/161z70h/self_credit_builder/</a>  
+   Link:<a href="https://www.reddit.com/r/CRedit/comments/161z70h/self_credit_builder/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/CRedit/comments/161z70h/self_credit_builder/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=_juPDoa3GBY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_juPDoa3GBY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory ExplainedSelf-determination Theory argues that we do what we do because we are motivated by three basic needs t...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_juPDoa3GBY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_juPDoa3GBY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory ExplainedSelf-determination Theory argues that we do what we do because we are motivated by three basic needs t...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: selfdeterminationtheory.org  
-   Link: <a href="https://selfdeterminationtheory.org/wp-content/uploads/2021/05/2021_ReeveCheon_AutonomySupportive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2021/05/2021_ReeveCheon_AutonomySupportive.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>mpirical findings, researchers have developed and implemented numerous teacher-focused and...Read more...</p></details>
+   Link:<a href="https://selfdeterminationtheory.org/wp-content/uploads/2021/05/2021_ReeveCheon_AutonomySupportive.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2021/05/2021_ReeveCheon_AutonomySupportive.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mpirical findings, researchers have developed and implemented numerous teacher-focused and...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: issep.org  
-   Link: <a href="https://www.issep.org/features/optimizing-free-will" target="_blank" rel="noopener noreferrer nofollow">https://www.issep.org/features/optimizing-free-will</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Optimizing free will: Goal self-concordance and...Aug 12, 2025 — A diagram of the original self-concordance model (Sheldon &amp; Elliot, 1999)...</p></details>
+   Link:<a href="https://www.issep.org/features/optimizing-free-will" target="_blank" rel="noopener noreferrer nofollow">https://www.issep.org/features/optimizing-free-will</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Optimizing free will: Goal self-concordance and...Aug 12, 2025 — A diagram of the original self-concordance model (Sheldon &amp; Elliot, 1999)...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: yukaichou.com  
-   Link: <a href="https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/" target="_blank" rel="noopener noreferrer nofollow">https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory: All 6 Mini-TheoriesMay 6, 2026 — Replace controlling language with autonomy-supportive language...</p></details>
+   Link:<a href="https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/" target="_blank" rel="noopener noreferrer nofollow">https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory: All 6 Mini-TheoriesMay 6, 2026 — Replace controlling language with autonomy-supportive language...</p></details>
    Published: May 6, 2026  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: kyptraining.com  
    Title: Self-determination theory and work motivation  
-   Link: <a href="https://kyptraining.com/self-determination-theory-and-work-motivation/" target="_blank" rel="noopener noreferrer nofollow">https://kyptraining.com/self-determination-theory-and-work-motivation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Within SDT, when a behavior is so motivated it is said to be externally regulated—that is, initiated and maintained by conting...</p></details>
+   Link:<a href="https://kyptraining.com/self-determination-theory-and-work-motivation/" target="_blank" rel="noopener noreferrer nofollow">https://kyptraining.com/self-determination-theory-and-work-motivation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Within SDT, when a behavior is so motivated it is said to be externally regulated—that is, initiated and maintained by conting...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: verywellmind.com  
    Title: what is self determination theory 2795387  
-   Link: <a href="https://www.verywellmind.com/what-is-self-determination-theory-2795387" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/what-is-self-determination-theory-2795387</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Self-Determination Theory Explains Motivation29 Oct 2025 — Self-determination theory suggests that fulfilling the core needs for auto...</p></details>
+   Link:<a href="https://www.verywellmind.com/what-is-self-determination-theory-2795387" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/what-is-self-determination-theory-2795387</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Self-Determination Theory Explains Motivation29 Oct 2025 — Self-determination theory suggests that fulfilling the core needs for auto...</p></details>

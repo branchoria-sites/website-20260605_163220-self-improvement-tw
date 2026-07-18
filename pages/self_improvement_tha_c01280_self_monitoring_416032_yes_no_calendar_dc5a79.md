@@ -271,13 +271,13 @@ image: /assets/images/self_improvement_tha_c01280_self_monitoring_416032_yes_no_
 A yes-or-no calendar is one of the simplest forms of self-monitoring: each day, you mark whether a behaviour happened or did not happen. No scores, no percentages, no dashboards. For many habits, that is enough.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032_yes_no_calendar_dc5a79-Illustration-1-dark.svg" | relative_url }}" alt="Yes No Calendar illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032_yes_no_calendar_dc5a79-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032_yes_no_calendar_dc5a79-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This approach works particularly well when the behaviour itself matters more than the exact amount. If the goal is to read, take a walk, avoid alcohol on weekdays, or keep your phone out of the bedroom, the most important question is often not “How much?” but “Did I do it?” A simple visible record creates awareness and accountability while avoiding the complexity that causes many tracking systems to collapse under their own weight. Research on goal progress monitoring consistently finds that recording progress helps [behaviour change]({{ 'behaviour-change/' | relative_url }}), especially when progress is physically recorded and reviewed over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Does monitoring goal progress promote goal attainment?</span><span class="citation-popover-snippet">B Harkin · 2016 · Cited by 745 — The findings suggest that monitoring goal progress is an effective self-regulation strategy, and...</span></span></span>
+This approach works particularly well when the behaviour itself matters more than the exact amount. If the goal is to read, take a walk, avoid alcohol on weekdays, or keep your phone out of the bedroom, the most important question is often not “How much?” but “Did I do it?” A simple visible record creates awareness and accountability while avoiding the complexity that causes many tracking systems to collapse under their own weight. Research on goal progress monitoring consistently finds that recording progress helps [behaviour change]({{ 'behaviour-change/' | relative_url }}), especially when progress is physically recorded and reviewed over time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Does monitoring goal progress promote goal attainment?</span><span class="citation-popover-snippet">B Harkin · 2016 · Cited by 745 — The findings suggest that monitoring goal progress is an effective self-regulation strategy, and...</span></span></span>
 
 Within a broader approach of self-monitoring without obsessing, the yes-or-no calendar succeeds because it gives you just enough information to guide behaviour and almost no opportunity to overanalyse it.
 
 ## When Binary Tracking Is Enough
 
-Many people start tracking habits with far more detail than they need. They record minutes, repetitions, ratings, notes and statistics. That can be useful for specialised goals, but it often creates friction that eventually stops the tracking itself.
+Many people start tracking habits with far than they need. They record minutes, repetitions, ratings, notes and statistics. That can be useful for specialised goals, but it often creates friction that eventually stops the tracking itself.
 
 Binary tracking is sufficient when:
 
@@ -292,7 +292,7 @@ Binary tracking is sufficient when:
 
 For example, a person trying to establish a reading habit may gain little from recording whether they read 14 or 19 pages. A simple mark indicating that reading happened may provide all the information needed to maintain the routine.
 
-Behaviour-change research repeatedly identifies self-monitoring as a useful self-regulation tool because it makes actions visible and comparable against intentions. The benefit comes largely from noticing whether the behaviour occurred, not necessarily from collecting detailed measurements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/monitoring-interventions/65DD7F8EBDFC9941E42CF64A218AEA37" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment Monitoring Interventions (Chapter 37</span><span class="citation-popover-snippet">Monitoring involves a person, group, or organization taking stock of the...Read more...</span></span></span> University Press & Assessment <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">nih.govSelf-regulatory behavior change techniques in interventions to...by B Spring · 2020 · Cited by 112 — Goal setting, prompt review...</span></span></span>
+Behaviour-change research repeatedly identifies self-monitoring as a useful self-regulation tool because it makes actions visible and comparable against intentions. The benefit comes largely from noticing whether the behaviour occurred, not necessarily from collecting detailed measurements.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/monitoring-interventions/65DD7F8EBDFC9941E42CF64A218AEA37" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment Monitoring Interventions (Chapter 37</span><span class="citation-popover-snippet">Monitoring involves a person, group, or organization taking stock of the...Read more...</span></span></span> University Press & Assessment<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">nih.govSelf-regulatory behavior change techniques in interventions to...by B Spring · 2020 · Cited by 112 — Goal setting, prompt review...</span></span></span>
 
 A useful rule is that tracking should take less time than the behaviour it supports. If logging a habit becomes a project, the tracker has started competing with the habit.
 
@@ -310,7 +310,7 @@ The calendar format offers three advantages:
 
 **Continuity.** Successive marks create a visual history of action.
 
-Research on goal monitoring suggests that physically recording progress strengthens the effect of monitoring itself. The act of making a visible record appears to improve follow-through compared with merely intending to keep track mentally. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Does monitoring goal progress promote goal attainment?</span><span class="citation-popover-snippet">B Harkin · 2016 · Cited by 745 — The findings suggest that monitoring goal progress is an effective self-regulation strategy, and...</span></span></span>
+Research on goal monitoring suggests that physically recording progress strengthens the effect of monitoring itself. The act of making a visible record appears to improve follow-through compared with merely intending to keep track mentally.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Does monitoring goal progress promote goal attainment?</span><span class="citation-popover-snippet">B Harkin · 2016 · Cited by 745 — The findings suggest that monitoring goal progress is an effective self-regulation strategy, and...</span></span></span>
 
 Importantly, a yes-or-no calendar does not require daily interpretation. You simply record what happened and review patterns later.
 
@@ -320,11 +320,11 @@ Importantly, a yes-or-no calendar does not require daily interpretation. You sim
 
 One risk of calendar tracking is that it can turn into streak chasing.
 
-The popular "don't break the chain" approach encourages people to maintain consecutive days of success by creating a visible chain of marks. Many people find this motivating because each completed day strengthens the desire to continue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://habitdex.com/methods/dont-break-the-chain" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: habitdex.com">[habitdex.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">habitdex.com</span><span class="citation-popover-title">Don&#x27;t Break the Chain</span><span class="citation-popover-snippet">Don&#x27;t Break the Chain is a simple but powerful method for building consistent habits through visible daily streaks. You perform a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://jamesclear.com/habit-tracker" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamesclear.com">[James Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamesclear.com</span><span class="citation-popover-snippet">When you look at the calendar and see your streak, you&#x27;ll be reminded to act again. Research has shown...Read more...</span></span></span>
+The popular "don't break the chain" approach encourages people to maintain consecutive days of success by creating a visible chain of marks. Many people find this motivating because each completed day strengthens the desire to continue.<span class="citation-chip-wrap"><a class="citation-chip" href="https://habitdex.com/methods/dont-break-the-chain" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: habitdex.com">[habitdex.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">habitdex.com</span><span class="citation-popover-title">Don&#x27;t Break the Chain</span><span class="citation-popover-snippet">Don&#x27;t Break the Chain is a simple but powerful method for building consistent habits through visible daily streaks. You perform a...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://jamesclear.com/habit-tracker" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamesclear.com">[James Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamesclear.com</span><span class="citation-popover-snippet">When you look at the calendar and see your streak, you&#x27;ll be reminded to act again. Research has shown...Read more...</span></span></span>
 
 The problem arises when the streak becomes more important than the habit.
 
-A person may miss one day of reading and conclude the month is ruined. Behavioural researchers and habit coaches often describe a common pattern in which a single lapse leads to [abandonment]({{ 'abandonment/' | relative_url }}) rather than recovery. The calendar then becomes a source of pressure instead of information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mindspacex.com/post/how-to-recover-from-habit-streaks-breaking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mindspacex.com">[MindSpaceX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mindspacex.com</span><span class="citation-popover-title">Mind Space XHow to Recover from Habit Streaks Breaking</span><span class="citation-popover-snippet">How to Recover from Habit Streaks BreakingJuly 22, 2025 — 22 Jul 2025 — Discover proven strategies for habit streak recovery af...</span><span class="citation-popover-meta">Published: July 22, 2025</span></span></span>
+A person may miss one day of reading and conclude the month is ruined. Behavioural researchers and habit coaches often describe a common pattern in which a single lapse leads to [abandonment]({{ 'abandonment/' | relative_url }}) rather than recovery. The calendar then becomes a source of pressure instead of information.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mindspacex.com/post/how-to-recover-from-habit-streaks-breaking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mindspacex.com">[MindSpaceX]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mindspacex.com</span><span class="citation-popover-title">Mind Space XHow to Recover from Habit Streaks Breaking</span><span class="citation-popover-snippet">How to Recover from Habit Streaks BreakingJuly 22, 2025 — 22 Jul 2025 — Discover proven strategies for habit streak recovery af...</span><span class="citation-popover-meta">Published: July 22, 2025</span></span></span>
 
 A healthier approach is to treat the calendar as a record, not a scoreboard.
 
@@ -407,13 +407,13 @@ Use:
 * A paper wall calendar.
 * A monthly planner.
 * A notebook page.
-* A basic digital calendar. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lifetips.alibaba.com/tech-efficiency/habit-tracker-vs-streak-app-which-sustains-consistency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lifetips.alibaba.com">[lifetips.alibaba.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lifetips.alibaba.com</span><span class="citation-popover-title">habit tracker vs streak app which sustains consistency</span><span class="citation-popover-snippet">Tracker vs Streak App: Which Sustains Consistency?8 Jan 2026 — Switch from streak-focused apps to a digital habit tracker that logs behav...</span></span></span>
+* A basic digital calendar.<span class="citation-chip-wrap"><a class="citation-chip" href="https://lifetips.alibaba.com/tech-efficiency/habit-tracker-vs-streak-app-which-sustains-consistency" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lifetips.alibaba.com">[lifetips.alibaba.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lifetips.alibaba.com</span><span class="citation-popover-title">habit tracker vs streak app which sustains consistency</span><span class="citation-popover-snippet">Tracker vs Streak App: Which Sustains Consistency?8 Jan 2026 — Switch from streak-focused apps to a digital habit tracker that logs behav...</span></span></span>
 
 </div>
 
 Avoid features that create unnecessary complexity unless they solve a specific problem.
 
-Research on self-monitoring consistently shows that monitoring works best when it remains connected to action. The purpose is not data collection for its own sake. The purpose is to notice behaviour, compare it with intentions and make small adjustments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/monitoring-interventions/65DD7F8EBDFC9941E42CF64A218AEA37" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment Monitoring Interventions (Chapter 37</span><span class="citation-popover-snippet">Monitoring involves a person, group, or organization taking stock of the...Read more...</span></span></span> University Press & Assessment <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S1750946723001940" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect For most simple habits]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A meta-analysis of self-management interventions for...by G Scheibel · 2024 · Cited by 11 — Self-monitoring requires the student to be a...</span></span></span>, one mark per day is enough information. If a tracker requires charts, categories, colour coding and weekly calculations before it becomes useful, it may be violating the central principle of self-monitoring without obsessing: track only what helps you act.
+Research on self-monitoring consistently shows that monitoring works best when it remains connected to action. The purpose is not data collection for its own sake. The purpose is to notice behaviour, compare it with intentions and make small adjustments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/handbook-of-behavior-change/monitoring-interventions/65DD7F8EBDFC9941E42CF64A218AEA37" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment Monitoring Interventions (Chapter 37</span><span class="citation-popover-snippet">Monitoring involves a person, group, or organization taking stock of the...Read more...</span></span></span> University Press & Assessment<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S1750946723001940" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect For most simple habits]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A meta-analysis of self-management interventions for...by G Scheibel · 2024 · Cited by 11 — Self-monitoring requires the student to be a...</span></span></span>, one mark per day is enough information. If a tracker requires charts, categories, colour coding and weekly calculations before it becomes useful, it may be violating the central principle of self-monitoring without obsessing: track only what helps you act.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YYTSUywL6ts" title="Jerry Seinfeld&#x27;s ToDoIst Habit Tracker" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YYTSUywL6ts" target="_blank" rel="noopener noreferrer">Jerry Seinfeld&#x27;s ToDoIst Habit Tracker</a></p><p class="youtube-embed-meta">Channel: Demetri Panici &middot; Views: 2.0K &middot; Uploaded: February 2022 &middot; Length: 2 minutes 54 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YYTSUywL6ts" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YYTSUywL6ts">Open on YouTube</a></p></div></div></div>
 
@@ -421,199 +421,199 @@ Research on self-monitoring consistently shows that monitoring works best when i
 
 A yes-or-no calendar succeeds because it respects a basic reality of behaviour change: awareness is often more valuable than precision.
 
-When the habit is simple, the measurement should be simple too. A visible record of completed days creates a [feedback]({{ 'feedback/' | relative_url }}) loop, reduces reliance on memory and highlights patterns that would otherwise remain hidden. Research shows that monitoring progress supports goal attainment, especially when progress is recorded rather than merely observed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Does monitoring goal progress promote goal attainment?</span><span class="citation-popover-snippet">B Harkin · 2016 · Cited by 745 — The findings suggest that monitoring goal progress is an effective self-regulation strategy, and...</span></span></span>
+When the habit is simple, the measurement should be simple too. A visible record of completed days creates a [feedback]({{ 'feedback/' | relative_url }}) loop, reduces reliance on memory and highlights patterns that would otherwise remain hidden. Research shows that monitoring progress supports goal attainment, especially when progress is recorded rather than merely observed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Does monitoring goal progress promote goal attainment?</span><span class="citation-popover-snippet">B Harkin · 2016 · Cited by 745 — The findings suggest that monitoring goal progress is an effective self-regulation strategy, and...</span></span></span>
 
 For behaviours where completion matters more than quantity, a small mark on a calendar can provide nearly all the information needed to stay consistent. The power comes not from the sophistication of the system, but from the fact that it is simple enough to keep using.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The simplest habit tracker that works. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The simplest habit tracker that works. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Perfect fit for simple yes/no tracking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Perfect fit for simple yes/no tracking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
-        </h4>
-        <p class="fr-book-author">By B. J. Fogg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
+</h4>
+<p class="fr-book-author">By B. J. Fogg</p>
         
-        <p class="fr-book-desc">Supports low-friction habit tracking.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports low-friction habit tracking.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Better+Than+Before+by+Gretchen+Rubin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Better Than Before on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zk-TEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Better Than Before" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Better+Than+Before+by+Gretchen+Rubin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Better Than Before">Better Than Before</a>
-        </h4>
-        <p class="fr-book-author">By Gretchen Rubin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Better+Than+Before+by+Gretchen+Rubin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Better Than Before on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zk-TEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Better Than Before" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Better+Than+Before+by+Gretchen+Rubin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Better Than Before">Better Than Before</a>
+</h4>
+<p class="fr-book-author">By Gretchen Rubin</p>
         
-        <p class="fr-book-desc">Encourages consistency over perfection.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Better+Than+Before+by+Gretchen+Rubin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages consistency over perfection.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Better+Than+Before+by+Gretchen+Rubin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mini+Habits+by+Stephen+Guise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mini Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4UopCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mini Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mini+Habits+by+Stephen+Guise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mini Habits">Mini Habits</a>
-        </h4>
-        <p class="fr-book-author">By Stephen Guise</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mini+Habits+by+Stephen+Guise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mini Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4UopCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mini Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mini+Habits+by+Stephen+Guise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mini Habits">Mini Habits</a>
+</h4>
+<p class="fr-book-author">By Stephen Guise</p>
         
-        <p class="fr-book-desc">Focuses on completion rather than intensity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mini+Habits+by+Stephen+Guise&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on completion rather than intensity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mini+Habits+by+Stephen+Guise&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Better+Than+Before&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Better Than Before</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Better+Than+Before&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Better Than Before</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weekly Planner Desk Notepad To Do List Study Work Home Organiser Habit Tracker"><img src="https://i.ebayimg.com/images/g/h58AAeSwGf9pAjx8/s-l225.jpg" alt="Listing image for Weekly Planner Desk Notepad To Do List Study Work Home Organiser Habit Tracker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Weekly Planner Desk Notepad To Do List Study Work Home Organiser Habit Tracker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weekly Planner Desk Notepad To Do List Study Work Home Organiser Habit Tracker"><img src="https://i.ebayimg.com/images/g/h58AAeSwGf9pAjx8/s-l225.jpg" alt="Listing image for Weekly Planner Desk Notepad To Do List Study Work Home Organiser Habit Tracker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Weekly Planner Desk Notepad To Do List Study Work Home Organiser Habit Tracker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,..."><img src="https://i.ebayimg.com/images/g/~0oAAeSwKCNo8eh-/s-l225.jpg" alt="Listing image for Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,..." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,...</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,..."><img src="https://i.ebayimg.com/images/g/~0oAAeSwKCNo8eh-/s-l225.jpg" alt="Listing image for Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,..." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,...</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Botanical 12 page habit tracker lifestyle goals planner with wall hanging hook"><img src="https://i.ebayimg.com/images/g/ogYAAeSwQW9p7oHN/s-l225.jpg" alt="Listing image for Botanical 12 page habit tracker lifestyle goals planner with wall hanging hook" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Botanical 12 page habit tracker lifestyle goals planner with wall hanging hook</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Botanical 12 page habit tracker lifestyle goals planner with wall hanging hook"><img src="https://i.ebayimg.com/images/g/ogYAAeSwQW9p7oHN/s-l225.jpg" alt="Listing image for Botanical 12 page habit tracker lifestyle goals planner with wall hanging hook" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Botanical 12 page habit tracker lifestyle goals planner with wall hanging hook</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Daily Habit Tracker: Habit Tracking Notebook | One Month to a Page | Set Goals a"><img src="https://i.ebayimg.com/images/g/HuUAAeSwIiFqGz~v/s-l225.jpg" alt="Listing image for Daily Habit Tracker: Habit Tracking Notebook | One Month to a Page | Set Goals a" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Daily Habit Tracker: Habit Tracking Notebook | One Month to a Page | Set Goals a</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Daily Habit Tracker: Habit Tracking Notebook | One Month to a Page | Set Goals a"><img src="https://i.ebayimg.com/images/g/HuUAAeSwIiFqGz~v/s-l225.jpg" alt="Listing image for Daily Habit Tracker: Habit Tracking Notebook | One Month to a Page | Set Goals a" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Daily Habit Tracker: Habit Tracking Notebook | One Month to a Page | Set Goals a</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-simplest-habit-tracker-that-works-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="the-simplest-habit-tracker-that-works-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -629,7 +629,7 @@ For behaviours where completion matters more than quantity, a small mark on a ca
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -649,7 +649,7 @@ For behaviours where completion matters more than quantity, a small mark on a ca
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -681,7 +681,7 @@ For behaviours where completion matters more than quantity, a small mark on a ca
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -733,7 +733,7 @@ For behaviours where completion matters more than quantity, a small mark on a ca
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -778,7 +778,7 @@ For behaviours where completion matters more than quantity, a small mark on a ca
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -819,120 +819,120 @@ For behaviours where completion matters more than quantity, a small mark on a ca
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cambridge.org  
    Title: University Press & Assessment Monitoring Interventions (Chapter 37)  
-   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/monitoring-interventions/65DD7F8EBDFC9941E42CF64A218AEA37" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/monitoring-interventions/65DD7F8EBDFC9941E42CF64A218AEA37</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Monitoring involves a person, group, or organization taking stock of the...Read more...</p></details>
+   Link:<a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/monitoring-interventions/65DD7F8EBDFC9941E42CF64A218AEA37" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/monitoring-interventions/65DD7F8EBDFC9941E42CF64A218AEA37</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Monitoring involves a person, group, or organization taking stock of the...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govSelf-regulatory behavior change [techniques](&amp;#123;&amp;#123; &#x27;techniques/&#x27; | relative_url &amp;#125;&amp;#125;) in interventions to...by B Spring · 2020 · Cited by 112 — [Goal setting](&amp;#123;&amp;#123; &#x27;goal-setting/&#x27; | relative_url &amp;#125;&amp;#125...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govSelf-regulatory behavior change [techniques](&amp;#123;&amp;#123; &#x27;techniques/&#x27; | relative_url &amp;#125;&amp;#125;) in interventions to...by B Spring · 2020 · Cited by 112 — [Goal setting](&amp;#123;&amp;#123; &#x27;goal-setting/&#x27; | relative_url &amp;#125;&amp;#125...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1750946723001940" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1750946723001940</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A meta-analysis of self-management interventions for...by G Scheibel · 2024 · Cited by 11 — Self-monitoring requires the student to be a...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1750946723001940" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1750946723001940</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A meta-analysis of self-management interventions for...by G Scheibel · 2024 · Cited by 11 — Self-monitoring requires the student to be a...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: habitdex.com  
    Title: Don't Break the Chain  
-   Link: <a href="https://habitdex.com/methods/dont-break-the-chain" target="_blank" rel="noopener noreferrer nofollow">https://habitdex.com/methods/dont-break-the-chain</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Don&#x27;t Break the Chain is a simple but powerful method for building consistent habits through visible daily streaks. You perform a...</p></details>
+   Link:<a href="https://habitdex.com/methods/dont-break-the-chain" target="_blank" rel="noopener noreferrer nofollow">https://habitdex.com/methods/dont-break-the-chain</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Don&#x27;t Break the Chain is a simple but powerful method for building consistent habits through visible daily streaks. You perform a...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: mindspacex.com  
    Title: Mind Space XHow to Recover from Habit Streaks Breaking  
-   Link: <a href="https://www.mindspacex.com/post/how-to-recover-from-habit-streaks-breaking" target="_blank" rel="noopener noreferrer nofollow">https://www.mindspacex.com/post/how-to-recover-from-habit-streaks-breaking</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Recover from Habit Streaks BreakingJuly 22, 2025 — 22 Jul 2025 — Discover proven strategies for habit streak recovery af...</p></details>
+   Link:<a href="https://www.mindspacex.com/post/how-to-recover-from-habit-streaks-breaking" target="_blank" rel="noopener noreferrer nofollow">https://www.mindspacex.com/post/how-to-recover-from-habit-streaks-breaking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Recover from Habit Streaks BreakingJuly 22, 2025 — 22 Jul 2025 — Discover proven strategies for habit streak recovery af...</p></details>
    Published: July 22, 2025  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2214782919300922" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2214782919300922</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A narrative synthesis systematic review of digital self-monitoring...This review aimed to provide a comprehensive overview of technology...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2214782919300922" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2214782919300922</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A narrative synthesis systematic review of digital self-monitoring...This review aimed to provide a comprehensive overview of technology...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/org/science/article/pii/S2292949525001889" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S2292949525001889</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Setting Goals and Accepting Challenges for Behavior...by K Åsberg · 2025 · Cited by 1 — When goal-setting was combined with self-monitor...</p></details>
+   Link:<a href="https://www.sciencedirect.com/org/science/article/pii/S2292949525001889" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S2292949525001889</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Setting Goals and Accepting Challenges for Behavior...by K Åsberg · 2025 · Cited by 1 — When goal-setting was combined with self-monitor...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med Does monitoring goal progress promote goal attainment?  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26479070/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>B Harkin · 2016 · Cited by 745 — The findings suggest that monitoring goal progress is an effective self-regulation strategy, and...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26479070/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>B Harkin · 2016 · Cited by 745 — The findings suggest that monitoring goal progress is an effective self-regulation strategy, and...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: jamesclear.com  
-   Link: <a href="https://jamesclear.com/habit-tracker" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/habit-tracker</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When you look at the calendar and see your streak, you&#x27;ll be reminded to act again. Research has shown...Read more...</p></details>
+   Link:<a href="https://jamesclear.com/habit-tracker" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/habit-tracker</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When you look at the calendar and see your streak, you&#x27;ll be reminded to act again. Research has shown...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: athenify.io  
    Title: the streak  
-   Link: <a href="https://athenify.io/blog/the-streak" target="_blank" rel="noopener noreferrer nofollow">https://athenify.io/blog/the-streak</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Don&#x27;t Break the Chain9 Jan 2026 — The streak calendar shows your study consistency. The psychology behind &quot;don&#x27;t break the chain&quot;.Read more...</p></details>
+   Link:<a href="https://athenify.io/blog/the-streak" target="_blank" rel="noopener noreferrer nofollow">https://athenify.io/blog/the-streak</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Don&#x27;t Break the Chain9 Jan 2026 — The streak calendar shows your study consistency. The psychology behind &quot;don&#x27;t break the chain&quot;.Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: apps.apple.com  
-   Link: <a href="https://apps.apple.com/gb/app/habit-tracker-evoday/id1403517519" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/gb/app/habit-tracker-evoday/id1403517519</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tracker - Evoday - App Store - AppleBuild better habits, break bad ones, stay motivated, and achieve your goals! Track your progress on b...</p></details>
+   Link:<a href="https://apps.apple.com/gb/app/habit-tracker-evoday/id1403517519" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/gb/app/habit-tracker-evoday/id1403517519</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tracker - Evoday - App Store - AppleBuild better habits, break bad ones, stay motivated, and achieve your goals! Track your progress on b...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: smhrenew.com  
-   Link: <a href="https://www.smhrenew.com/success/habit-tracking" target="_blank" rel="noopener noreferrer nofollow">https://www.smhrenew.com/success/habit-tracking</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit TrackingDownload and print your RENEW Habit Trackers below: · (Page 1 is to track 3 habits, page 2 is to track 6 habits) · Or check...</p></details>
+   Link:<a href="https://www.smhrenew.com/success/habit-tracking" target="_blank" rel="noopener noreferrer nofollow">https://www.smhrenew.com/success/habit-tracking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Habit TrackingDownload and print your RENEW Habit Trackers below: · (Page 1 is to track 3 habits, page 2 is to track 6 habits) · Or check...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: github.com  
-   Link: <a href="https://github.com/ever-works/awesome-time-tracking/blob/develop/details/habit-tracking-method.md" target="_blank" rel="noopener noreferrer nofollow">https://github.com/ever-works/awesome-time-tracking/blob/develop/details/habit-tracking-method.md</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a calendar or tracking sheet; Each day you complete the habit, mark it off; Over time, the tracker becomes a record of your streak; The v...</p></details>
+   Link:<a href="https://github.com/ever-works/awesome-time-tracking/blob/develop/details/habit-tracking-method.md" target="_blank" rel="noopener noreferrer nofollow">https://github.com/ever-works/awesome-time-tracking/blob/develop/details/habit-tracking-method.md</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a calendar or tracking sheet; Each day you complete the habit, mark it off; Over time, the tracker becomes a record of your streak; The v...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cdr.lib.unc.edu  
-   Link: <a href="https://cdr.lib.unc.edu/concern/articles/w0892h02z" target="_blank" rel="noopener noreferrer nofollow">https://cdr.lib.unc.edu/concern/articles/w0892h02z</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>B Harkin · 2016 · Cited by 725 — Taken together, the findings suggest that monitoring goal progress is an effective self-regulati...</p></details>
+   Link:<a href="https://cdr.lib.unc.edu/concern/articles/w0892h02z" target="_blank" rel="noopener noreferrer nofollow">https://cdr.lib.unc.edu/concern/articles/w0892h02z</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>B Harkin · 2016 · Cited by 725 — Taken together, the findings suggest that monitoring goal progress is an effective self-regulati...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: eprints.whiterose.ac.uk  
    Title: whiterose.ac.uk Does Monitoring Goal Progress Promote Goal Attainment?  
-   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/91437/" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/91437/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Harkin · 2016 · Cited by 734 — Moderation tests revealed that progress monitoring had larger effects on goal attainment when the out...</p></details>
+   Link:<a href="https://eprints.whiterose.ac.uk/id/eprint/91437/" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/91437/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by B Harkin · 2016 · Cited by 734 — Moderation tests revealed that progress monitoring had larger effects on goal attainment when the out...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: eprints.whiterose.ac.uk  
    Title: whiterose.ac.uk Does Monitoring Goal Progress Promote Goal Attainment?  
-   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/91437/8/3_PDFsam_Does%20monitoring%20goal.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/91437/8/3_PDFsam_Does%20monitoring%20goal.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Harkin · 2016 · Cited by 734 — Prompting the self- monitoring of goal progress is also frequently deployed as a technique for promot...</p></details>
+   Link:<a href="https://eprints.whiterose.ac.uk/id/eprint/91437/8/3_PDFsam_Does%20monitoring%20goal.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/91437/8/3_PDFsam_Does%20monitoring%20goal.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by B Harkin · 2016 · Cited by 734 — Prompting the self- monitoring of goal progress is also frequently deployed as a technique for promot...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: research.manchester.ac.uk  
    Title: unique effects of setting goals on behavior change systematic rev  
-   Link: <a href="https://research.manchester.ac.uk/en/publications/unique-effects-of-setting-goals-on-behavior-change-systematic-rev/" target="_blank" rel="noopener noreferrer nofollow">https://research.manchester.ac.uk/en/publications/unique-effects-of-setting-goals-on-behavior-change-systematic-rev/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of Setting Goals on Behavior Changeby T Epton · 2017 · Cited by 487 — Objective: Goal setting is a common feature of behavior cha...</p></details>
+   Link:<a href="https://research.manchester.ac.uk/en/publications/unique-effects-of-setting-goals-on-behavior-change-systematic-rev/" target="_blank" rel="noopener noreferrer nofollow">https://research.manchester.ac.uk/en/publications/unique-effects-of-setting-goals-on-behavior-change-systematic-rev/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of Setting Goals on Behavior Changeby T Epton · 2017 · Cited by 487 — Objective: Goal setting is a common feature of behavior cha...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nesslabs.com  
-   Link: <a href="https://nesslabs.com/habit-trackers" target="_blank" rel="noopener noreferrer nofollow">https://nesslabs.com/habit-trackers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>app functionality to the cues that naturally help habits become established.Read more...</p></details>
+   Link:<a href="https://nesslabs.com/habit-trackers" target="_blank" rel="noopener noreferrer nofollow">https://nesslabs.com/habit-trackers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>app functionality to the cues that naturally help habits become established.Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: lifetips.alibaba.com  
    Title: habit tracker vs streak app which sustains consistency  
-   Link: <a href="https://lifetips.alibaba.com/tech-efficiency/habit-tracker-vs-streak-app-which-sustains-consistency" target="_blank" rel="noopener noreferrer nofollow">https://lifetips.alibaba.com/tech-efficiency/habit-tracker-vs-streak-app-which-sustains-consistency</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tracker vs Streak App: Which Sustains Consistency?8 Jan 2026 — Switch from streak-focused apps to a digital habit tracker that logs behav...</p></details>
+   Link:<a href="https://lifetips.alibaba.com/tech-efficiency/habit-tracker-vs-streak-app-which-sustains-consistency" target="_blank" rel="noopener noreferrer nofollow">https://lifetips.alibaba.com/tech-efficiency/habit-tracker-vs-streak-app-which-sustains-consistency</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tracker vs Streak App: Which Sustains Consistency?8 Jan 2026 — Switch from streak-focused apps to a digital habit tracker that logs behav...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: qbs.com  
    Title: [self monitoring](&#123;&#123; 'tracking/' | relative_url &#125;&#125;) a how to for behavior change  
-   Link: <a href="https://qbs.com/news-and-blog/self-monitoring-a-how-to-for-behavior-change/" target="_blank" rel="noopener noreferrer nofollow">https://qbs.com/news-and-blog/self-monitoring-a-how-to-for-behavior-change/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Monitoring: A How-To for Behavior ChangeFeb 16, 2021 — Self-monitoring is a powerful, flexible tool for behavior change. Learn how t...</p></details>
+   Link:<a href="https://qbs.com/news-and-blog/self-monitoring-a-how-to-for-behavior-change/" target="_blank" rel="noopener noreferrer nofollow">https://qbs.com/news-and-blog/self-monitoring-a-how-to-for-behavior-change/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Monitoring: A How-To for Behavior ChangeFeb 16, 2021 — Self-monitoring is a powerful, flexible tool for behavior change. Learn how t...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/journaljunky/posts/26576254361959496/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/journaljunky/posts/26576254361959496/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ebruary was about *how* we journaled— slowing down, regulating...</p></details>
+   Link:<a href="https://www.facebook.com/groups/journaljunky/posts/26576254361959496/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/journaljunky/posts/26576254361959496/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ebruary was about *how* we journaled— slowing down, regulating...</p></details>

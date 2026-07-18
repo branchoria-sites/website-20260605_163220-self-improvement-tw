@@ -268,18 +268,18 @@ image: /assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_caff
 
 ## Introduction
 
-Coffee can be a useful morning productivity cue, but the stimulant inside it has clear [limits]({{ 'limits/' | relative_url }}). The strongest evidence is not that caffeine turns ordinary work into exceptional work. Rather, moderate doses can increase alertness, reduce feelings of sleepiness and improve vigilance, especially when attention is flagging. What caffeine cannot reliably do is replace sleep, guarantee deep concentration, or continuously improve performance as the dose rises. Beyond a certain point, more caffeine often delivers diminishing returns while increasing the risks of anxiety, jitteriness and disrupted sleep. For people interested in [self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}), this distinction matters: the value of morning coffee often comes as much from the ritual that starts work as from the pharmacological effect itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2014.3574" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: efsa.onlinelibrary.wiley.com">[EFSA Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">efsa.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">EFSA JournalScientific Opinion on the substantiation of a health claim...2014 · Cited by 7 — A claim on caffeine and increased alertness...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0149763416300690" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A review of caffeine&#x27;s effects on cognitive, physical and...by TM McLellan · 2016 · Cited by 1225 — This review examines th...</span></span></span>
+Coffee can be a useful morning productivity cue, but the stimulant inside it has clear [limits]({{ 'limits/' | relative_url }}). The strongest evidence is not that caffeine turns ordinary work into exceptional work. Rather, moderate doses can increase alertness, reduce feelings of sleepiness and improve vigilance, especially when attention is flagging. What caffeine cannot reliably do is replace sleep, guarantee deep concentration, or continuously improve performance as the dose rises. Beyond a certain point, more caffeine often delivers diminishing returns while increasing the risks of anxiety, jitteriness and disrupted sleep. For people interested in [self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}), this distinction matters: the value of morning coffee often comes as much from the ritual that starts work as from the pharmacological effect itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2014.3574" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: efsa.onlinelibrary.wiley.com">[EFSA Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">efsa.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">EFSA JournalScientific Opinion on the substantiation of a health claim...2014 · Cited by 7 — A claim on caffeine and increased alertness...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0149763416300690" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A review of caffeine&#x27;s effects on cognitive, physical and...by TM McLellan · 2016 · Cited by 1225 — This review examines th...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_caffeine_limits_focu_988640-Illustration-1-dark.svg" | relative_url }}" alt="Caffeine Limits illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_caffeine_limits_focu_988640-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_morning_coffee_cue_d08fd8_caffeine_limits_focu_988640-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Alertness, vigilance, and the moderate-dose case
 
-The best-supported cognitive effect of caffeine is improved alertness. The European Food Safety Authority (EFSA) concluded that products providing at least 75 mg of caffeine can increase alertness in the general adult population. Studies underlying that conclusion typically measured reaction time, vigilance and sustained attention rather than creativity, strategic thinking or complex judgement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2014.3574" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: efsa.onlinelibrary.wiley.com">[EFSA Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">efsa.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">EFSA JournalScientific Opinion on the substantiation of a health claim...2014 · Cited by 7 — A claim on caffeine and increased alertness...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2014.3574" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: efsa.onlinelibrary.wiley.com">[EFSA Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">efsa.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">EFSA JournalScientific Opinion on the substantiation of a health claim...2014 · Cited by 7 — A claim on caffeine and increased alertness...</span></span></span>
+The best-supported cognitive effect of caffeine is improved alertness. The European Food Safety Authority (EFSA) concluded that products providing at least 75 mg of caffeine can increase alertness in the general adult population. Studies underlying that conclusion typically measured reaction time, vigilance and sustained attention rather than creativity, strategic thinking or complex judgement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2014.3574" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: efsa.onlinelibrary.wiley.com">[EFSA Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">efsa.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">EFSA JournalScientific Opinion on the substantiation of a health claim...2014 · Cited by 7 — A claim on caffeine and increased alertness...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2014.3574" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: efsa.onlinelibrary.wiley.com">[EFSA Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">efsa.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">EFSA JournalScientific Opinion on the substantiation of a health claim...2014 · Cited by 7 — A claim on caffeine and increased alertness...</span></span></span>
 
-This distinction is important for focused morning work. Many knowledge workers imagine caffeine as a “better thinking” substance. The evidence is narrower. Caffeine is particularly good at helping people stay awake, notice signals and maintain attention during repetitive or mentally fatiguing tasks. It is less reliable as a way to improve every aspect of cognition. Reviews of the research consistently find benefits for alertness, attention and vigilance, while effects on higher-order thinking are smaller and more variable. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://orca.cardiff.ac.uk/id/eprint/151582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orca.cardiff.ac.uk">[ORCA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orca.cardiff.ac.uk</span><span class="citation-popover-title">ORCACaffeine, habitual caffeine consumption, alertness</span><span class="citation-popover-snippet">by A Smith · 2022 · Cited by 9 — Conclusion: These results demonstrate that caffeine increases alertness and improves sustained atten...</span></span></span>
+This distinction is important for focused morning work. Many knowledge workers imagine caffeine as a “better thinking” substance. The evidence is narrower. Caffeine is particularly good at helping people stay awake, notice signals and maintain attention during repetitive or mentally fatiguing tasks. It is less reliable as a way to improve every aspect of cognition. Reviews of the research consistently find benefits for alertness, attention and vigilance, while effects on higher-order thinking are smaller and more variable. ScienceDirect<span class="citation-chip-wrap"><a class="citation-chip" href="https://orca.cardiff.ac.uk/id/eprint/151582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orca.cardiff.ac.uk">[ORCA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orca.cardiff.ac.uk</span><span class="citation-popover-title">ORCACaffeine, habitual caffeine consumption, alertness</span><span class="citation-popover-snippet">by A Smith · 2022 · Cited by 9 — Conclusion: These results demonstrate that caffeine increases alertness and improves sustained atten...</span></span></span>
 
 A practical implication follows. If the first hour of work is being lost to sluggishness, a moderate amount of caffeine may help. If the problem is unclear priorities, poor planning or constant interruptions, extra caffeine is unlikely to solve it. Many productivity failures are organisational rather than physiological.
 
-The limits become even clearer when sleep loss enters the picture. Research shows that caffeine can partially counteract declines in vigilant attention caused by sleep deprivation. However, it does not fully restore cognitive performance, and some executive functions remain impaired despite caffeine use. In other words, caffeine can mask part of the symptom of being tired without eliminating the underlying deficit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5608989/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">75 to 150 mg of caffeine increased alertness and attention [7]. In the EFSA document, numerous controlled studies are described in which...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5608989/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">75 to 150 mg of caffeine increased alertness and attention [7]. In the EFSA document, numerous controlled studies are described in which...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5608989/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">75 to 150 mg of caffeine increased alertness and attention [7]. In the EFSA document, numerous controlled studies are described in which...</span></span></span>
+The limits become even clearer when sleep loss enters the picture. Research shows that caffeine can partially counteract declines in vigilant attention caused by sleep deprivation. However, it does not fully restore cognitive performance, and some executive functions remain impaired despite caffeine use. In other words, caffeine can mask part of the symptom of being tired without eliminating the underlying deficit.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5608989/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">75 to 150 mg of caffeine increased alertness and attention [7]. In the EFSA document, numerous controlled studies are described in which...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5608989/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">75 to 150 mg of caffeine increased alertness and attention [7]. In the EFSA document, numerous controlled studies are described in which...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5608989/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">75 to 150 mg of caffeine increased alertness and attention [7]. In the EFSA document, numerous controlled studies are described in which...</span></span></span>
 
 A useful mental model is that caffeine often improves “staying switched on” more than it improves “doing brilliant work”. For many morning tasks, that is valuable. It is simply not limitless.
 
@@ -287,7 +287,7 @@ A useful mental model is that caffeine often improves “staying switched on” 
 
 ## Sensitivity, anxiety, and sleep disruption risks
 
-One reason caffeine has real limits is that people respond differently to it. A dose that feels smooth and helpful for one person may produce nervousness, restlessness or distraction in another. Regulatory agencies generally regard daily intakes up to around 400 mg as not raising safety concerns for most healthy adults, but that figure should not be mistaken for an optimal productivity target. U.S. Food and Drug Administration <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.efsa.europa.eu/en/topics/topic/caffeine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: efsa.europa.eu">[European Food Safety Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">efsa.europa.eu</span><span class="citation-popover-title">European Food Safety Authority Caffeine &#124; EFSA</span><span class="citation-popover-snippet">European Food Safety AuthorityCaffeine &#124; EFSA - European UnionSingle doses of 100mg (about 1.4mg/kg bw) of caffeine may affect sleep dura...</span></span></span>
+One reason caffeine has real limits is that people respond differently to it. A dose that feels smooth and helpful for one person may produce nervousness, restlessness or distraction in another. Regulatory agencies generally regard daily intakes up to around 400 mg as not raising safety concerns for most healthy adults, but that figure should not be mistaken for an optimal productivity target. U.S. Food and Drug Administration<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.efsa.europa.eu/en/topics/topic/caffeine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: efsa.europa.eu">[European Food Safety Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">efsa.europa.eu</span><span class="citation-popover-title">European Food Safety Authority Caffeine &#124; EFSA</span><span class="citation-popover-snippet">European Food Safety AuthorityCaffeine &#124; EFSA - European UnionSingle doses of 100mg (about 1.4mg/kg bw) of caffeine may affect sleep dura...</span></span></span>
 
 The productivity trade-off often appears before safety limits are reached. As caffeine intake rises, some people experience:
 
@@ -295,11 +295,11 @@ The productivity trade-off often appears before safety limits are reached. As ca
 * Increased physical tension.
 * Greater susceptibility to anxiety.
 * Difficulty sustaining calm concentration.
-* More frequent sleep disruption. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/7331760/why-does-coffee-give-me-anxiety/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Caffeine works by blocking adenosine receptors in the brain, which typically promote calmness and drowsiness. This blockade releases stim...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5608989/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">75 to 150 mg of caffeine increased alertness and attention [7]. In the EFSA document, numerous controlled studies are described in which...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[3U.S.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">spilling beans how much caffeine too much</span><span class="citation-popover-snippet">Food and Drug AdministrationSpilling the Beans: How Much Caffeine is Too Much?28 Aug 2024 — For most adults, the FDA has cited 400 millig...</span></span></span> Food and Drug Administration
+* More frequent sleep disruption.<span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/7331760/why-does-coffee-give-me-anxiety/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Caffeine works by blocking adenosine receptors in the brain, which typically promote calmness and drowsiness. This blockade releases stim...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5608989/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">75 to 150 mg of caffeine increased alertness and attention [7]. In the EFSA document, numerous controlled studies are described in which...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fda.gov">[3U.S.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fda.gov</span><span class="citation-popover-title">spilling beans how much caffeine too much</span><span class="citation-popover-snippet">Food and Drug AdministrationSpilling the Beans: How Much Caffeine is Too Much?28 Aug 2024 — For most adults, the FDA has cited 400 millig...</span></span></span> Food and Drug Administration
 
-Recent meta-analytic evidence suggests that caffeine consumption can increase anxiety risk, with stronger effects at higher intake levels. For someone whose work depends on careful writing, analysis or decision-making, an anxious state can offset any gain in alertness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5608989/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">75 to 150 mg of caffeine increased alertness and attention [7]. In the EFSA document, numerous controlled studies are described in which...</span></span></span>
+Recent meta-analytic evidence suggests that caffeine consumption can increase anxiety risk, with stronger effects at higher intake levels. For someone whose work depends on careful writing, analysis or decision-making, an anxious state can offset any gain in alertness.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5608989/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">75 to 150 mg of caffeine increased alertness and attention [7]. In the EFSA document, numerous controlled studies are described in which...</span></span></span>
 
-Sleep disruption is an even bigger limitation because it can undermine the next day's performance. EFSA notes that even single doses of 100 mg may affect sleep in some adults, and controlled laboratory research found that 400 mg consumed even six hours before bedtime significantly reduced sleep. Since sleep is itself a major determinant of attention and cognitive performance, chasing productivity through higher caffeine intake can become self-defeating. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sleepeducation.org/sleep-caffeine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleepeducation.org">[Sleep Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleepeducation.org</span><span class="citation-popover-snippet">Sleep and Caffeine &#124; Benefits and RisksCaffeine can have a disruptive effect on your sleep. The most obvious effect of the stimulant is t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.efsa.europa.eu/en/topics/topic/caffeine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: efsa.europa.eu">[European Food Safety Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">efsa.europa.eu</span><span class="citation-popover-title">European Food Safety Authority Caffeine &#124; EFSA</span><span class="citation-popover-snippet">European Food Safety AuthorityCaffeine &#124; EFSA - European UnionSingle doses of 100mg (about 1.4mg/kg bw) of caffeine may affect sleep dura...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5608989/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">75 to 150 mg of caffeine increased alertness and attention [7]. In the EFSA document, numerous controlled studies are described in which...</span></span></span>
+Sleep disruption is an even bigger limitation because it can undermine the next day's performance. EFSA notes that even single doses of 100 mg may affect sleep in some adults, and controlled laboratory research found that 400 mg consumed even six hours before bedtime significantly reduced sleep. Since sleep is itself a major determinant of attention and cognitive performance, chasing productivity through higher caffeine intake can become self-defeating.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sleepeducation.org/sleep-caffeine/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleepeducation.org">[Sleep Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleepeducation.org</span><span class="citation-popover-snippet">Sleep and Caffeine &#124; Benefits and RisksCaffeine can have a disruptive effect on your sleep. The most obvious effect of the stimulant is t...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.efsa.europa.eu/en/topics/topic/caffeine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: efsa.europa.eu">[European Food Safety Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">efsa.europa.eu</span><span class="citation-popover-title">European Food Safety Authority Caffeine &#124; EFSA</span><span class="citation-popover-snippet">European Food Safety AuthorityCaffeine &#124; EFSA - European UnionSingle doses of 100mg (about 1.4mg/kg bw) of caffeine may affect sleep dura...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5608989/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">75 to 150 mg of caffeine increased alertness and attention [7]. In the EFSA document, numerous controlled studies are described in which...</span></span></span>
 
 This creates a common cycle. Poor sleep leads to more caffeine. More caffeine makes sleep worse. Worse sleep increases the perceived need for caffeine. The short-term gain in morning alertness can be outweighed by the long-term cost to recovery and cognitive function.
 
@@ -323,7 +323,7 @@ One useful experiment is to keep the morning routine unchanged while reducing ca
 
 This matters because habits often derive power from repetition and context. If the cue remains intact, some of the productivity benefit may remain even when caffeine falls. A person who automatically reviews priorities and begins work after making coffee may discover that the behavioural sequence contributes more than expected.
 
-Another reason to test lower doses is tolerance. The brain adapts to regular caffeine exposure, which can reduce the perceived impact over time. When that happens, increasing intake may restore the feeling of stimulation without producing proportionally better work. A lower but still effective dose can sometimes preserve the alertness benefit while reducing side effects and sleep costs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.verywellhealth.com/can-caffeine-cause-anxiety-11745734" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verywellhealth.com">[Verywell Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verywellhealth.com</span><span class="citation-popover-snippet">It blocks adenosine, a brain chemical that promotes relaxation and sleepiness, thereby increasing alertness but also stimulating the nerv...</span></span></span>
+Another reason to test lower doses is tolerance. The brain adapts to regular caffeine exposure, which can reduce the perceived impact over time. When that happens, increasing intake may restore the feeling of stimulation without producing proportionally better work. A lower but still effective dose can sometimes preserve the alertness benefit while reducing side effects and sleep costs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.verywellhealth.com/can-caffeine-cause-anxiety-11745734" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verywellhealth.com">[Verywell Health]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verywellhealth.com</span><span class="citation-popover-snippet">It blocks adenosine, a brain chemical that promotes relaxation and sleepiness, thereby increasing alertness but also stimulating the nerv...</span></span></span>
 
 For many adults, the most effective approach is not maximising caffeine but finding the smallest amount that reliably improves morning alertness. That keeps the stimulant working as a tool rather than turning it into a requirement for basic functioning.
 
@@ -331,276 +331,276 @@ For many adults, the most effective approach is not maximising caffeine but find
 
 ## The practical takeaway
 
-The evidence supports a restrained view of caffeine. Moderate amounts can increase alertness, improve vigilance and help people engage with morning work, particularly when paired with a consistent routine. What caffeine cannot do is replace adequate sleep, eliminate the need for planning, or indefinitely improve performance as the dose increases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2014.3574" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: efsa.onlinelibrary.wiley.com">[EFSA Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">efsa.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">EFSA JournalScientific Opinion on the substantiation of a health claim...2014 · Cited by 7 — A claim on caffeine and increased alertness...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0149763419307377" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Effects of acute caffeine consumption following sleep loss...by C Irwin · 2020 · Cited by 108 — This systematic review and meta-analysis...</span></span></span>
+The evidence supports a restrained view of caffeine. Moderate amounts can increase alertness, improve vigilance and help people engage with morning work, particularly when paired with a consistent routine. What caffeine cannot do is replace adequate sleep, eliminate the need for planning, or indefinitely improve performance as the dose increases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2014.3574" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: efsa.onlinelibrary.wiley.com">[EFSA Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">efsa.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">EFSA JournalScientific Opinion on the substantiation of a health claim...2014 · Cited by 7 — A claim on caffeine and increased alertness...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0149763419307377" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Effects of acute caffeine consumption following sleep loss...by C Irwin · 2020 · Cited by 108 — This systematic review and meta-analysis...</span></span></span>
 
-Within a productivity system built around reliable cues, coffee is often most useful as a start signal. The ritual may get you to the desk; a moderate dose of caffeine may help you feel awake enough to begin. Beyond that point, the quality of the work depends far more on sleep, attention management and task selection than on another cup. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5608989/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">75 to 150 mg of caffeine increased alertness and attention [7]. In the EFSA document, numerous controlled studies are described in which...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5608989/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">75 to 150 mg of caffeine increased alertness and attention [7]. In the EFSA document, numerous controlled studies are described in which...</span></span></span>
+Within a productivity system built around reliable cues, coffee is often most useful as a start signal. The ritual may get you to the desk; a moderate dose of caffeine may help you feel awake enough to begin. Beyond that point, the quality of the work depends far more on sleep, attention management and task selection than on another cup.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5608989/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">75 to 150 mg of caffeine increased alertness and attention [7]. In the EFSA document, numerous controlled studies are described in which...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5608989/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">75 to 150 mg of caffeine increased alertness and attention [7]. In the EFSA document, numerous controlled studies are described in which...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iw97uvIge7c" title="Using Caffeine to Optimize Mental &amp; Physical Performance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iw97uvIge7c" target="_blank" rel="noopener noreferrer">Using Caffeine to Optimize Mental &amp; Physical Performance</a></p><p class="youtube-embed-meta">Channel: Andrew Huberman &middot; Views: 1.0M &middot; Uploaded: December 2022 &middot; Length: 2 hours 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iw97uvIge7c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iw97uvIge7c">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Coffee Can and Cannot Do. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Coffee Can and Cannot Do. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Habit stacking and cue-based routines fit the coffee-trigger concept perfectly.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Habit stacking and cue-based routines fit the coffee-trigger concept perfectly.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why We Sleep on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZlU3DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why We Sleep" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why We Sleep">Why We Sleep</a>
-        </h4>
-        <p class="fr-book-author">By Matthew Walker</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why We Sleep on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZlU3DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why We Sleep" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why We Sleep">Why We Sleep</a>
+</h4>
+<p class="fr-book-author">By Matthew Walker</p>
         
-        <p class="fr-book-desc">Directly addresses sleep, alertness, and limits of stimulants.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses sleep, alertness, and limits of stimulants.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sleep+Revolution+by+Arianna+Huffington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sleep Revolution on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hnMkCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Sleep Revolution" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Sleep+Revolution+by+Arianna+Huffington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sleep Revolution">The Sleep Revolution</a>
-        </h4>
-        <p class="fr-book-author">By Arianna Huffington</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sleep+Revolution+by+Arianna+Huffington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sleep Revolution on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hnMkCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Sleep Revolution" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Sleep+Revolution+by+Arianna+Huffington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sleep Revolution">The Sleep Revolution</a>
+</h4>
+<p class="fr-book-author">By Arianna Huffington</p>
         
-        <p class="fr-book-desc">Counters the idea that caffeine can replace recovery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Sleep+Revolution+by+Arianna+Huffington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Counters the idea that caffeine can replace recovery.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Sleep+Revolution+by+Arianna+Huffington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B_L8CAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
-        </h4>
-        <p class="fr-book-author">By Cal Newport</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B_L8CAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
+</h4>
+<p class="fr-book-author">By Cal Newport</p>
         
-        <p class="fr-book-desc">Focuses on concentration beyond stimulant use.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on concentration beyond stimulant use.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+We+Sleep&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why We Sleep</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Sleep+Revolution&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Sleep Revolution</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+We+Sleep&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why We Sleep</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Sleep+Revolution&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Sleep Revolution</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-coffee-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Coffee Mug Stainless Steel 350ml Insulated With Flip Lid Spil Proof Double Wall"><img src="{{ '/assets/images/marketplace-covers/0f10881e897cfb0f73f0.jpg' | relative_url }}" alt="Listing image for Coffee Mug Stainless Steel 350ml Insulated With Flip Lid Spil Proof Double Wall" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-coffee-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Coffee Mug Stainless Steel 350ml Insulated With Flip Lid Spil Proof Double Wall</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-coffee-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for coffee mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: coffee mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-coffee-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-coffee-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Coffee Mug Stainless Steel 350ml Insulated With Flip Lid Spil Proof Double Wall"><img src="{{ '/assets/images/marketplace-covers/0f10881e897cfb0f73f0.jpg' | relative_url }}" alt="Listing image for Coffee Mug Stainless Steel 350ml Insulated With Flip Lid Spil Proof Double Wall" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-coffee-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Coffee Mug Stainless Steel 350ml Insulated With Flip Lid Spil Proof Double Wall</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-coffee-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for coffee mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: coffee mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-coffee-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-coffee-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smeg Coffee Mug Stainless Steel Travel Water Bottle Insulated Cup 6 Colors"><img src="{{ '/assets/images/marketplace-covers/93063b88fe6e44176322.jpg' | relative_url }}" alt="Listing image for Smeg Coffee Mug Stainless Steel Travel Water Bottle Insulated Cup 6 Colors" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-coffee-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Smeg Coffee Mug Stainless Steel Travel Water Bottle Insulated Cup 6 Colors</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-coffee-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for coffee mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: coffee mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-coffee-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-coffee-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smeg Coffee Mug Stainless Steel Travel Water Bottle Insulated Cup 6 Colors"><img src="{{ '/assets/images/marketplace-covers/93063b88fe6e44176322.jpg' | relative_url }}" alt="Listing image for Smeg Coffee Mug Stainless Steel Travel Water Bottle Insulated Cup 6 Colors" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-coffee-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Smeg Coffee Mug Stainless Steel Travel Water Bottle Insulated Cup 6 Colors</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-coffee-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for coffee mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: coffee mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-coffee-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-coffee-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2x Double Wall Insulated Glass Coffee Mugs Thermal Tea Cup Clear 90ml to 450ml"><img src="{{ '/assets/images/marketplace-covers/5df0fd41940bc02942d7.jpg' | relative_url }}" alt="Listing image for 2x Double Wall Insulated Glass Coffee Mugs Thermal Tea Cup Clear 90ml to 450ml" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-coffee-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">2x Double Wall Insulated Glass Coffee Mugs Thermal Tea Cup Clear 90ml to 450ml</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-coffee-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for coffee mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: coffee mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-coffee-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-coffee-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2x Double Wall Insulated Glass Coffee Mugs Thermal Tea Cup Clear 90ml to 450ml"><img src="{{ '/assets/images/marketplace-covers/5df0fd41940bc02942d7.jpg' | relative_url }}" alt="Listing image for 2x Double Wall Insulated Glass Coffee Mugs Thermal Tea Cup Clear 90ml to 450ml" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-coffee-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">2x Double Wall Insulated Glass Coffee Mugs Thermal Tea Cup Clear 90ml to 450ml</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-coffee-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for coffee mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: coffee mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-coffee-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-coffee-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pure Copper Mug Cup For Moscow Mule Coffee Beer Drinking Cocktail Camping 450ML"><img src="{{ '/assets/images/marketplace-covers/dc157924a4a0b2bf7854.jpg' | relative_url }}" alt="Listing image for Pure Copper Mug Cup For Moscow Mule Coffee Beer Drinking Cocktail Camping 450ML" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-coffee-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Pure Copper Mug Cup For Moscow Mule Coffee Beer Drinking Cocktail Camping 450ML</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-coffee-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for coffee mug">Search <span data-ebay-domain-label>eBay.co.uk</span>: coffee mug</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-coffee-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-coffee-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-coffee-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pure Copper Mug Cup For Moscow Mule Coffee Beer Drinking Cocktail Camping 450ML"><img src="{{ '/assets/images/marketplace-covers/dc157924a4a0b2bf7854.jpg' | relative_url }}" alt="Listing image for Pure Copper Mug Cup For Moscow Mule Coffee Beer Drinking Cocktail Camping 450ML" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-coffee-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Pure Copper Mug Cup For Moscow Mule Coffee Beer Drinking Cocktail Camping 450ML</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-coffee-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for coffee mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: coffee mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-coffee-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=caffeine-limits-what-coffee-can-and-cannot-do-self-improvement-that-works-coffee-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -616,7 +616,7 @@ Within a productivity system built around reliable cues, coffee is often most us
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -636,7 +636,7 @@ Within a productivity system built around reliable cues, coffee is often most us
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -668,7 +668,7 @@ Within a productivity system built around reliable cues, coffee is often most us
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -698,7 +698,7 @@ Within a productivity system built around reliable cues, coffee is often most us
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -756,171 +756,171 @@ Within a productivity system built around reliable cues, coffee is often most us
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0149763416300690" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0149763416300690</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A review of caffeine&#x27;s effects on cognitive, physical and...by TM McLellan · 2016 · Cited by 1225 — This review examines th...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0149763416300690" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0149763416300690</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A review of caffeine&#x27;s effects on cognitive, physical and...by TM McLellan · 2016 · Cited by 1225 — This review examines th...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: orca.cardiff.ac.uk  
    Title: ORCACaffeine, habitual caffeine consumption, alertness  
-   Link: <a href="https://orca.cardiff.ac.uk/id/eprint/151582/" target="_blank" rel="noopener noreferrer nofollow">https://orca.cardiff.ac.uk/id/eprint/151582/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by A Smith · 2022 · Cited by 9 — Conclusion: These results demonstrate that caffeine increases alertness and improves sustained atten...</p></details>
+   Link:<a href="https://orca.cardiff.ac.uk/id/eprint/151582/" target="_blank" rel="noopener noreferrer nofollow">https://orca.cardiff.ac.uk/id/eprint/151582/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by A Smith · 2022 · Cited by 9 — Conclusion: These results demonstrate that caffeine increases alertness and improves sustained atten...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: fda.gov  
    Title: spilling beans how much caffeine too much  
-   Link: <a href="https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationSpilling the Beans: How Much Caffeine is Too Much?28 Aug 2024 — For most adults, the FDA has cited 400 millig...</p></details>
+   Link:<a href="https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much" target="_blank" rel="noopener noreferrer nofollow">https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Food and Drug AdministrationSpilling the Beans: How Much Caffeine is Too Much?28 Aug 2024 — For most adults, the FDA has cited 400 millig...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: time.com  
-   Link: <a href="https://time.com/7331760/why-does-coffee-give-me-anxiety/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/7331760/why-does-coffee-give-me-anxiety/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Caffeine works by blocking adenosine receptors in the brain, which typically promote calmness and drowsiness. This blockade releases stim...</p></details>
+   Link:<a href="https://time.com/7331760/why-does-coffee-give-me-anxiety/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/7331760/why-does-coffee-give-me-anxiety/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Caffeine works by blocking adenosine receptors in the brain, which typically promote calmness and drowsiness. This blockade releases stim...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sleep.me  
    Title: caffeine and sleep  
-   Link: <a href="https://sleep.me/post/caffeine-and-sleep?srsltid=AfmBOoot_f_t10W9qaVSc_2JdW4uOVIw3nvkm_NgJc9hchD5bpkxbrCT" target="_blank" rel="noopener noreferrer nofollow">https://sleep.me/post/caffeine-and-sleep?srsltid=AfmBOoot_f_t10W9qaVSc_2JdW4uOVIw3nvkm_NgJc9hchD5bpkxbrCT</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Does Caffeine Affect Your Sleep?23 Jan 2024 — The FDA suggests up to 400 mg of caffeine daily is safe for healthy adults.... cause s...</p></details>
+   Link:<a href="https://sleep.me/post/caffeine-and-sleep?srsltid=AfmBOoot_f_t10W9qaVSc_2JdW4uOVIw3nvkm_NgJc9hchD5bpkxbrCT" target="_blank" rel="noopener noreferrer nofollow">https://sleep.me/post/caffeine-and-sleep?srsltid=AfmBOoot_f_t10W9qaVSc_2JdW4uOVIw3nvkm_NgJc9hchD5bpkxbrCT</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Does Caffeine Affect Your Sleep?23 Jan 2024 — The FDA suggests up to 400 mg of caffeine daily is safe for healthy adults.... cause s...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0149763419307377" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0149763419307377</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of acute caffeine consumption following sleep loss...by C Irwin · 2020 · Cited by 108 — This systematic review and meta-analysis...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0149763419307377" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0149763419307377</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of acute caffeine consumption following sleep loss...by C Irwin · 2020 · Cited by 108 — This systematic review and meta-analysis...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0278691517301709" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0278691517301709</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Systematic review of the potential adverse effects...by D Wikoff · 2017 · Cited by 634 — The evidence generally supports that consumptio...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0278691517301709" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0278691517301709</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Systematic review of the potential adverse effects...by D Wikoff · 2017 · Cited by 634 — The evidence generally supports that consumptio...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: efsa.onlinelibrary.wiley.com  
-   Link: <a href="https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2014.3574" target="_blank" rel="noopener noreferrer nofollow">https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2014.3574</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EFSA JournalScientific Opinion on the substantiation of a health claim...2014 · Cited by 7 — A claim on caffeine and increased alertness...</p></details>
+   Link:<a href="https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2014.3574" target="_blank" rel="noopener noreferrer nofollow">https://efsa.onlinelibrary.wiley.com/doi/abs/10.2903/j.efsa.2014.3574</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EFSA JournalScientific Opinion on the substantiation of a health claim...2014 · Cited by 7 — A claim on caffeine and increased alertness...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: efsa.onlinelibrary.wiley.com  
-   Link: <a href="https://efsa.onlinelibrary.wiley.com/doi/pdf/10.2903/j.efsa.2011.2054" target="_blank" rel="noopener noreferrer nofollow">https://efsa.onlinelibrary.wiley.com/doi/pdf/10.2903/j.efsa.2011.2054</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The results from the...Read more...</p></details>
+   Link:<a href="https://efsa.onlinelibrary.wiley.com/doi/pdf/10.2903/j.efsa.2011.2054" target="_blank" rel="noopener noreferrer nofollow">https://efsa.onlinelibrary.wiley.com/doi/pdf/10.2903/j.efsa.2011.2054</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The results from the...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5608989/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5608989/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>75 to 150 mg of caffeine increased alertness and attention [7]. In the EFSA document, numerous controlled studies are described in which...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5608989/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5608989/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>75 to 150 mg of caffeine increased alertness and attention [7]. In the EFSA document, numerous controlled studies are described in which...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12884582/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12884582/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralCaffeine Selectively Mitigates Cognitive Deficits Caused by...by ME Stepan · 2021 · Cited by 19 — These effects are consis...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12884582/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12884582/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralCaffeine Selectively Mitigates Cognitive Deficits Caused by...by ME Stepan · 2021 · Cited by 19 — These effects are consis...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8935086/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8935086/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8935086/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8935086/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Sleep deprivation: Impact on cognitive performance  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2656292/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2656292/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Studies on its effects on more demanding cognitive functions are lacking. Coping with SD...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2656292/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2656292/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Studies on its effects on more demanding cognitive functions are lacking. Coping with SD...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: efsa.europa.eu  
    Title: European Food Safety Authority Caffeine | EFSA  
-   Link: <a href="https://www.efsa.europa.eu/en/topics/topic/caffeine" target="_blank" rel="noopener noreferrer nofollow">https://www.efsa.europa.eu/en/topics/topic/caffeine</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>European Food Safety AuthorityCaffeine | EFSA - European UnionSingle doses of 100mg (about 1.4mg/kg bw) of caffeine may affect sleep dura...</p></details>
+   Link:<a href="https://www.efsa.europa.eu/en/topics/topic/caffeine" target="_blank" rel="noopener noreferrer nofollow">https://www.efsa.europa.eu/en/topics/topic/caffeine</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>European Food Safety AuthorityCaffeine | EFSA - European UnionSingle doses of 100mg (about 1.4mg/kg bw) of caffeine may affect sleep dura...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Caffeine intake and anxiety: a meta-analysis  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10867825/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10867825/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralCaffeine intake and anxiety: a meta-analysis - PMCby C Liu · 2024 · Cited by 80 — In summary, the results of our meta-analy...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10867825/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10867825/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralCaffeine intake and anxiety: a meta-analysis - PMCby C Liu · 2024 · Cited by 80 — In summary, the results of our meta-analy...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: verywellhealth.com  
-   Link: <a href="https://www.verywellhealth.com/can-caffeine-cause-anxiety-11745734" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellhealth.com/can-caffeine-cause-anxiety-11745734</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It blocks adenosine, a brain chemical that promotes relaxation and sleepiness, thereby increasing alertness but also stimulating the nerv...</p></details>
+   Link:<a href="https://www.verywellhealth.com/can-caffeine-cause-anxiety-11745734" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellhealth.com/can-caffeine-cause-anxiety-11745734</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It blocks adenosine, a brain chemical that promotes relaxation and sleepiness, thereby increasing alertness but also stimulating the nerv...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3805807/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3805807/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralCaffeine Effects on Sleep Taken 0, 3, or 6 Hours before Going...by C Drake · 2013 · Cited by 731 — The results of this stu...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3805807/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3805807/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralCaffeine Effects on Sleep Taken 0, 3, or 6 Hours before Going...by C Drake · 2013 · Cited by 731 — The results of this stu...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: sleepeducation.org  
-   Link: <a href="https://sleepeducation.org/sleep-caffeine/" target="_blank" rel="noopener noreferrer nofollow">https://sleepeducation.org/sleep-caffeine/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep and Caffeine | Benefits and RisksCaffeine can have a disruptive effect on your sleep. The most obvious effect of the stimulant is t...</p></details>
+   Link:<a href="https://sleepeducation.org/sleep-caffeine/" target="_blank" rel="noopener noreferrer nofollow">https://sleepeducation.org/sleep-caffeine/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep and Caffeine | Benefits and RisksCaffeine can have a disruptive effect on your sleep. The most obvious effect of the stimulant is t...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: verywellhealth.com  
    Title: Verywell Health What Happens to Your Brain When You Drink Caffeine Every Day  
-   Link: <a href="https://www.verywellhealth.com/what-does-caffeine-do-to-your-brain-11907104" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellhealth.com/what-does-caffeine-do-to-your-brain-11907104</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In moderate amounts, caffeine blocks adenosine, a brain chemical that induces sleepiness, thus promoting alertness and a temporary mood b...</p></details>
+   Link:<a href="https://www.verywellhealth.com/what-does-caffeine-do-to-your-brain-11907104" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellhealth.com/what-does-caffeine-do-to-your-brain-11907104</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In moderate amounts, caffeine blocks adenosine, a brain chemical that induces sleepiness, thus promoting alertness and a temporary mood b...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5445139/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5445139/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralThe Safety of Ingested Caffeine: A Comprehensive Reviewby JL Temple · 2017 · Cited by 796 — We report that, for healthy adu...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5445139/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5445139/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralThe Safety of Ingested Caffeine: A Comprehensive Reviewby JL Temple · 2017 · Cited by 796 — We report that, for healthy adu...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK223791/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK223791/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Caffeine - NCBI - NIHResearch suggests that doses of caffeine between 150 and 600 mg are effective in alleviating sleep deprivation-in...</p></details>
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK223791/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK223791/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Caffeine - NCBI - NIHResearch suggests that doses of caffeine between 150 and 600 mg are effective in alleviating sleep deprivation-in...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: webmd.com  
-   Link: <a href="https://www.webmd.com/vitamins/ai/ingredientmono-979/caffeine" target="_blank" rel="noopener noreferrer nofollow">https://www.webmd.com/vitamins/ai/ingredientmono-979/caffeine</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Uses, Side Effects, and MoreCaffeine is possibly unsafe when used for a long time or in doses over 400 mg daily. Caffeine can cause insom...</p></details>
+   Link:<a href="https://www.webmd.com/vitamins/ai/ingredientmono-979/caffeine" target="_blank" rel="noopener noreferrer nofollow">https://www.webmd.com/vitamins/ai/ingredientmono-979/caffeine</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Uses, Side Effects, and MoreCaffeine is possibly unsafe when used for a long time or in doses over 400 mg daily. Caffeine can cause insom...</p></details>
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/nature-index/topics/l4/caffeine-effects-on-sleep-and-cognitive-performance" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/caffeine-effects-on-sleep-and-cognitive-performance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Caffeine Effects on Sleep and Cognitive PerformanceBy blocking adenosine A1 and A2A receptors, caffeine promotes wakefulness, enhances al...</p></details>
+   Link:<a href="https://www.nature.com/nature-index/topics/l4/caffeine-effects-on-sleep-and-cognitive-performance" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/caffeine-effects-on-sleep-and-cognitive-performance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Caffeine Effects on Sleep and Cognitive PerformanceBy blocking adenosine A1 and A2A receptors, caffeine promotes wakefulness, enhances al...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: webmd.com  
-   Link: <a href="https://www.webmd.com/sleep-disorders/caffeine-pills-what-to-know" target="_blank" rel="noopener noreferrer nofollow">https://www.webmd.com/sleep-disorders/caffeine-pills-what-to-know</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Caffeine Pills: What to KnowIf you feel drowsy or tired regularly, talk to a doctor. Are Caffeine Pills Safe? If you&#x27;re an adult, you can...</p></details>
+   Link:<a href="https://www.webmd.com/sleep-disorders/caffeine-pills-what-to-know" target="_blank" rel="noopener noreferrer nofollow">https://www.webmd.com/sleep-disorders/caffeine-pills-what-to-know</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Caffeine Pills: What to KnowIf you feel drowsy or tired regularly, talk to a doctor. Are Caffeine Pills Safe? If you&#x27;re an adult, you can...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: medicalnewstoday.com  
-   Link: <a href="https://www.medicalnewstoday.com/articles/285194" target="_blank" rel="noopener noreferrer nofollow">https://www.medicalnewstoday.com/articles/285194</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Caffeine: Benefits, risks, and effectsCaffeine is a stimulant that occurs naturally in several foods. The FDA recommends no more than 400...</p></details>
+   Link:<a href="https://www.medicalnewstoday.com/articles/285194" target="_blank" rel="noopener noreferrer nofollow">https://www.medicalnewstoday.com/articles/285194</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Caffeine: Benefits, risks, and effectsCaffeine is a stimulant that occurs naturally in several foods. The FDA recommends no more than 400...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: nutritionaloutlook.com  
-   Link: <a href="https://www.nutritionaloutlook.com/view/efsa-says-caffeine-safe-eu-adults-400-mg-daily-or-200-mg-single-dose" target="_blank" rel="noopener noreferrer nofollow">https://www.nutritionaloutlook.com/view/efsa-says-caffeine-safe-eu-adults-400-mg-daily-or-200-mg-single-dose</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EFSA Says Caffeine Safe for EU Adults at 400 mg Daily or...EFSA pointed out that while the NDA Panel previously issued a positive opinio...</p></details>
+   Link:<a href="https://www.nutritionaloutlook.com/view/efsa-says-caffeine-safe-eu-adults-400-mg-daily-or-200-mg-single-dose" target="_blank" rel="noopener noreferrer nofollow">https://www.nutritionaloutlook.com/view/efsa-says-caffeine-safe-eu-adults-400-mg-daily-or-200-mg-single-dose</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EFSA Says Caffeine Safe for EU Adults at 400 mg Daily or...EFSA pointed out that while the NDA Panel previously issued a positive opinio...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/iowahhs_its-national-coffee-day-but-its-important-activity-7378394373585276929-8NFL" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/iowahhs_its-national-coffee-day-but-its-important-activity-7378394373585276929-8NFL</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Iowa Department of Health and Human Services&#x27; PostFor most adults, the FDA has cited 400 milligrams* a day. Too much caffeine... insomni...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/iowahhs_its-national-coffee-day-but-its-important-activity-7378394373585276929-8NFL" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/iowahhs_its-national-coffee-day-but-its-important-activity-7378394373585276929-8NFL</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Iowa Department of Health and Human Services&#x27; PostFor most adults, the FDA has cited 400 milligrams* a day. Too much caffeine... insomni...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: mayoclinic.org  
-   Link: <a href="https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/caffeine/art-20045678" target="_blank" rel="noopener noreferrer nofollow">https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/caffeine/art-20045678</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Caffeine: How much is too much?Up to 400 milligrams (mg) of caffeine a day seems safe for most adults. That&#x27;s about the amount of caffein...</p></details>
+   Link:<a href="https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/caffeine/art-20045678" target="_blank" rel="noopener noreferrer nofollow">https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/caffeine/art-20045678</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Caffeine: How much is too much?Up to 400 milligrams (mg) of caffeine a day seems safe for most adults. That&#x27;s about the amount of caffein...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: dovepress.com  
-   Link: <a href="https://www.dovepress.com/effects-of-caffeine-intake-on-cognitive-performance-related-to-total-s-peer-reviewed-fulltext-article-NSS" target="_blank" rel="noopener noreferrer nofollow">https://www.dovepress.com/effects-of-caffeine-intake-on-cognitive-performance-related-to-total-s-peer-reviewed-fulltext-article-NSS</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of caffeine intake on cognitive performance | NSSby M Quiquempoix · 2022 · Cited by 22 — Caffeine administration was evidenced bo...</p></details>
+   Link:<a href="https://www.dovepress.com/effects-of-caffeine-intake-on-cognitive-performance-related-to-total-s-peer-reviewed-fulltext-article-NSS" target="_blank" rel="noopener noreferrer nofollow">https://www.dovepress.com/effects-of-caffeine-intake-on-cognitive-performance-related-to-total-s-peer-reviewed-fulltext-article-NSS</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of caffeine intake on cognitive performance | NSSby M Quiquempoix · 2022 · Cited by 22 — Caffeine administration was evidenced bo...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: helpguide.org  
-   Link: <a href="https://www.helpguide.org/mental-health/wellbeing/how-much-caffeine" target="_blank" rel="noopener noreferrer nofollow">https://www.helpguide.org/mental-health/wellbeing/how-much-caffeine</a>  
+   Link:<a href="https://www.helpguide.org/mental-health/wellbeing/how-much-caffeine" target="_blank" rel="noopener noreferrer nofollow">https://www.helpguide.org/mental-health/wellbeing/how-much-caffeine</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: nutraingredients.com  
    Title: alert vs insomniac efsa says caffeine effect can be both good and bad  
-   Link: <a href="https://www.nutraingredients.com/Article/2015/03/06/alert-vs-insomniac-efsa-says-caffeine-effect-can-be-both-good-and-bad/" target="_blank" rel="noopener noreferrer nofollow">https://www.nutraingredients.com/Article/2015/03/06/alert-vs-insomniac-efsa-says-caffeine-effect-can-be-both-good-and-bad/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>75 mg caffeine per serving and a warning not to exceed 300 mg day. At the time EFSA said increased alertness might be and increased atten...</p></details>
+   Link:<a href="https://www.nutraingredients.com/Article/2015/03/06/alert-vs-insomniac-efsa-says-caffeine-effect-can-be-both-good-and-bad/" target="_blank" rel="noopener noreferrer nofollow">https://www.nutraingredients.com/Article/2015/03/06/alert-vs-insomniac-efsa-says-caffeine-effect-can-be-both-good-and-bad/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>75 mg caffeine per serving and a warning not to exceed 300 mg day. At the time EFSA said increased alertness might be and increased atten...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/307684881_Scientific_Opinion_on_the_substantiation_of_a_health_claim_related_to_caffeine_and_increased_alertness_pursuant_to_Article_135_of_Regulation_EC_No_19242006" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/307684881_Scientific_Opinion_on_the_substantiation_of_a_health_claim_related_to_caffeine_and_increased_alertness_pursuant_to_Article_135_of_Regulation_EC_No_19242006</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A claim on caffeine and increased alertness, in the general adult population, for products...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/307684881_Scientific_Opinion_on_the_substantiation_of_a_health_claim_related_to_caffeine_and_increased_alertness_pursuant_to_Article_135_of_Regulation_EC_No_19242006" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/307684881_Scientific_Opinion_on_the_substantiation_of_a_health_claim_related_to_caffeine_and_increased_alertness_pursuant_to_Article_135_of_Regulation_EC_No_19242006</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A claim on caffeine and increased alertness, in the general adult population, for products...Read more...</p></details>

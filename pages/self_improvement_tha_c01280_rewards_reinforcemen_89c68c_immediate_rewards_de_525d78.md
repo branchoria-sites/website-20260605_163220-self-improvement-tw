@@ -274,12 +274,12 @@ image: /assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_im
 
 ## Introduction
 
-Many of the habits that matter most in self-improvement suffer from a simple problem: the work happens now, but the reward arrives later. Exercise improves health over months, [saving]({{ 'saving/' | relative_url }}) money builds security over years, and studying may not pay off until an exam or career opportunity appears. Immediate [rewards]({{ 'rewards/' | relative_url }}) help bridge this timing gap. They give the brain a reason to value today's effort before the long-term benefit becomes visible. When used well, these rewards do not bribe behaviour; they make progress feel complete in the moment, increasing the likelihood that the habit will be repeated. Research on habit formation suggests that pleasure and perceived reward strengthen the growth of habits beyond mere repetition, helping behaviours become more automatic over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Pleasure and intrinsic motivation can aid habit formation through promoting greater increase in habit strength per behaviour repetition...</span></span></span>
+Many of the habits that matter most in self-improvement suffer from a simple problem: the work happens now, but the reward arrives later. Exercise improves health over months, [saving]({{ 'saving/' | relative_url }}) money builds security over years, and studying may not pay off until an exam or career opportunity appears. Immediate [rewards]({{ 'rewards/' | relative_url }}) help bridge this timing gap. They give the brain a reason to value today's effort before the long-term benefit becomes visible. When used well, these rewards do not bribe behaviour; they make progress feel complete in the moment, increasing the likelihood that the habit will be repeated. Research on habit formation suggests that pleasure and perceived reward strengthen the growth of habits beyond mere repetition, helping behaviours become more automatic over time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Pleasure and intrinsic motivation can aid habit formation through promoting greater increase in habit strength per behaviour repetition...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_immediate_rewards_de_525d78-Illustration-1-dark.svg" | relative_url }}" alt="Immediate Rewards illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_immediate_rewards_de_525d78-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_immediate_rewards_de_525d78-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Timing Gap Between Effort and Benefit
 
-Human decision-making is strongly influenced by timing. Psychologists and behavioural economists describe a phenomenon called temporal discounting: people tend to value immediate outcomes more highly than equally valuable outcomes that arrive later. A future reward is mentally discounted simply because it is delayed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Pleasure and intrinsic motivation can aid habit formation through promoting greater increase in habit strength per behaviour repetition...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Pleasure and intrinsic motivation can aid habit formation through promoting greater increase in habit strength per behaviour repetition...</span></span></span>
+Human decision-making is strongly influenced by timing. Psychologists and behavioural economists describe a phenomenon called temporal discounting: people tend to value immediate outcomes more highly than equally valuable outcomes that arrive later. A future reward is mentally discounted simply because it is delayed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Pleasure and intrinsic motivation can aid habit formation through promoting greater increase in habit strength per behaviour repetition...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Pleasure and intrinsic motivation can aid habit formation through promoting greater increase in habit strength per behaviour repetition...</span></span></span>
 
 This creates a structural disadvantage for good habits. Consider three examples:
 
@@ -291,7 +291,7 @@ This creates a structural disadvantage for good habits. Consider three examples:
 
 </div>
 
-From the brain's perspective, the costs are concrete and immediate, while the benefits are distant and uncertain. Studies of temporal discounting consistently show that stronger preferences for immediate rewards are associated with behaviours such as procrastination and other choices that prioritise present comfort over future gains. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Pleasure and intrinsic motivation can aid habit formation through promoting greater increase in habit strength per behaviour repetition...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Pleasure and intrinsic motivation can aid habit formation through promoting greater increase in habit strength per behaviour repetition...</span></span></span>
+From the brain's perspective, the costs are concrete and immediate, while the benefits are distant and uncertain. Studies of temporal discounting consistently show that stronger preferences for immediate rewards are associated with behaviours such as procrastination and other choices that prioritise present comfort over future gains.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Pleasure and intrinsic motivation can aid habit formation through promoting greater increase in habit strength per behaviour repetition...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Pleasure and intrinsic motivation can aid habit formation through promoting greater increase in habit strength per behaviour repetition...</span></span></span>
 
 An immediate reward changes this calculation. It does not replace the long-term payoff. Instead, it adds a small present benefit that helps the desired behaviour compete against easier alternatives.
 
@@ -299,11 +299,11 @@ An immediate reward changes this calculation. It does not replace the long-term 
 
 The mechanism is not primarily about the size of the reward. It is about timing.
 
-When a positive experience occurs immediately after a behaviour, the brain can more easily connect the two. The behaviour no longer ends with effort alone; it ends with a feeling of completion, satisfaction, relief, pride, [enjoyment]({{ 'enjoyment/' | relative_url }}) or success. This immediate positive emotion strengthens the association between the action and a desirable outcome. <span class="citation-chip-wrap"><a class="citation-chip" href="https://quizlet.com/dk/485552369/tiny-habits-bj-fogg-flash-cards/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quizlet.com">[Tiny Habits]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quizlet.com</span><span class="citation-popover-snippet">BJ Fogg FlashcardsInstant Celebration - create a positive emotion (gratification). Fogg... rehearse behavior sequence: anchor, new habit...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://quizlet.com/dk/485552369/tiny-habits-bj-fogg-flash-cards/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quizlet.com">[Tiny Habits]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quizlet.com</span><span class="citation-popover-snippet">BJ Fogg FlashcardsInstant Celebration - create a positive emotion (gratification). Fogg... rehearse behavior sequence: anchor, new habit...</span></span></span>
+When a positive experience occurs immediately after a behaviour, the brain can more easily connect the two. The behaviour no longer ends with effort alone; it ends with a feeling of completion, satisfaction, relief, pride, [enjoyment]({{ 'enjoyment/' | relative_url }}) or success. This immediate positive emotion strengthens the association between the action and a desirable outcome.<span class="citation-chip-wrap"><a class="citation-chip" href="https://quizlet.com/dk/485552369/tiny-habits-bj-fogg-flash-cards/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quizlet.com">[Tiny Habits]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quizlet.com</span><span class="citation-popover-snippet">BJ Fogg FlashcardsInstant Celebration - create a positive emotion (gratification). Fogg... rehearse behavior sequence: anchor, new habit...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://quizlet.com/dk/485552369/tiny-habits-bj-fogg-flash-cards/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quizlet.com">[Tiny Habits]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quizlet.com</span><span class="citation-popover-snippet">BJ Fogg FlashcardsInstant Celebration - create a positive emotion (gratification). Fogg... rehearse behavior sequence: anchor, new habit...</span></span></span>
 
-Research on habit formation supports this idea. In a study examining reward and habit development, pleasure and intrinsic [motivation]({{ 'motivation/' | relative_url }}) were associated with greater increases in habit strength for each repetition of a behaviour. The important finding was that reward appeared to reinforce habit formation beyond simply increasing how often people performed the action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Pleasure and intrinsic motivation can aid habit formation through promoting greater increase in habit strength per behaviour repetition...</span></span></span>
+Research on habit formation supports this idea. In a study examining reward and habit development, pleasure and intrinsic [motivation]({{ 'motivation/' | relative_url }}) were associated with greater increases in habit strength for each repetition of a behaviour. The important finding was that reward appeared to reinforce habit formation beyond simply increasing how often people performed the action.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Pleasure and intrinsic motivation can aid habit formation through promoting greater increase in habit strength per behaviour repetition...</span></span></span>
 
-This helps explain why two people can repeat the same habit equally often yet develop different levels of [automaticity]({{ 'automaticity/' | relative_url }}). The person who experiences the behaviour as satisfying, meaningful or rewarding is more likely to build a durable habit than the person who merely tolerates it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Pleasure and intrinsic motivation can aid habit formation through promoting greater increase in habit strength per behaviour repetition...</span></span></span>
+This helps explain why two people can repeat the same habit equally often yet develop different levels of [automaticity]({{ 'automaticity/' | relative_url }}). The person who experiences the behaviour as satisfying, meaningful or rewarding is more likely to build a durable habit than the person who merely tolerates it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Pleasure and intrinsic motivation can aid habit formation through promoting greater increase in habit strength per behaviour repetition...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GneKvncCoDU" title="How Celebrating Small Wins Can Help Form a Lasting Habit" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GneKvncCoDU" target="_blank" rel="noopener noreferrer">How Celebrating Small Wins Can Help Form a Lasting Habit</a></p><p class="youtube-embed-meta">Channel: Thrive &middot; Views: 7.7K &middot; Uploaded: February 2020 &middot; Length: 2 minutes 17 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GneKvncCoDU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GneKvncCoDU">Open on YouTube</a></p></div></div></div>
 
@@ -324,7 +324,7 @@ Examples include:
 
 </div>
 
-These rewards work because they occur close to the behaviour itself. The shorter the delay between action and satisfaction, the stronger the psychological connection tends to be. <span class="citation-chip-wrap"><a class="citation-chip" href="https://quizlet.com/dk/485552369/tiny-habits-bj-fogg-flash-cards/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quizlet.com">[Tiny Habits]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quizlet.com</span><span class="citation-popover-snippet">BJ Fogg FlashcardsInstant Celebration - create a positive emotion (gratification). Fogg... rehearse behavior sequence: anchor, new habit...</span></span></span>
+These rewards work because they occur close to the behaviour itself. The shorter the delay between action and satisfaction, the stronger the psychological connection tends to be.<span class="citation-chip-wrap"><a class="citation-chip" href="https://quizlet.com/dk/485552369/tiny-habits-bj-fogg-flash-cards/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quizlet.com">[Tiny Habits]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quizlet.com</span><span class="citation-popover-snippet">BJ Fogg FlashcardsInstant Celebration - create a positive emotion (gratification). Fogg... rehearse behavior sequence: anchor, new habit...</span></span></span>
 
 Notably, many successful rewards cost little or nothing. The reward is often the positive emotional experience rather than the material value of what is received.
 
@@ -333,7 +333,7 @@ Notably, many successful rewards cost little or nothing. The reward is often the
 
 A useful reward creates positive emotion while keeping attention on the habit itself.
 
-Behaviour researcher BJ Fogg has argued that small celebrations immediately after completing a behaviour can accelerate habit formation because positive emotion helps "wire" the behaviour into memory. In his framework, even a brief moment of pride, acknowledgement or celebration can reinforce repetition when it follows the action directly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://quizlet.com/dk/485552369/tiny-habits-bj-fogg-flash-cards/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quizlet.com">[Tiny Habits]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quizlet.com</span><span class="citation-popover-snippet">BJ Fogg FlashcardsInstant Celebration - create a positive emotion (gratification). Fogg... rehearse behavior sequence: anchor, new habit...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://quizlet.com/dk/485552369/tiny-habits-bj-fogg-flash-cards/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quizlet.com">[Tiny Habits]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quizlet.com</span><span class="citation-popover-snippet">BJ Fogg FlashcardsInstant Celebration - create a positive emotion (gratification). Fogg... rehearse behavior sequence: anchor, new habit...</span></span></span>
+Behaviour researcher BJ Fogg has argued that small celebrations immediately after completing a behaviour can accelerate habit formation because positive emotion helps "wire" the behaviour into memory. In his framework, even a brief moment of pride, acknowledgement or celebration can reinforce repetition when it follows the action directly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://quizlet.com/dk/485552369/tiny-habits-bj-fogg-flash-cards/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quizlet.com">[Tiny Habits]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quizlet.com</span><span class="citation-popover-snippet">BJ Fogg FlashcardsInstant Celebration - create a positive emotion (gratification). Fogg... rehearse behavior sequence: anchor, new habit...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://quizlet.com/dk/485552369/tiny-habits-bj-fogg-flash-cards/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: quizlet.com">[Tiny Habits]</a><span class="citation-popover" role="note"><span class="citation-popover-source">quizlet.com</span><span class="citation-popover-snippet">BJ Fogg FlashcardsInstant Celebration - create a positive emotion (gratification). Fogg... rehearse behavior sequence: anchor, new habit...</span></span></span>
 
 The most effective immediate rewards often fall into three categories:
 
@@ -364,7 +364,7 @@ For example:
 
 </div>
 
-Long-term [behaviour change]({{ 'behaviour-change/' | relative_url }}) is more stable when people gradually internalise the value of the behaviour rather than continuing solely for an external reward. Immediate rewards are most effective when they act as temporary bridges between effort and future benefit, not permanent substitutes for motivation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://psych.wisc.edu/news/rethinking-rewards/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psych.wisc.edu">[UW-Madison Psych Department]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psych.wisc.edu</span><span class="citation-popover-snippet">UW-Madison Psych DepartmentRethinking rewards: Motivating long-term behavior change...Financial incentives are a form of extrinsic motiv...</span></span></span>
+Long-term [behaviour change]({{ 'behaviour-change/' | relative_url }}) is more stable when people gradually internalise the value of the behaviour rather than continuing solely for an external reward. Immediate rewards are most effective when they act as temporary bridges between effort and future benefit, not permanent substitutes for motivation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://psych.wisc.edu/news/rethinking-rewards/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psych.wisc.edu">[UW-Madison Psych Department]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psych.wisc.edu</span><span class="citation-popover-snippet">UW-Madison Psych DepartmentRethinking rewards: Motivating long-term behavior change...Financial incentives are a form of extrinsic motiv...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_immediate_rewards_de_525d78-Illustration-3-dark.svg" | relative_url }}" alt="Immediate Rewards illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_immediate_rewards_de_525d78-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_immediate_rewards_de_525d78-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Practical Rule for Delayed-Payoff Habits
@@ -375,281 +375,281 @@ The reward should be:
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
-* Immediate rather than delayed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7373228/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralDelay discounting of different outcomes: Review and theoryby AL Odum · 2020 · Cited by 254 — Steep delay discounting is cha...</span></span></span>
+* Immediate rather than delayed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7373228/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralDelay discounting of different outcomes: Review and theoryby AL Odum · 2020 · Cited by 254 — Steep delay discounting is cha...</span></span></span>
 * Small rather than extravagant.
 * Consistent rather than occasional.
 * Connected to the habit rather than competing with it.
 
 </div>
 
-The goal is not to trick yourself. It is to solve a real psychological problem: the mismatch between present effort and future reward. By adding a small finish line to each repetition, you make worthwhile habits feel worthwhile today, which gives them a better chance of surviving long enough to deliver their larger benefits tomorrow. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Pleasure and intrinsic motivation can aid habit formation through promoting greater increase in habit strength per behaviour repetition...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Pleasure and intrinsic motivation can aid habit formation through promoting greater increase in habit strength per behaviour repetition...</span></span></span>
+The goal is not to trick yourself. It is to solve a real psychological problem: the mismatch between present effort and future reward. By adding a small finish line to each repetition, you make worthwhile habits feel worthwhile today, which gives them a better chance of surviving long enough to deliver their larger benefits tomorrow.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Pleasure and intrinsic motivation can aid habit formation through promoting greater increase in habit strength per behaviour repetition...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Pleasure and intrinsic motivation can aid habit formation through promoting greater increase in habit strength per behaviour repetition...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/56Yvq4YZXH0" title="The Cardinal Rule of Behavior Change | Chapter 15 – Atomic Habits by James Clear" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=56Yvq4YZXH0" target="_blank" rel="noopener noreferrer">The Cardinal Rule of Behavior Change | Chapter 15 – Atomic Habits by James Clear</a></p><p class="youtube-embed-meta">Channel: Last Minute Lecture &middot; Views: 54 &middot; Uploaded: March 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=56Yvq4YZXH0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=56Yvq4YZXH0">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Good Habits Need a Small Finish Line. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Good Habits Need a Small Finish Line. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Strongly emphasises immediate satisfaction and rewards in habit formation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Strongly emphasises immediate satisfaction and rewards in habit formation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
-        </h4>
-        <p class="fr-book-author">By B. J. Fogg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
+</h4>
+<p class="fr-book-author">By B. J. Fogg</p>
         
-        <p class="fr-book-desc">Highlights celebration and immediate positive feelings as habit-building tools.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights celebration and immediate positive feelings as habit-building tools.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rrlPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Power of Habit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
-        </h4>
-        <p class="fr-book-author">By Charles Duhigg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rrlPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Power of Habit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
+</h4>
+<p class="fr-book-author">By Charles Duhigg</p>
         
-        <p class="fr-book-desc">Explains how rewards close the habit loop and encourage repetition.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how rewards close the habit loop and encourage repetition.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Happiness+Advantage+by+Shawn+Achor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Happiness Advantage on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QQDb8PvpojoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Happiness Advantage" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Happiness+Advantage+by+Shawn+Achor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Happiness Advantage">The Happiness Advantage</a>
-        </h4>
-        <p class="fr-book-author">By Shawn Achor</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Happiness+Advantage+by+Shawn+Achor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Happiness Advantage on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QQDb8PvpojoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Happiness Advantage" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Happiness+Advantage+by+Shawn+Achor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Happiness Advantage">The Happiness Advantage</a>
+</h4>
+<p class="fr-book-author">By Shawn Achor</p>
         
-        <p class="fr-book-desc">Connects positive emotions and immediate reinforcement to sustained performance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Happiness+Advantage+by+Shawn+Achor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects positive emotions and immediate reinforcement to sustained performance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Happiness+Advantage+by+Shawn+Achor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Power+of+Habit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Power of Habit</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Power+of+Habit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Power of Habit</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/ab8e18c59c3009355dfa.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/ab8e18c59c3009355dfa.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quotes Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/79bcfa06dda89ad237ca.jpg' | relative_url }}" alt="Listing image for Motivational Quotes Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quotes Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quotes Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/79bcfa06dda89ad237ca.jpg' | relative_url }}" alt="Listing image for Motivational Quotes Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quotes Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gym Motivational Posters Work Out Insperational Quotes Wall Art"><img src="{{ '/assets/images/marketplace-covers/4d2a471cca3e54fc14d8.jpg' | relative_url }}" alt="Listing image for Gym Motivational Posters Work Out Insperational Quotes Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Gym Motivational Posters Work Out Insperational Quotes Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gym Motivational Posters Work Out Insperational Quotes Wall Art"><img src="{{ '/assets/images/marketplace-covers/4d2a471cca3e54fc14d8.jpg' | relative_url }}" alt="Listing image for Gym Motivational Posters Work Out Insperational Quotes Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Gym Motivational Posters Work Out Insperational Quotes Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/889e8acbca3b73af071f.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/889e8acbca3b73af071f.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=immediate-rewards-why-good-habits-need-a-small-finish-line-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -665,7 +665,7 @@ The goal is not to trick yourself. It is to solve a real psychological problem: 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -685,7 +685,7 @@ The goal is not to trick yourself. It is to solve a real psychological problem: 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -717,7 +717,7 @@ The goal is not to trick yourself. It is to solve a real psychological problem: 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -747,7 +747,7 @@ The goal is not to trick yourself. It is to solve a real psychological problem: 
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -805,143 +805,143 @@ The goal is not to trick yourself. It is to solve a real psychological problem: 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pleasure and intrinsic motivation can aid habit formation through promoting greater increase in habit strength per behaviour repetition...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6302524/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pleasure and intrinsic motivation can aid habit formation through promoting greater increase in habit strength per behaviour repetition...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Temporal discounting when outcomes are experienced  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8121536/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8121536/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by VM Patt · 2021 · Cited by 17 — Temporal discounting, or delay discounting, refers to the natural tendency to de-value rewards avail...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8121536/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8121536/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by VM Patt · 2021 · Cited by 17 — Temporal discounting, or delay discounting, refers to the natural tendency to de-value rewards avail...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7373228/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7373228/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralDelay discounting of different outcomes: Review and theoryby AL Odum · 2020 · Cited by 254 — Steep delay discounting is cha...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7373228/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7373228/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralDelay discounting of different outcomes: Review and theoryby AL Odum · 2020 · Cited by 254 — Steep delay discounting is cha...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11199680/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11199680/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralTemporal discounting predicts procrastination in the real worldby PY Zhang · 2024 · Cited by 21 — We found a positive corre...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11199680/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11199680/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralTemporal discounting predicts procrastination in the real worldby PY Zhang · 2024 · Cited by 21 — We found a positive corre...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Does temporal discounting explain unhealthy behavior  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3950931/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3950931/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by GW Story · 2014 · Cited by 401 — These studies reveal that high discount rates for money (and in some instances food or drug reward...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3950931/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3950931/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by GW Story · 2014 · Cited by 401 — These studies reveal that high discount rates for money (and in some instances food or drug reward...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: tinyhabits.com  
-   Link: <a href="https://tinyhabits.com/rewire/" target="_blank" rel="noopener noreferrer nofollow">https://tinyhabits.com/rewire/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny HabitsRewire Your BrainIn the Tiny Habits method, you do your celebration right after your new tiny behavior. For example, if you wa...</p></details>
+   Link:<a href="https://tinyhabits.com/rewire/" target="_blank" rel="noopener noreferrer nofollow">https://tinyhabits.com/rewire/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny HabitsRewire Your BrainIn the Tiny Habits method, you do your celebration right after your new tiny behavior. For example, if you wa...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: tinyhabits.com  
-   Link: <a href="https://tinyhabits.com/purpose/" target="_blank" rel="noopener noreferrer nofollow">https://tinyhabits.com/purpose/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny HabitsPurpose-Focused Celebrations with BJ Fogg, PhDA celebration is something you think, say, and/or do to make yourself feel a pos...</p></details>
+   Link:<a href="https://tinyhabits.com/purpose/" target="_blank" rel="noopener noreferrer nofollow">https://tinyhabits.com/purpose/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny HabitsPurpose-Focused Celebrations with BJ Fogg, PhDA celebration is something you think, say, and/or do to make yourself feel a pos...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: psych.wisc.edu  
-   Link: <a href="https://psych.wisc.edu/news/rethinking-rewards/" target="_blank" rel="noopener noreferrer nofollow">https://psych.wisc.edu/news/rethinking-rewards/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UW-Madison Psych DepartmentRethinking rewards: Motivating long-term behavior change...Financial incentives are a form of extrinsic motiv...</p></details>
+   Link:<a href="https://psych.wisc.edu/news/rethinking-rewards/" target="_blank" rel="noopener noreferrer nofollow">https://psych.wisc.edu/news/rethinking-rewards/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UW-Madison Psych DepartmentRethinking rewards: Motivating long-term behavior change...Financial incentives are a form of extrinsic motiv...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: tinyhabits.com  
    Title: Tell Me More2  
-   Link: <a href="https://tinyhabits.com/tell-me-more2/" target="_blank" rel="noopener noreferrer nofollow">https://tinyhabits.com/tell-me-more2/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny HabitsHere&#x27;s one way: Explore different celebrations in your head or aloud. After each option, pause to feel what happens inside. Ce...</p></details>
+   Link:<a href="https://tinyhabits.com/tell-me-more2/" target="_blank" rel="noopener noreferrer nofollow">https://tinyhabits.com/tell-me-more2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny HabitsHere&#x27;s one way: Explore different celebrations in your head or aloud. After each option, pause to feel what happens inside. Ce...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Behavior" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Behavior</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BehaviorBehavior (American English) or behaviour (British English) is the range of actions of organisms, individuals, systems or artif...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Behavior" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Behavior</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BehaviorBehavior (American English) or behaviour (British English) is the range of actions of organisms, individuals, systems or artif...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sciencedirect.com  
    Title: Temporal Discounting  
-   Link: <a href="https://www.sciencedirect.com/topics/psychology/temporal-discounting" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/temporal-discounting</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>an overviewTemporal discounting is defined as the process by which a reward loses value as the delay to its receipt increases, typically...</p></details>
+   Link:<a href="https://www.sciencedirect.com/topics/psychology/temporal-discounting" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/temporal-discounting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>an overviewTemporal discounting is defined as the process by which a reward loses value as the delay to its receipt increases, typically...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: learnerd.org  
-   Link: <a href="https://www.learnerd.org/book_summary/psychology/tinyhabits.html" target="_blank" rel="noopener noreferrer nofollow">https://www.learnerd.org/book_summary/psychology/tinyhabits.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny HabitsInstant Celebration (Shine): Immediately after doing the tiny behavior, celebrate your success in a way that makes you feel go...</p></details>
+   Link:<a href="https://www.learnerd.org/book_summary/psychology/tinyhabits.html" target="_blank" rel="noopener noreferrer nofollow">https://www.learnerd.org/book_summary/psychology/tinyhabits.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny HabitsInstant Celebration (Shine): Immediately after doing the tiny behavior, celebrate your success in a way that makes you feel go...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: quizlet.com  
    Title: Tiny Habits  
-   Link: <a href="https://quizlet.com/dk/485552369/tiny-habits-bj-fogg-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/dk/485552369/tiny-habits-bj-fogg-flash-cards/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BJ Fogg FlashcardsInstant Celebration - create a positive emotion (gratification). Fogg... rehearse behavior sequence: anchor, new habit...</p></details>
+   Link:<a href="https://quizlet.com/dk/485552369/tiny-habits-bj-fogg-flash-cards/" target="_blank" rel="noopener noreferrer nofollow">https://quizlet.com/dk/485552369/tiny-habits-bj-fogg-flash-cards/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BJ Fogg FlashcardsInstant Celebration - create a positive emotion (gratification). Fogg... rehearse behavior sequence: anchor, new habit...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theartofcharm.com  
-   Link: <a href="https://theartofcharm.com/art-of-business/deal-making-negotiations/bj-fogg-biggest-myth-about-habit-formation/" target="_blank" rel="noopener noreferrer nofollow">https://theartofcharm.com/art-of-business/deal-making-negotiations/bj-fogg-biggest-myth-about-habit-formation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BJ Fogg | The Biggest Myth About Habit Formation and 2...In today&#x27;s episode, we cover the breaking and creation of habits with BJ Fogg...</p></details>
+   Link:<a href="https://theartofcharm.com/art-of-business/deal-making-negotiations/bj-fogg-biggest-myth-about-habit-formation/" target="_blank" rel="noopener noreferrer nofollow">https://theartofcharm.com/art-of-business/deal-making-negotiations/bj-fogg-biggest-myth-about-habit-formation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BJ Fogg | The Biggest Myth About Habit Formation and 2...In today&#x27;s episode, we cover the breaking and creation of habits with BJ Fogg...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: The Cardinal Rule of Behavior Change | Chapter 15 – Atomic Habits by James Clear  
-   Link: <a href="https://www.youtube.com/watch?v=56Yvq4YZXH0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=56Yvq4YZXH0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Temporal Discounting...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=56Yvq4YZXH0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=56Yvq4YZXH0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Temporal Discounting...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Temporal Discounting  
-   Link: <a href="https://www.youtube.com/watch?v=kW6k5avsEqA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kW6k5avsEqA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This breakdown of Chapter 15 from James Clear&#x27;s Atomic Habits explains how adding an immediate sense of satisfaction can overcome the hum...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kW6k5avsEqA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kW6k5avsEqA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This breakdown of Chapter 15 from James Clear&#x27;s Atomic Habits explains how adding an immediate sense of satisfaction can overcome the hum...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: bjsrestaurants.com  
-   Link: <a href="https://www.bjsrestaurants.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.bjsrestaurants.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BJ&#x27;s Restaurants and BrewhouseDiscover our brewhouse menu featuring deep dish pizza, handcrafted burgers, seasonal specials, popular favo...</p></details>
+   Link:<a href="https://www.bjsrestaurants.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.bjsrestaurants.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BJ&#x27;s Restaurants and BrewhouseDiscover our brewhouse menu featuring deep dish pizza, handcrafted burgers, seasonal specials, popular favo...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/behavioral" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/behavioral</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BEHAVIORAL Definition &amp; MeaningThe [meaning](&amp;#123;&amp;#123; &#x27;meaning/&#x27; | relative_url &amp;#125;&amp;#125;) of BEHAVIORAL is of or relating to behavior: pertaining to reactions made in response to soci...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/behavioral" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/behavioral</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BEHAVIORAL Definition &amp; MeaningThe [meaning](&amp;#123;&amp;#123; &#x27;meaning/&#x27; | relative_url &amp;#125;&amp;#125;) of BEHAVIORAL is of or relating to behavior: pertaining to reactions made in response to soci...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: dictionary.com  
-   Link: <a href="https://www.dictionary.com/browse/behavioral" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/behavioral</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BEHAVIORAL Definition &amp; Meaningrelating to a person&#x27;s manner of behaving or acting: The program provides academic and behavioral supports...</p></details>
+   Link:<a href="https://www.dictionary.com/browse/behavioral" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/behavioral</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BEHAVIORAL Definition &amp; Meaningrelating to a person&#x27;s manner of behaving or acting: The program provides academic and behavioral supports...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: weber.edu  
-   Link: <a href="https://www.weber.edu/academicpeercoaching/blog/forming-habits.html" target="_blank" rel="noopener noreferrer nofollow">https://www.weber.edu/academicpeercoaching/blog/forming-habits.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forming Habits Without Much AdoHabits are created by putting together a cue, a routine, and a reward, and then cultivating a craving that...</p></details>
+   Link:<a href="https://www.weber.edu/academicpeercoaching/blog/forming-habits.html" target="_blank" rel="noopener noreferrer nofollow">https://www.weber.edu/academicpeercoaching/blog/forming-habits.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forming Habits Without Much AdoHabits are created by putting together a cue, a routine, and a reward, and then cultivating a craving that...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/illumination/how-tiny-habits-delivered-surprisingly-big-results-1c351f5f5a55" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/illumination/how-tiny-habits-delivered-surprisingly-big-results-1c351f5f5a55</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How BJ Fogg&#x27;s Tiny Habits Deliver Surprisingly Big ResultsBehaviours that naturally caused positive feelings became automatic almost imme...</p></details>
+   Link:<a href="https://medium.com/illumination/how-tiny-habits-delivered-surprisingly-big-results-1c351f5f5a55" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/illumination/how-tiny-habits-delivered-surprisingly-big-results-1c351f5f5a55</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How BJ Fogg&#x27;s Tiny Habits Deliver Surprisingly Big ResultsBehaviours that naturally caused positive feelings became automatic almost imme...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=GneKvncCoDU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GneKvncCoDU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Celebrating [Small Wins](&amp;#123;&amp;#123; &#x27;small-wins/&#x27; | relative_url &amp;#125;&amp;#125;) Can Help Form a Lasting HabitBehavior Scientist BJ Fogg shares proven ways to achieve any goal — and how to un...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GneKvncCoDU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GneKvncCoDU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Celebrating [Small Wins](&amp;#123;&amp;#123; &#x27;small-wins/&#x27; | relative_url &amp;#125;&amp;#125;) Can Help Form a Lasting HabitBehavior Scientist BJ Fogg shares proven ways to achieve any goal — and how to un...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: researchgate.net  
    Title: 322246786 Temporal Discounting and Health Behavior A Review  
-   Link: <a href="https://www.researchgate.net/publication/322246786_Temporal_Discounting_and_Health_Behavior_A_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/322246786_Temporal_Discounting_and_Health_Behavior_A_Review</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Temporal Discounting and Health Behavior: A ReviewJan 16, 2018 — Such temporal discounting may have consequences for health behavior, lea...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/322246786_Temporal_Discounting_and_Health_Behavior_A_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/322246786_Temporal_Discounting_and_Health_Behavior_A_Review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Temporal Discounting and Health Behavior: A ReviewJan 16, 2018 — Such temporal discounting may have consequences for health behavior, lea...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/7517399_Temporal_Discounting_When_the_Choice_Is_Between_Two_Delayed_Rewards" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/7517399_Temporal_Discounting_When_the_Choice_Is_Between_Two_Delayed_Rewards</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>en an immediate and a delayed reward to choice between 2 delayed rewards:...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/7517399_Temporal_Discounting_When_the_Choice_Is_Between_Two_Delayed_Rewards" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/7517399_Temporal_Discounting_When_the_Choice_Is_Between_Two_Delayed_Rewards</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>en an immediate and a delayed reward to choice between 2 delayed rewards:...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: superbly.education  
-   Link: <a href="https://superbly.education/understanding-the-impact-of-rewards-on-habit-formation-in-classroom-behaviour/" target="_blank" rel="noopener noreferrer nofollow">https://superbly.education/understanding-the-impact-of-rewards-on-habit-formation-in-classroom-behaviour/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>accelerate the formation of habits through repeated behavioural performance.Read more...</p></details>
+   Link:<a href="https://superbly.education/understanding-the-impact-of-rewards-on-habit-formation-in-classroom-behaviour/" target="_blank" rel="noopener noreferrer nofollow">https://superbly.education/understanding-the-impact-of-rewards-on-habit-formation-in-classroom-behaviour/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>accelerate the formation of habits through repeated behavioural performance.Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: academia.edu  
    Title: Does temporal discounting explain unhealthy behavior?  
-   Link: <a href="https://www.academia.edu/34664036/Does_temporal_discounting_explain_unhealthy_behavior_A_systematic_review_and_reinforcement_learning_perspective" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/34664036/Does_temporal_discounting_explain_unhealthy_behavior_A_systematic_review_and_reinforcement_learning_perspective</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>11, 2025 — Under this framework, while discounting of delayed health may contribute to the initiation of unhealthy behavior, wit...</p></details>
+   Link:<a href="https://www.academia.edu/34664036/Does_temporal_discounting_explain_unhealthy_behavior_A_systematic_review_and_reinforcement_learning_perspective" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/34664036/Does_temporal_discounting_explain_unhealthy_behavior_A_systematic_review_and_reinforcement_learning_perspective</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>11, 2025 — Under this framework, while discounting of delayed health may contribute to the initiation of unhealthy behavior, wit...</p></details>

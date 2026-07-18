@@ -274,7 +274,7 @@ image: /assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_fi
 
 ## Introduction
 
-When students say, “I need to do some revision,” they often believe they have made a plan. In practice, they have only named a goal. The gap between a goal and a concrete first action creates a moment of uncertainty, and that uncertainty is exactly where scrolling tends to win. Research on implementation intentions—specific plans that define what action will happen in a particular situation—shows that people are more likely to follow through when they decide in advance precisely what they will do, when they will do it, and how they will begin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://kops.uni-konstanz.de/bitstreams/14cc2a36-5f01-4dc1-b9ca-f2d0ca0c8930/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kops.uni-konstanz.de">[KOPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kops.uni-konstanz.de</span><span class="citation-popover-snippet">Implementation Intentions: Strong Effects of Simple Plansby PM Gollwitzer · 1999 · Cited by 8519 — Implementation intention participa...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">While the science of habit formation has long been of interest to psychological scientists...</span></span></span>
+When students say, “I need to do some revision,” they often believe they have made a plan. In practice, they have only named a goal. The gap between a goal and a concrete first action creates a moment of uncertainty, and that uncertainty is exactly where scrolling tends to win. Research on implementation intentions—specific plans that define what action will happen in a particular situation—shows that people are more likely to follow through when they decide in advance precisely what they will do, when they will do it, and how they will begin.<span class="citation-chip-wrap"><a class="citation-chip" href="https://kops.uni-konstanz.de/bitstreams/14cc2a36-5f01-4dc1-b9ca-f2d0ca0c8930/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kops.uni-konstanz.de">[KOPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kops.uni-konstanz.de</span><span class="citation-popover-snippet">Implementation Intentions: Strong Effects of Simple Plansby PM Gollwitzer · 1999 · Cited by 8519 — Implementation intention participa...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">While the science of habit formation has long been of interest to psychological scientists...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_first_study_actions_9ec2a3-Illustration-1-dark.svg" | relative_url }}" alt="First Action illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_first_study_actions_9ec2a3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_first_study_actions_9ec2a3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For studying before scrolling, the critical question is not “What subject am I revising today?” but “What is the first thing I will physically do when I sit down?” A tiny, clearly defined action removes negotiation, lowers resistance, and creates momentum. The first step does not need to be impressive. It needs to be obvious.
@@ -285,7 +285,7 @@ A vague revision plan sounds reasonable because it points in the right direction
 
 When the brain reaches the study desk, it still has several decisions to make: which topic, which chapter, which question, which resource, and how long to spend. Each unresolved choice creates friction. The phone offers an easier alternative because it requires no planning at all.
 
-Research on implementation intentions repeatedly finds that specifying an exact action helps translate intentions into behaviour. Rather than relying on [motivation]({{ 'motivation/' | relative_url }}) in the moment, people pre-decide what they will do when a particular cue appears. This makes action initiation faster and more automatic. KOPS <span class="citation-chip-wrap"><a class="citation-chip" href="https://pdfs.semanticscholar.org/1e1c/145abe3ba075cb56a5e7e889b0e527dc90ac.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pdfs.semanticscholar.org">[Semantic Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pdfs.semanticscholar.org</span><span class="citation-popover-snippet">Semantic ScholarImplementation Intentions and Efficient Action Initiationby V Brandstatter · 2001 · Cited by 970 — In 4 studies, the hypo...</span></span></span>
+Research on implementation intentions repeatedly finds that specifying an exact action helps translate intentions into behaviour. Rather than relying on [motivation]({{ 'motivation/' | relative_url }}) in the moment, people pre-decide what they will do when a particular cue appears. This makes action initiation faster and more automatic. KOPS<span class="citation-chip-wrap"><a class="citation-chip" href="https://pdfs.semanticscholar.org/1e1c/145abe3ba075cb56a5e7e889b0e527dc90ac.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pdfs.semanticscholar.org">[Semantic Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pdfs.semanticscholar.org</span><span class="citation-popover-snippet">Semantic ScholarImplementation Intentions and Efficient Action Initiationby V Brandstatter · 2001 · Cited by 970 — In 4 studies, the hypo...</span></span></span>
 
 The difference is subtle but important:
 
@@ -294,7 +294,7 @@ The difference is subtle but important:
 
 The second version eliminates the empty space between sitting down and starting. That empty space is often where “just checking my phone” begins.
 
-Recent educational research also suggests that higher-quality study plans are associated with more studying, particularly when plans focus on how and when work will start rather than merely expressing a desire to study. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0361476X25000876" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Planning promotes studying – The higher the plan quality...by M Schaaf · 2025 · Cited by 5 — Plans that aim to facilitate s...</span></span></span>
+Recent educational research also suggests that higher-quality study plans are associated with more studying, particularly when plans focus on how and when work will start rather than merely expressing a desire to study.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0361476X25000876" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Planning promotes studying – The higher the plan quality...by M Schaaf · 2025 · Cited by 5 — Plans that aim to facilitate s...</span></span></span>
 
 ## What Makes a Good First Action?
 
@@ -318,7 +318,7 @@ Examples include:
 
 </div>
 
-The value of these actions comes from reducing the activation energy needed to begin. Research on tiny habits and behaviour design consistently points to the power of making actions easier rather than relying on stronger motivation. Small actions are more likely to be started, and starting often leads naturally to continuation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gsb.stanford.edu">[Stanford Graduate School of Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gsb.stanford.edu</span><span class="citation-popover-title">building habits key lasting behavior change</span><span class="citation-popover-snippet">Stanford Graduate School of BusinessBuilding Habits: The Key to Lasting Behavior ChangeApr 18, 2023 — Looking at creating habits or any t...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://tinyhabits.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tinyhabits.com">[Tiny Habits]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tinyhabits.com</span><span class="citation-popover-snippet">Tiny Habits: BJ FoggCreate any habit you want in your life using Tiny Habits: A breakthrough method created by Stanford behavior scientis...</span></span></span>
+The value of these actions comes from reducing the activation energy needed to begin. Research on tiny habits and behaviour design consistently points to the power of making actions easier rather than relying on stronger motivation. Small actions are more likely to be started, and starting often leads naturally to continuation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gsb.stanford.edu">[Stanford Graduate School of Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gsb.stanford.edu</span><span class="citation-popover-title">building habits key lasting behavior change</span><span class="citation-popover-snippet">Stanford Graduate School of BusinessBuilding Habits: The Key to Lasting Behavior ChangeApr 18, 2023 — Looking at creating habits or any t...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://tinyhabits.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tinyhabits.com">[Tiny Habits]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tinyhabits.com</span><span class="citation-popover-snippet">Tiny Habits: BJ FoggCreate any habit you want in your life using Tiny Habits: A breakthrough method created by Stanford behavior scientis...</span></span></span>
 
 ## Examples of First Actions for Common Subjects
 
@@ -438,7 +438,7 @@ For example:
 * Instead of “complete flashcards”, use “review five cards”.
 * Instead of “write the report”, use “write the [first sentence]({{ 'first-sentence/' | relative_url }})”.
 
-Behaviour-change research repeatedly shows that planning works best when it identifies a specific action tied to a specific context. The easier the first movement is to recognise and perform, the less opportunity there is for procrastination to intervene. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">While the science of habit formation has long been of interest to psychological scientists...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://kops.uni-konstanz.de/bitstreams/14cc2a36-5f01-4dc1-b9ca-f2d0ca0c8930/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kops.uni-konstanz.de">[KOPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kops.uni-konstanz.de</span><span class="citation-popover-snippet">Implementation Intentions: Strong Effects of Simple Plansby PM Gollwitzer · 1999 · Cited by 8519 — Implementation intention participa...</span></span></span>
+Behaviour-change research repeatedly shows that planning works best when it identifies a specific action tied to a specific context. The easier the first movement is to recognise and perform, the less opportunity there is for procrastination to intervene.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">While the science of habit formation has long been of interest to psychological scientists...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://kops.uni-konstanz.de/bitstreams/14cc2a36-5f01-4dc1-b9ca-f2d0ca0c8930/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kops.uni-konstanz.de">[KOPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kops.uni-konstanz.de</span><span class="citation-popover-snippet">Implementation Intentions: Strong Effects of Simple Plansby PM Gollwitzer · 1999 · Cited by 8519 — Implementation intention participa...</span></span></span>
 
 Importantly, the first action is not the entire study session. It is a doorway. Once through it, students can continue if they wish. The purpose is to overcome the hardest part: beginning.
 
@@ -450,7 +450,7 @@ A common objection is that reviewing five flashcards or solving one question see
 
 On its own, it may be. But the first action is not designed to deliver the whole result. It is designed to create momentum.
 
-Studies of implementation intentions suggest that specific plans improve action initiation, while habit research emphasises the importance of making behaviours easy enough to perform consistently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pdfs.semanticscholar.org/1e1c/145abe3ba075cb56a5e7e889b0e527dc90ac.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pdfs.semanticscholar.org">[Semantic Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pdfs.semanticscholar.org</span><span class="citation-popover-snippet">Semantic ScholarImplementation Intentions and Efficient Action Initiationby V Brandstatter · 2001 · Cited by 970 — In 4 studies, the hypo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://kops.uni-konstanz.de/bitstreams/14cc2a36-5f01-4dc1-b9ca-f2d0ca0c8930/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kops.uni-konstanz.de">[KOPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kops.uni-konstanz.de</span><span class="citation-popover-snippet">Implementation Intentions: Strong Effects of Simple Plansby PM Gollwitzer · 1999 · Cited by 8519 — Implementation intention participa...</span></span></span>
+Studies of implementation intentions suggest that specific plans improve action initiation, while habit research emphasises the importance of making behaviours easy enough to perform consistently.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pdfs.semanticscholar.org/1e1c/145abe3ba075cb56a5e7e889b0e527dc90ac.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pdfs.semanticscholar.org">[Semantic Scholar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pdfs.semanticscholar.org</span><span class="citation-popover-snippet">Semantic ScholarImplementation Intentions and Efficient Action Initiationby V Brandstatter · 2001 · Cited by 970 — In 4 studies, the hypo...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://kops.uni-konstanz.de/bitstreams/14cc2a36-5f01-4dc1-b9ca-f2d0ca0c8930/download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kops.uni-konstanz.de">[KOPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kops.uni-konstanz.de</span><span class="citation-popover-snippet">Implementation Intentions: Strong Effects of Simple Plansby PM Gollwitzer · 1999 · Cited by 8519 — Implementation intention participa...</span></span></span>
 
 The practical effect is familiar to many students. A person who promises to study for two hours may never begin. A person who promises to answer one question often ends up answering several.
 
@@ -470,197 +470,197 @@ Examples:
 * “When I open my history notebook, I will write three causes from memory.”
 * “When I start revision, I will review five flashcards.”
 
-This approach reflects the broader evidence behind implementation intentions: people act more reliably when the starting behaviour is specified in advance rather than left for future decision-making. KOPS PubMed The phone competes effectively against vague intentions because vague intentions require choices. A tiny first study action beats scrolling n <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/24591064/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">of the research and proposals for the way forwardby MS Hagger · 2014 · Cited by 717 — The purpose of this paper is to provide an overview...</span></span></span> ot by being more exciting, but by being easier to start. Once that first step is completed, the session has already begun.
+This approach reflects the broader evidence behind implementation intentions: people act more reliably when the starting behaviour is specified in advance rather than left for future decision-making. KOPS PubMed The phone competes effectively against vague intentions because vague intentions require choices. A tiny first study action beats scrolling n<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/24591064/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">of the research and proposals for the way forwardby MS Hagger · 2014 · Cited by 717 — The purpose of this paper is to provide an overview...</span></span></span> ot by being more exciting, but by being easier to start. Once that first step is completed, the session has already begun.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Tiny Study Step That Beats Scrolling. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Tiny Study Step That Beats Scrolling. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">The idea of tiny starting actions aligns perfectly with beginning study sessions before scrolling.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">The idea of tiny starting actions aligns perfectly with beginning study sessions before scrolling.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
-        </h4>
-        <p class="fr-book-author">By B. J. Fogg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
+</h4>
+<p class="fr-book-author">By B. J. Fogg</p>
         
-        <p class="fr-book-desc">Directly teaches how tiny behaviors create momentum and consistency.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly teaches how tiny behaviors create momentum and consistency.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+One+Thing+by+Gary+Keller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The One Thing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=94ScMQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The One Thing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+One+Thing+by+Gary+Keller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The One Thing">The One Thing</a>
-        </h4>
-        <p class="fr-book-author">By Gary Keller, Jay Papasan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+One+Thing+by+Gary+Keller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The One Thing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=94ScMQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The One Thing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+One+Thing+by+Gary+Keller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The One Thing">The One Thing</a>
+</h4>
+<p class="fr-book-author">By Gary Keller, Jay Papasan</p>
         
-        <p class="fr-book-desc">Helps readers identify the next concrete action instead of remaining vague.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+One+Thing+by+Gary+Keller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers identify the next concrete action instead of remaining vague.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+One+Thing+by+Gary+Keller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+Time+by+Jake+Knapp&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make Time on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eaFHDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make Time" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+Time+by+Jake+Knapp&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make Time">Make Time</a>
-        </h4>
-        <p class="fr-book-author">By Jake Knapp, John Zeratsky</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+Time+by+Jake+Knapp&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make Time on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eaFHDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make Time" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+Time+by+Jake+Knapp&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make Time">Make Time</a>
+</h4>
+<p class="fr-book-author">By Jake Knapp, John Zeratsky</p>
         
-        <p class="fr-book-desc">Focuses on creating deliberate starts and reducing distraction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+Time+by+Jake+Knapp&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on creating deliberate starts and reducing distraction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+Time+by+Jake+Knapp&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+One+Thing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The One Thing</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+One+Thing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The One Thing</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Time Timer 8&quot; - 60 minute visual pomodoro study timer - V Good Cond."><img src="https://i.ebayimg.com/images/g/xvcAAeSwNF5qF1Gf/s-l225.jpg" alt="Listing image for Time Timer 8&quot; - 60 minute visual pomodoro study timer - V Good Cond." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer">Time Timer 8&quot; - 60 minute visual pomodoro study timer - V Good Cond.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study timer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Time Timer 8&quot; - 60 minute visual pomodoro study timer - V Good Cond."><img src="https://i.ebayimg.com/images/g/xvcAAeSwNF5qF1Gf/s-l225.jpg" alt="Listing image for Time Timer 8&quot; - 60 minute visual pomodoro study timer - V Good Cond." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer">Time Timer 8&quot; - 60 minute visual pomodoro study timer - V Good Cond.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study timer">Search<span data-ebay-domain-label>eBay.co.uk</span>: study timer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cube Pomodoro Timer - Flip to Start Countdown Rechargeable Mini Timer for Study"><img src="https://i.ebayimg.com/images/g/5uAAAeSwGFJqKCu1/s-l225.jpg" alt="Listing image for Cube Pomodoro Timer - Flip to Start Countdown Rechargeable Mini Timer for Study" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer">Cube Pomodoro Timer - Flip to Start Countdown Rechargeable Mini Timer for Study</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study timer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cube Pomodoro Timer - Flip to Start Countdown Rechargeable Mini Timer for Study"><img src="https://i.ebayimg.com/images/g/5uAAAeSwGFJqKCu1/s-l225.jpg" alt="Listing image for Cube Pomodoro Timer - Flip to Start Countdown Rechargeable Mini Timer for Study" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer">Cube Pomodoro Timer - Flip to Start Countdown Rechargeable Mini Timer for Study</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study timer">Search<span data-ebay-domain-label>eBay.co.uk</span>: study timer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Professional Magnetic Digital Kitchen Timer for Cooking and Study 1 Pack"><img src="https://i.ebayimg.com/images/g/3fgAAeSw8lFqKnG7/s-l225.jpg" alt="Listing image for Professional Magnetic Digital Kitchen Timer for Cooking and Study 1 Pack" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer">Professional Magnetic Digital Kitchen Timer for Cooking and Study 1 Pack</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study timer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Professional Magnetic Digital Kitchen Timer for Cooking and Study 1 Pack"><img src="https://i.ebayimg.com/images/g/3fgAAeSw8lFqKnG7/s-l225.jpg" alt="Listing image for Professional Magnetic Digital Kitchen Timer for Cooking and Study 1 Pack" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer">Professional Magnetic Digital Kitchen Timer for Cooking and Study 1 Pack</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study timer">Search<span data-ebay-domain-label>eBay.co.uk</span>: study timer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Timer Study Reminder Stopwatch Alarm Clock With Silent Flashing Light UK"><img src="https://i.ebayimg.com/images/g/c6sAAeSwEKZpyrVD/s-l225.jpg" alt="Listing image for Timer Study Reminder Stopwatch Alarm Clock With Silent Flashing Light UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer">Timer Study Reminder Stopwatch Alarm Clock With Silent Flashing Light UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study timer">Search <span data-ebay-domain-label>eBay.co.uk</span>: study timer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Timer Study Reminder Stopwatch Alarm Clock With Silent Flashing Light UK"><img src="https://i.ebayimg.com/images/g/c6sAAeSwEKZpyrVD/s-l225.jpg" alt="Listing image for Timer Study Reminder Stopwatch Alarm Clock With Silent Flashing Light UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer">Timer Study Reminder Stopwatch Alarm Clock With Silent Flashing Light UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for study timer">Search<span data-ebay-domain-label>eBay.co.uk</span>: study timer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=study+timer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-tiny-study-step-that-beats-scrolling-study-timer&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="study timer" data-ebay-reference="the-tiny-study-step-that-beats-scrolling-study-timer" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -676,7 +676,7 @@ This approach reflects the broader evidence behind implementation intentions: pe
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -696,7 +696,7 @@ This approach reflects the broader evidence behind implementation intentions: pe
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -728,7 +728,7 @@ This approach reflects the broader evidence behind implementation intentions: pe
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -780,7 +780,7 @@ This approach reflects the broader evidence behind implementation intentions: pe
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -825,7 +825,7 @@ This approach reflects the broader evidence behind implementation intentions: pe
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -866,134 +866,134 @@ This approach reflects the broader evidence behind implementation intentions: pe
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: kops.uni-konstanz.de  
-   Link: <a href="https://kops.uni-konstanz.de/bitstreams/14cc2a36-5f01-4dc1-b9ca-f2d0ca0c8930/download" target="_blank" rel="noopener noreferrer nofollow">https://kops.uni-konstanz.de/bitstreams/14cc2a36-5f01-4dc1-b9ca-f2d0ca0c8930/download</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Intentions: Strong Effects of Simple Plansby PM Gollwitzer · 1999 · Cited by 8519 — Implementation intention participa...</p></details>
+   Link:<a href="https://kops.uni-konstanz.de/bitstreams/14cc2a36-5f01-4dc1-b9ca-f2d0ca0c8930/download" target="_blank" rel="noopener noreferrer nofollow">https://kops.uni-konstanz.de/bitstreams/14cc2a36-5f01-4dc1-b9ca-f2d0ca0c8930/download</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Intentions: Strong Effects of Simple Plansby PM Gollwitzer · 1999 · Cited by 8519 — Implementation intention participa...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0361476X25000876" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0361476X25000876</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Planning promotes studying – The higher the plan quality...by M Schaaf · 2025 · Cited by 5 — Plans that aim to facilitate s...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0361476X25000876" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0361476X25000876</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Planning promotes studying – The higher the plan quality...by M Schaaf · 2025 · Cited by 5 — Plans that aim to facilitate s...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: gsb.stanford.edu  
    Title: building habits key lasting behavior change  
-   Link: <a href="https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change" target="_blank" rel="noopener noreferrer nofollow">https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Graduate School of BusinessBuilding Habits: The Key to Lasting Behavior ChangeApr 18, 2023 — Looking at creating habits or any t...</p></details>
+   Link:<a href="https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change" target="_blank" rel="noopener noreferrer nofollow">https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Graduate School of BusinessBuilding Habits: The Key to Lasting Behavior ChangeApr 18, 2023 — Looking at creating habits or any t...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>While the science of habit formation has long been of interest to psychological scientists...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12318445/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>While the science of habit formation has long been of interest to psychological scientists...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0001879104001149" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0001879104001149</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation intentions, action control, and procrastinationby EAJ van Hooft · 2005 · Cited by 240 — The main focus of the current stud...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0001879104001149" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0001879104001149</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation intentions, action control, and procrastinationby EAJ van Hooft · 2005 · Cited by 240 — The main focus of the current stud...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0001691825014829" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0001691825014829</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond positive thinking: A randomized trial of mental...by X Zhou · 2026 — This study investigates the efficacy of Mental Contrasting w...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0001691825014829" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0001691825014829</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond positive thinking: A randomized trial of mental...by X Zhou · 2026 — This study investigates the efficacy of Mental Contrasting w...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pdfs.semanticscholar.org  
-   Link: <a href="https://pdfs.semanticscholar.org/1e1c/145abe3ba075cb56a5e7e889b0e527dc90ac.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pdfs.semanticscholar.org/1e1c/145abe3ba075cb56a5e7e889b0e527dc90ac.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Semantic ScholarImplementation Intentions and Efficient Action Initiationby V Brandstatter · 2001 · Cited by 970 — In 4 studies, the hypo...</p></details>
+   Link:<a href="https://pdfs.semanticscholar.org/1e1c/145abe3ba075cb56a5e7e889b0e527dc90ac.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pdfs.semanticscholar.org/1e1c/145abe3ba075cb56a5e7e889b0e527dc90ac.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Semantic ScholarImplementation Intentions and Efficient Action Initiationby V Brandstatter · 2001 · Cited by 970 — In 4 studies, the hypo...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/24591064/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24591064/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of the research and proposals for the way forwardby MS Hagger · 2014 · Cited by 717 — The purpose of this paper is to provide an overview...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/24591064/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24591064/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of the research and proposals for the way forwardby MS Hagger · 2014 · Cited by 717 — The purpose of this paper is to provide an overview...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: tinyhabits.com  
-   Link: <a href="https://tinyhabits.com/" target="_blank" rel="noopener noreferrer nofollow">https://tinyhabits.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: BJ FoggCreate any habit you want in your life using Tiny Habits: A breakthrough method created by Stanford behavior scientis...</p></details>
+   Link:<a href="https://tinyhabits.com/" target="_blank" rel="noopener noreferrer nofollow">https://tinyhabits.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: BJ FoggCreate any habit you want in your life using Tiny Habits: A breakthrough method created by Stanford behavior scientis...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/implementation" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/implementation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; MeaningApr 29, 2026 — The [meaning](&amp;#123;&amp;#123; &#x27;meaning/&#x27; | relative_url &amp;#125;&amp;#125;) of IMPLEMENTATION is an act or instance of implementing something: the process of making...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/implementation" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/implementation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; MeaningApr 29, 2026 — The [meaning](&amp;#123;&amp;#123; &#x27;meaning/&#x27; | relative_url &amp;#125;&amp;#125;) of IMPLEMENTATION is an act or instance of implementing something: the process of making...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: tinyhabits.com  
-   Link: <a href="https://tinyhabits.com/book/" target="_blank" rel="noopener noreferrer nofollow">https://tinyhabits.com/book/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits Book | BJ FoggEach chapter shares breakthrough insights and simple steps you can take to improve your life. All this is based...</p></details>
+   Link:<a href="https://tinyhabits.com/book/" target="_blank" rel="noopener noreferrer nofollow">https://tinyhabits.com/book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits Book | BJ FoggEach chapter shares breakthrough insights and simple steps you can take to improve your life. All this is based...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: habi.app  
    Title: micro habits  
-   Link: <a href="https://habi.app/insights/micro-habits/" target="_blank" rel="noopener noreferrer nofollow">https://habi.app/insights/micro-habits/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: 57 Micro Habits for Big Results | Habi22 Feb 2026 — A tiny habit (also called a micro habit) is a behavior so small it feels...</p></details>
+   Link:<a href="https://habi.app/insights/micro-habits/" target="_blank" rel="noopener noreferrer nofollow">https://habi.app/insights/micro-habits/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: 57 Micro Habits for Big Results | Habi22 Feb 2026 — A tiny habit (also called a micro habit) is a behavior so small it feels...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: drpaulmccarthy.com  
    Title: tiny habits the breakthrough method for building life changing behaviors  
-   Link: <a href="https://www.drpaulmccarthy.com/post/tiny-habits-the-breakthrough-method-for-building-life-changing-behaviors" target="_blank" rel="noopener noreferrer nofollow">https://www.drpaulmccarthy.com/post/tiny-habits-the-breakthrough-method-for-building-life-changing-behaviors</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We remove the fear factor that blocks our progress when we choose tiny changes instead of big...Read more...</p></details>
+   Link:<a href="https://www.drpaulmccarthy.com/post/tiny-habits-the-breakthrough-method-for-building-life-changing-behaviors" target="_blank" rel="noopener noreferrer nofollow">https://www.drpaulmccarthy.com/post/tiny-habits-the-breakthrough-method-for-building-life-changing-behaviors</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We remove the fear factor that blocks our progress when we choose tiny changes instead of big...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: writingsofamidlifeman.com  
    Title: Tiny Habits: A Book Review  
-   Link: <a href="https://www.writingsofamidlifeman.com/2020/09/30/tiny-habits-a-book-review/" target="_blank" rel="noopener noreferrer nofollow">https://www.writingsofamidlifeman.com/2020/09/30/tiny-habits-a-book-review/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Writings of A Mid-life ManSep 30, 2020 — The essence of Tiny Habits is this: take a behaviour you want, make it tiny, find where it fits...</p></details>
+   Link:<a href="https://www.writingsofamidlifeman.com/2020/09/30/tiny-habits-a-book-review/" target="_blank" rel="noopener noreferrer nofollow">https://www.writingsofamidlifeman.com/2020/09/30/tiny-habits-a-book-review/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Writings of A Mid-life ManSep 30, 2020 — The essence of Tiny Habits is this: take a behaviour you want, make it tiny, find where it fits...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: drbeurkens.com  
-   Link: <a href="https://www.drbeurkens.com/podcast/tiny-habits-for-creating-lasting-change-in-children-and-adults/" target="_blank" rel="noopener noreferrer nofollow">https://www.drbeurkens.com/podcast/tiny-habits-for-creating-lasting-change-in-children-and-adults/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s implement small habits in order to create lasting change...</p></details>
+   Link:<a href="https://www.drbeurkens.com/podcast/tiny-habits-for-creating-lasting-change-in-children-and-adults/" target="_blank" rel="noopener noreferrer nofollow">https://www.drbeurkens.com/podcast/tiny-habits-for-creating-lasting-change-in-children-and-adults/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s implement small habits in order to create lasting change...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cancercontrol.cancer.gov  
-   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</p></details>
+   Link:<a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/222708214_Bridging_the_gap_between_intentions_and_behavior_Implementation_intentions_action_control_and_procrastination" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/222708214_Bridging_the_gap_between_intentions_and_behavior_Implementation_intentions_action_control_and_procrastination</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation intentions, action control, and procrastinationThe current study aimed to improve the understanding of the transition from...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/222708214_Bridging_the_gap_between_intentions_and_behavior_Implementation_intentions_action_control_and_procrastination" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/222708214_Bridging_the_gap_between_intentions_and_behavior_Implementation_intentions_action_control_and_procrastination</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation intentions, action control, and procrastinationThe current study aimed to improve the understanding of the transition from...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Small changes, big impact: A mini review of habit formation...27 Apr 2025 — This mini-review explores the science of habit formation, em...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Small changes, big impact: A mini review of habit formation...27 Apr 2025 — This mini-review explores the science of habit formation, em...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: scispace.com  
-   Link: <a href="https://scispace.com/pdf/overcoming-procrastination-through-planning-1v0cvi80ua.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/overcoming-procrastination-through-planning-1v0cvi80ua.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Overcoming Procrastination through PlanningWe will examine whether implementation intentions help people to overcome procrastination in t...</p></details>
+   Link:<a href="https://scispace.com/pdf/overcoming-procrastination-through-planning-1v0cvi80ua.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/overcoming-procrastination-through-planning-1v0cvi80ua.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Overcoming Procrastination through PlanningWe will examine whether implementation intentions help people to overcome procrastination in t...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/book/1951/chapter/141762688" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/book/1951/chapter/141762688</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>oup.com11 Overcoming Procrastination through PlanningA strategy to overcome such procrastination is suggested, namely, the formation of s...</p></details>
+   Link:<a href="https://academic.oup.com/book/1951/chapter/141762688" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/book/1951/chapter/141762688</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>oup.com11 Overcoming Procrastination through PlanningA strategy to overcome such procrastination is suggested, namely, the formation of s...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40MoneyMiniBlog/how-to-change-every-part-of-your-life-with-tiny-habits-7aba0e009163" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40MoneyMiniBlog/how-to-change-every-part-of-your-life-with-tiny-habits-7aba0e009163</a>  
+   Link:<a href="https://medium.com/%40MoneyMiniBlog/how-to-change-every-part-of-your-life-with-tiny-habits-7aba0e009163" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40MoneyMiniBlog/how-to-change-every-part-of-your-life-with-tiny-habits-7aba0e009163</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=RWvUl-aovqE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RWvUl-aovqE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stop procrastinating by using implementation intentionsIn this video I&#x27;m going to give you another piece of advice about how to avoid pro...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=RWvUl-aovqE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RWvUl-aovqE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stop procrastinating by using implementation intentionsIn this video I&#x27;m going to give you another piece of advice about how to avoid pro...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: dare.uva.nl  
    Title: nl Time management and procrastinationby W van Eerde · Cited by 85 —  
-   Link: <a href="https://dare.uva.nl/document/2/177644" target="_blank" rel="noopener noreferrer nofollow">https://dare.uva.nl/document/2/177644</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>study how plans develop in real situations versus the plans provided by researchers in many of the implementation intention studies. In o...</p></details>
+   Link:<a href="https://dare.uva.nl/document/2/177644" target="_blank" rel="noopener noreferrer nofollow">https://dare.uva.nl/document/2/177644</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>study how plans develop in real situations versus the plans provided by researchers in many of the implementation intention studies. In o...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: leantime.io  
    Title: how to use implementation intentions to reach your goals  
-   Link: <a href="https://leantime.io/how-to-use-implementation-intentions-to-reach-your-goals/" target="_blank" rel="noopener noreferrer nofollow">https://leantime.io/how-to-use-implementation-intentions-to-reach-your-goals/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Intentions: A Tried and True Approach...3 Nov 2024 — Implementation intentions serve as a tried and true approach to acco...</p></details>
+   Link:<a href="https://leantime.io/how-to-use-implementation-intentions-to-reach-your-goals/" target="_blank" rel="noopener noreferrer nofollow">https://leantime.io/how-to-use-implementation-intentions-to-reach-your-goals/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Intentions: A Tried and True Approach...3 Nov 2024 — Implementation intentions serve as a tried and true approach to acco...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/08870446.2019.1652753" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/08870446.2019.1652753</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Using mental contrasting with implementation intentions to...by TJ Valshtein · 2020 · Cited by 101 — Results: We found that MCII (compar...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/abs/10.1080/08870446.2019.1652753" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/08870446.2019.1652753</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Using mental contrasting with implementation intentions to...by TJ Valshtein · 2020 · Cited by 101 — Results: We found that MCII (compar...</p></details>

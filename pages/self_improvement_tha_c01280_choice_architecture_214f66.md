@@ -505,13 +505,13 @@ image: /assets/images/self_improvement_tha_c01280_choice_architecture_214f66-ove
 Defaults are the quiet settings that decide what happens when you do nothing. In [self improvement]({{ 'self-improvement-that-works/' | relative_url }}), this matters because many daily behaviours fail not from lack of values, but from too many small decisions arriving at the wrong moment: whether to save, exercise, book the appointment, prepare lunch, put the phone away or start the next task. Choice architecture turns that problem around. Instead of asking for more [willpower]({{ 'willpower/' | relative_url }}), it changes the ordinary setup so the preferred action becomes the path of least resistance.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66-overview.webp" | relative_url }}" alt="Overview image for Defaults" loading="eager" decoding="sync" fetchpriority="high">
-The strongest everyday use of defaults is not manipulation or life-hacking theatre. It is practical self-governance: arranging transfers, bookings, [reminders]({{ 'reminders/' | relative_url }}), subscriptions, devices, rooms and calendars so that yesterday’s clearer intention has some authority over today’s tired self. Evidence from pension auto-enrolment, automatic [saving]({{ 'saving/' | relative_url }}), commitment devices, appointment reminders and wider nudge research suggests that defaults can have real effects, especially when the desired behaviour is already endorsed, easy to exit and not hidden from the person being nudged. <span class="citation-chip-wrap"><a class="citation-chip" href="https://poverty-action.org/sites/default/files/publications/Ghani_Defaults.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: poverty-action.org">[Innovations for Poverty Action]</a><span class="citation-popover" role="note"><span class="citation-popover-source">poverty-action.org</span><span class="citation-popover-title">Innovations for Poverty Action Why Do Defaults Affect Behavior?</span><span class="citation-popover-snippet">Experimental Evidence...by J Blumenstock · 2018 · Cited by 217 — We report on an experiment examining why default options impact behavio...</span></span></span>
+The strongest everyday use of defaults is not manipulation or life-hacking theatre. It is practical self-governance: arranging transfers, bookings, [reminders]({{ 'reminders/' | relative_url }}), subscriptions, devices, rooms and calendars so that yesterday’s clearer intention has some authority over today’s tired self. Evidence from pension auto-enrolment, automatic [saving]({{ 'saving/' | relative_url }}), commitment devices, appointment reminders and wider nudge research suggests that defaults can have real effects, especially when the desired behaviour is already endorsed, easy to exit and not hidden from the person being nudged.<span class="citation-chip-wrap"><a class="citation-chip" href="https://poverty-action.org/sites/default/files/publications/Ghani_Defaults.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: poverty-action.org">[Innovations for Poverty Action]</a><span class="citation-popover" role="note"><span class="citation-popover-source">poverty-action.org</span><span class="citation-popover-title">Innovations for Poverty Action Why Do Defaults Affect Behavior?</span><span class="citation-popover-snippet">Experimental Evidence...by J Blumenstock · 2018 · Cited by 217 — We report on an experiment examining why default options impact behavio...</span></span></span>
 
 ## Why defaults work when motivation fades
 
 A default is not simply a pre-ticked box. It is the answer a system gives when the user does not actively choose another answer. In ordinary life, that might be the savings transfer that happens after payday, the recurring class already in the calendar, the browser blocker switched on during work hours, the vegetables placed at eye level, or the phone charging outside the bedroom. The underlying mechanism is the same: when attention is scarce, the existing arrangement carries more weight than a fresh intention.
 
-Behavioural economists often explain default effects through inertia, procrastination, implied recommendation and effort. People stick with the default because changing it takes action; because they delay a decision they still broadly [support]({{ 'support/' | relative_url }}); because the default can look like the normal or endorsed option; or because the cost of choosing actively feels larger than the benefit in that moment. In a field experiment on salary-linked savings in Afghanistan, [default enrolment]({{ 'default-lessons/' | relative_url }}) increased participation by 40 percentage points, a result the authors used to examine why default options affect behaviour rather than merely whether they do. <span class="citation-chip-wrap"><a class="citation-chip" href="https://poverty-action.org/sites/default/files/publications/Ghani_Defaults.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: poverty-action.org">[Innovations for Poverty Action]</a><span class="citation-popover" role="note"><span class="citation-popover-source">poverty-action.org</span><span class="citation-popover-title">Innovations for Poverty Action Why Do Defaults Affect Behavior?</span><span class="citation-popover-snippet">Experimental Evidence...by J Blumenstock · 2018 · Cited by 217 — We report on an experiment examining why default options impact behavio...</span></span></span>
+Behavioural economists often explain default effects through inertia, procrastination, implied recommendation and effort. People stick with the default because changing it takes action; because they delay a decision they still broadly [support]({{ 'support/' | relative_url }}); because the default can look like the normal or endorsed option; or because the cost of choosing actively feels larger than the benefit in that moment. In a field experiment on salary-linked savings in Afghanistan, [default enrolment]({{ 'default-lessons/' | relative_url }}) increased participation by 40 percentage points, a result the authors used to examine why default options affect behaviour rather than merely whether they do.<span class="citation-chip-wrap"><a class="citation-chip" href="https://poverty-action.org/sites/default/files/publications/Ghani_Defaults.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: poverty-action.org">[Innovations for Poverty Action]</a><span class="citation-popover" role="note"><span class="citation-popover-source">poverty-action.org</span><span class="citation-popover-title">Innovations for Poverty Action Why Do Defaults Affect Behavior?</span><span class="citation-popover-snippet">Experimental Evidence...by J Blumenstock · 2018 · Cited by 217 — We report on an experiment examining why default options impact behavio...</span></span></span>
 
 For self improvement, the crucial lesson is modest but powerful: a default works best when it governs the moment before temptation, not the moment inside temptation. Deciding every morning whether to save money, exercise or avoid a distracting app leaves the hardest choice to the weakest time. A better default moves the decision upstream. The person still has freedom to opt out, but the ordinary flow of the day now favours the behaviour they meant to choose.
 
@@ -520,13 +520,13 @@ This is why defaults belong under “self improvement that works” rather than 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66-Illustration-1-dark.svg" | relative_url }}" alt="Defaults illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Automatic transfers and bookings
 
-The clearest public example of default power is pension auto-enrolment. In Great Britain, workplace pension participation rose strongly after automatic enrolment was introduced from 2012, and official figures reported that around 82% of employees were members of workplace pension schemes in 2024. The Office for National Statistics describes the trend as stabilising after steady growth between 2012 and 2019 following the introduction of automatic enrolment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/workplacepensions/bulletins/annualsurveyofhoursandearningspensiontables/2024provisionaland2021to2023finalresults" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ons.gov.uk">[Office for National Statistics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ons.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The clearest public example of default power is pension auto-enrolment. In Great Britain, workplace pension participation rose strongly after automatic enrolment was introduced from 2012, and official figures reported that around 82% of employees were members of workplace pension schemes in 2024. The Office for National Statistics describes the trend as stabilising after steady growth between 2012 and 2019 following the introduction of automatic enrolment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/workplacepensions/bulletins/annualsurveyofhoursandearningspensiontables/2024provisionaland2021to2023finalresults" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ons.gov.uk">[Office for National Statistics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ons.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-This is not a perfect analogy for personal habits, because pension auto-enrolment also includes employer contributions, regulation and institutional design. The Institute for Fiscal Studies notes that UK automatic enrolment boosted pension saving through more than one mechanism: more employers offering schemes, a financial incentive through employer contributions, and scheme membership becoming the default for eligible employees. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ifs.org.uk/articles/automatic-enrolment-too-successful-nudge-boost-pension-saving" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifs.org.uk">[Institute for Fiscal Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifs.org.uk</span><span class="citation-popover-title">automatic enrolment too successful nudge boost pension saving</span><span class="citation-popover-snippet">automatic enrolment too successful nudge boost pension saving</span></span></span> Still, it demonstrates a core point that transfers well to daily life: when the beneficial action is automatic and opting out remains possible, participation can become normal without requiring repeated acts of discipline.
+This is not a perfect analogy for personal habits, because pension auto-enrolment also includes employer contributions, regulation and institutional design. The Institute for Fiscal Studies notes that UK automatic enrolment boosted pension saving through more than one mechanism: more employers offering schemes, a financial incentive through employer contributions, and scheme membership becoming the default for eligible employees.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ifs.org.uk/articles/automatic-enrolment-too-successful-nudge-boost-pension-saving" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifs.org.uk">[Institute for Fiscal Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifs.org.uk</span><span class="citation-popover-title">automatic enrolment too successful nudge boost pension saving</span><span class="citation-popover-snippet">automatic enrolment too successful nudge boost pension saving</span></span></span> Still, it demonstrates a core point that transfers well to daily life: when the beneficial action is automatic and opting out remains possible, participation can become normal without requiring repeated acts of discipline.
 
-The everyday version is to automate the behaviours that are easy to endorse but easy to postpone. Standing orders and Direct Debits are ordinary banking tools, not exotic behavioural interventions. MoneyHelper describes standing orders as regular automatic payments, while Nationwide notes that they are commonly used for rent and for moving money into a savings account each month. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.moneyhelper.org.uk/en/everyday-money/banking/direct-debits-and-standing-orders" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: moneyhelper.org.uk">[MaPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">moneyhelper.org.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In self-improvement terms, the important detail is timing: a transfer scheduled just after payday turns saving into the default allocation of money, rather than a leftover decision made after spending.
+The everyday version is to automate the behaviours that are easy to endorse but easy to postpone. Standing orders and Direct Debits are ordinary banking tools, not exotic behavioural interventions. MoneyHelper describes standing orders as regular automatic payments, while Nationwide notes that they are commonly used for rent and for moving money into a savings account each month.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.moneyhelper.org.uk/en/everyday-money/banking/direct-debits-and-standing-orders" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: moneyhelper.org.uk">[MaPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">moneyhelper.org.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In self-improvement terms, the important detail is timing: a transfer scheduled just after payday turns saving into the default allocation of money, rather than a leftover decision made after spending.
 
-Bookings work in the same way. A recurring exercise class, therapy appointment, study session, language lesson or weekly planning block is a pre-made answer to a future coordination problem. It reduces the number of decisions required at the exact moment when avoidance is easiest. Appointment evidence is not identical to habit evidence, but it is suggestive: a systematic review found appointment reminder systems effective across healthcare contexts, while a Behavioural Insights Team project reported that a redesigned reminder message reduced missed NHS appointments from 11.1% to 8.5% at no extra cost. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4831598/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Bookings work in the same way. A recurring exercise class, therapy appointment, study session, language lesson or weekly planning block is a pre-made answer to a future coordination problem. It reduces the number of decisions required at the exact moment when avoidance is easiest. Appointment evidence is not identical to habit evidence, but it is suggestive: a systematic review found appointment reminder systems effective across healthcare contexts, while a Behavioural Insights Team project reported that a redesigned reminder message reduced missed NHS appointments from 11.1% to 8.5% at no extra cost.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4831598/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The practical distinction is between a reminder and a default. A reminder says, “Remember to decide.” A booking says, “This is already happening unless you cancel.” For many behaviours, that small governance change is the point.
 
@@ -547,9 +547,9 @@ Useful defaults for transfers and bookings tend to share four features:
 
 Defaults are strongest when they are paired with pre-commitment: a decision made in advance to shape later behaviour. This is not about trapping yourself. It is about recognising that your preferences are not equally stable across contexts. The person planning on Sunday night may genuinely want a calmer week; the same person, tired on Wednesday, may choose the fastest relief. Pre-commitment gives the Sunday version some practical authority.
 
-The classic financial example is Save More Tomorrow, developed by Richard Thaler and Shlomo Benartzi. The programme invited employees to commit in advance to increasing retirement contributions when they received future pay rises, reducing the immediate pain of lower take-home pay. The original paper describes it as a behavioural approach to low saving, built around bounded rationality and self-control problems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.anderson.ucla.edu/documents/areas/fac/accounting/smartjpe226.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anderson.ucla.edu">[ucla]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anderson.ucla.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Anderson School of Management The broader lesson is not limited to pensions: if a beneficial choice feels costly now but acceptable later, link it to a future moment when the cost is easier to absorb.
+The classic financial example is Save More Tomorrow, developed by Richard Thaler and Shlomo Benartzi. The programme invited employees to commit in advance to increasing retirement contributions when they received future pay rises, reducing the immediate pain of lower take-home pay. The original paper describes it as a behavioural approach to low saving, built around bounded rationality and self-control problems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.anderson.ucla.edu/documents/areas/fac/accounting/smartjpe226.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anderson.ucla.edu">[ucla]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anderson.ucla.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Anderson School of Management The broader lesson is not limited to pensions: if a beneficial choice feels costly now but acceptable later, link it to a future moment when the cost is easier to absorb.
 
-Pre-commitment also appears in health and education research. A 2026 study of snack choices found high demand for pre-commitment, with 68.5% of participants wanting to pre-commit to their snack choice for the next day; the study also showed that overriding people’s own pre-commitment choices could change outcomes in asymmetric ways, which underlines the importance of respecting autonomy rather than treating nudges as tricks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0167487026000139" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Among middle school students, a field experiment found that some students wanted commitment devices for [behaviour change]({{ 'behaviour-change/' | relative_url }}), showing that even young people may understand the gap between intention and later action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4831598/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Pre-commitment also appears in health and education research. A 2026 study of snack choices found high demand for pre-commitment, with 68.5% of participants wanting to pre-commit to their snack choice for the next day; the study also showed that overriding people’s own pre-commitment choices could change outcomes in asymmetric ways, which underlines the importance of respecting autonomy rather than treating nudges as tricks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0167487026000139" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Among middle school students, a field experiment found that some students wanted commitment devices for [behaviour change]({{ 'behaviour-change/' | relative_url }}), showing that even young people may understand the gap between intention and later action.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4831598/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For everyday self improvement, pre-commitment can be very concrete. Book the morning class before the week starts. Put the distracting app behind a delay or blocker during work hours. Order groceries when you are not hungry. Set a standing meeting with a study partner. Choose tomorrow’s first task before opening email. Lay out running clothes before bed. The value is not that any one of these actions is profound. The value is that they remove a predictable future negotiation.
 
@@ -558,9 +558,9 @@ A useful pre-commitment has to be proportionate. Too weak, and it becomes a deco
 <img src="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66-Illustration-2-dark.svg" | relative_url }}" alt="Defaults illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Ethical self-nudging
 
-Choice architecture becomes ethically safer when the person being nudged is also the person choosing the nudge. This is the idea behind self-nudging: people deliberately design their own decision environments so that the easier path better matches their considered goals. Reijula and Hertwig argue that many nudges can be turned into self-nudges, enabling citizens to act as “choice architects” of their own environments rather than passive targets of someone else’s design. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pure.mpg.de/rest/items/item_3188203_12/component/file_3363457/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.mpg.de">[MPG.PuRe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.mpg.de</span><span class="citation-popover-title">Pu Re Self-Nudging and the Citizen Choice Architect</span><span class="citation-popover-snippet">Pu Re Self-Nudging and the Citizen Choice Architect</span></span></span>
+Choice architecture becomes ethically safer when the person being nudged is also the person choosing the nudge. This is the idea behind self-nudging: people deliberately design their own decision environments so that the easier path better matches their considered goals. Reijula and Hertwig argue that many nudges can be turned into self-nudges, enabling citizens to act as “choice architects” of their own environments rather than passive targets of someone else’s design.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pure.mpg.de/rest/items/item_3188203_12/component/file_3363457/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pure.mpg.de">[MPG.PuRe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pure.mpg.de</span><span class="citation-popover-title">Pu Re Self-Nudging and the Citizen Choice Architect</span><span class="citation-popover-snippet">Pu Re Self-Nudging and the Citizen Choice Architect</span></span></span>
 
-That distinction matters because defaults are powerful enough to raise autonomy concerns. A 2024 review of default nudges found that defaults can strongly influence behaviour, but also that ethical and welfare concerns depend heavily on design characteristics. The review emphasises that success and legitimacy are not separate questions: how a default is presented, whether it is transparent, how easy it is to leave, and whether it serves the chooser’s welfare all affect whether it is defensible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/behavioural-public-policy/article/options-to-design-more-ethical-and-still-successful-default-nudges-a-review-and-recommendations/E2B1E2A9CDFAD5C79C0D4B3C0B05F027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That distinction matters because defaults are powerful enough to raise autonomy concerns. A 2024 review of default nudges found that defaults can strongly influence behaviour, but also that ethical and welfare concerns depend heavily on design characteristics. The review emphasises that success and legitimacy are not separate questions: how a default is presented, whether it is transparent, how easy it is to leave, and whether it serves the chooser’s welfare all affect whether it is defensible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/behavioural-public-policy/article/options-to-design-more-ethical-and-still-successful-default-nudges-a-review-and-recommendations/E2B1E2A9CDFAD5C79C0D4B3C0B05F027" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For personal self improvement, the ethical standard is simple: the default should help your reflective preferences, not ambush your future self. A good self-nudge is transparent, reversible and aligned with a goal you can still endorse when calm. A poor self-nudge hides information, creates disproportionate penalties, relies on shame, or makes exit deliberately difficult. The same mechanism that helps a person save can also keep them paying for a service they no longer want. The same friction that blocks compulsive scrolling can become a problem if it prevents legitimate access to work, support or rest.
 
@@ -574,7 +574,7 @@ The best test is not “does this force me to behave?” but “does this make t
 
 The practical design process begins with the default that already exists. Every behaviour has one. If no lunch is prepared, the default may be buying whatever is nearby. If no sleep boundary exists, the default may be another episode. If no savings transfer exists, the default may be spending first and saving what remains. If no study slot is protected, the default may be reacting to messages. Self-improvement starts by naming the current automatic outcome.
 
-Then change one default at a time. Large behaviour overhauls often fail because they create too many new rules to maintain. A single well-placed default can remove a repeated decision without making the whole week feel managed. The wider nudging literature supports caution here: a 2022 meta-analysis found that choice architecture interventions overall promoted behaviour change, but subsequent debate has warned against overconfident average-effect claims and emphasised publication bias and variation across contexts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.2107346118" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Defaults are useful tools, not universal guarantees.
+Then change one default at a time. Large behaviour overhauls often fail because they create too many new rules to maintain. A single well-placed default can remove a repeated decision without making the whole week feel managed. The wider nudging literature supports caution here: a 2022 meta-analysis found that choice architecture interventions overall promoted behaviour change, but subsequent debate has warned against overconfident average-effect claims and emphasised publication bias and variation across contexts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.2107346118" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Defaults are useful tools, not universal guarantees.
 
 A good everyday default usually follows this pattern:
 
@@ -610,269 +610,269 @@ The most defensible defaults are chosen by the person they affect, transparent i
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mdPRY167rSQ" title="Shaping Choices: the Role of Choice Architecture in How We Make Decisions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mdPRY167rSQ" target="_blank" rel="noopener noreferrer">Shaping Choices: the Role of Choice Architecture in How We Make Decisions</a></p><p class="youtube-embed-meta">Channel: Behavioural Exchange 2025 &middot; Views: 71 &middot; Uploaded: June 2025 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mdPRY167rSQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mdPRY167rSQ">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Defaults Quietly Shape Your Day. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Defaults Quietly Shape Your Day. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Applies choice architecture ideas to everyday habits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Applies choice architecture ideas to everyday habits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Provides cognitive foundations for default effects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides cognitive foundations for default effects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Carol S. Dweck</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
-        <p class="fr-book-desc">Addresses beliefs and learning approaches that support improvement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
+</h4>
+<p class="fr-book-author">By Carol S. Dweck</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
+<p class="fr-book-desc">Addresses beliefs and learning approaches that support improvement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Predictably+Irrational+by+Dan+Ariely&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Predictably Irrational on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lwKRgkLNgXsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Predictably Irrational" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Predictably+Irrational+by+Dan+Ariely&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Predictably Irrational">Predictably Irrational</a>
-        </h4>
-        <p class="fr-book-author">By Dan Ariely</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Predictably+Irrational+by+Dan+Ariely&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Predictably Irrational on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lwKRgkLNgXsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Predictably Irrational" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Predictably+Irrational+by+Dan+Ariely&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Predictably Irrational">Predictably Irrational</a>
+</h4>
+<p class="fr-book-author">By Dan Ariely</p>
         
-        <p class="fr-book-desc">Explains systematic decision-making biases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Predictably+Irrational+by+Dan+Ariely&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains systematic decision-making biases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Predictably+Irrational+by+Dan+Ariely&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver"><img src="{{ '/assets/images/marketplace-covers/8ef2fda3ba43e1e28efb.jpg' | relative_url }}" alt="Listing image for 4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver"><img src="{{ '/assets/images/marketplace-covers/8ef2fda3ba43e1e28efb.jpg' | relative_url }}" alt="Listing image for 4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage For Office"><img src="{{ '/assets/images/marketplace-covers/4099560f2fd851fe1c13.jpg' | relative_url }}" alt="Listing image for Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage For Office" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage For Office</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage For Office"><img src="{{ '/assets/images/marketplace-covers/4099560f2fd851fe1c13.jpg' | relative_url }}" alt="Listing image for Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage For Office" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage For Office</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RIBBLEAS Organiser Desk Organizer with Drawer Minimalist Pen Holder Office Desk"><img src="{{ '/assets/images/marketplace-covers/1ee939884c2f686456eb.jpg' | relative_url }}" alt="Listing image for RIBBLEAS Organiser Desk Organizer with Drawer Minimalist Pen Holder Office Desk" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">RIBBLEAS Organiser Desk Organizer with Drawer Minimalist Pen Holder Office Desk</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RIBBLEAS Organiser Desk Organizer with Drawer Minimalist Pen Holder Office Desk"><img src="{{ '/assets/images/marketplace-covers/1ee939884c2f686456eb.jpg' | relative_url }}" alt="Listing image for RIBBLEAS Organiser Desk Organizer with Drawer Minimalist Pen Holder Office Desk" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">RIBBLEAS Organiser Desk Organizer with Drawer Minimalist Pen Holder Office Desk</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Black Samurai Warrior Pen Holder – Desk Organizer Statue, Unique Office Decor,"><img src="{{ '/assets/images/marketplace-covers/7dfaf475c242d68e5cc4.jpg' | relative_url }}" alt="Listing image for Black Samurai Warrior Pen Holder – Desk Organizer Statue, Unique Office Decor," loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Black Samurai Warrior Pen Holder – Desk Organizer Statue, Unique Office Decor,</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Black Samurai Warrior Pen Holder – Desk Organizer Statue, Unique Office Decor,"><img src="{{ '/assets/images/marketplace-covers/7dfaf475c242d68e5cc4.jpg' | relative_url }}" alt="Listing image for Black Samurai Warrior Pen Holder – Desk Organizer Statue, Unique Office Decor," loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Black Samurai Warrior Pen Holder – Desk Organizer Statue, Unique Office Decor,</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defaults-how-defaults-quietly-shape-your-day-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -888,7 +888,7 @@ The most defensible defaults are chosen by the person they affect, transparent i
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -908,7 +908,7 @@ The most defensible defaults are chosen by the person they affect, transparent i
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -940,7 +940,7 @@ The most defensible defaults are chosen by the person they affect, transparent i
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -970,7 +970,7 @@ The most defensible defaults are chosen by the person they affect, transparent i
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -1028,173 +1028,173 @@ The most defensible defaults are chosen by the person they affect, transparent i
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/statistics/workplace-pension-participation-and-savings-trends-2009-to-2024/workplace-pension-participation-and-savings-trends-of-eligible-employees-2009-to-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/statistics/workplace-pension-participation-and-savings-trends-2009-to-2024/workplace-pension-participation-and-savings-trends-of-eligible-employees-2009-to-2024</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>July 31, 2025 — 31 Jul 2025 — The overall workplace pension participation rate of all employees in Great Britain continued to be around 8...</p></details>
+   Link:<a href="https://www.gov.uk/government/statistics/workplace-pension-participation-and-savings-trends-2009-to-2024/workplace-pension-participation-and-savings-trends-of-eligible-employees-2009-to-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/statistics/workplace-pension-participation-and-savings-trends-2009-to-2024/workplace-pension-participation-and-savings-trends-of-eligible-employees-2009-to-2024</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 31, 2025 — 31 Jul 2025 — The overall workplace pension participation rate of all employees in Great Britain continued to be around 8...</p></details>
    Published: July 31, 2025  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: poverty-action.org  
    Title: Innovations for Poverty Action Why Do Defaults Affect Behavior?  
-   Link: <a href="https://poverty-action.org/sites/default/files/publications/Ghani_Defaults.pdf" target="_blank" rel="noopener noreferrer nofollow">https://poverty-action.org/sites/default/files/publications/Ghani_Defaults.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Experimental Evidence...by J Blumenstock · 2018 · Cited by 217 — We report on an experiment examining why default options impact behavio...</p></details>
+   Link:<a href="https://poverty-action.org/sites/default/files/publications/Ghani_Defaults.pdf" target="_blank" rel="noopener noreferrer nofollow">https://poverty-action.org/sites/default/files/publications/Ghani_Defaults.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Experimental Evidence...by J Blumenstock · 2018 · Cited by 217 — We report on an experiment examining why default options impact behavio...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pnas.org  
-   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2107346118" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2107346118</a>  
+   Link:<a href="https://www.pnas.org/doi/10.1073/pnas.2107346118" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2107346118</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ons.gov.uk  
-   Link: <a href="https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/workplacepensions/bulletins/annualsurveyofhoursandearningspensiontables/2024provisionaland2021to2023finalresults" target="_blank" rel="noopener noreferrer nofollow">https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/workplacepensions/bulletins/annualsurveyofhoursandearningspensiontables/2024provisionaland2021to2023finalresults</a>  
+   Link:<a href="https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/workplacepensions/bulletins/annualsurveyofhoursandearningspensiontables/2024provisionaland2021to2023finalresults" target="_blank" rel="noopener noreferrer nofollow">https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/workplacepensions/bulletins/annualsurveyofhoursandearningspensiontables/2024provisionaland2021to2023finalresults</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: anderson.ucla.edu  
-   Link: <a href="https://www.anderson.ucla.edu/documents/areas/fac/accounting/smartjpe226.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.anderson.ucla.edu/documents/areas/fac/accounting/smartjpe226.pdf</a>  
+   Link:<a href="https://www.anderson.ucla.edu/documents/areas/fac/accounting/smartjpe226.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.anderson.ucla.edu/documents/areas/fac/accounting/smartjpe226.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0167487026000139" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0167487026000139</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0167487026000139" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0167487026000139</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pure.mpg.de  
    Title: Pu Re Self-Nudging and the Citizen Choice Architect  
-   Link: <a href="https://pure.mpg.de/rest/items/item_3188203_12/component/file_3363457/content" target="_blank" rel="noopener noreferrer nofollow">https://pure.mpg.de/rest/items/item_3188203_12/component/file_3363457/content</a>  
+   Link:<a href="https://pure.mpg.de/rest/items/item_3188203_12/component/file_3363457/content" target="_blank" rel="noopener noreferrer nofollow">https://pure.mpg.de/rest/items/item_3188203_12/component/file_3363457/content</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/journals/behavioural-public-policy/article/options-to-design-more-ethical-and-still-successful-default-nudges-a-review-and-recommendations/E2B1E2A9CDFAD5C79C0D4B3C0B05F027" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/behavioural-public-policy/article/options-to-design-more-ethical-and-still-successful-default-nudges-a-review-and-recommendations/E2B1E2A9CDFAD5C79C0D4B3C0B05F027</a>  
+   Link:<a href="https://www.cambridge.org/core/journals/behavioural-public-policy/article/options-to-design-more-ethical-and-still-successful-default-nudges-a-review-and-recommendations/E2B1E2A9CDFAD5C79C0D4B3C0B05F027" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/behavioural-public-policy/article/options-to-design-more-ethical-and-still-successful-default-nudges-a-review-and-recommendations/E2B1E2A9CDFAD5C79C0D4B3C0B05F027</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167268119302744" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0167268119302744</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0167268119302744" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0167268119302744</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0168851022001853" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0168851022001853</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0168851022001853" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0168851022001853</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0167629622000881" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0167629622000881</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0167629622000881" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0167629622000881</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1057740811000775" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1057740811000775</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S1057740811000775" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1057740811000775</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167268124004736" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0167268124004736</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0167268124004736" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0167268124004736</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7c4c5ced915d338141de0b/WP109.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c4c5ced915d338141de0b/WP109.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7c4c5ced915d338141de0b/WP109.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c4c5ced915d338141de0b/WP109.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a820539e5274a2e8ab57141/automatic-enrolment-evaluation-strategy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a820539e5274a2e8ab57141/automatic-enrolment-evaluation-strategy.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a820539e5274a2e8ab57141/automatic-enrolment-evaluation-strategy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a820539e5274a2e8ab57141/automatic-enrolment-evaluation-strategy.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a75b86140f0b67f59fcf17f/opt-out-research-large-employers-ad_hoc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a75b86140f0b67f59fcf17f/opt-out-research-large-employers-ad_hoc.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a75b86140f0b67f59fcf17f/opt-out-research-large-employers-ad_hoc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a75b86140f0b67f59fcf17f/opt-out-research-large-employers-ad_hoc.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: default.com  
-   Link: <a href="https://www.default.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.default.com/</a>  
+   Link:<a href="https://www.default.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.default.com/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: thepensionsregulator.gov.uk  
-   Link: <a href="https://www.thepensionsregulator.gov.uk/en/business-advisers/automatic-enrolment-guide-for-business-advisers/opting-out" target="_blank" rel="noopener noreferrer nofollow">https://www.thepensionsregulator.gov.uk/en/business-advisers/automatic-enrolment-guide-for-business-advisers/opting-out</a>  
+   Link:<a href="https://www.thepensionsregulator.gov.uk/en/business-advisers/automatic-enrolment-guide-for-business-advisers/opting-out" target="_blank" rel="noopener noreferrer nofollow">https://www.thepensionsregulator.gov.uk/en/business-advisers/automatic-enrolment-guide-for-business-advisers/opting-out</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: thepensionsregulator.gov.uk  
-   Link: <a href="https://www.thepensionsregulator.gov.uk/en/document-library/research-and-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.thepensionsregulator.gov.uk/en/document-library/research-and-analysis</a>  
+   Link:<a href="https://www.thepensionsregulator.gov.uk/en/document-library/research-and-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.thepensionsregulator.gov.uk/en/document-library/research-and-analysis</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: GOV.UK  
    Title: workplace pension participation and savings trends  
-   Link: <a href="https://www.gov.uk/government/collections/workplace-pension-participation-and-savings-trends" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/collections/workplace-pension-participation-and-savings-trends</a>  
+   Link:<a href="https://www.gov.uk/government/collections/workplace-pension-participation-and-savings-trends" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/collections/workplace-pension-participation-and-savings-trends</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/us/dictionary/english/default" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/default</a>  
+   Link:<a href="https://dictionary.cambridge.org/us/dictionary/english/default" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/default</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/journals/journal-of-social-policy/article/understanding-default-behaviour-in-workplace-pensions-automatic-enrolment-in-the-uk/0FF521D34BC932CAA89D9A8EE724C03A" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/journal-of-social-policy/article/understanding-default-behaviour-in-workplace-pensions-automatic-enrolment-in-the-uk/0FF521D34BC932CAA89D9A8EE724C03A</a>  
+   Link:<a href="https://www.cambridge.org/core/journals/journal-of-social-policy/article/understanding-default-behaviour-in-workplace-pensions-automatic-enrolment-in-the-uk/0FF521D34BC932CAA89D9A8EE724C03A" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/journal-of-social-policy/article/understanding-default-behaviour-in-workplace-pensions-automatic-enrolment-in-the-uk/0FF521D34BC932CAA89D9A8EE724C03A</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/journals/journal-of-pension-economics-and-finance/article/retirement-choice-architecture-insights-from-indias-national-pension-system/B326C14A540CD5A4AF7D2EE7F0024999" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/journal-of-pension-economics-and-finance/article/retirement-choice-architecture-insights-from-indias-national-pension-system/B326C14A540CD5A4AF7D2EE7F0024999</a>  
+   Link:<a href="https://www.cambridge.org/core/journals/journal-of-pension-economics-and-finance/article/retirement-choice-architecture-insights-from-indias-national-pension-system/B326C14A540CD5A4AF7D2EE7F0024999" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/journal-of-pension-economics-and-finance/article/retirement-choice-architecture-insights-from-indias-national-pension-system/B326C14A540CD5A4AF7D2EE7F0024999</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ifs.org.uk  
    Title: automatic enrolment too successful nudge boost pension saving  
-   Link: <a href="https://ifs.org.uk/articles/automatic-enrolment-too-successful-nudge-boost-pension-saving" target="_blank" rel="noopener noreferrer nofollow">https://ifs.org.uk/articles/automatic-enrolment-too-successful-nudge-boost-pension-saving</a>  
+   Link:<a href="https://ifs.org.uk/articles/automatic-enrolment-too-successful-nudge-boost-pension-saving" target="_blank" rel="noopener noreferrer nofollow">https://ifs.org.uk/articles/automatic-enrolment-too-successful-nudge-boost-pension-saving</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: moneyhelper.org.uk  
-   Link: <a href="https://www.moneyhelper.org.uk/en/everyday-money/banking/direct-debits-and-standing-orders" target="_blank" rel="noopener noreferrer nofollow">https://www.moneyhelper.org.uk/en/everyday-money/banking/direct-debits-and-standing-orders</a>  
+   Link:<a href="https://www.moneyhelper.org.uk/en/everyday-money/banking/direct-debits-and-standing-orders" target="_blank" rel="noopener noreferrer nofollow">https://www.moneyhelper.org.uk/en/everyday-money/banking/direct-debits-and-standing-orders</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4831598/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4831598/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4831598/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4831598/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5835880/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5835880/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5835880/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5835880/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: chicagobooth.edu  
-   Link: <a href="https://www.chicagobooth.edu/review/save-more-tomorrow" target="_blank" rel="noopener noreferrer nofollow">https://www.chicagobooth.edu/review/save-more-tomorrow</a>  
+   Link:<a href="https://www.chicagobooth.edu/review/save-more-tomorrow" target="_blank" rel="noopener noreferrer nofollow">https://www.chicagobooth.edu/review/save-more-tomorrow</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: vocabulary.com  
-   Link: <a href="https://www.vocabulary.com/dictionary/default" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/dictionary/default</a>  
+   Link:<a href="https://www.vocabulary.com/dictionary/default" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/dictionary/default</a>  
 
 ### Additional References
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: Shaping Choices: the Role of Choice Architecture in How We Make Decisions  
-   Link: <a href="https://www.youtube.com/watch?v=mdPRY167rSQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mdPRY167rSQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Set Up Your Space to Build Good Habits Without Willpower...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mdPRY167rSQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mdPRY167rSQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Set Up Your Space to Build Good Habits Without Willpower...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: Behavioural Economics  
-   Link: <a href="https://www.youtube.com/watch?v=ZJHS_PFCJug" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZJHS_PFCJug</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shaping Choices: the Role of Choice Architecture in How We Make Decisions...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZJHS_PFCJug" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZJHS_PFCJug</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shaping Choices: the Role of Choice Architecture in How We Make Decisions...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: ssa.gov  
-   Link: <a href="https://www.ssa.gov/policy/docs/ssb/v70n4/v70n4p1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ssa.gov/policy/docs/ssb/v70n4/v70n4p1.html</a>  
+   Link:<a href="https://www.ssa.gov/policy/docs/ssb/v70n4/v70n4p1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ssa.gov/policy/docs/ssb/v70n4/v70n4p1.html</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: clear.dol.gov  
-   Link: <a href="https://clear.dol.gov/study/save-more-tomorrow%E2%84%A2-using-behavioral-economics-increase-employee-saving-thaler-benartzi-2004" target="_blank" rel="noopener noreferrer nofollow">https://clear.dol.gov/study/save-more-tomorrow%E2%84%A2-using-behavioral-economics-increase-employee-saving-thaler-benartzi-2004</a>  
+   Link:<a href="https://clear.dol.gov/study/save-more-tomorrow%E2%84%A2-using-behavioral-economics-increase-employee-saving-thaler-benartzi-2004" target="_blank" rel="noopener noreferrer nofollow">https://clear.dol.gov/study/save-more-tomorrow%E2%84%A2-using-behavioral-economics-increase-employee-saving-thaler-benartzi-2004</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: Behavioural Economics: The Power of Default Choices  
-   Link: <a href="https://www.youtube.com/watch?v=-zMWJw0dK7g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-zMWJw0dK7g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioural Economics - Choice Architecture &amp; Nudging...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-zMWJw0dK7g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-zMWJw0dK7g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioural Economics - Choice Architecture &amp; Nudging...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: piu.org.pl  
-   Link: <a href="https://www.piu.org.pl/public/upload/ibrowser/WU/4%202014/WU%204-2014%2011%20en%20sieczkowski.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.piu.org.pl/public/upload/ibrowser/WU/4%202014/WU%204-2014%2011%20en%20sieczkowski.pdf</a>  
+   Link:<a href="https://www.piu.org.pl/public/upload/ibrowser/WU/4%202014/WU%204-2014%2011%20en%20sieczkowski.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.piu.org.pl/public/upload/ibrowser/WU/4%202014/WU%204-2014%2011%20en%20sieczkowski.pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/269517913_Choice_Architecture" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/269517913_Choice_Architecture</a>  
+   Link:<a href="https://www.researchgate.net/publication/269517913_Choice_Architecture" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/269517913_Choice_Architecture</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/299977517_Appointment_reminder_systems_are_effective_but_not_optimal_results_of_a_systematic_review_and_evidence_synthesis_employing_realist_principles" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/299977517_Appointment_reminder_systems_are_effective_but_not_optimal_results_of_a_systematic_review_and_evidence_synthesis_employing_realist_principles</a>  
+   Link:<a href="https://www.researchgate.net/publication/299977517_Appointment_reminder_systems_are_effective_but_not_optimal_results_of_a_systematic_review_and_evidence_synthesis_employing_realist_principles" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/299977517_Appointment_reminder_systems_are_effective_but_not_optimal_results_of_a_systematic_review_and_evidence_synthesis_employing_realist_principles</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/356550966_Options_to_design_more_ethical_and_still_successful_default_nudges_a_review_and_recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/356550966_Options_to_design_more_ethical_and_still_successful_default_nudges_a_review_and_recommendations</a>  
+   Link:<a href="https://www.researchgate.net/publication/356550966_Options_to_design_more_ethical_and_still_successful_default_nudges_a_review_and_recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/356550966_Options_to_design_more_ethical_and_still_successful_default_nudges_a_review_and_recommendations</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/122442441/Appointment_reminder_systems_are_effective_but_not_optimal_results_of_a_systematic_review_and_evidence_synthesis_employing_realist_principles" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/122442441/Appointment_reminder_systems_are_effective_but_not_optimal_results_of_a_systematic_review_and_evidence_synthesis_employing_realist_principles</a>
+   Link:<a href="https://www.academia.edu/122442441/Appointment_reminder_systems_are_effective_but_not_optimal_results_of_a_systematic_review_and_evidence_synthesis_employing_realist_principles" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/122442441/Appointment_reminder_systems_are_effective_but_not_optimal_results_of_a_systematic_review_and_evidence_synthesis_employing_realist_principles</a>

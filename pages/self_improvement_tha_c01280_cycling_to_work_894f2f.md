@@ -505,26 +505,26 @@ image: /assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f-overvie
 Cycling to work becomes much easier when the habit starts the night before. The practical lesson is not “be more motivated in the morning”; it is “remove as many morning decisions as possible”. A [packed bag]({{ 'packed-bag/' | relative_url }}), charged lights, checked weather forecast, chosen route and ready set of work clothes turn a vague intention into a prepared commute. That matters because cycle commuting has real health value, but it is also unusually sensitive to small barriers: rain, forgotten shoes, a flat light battery, a laptop that will not fit, or a morning meeting that makes the ride feel risky.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f-overview.webp" | relative_url }}" alt="Overview image for Cycle Commute" loading="eager" decoding="sync" fetchpriority="high">
-Within [self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}), cycle commuting is a useful case because the supporting action is separate from the main behaviour. The main behaviour is riding to work. The supporting behaviour is preparing the night before. Behaviour-change research distinguishes between wanting to act and having a concrete plan for when, where and how to act; action planning and coping planning are specifically designed to bridge that intention–behaviour gap. <span class="citation-chip-wrap"><a class="citation-chip" href="https://d-nb.info/1104173190/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[D-NB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Planning mediates between intentions and physical activityDecember 17, 2012 — by U Scholz · Cited by 306 — Action planning and coping...</span><span class="citation-popover-meta">Published: December 17, 2012</span></span></span>
+Within [self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}), cycle commuting is a useful case because the supporting action is separate from the main behaviour. The main behaviour is riding to work. The supporting behaviour is preparing the night before. Behaviour-change research distinguishes between wanting to act and having a concrete plan for when, where and how to act; action planning and coping planning are specifically designed to bridge that intention–behaviour gap.<span class="citation-chip-wrap"><a class="citation-chip" href="https://d-nb.info/1104173190/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[D-NB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Planning mediates between intentions and physical activityDecember 17, 2012 — by U Scholz · Cited by 306 — Action planning and coping...</span><span class="citation-popover-meta">Published: December 17, 2012</span></span></span>
 
 ## Why the Ride Is Won or Lost Before Breakfast
 
 A morning cycle commute looks like one decision, but it is really a chain of small decisions: what to wear, whether the weather is tolerable, where the keys are, whether the lights are charged, whether the laptop is protected, whether there is a clean shirt at work, whether there is enough time, and whether the route still feels safe. Each unresolved question adds friction. The night-before routine works because it moves those decisions to a calmer moment.
 
-This is a classic implementation problem. An implementation intention is a specific “if–then” plan that connects a cue to an action, while action planning names the when, where and how of a behaviour. Research on planning and physical activity finds that planning can help translate good intentions into actual behaviour, especially when it includes both action planning and coping planning: the plan for doing the behaviour and the plan for dealing with barriers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://d-nb.info/1104173190/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[D-NB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Planning mediates between intentions and physical activityDecember 17, 2012 — by U Scholz · Cited by 306 — Action planning and coping...</span><span class="citation-popover-meta">Published: December 17, 2012</span></span></span>
+This is a classic implementation problem. An implementation intention is a specific “if–then” plan that connects a cue to an action, while action planning names the when, where and how of a behaviour. Research on planning and physical activity finds that planning can help translate good intentions into actual behaviour, especially when it includes both action planning and coping planning: the plan for doing the behaviour and the plan for dealing with barriers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://d-nb.info/1104173190/34" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: d-nb.info">[D-NB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">d-nb.info</span><span class="citation-popover-snippet">Planning mediates between intentions and physical activityDecember 17, 2012 — by U Scholz · Cited by 306 — Action planning and coping...</span><span class="citation-popover-meta">Published: December 17, 2012</span></span></span>
 
 For commuting, the useful plan is not just “I will cycle more”. It is more like: “On Monday and Thursday, after dinner, I will pack my work clothes, check the forecast, charge my lights and put my bike bag by the door.” That supporting habit makes the morning version of the decision much simpler: get dressed, take the bag, leave.
 
-The health case for making the ride repeatable is strong enough to justify this small logistical ritual. A large UK Biobank study published in the BMJ found that cycle commuting was associated with lower risk of cardiovascular disease, cancer and all-cause mortality compared with non-active commuting, while a later Scottish study found population-level health benefits from active commuting, including associations with lower mental-health medication prescribing. These are observational findings rather than proof that cycling alone caused every difference, but they show why a reliable commute habit is worth designing carefully. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmj.com/content/357/bmj.j1456" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmj.com</span><span class="citation-popover-snippet">Association between active commuting and incident...by CA Celis-Morales · 2017 · Cited by 729 — Cycle commuting was associated with a...</span></span></span>
+The health case for making the ride repeatable is strong enough to justify this small logistical ritual. A large UK Biobank study published in the BMJ found that cycle commuting was associated with lower risk of cardiovascular disease, cancer and all-cause mortality compared with non-active commuting, while a later Scottish study found population-level health benefits from active commuting, including associations with lower mental-health medication prescribing. These are observational findings rather than proof that cycling alone caused every difference, but they show why a reliable commute habit is worth designing carefully.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bmj.com/content/357/bmj.j1456" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmj.com">[BMJ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmj.com</span><span class="citation-popover-snippet">Association between active commuting and incident...by CA Celis-Morales · 2017 · Cited by 729 — Cycle commuting was associated with a...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f-Illustration-1-dark.svg" | relative_url }}" alt="Cycle Commute illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Packing Clothes and Gear
 
 The most common night-before mistake is packing for the ride but not for the arrival. Cycle commuting has two endpoints: the road and the workplace. A good preparation routine covers both.
 
-The simplest system is a permanent [commute bag]({{ 'commute-bag/' | relative_url }}) or pannier checklist. For many riders, that means work clothes, shoes, underwear, deodorant, towel if needed, laptop protection, keys, pass, wallet, lock, lights, waterproof layer and a small repair kit. Cycling UK notes that arriving fresh is often managed by riding at a relaxed pace, using breathable clothing, using an e-bike, or cycling in separate clothes and changing on arrival. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cyclinguk.org/lighting-regulations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cyclinguk.org">[Cycling UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cyclinguk.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The simplest system is a permanent [commute bag]({{ 'commute-bag/' | relative_url }}) or pannier checklist. For many riders, that means work clothes, shoes, underwear, deodorant, towel if needed, laptop protection, keys, pass, wallet, lock, lights, waterproof layer and a small repair kit. Cycling UK notes that arriving fresh is often managed by riding at a relaxed pace, using breathable clothing, using an e-bike, or cycling in separate clothes and changing on arrival.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cyclinguk.org/lighting-regulations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cyclinguk.org">[Cycling UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cyclinguk.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The exact clothing system depends on distance, terrain, workplace and weather. For a short flat ride, everyday clothes plus a waterproof jacket may be enough. For a longer or sweatier commute, separate cycling clothes and office clothes are more reliable. Recent UK commuter guidance makes the same distinction: short city rides can often be handled in practical everyday clothing, while longer commutes benefit from more bike-specific layers, padded shorts or undershorts, and proper weather protection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cyclescheme.co.uk/community/how-to/look-smart-no-sweat" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cyclescheme.co.uk">[Cyclescheme]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cyclescheme.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The exact clothing system depends on distance, terrain, workplace and weather. For a short flat ride, everyday clothes plus a waterproof jacket may be enough. For a longer or sweatier commute, separate cycling clothes and office clothes are more reliable. Recent UK commuter guidance makes the same distinction: short city rides can often be handled in practical everyday clothing, while longer commutes benefit from more bike-specific layers, padded shorts or undershorts, and proper weather protection.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cyclescheme.co.uk/community/how-to/look-smart-no-sweat" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cyclescheme.co.uk">[Cyclescheme]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cyclescheme.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 A practical night-before packing routine should answer four questions:
 
@@ -537,7 +537,7 @@ A practical night-before packing routine should answer four questions:
 
 </div>
 
-Lights deserve special treatment because they are both practical and legal. In the UK, the Highway Code says that at night a cycle must have a white front light, a red rear light, a red rear reflector and amber pedal reflectors if manufactured after 1 October 1985; it also recommends a steady front lamp in areas without street lighting. That makes charging lights the night before more than a convenience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/the-highway-code/rules-for-cyclists-59-to-82" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">The Highway Code</span><span class="citation-popover-snippet">The Highway Code</span></span></span>
+Lights deserve special treatment because they are both practical and legal. In the UK, the Highway Code says that at night a cycle must have a white front light, a red rear light, a red rear reflector and amber pedal reflectors if manufactured after 1 October 1985; it also recommends a steady front lamp in areas without street lighting. That makes charging lights the night before more than a convenience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/guidance/the-highway-code/rules-for-cyclists-59-to-82" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">The Highway Code</span><span class="citation-popover-snippet">The Highway Code</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DkDUoHPJ6yI" title="Everything You Need To Take On A Bike Ride (&amp; How To Carry It)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DkDUoHPJ6yI" target="_blank" rel="noopener noreferrer">Everything You Need To Take On A Bike Ride (&amp; How To Carry It)</a></p><p class="youtube-embed-meta">Channel: Global Cycling Network &middot; Views: 306.2K &middot; Uploaded: October 2023 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DkDUoHPJ6yI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DkDUoHPJ6yI">Open on YouTube</a></p></div></div></div>
 
@@ -547,7 +547,7 @@ The fastest way to kill a new cycle commute is to demand daily perfection too so
 
 This fits the broader self-improvement principle: make the target specific, repeatable and realistic. “Cycle to work on Mondays and Thursdays” is a stronger behaviour than “cycle more”. It also makes night-before preparation easier because the cue is stable. Sunday and Wednesday evenings become the preparation windows; Monday and Thursday mornings become the ride windows.
 
-The best early commute days have three features. They have enough time in the morning, no high-stakes first appointment, and a reasonable weather outlook. BikeWalk NC’s beginner advice captures this gradual approach well: start by storing clothes or supplies at work and ride on a day with ideal weather and no schedule conflicts, then build up equipment and confidence over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bikewalknc.org/bicycle-commuting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bikewalknc.org">[BikeWalkNC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bikewalknc.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The best early commute days have three features. They have enough time in the morning, no high-stakes first appointment, and a reasonable weather outlook. BikeWalk NC’s beginner advice captures this gradual approach well: start by storing clothes or supplies at work and ride on a day with ideal weather and no schedule conflicts, then build up equipment and confidence over time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bikewalknc.org/bicycle-commuting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bikewalknc.org">[BikeWalkNC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bikewalknc.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This is not weakness; it is behaviour design. Commuting is a repeated behaviour embedded in work obligations, not a motivational challenge in isolation. A person who cycles once a week for three months has built more evidence of [identity]({{ 'identity/' | relative_url }}), route knowledge and practical confidence than someone who announces a daily commute and quits after the first chaotic morning.
 
@@ -568,11 +568,11 @@ The point is not to make cycling fragile by waiting for perfect conditions. It i
 <img src="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f-Illustration-2-dark.svg" | relative_url }}" alt="Cycle Commute illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Weather and Route Backups
 
-Weather is one of the biggest reasons cycle commuting needs a night-before routine. [Bad weather]({{ 'bad-weather/' | relative_url }}) in the morning feels like a reason to abandon the ride; known weather the night before becomes a planning variable. The Met Office advises cyclists to keep a close eye on forecasts and weather warnings, especially in winter, when road conditions and visibility can change the safety of a journey. <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/winter-weather-and-cycling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Weather is one of the biggest reasons cycle commuting needs a night-before routine. [Bad weather]({{ 'bad-weather/' | relative_url }}) in the morning feels like a reason to abandon the ride; known weather the night before becomes a planning variable. The Met Office advises cyclists to keep a close eye on forecasts and weather warnings, especially in winter, when road conditions and visibility can change the safety of a journey.<span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/winter-weather-and-cycling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The night-before weather check should cover the return journey as well as the morning ride. Many commuters remember the outbound weather and forget that they also need to get home. A practical check includes rain, wind, temperature, visibility and warnings. Rain may call for waterproof trousers or a dry bag; wind may call for a less exposed route; cold may call for gloves; darkness may call for extra lighting and reflective details.
 
-The route deserves the same treatment. The best route by car is often not the best route by bike. A slightly longer route with quieter roads, cycle lanes, better lighting or fewer hostile junctions may be more sustainable than the shortest line on a map. Google Maps and other route tools can help, but commuter cyclists often need to test alternatives because routing apps may not fully capture surface quality, junction stress, traffic speed or personal comfort. <span class="citation-chip-wrap"><a class="citation-chip" href="https://biketoeverything.com/2020/06/10/how-to-plan-a-fun-bike-route-with-google-maps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biketoeverything.com">[Bike to Everything]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biketoeverything.com</span><span class="citation-popover-title">Bike to Everything How to Plan a Fun Bike Route with Google Maps</span><span class="citation-popover-snippet">Bike to Everything How to Plan a Fun Bike Route with Google Maps</span></span></span>
+The route deserves the same treatment. The best route by car is often not the best route by bike. A slightly longer route with quieter roads, cycle lanes, better lighting or fewer hostile junctions may be more sustainable than the shortest line on a map. Google Maps and other route tools can help, but commuter cyclists often need to test alternatives because routing apps may not fully capture surface quality, junction stress, traffic speed or personal comfort.<span class="citation-chip-wrap"><a class="citation-chip" href="https://biketoeverything.com/2020/06/10/how-to-plan-a-fun-bike-route-with-google-maps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: biketoeverything.com">[Bike to Everything]</a><span class="citation-popover" role="note"><span class="citation-popover-source">biketoeverything.com</span><span class="citation-popover-title">Bike to Everything How to Plan a Fun Bike Route with Google Maps</span><span class="citation-popover-snippet">Bike to Everything How to Plan a Fun Bike Route with Google Maps</span></span></span>
 
 A good backup plan is specific enough to use when tired. Examples include:
 
@@ -611,7 +611,7 @@ A strong routine might look like this:
 
 </div>
 
-The key design feature is that the routine ends with a visible prompt. A packed pannier by the door, helmet on the bag, or lights beside the keys turns tomorrow’s intention into a physical cue. Behaviour-change taxonomies treat prompts, cues, action planning and restructuring the physical [environment]({{ 'environment/' | relative_url }}) as distinct behaviour-change [techniques]({{ 'techniques/' | relative_url }}) because they change the conditions under which action happens. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/18851764/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">habit strength moderates implementation intention effects...by TL Webb · 2009 · Cited by 333 — In summary, habit strength moderate...</span></span></span>
+The key design feature is that the routine ends with a visible prompt. A packed pannier by the door, helmet on the bag, or lights beside the keys turns tomorrow’s intention into a physical cue. Behaviour-change taxonomies treat prompts, cues, action planning and restructuring the physical [environment]({{ 'environment/' | relative_url }}) as distinct behaviour-change [techniques]({{ 'techniques/' | relative_url }}) because they change the conditions under which action happens.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/18851764/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">habit strength moderates implementation intention effects...by TL Webb · 2009 · Cited by 333 — In summary, habit strength moderate...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f-Illustration-3-dark.svg" | relative_url }}" alt="Cycle Commute illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_cycling_to_work_894f2f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What This Case Teaches About Self Improvement That Works
@@ -627,194 +627,194 @@ A sustainable cycle commute is therefore not built from one heroic morning. It i
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pmn6zJqYD6E" title="How to commute by bike whatever the weather | Commute Smart" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pmn6zJqYD6E" target="_blank" rel="noopener noreferrer">How to commute by bike whatever the weather | Commute Smart</a></p><p class="youtube-embed-meta">Channel: British Cycling &middot; Views: 179.3K &middot; Uploaded: March 2017 &middot; Length: 4 minutes 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pmn6zJqYD6E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pmn6zJqYD6E">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Habit Starts the Night Before. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Habit Starts the Night Before. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Directly supports night-before preparation habits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Directly supports night-before preparation habits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cyclist%27s+Training+Bible+by+Joe+Friel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cyclist&#x27;s Training Bible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Ovg5CgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Cyclist&#x27;s Training Bible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cyclist%27s+Training+Bible+by+Joe+Friel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cyclist&#x27;s Training Bible">The Cyclist&#x27;s Training Bible</a>
-        </h4>
-        <p class="fr-book-author">By Joe Friel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cyclist%27s+Training+Bible+by+Joe+Friel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cyclist&#x27;s Training Bible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Ovg5CgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Cyclist&#x27;s Training Bible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cyclist%27s+Training+Bible+by+Joe+Friel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cyclist&#x27;s Training Bible">The Cyclist&#x27;s Training Bible</a>
+</h4>
+<p class="fr-book-author">By Joe Friel</p>
         
-        <p class="fr-book-desc">Provides structure, planning, and consistency for regular riding.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cyclist%27s+Training+Bible+by+Joe+Friel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides structure, planning, and consistency for regular riding.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cyclist%27s+Training+Bible+by+Joe+Friel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Carol S. Dweck</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
-        <p class="fr-book-desc">Addresses beliefs and learning approaches that support improvement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
+</h4>
+<p class="fr-book-author">By Carol S. Dweck</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
+<p class="fr-book-desc">Addresses beliefs and learning approaches that support improvement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
-        </h4>
-        <p class="fr-book-author">By Charles Duhigg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
+</h4>
+<p class="fr-book-author">By Charles Duhigg</p>
         
-        <p class="fr-book-desc">Useful for understanding routine formation around commuting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding routine formation around commuting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cyclist%27s+Training+Bible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cyclist&#x27;s Training Bible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cyclist%27s+Training+Bible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cyclist&#x27;s Training Bible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bike+commuter+bag&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-bike-commuter-bag&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bike commuter bag" data-ebay-reference="why-the-habit-starts-the-night-before-bike-commuter-bag" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Altura Heritage Travel Cycling Bag Backpack Road Gravel Bike Commute Water Green"><img src="https://i.ebayimg.com/images/g/TGIAAeSwP8Zpjd3a/s-l225.jpg" alt="Listing image for Altura Heritage Travel Cycling Bag Backpack Road Gravel Bike Commute Water Green" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bike+commuter+bag&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-bike-commuter-bag&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bike commuter bag" data-ebay-reference="why-the-habit-starts-the-night-before-bike-commuter-bag" target="_blank" rel="sponsored noopener noreferrer">Altura Heritage Travel Cycling Bag Backpack Road Gravel Bike Commute Water Green</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bike+commuter+bag&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-bike-commuter-bag&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bike commuter bag" data-ebay-reference="why-the-habit-starts-the-night-before-bike-commuter-bag" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bike commuter bag">Search <span data-ebay-domain-label>eBay.co.uk</span>: bike commuter bag</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bike+commuter+bag&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-bike-commuter-bag&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bike commuter bag" data-ebay-reference="why-the-habit-starts-the-night-before-bike-commuter-bag" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bike+commuter+bag&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-bike-commuter-bag&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bike commuter bag" data-ebay-reference="why-the-habit-starts-the-night-before-bike-commuter-bag" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Altura Heritage Travel Cycling Bag Backpack Road Gravel Bike Commute Water Green"><img src="https://i.ebayimg.com/images/g/TGIAAeSwP8Zpjd3a/s-l225.jpg" alt="Listing image for Altura Heritage Travel Cycling Bag Backpack Road Gravel Bike Commute Water Green" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=bike+commuter+bag&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-bike-commuter-bag&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bike commuter bag" data-ebay-reference="why-the-habit-starts-the-night-before-bike-commuter-bag" target="_blank" rel="sponsored noopener noreferrer">Altura Heritage Travel Cycling Bag Backpack Road Gravel Bike Commute Water Green</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bike+commuter+bag&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-bike-commuter-bag&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bike commuter bag" data-ebay-reference="why-the-habit-starts-the-night-before-bike-commuter-bag" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bike commuter bag">Search<span data-ebay-domain-label>eBay.co.uk</span>: bike commuter bag</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=bike+commuter+bag&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-bike-commuter-bag&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bike commuter bag" data-ebay-reference="why-the-habit-starts-the-night-before-bike-commuter-bag" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bike+commuter+bag&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-bike-commuter-bag&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bike commuter bag" data-ebay-reference="why-the-habit-starts-the-night-before-bike-commuter-bag" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROCKBROS Folding Bike Front Bag 18L Capacity Commuter Travel Bag Fits Brompton"><img src="https://i.ebayimg.com/images/g/RsIAAeSw6uFpX3pQ/s-l225.jpg" alt="Listing image for ROCKBROS Folding Bike Front Bag 18L Capacity Commuter Travel Bag Fits Brompton" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bike+commuter+bag&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-bike-commuter-bag&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bike commuter bag" data-ebay-reference="why-the-habit-starts-the-night-before-bike-commuter-bag" target="_blank" rel="sponsored noopener noreferrer">ROCKBROS Folding Bike Front Bag 18L Capacity Commuter Travel Bag Fits Brompton</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bike+commuter+bag&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-bike-commuter-bag&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bike commuter bag" data-ebay-reference="why-the-habit-starts-the-night-before-bike-commuter-bag" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bike commuter bag">Search <span data-ebay-domain-label>eBay.co.uk</span>: bike commuter bag</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bike+commuter+bag&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-bike-commuter-bag&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bike commuter bag" data-ebay-reference="why-the-habit-starts-the-night-before-bike-commuter-bag" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bike+commuter+bag&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-bike-commuter-bag&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bike commuter bag" data-ebay-reference="why-the-habit-starts-the-night-before-bike-commuter-bag" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROCKBROS Folding Bike Front Bag 18L Capacity Commuter Travel Bag Fits Brompton"><img src="https://i.ebayimg.com/images/g/RsIAAeSw6uFpX3pQ/s-l225.jpg" alt="Listing image for ROCKBROS Folding Bike Front Bag 18L Capacity Commuter Travel Bag Fits Brompton" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=bike+commuter+bag&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-bike-commuter-bag&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bike commuter bag" data-ebay-reference="why-the-habit-starts-the-night-before-bike-commuter-bag" target="_blank" rel="sponsored noopener noreferrer">ROCKBROS Folding Bike Front Bag 18L Capacity Commuter Travel Bag Fits Brompton</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bike+commuter+bag&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-bike-commuter-bag&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bike commuter bag" data-ebay-reference="why-the-habit-starts-the-night-before-bike-commuter-bag" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bike commuter bag">Search<span data-ebay-domain-label>eBay.co.uk</span>: bike commuter bag</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=bike+commuter+bag&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-bike-commuter-bag&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bike commuter bag" data-ebay-reference="why-the-habit-starts-the-night-before-bike-commuter-bag" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bike+commuter+bag&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-bike-commuter-bag&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bike commuter bag" data-ebay-reference="why-the-habit-starts-the-night-before-bike-commuter-bag" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 25L Large Capacity Bike Double Pannier Bags Rear Rack Bag for Commuting Touring"><img src="https://i.ebayimg.com/images/g/dwQAAeSwXZ5py0N2/s-l225.jpg" alt="Listing image for 25L Large Capacity Bike Double Pannier Bags Rear Rack Bag for Commuting Touring" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bike+commuter+bag&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-bike-commuter-bag&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bike commuter bag" data-ebay-reference="why-the-habit-starts-the-night-before-bike-commuter-bag" target="_blank" rel="sponsored noopener noreferrer">25L Large Capacity Bike Double Pannier Bags Rear Rack Bag for Commuting Touring</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bike+commuter+bag&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-bike-commuter-bag&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bike commuter bag" data-ebay-reference="why-the-habit-starts-the-night-before-bike-commuter-bag" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bike commuter bag">Search <span data-ebay-domain-label>eBay.co.uk</span>: bike commuter bag</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bike+commuter+bag&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-bike-commuter-bag&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bike commuter bag" data-ebay-reference="why-the-habit-starts-the-night-before-bike-commuter-bag" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bike+commuter+bag&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-bike-commuter-bag&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bike commuter bag" data-ebay-reference="why-the-habit-starts-the-night-before-bike-commuter-bag" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 25L Large Capacity Bike Double Pannier Bags Rear Rack Bag for Commuting Touring"><img src="https://i.ebayimg.com/images/g/dwQAAeSwXZ5py0N2/s-l225.jpg" alt="Listing image for 25L Large Capacity Bike Double Pannier Bags Rear Rack Bag for Commuting Touring" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=bike+commuter+bag&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-bike-commuter-bag&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bike commuter bag" data-ebay-reference="why-the-habit-starts-the-night-before-bike-commuter-bag" target="_blank" rel="sponsored noopener noreferrer">25L Large Capacity Bike Double Pannier Bags Rear Rack Bag for Commuting Touring</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bike+commuter+bag&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-bike-commuter-bag&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bike commuter bag" data-ebay-reference="why-the-habit-starts-the-night-before-bike-commuter-bag" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bike commuter bag">Search<span data-ebay-domain-label>eBay.co.uk</span>: bike commuter bag</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=bike+commuter+bag&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-bike-commuter-bag&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bike commuter bag" data-ebay-reference="why-the-habit-starts-the-night-before-bike-commuter-bag" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bike+commuter+bag&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-bike-commuter-bag&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bike commuter bag" data-ebay-reference="why-the-habit-starts-the-night-before-bike-commuter-bag" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Altura Urban Laptop Briefcase Pannier Waterproof Commuter Cyclist Bag"><img src="https://i.ebayimg.com/images/g/sUEAAeSwJdhqJCK2/s-l225.jpg" alt="Listing image for Altura Urban Laptop Briefcase Pannier Waterproof Commuter Cyclist Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bike+commuter+bag&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-bike-commuter-bag&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bike commuter bag" data-ebay-reference="why-the-habit-starts-the-night-before-bike-commuter-bag" target="_blank" rel="sponsored noopener noreferrer">Altura Urban Laptop Briefcase Pannier Waterproof Commuter Cyclist Bag</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bike+commuter+bag&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-bike-commuter-bag&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bike commuter bag" data-ebay-reference="why-the-habit-starts-the-night-before-bike-commuter-bag" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bike commuter bag">Search <span data-ebay-domain-label>eBay.co.uk</span>: bike commuter bag</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bike+commuter+bag&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-bike-commuter-bag&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bike commuter bag" data-ebay-reference="why-the-habit-starts-the-night-before-bike-commuter-bag" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=bike+commuter+bag&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-bike-commuter-bag&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bike commuter bag" data-ebay-reference="why-the-habit-starts-the-night-before-bike-commuter-bag" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bike+commuter+bag&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-bike-commuter-bag&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bike commuter bag" data-ebay-reference="why-the-habit-starts-the-night-before-bike-commuter-bag" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Altura Urban Laptop Briefcase Pannier Waterproof Commuter Cyclist Bag"><img src="https://i.ebayimg.com/images/g/sUEAAeSwJdhqJCK2/s-l225.jpg" alt="Listing image for Altura Urban Laptop Briefcase Pannier Waterproof Commuter Cyclist Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=bike+commuter+bag&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-bike-commuter-bag&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bike commuter bag" data-ebay-reference="why-the-habit-starts-the-night-before-bike-commuter-bag" target="_blank" rel="sponsored noopener noreferrer">Altura Urban Laptop Briefcase Pannier Waterproof Commuter Cyclist Bag</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bike+commuter+bag&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-bike-commuter-bag&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bike commuter bag" data-ebay-reference="why-the-habit-starts-the-night-before-bike-commuter-bag" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bike commuter bag">Search<span data-ebay-domain-label>eBay.co.uk</span>: bike commuter bag</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=bike+commuter+bag&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-bike-commuter-bag&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bike commuter bag" data-ebay-reference="why-the-habit-starts-the-night-before-bike-commuter-bag" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=bike+commuter+bag&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-habit-starts-the-night-before-bike-commuter-bag&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="bike commuter bag" data-ebay-reference="why-the-habit-starts-the-night-before-bike-commuter-bag" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -830,7 +830,7 @@ A sustainable cycle commute is therefore not built from one heroic morning. It i
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -850,7 +850,7 @@ A sustainable cycle commute is therefore not built from one heroic morning. It i
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -882,7 +882,7 @@ A sustainable cycle commute is therefore not built from one heroic morning. It i
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -934,7 +934,7 @@ A sustainable cycle commute is therefore not built from one heroic morning. It i
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -979,7 +979,7 @@ A sustainable cycle commute is therefore not built from one heroic morning. It i
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1020,156 +1020,156 @@ A sustainable cycle commute is therefore not built from one heroic morning. It i
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: d-nb.info  
-   Link: <a href="https://d-nb.info/1104173190/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1104173190/34</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Planning mediates between intentions and physical activityDecember 17, 2012 — by U Scholz · Cited by 306 — Action planning and coping...</p></details>
+   Link:<a href="https://d-nb.info/1104173190/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1104173190/34</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Planning mediates between intentions and physical activityDecember 17, 2012 — by U Scholz · Cited by 306 — Action planning and coping...</p></details>
    Published: December 17, 2012  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: bmj.com  
-   Link: <a href="https://www.bmj.com/content/357/bmj.j1456" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/357/bmj.j1456</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Association between active commuting and incident...by CA Celis-Morales · 2017 · Cited by 729 — Cycle commuting was associated with a...</p></details>
+   Link:<a href="https://www.bmj.com/content/357/bmj.j1456" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/357/bmj.j1456</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Association between active commuting and incident...by CA Celis-Morales · 2017 · Cited by 729 — Cycle commuting was associated with a...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
    Title: The Highway Code  
-   Link: <a href="https://www.gov.uk/guidance/the-highway-code/rules-for-cyclists-59-to-82" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/the-highway-code/rules-for-cyclists-59-to-82</a>  
+   Link:<a href="https://www.gov.uk/guidance/the-highway-code/rules-for-cyclists-59-to-82" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/the-highway-code/rules-for-cyclists-59-to-82</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cyclinguk.org  
-   Link: <a href="https://www.cyclinguk.org/lighting-regulations" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclinguk.org/lighting-regulations</a>  
+   Link:<a href="https://www.cyclinguk.org/lighting-regulations" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclinguk.org/lighting-regulations</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: bikewalknc.org  
-   Link: <a href="https://www.bikewalknc.org/bicycle-commuting/" target="_blank" rel="noopener noreferrer nofollow">https://www.bikewalknc.org/bicycle-commuting/</a>  
+   Link:<a href="https://www.bikewalknc.org/bicycle-commuting/" target="_blank" rel="noopener noreferrer nofollow">https://www.bikewalknc.org/bicycle-commuting/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/winter-weather-and-cycling" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/winter-weather-and-cycling</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/winter-weather-and-cycling" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/warnings-and-advice/seasonal-advice/travel/winter-weather-and-cycling</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: bmj.com  
-   Link: <a href="https://www.bmj.com/content/357/bmj.j1944" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/357/bmj.j1944</a>  
+   Link:<a href="https://www.bmj.com/content/357/bmj.j1944" target="_blank" rel="noopener noreferrer nofollow">https://www.bmj.com/content/357/bmj.j1944</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: blogs.bmj.com  
    Title: pedal power the health benefits of cycling outweigh the risks by far  
-   Link: <a href="https://blogs.bmj.com/bjsm/2018/12/12/pedal-power-the-health-benefits-of-cycling-outweigh-the-risks-by-far/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.bmj.com/bjsm/2018/12/12/pedal-power-the-health-benefits-of-cycling-outweigh-the-risks-by-far/</a>  
+   Link:<a href="https://blogs.bmj.com/bjsm/2018/12/12/pedal-power-the-health-benefits-of-cycling-outweigh-the-risks-by-far/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.bmj.com/bjsm/2018/12/12/pedal-power-the-health-benefits-of-cycling-outweigh-the-risks-by-far/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: bmjpublichealth.bmj.com  
-   Link: <a href="https://bmjpublichealth.bmj.com/content/2/1/e001295" target="_blank" rel="noopener noreferrer nofollow">https://bmjpublichealth.bmj.com/content/2/1/e001295</a>  
+   Link:<a href="https://bmjpublichealth.bmj.com/content/2/1/e001295" target="_blank" rel="noopener noreferrer nofollow">https://bmjpublichealth.bmj.com/content/2/1/e001295</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: metoffice.gov.uk  
    Title: climate action taking corporate responsibility  
-   Link: <a href="https://www.metoffice.gov.uk/blog/2023/climate-action-taking-corporate-responsibility" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2023/climate-action-taking-corporate-responsibility</a>  
+   Link:<a href="https://www.metoffice.gov.uk/blog/2023/climate-action-taking-corporate-responsibility" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2023/climate-action-taking-corporate-responsibility</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: weather.metoffice.gov.uk  
-   Link: <a href="https://weather.metoffice.gov.uk/forecast/gcpvj0v07" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/forecast/gcpvj0v07</a>  
+   Link:<a href="https://weather.metoffice.gov.uk/forecast/gcpvj0v07" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/forecast/gcpvj0v07</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: metoffice.gov.uk  
-   Link: <a href="https://www.metoffice.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/</a>  
+   Link:<a href="https://www.metoffice.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: play.google.com  
-   Link: <a href="https://play.google.com/store/apps/details?hl=en&amp;id=uk.gov.metoffice.weather.android" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en&amp;id=uk.gov.metoffice.weather.android</a>  
+   Link:<a href="https://play.google.com/store/apps/details?hl=en&amp;id=uk.gov.metoffice.weather.android" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en&amp;id=uk.gov.metoffice.weather.android</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: GOV.UK  
    Title: www.gov.uk Pedal cycles  
-   Link: <a href="https://www.gov.uk/government/publications/pedal-cycles-lighting/pedal-cycles-lighting" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/pedal-cycles-lighting/pedal-cycles-lighting</a>  
+   Link:<a href="https://www.gov.uk/government/publications/pedal-cycles-lighting/pedal-cycles-lighting" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/pedal-cycles-lighting/pedal-cycles-lighting</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/18851764/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/18851764/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>habit strength moderates implementation intention effects...by TL Webb · 2009 · Cited by 333 — In summary, habit strength moderate...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/18851764/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/18851764/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>habit strength moderates implementation intention effects...by TL Webb · 2009 · Cited by 333 — In summary, habit strength moderate...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Health benefits of pedestrian and cyclist commuting  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11812918/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11812918/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11812918/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11812918/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cyclinguk.org  
-   Link: <a href="https://www.cyclinguk.org/article/beginners-guide-commuting" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclinguk.org/article/beginners-guide-commuting</a>  
+   Link:<a href="https://www.cyclinguk.org/article/beginners-guide-commuting" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclinguk.org/article/beginners-guide-commuting</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cyclescheme.co.uk  
-   Link: <a href="https://www.cyclescheme.co.uk/community/how-to/look-smart-no-sweat" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclescheme.co.uk/community/how-to/look-smart-no-sweat</a>  
+   Link:<a href="https://www.cyclescheme.co.uk/community/how-to/look-smart-no-sweat" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclescheme.co.uk/community/how-to/look-smart-no-sweat</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: biketoeverything.com  
    Title: Bike to Everything How to Plan a Fun Bike Route with Google Maps  
-   Link: <a href="https://biketoeverything.com/2020/06/10/how-to-plan-a-fun-bike-route-with-google-maps/" target="_blank" rel="noopener noreferrer nofollow">https://biketoeverything.com/2020/06/10/how-to-plan-a-fun-bike-route-with-google-maps/</a>  
+   Link:<a href="https://biketoeverything.com/2020/06/10/how-to-plan-a-fun-bike-route-with-google-maps/" target="_blank" rel="noopener noreferrer nofollow">https://biketoeverything.com/2020/06/10/how-to-plan-a-fun-bike-route-with-google-maps/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/28424154/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/28424154/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/28424154/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/28424154/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: forum.cyclinguk.org  
-   Link: <a href="https://forum.cyclinguk.org/viewtopic.php?t=113916" target="_blank" rel="noopener noreferrer nofollow">https://forum.cyclinguk.org/viewtopic.php?t=113916</a>  
+   Link:<a href="https://forum.cyclinguk.org/viewtopic.php?t=113916" target="_blank" rel="noopener noreferrer nofollow">https://forum.cyclinguk.org/viewtopic.php?t=113916</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: transport.ed.ac.uk  
    Title: highway code  
-   Link: <a href="https://transport.ed.ac.uk/cycling/safety/highway-code" target="_blank" rel="noopener noreferrer nofollow">https://transport.ed.ac.uk/cycling/safety/highway-code</a>  
+   Link:<a href="https://transport.ed.ac.uk/cycling/safety/highway-code" target="_blank" rel="noopener noreferrer nofollow">https://transport.ed.ac.uk/cycling/safety/highway-code</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cyclescheme.co.uk  
-   Link: <a href="https://www.cyclescheme.co.uk/community/how-to/how-to-weatherproof-your-commute" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclescheme.co.uk/community/how-to/how-to-weatherproof-your-commute</a>  
+   Link:<a href="https://www.cyclescheme.co.uk/community/how-to/how-to-weatherproof-your-commute" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclescheme.co.uk/community/how-to/how-to-weatherproof-your-commute</a>  
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cyclingweekly.com  
-   Link: <a href="https://www.cyclingweekly.com/group-tests/commuting-to-work-by-bike-what-to-wear-throughout-the-year-463755" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclingweekly.com/group-tests/commuting-to-work-by-bike-what-to-wear-throughout-the-year-463755</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>For short city commutes, casual bike-friendly clothing such as waterproof jackets and trousers may suffice. However, for longer commutes...</p></details>
+   Link:<a href="https://www.cyclingweekly.com/group-tests/commuting-to-work-by-bike-what-to-wear-throughout-the-year-463755" target="_blank" rel="noopener noreferrer nofollow">https://www.cyclingweekly.com/group-tests/commuting-to-work-by-bike-what-to-wear-throughout-the-year-463755</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For short city commutes, casual bike-friendly clothing such as waterproof jackets and trousers may suffice. However, for longer commutes...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: Everything You Need To Take On A Bike Ride (& How To Carry It)  
-   Link: <a href="https://www.youtube.com/watch?v=DkDUoHPJ6yI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DkDUoHPJ6yI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;How to pack&quot; bike commute clothes pack bag morning preparation How to carry your work clothes on a bicycle...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DkDUoHPJ6yI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DkDUoHPJ6yI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;How to pack&quot; bike commute clothes pack bag morning preparation How to carry your work clothes on a bicycle...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/nature-index/topics/l4/active-commuting-and-health-outcomes" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/active-commuting-and-health-outcomes</a>  
+   Link:<a href="https://www.nature.com/nature-index/topics/l4/active-commuting-and-health-outcomes" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/active-commuting-and-health-outcomes</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: 7 Hacks To Make Commuting By Bike Work For You | Cycle Commuting Made Easy  
-   Link: <a href="https://www.youtube.com/watch?v=lWInrzfAf14" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lWInrzfAf14</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to carry your work clothes on a bicycle...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lWInrzfAf14" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lWInrzfAf14</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to carry your work clothes on a bicycle...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: 6 HACKS to make Commuting by Bike WORK FOR YOU!  
-   Link: <a href="https://www.youtube.com/watch?v=W8P9rdOU660" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W8P9rdOU660</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Hacks To Make Commuting By Bike Work For You | Cycle Commuting Made Easy...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=W8P9rdOU660" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W8P9rdOU660</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>7 Hacks To Make Commuting By Bike Work For You | Cycle Commuting Made Easy...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: kops.uni-konstanz.de  
-   Link: <a href="https://kops.uni-konstanz.de/bitstreams/23250a50-e2a8-4b49-b831-9c2e0c055721/download" target="_blank" rel="noopener noreferrer nofollow">https://kops.uni-konstanz.de/bitstreams/23250a50-e2a8-4b49-b831-9c2e0c055721/download</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Planning, self-efficacy, and action control in the adoption...by FF Sniehotta · 2005 · Cited by 2069 — Gollwitzer (1999) calls such...</p></details>
+   Link:<a href="https://kops.uni-konstanz.de/bitstreams/23250a50-e2a8-4b49-b831-9c2e0c055721/download" target="_blank" rel="noopener noreferrer nofollow">https://kops.uni-konstanz.de/bitstreams/23250a50-e2a8-4b49-b831-9c2e0c055721/download</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Planning, self-efficacy, and action control in the adoption...by FF Sniehotta · 2005 · Cited by 2069 — Gollwitzer (1999) calls such...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/360690716_Adults%27_self-reported_barriers_and_enablers_to_riding_a_bike_for_transport_a_systematic_review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360690716_Adults%27_self-reported_barriers_and_enablers_to_riding_a_bike_for_transport_a_systematic_review</a>  
+   Link:<a href="https://www.researchgate.net/publication/360690716_Adults%27_self-reported_barriers_and_enablers_to_riding_a_bike_for_transport_a_systematic_review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/360690716_Adults%27_self-reported_barriers_and_enablers_to_riding_a_bike_for_transport_a_systematic_review</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/316271734_Active_commuting_is_beneficial_for_health" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/316271734_Active_commuting_is_beneficial_for_health</a>  
+   Link:<a href="https://www.researchgate.net/publication/316271734_Active_commuting_is_beneficial_for_health" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/316271734_Active_commuting_is_beneficial_for_health</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: activetravelstudies.org  
-   Link: <a href="https://activetravelstudies.org/articles/" target="_blank" rel="noopener noreferrer nofollow">https://activetravelstudies.org/articles/</a>  
+   Link:<a href="https://activetravelstudies.org/articles/" target="_blank" rel="noopener noreferrer nofollow">https://activetravelstudies.org/articles/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: surlybikes.com  
-   Link: <a href="https://surlybikes.com/pages/bike-commuting-101-8-tips-for-your-commute-to-work?srsltid=AfmBOopEwANNWy9vKyZxJmuXVma8Jbt14r3sTeX5ZlehecysZ5NUDWki" target="_blank" rel="noopener noreferrer nofollow">https://surlybikes.com/pages/bike-commuting-101-8-tips-for-your-commute-to-work?srsltid=AfmBOopEwANNWy9vKyZxJmuXVma8Jbt14r3sTeX5ZlehecysZ5NUDWki</a>
+   Link:<a href="https://surlybikes.com/pages/bike-commuting-101-8-tips-for-your-commute-to-work?srsltid=AfmBOopEwANNWy9vKyZxJmuXVma8Jbt14r3sTeX5ZlehecysZ5NUDWki" target="_blank" rel="noopener noreferrer nofollow">https://surlybikes.com/pages/bike-commuting-101-8-tips-for-your-commute-to-work?srsltid=AfmBOopEwANNWy9vKyZxJmuXVma8Jbt14r3sTeX5ZlehecysZ5NUDWki</a>

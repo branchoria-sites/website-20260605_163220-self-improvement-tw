@@ -279,7 +279,7 @@ Planning is one of the most respected activities in self-improvement. It looks r
 <img src="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_planning_as_avoidanc_378bd8-Illustration-1-dark.svg" | relative_url }}" alt="Planning Trap illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_planning_as_avoidanc_378bd8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_planning_as_avoidanc_378bd8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This is a common trap within self-improvement theatre. The person is not doing nothing. They may be researching, outlining, scheduling, tracking and refining. The problem is that these activities can provide many of the emotional [rewards]({{ 'rewards/' | relative_url }}) of progress without requiring the discomfort of performance. A study timetable avoids the struggle of studying. A business strategy avoids the risk of selling. A detailed fitness programme avoids the effort of training. The plan grows while the behaviour remains unchanged.
 
-The distinction is not that planning is bad. Effective planning is one of the most studied and useful behaviour-change tools available. The question is whether planning is serving action or replacing it. Research on procrastination increasingly suggests that delay is often driven by emotion regulation rather than poor time management. In that context, planning can become a sophisticated way of avoiding uncomfortable feelings while preserving the impression of productivity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — It has been proposed that implementation intentions render the mental representation of the situat...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://eprints.whiterose.ac.uk/id/eprint/91793/1/Compass%20Paper%20revision%20FINAL" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.whiterose.ac.uk">[White Rose Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.whiterose.ac.uk</span><span class="citation-popover-title">Compass Paper revision FINAL</span><span class="citation-popover-snippet">White Rose Research OnlineProcrastination and the Priority of Short-Term Mood...This is the peer reviewed version of the following artic...</span></span></span>
+The distinction is not that planning is bad. Effective planning is one of the most studied and useful behaviour-change tools available. The question is whether planning is serving action or replacing it. Research on procrastination increasingly suggests that delay is often driven by emotion regulation rather than poor time management. In that context, planning can become a sophisticated way of avoiding uncomfortable feelings while preserving the impression of productivity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — It has been proposed that implementation intentions render the mental representation of the situat...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://eprints.whiterose.ac.uk/id/eprint/91793/1/Compass%20Paper%20revision%20FINAL" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.whiterose.ac.uk">[White Rose Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.whiterose.ac.uk</span><span class="citation-popover-title">Compass Paper revision FINAL</span><span class="citation-popover-snippet">White Rose Research OnlineProcrastination and the Priority of Short-Term Mood...This is the peer reviewed version of the following artic...</span></span></span>
 
 ## Are You Planning or Avoiding the Real Task?
 
@@ -302,13 +302,13 @@ A common pattern looks like this:
 
 </div>
 
-The result is a cycle where planning solves the emotional problem of facing the task while leaving the practical problem unsolved. Researchers studying procrastination consistently find that aversive tasks and negative emotions are major triggers for delay. People often avoid not because they lack knowledge, but because avoidance temporarily feels better than engagement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — It has been proposed that implementation intentions render the mental representation of the situat...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://eprints.whiterose.ac.uk/id/eprint/91793/1/Compass%20Paper%20revision%20FINAL" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.whiterose.ac.uk">[White Rose Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.whiterose.ac.uk</span><span class="citation-popover-title">Compass Paper revision FINAL</span><span class="citation-popover-snippet">White Rose Research OnlineProcrastination and the Priority of Short-Term Mood...This is the peer reviewed version of the following artic...</span></span></span>
+The result is a cycle where planning solves the emotional problem of facing the task while leaving the practical problem unsolved. Researchers studying procrastination consistently find that aversive tasks and negative emotions are major triggers for delay. People often avoid not because they lack knowledge, but because avoidance temporarily feels better than engagement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — It has been proposed that implementation intentions render the mental representation of the situat...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://eprints.whiterose.ac.uk/id/eprint/91793/1/Compass%20Paper%20revision%20FINAL" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.whiterose.ac.uk">[White Rose Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.whiterose.ac.uk</span><span class="citation-popover-title">Compass Paper revision FINAL</span><span class="citation-popover-snippet">White Rose Research OnlineProcrastination and the Priority of Short-Term Mood...This is the peer reviewed version of the following artic...</span></span></span>
 
 The more intelligent and conscientious a person is, the easier this trap can become. Sophisticated plans can create an equally sophisticated illusion of movement.
 
 ## Why Useful Planning Turns Into Delay
 
-Planning is not automatically procrastination. In many cases it genuinely improves performance. Research on implementation intentions—specific plans that define when, where and how an action will occur—shows that planning can significantly improve the translation of intentions into behaviour. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span>
+Planning is not automatically procrastination. In many cases it genuinely improves performance. Research on implementation intentions—specific plans that define when, where and how an action will occur—shows that planning can significantly improve the translation of intentions into behaviour. ScienceDirect<span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span>
 
 The problem emerges when planning crosses a subtle boundary.
 
@@ -326,7 +326,7 @@ Useful planning answers questions that would otherwise block action:
 
 </div>
 
-This type of planning shortens the distance between intention and action. It simplifies execution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/24591064/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">state of the research and proposals for the way forwardby MS Hagger · 2014 · Cited by 717 — Overall, evidence supports the effectiv...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — It has been proposed that implementation intentions render the mental representation of the situat...</span></span></span>
+This type of planning shortens the distance between intention and action. It simplifies execution.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/24591064/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">state of the research and proposals for the way forwardby MS Hagger · 2014 · Cited by 717 — Overall, evidence supports the effectiv...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — It has been proposed that implementation intentions render the mental representation of the situat...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jwiM-s44hE8" title="Why I Keep Avoiding the Things That Could Change My Life" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jwiM-s44hE8" target="_blank" rel="noopener noreferrer">Why I Keep Avoiding the Things That Could Change My Life</a></p><p class="youtube-embed-meta">Channel: Merle O&#x27;Neal &middot; Views: 8.0K &middot; Uploaded: May 2026 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jwiM-s44hE8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jwiM-s44hE8">Open on YouTube</a></p></div></div></div>
 
@@ -354,7 +354,7 @@ A useful question is whether each additional planning session makes action easie
 
 One reason productive procrastination is so persuasive is that it genuinely improves mood.
 
-Modern procrastination research increasingly describes delay as a form of short-term mood repair. When a task triggers anxiety, uncertainty, frustration or boredom, people often choose an alternative activity that reduces those feelings. The activity does not need to be enjoyable. It only needs to feel less unpleasant than the original task. Carleton University <span class="citation-chip-wrap"><a class="citation-chip" href="https://eprints.whiterose.ac.uk/id/eprint/91793/1/Compass%20Paper%20revision%20FINAL" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.whiterose.ac.uk">[White Rose Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.whiterose.ac.uk</span><span class="citation-popover-title">Compass Paper revision FINAL</span><span class="citation-popover-snippet">White Rose Research OnlineProcrastination and the Priority of Short-Term Mood...This is the peer reviewed version of the following artic...</span></span></span> ScienceDirect Planning is almost uniquely suited to this role. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260106380021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Implementation Intentions and Goal Achievement: A Meta‐...by PM Gollwitzer · 2006 · Cited by 5020 — This review analyzes wh...</span></span></span>
+Modern procrastination research increasingly describes delay as a form of short-term mood repair. When a task triggers anxiety, uncertainty, frustration or boredom, people often choose an alternative activity that reduces those feelings. The activity does not need to be enjoyable. It only needs to feel less unpleasant than the original task. Carleton University<span class="citation-chip-wrap"><a class="citation-chip" href="https://eprints.whiterose.ac.uk/id/eprint/91793/1/Compass%20Paper%20revision%20FINAL" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.whiterose.ac.uk">[White Rose Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.whiterose.ac.uk</span><span class="citation-popover-title">Compass Paper revision FINAL</span><span class="citation-popover-snippet">White Rose Research OnlineProcrastination and the Priority of Short-Term Mood...This is the peer reviewed version of the following artic...</span></span></span> ScienceDirect Planning is almost uniquely suited to this role.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260106380021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Implementation Intentions and Goal Achievement: A Meta‐...by PM Gollwitzer · 2006 · Cited by 5020 — This review analyzes wh...</span></span></span>
 
 Unlike obvious distractions, planning still appears connected to the goal. It preserves a positive self-image. A person who spends an hour reorganising their writing workflow can still feel committed to becoming a writer. A person redesigning a study system can still feel academically serious.
 
@@ -366,7 +366,7 @@ Real taskPlanning substituteRisk of failureSense of competenceUncertaintyFeeling
 
 The substitute task reduces discomfort now. The cost arrives later when deadlines approach and real progress is missing.
 
-Research on emotion regulation and procrastination repeatedly finds that avoiding difficult emotions can create temporary relief while increasing future stress. The mood benefit is real but short-lived. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — It has been proposed that implementation intentions render the mental representation of the situat...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — It has been proposed that implementation intentions render the mental representation of the situat...</span></span></span>
+Research on emotion regulation and procrastination repeatedly finds that avoiding difficult emotions can create temporary relief while increasing future stress. The mood benefit is real but short-lived.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — It has been proposed that implementation intentions render the mental representation of the situat...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — It has been proposed that implementation intentions render the mental representation of the situat...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_planning_as_avoidanc_378bd8-Illustration-2-dark.svg" | relative_url }}" alt="Planning Trap illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_planning_as_avoidanc_378bd8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_planning_as_avoidanc_378bd8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Hidden Reward of Endless Preparation
@@ -424,7 +424,7 @@ Weak answers:
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Refine the strategy.
-* Research more options. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/232586066_Implementation_Intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* Research more options.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/232586066_Implementation_Intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 * Improve the workflow.
 * Revisit the framework.
 
@@ -437,7 +437,7 @@ If the next step is another planning activity, caution is warranted.
 
 If the answer is no, the plan may still be too abstract.
 
-Effective plans create a clear bridge into behaviour. Research on implementation intentions suggests that specifying concrete action cues increases the likelihood of initiation. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span>
+Effective plans create a clear bridge into behaviour. Research on implementation intentions suggests that specifying concrete action cues increases the likelihood of initiation. ScienceDirect<span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span>
 
 ### What uncomfortable feeling am I avoiding?
 
@@ -471,183 +471,183 @@ For example:
 
 This changes planning from a destination into a bridge.
 
-Research on goal achievement consistently finds that intentions alone are weaker than intentions connected to concrete [action plans]({{ 'action-plans/' | relative_url }}) and immediate execution. Planning has value when it reduces the gap between intention and behaviour. Its value declines sharply when it becomes an alternative to behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalelfservice.net/social-care/[support" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalelfservice.net">[National Elf Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalelfservice.net</span><span class="citation-popover-snippet">National Elf ServiceImplementation intentions: helping people achieve their...by A Underwood — This review focuses on a specific element...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/24591064/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">state of the research and proposals for the way forwardby MS Hagger · 2014 · Cited by 717 — Overall, evidence supports the effectiv...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span>
+Research on goal achievement consistently finds that intentions alone are weaker than intentions connected to concrete [action plans]({{ 'action-plans/' | relative_url }}) and immediate execution. Planning has value when it reduces the gap between intention and behaviour. Its value declines sharply when it becomes an alternative to behaviour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalelfservice.net/social-care/[support" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalelfservice.net">[National Elf Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalelfservice.net</span><span class="citation-popover-snippet">National Elf ServiceImplementation intentions: helping people achieve their...by A Underwood — This review focuses on a specific element...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/24591064/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">state of the research and proposals for the way forwardby MS Hagger · 2014 · Cited by 717 — Overall, evidence supports the effectiv...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-snippet">Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</span></span></span>
 
 Within self-improvement theatre, productive procrastination is one of the most convincing forms of [false progress]({{ 'false-progress/' | relative_url }}) because it resembles genuine effort. The key distinction is simple: useful planning leaves you closer to action. Avoidant planning leaves you feeling prepared. Only one of those reliably changes what you do tomorrow.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Are You Planning or Avoiding the Real Task?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Are You Planning or Avoiding the Real Task?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Now+Habit+by+Neil+Fiore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Now Habit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XmA9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Now Habit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Now+Habit+by+Neil+Fiore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Now Habit">The Now Habit</a>
-        </h4>
-        <p class="fr-book-author">By Neil Fiore</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Now+Habit+by+Neil+Fiore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Now Habit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XmA9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Now Habit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Now+Habit+by+Neil+Fiore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Now Habit">The Now Habit</a>
+</h4>
+<p class="fr-book-author">By Neil Fiore</p>
         
-        <p class="fr-book-desc">Directly addresses productive procrastination and avoidance disguised as planning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Now+Habit+by+Neil+Fiore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses productive procrastination and avoidance disguised as planning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Now+Habit+by+Neil+Fiore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B_L8CAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
-        </h4>
-        <p class="fr-book-author">By Cal Newport</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B_L8CAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
+</h4>
+<p class="fr-book-author">By Cal Newport</p>
         
-        <p class="fr-book-desc">Pushes readers toward focused execution rather than endless preparation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Pushes readers toward focused execution rather than endless preparation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Eat+That+Frog%21+by+Brian+Tracy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Eat That Frog! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MRbVRdmP630C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Eat That Frog!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Eat+That+Frog%21+by+Brian+Tracy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eat That Frog!">Eat That Frog!</a>
-        </h4>
-        <p class="fr-book-author">By Brian Tracy</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Focused on tackling difficult tasks rather than avoiding them.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Eat+That+Frog%21+by+Brian+Tracy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Eat+That+Frog%21+by+Brian+Tracy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Eat That Frog! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MRbVRdmP630C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Eat That Frog!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Eat+That+Frog%21+by+Brian+Tracy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eat That Frog!">Eat That Frog!</a>
+</h4>
+<p class="fr-book-author">By Brian Tracy</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Focused on tackling difficult tasks rather than avoiding them.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Eat+That+Frog%21+by+Brian+Tracy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Encourages small concrete actions instead of elaborate planning systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Encourages small concrete actions instead of elaborate planning systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Now+Habit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Now Habit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Work&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Work</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Eat+That+Frog%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Eat That Frog!</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Now+Habit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Now Habit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Work&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Work</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Eat+That+Frog%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Eat That Frog!</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-    </div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planning-trap-are-you-planning-or-avoiding-the-real-task-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baronfig New Sealed Clear Habit Journal Habit Tracker Bullet Notebook"><img src="{{ '/assets/images/marketplace-covers/656556146176608bf460.jpg' | relative_url }}" alt="Listing image for Baronfig New Sealed Clear Habit Journal Habit Tracker Bullet Notebook" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planning-trap-are-you-planning-or-avoiding-the-real-task-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baronfig New Sealed Clear Habit Journal Habit Tracker Bullet Notebook</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planning-trap-are-you-planning-or-avoiding-the-real-task-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.com</span>: habit tracker journal</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planning-trap-are-you-planning-or-avoiding-the-real-task-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planning-trap-are-you-planning-or-avoiding-the-real-task-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baronfig New Sealed Clear Habit Journal Habit Tracker Bullet Notebook"><img src="{{ '/assets/images/marketplace-covers/656556146176608bf460.jpg' | relative_url }}" alt="Listing image for Baronfig New Sealed Clear Habit Journal Habit Tracker Bullet Notebook" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planning-trap-are-you-planning-or-avoiding-the-real-task-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baronfig New Sealed Clear Habit Journal Habit Tracker Bullet Notebook</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planning-trap-are-you-planning-or-avoiding-the-real-task-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search<span data-ebay-domain-label>eBay.com</span>: habit tracker journal</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planning-trap-are-you-planning-or-avoiding-the-real-task-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planning-trap-are-you-planning-or-avoiding-the-real-task-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stylish A5 Daily Productivity Planner 2026: Habit Tracker &amp; Gratitude Journal"><img src="{{ '/assets/images/marketplace-covers/2f35d7fbbee14e036f45.jpg' | relative_url }}" alt="Listing image for Stylish A5 Daily Productivity Planner 2026: Habit Tracker &amp; Gratitude Journal" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planning-trap-are-you-planning-or-avoiding-the-real-task-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Stylish A5 Daily Productivity Planner 2026: Habit Tracker &amp; Gratitude Journal</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planning-trap-are-you-planning-or-avoiding-the-real-task-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.com</span>: habit tracker journal</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planning-trap-are-you-planning-or-avoiding-the-real-task-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planning-trap-are-you-planning-or-avoiding-the-real-task-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Stylish A5 Daily Productivity Planner 2026: Habit Tracker &amp; Gratitude Journal"><img src="{{ '/assets/images/marketplace-covers/2f35d7fbbee14e036f45.jpg' | relative_url }}" alt="Listing image for Stylish A5 Daily Productivity Planner 2026: Habit Tracker &amp; Gratitude Journal" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planning-trap-are-you-planning-or-avoiding-the-real-task-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Stylish A5 Daily Productivity Planner 2026: Habit Tracker &amp; Gratitude Journal</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planning-trap-are-you-planning-or-avoiding-the-real-task-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search<span data-ebay-domain-label>eBay.com</span>: habit tracker journal</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planning-trap-are-you-planning-or-avoiding-the-real-task-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planning-trap-are-you-planning-or-avoiding-the-real-task-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Deluxe Habit Tracker Journal - 52 Weekly Sheets, 8.5x11&quot; Productivity Organizer"><img src="{{ '/assets/images/marketplace-covers/3010e87cba76df4a7ce3.jpg' | relative_url }}" alt="Listing image for Deluxe Habit Tracker Journal - 52 Weekly Sheets, 8.5x11&quot; Productivity Organizer" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planning-trap-are-you-planning-or-avoiding-the-real-task-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Deluxe Habit Tracker Journal - 52 Weekly Sheets, 8.5x11&quot; Productivity Organizer</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planning-trap-are-you-planning-or-avoiding-the-real-task-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.com</span>: habit tracker journal</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planning-trap-are-you-planning-or-avoiding-the-real-task-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planning-trap-are-you-planning-or-avoiding-the-real-task-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Deluxe Habit Tracker Journal - 52 Weekly Sheets, 8.5x11&quot; Productivity Organizer"><img src="{{ '/assets/images/marketplace-covers/3010e87cba76df4a7ce3.jpg' | relative_url }}" alt="Listing image for Deluxe Habit Tracker Journal - 52 Weekly Sheets, 8.5x11&quot; Productivity Organizer" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planning-trap-are-you-planning-or-avoiding-the-real-task-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Deluxe Habit Tracker Journal - 52 Weekly Sheets, 8.5x11&quot; Productivity Organizer</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planning-trap-are-you-planning-or-avoiding-the-real-task-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search<span data-ebay-domain-label>eBay.com</span>: habit tracker journal</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planning-trap-are-you-planning-or-avoiding-the-real-task-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planning-trap-are-you-planning-or-avoiding-the-real-task-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 52 Weeks Daily Habit Tracker Journal: Build A Path To Happiness Softcover"><img src="{{ '/assets/images/marketplace-covers/37e1fc094899359e87d2.jpg' | relative_url }}" alt="Listing image for 52 Weeks Daily Habit Tracker Journal: Build A Path To Happiness Softcover" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planning-trap-are-you-planning-or-avoiding-the-real-task-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">52 Weeks Daily Habit Tracker Journal: Build A Path To Happiness Softcover</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planning-trap-are-you-planning-or-avoiding-the-real-task-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.com</span>: habit tracker journal</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planning-trap-are-you-planning-or-avoiding-the-real-task-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planning-trap-are-you-planning-or-avoiding-the-real-task-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planning-trap-are-you-planning-or-avoiding-the-real-task-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 52 Weeks Daily Habit Tracker Journal: Build A Path To Happiness Softcover"><img src="{{ '/assets/images/marketplace-covers/37e1fc094899359e87d2.jpg' | relative_url }}" alt="Listing image for 52 Weeks Daily Habit Tracker Journal: Build A Path To Happiness Softcover" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planning-trap-are-you-planning-or-avoiding-the-real-task-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">52 Weeks Daily Habit Tracker Journal: Build A Path To Happiness Softcover</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planning-trap-are-you-planning-or-avoiding-the-real-task-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search<span data-ebay-domain-label>eBay.com</span>: habit tracker journal</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planning-trap-are-you-planning-or-avoiding-the-real-task-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=planning-trap-are-you-planning-or-avoiding-the-real-task-self-improvement-that-works-habit-tracker-journal&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -663,7 +663,7 @@ Within self-improvement theatre, productive procrastination is one of the most c
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -683,7 +683,7 @@ Within self-improvement theatre, productive procrastination is one of the most c
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -715,7 +715,7 @@ Within self-improvement theatre, productive procrastination is one of the most c
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -745,7 +745,7 @@ Within self-improvement theatre, productive procrastination is one of the most c
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -803,177 +803,177 @@ Within self-improvement theatre, productive procrastination is one of the most c
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10049005/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10049005/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Procrastination and Stress: A Conceptual Review of Why...by FM Sirois · 2023 · Cited by 208 — Indeed, research confirms that encounte...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10049005/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10049005/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Procrastination and Stress: A Conceptual Review of Why...by FM Sirois · 2023 · Cited by 208 — Indeed, research confirms that encounte...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260106380021" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260106380021</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Intentions and Goal Achievement: A Meta‐...by PM Gollwitzer · 2006 · Cited by 5020 — This review analyzes wh...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260106380021" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/chapter/bookseries/pii/S0065260106380021</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation Intentions and Goal Achievement: A Meta‐...by PM Gollwitzer · 2006 · Cited by 5020 — This review analyzes wh...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cancercontrol.cancer.gov  
-   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</p></details>
+   Link:<a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer ControlImplementation Intentionsby PM Gollwitzer — Implementation intentions are formed for the purpose of enhancing the translati...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCPromoting the translation of intentions into action by  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by F Wieber · 2015 · Cited by 215 — It has been proposed that implementation intentions render the mental representation of the situat...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by F Wieber · 2015 · Cited by 215 — It has been proposed that implementation intentions render the mental representation of the situat...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How do implementation intentions promote goal attainment...by TL Webb · 2007 · Cited by 564 — Implementation intentions are plans that s...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S002210310600028X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How do implementation intentions promote goal attainment...by TL Webb · 2007 · Cited by 564 — Implementation intentions are plans that s...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/B9780128028629000086" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/B9780128028629000086</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Procrastination, Emotion Regulation, and Well-Beingby TA Pychyl · 2016 · Cited by 256 — In this chapter, we explore how procrastination f...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/B9780128028629000086" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/B9780128028629000086</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Procrastination, Emotion Regulation, and Well-Beingby TA Pychyl · 2016 · Cited by 256 — In this chapter, we explore how procrastination f...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: carleton.ca  
    Title: University Procrastination Problem?  
-   Link: <a href="https://carleton.ca/news/story/procrastination-problem-tim-pychyl/" target="_blank" rel="noopener noreferrer nofollow">https://carleton.ca/news/story/procrastination-problem-tim-pychyl/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tim Pychyl Knows Why“Procrastination is an emotion-regulation problem,” Pychyl says. “It&#x27;s not a time management problem.... Pychyl sees...</p></details>
+   Link:<a href="https://carleton.ca/news/story/procrastination-problem-tim-pychyl/" target="_blank" rel="noopener noreferrer nofollow">https://carleton.ca/news/story/procrastination-problem-tim-pychyl/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tim Pychyl Knows Why“Procrastination is an emotion-regulation problem,” Pychyl says. “It&#x27;s not a time management problem.... Pychyl sees...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7671960/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7671960/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotion Regulation Difficulties and Academic Procrastinationby JM Bytamar · 2020 · Cited by 200 — However, the effect of procrastinati...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7671960/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7671960/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Emotion Regulation Difficulties and Academic Procrastinationby JM Bytamar · 2020 · Cited by 200 — However, the effect of procrastinati...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1041608016302187" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1041608016302187</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing emotion regulation skills reduce procrastinationby M Eckert · 2016 · Cited by 388 — Results indicated that systematic training...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1041608016302187" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1041608016302187</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing emotion regulation skills reduce procrastinationby M Eckert · 2016 · Cited by 388 — Results indicated that systematic training...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cancercontrol.cancer.gov  
    Title: Control Implementation Intentions Peter M  
-   Link: <a href="https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gollwitzer New York...by PM Gollwitzer · Cited by 131 — Gollwitzer and Sheeran (2006) found that implementation intention formation had...</p></details>
+   Link:<a href="https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gollwitzer New York...by PM Gollwitzer · Cited by 131 — Gollwitzer and Sheeran (2006) found that implementation intention formation had...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0001879104001149" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0001879104001149</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation intentions, action control, and procrastinationby EAJ van Hooft · 2005 · Cited by 240 — The main focus of the current stud...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0001879104001149" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0001879104001149</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation intentions, action control, and procrastinationby EAJ van Hooft · 2005 · Cited by 240 — The main focus of the current stud...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0001691816304048" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0001691816304048</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation intention effects in non-planned situationsby M Bieleke · 2018 · Cited by 44 — Forming implementation intentions (i.e., if...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0001691816304048" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0001691816304048</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation intention effects in non-planned situationsby M Bieleke · 2018 · Cited by 44 — Forming implementation intentions (i.e., if...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0278262624001179" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0278262624001179</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Functional connectivity in procrastination and emotion...by K Li · 2024 · Cited by 8 — The short-term emotion repair theory proposes tha...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0278262624001179" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0278262624001179</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Functional connectivity in procrastination and emotion...by K Li · 2024 · Cited by 8 — The short-term emotion repair theory proposes tha...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0191886925000121" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0191886925000121</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Academic procrastination and emotion regulationby WL Chen · 2025 · Cited by 11 — This study investigated the developmental trajectories a...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0191886925000121" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0191886925000121</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Academic procrastination and emotion regulationby WL Chen · 2025 · Cited by 11 — This study investigated the developmental trajectories a...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Why I Keep Avoiding the Things That Could Change My Life  
-   Link: <a href="https://www.youtube.com/watch?v=jwiM-s44hE8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jwiM-s44hE8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Productive Procrastination...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jwiM-s44hE8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jwiM-s44hE8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Productive Procrastination...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Productive Procrastination  
-   Link: <a href="https://www.youtube.com/watch?v=NLQ0cczBU40" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NLQ0cczBU40</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Planning as a Form of Procrastination...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NLQ0cczBU40" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NLQ0cczBU40</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Planning as a Form of Procrastination...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: eprints.whiterose.ac.uk  
    Title: Compass Paper revision FINAL  
-   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/91793/1/Compass%20Paper%20revision%20FINAL" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/91793/1/Compass%20Paper%20revision%20FINAL</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>White Rose Research OnlineProcrastination and the Priority of Short-Term Mood...This is the peer reviewed version of the following artic...</p></details>
+   Link:<a href="https://eprints.whiterose.ac.uk/id/eprint/91793/1/Compass%20Paper%20revision%20FINAL" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/91793/1/Compass%20Paper%20revision%20FINAL</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>White Rose Research OnlineProcrastination and the Priority of Short-Term Mood...This is the peer reviewed version of the following artic...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: eprints.whiterose.ac.uk  
    Title: Compass Paper revision FINAL  
-   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/91793/1/Compass%20Paper%20revision%20FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/91793/1/Compass%20Paper%20revision%20FINAL.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>White Rose Research OnlineProcrastination and the Priority of Short-Term Mood...by F Sirois · 2013 · Cited by 1135 — In terms of procras...</p></details>
+   Link:<a href="https://eprints.whiterose.ac.uk/id/eprint/91793/1/Compass%20Paper%20revision%20FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/91793/1/Compass%20Paper%20revision%20FINAL.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>White Rose Research OnlineProcrastination and the Priority of Short-Term Mood...by F Sirois · 2013 · Cited by 1135 — In terms of procras...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/24591064/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24591064/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>state of the research and proposals for the way forwardby MS Hagger · 2014 · Cited by 717 — Overall, evidence supports the effectiv...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/24591064/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24591064/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>state of the research and proposals for the way forwardby MS Hagger · 2014 · Cited by 717 — Overall, evidence supports the effectiv...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nationalelfservice.net  
-   Link: <a href="https://www.nationalelfservice.net/social-care/[support" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalelfservice.net/social-care/[support</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Elf ServiceImplementation intentions: helping people achieve their...by A Underwood — This review focuses on a specific element...</p></details>
+   Link:<a href="https://www.nationalelfservice.net/social-care/[support" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalelfservice.net/social-care/[support</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Elf ServiceImplementation intentions: helping people achieve their...by A Underwood — This review focuses on a specific element...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9669985/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9669985/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC of academic procrastination: Functional analysis of a...by F Svartdal · 2022 · Cited by 60 — In academic procrastination, behavioral...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9669985/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9669985/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC of academic procrastination: Functional analysis of a...by F Svartdal · 2022 · Cited by 60 — In academic procrastination, behavioral...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Implementation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Implementation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ImplementationImplementation is the realization of an application, execution of a plan, idea, model, design, specification, standard...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Implementation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Implementation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ImplementationImplementation is the realization of an application, execution of a plan, idea, model, design, specification, standard...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: durmonski.com  
    Title: implementation intentions  
-   Link: <a href="https://durmonski.com/psychology/implementation-intentions/" target="_blank" rel="noopener noreferrer nofollow">https://durmonski.com/psychology/implementation-intentions/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defining Implementation Intentions and How to Make Them...23 Dec 2022 — Implementation Intentions are proven strategies helping you achi...</p></details>
+   Link:<a href="https://durmonski.com/psychology/implementation-intentions/" target="_blank" rel="noopener noreferrer nofollow">https://durmonski.com/psychology/implementation-intentions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defining Implementation Intentions and How to Make Them...23 Dec 2022 — Implementation Intentions are proven strategies helping you achi...</p></details>
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: apa.org  
-   Link: <a href="https://www.apa.org/news/podcasts/speaking-of-psychology/procrastinate" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/news/podcasts/speaking-of-psychology/procrastinate</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationWhy we procrastinate and what to do about it, with Fuschia...Fuschia Sirois, PhD, of Durham University...</p></details>
+   Link:<a href="https://www.apa.org/news/podcasts/speaking-of-psychology/procrastinate" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/news/podcasts/speaking-of-psychology/procrastinate</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationWhy we procrastinate and what to do about it, with Fuschia...Fuschia Sirois, PhD, of Durham University...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: vbpsychology.com  
-   Link: <a href="https://www.vbpsychology.com/how-to-stop-procrastinating-mood-regulation-strategies/" target="_blank" rel="noopener noreferrer nofollow">https://www.vbpsychology.com/how-to-stop-procrastinating-mood-regulation-strategies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Stop Procrastinating: Mood Regulation StrategiesMood regulation, as the article suggests, can help overcome procrastination. One o...</p></details>
+   Link:<a href="https://www.vbpsychology.com/how-to-stop-procrastinating-mood-regulation-strategies/" target="_blank" rel="noopener noreferrer nofollow">https://www.vbpsychology.com/how-to-stop-procrastinating-mood-regulation-strategies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How To Stop Procrastinating: Mood Regulation StrategiesMood regulation, as the article suggests, can help overcome procrastination. One o...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: solvingprocrastination.com  
-   Link: <a href="https://solvingprocrastination.com/procrastination-theories/" target="_blank" rel="noopener noreferrer nofollow">https://solvingprocrastination.com/procrastination-theories/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychological Frameworks for Explaining ProcrastinationEmotion-regulation theory, which states that procrastination occurs when peopl...</p></details>
+   Link:<a href="https://solvingprocrastination.com/procrastination-theories/" target="_blank" rel="noopener noreferrer nofollow">https://solvingprocrastination.com/procrastination-theories/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychological Frameworks for Explaining ProcrastinationEmotion-regulation theory, which states that procrastination occurs when peopl...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: allard.ubc.ca  
-   Link: <a href="https://allard.ubc.ca/sites/default/files/2021-10/Implementation%20Intentions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://allard.ubc.ca/sites/default/files/2021-10/Implementation%20Intentions.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IntentionsImplementation Intentions (&#x27;If-then&#x27; planning) are an effective strategy for turning goals into action. Whereas goal intentions...</p></details>
+   Link:<a href="https://allard.ubc.ca/sites/default/files/2021-10/Implementation%20Intentions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://allard.ubc.ca/sites/default/files/2021-10/Implementation%20Intentions.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IntentionsImplementation Intentions (&#x27;If-then&#x27; planning) are an effective strategy for turning goals into action. Whereas goal intentions...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/232586066_Implementation_Intentions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232586066_Implementation_Intentions</a>  
+   Link:<a href="https://www.researchgate.net/publication/232586066_Implementation_Intentions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232586066_Implementation_Intentions</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: d-nb.info  
-   Link: <a href="https://d-nb.info/1097212408/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1097212408/34</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>plementation intentions is sensitive to the activation and strength of partici- pants&#x27; underlying goal intentions...Read m...</p></details>
+   Link:<a href="https://d-nb.info/1097212408/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1097212408/34</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>plementation intentions is sensitive to the activation and strength of partici- pants&#x27; underlying goal intentions...Read m...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/shorts/ROfGVBCw_uc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/ROfGVBCw_uc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Academics Procrastinate: The Emotional Truth | PhD...procrastination isn&#x27;t about laziness, it&#x27;s about emotions. This short reveals t...</p></details>
+   Link:<a href="https://www.youtube.com/shorts/ROfGVBCw_uc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/ROfGVBCw_uc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Academics Procrastinate: The Emotional Truth | PhD...procrastination isn&#x27;t about laziness, it&#x27;s about emotions. This short reveals t...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: cannelevate.com.au  
    Title: Discover why we delay tasks and the emotion regulation mechanisms at play  
-   Link: <a href="https://www.cannelevate.com.au/article/understanding-procrastination-psychological-perspectives/" target="_blank" rel="noopener noreferrer nofollow">https://www.cannelevate.com.au/article/understanding-procrastination-psychological-perspectives/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why We Procrastinate: Psychological PerspectivesOct 24, 2025 — Explore the psychology of procrastination beyond time management...</p></details>
+   Link:<a href="https://www.cannelevate.com.au/article/understanding-procrastination-psychological-perspectives/" target="_blank" rel="noopener noreferrer nofollow">https://www.cannelevate.com.au/article/understanding-procrastination-psychological-perspectives/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why We Procrastinate: Psychological PerspectivesOct 24, 2025 — Explore the psychology of procrastination beyond time management...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: research.tue.nl  
-   Link: <a href="https://research.tue.nl/en/publications/procrastination-self-regulation-in-initiating-aversive-goals/" target="_blank" rel="noopener noreferrer nofollow">https://research.tue.nl/en/publications/procrastination-self-regulation-in-initiating-aversive-goals/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eindhoven Research PortalProcrastination: self-regulation in initiating aversive goalsby W van Eerde · 2000 · Cited by 467 — In this pap...</p></details>
+   Link:<a href="https://research.tue.nl/en/publications/procrastination-self-regulation-in-initiating-aversive-goals/" target="_blank" rel="noopener noreferrer nofollow">https://research.tue.nl/en/publications/procrastination-self-regulation-in-initiating-aversive-goals/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eindhoven Research PortalProcrastination: self-regulation in initiating aversive goalsby W van Eerde · 2000 · Cited by 467 — In this pap...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/227630625_Procrastination_Self-regulation_in_Initiating_Aversive_Goals" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227630625_Procrastination_Self-regulation_in_Initiating_Aversive_Goals</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Procrastination: Self‐regulation in Initiating Aversive GoalsIn this paper, procrastination is defined as the avoidance of the implementa...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/227630625_Procrastination_Self-regulation_in_Initiating_Aversive_Goals" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/227630625_Procrastination_Self-regulation_in_Initiating_Aversive_Goals</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Procrastination: Self‐regulation in Initiating Aversive GoalsIn this paper, procrastination is defined as the avoidance of the implementa...</p></details>

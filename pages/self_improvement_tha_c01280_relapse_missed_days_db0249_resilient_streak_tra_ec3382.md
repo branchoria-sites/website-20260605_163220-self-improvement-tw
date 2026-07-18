@@ -268,18 +268,18 @@ image: /assets/images/self_improvement_tha_c01280_relapse_missed_days_db0249_res
 
 ## Introduction
 
-A streak tracker can be useful, but only if it helps people recover from interruptions rather than treating every missed day as failure. In the context of relapse and missed days, the best trackers are not those that enforce perfect chains. They are the ones that record what happened, preserve momentum after ordinary disruptions, and make restarting easy. Research on habit formation suggests that occasional missed opportunities do not seriously damage the development of habits. What often causes more harm is the interpretation of the miss: a broken streak can become a psychological reset that encourages [abandonment]({{ 'abandonment/' | relative_url }}) of the habit altogether. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 899 — Missing the occasio...</span></span></span>
+A streak tracker can be useful, but only if it helps people recover from interruptions rather than treating every missed day as failure. In the context of relapse and missed days, the best trackers are not those that enforce perfect chains. They are the ones that record what happened, preserve momentum after ordinary disruptions, and make restarting easy. Research on habit formation suggests that occasional missed opportunities do not seriously damage the development of habits. What often causes more harm is the interpretation of the miss: a broken streak can become a psychological reset that encourages [abandonment]({{ 'abandonment/' | relative_url }}) of the habit altogether.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 899 — Missing the occasio...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_relapse_missed_days_db0249_resilient_streak_tra_ec3382-Illustration-1-dark.svg" | relative_url }}" alt="Better tracking illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_relapse_missed_days_db0249_resilient_streak_tra_ec3382-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_relapse_missed_days_db0249_resilient_streak_tra_ec3382-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For [self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}), tracking should be designed as a recovery tool. The goal is not to prove that a person has never missed a day. The goal is to help them continue after they inevitably do.
 
 ## When Streaks Motivate and When They Backfire
 
-Streaks solve a real problem. They provide visible [feedback]({{ 'feedback/' | relative_url }}), make progress concrete, and create a reason to show up today rather than postponing until tomorrow. Many people find that a growing chain of completed days increases attention and consistency. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ehm-tech.com/habit/blog/habit-streaks-do-they-actually-work/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ehm-tech.com">[EHM Tech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ehm-tech.com</span><span class="citation-popover-snippet">EHM TechHabit Streaks: Why They Work and When They BackfireMarch 10, 2026 — 10 Mar 2026 — Apply the Two-Day Rule: never miss two days in...</span><span class="citation-popover-meta">Published: March 10, 2026</span></span></span>
+Streaks solve a real problem. They provide visible [feedback]({{ 'feedback/' | relative_url }}), make progress concrete, and create a reason to show up today rather than postponing until tomorrow. Many people find that a growing chain of completed days increases attention and consistency.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ehm-tech.com/habit/blog/habit-streaks-do-they-actually-work/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ehm-tech.com">[EHM Tech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ehm-tech.com</span><span class="citation-popover-snippet">EHM TechHabit Streaks: Why They Work and When They BackfireMarch 10, 2026 — 10 Mar 2026 — Apply the Two-Day Rule: never miss two days in...</span><span class="citation-popover-meta">Published: March 10, 2026</span></span></span>
 
-The problem appears when the streak becomes more important than the behaviour itself. A person who has exercised for thirty days may begin protecting the number rather than building a durable exercise routine. When the chain breaks because of illness, travel, family responsibilities or simple forgetfulness, the emotional reaction can be disproportionate to the event. Instead of seeing one missed session, the person sees a lost achievement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.professorgame.com/podcast/423/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: professorgame.com">[Professor Game]</a><span class="citation-popover" role="note"><span class="citation-popover-source">professorgame.com</span><span class="citation-popover-snippet">Professor GameWhy streaks backfire and what works &#124; Ep 423December 15, 2025 — 14 Dec 2025 — The abstinence violation effect (“what the he...</span><span class="citation-popover-meta">Published: December 15, 2025</span></span></span>
+The problem appears when the streak becomes more important than the behaviour itself. A person who has exercised for thirty days may begin protecting the number rather than building a durable exercise routine. When the chain breaks because of illness, travel, family responsibilities or simple forgetfulness, the emotional reaction can be disproportionate to the event. Instead of seeing one missed session, the person sees a lost achievement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.professorgame.com/podcast/423/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: professorgame.com">[Professor Game]</a><span class="citation-popover" role="note"><span class="citation-popover-source">professorgame.com</span><span class="citation-popover-snippet">Professor GameWhy streaks backfire and what works &#124; Ep 423December 15, 2025 — 14 Dec 2025 — The abstinence violation effect (“what the he...</span><span class="citation-popover-meta">Published: December 15, 2025</span></span></span>
 
-This risk fits closely with the abstinence violation effect described in relapse-prevention research. A lapse can trigger guilt, self-criticism and the belief that previous progress has been erased. The resulting discouragement may cause more damage than the original missed day. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.professorgame.com/podcast/423/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: professorgame.com">[Professor Game]</a><span class="citation-popover" role="note"><span class="citation-popover-source">professorgame.com</span><span class="citation-popover-snippet">Professor GameWhy streaks backfire and what works &#124; Ep 423December 15, 2025 — 14 Dec 2025 — The abstinence violation effect (“what the he...</span><span class="citation-popover-meta">Published: December 15, 2025</span></span></span>
+This risk fits closely with the abstinence violation effect described in relapse-prevention research. A lapse can trigger guilt, self-criticism and the belief that previous progress has been erased. The resulting discouragement may cause more damage than the original missed day.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.professorgame.com/podcast/423/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: professorgame.com">[Professor Game]</a><span class="citation-popover" role="note"><span class="citation-popover-source">professorgame.com</span><span class="citation-popover-snippet">Professor GameWhy streaks backfire and what works &#124; Ep 423December 15, 2025 — 14 Dec 2025 — The abstinence violation effect (“what the he...</span><span class="citation-popover-meta">Published: December 15, 2025</span></span></span>
 
 A helpful tracker therefore treats streaks as information, not as judgement. It encourages the question, “What happened yesterday?” rather than the conclusion, “I failed.”
 
@@ -287,7 +287,7 @@ A helpful tracker therefore treats streaks as information, not as judgement. It 
 
 One of the simplest improvements to streak tracking is recognising partial success.
 
-Many habit systems fail because they only allow two states: complete success or complete failure. Real life is rarely that tidy. Someone may not complete a full workout but still manage a five-minute walk. A writer may not produce a thousand words but may write a single paragraph. BJ Fogg's Tiny Habits approach emphasises behaviours that remain achievable even on difficult days, reducing the chance that one disruption becomes a total break in continuity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mariashriver.com">[Maria Shriver]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mariashriver.com</span><span class="citation-popover-snippet">You set the bar low (just two pushups, just one breath) and you keep it low. Even...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gsb.stanford.edu">[Stanford Graduate School of Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gsb.stanford.edu</span><span class="citation-popover-title">building habits key lasting behavior change</span><span class="citation-popover-snippet">Stanford Graduate School of BusinessBuilding Habits: The Key to Lasting Behavior Change18 Apr 2023 — In this episode, BJ Fogg reveals the...</span></span></span>
+Many habit systems fail because they only allow two states: complete success or complete failure. Real life is rarely that tidy. Someone may not complete a full workout but still manage a five-minute walk. A writer may not produce a thousand words but may write a single paragraph. BJ Fogg's Tiny Habits approach emphasises behaviours that remain achievable even on difficult days, reducing the chance that one disruption becomes a total break in continuity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mariashriver.com">[Maria Shriver]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mariashriver.com</span><span class="citation-popover-snippet">You set the bar low (just two pushups, just one breath) and you keep it low. Even...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gsb.stanford.edu">[Stanford Graduate School of Business]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gsb.stanford.edu</span><span class="citation-popover-title">building habits key lasting behavior change</span><span class="citation-popover-snippet">Stanford Graduate School of BusinessBuilding Habits: The Key to Lasting Behavior Change18 Apr 2023 — In this episode, BJ Fogg reveals the...</span></span></span>
 
 A more resilient tracker can therefore distinguish between:
 
@@ -316,9 +316,9 @@ Neutral miss labels are especially valuable. A missed day caused by illness, fam
 
 Habit-formation research provides an important correction to common tracking culture: missing one day is not equivalent to starting over.
 
-Research led by Phillippa Lally found that habit strength generally increased through repeated performance and that occasional missed opportunities did not seriously impair the habit-formation process. Automaticity resumed once the behaviour was performed again. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 899 — Missing the occasio...</span></span></span>
+Research led by Phillippa Lally found that habit strength generally increased through repeated performance and that occasional missed opportunities did not seriously impair the habit-formation process. Automaticity resumed once the behaviour was performed again.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 899 — Missing the occasio...</span></span></span>
 
-Subsequent explanations of the study have repeatedly highlighted the same practical lesson: a single missed day does not erase previous gains. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thebehavioralscientist.com/articles/how-long-to-form-a-habit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thebehavioralscientist.com">[The Behavioral Scientist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thebehavioralscientist.com</span><span class="citation-popover-title">The Behavioral Scientist How Long Does It Take to Form a Habit?</span><span class="citation-popover-snippet">What Lally et al...by J Hreha — It showed that missing a single day doesn&#x27;t derail habit formation. A missed opportunity reduced automat...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: surrey.ac.uk">[University of Surrey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">surrey.ac.uk</span><span class="citation-popover-title">does it really take 66 days form habit we asked expert dr pippa lally</span><span class="citation-popover-snippet">Does it really take 66 days to form a habit?21 Jan 2026 — In 2010, Dr Pippa Lally, with colleagues at UCL, published a study that found t...</span></span></span>
+Subsequent explanations of the study have repeatedly highlighted the same practical lesson: a single missed day does not erase previous gains.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thebehavioralscientist.com/articles/how-long-to-form-a-habit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thebehavioralscientist.com">[The Behavioral Scientist]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thebehavioralscientist.com</span><span class="citation-popover-title">The Behavioral Scientist How Long Does It Take to Form a Habit?</span><span class="citation-popover-snippet">What Lally et al...by J Hreha — It showed that missing a single day doesn&#x27;t derail habit formation. A missed opportunity reduced automat...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: surrey.ac.uk">[University of Surrey]</a><span class="citation-popover" role="note"><span class="citation-popover-source">surrey.ac.uk</span><span class="citation-popover-title">does it really take 66 days form habit we asked expert dr pippa lally</span><span class="citation-popover-snippet">Does it really take 66 days to form a habit?21 Jan 2026 — In 2010, Dr Pippa Lally, with colleagues at UCL, published a study that found t...</span></span></span>
 
 This evidence suggests that the common “back to zero” logic used by many trackers is psychologically dramatic but behaviourally misleading.
 
@@ -361,7 +361,7 @@ Examples include:
 
 This approach has several advantages.
 
-First, it reflects actual behavioural goals more accurately. Second, it accommodates normal variation in work schedules, health and family demands. Third, it reduces the emotional cost of isolated misses. A missed Tuesday matters less when the target is five successful days across the week. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 899 — Missing the occasio...</span></span></span>
+First, it reflects actual behavioural goals more accurately. Second, it accommodates normal variation in work schedules, health and family demands. Third, it reduces the emotional cost of isolated misses. A missed Tuesday matters less when the target is five successful days across the week.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 899 — Missing the occasio...</span></span></span>
 
 From a governance perspective, weekly scoring changes the incentives built into the system. The user is rewarded for sustained participation rather than uninterrupted perfection.
 
@@ -377,7 +377,7 @@ A recovery-oriented tracker can record measures such as:
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
-* Days until restart after a miss. <span class="citation-chip-wrap"><a class="citation-chip" href="https://productivity-hub.app/en/blog/how-to-make-new-habits-stick-easily-and-consistently-daily" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: productivity-hub.app">[productivity-hub.app]</a><span class="citation-popover" role="note"><span class="citation-popover-source">productivity-hub.app</span><span class="citation-popover-snippet">How to Make New Habits Stick Easily and Consistently?4 days ago — Instead of abandoning a habit entirely after a missed day, employ the &#x27;...</span></span></span>
+* Days until restart after a miss.<span class="citation-chip-wrap"><a class="citation-chip" href="https://productivity-hub.app/en/blog/how-to-make-new-habits-stick-easily-and-consistently-daily" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: productivity-hub.app">[productivity-hub.app]</a><span class="citation-popover" role="note"><span class="citation-popover-source">productivity-hub.app</span><span class="citation-popover-snippet">How to Make New Habits Stick Easily and Consistently?4 days ago — Instead of abandoning a habit entirely after a missed day, employ the &#x27;...</span></span></span>
 * Number of successful recoveries.
 * Percentage of lapses followed by next-day action.
 * Longest recovery delay.
@@ -398,9 +398,9 @@ The second user has learned a more transferable skill: how to resume action afte
 <img src="{{ "/assets/images/self_improvement_tha_c01280_relapse_missed_days_db0249_resilient_streak_tra_ec3382-Illustration-3-dark.svg" | relative_url }}" alt="Better tracking illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_relapse_missed_days_db0249_resilient_streak_tra_ec3382-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_relapse_missed_days_db0249_resilient_streak_tra_ec3382-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The “Never Miss Twice” Alternative
 
-One widely discussed alternative to rigid streak culture is the “never miss twice” rule. The idea is simple: a single miss is treated as normal, but a second consecutive miss becomes a signal that attention is needed. Goals and Progress <span class="citation-chip-wrap"><a class="citation-chip" href="https://productivity-hub.app/en/blog/how-to-make-new-habits-stick-easily-and-consistently-daily" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: productivity-hub.app">[Productivity Hub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">productivity-hub.app</span><span class="citation-popover-snippet">How to Make New Habits Stick Easily and Consistently?4 days ago — Instead of abandoning a habit entirely after a missed day, employ the &#x27;...</span></span></span>
+One widely discussed alternative to rigid streak culture is the “never miss twice” rule. The idea is simple: a single miss is treated as normal, but a second consecutive miss becomes a signal that attention is needed. Goals and Progress<span class="citation-chip-wrap"><a class="citation-chip" href="https://productivity-hub.app/en/blog/how-to-make-new-habits-stick-easily-and-consistently-daily" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: productivity-hub.app">[Productivity Hub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">productivity-hub.app</span><span class="citation-popover-snippet">How to Make New Habits Stick Easily and Consistently?4 days ago — Instead of abandoning a habit entirely after a missed day, employ the &#x27;...</span></span></span>
 
-This rule aligns more closely with habit-formation evidence than strict reset systems. It acknowledges that interruptions occur while preserving urgency around recovery. Research summaries of the Lally findings consistently note that occasional missed performances do not significantly derail habit formation, whereas extended gaps become more problematic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 899 — Missing the occasio...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://goalsandprogress.com/two-day-rule-habit-recovery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goalsandprogress.com">[Goals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goalsandprogress.com</span><span class="citation-popover-title">two day rule habit recovery</span><span class="citation-popover-snippet">Goals and ProgressThe Two-day Rule: Recover From a Missed Habit (2026)4 days ago — The Two-day rule for habit recovery: one missed day is...</span></span></span> and Progress
+This rule aligns more closely with habit-formation evidence than strict reset systems. It acknowledges that interruptions occur while preserving urgency around recovery. Research summaries of the Lally findings consistently note that occasional missed performances do not significantly derail habit formation, whereas extended gaps become more problematic.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 899 — Missing the occasio...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://goalsandprogress.com/two-day-rule-habit-recovery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goalsandprogress.com">[Goals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goalsandprogress.com</span><span class="citation-popover-title">two day rule habit recovery</span><span class="citation-popover-snippet">Goals and ProgressThe Two-day Rule: Recover From a Missed Habit (2026)4 days ago — The Two-day rule for habit recovery: one missed day is...</span></span></span> and Progress
 
 A tracker designed around this principle might display:
 
@@ -420,197 +420,197 @@ The strongest habit trackers do not act like scoreboards. They act like diagnost
 
 They preserve useful information, reduce all-or-nothing thinking and encourage rapid recovery. They recognise minimum versions of behaviours, distinguish different kinds of misses and reward consistency across meaningful time periods rather than demanding uninterrupted perfection.
 
-For people navigating relapse and missed days, the most valuable tracking question is not “How long is my streak?” It is “How quickly and reliably do I come back?” Research on habit formation suggests that occasional interruptions are rarely the decisive factor. What matters more is whether the system makes restarting feel possible. PubMed Central <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Modelling habit formation in the real world</span><span class="citation-popover-snippet">Wiley Online LibraryModelling habit formation in the real world - Lally - 2010by P Lally · 2010 · Cited by 3715 — To investigate the proc...</span></span></span>
+For people navigating relapse and missed days, the most valuable tracking question is not “How long is my streak?” It is “How quickly and reliably do I come back?” Research on habit formation suggests that occasional interruptions are rarely the decisive factor. What matters more is whether the system makes restarting feel possible. PubMed Central<span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Modelling habit formation in the real world</span><span class="citation-popover-snippet">Wiley Online LibraryModelling habit formation in the real world - Lally - 2010by P Lally · 2010 · Cited by 3715 — To investigate the proc...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Streak Trackers Make Habits Brittle. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Streak Trackers Make Habits Brittle. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Promotes consistency over perfection and supports recovery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Promotes consistency over perfection and supports recovery.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
-        </h4>
-        <p class="fr-book-author">By B. J. Fogg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
+</h4>
+<p class="fr-book-author">By B. J. Fogg</p>
         
-        <p class="fr-book-desc">Aligns with resilient tracking and easy restarts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Aligns with resilient tracking and easy restarts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Carol S. Dweck</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
-        <p class="fr-book-desc">Supports a flexible response to broken streaks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
+</h4>
+<p class="fr-book-author">By Carol S. Dweck</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
+<p class="fr-book-desc">Supports a flexible response to broken streaks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
-        </h4>
-        <p class="fr-book-author">By Charles Duhigg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
+</h4>
+<p class="fr-book-author">By Charles Duhigg</p>
         
-        <p class="fr-book-desc">Explains long-term habit maintenance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains long-term habit maintenance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-streak-trackers-make-habits-brittle-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-streak-trackers-make-habits-brittle-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Clever Fox Habit Tracker Calendar Habit &amp; Goal Planner Journal (Turquoise)"><img src="https://i.ebayimg.com/images/g/dBsAAeSwXVho5J1X/s-l225.jpg" alt="Listing image for Clever Fox Habit Tracker Calendar Habit &amp; Goal Planner Journal (Turquoise)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-streak-trackers-make-habits-brittle-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-streak-trackers-make-habits-brittle-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Clever Fox Habit Tracker Calendar Habit &amp; Goal Planner Journal (Turquoise)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-streak-trackers-make-habits-brittle-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-streak-trackers-make-habits-brittle-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-streak-trackers-make-habits-brittle-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-streak-trackers-make-habits-brittle-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-streak-trackers-make-habits-brittle-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-streak-trackers-make-habits-brittle-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Clever Fox Habit Tracker Calendar Habit &amp; Goal Planner Journal (Turquoise)"><img src="https://i.ebayimg.com/images/g/dBsAAeSwXVho5J1X/s-l225.jpg" alt="Listing image for Clever Fox Habit Tracker Calendar Habit &amp; Goal Planner Journal (Turquoise)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-streak-trackers-make-habits-brittle-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-streak-trackers-make-habits-brittle-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Clever Fox Habit Tracker Calendar Habit &amp; Goal Planner Journal (Turquoise)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-streak-trackers-make-habits-brittle-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-streak-trackers-make-habits-brittle-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-streak-trackers-make-habits-brittle-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-streak-trackers-make-habits-brittle-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-streak-trackers-make-habits-brittle-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-streak-trackers-make-habits-brittle-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,..."><img src="https://i.ebayimg.com/images/g/RPkAAeSwAjhqKFRS/s-l225.jpg" alt="Listing image for Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,..." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-streak-trackers-make-habits-brittle-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-streak-trackers-make-habits-brittle-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,...</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-streak-trackers-make-habits-brittle-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-streak-trackers-make-habits-brittle-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-streak-trackers-make-habits-brittle-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-streak-trackers-make-habits-brittle-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-streak-trackers-make-habits-brittle-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-streak-trackers-make-habits-brittle-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,..."><img src="https://i.ebayimg.com/images/g/RPkAAeSwAjhqKFRS/s-l225.jpg" alt="Listing image for Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,..." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-streak-trackers-make-habits-brittle-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-streak-trackers-make-habits-brittle-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,...</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-streak-trackers-make-habits-brittle-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-streak-trackers-make-habits-brittle-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-streak-trackers-make-habits-brittle-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-streak-trackers-make-habits-brittle-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-streak-trackers-make-habits-brittle-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-streak-trackers-make-habits-brittle-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A5 Habit Tracker Calendar Daily Weekly Monthly Goal Planner 250gsm Wire‑Bound"><img src="https://i.ebayimg.com/images/g/WrEAAeSwMX9pTtTw/s-l225.jpg" alt="Listing image for A5 Habit Tracker Calendar Daily Weekly Monthly Goal Planner 250gsm Wire‑Bound" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-streak-trackers-make-habits-brittle-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-streak-trackers-make-habits-brittle-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">A5 Habit Tracker Calendar Daily Weekly Monthly Goal Planner 250gsm Wire‑Bound</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-streak-trackers-make-habits-brittle-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-streak-trackers-make-habits-brittle-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-streak-trackers-make-habits-brittle-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-streak-trackers-make-habits-brittle-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-streak-trackers-make-habits-brittle-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-streak-trackers-make-habits-brittle-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A5 Habit Tracker Calendar Daily Weekly Monthly Goal Planner 250gsm Wire‑Bound"><img src="https://i.ebayimg.com/images/g/WrEAAeSwMX9pTtTw/s-l225.jpg" alt="Listing image for A5 Habit Tracker Calendar Daily Weekly Monthly Goal Planner 250gsm Wire‑Bound" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-streak-trackers-make-habits-brittle-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-streak-trackers-make-habits-brittle-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">A5 Habit Tracker Calendar Daily Weekly Monthly Goal Planner 250gsm Wire‑Bound</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-streak-trackers-make-habits-brittle-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-streak-trackers-make-habits-brittle-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-streak-trackers-make-habits-brittle-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-streak-trackers-make-habits-brittle-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-streak-trackers-make-habits-brittle-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-streak-trackers-make-habits-brittle-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Undated Calendar The Motivational Journal Features Space for 20..."><img src="https://i.ebayimg.com/images/g/RVoAAOSwSo9lDgFu/s-l225.jpg" alt="Listing image for Habit Tracker Undated Calendar The Motivational Journal Features Space for 20..." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-streak-trackers-make-habits-brittle-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-streak-trackers-make-habits-brittle-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Undated Calendar The Motivational Journal Features Space for 20...</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-streak-trackers-make-habits-brittle-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-streak-trackers-make-habits-brittle-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-streak-trackers-make-habits-brittle-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-streak-trackers-make-habits-brittle-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-streak-trackers-make-habits-brittle-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-streak-trackers-make-habits-brittle-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-streak-trackers-make-habits-brittle-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-streak-trackers-make-habits-brittle-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Undated Calendar The Motivational Journal Features Space for 20..."><img src="https://i.ebayimg.com/images/g/RVoAAOSwSo9lDgFu/s-l225.jpg" alt="Listing image for Habit Tracker Undated Calendar The Motivational Journal Features Space for 20..." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-streak-trackers-make-habits-brittle-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-streak-trackers-make-habits-brittle-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Undated Calendar The Motivational Journal Features Space for 20...</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-streak-trackers-make-habits-brittle-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-streak-trackers-make-habits-brittle-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-streak-trackers-make-habits-brittle-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-streak-trackers-make-habits-brittle-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-streak-trackers-make-habits-brittle-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="when-streak-trackers-make-habits-brittle-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -626,7 +626,7 @@ For people navigating relapse and missed days, the most valuable tracking questi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -646,7 +646,7 @@ For people navigating relapse and missed days, the most valuable tracking questi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -678,7 +678,7 @@ For people navigating relapse and missed days, the most valuable tracking questi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -730,7 +730,7 @@ For people navigating relapse and missed days, the most valuable tracking questi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -775,7 +775,7 @@ For people navigating relapse and missed days, the most valuable tracking questi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -816,122 +816,122 @@ For people navigating relapse and missed days, the most valuable tracking questi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: onlinelibrary.wiley.com  
    Title: Online Library Modelling habit formation in the real world  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryModelling habit formation in the real world - Lally - 2010by P Lally · 2010 · Cited by 3715 — To investigate the proc...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryModelling habit formation in the real world - Lally - 2010by P Lally · 2010 · Cited by 3715 — To investigate the proc...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ehm-tech.com  
-   Link: <a href="https://www.ehm-tech.com/habit/blog/habit-streaks-do-they-actually-work/" target="_blank" rel="noopener noreferrer nofollow">https://www.ehm-tech.com/habit/blog/habit-streaks-do-they-actually-work/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EHM TechHabit Streaks: Why They Work and When They BackfireMarch 10, 2026 — 10 Mar 2026 — Apply the Two-Day Rule: never miss two days in...</p></details>
+   Link:<a href="https://www.ehm-tech.com/habit/blog/habit-streaks-do-they-actually-work/" target="_blank" rel="noopener noreferrer nofollow">https://www.ehm-tech.com/habit/blog/habit-streaks-do-they-actually-work/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EHM TechHabit Streaks: Why They Work and When They BackfireMarch 10, 2026 — 10 Mar 2026 — Apply the Two-Day Rule: never miss two days in...</p></details>
    Published: March 10, 2026  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: gsb.stanford.edu  
    Title: building habits key lasting behavior change  
-   Link: <a href="https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change" target="_blank" rel="noopener noreferrer nofollow">https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Graduate School of BusinessBuilding Habits: The Key to Lasting Behavior Change18 Apr 2023 — In this episode, BJ Fogg reveals the...</p></details>
+   Link:<a href="https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change" target="_blank" rel="noopener noreferrer nofollow">https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Graduate School of BusinessBuilding Habits: The Key to Lasting Behavior Change18 Apr 2023 — In this episode, BJ Fogg reveals the...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: productivity-hub.app  
-   Link: <a href="https://productivity-hub.app/en/blog/how-to-make-new-habits-stick-easily-and-consistently-daily" target="_blank" rel="noopener noreferrer nofollow">https://productivity-hub.app/en/blog/how-to-make-new-habits-stick-easily-and-consistently-daily</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Make New Habits Stick Easily and Consistently?4 days ago — Instead of abandoning a habit entirely after a missed day, employ the &#x27;...</p></details>
+   Link:<a href="https://productivity-hub.app/en/blog/how-to-make-new-habits-stick-easily-and-consistently-daily" target="_blank" rel="noopener noreferrer nofollow">https://productivity-hub.app/en/blog/how-to-make-new-habits-stick-easily-and-consistently-daily</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Make New Habits Stick Easily and Consistently?4 days ago — Instead of abandoning a habit entirely after a missed day, employ the &#x27;...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 899 — Missing the occasio...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 899 — Missing the occasio...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: professorgame.com  
-   Link: <a href="https://www.professorgame.com/podcast/423/" target="_blank" rel="noopener noreferrer nofollow">https://www.professorgame.com/podcast/423/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Professor GameWhy streaks backfire and what works | Ep 423December 15, 2025 — 14 Dec 2025 — The abstinence violation effect (“what the he...</p></details>
+   Link:<a href="https://www.professorgame.com/podcast/423/" target="_blank" rel="noopener noreferrer nofollow">https://www.professorgame.com/podcast/423/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Professor GameWhy streaks backfire and what works | Ep 423December 15, 2025 — 14 Dec 2025 — The abstinence violation effect (“what the he...</p></details>
    Published: December 15, 2025  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: mariashriver.com  
-   Link: <a href="https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/" target="_blank" rel="noopener noreferrer nofollow">https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>You set the bar low (just two pushups, just one breath) and you keep it low. Even...Read more...</p></details>
+   Link:<a href="https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/" target="_blank" rel="noopener noreferrer nofollow">https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>You set the bar low (just two pushups, just one breath) and you keep it low. Even...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: thebehavioralscientist.com  
    Title: The Behavioral Scientist How Long Does It Take to Form a Habit?  
-   Link: <a href="https://www.thebehavioralscientist.com/articles/how-long-to-form-a-habit" target="_blank" rel="noopener noreferrer nofollow">https://www.thebehavioralscientist.com/articles/how-long-to-form-a-habit</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Lally et al...by J Hreha — It showed that missing a single day doesn&#x27;t derail habit formation. A missed opportunity reduced automat...</p></details>
+   Link:<a href="https://www.thebehavioralscientist.com/articles/how-long-to-form-a-habit" target="_blank" rel="noopener noreferrer nofollow">https://www.thebehavioralscientist.com/articles/how-long-to-form-a-habit</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Lally et al...by J Hreha — It showed that missing a single day doesn&#x27;t derail habit formation. A missed opportunity reduced automat...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: surrey.ac.uk  
    Title: does it really take [66 days](&#123;&#123; '66-days/' | relative_url &#125;&#125;) form habit we asked expert dr pippa lally  
-   Link: <a href="https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally" target="_blank" rel="noopener noreferrer nofollow">https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Does it really take 66 days to form a habit?21 Jan 2026 — In 2010, Dr Pippa Lally, with colleagues at UCL, published a study that found t...</p></details>
+   Link:<a href="https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally" target="_blank" rel="noopener noreferrer nofollow">https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Does it really take 66 days to form a habit?21 Jan 2026 — In 2010, Dr Pippa Lally, with colleagues at UCL, published a study that found t...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 97 — Research emphasises the im...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 97 — Research emphasises the im...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: goalsandprogress.com  
    Title: two day rule habit recovery  
-   Link: <a href="https://goalsandprogress.com/two-day-rule-habit-recovery/" target="_blank" rel="noopener noreferrer nofollow">https://goalsandprogress.com/two-day-rule-habit-recovery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Goals and ProgressThe Two-day Rule: Recover From a Missed Habit (2026)4 days ago — The Two-day rule for habit recovery: one missed day is...</p></details>
+   Link:<a href="https://goalsandprogress.com/two-day-rule-habit-recovery/" target="_blank" rel="noopener noreferrer nofollow">https://goalsandprogress.com/two-day-rule-habit-recovery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goals and ProgressThe Two-day Rule: Recover From a Missed Habit (2026)4 days ago — The Two-day rule for habit recovery: one missed day is...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: goalsandprogress.com  
-   Link: <a href="https://goalsandprogress.com/atomic-habits-vs-tiny-habits/" target="_blank" rel="noopener noreferrer nofollow">https://goalsandprogress.com/atomic-habits-vs-tiny-habits/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Use our Fit-First Filter to match Clear&#x27;s systems or Fogg&#x27;s micro-behaviors to where you are stuck...</p></details>
+   Link:<a href="https://goalsandprogress.com/atomic-habits-vs-tiny-habits/" target="_blank" rel="noopener noreferrer nofollow">https://goalsandprogress.com/atomic-habits-vs-tiny-habits/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Use our Fit-First Filter to match Clear&#x27;s systems or Fogg&#x27;s micro-behaviors to where you are stuck...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Small changes, big impact: A mini review of habit formation...27 Apr 2025 — This mini-review explores the science of habit formation, em...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Small changes, big impact: A mini review of habit formation...27 Apr 2025 — This mini-review explores the science of habit formation, em...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: epyst.com  
-   Link: <a href="https://epyst.com/deck/the-2-day-rule-why-missing-twice-kills-habits-1770989685802" target="_blank" rel="noopener noreferrer nofollow">https://epyst.com/deck/the-2-day-rule-why-missing-twice-kills-habits-1770989685802</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 2-Day Rule: Why Missing Twice Kills HabitsNever miss twice. The behavioral science behind why two consecutive misses collapse a habit...</p></details>
+   Link:<a href="https://epyst.com/deck/the-2-day-rule-why-missing-twice-kills-habits-1770989685802" target="_blank" rel="noopener noreferrer nofollow">https://epyst.com/deck/the-2-day-rule-why-missing-twice-kills-habits-1770989685802</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 2-Day Rule: Why Missing Twice Kills HabitsNever miss twice. The behavioral science behind why two consecutive misses collapse a habit...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: tinyhabits.com  
-   Link: <a href="https://tinyhabits.com/book/" target="_blank" rel="noopener noreferrer nofollow">https://tinyhabits.com/book/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits Book | BJ FoggFogg has coined “Behavior Design”—cracks the code of habit formation. The content in this book is practical, im...</p></details>
+   Link:<a href="https://tinyhabits.com/book/" target="_blank" rel="noopener noreferrer nofollow">https://tinyhabits.com/book/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits Book | BJ FoggFogg has coined “Behavior Design”—cracks the code of habit formation. The content in this book is practical, im...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: tinyhabits.com  
-   Link: <a href="https://tinyhabits.com/" target="_blank" rel="noopener noreferrer nofollow">https://tinyhabits.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: BJ FoggBJ Fogg, PhD, created the Tiny Habits method. He directs the Behavior Design Lab at Stanford University. Dr. Fogg&#x27;s m...</p></details>
+   Link:<a href="https://tinyhabits.com/" target="_blank" rel="noopener noreferrer nofollow">https://tinyhabits.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: BJ FoggBJ Fogg, PhD, created the Tiny Habits method. He directs the Behavior Design Lab at Stanford University. Dr. Fogg&#x27;s m...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40daramouracade/tiny-habits-the-small-changes-that-change-everything-book-summary-cfe2fb200f83" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40daramouracade/tiny-habits-the-small-changes-that-change-everything-book-summary-cfe2fb200f83</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: The Small Changes That Change EverythingFogg outlines the ABCs of habit formation: Anchor (establishing a trigger), Behavior...</p></details>
+   Link:<a href="https://medium.com/%40daramouracade/tiny-habits-the-small-changes-that-change-everything-book-summary-cfe2fb200f83" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40daramouracade/tiny-habits-the-small-changes-that-change-everything-book-summary-cfe2fb200f83</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: The Small Changes That Change EverythingFogg outlines the ABCs of habit formation: Anchor (establishing a trigger), Behavior...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/Gonzalo_Marchant/post/Do-you-know-what-the-recommendation-is-for-physical-activity-and-sedentary-behavior-to-health/attachment/59d620af79197b807797f284/AS%3A291995114328067%401446628468694/download/Phillippa%2BLally%2C%2BJane%2BWardle%2Band%2BBenjamin%2BGardner.%2BExperiences%2Bof%2Bhabits%2Bformation%2B2011..pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Gonzalo_Marchant/post/Do-you-know-what-the-recommendation-is-for-physical-activity-and-sedentary-behavior-to-health/attachment/59d620af79197b807797f284/AS%3A291995114328067%401446628468694/download/Phillippa%2BLally%2C%2BJane%2BWardle%2Band%2BBenjamin%2BGardner.%2BExperiences%2Bof%2Bhabits%2Bformation%2B2011..pdf</a>  
+   Link:<a href="https://www.researchgate.net/profile/Gonzalo_Marchant/post/Do-you-know-what-the-recommendation-is-for-physical-activity-and-sedentary-behavior-to-health/attachment/59d620af79197b807797f284/AS%3A291995114328067%401446628468694/download/Phillippa%2BLally%2C%2BJane%2BWardle%2Band%2BBenjamin%2BGardner.%2BExperiences%2Bof%2Bhabits%2Bformation%2B2011..pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Gonzalo_Marchant/post/Do-you-know-what-the-recommendation-is-for-physical-activity-and-sedentary-behavior-to-health/attachment/59d620af79197b807797f284/AS%3A291995114328067%401446628468694/download/Phillippa%2BLally%2C%2BJane%2BWardle%2Band%2BBenjamin%2BGardner.%2BExperiences%2Bof%2Bhabits%2Bformation%2B2011..pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
    Title: 32898894 How are habits formed Modeling habit formation in the real world  
-   Link: <a href="https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Modeling habit formation in the real world | Request PDFAccording to the literature, it takes an average of 66 days, with a range of 18 t...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Modeling habit formation in the real world | Request PDFAccording to the literature, it takes an average of 66 days, with a range of 18 t...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: abebooks.co.uk  
-   Link: <a href="https://www.abebooks.co.uk/9780753553244/Tiny-Habits-Why-Starting-Small-0753553244/plp" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/9780753553244/Tiny-Habits-Why-Starting-Small-0753553244/plp</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: Why Starting Small Makes Lasting Change EasyBJ Fogg is the founder and director of the Behaviour Design Lab at Stanford...</p></details>
+   Link:<a href="https://www.abebooks.co.uk/9780753553244/Tiny-Habits-Why-Starting-Small-0753553244/plp" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/9780753553244/Tiny-Habits-Why-Starting-Small-0753553244/plp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: Why Starting Small Makes Lasting Change EasyBJ Fogg is the founder and director of the Behaviour Design Lab at Stanford...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: madinamerica.com  
-   Link: <a href="https://www.madinamerica.com/2026/03/the-compliance-machine-how-adhd-habit-tracking-apps-enforce-the-disease-model/" target="_blank" rel="noopener noreferrer nofollow">https://www.madinamerica.com/2026/03/the-compliance-machine-how-adhd-habit-tracking-apps-enforce-the-disease-model/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How ADHD Habit-Tracking Apps Enforce the Disease Model17 Mar 2026 — Users are rewarded with ”streaks,” miss one day and the streak collap...</p></details>
+   Link:<a href="https://www.madinamerica.com/2026/03/the-compliance-machine-how-adhd-habit-tracking-apps-enforce-the-disease-model/" target="_blank" rel="noopener noreferrer nofollow">https://www.madinamerica.com/2026/03/the-compliance-machine-how-adhd-habit-tracking-apps-enforce-the-disease-model/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How ADHD Habit-Tracking Apps Enforce the Disease Model17 Mar 2026 — Users are rewarded with ”streaks,” miss one day and the streak collap...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: coachpedropinto.com  
    Title: habit formation science backed strategies for leaders  
-   Link: <a href="https://coachpedropinto.com/habit-formation-science-backed-strategies-for-leaders/" target="_blank" rel="noopener noreferrer nofollow">https://coachpedropinto.com/habit-formation-science-backed-strategies-for-leaders/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit Formation: Science-Backed Strategies For Leaders...4 Jun 2025 — Effective recovery strategies include: The “never miss twice” rule...</p></details>
+   Link:<a href="https://coachpedropinto.com/habit-formation-science-backed-strategies-for-leaders/" target="_blank" rel="noopener noreferrer nofollow">https://coachpedropinto.com/habit-formation-science-backed-strategies-for-leaders/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Habit Formation: Science-Backed Strategies For Leaders...4 Jun 2025 — Effective recovery strategies include: The “never miss twice” rule...</p></details>

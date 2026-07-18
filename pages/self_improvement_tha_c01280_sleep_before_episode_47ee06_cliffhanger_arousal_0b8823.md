@@ -274,14 +274,14 @@ image: /assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_cl
 
 ## Introduction
 
-The most sleep-disruptive part of late-night viewing is often not the screen itself but the story that continues running in your mind after the screen is off. A cliffhanger creates an unfinished cognitive task: the mystery is unresolved, the danger is not over, and the brain has not received a satisfying stopping point. Research on binge viewing suggests that this mental activation—known as cognitive pre-sleep arousal—is one of the main pathways linking late-night viewing with poorer sleep quality, fatigue and insomnia symptoms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Binge Viewing, Sleep, and the Role of Pre-Sleep Arousal</span><span class="citation-popover-snippet">PubMed CentralBinge Viewing, Sleep, and the Role of Pre-Sleep Arousal - PMCby L Exelmans · 2017 · Cited by 283 — This study provides init...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://jcsm.aasm.org/doi/abs/10.5664/jcsm.6704" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jcsm.aasm.org">[JCSM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jcsm.aasm.org</span><span class="citation-popover-snippet">Binge Viewing, Sleep, and the Role of Pre-Sleep Arousalby L Exelmans · 2017 · Cited by 283 — Higher binge viewing frequency was assoc...</span></span></span>
+The most sleep-disruptive part of late-night viewing is often not the screen itself but the story that continues running in your mind after the screen is off. A cliffhanger creates an unfinished cognitive task: the mystery is unresolved, the danger is not over, and the brain has not received a satisfying stopping point. Research on binge viewing suggests that this mental activation—known as cognitive pre-sleep arousal—is one of the main pathways linking late-night viewing with poorer sleep quality, fatigue and insomnia symptoms.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Binge Viewing, Sleep, and the Role of Pre-Sleep Arousal</span><span class="citation-popover-snippet">PubMed CentralBinge Viewing, Sleep, and the Role of Pre-Sleep Arousal - PMCby L Exelmans · 2017 · Cited by 283 — This study provides init...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://jcsm.aasm.org/doi/abs/10.5664/jcsm.6704" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jcsm.aasm.org">[JCSM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jcsm.aasm.org</span><span class="citation-popover-snippet">Binge Viewing, Sleep, and the Role of Pre-Sleep Arousalby L Exelmans · 2017 · Cited by 283 — Higher binge viewing frequency was assoc...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_cliffhanger_arousal_0b8823-Illustration-1-dark.svg" | relative_url }}" alt="Cliffhangers illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_cliffhanger_arousal_0b8823-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_sleep_before_episode_47ee06_cliffhanger_arousal_0b8823-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For anyone interested in self-improvement that works, this distinction matters. If the goal is to protect sleep without giving up television entirely, the critical question is not simply how long you watch. It is whether the final episode leaves your mind settled or searching for answers.
 
 ## What Cognitive Pre-Sleep Arousal Means
 
-Cognitive pre-sleep arousal refers to heightened mental activity when you are trying to fall asleep. Instead of gradually disengaging, the mind remains busy, alert and occupied. Sleep researchers commonly associate this state with racing thoughts, persistent mental processing and difficulty “switching off”. Higher levels of cognitive arousal are strongly linked with sleep-onset problems and insomnia-related complaints. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Binge Viewing, Sleep, and the Role of Pre-Sleep Arousal</span><span class="citation-popover-snippet">PubMed CentralBinge Viewing, Sleep, and the Role of Pre-Sleep Arousal - PMCby L Exelmans · 2017 · Cited by 283 — This study provides init...</span></span></span> PubMed A cliffhanger fits this pattern surprisingly well. The viewer may be physically relaxed on the sofa <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Binge Viewing, Sleep, and the Role of Pre-Sleep Arousal</span><span class="citation-popover-snippet">PubMed CentralBinge Viewing, Sleep, and the Role of Pre-Sleep Arousal - PMCby L Exelmans · 2017 · Cited by 283 — This study provides init...</span></span></span>, yet mentally activated. Questions continue circulating:
+Cognitive pre-sleep arousal refers to heightened mental activity when you are trying to fall asleep. Instead of gradually disengaging, the mind remains busy, alert and occupied. Sleep researchers commonly associate this state with racing thoughts, persistent mental processing and difficulty “switching off”. Higher levels of cognitive arousal are strongly linked with sleep-onset problems and insomnia-related complaints.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Binge Viewing, Sleep, and the Role of Pre-Sleep Arousal</span><span class="citation-popover-snippet">PubMed CentralBinge Viewing, Sleep, and the Role of Pre-Sleep Arousal - PMCby L Exelmans · 2017 · Cited by 283 — This study provides init...</span></span></span> PubMed A cliffhanger fits this pattern surprisingly well. The viewer may be physically relaxed on the sofa<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Binge Viewing, Sleep, and the Role of Pre-Sleep Arousal</span><span class="citation-popover-snippet">PubMed CentralBinge Viewing, Sleep, and the Role of Pre-Sleep Arousal - PMCby L Exelmans · 2017 · Cited by 283 — This study provides init...</span></span></span>, yet mentally activated. Questions continue circulating:
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -294,7 +294,7 @@ Cognitive pre-sleep arousal refers to heightened mental activity when you are tr
 
 These are not necessarily stressful thoughts, but they are engaging thoughts. The brain remains involved in the narrative rather than transitioning into the low-demand mental state that supports sleep.
 
-The influential 2017 study on binge viewing and sleep found that cognitive pre-sleep arousal helped explain why frequent binge viewers reported poorer sleep quality, more fatigue and more insomnia symptoms. Importantly, ordinary television viewing did not show the same pattern. The issue appeared to be the highly engaging, immersive style of viewing rather than television as a medium. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Binge Viewing, Sleep, and the Role of Pre-Sleep Arousal</span><span class="citation-popover-snippet">PubMed CentralBinge Viewing, Sleep, and the Role of Pre-Sleep Arousal - PMCby L Exelmans · 2017 · Cited by 283 — This study provides init...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://jcsm.aasm.org/doi/abs/10.5664/jcsm.6704" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jcsm.aasm.org">[JCSM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jcsm.aasm.org</span><span class="citation-popover-snippet">Binge Viewing, Sleep, and the Role of Pre-Sleep Arousalby L Exelmans · 2017 · Cited by 283 — Higher binge viewing frequency was assoc...</span></span></span>
+The influential 2017 study on binge viewing and sleep found that cognitive pre-sleep arousal helped explain why frequent binge viewers reported poorer sleep quality, more fatigue and more insomnia symptoms. Importantly, ordinary television viewing did not show the same pattern. The issue appeared to be the highly engaging, immersive style of viewing rather than television as a medium.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Binge Viewing, Sleep, and the Role of Pre-Sleep Arousal</span><span class="citation-popover-snippet">PubMed CentralBinge Viewing, Sleep, and the Role of Pre-Sleep Arousal - PMCby L Exelmans · 2017 · Cited by 283 — This study provides init...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://jcsm.aasm.org/doi/abs/10.5664/jcsm.6704" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jcsm.aasm.org">[JCSM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jcsm.aasm.org</span><span class="citation-popover-snippet">Binge Viewing, Sleep, and the Role of Pre-Sleep Arousalby L Exelmans · 2017 · Cited by 283 — Higher binge viewing frequency was assoc...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-_2fHG8Icuw" title="How binge watching TV affects your sleep" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-_2fHG8Icuw" target="_blank" rel="noopener noreferrer">How binge watching TV affects your sleep</a></p><p class="youtube-embed-meta">Channel: Quartz &middot; Views: 10.4K &middot; Uploaded: September 2017 &middot; Length: 3 minutes 3 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-_2fHG8Icuw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-_2fHG8Icuw">Open on YouTube</a></p></div></div></div>
 
@@ -308,7 +308,7 @@ Suspense-driven serial storytelling works differently. Writers deliberately crea
 
 From a storytelling perspective, this is excellent design. From a sleep perspective, it can be problematic.
 
-Researchers studying suspenseful television series before bedtime note that suspense and cliffhangers increase pre-sleep arousal. The theoretical concern is straightforward: if a person's physiological and cognitive activation remains elevated, sleep onset may be delayed because the brain requires more time to settle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/28728618/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Viewing, Sleep, and the Role of Pre-Sleep ArousalHigher binge viewing frequency was associated with a poorer sleep quality, increased fat...</span></span></span>
+Researchers studying suspenseful television series before bedtime note that suspense and cliffhangers increase pre-sleep arousal. The theoretical concern is straightforward: if a person's physiological and cognitive activation remains elevated, sleep onset may be delayed because the brain requires more time to settle.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/28728618/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Viewing, Sleep, and the Role of Pre-Sleep ArousalHigher binge viewing frequency was associated with a poorer sleep quality, increased fat...</span></span></span>
 
 This helps explain a common experience. Someone may turn the television off at midnight and still find themselves mentally replaying scenes at 12:30. The viewing session has ended, but the narrative has not.
 
@@ -325,11 +325,11 @@ This differs from passive entertainment consumption. A cliffhanger recruits anti
 
 The relationship between cliffhangers and sleep is more nuanced than popular advice sometimes suggests.
 
-The 2017 binge-viewing research found meaningful associations between binge viewing, poorer sleep and cognitive pre-sleep arousal. Those findings helped establish mental activation as a plausible mechanism linking viewing habits to sleep difficulties. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Binge Viewing, Sleep, and the Role of Pre-Sleep Arousal</span><span class="citation-popover-snippet">PubMed CentralBinge Viewing, Sleep, and the Role of Pre-Sleep Arousal - PMCby L Exelmans · 2017 · Cited by 283 — This study provides init...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://jcsm.aasm.org/doi/abs/10.5664/jcsm.6704" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jcsm.aasm.org">[JCSM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jcsm.aasm.org</span><span class="citation-popover-snippet">Binge Viewing, Sleep, and the Role of Pre-Sleep Arousalby L Exelmans · 2017 · Cited by 283 — Higher binge viewing frequency was assoc...</span></span></span>
+The 2017 binge-viewing research found meaningful associations between binge viewing, poorer sleep and cognitive pre-sleep arousal. Those findings helped establish mental activation as a plausible mechanism linking viewing habits to sleep difficulties.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Binge Viewing, Sleep, and the Role of Pre-Sleep Arousal</span><span class="citation-popover-snippet">PubMed CentralBinge Viewing, Sleep, and the Role of Pre-Sleep Arousal - PMCby L Exelmans · 2017 · Cited by 283 — This study provides init...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://jcsm.aasm.org/doi/abs/10.5664/jcsm.6704" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jcsm.aasm.org">[JCSM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jcsm.aasm.org</span><span class="citation-popover-snippet">Binge Viewing, Sleep, and the Role of Pre-Sleep Arousalby L Exelmans · 2017 · Cited by 283 — Higher binge viewing frequency was assoc...</span></span></span>
 
-However, a 2023 sleep-laboratory study produced a more qualified result. Researchers found that watching suspenseful television and cliffhanger endings before bed had only minor effects on objective sleep architecture in healthy young adults. The participants did not experience dramatic deterioration in measurable sleep stages. Nevertheless, the study still detected subtler changes in sleep-related brain activity associated with suspenseful viewing. ScienceDirect PubMed This distinction is important. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Binge Viewing, Sleep, and the Role of Pre-Sleep Arousal</span><span class="citation-popover-snippet">PubMed CentralBinge Viewing, Sleep, and the Role of Pre-Sleep Arousal - PMCby L Exelmans · 2017 · Cited by 283 — This study provides init...</span></span></span>
+However, a 2023 sleep-laboratory study produced a more qualified result. Researchers found that watching suspenseful television and cliffhanger endings before bed had only minor effects on objective sleep architecture in healthy young adults. The participants did not experience dramatic deterioration in measurable sleep stages. Nevertheless, the study still detected subtler changes in sleep-related brain activity associated with suspenseful viewing. ScienceDirect PubMed This distinction is important.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Binge Viewing, Sleep, and the Role of Pre-Sleep Arousal</span><span class="citation-popover-snippet">PubMed CentralBinge Viewing, Sleep, and the Role of Pre-Sleep Arousal - PMCby L Exelmans · 2017 · Cited by 283 — This study provides init...</span></span></span>
 
-The evidence does not [support]({{ 'support/' | relative_url }}) a simplistic claim that every cliffhanger will ruin sleep. Instead, it suggests that cliffhangers can increase pre-sleep arousal, and that this effect may matter most for people who are already vulnerable to delayed sleep, racing thoughts or difficulty disengaging mentally. ScienceDirect <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed In other words]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Binge Viewing, Sleep, and the Role of Pre-Sleep Arousal</span><span class="citation-popover-snippet">PubMed CentralBinge Viewing, Sleep, and the Role of Pre-Sleep Arousal - PMCby L Exelmans · 2017 · Cited by 283 — This study provides init...</span></span></span>, the mechanism is real, but individual sensitivity varies.
+The evidence does not [support]({{ 'support/' | relative_url }}) a simplistic claim that every cliffhanger will ruin sleep. Instead, it suggests that cliffhangers can increase pre-sleep arousal, and that this effect may matter most for people who are already vulnerable to delayed sleep, racing thoughts or difficulty disengaging mentally. ScienceDirect<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed In other words]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Binge Viewing, Sleep, and the Role of Pre-Sleep Arousal</span><span class="citation-popover-snippet">PubMed CentralBinge Viewing, Sleep, and the Role of Pre-Sleep Arousal - PMCby L Exelmans · 2017 · Cited by 283 — This study provides init...</span></span></span>, the mechanism is real, but individual sensitivity varies.
 
 ## How to Choose Safer Final Episodes
 
@@ -363,282 +363,282 @@ These endings give the brain permission to disengage.
 
 The arousal created by suspense is not permanent. Like other forms of mental activation, it tends to diminish when given time.
 
-A short buffer between viewing and sleep allows the mind to shift away from the narrative. This is consistent with broader sleep recommendations that encourage a wind-down period before bedtime. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sleepfoundation.org/insomnia/treatment/cognitive-behavioral-therapy-insomnia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleepfoundation.org">[Sleep Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleepfoundation.org</span><span class="citation-popover-snippet">Sleep FoundationCognitive Behavioral Therapy for Insomnia (CBT-I)10 Jul 2025 — CBT-I focuses on restructuring the thoughts, feelings, and...</span></span></span>
+A short buffer between viewing and sleep allows the mind to shift away from the narrative. This is consistent with broader sleep recommendations that encourage a wind-down period before bedtime.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sleepfoundation.org/insomnia/treatment/cognitive-behavioral-therapy-insomnia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleepfoundation.org">[Sleep Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleepfoundation.org</span><span class="citation-popover-snippet">Sleep FoundationCognitive Behavioral Therapy for Insomnia (CBT-I)10 Jul 2025 — CBT-I focuses on restructuring the thoughts, feelings, and...</span></span></span>
 
 ### Pay Attention to Your Own Pattern
 
 The strongest clue is often personal experience.
 
-If you regularly find yourself replaying plot twists, imagining future episodes or feeling compelled to search for explanations after turning off the television, you are probably experiencing exactly the kind of cognitive pre-sleep arousal that sleep researchers describe. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sleepfoundation.org/insomnia/treatment/cognitive-behavioral-therapy-insomnia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleepfoundation.org">[Sleep Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleepfoundation.org</span><span class="citation-popover-snippet">Sleep FoundationCognitive Behavioral Therapy for Insomnia (CBT-I)10 Jul 2025 — CBT-I focuses on restructuring the thoughts, feelings, and...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S1389945723000072" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">Furthermore, a higher frequency of binge</span><span class="citation-popover-snippet">Pre-sleep arousal induced by suspenseful series and...by S Baselgia · 2023 · Cited by 21 — In a recent survey by Exelmans a...</span></span></span>
+If you regularly find yourself replaying plot twists, imagining future episodes or feeling compelled to search for explanations after turning off the television, you are probably experiencing exactly the kind of cognitive pre-sleep arousal that sleep researchers describe.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sleepfoundation.org/insomnia/treatment/cognitive-behavioral-therapy-insomnia" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleepfoundation.org">[Sleep Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleepfoundation.org</span><span class="citation-popover-snippet">Sleep FoundationCognitive Behavioral Therapy for Insomnia (CBT-I)10 Jul 2025 — CBT-I focuses on restructuring the thoughts, feelings, and...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S1389945723000072" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">Furthermore, a higher frequency of binge</span><span class="citation-popover-snippet">Pre-sleep arousal induced by suspenseful series and...by S Baselgia · 2023 · Cited by 21 — In a recent survey by Exelmans a...</span></span></span>
 
 For those viewers, the practical lesson is simple: the safest final episode is usually not the most exciting one. It is the one that lets the story end before your attempt to sleep begins.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wEMTBiU0ksE" title="Dr. Anne Marie Morse on the Link Between Screen Time and Sleep Disorders" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wEMTBiU0ksE" target="_blank" rel="noopener noreferrer">Dr. Anne Marie Morse on the Link Between Screen Time and Sleep Disorders</a></p><p class="youtube-embed-meta">Channel: DocWire &middot; Views: 46 &middot; Uploaded: October 2024 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wEMTBiU0ksE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wEMTBiU0ksE">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Cliffhangers Keep Your Brain Awake. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Cliffhangers Keep Your Brain Awake. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why We Sleep on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZlU3DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why We Sleep" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why We Sleep">Why We Sleep</a>
-        </h4>
-        <p class="fr-book-author">By Matthew Walker</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why We Sleep on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZlU3DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why We Sleep" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why We Sleep">Why We Sleep</a>
+</h4>
+<p class="fr-book-author">By Matthew Walker</p>
         
-        <p class="fr-book-desc">Explains factors that interfere with falling asleep, including mental activation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains factors that interfere with falling asleep, including mental activation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Provides practical shutdown-routine and cue-design ideas.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Provides practical shutdown-routine and cue-design ideas.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Minimalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S4NbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Minimalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Minimalism">Digital Minimalism</a>
-        </h4>
-        <p class="fr-book-author">By Cal Newport</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Minimalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S4NbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Minimalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Minimalism">Digital Minimalism</a>
+</h4>
+<p class="fr-book-author">By Cal Newport</p>
         
-        <p class="fr-book-desc">Helps readers reduce engagement with highly stimulating digital experiences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers reduce engagement with highly stimulating digital experiences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Say+Good+Night+to+Insomnia+by+Gregg+D.+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Say Good Night to Insomnia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mPau0sVdPVwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Say Good Night to Insomnia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Say+Good+Night+to+Insomnia+by+Gregg+D.+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Say Good Night to Insomnia">Say Good Night to Insomnia</a>
-        </h4>
-        <p class="fr-book-author">By Gregg D. Jacobs</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Say+Good+Night+to+Insomnia+by+Gregg+D.+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Say Good Night to Insomnia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mPau0sVdPVwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Say Good Night to Insomnia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Say+Good+Night+to+Insomnia+by+Gregg+D.+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Say Good Night to Insomnia">Say Good Night to Insomnia</a>
+</h4>
+<p class="fr-book-author">By Gregg D. Jacobs</p>
         
-        <p class="fr-book-desc">Addresses cognitive arousal and strategies for calming the mind before sleep.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Say+Good+Night+to+Insomnia+by+Gregg+D.+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses cognitive arousal and strategies for calming the mind before sleep.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Say+Good+Night+to+Insomnia+by+Gregg+D.+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+We+Sleep&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why We Sleep</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Minimalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Minimalism</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+We+Sleep&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why We Sleep</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Minimalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Minimalism</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bedroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-bedroom-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pixel Art Grass Border Decal, Retro Green Block Wall Trim Sticker Gaming Decor"><img src="{{ '/assets/images/marketplace-covers/20c4fda8e7c62b7c6d3e.jpg' | relative_url }}" alt="Listing image for Pixel Art Grass Border Decal, Retro Green Block Wall Trim Sticker Gaming Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bedroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-bedroom-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Pixel Art Grass Border Decal, Retro Green Block Wall Trim Sticker Gaming Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bedroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-bedroom-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bedroom wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: bedroom wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bedroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-bedroom-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bedroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-bedroom-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pixel Art Grass Border Decal, Retro Green Block Wall Trim Sticker Gaming Decor"><img src="{{ '/assets/images/marketplace-covers/20c4fda8e7c62b7c6d3e.jpg' | relative_url }}" alt="Listing image for Pixel Art Grass Border Decal, Retro Green Block Wall Trim Sticker Gaming Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=bedroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-bedroom-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Pixel Art Grass Border Decal, Retro Green Block Wall Trim Sticker Gaming Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bedroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-bedroom-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bedroom wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: bedroom wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=bedroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-bedroom-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bedroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-bedroom-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pokemon multi pack Bedroom Wall Art Stickers"><img src="{{ '/assets/images/marketplace-covers/dadc52ca2e84cb40980a.jpg' | relative_url }}" alt="Listing image for Pokemon multi pack Bedroom Wall Art Stickers" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bedroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-bedroom-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Pokemon multi pack Bedroom Wall Art Stickers</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bedroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-bedroom-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bedroom wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: bedroom wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bedroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-bedroom-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bedroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-bedroom-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pokemon multi pack Bedroom Wall Art Stickers"><img src="{{ '/assets/images/marketplace-covers/dadc52ca2e84cb40980a.jpg' | relative_url }}" alt="Listing image for Pokemon multi pack Bedroom Wall Art Stickers" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=bedroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-bedroom-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Pokemon multi pack Bedroom Wall Art Stickers</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bedroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-bedroom-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bedroom wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: bedroom wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=bedroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-bedroom-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bedroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-bedroom-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Potted Plant Wall Stickers Green Leaves Wall Decals Wall Art Wall Stickers UK"><img src="{{ '/assets/images/marketplace-covers/b356fce7a33d02dae0da.jpg' | relative_url }}" alt="Listing image for Potted Plant Wall Stickers Green Leaves Wall Decals Wall Art Wall Stickers UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bedroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-bedroom-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Potted Plant Wall Stickers Green Leaves Wall Decals Wall Art Wall Stickers UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bedroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-bedroom-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bedroom wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: bedroom wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bedroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-bedroom-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bedroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-bedroom-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Potted Plant Wall Stickers Green Leaves Wall Decals Wall Art Wall Stickers UK"><img src="{{ '/assets/images/marketplace-covers/b356fce7a33d02dae0da.jpg' | relative_url }}" alt="Listing image for Potted Plant Wall Stickers Green Leaves Wall Decals Wall Art Wall Stickers UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=bedroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-bedroom-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Potted Plant Wall Stickers Green Leaves Wall Decals Wall Art Wall Stickers UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bedroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-bedroom-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bedroom wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: bedroom wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=bedroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-bedroom-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bedroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-bedroom-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pokemon Children&#x27;s Bedroom Wall Art Personalised Gift Print Pikachu Set of 3"><img src="{{ '/assets/images/marketplace-covers/494e15968e23b0ed9a34.jpg' | relative_url }}" alt="Listing image for Pokemon Children&#x27;s Bedroom Wall Art Personalised Gift Print Pikachu Set of 3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bedroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-bedroom-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Pokemon Children&#x27;s Bedroom Wall Art Personalised Gift Print Pikachu Set of 3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bedroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-bedroom-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bedroom wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: bedroom wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bedroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-bedroom-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=bedroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-bedroom-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bedroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-bedroom-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pokemon Children&#x27;s Bedroom Wall Art Personalised Gift Print Pikachu Set of 3"><img src="{{ '/assets/images/marketplace-covers/494e15968e23b0ed9a34.jpg' | relative_url }}" alt="Listing image for Pokemon Children&#x27;s Bedroom Wall Art Personalised Gift Print Pikachu Set of 3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=bedroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-bedroom-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Pokemon Children&#x27;s Bedroom Wall Art Personalised Gift Print Pikachu Set of 3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bedroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-bedroom-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bedroom wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: bedroom wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=bedroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-bedroom-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=bedroom+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cliffhangers-why-cliffhangers-keep-your-brain-awake-self-improvement-that-works-bedroom-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -654,7 +654,7 @@ For those viewers, the practical lesson is simple: the safest final episode is u
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -674,7 +674,7 @@ For those viewers, the practical lesson is simple: the safest final episode is u
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -706,7 +706,7 @@ For those viewers, the practical lesson is simple: the safest final episode is u
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -736,7 +736,7 @@ For those viewers, the practical lesson is simple: the safest final episode is u
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -794,156 +794,156 @@ For those viewers, the practical lesson is simple: the safest final episode is u
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: jcsm.aasm.org  
-   Link: <a href="https://jcsm.aasm.org/doi/abs/10.5664/jcsm.6704" target="_blank" rel="noopener noreferrer nofollow">https://jcsm.aasm.org/doi/abs/10.5664/jcsm.6704</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Binge Viewing, Sleep, and the Role of Pre-Sleep Arousalby L Exelmans · 2017 · Cited by 283 — Higher binge viewing [frequency](&amp;#123;&amp;#123; &#x27;frequency/&#x27; | relative_url &amp;#125;&amp;#125;) was assoc...</p></details>
+   Link:<a href="https://jcsm.aasm.org/doi/abs/10.5664/jcsm.6704" target="_blank" rel="noopener noreferrer nofollow">https://jcsm.aasm.org/doi/abs/10.5664/jcsm.6704</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Binge Viewing, Sleep, and the Role of Pre-Sleep Arousalby L Exelmans · 2017 · Cited by 283 — Higher binge viewing [frequency](&amp;#123;&amp;#123; &#x27;frequency/&#x27; | relative_url &amp;#125;&amp;#125;) was assoc...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
    Title: Furthermore, a higher frequency of binge  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1389945723000072" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1389945723000072</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pre-sleep arousal induced by suspenseful series and...by S Baselgia · 2023 · Cited by 21 — In a recent survey by Exelmans a...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1389945723000072" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1389945723000072</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pre-sleep arousal induced by suspenseful series and...by S Baselgia · 2023 · Cited by 21 — In a recent survey by Exelmans a...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0010440X21000493" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010440X21000493</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating racing thoughts in insomnia: A neglected...by L Weiner · 2021 · Cited by 21 — Racing thoughts, not only rumination and wor...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0010440X21000493" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0010440X21000493</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating racing thoughts in insomnia: A neglected...by L Weiner · 2021 · Cited by 21 — Racing thoughts, not only rumination and wor...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1389945724005057" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1389945724005057</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Insomnia with objective short sleep duration appears to have higher 24-h cortical arousal level.Read more...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S1389945724005057" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1389945724005057</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Insomnia with objective short sleep duration appears to have higher 24-h cortical arousal level.Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/am/pii/S1389945723000072" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/am/pii/S1389945723000072</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pre-sleep arousal induced by suspenseful series and...by S Baselgia · 2023 · Cited by 21 — Following Exelmans and Van den Bulck (2017)...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/am/pii/S1389945723000072" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/am/pii/S1389945723000072</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pre-sleep arousal induced by suspenseful series and...by S Baselgia · 2023 · Cited by 21 — Following Exelmans and Van den Bulck (2017)...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Binge Viewing, Sleep, and the Role of Pre-Sleep Arousal  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralBinge Viewing, Sleep, and the Role of Pre-Sleep Arousal - PMCby L Exelmans · 2017 · Cited by 283 — This study provides init...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5529125/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralBinge Viewing, Sleep, and the Role of Pre-Sleep Arousal - PMCby L Exelmans · 2017 · Cited by 283 — This study provides init...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/28728618/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/28728618/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Viewing, Sleep, and the Role of Pre-Sleep ArousalHigher binge viewing frequency was associated with a poorer sleep quality, increased fat...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/28728618/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/28728618/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Viewing, Sleep, and the Role of Pre-Sleep ArousalHigher binge viewing frequency was associated with a poorer sleep quality, increased fat...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Sleep-Related Arousal Versus General Cognitive  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3407262/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3407262/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby K Spiegelhalder · 2012 · Cited by 57 — Compared to healthy controls, primary insomnia patients showed both more sleep-related...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3407262/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3407262/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby K Spiegelhalder · 2012 · Cited by 57 — Compared to healthy controls, primary insomnia patients showed both more sleep-related...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/32247571/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/32247571/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>cognitive arousal is associated with objective sleep...by DA Kalmbach · 2020 · Cited by 109 — Heightened cognitive arousal at night is l...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/32247571/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/32247571/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cognitive arousal is associated with objective sleep...by DA Kalmbach · 2020 · Cited by 109 — Heightened cognitive arousal at night is l...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/36701833/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36701833/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Therefore, watching suspenseful TV series before sleep is not recommended as they increase arousal...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/36701833/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36701833/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Therefore, watching suspenseful TV series before sleep is not recommended as they increase arousal...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sleepfoundation.org  
-   Link: <a href="https://www.sleepfoundation.org/insomnia/treatment/cognitive-behavioral-therapy-insomnia" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/insomnia/treatment/cognitive-behavioral-therapy-insomnia</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep FoundationCognitive Behavioral Therapy for Insomnia (CBT-I)10 Jul 2025 — CBT-I focuses on restructuring the thoughts, feelings, and...</p></details>
+   Link:<a href="https://www.sleepfoundation.org/insomnia/treatment/cognitive-behavioral-therapy-insomnia" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/insomnia/treatment/cognitive-behavioral-therapy-insomnia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep FoundationCognitive Behavioral Therapy for Insomnia (CBT-I)10 Jul 2025 — CBT-I focuses on restructuring the thoughts, feelings, and...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sleepfoundation.org  
    Title: anxiety and sleep  
-   Link: <a href="https://www.sleepfoundation.org/mental-health/anxiety-and-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/mental-health/anxiety-and-sleep</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep FoundationAnxiety and Sleep9 Oct 2025 — Common symptoms include racing thoughts at night, difficulty relaxing, frequent awakenings...</p></details>
+   Link:<a href="https://www.sleepfoundation.org/mental-health/anxiety-and-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/mental-health/anxiety-and-sleep</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep FoundationAnxiety and Sleep9 Oct 2025 — Common symptoms include racing thoughts at night, difficulty relaxing, frequent awakenings...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Sleep" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sleep</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SleepSleep is a state of reduced mental and physical activity in which consciousness is altered and certain sensory activity is inhibi...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Sleep" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sleep</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SleepSleep is a state of reduced mental and physical activity in which consciousness is altered and certain sensory activity is inhibi...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: sleepfoundation.org  
    Title: stress and insomnia  
-   Link: <a href="https://www.sleepfoundation.org/insomnia/stress-and-insomnia" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/insomnia/stress-and-insomnia</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Jul 2025 — Stress and anxiety often lead to insomnia and sleep problems. Insomnia symptoms may begin to dissipate once the stressful s...</p></details>
+   Link:<a href="https://www.sleepfoundation.org/insomnia/stress-and-insomnia" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/insomnia/stress-and-insomnia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Jul 2025 — Stress and anxiety often lead to insomnia and sleep problems. Insomnia symptoms may begin to dissipate once the stressful s...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sleepfoundation.org  
    Title: psychophysiological insomnia  
-   Link: <a href="https://www.sleepfoundation.org/insomnia/psychophysiological-insomnia" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/insomnia/psychophysiological-insomnia</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Symptoms, Causes...10 Jul 2025 — Psychophysiological insomnia is a medical term used to describe insomnia linked to excessive worry abou...</p></details>
+   Link:<a href="https://www.sleepfoundation.org/insomnia/psychophysiological-insomnia" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/insomnia/psychophysiological-insomnia</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Symptoms, Causes...10 Jul 2025 — Psychophysiological insomnia is a medical term used to describe insomnia linked to excessive worry abou...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: sleepfoundation.org  
    Title: lack of sleep and cognitive impairment  
-   Link: <a href="https://www.sleepfoundation.org/sleep-deprivation/lack-of-sleep-and-cognitive-impairment" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/sleep-deprivation/lack-of-sleep-and-cognitive-impairment</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Does Lack of Sleep Affect Cognitive Impairment?29 Jul 2025 — Improving sleep quality can boost cognitive performance, promote sharper...</p></details>
+   Link:<a href="https://www.sleepfoundation.org/sleep-deprivation/lack-of-sleep-and-cognitive-impairment" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/sleep-deprivation/lack-of-sleep-and-cognitive-impairment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Does Lack of Sleep Affect Cognitive Impairment?29 Jul 2025 — Improving sleep quality can boost cognitive performance, promote sharper...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: sleepfoundation.org  
-   Link: <a href="https://www.sleepfoundation.org/mental-health/adhd-and-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/mental-health/adhd-and-sleep</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ADHD and Sleep Problems: How Are They Related?9 Oct 2025 — Difficulty falling or staying asleep is one of the most common sleep issues li...</p></details>
+   Link:<a href="https://www.sleepfoundation.org/mental-health/adhd-and-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/mental-health/adhd-and-sleep</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ADHD and Sleep Problems: How Are They Related?9 Oct 2025 — Difficulty falling or staying asleep is one of the most common sleep issues li...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/41163441/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41163441/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of Pre-Sleep Arousal on Bedtime Procrastinationby S Miyagawa · Cited by 3 — In this study, we examined whether difficulty falling...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/41163441/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/41163441/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of Pre-Sleep Arousal on Bedtime Procrastinationby S Miyagawa · Cited by 3 — In this study, we examined whether difficulty falling...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/Binge-Viewing%2C-Sleep%2C-and-the-Role-of-Pre-Sleep-Exelmans-Bulck/ca2b38584efd1a80c613f4edad291d7c7ef0625e" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Binge-Viewing%2C-Sleep%2C-and-the-Role-of-Pre-Sleep-Exelmans-Bulck/ca2b38584efd1a80c613f4edad291d7c7ef0625e</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Binge Viewing, Sleep, and the Role of Pre-Sleep ArousalHigher binge viewing frequency was associated with a poorer sleep quality, increas...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/Binge-Viewing%2C-Sleep%2C-and-the-Role-of-Pre-Sleep-Exelmans-Bulck/ca2b38584efd1a80c613f4edad291d7c7ef0625e" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Binge-Viewing%2C-Sleep%2C-and-the-Role-of-Pre-Sleep-Exelmans-Bulck/ca2b38584efd1a80c613f4edad291d7c7ef0625e</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Binge Viewing, Sleep, and the Role of Pre-Sleep ArousalHigher binge viewing frequency was associated with a poorer sleep quality, increas...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: consultant360.com  
-   Link: <a href="https://www.consultant360.com/exclusives/binge-watching-linked-poorer-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.consultant360.com/exclusives/binge-watching-linked-poorer-sleep</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Binge Watching Linked to Poorer SleepBinge watching is associated with poorer sleep quality, fatigue, and symptoms of insomnia, according...</p></details>
+   Link:<a href="https://www.consultant360.com/exclusives/binge-watching-linked-poorer-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.consultant360.com/exclusives/binge-watching-linked-poorer-sleep</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Binge Watching Linked to Poorer SleepBinge watching is associated with poorer sleep quality, fatigue, and symptoms of insomnia, according...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: bohonsleep.com  
-   Link: <a href="https://bohonsleep.com/blog/how-stress-impacts-your-sleep-and-what-you-can-do-about-it/" target="_blank" rel="noopener noreferrer nofollow">https://bohonsleep.com/blog/how-stress-impacts-your-sleep-and-what-you-can-do-about-it/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Stress Impacts Sleep &amp; What to Do About ItChronic stress and the resulting hyperarousal lead to more frequent awakenings throughout t...</p></details>
+   Link:<a href="https://bohonsleep.com/blog/how-stress-impacts-your-sleep-and-what-you-can-do-about-it/" target="_blank" rel="noopener noreferrer nofollow">https://bohonsleep.com/blog/how-stress-impacts-your-sleep-and-what-you-can-do-about-it/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Stress Impacts Sleep &amp; What to Do About ItChronic stress and the resulting hyperarousal lead to more frequent awakenings throughout t...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: authentictherapy.nl  
-   Link: <a href="https://www.authentictherapy.nl/insomnia-cbt-i" target="_blank" rel="noopener noreferrer nofollow">https://www.authentictherapy.nl/insomnia-cbt-i</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>InsomniaRacing thoughts worries about tomorrow, unfinished tasks, or sleeplessness trigger anticipatory anxiety, boosting cortisol and re...</p></details>
+   Link:<a href="https://www.authentictherapy.nl/insomnia-cbt-i" target="_blank" rel="noopener noreferrer nofollow">https://www.authentictherapy.nl/insomnia-cbt-i</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>InsomniaRacing thoughts worries about tomorrow, unfinished tasks, or sleeplessness trigger anticipatory anxiety, boosting cortisol and re...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: sleephealthfoundation.org.au  
-   Link: <a href="https://www.sleephealthfoundation.org.au/sleep-disorders/cognitive-behavioural-therapy-for-insomnia-cbt-i" target="_blank" rel="noopener noreferrer nofollow">https://www.sleephealthfoundation.org.au/sleep-disorders/cognitive-behavioural-therapy-for-insomnia-cbt-i</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Behavioural Therapy for Insomnia (CBT-I)CBT-I is a way to help people with insomnia sleep better. It is a proven method that wo...</p></details>
+   Link:<a href="https://www.sleephealthfoundation.org.au/sleep-disorders/cognitive-behavioural-therapy-for-insomnia-cbt-i" target="_blank" rel="noopener noreferrer nofollow">https://www.sleephealthfoundation.org.au/sleep-disorders/cognitive-behavioural-therapy-for-insomnia-cbt-i</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Behavioural Therapy for Insomnia (CBT-I)CBT-I is a way to help people with insomnia sleep better. It is a proven method that wo...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: connectedpapers.com  
    Title: Binge Viewing, Sleep, and the Role of Pre-Sleep Arousal.Liese Exelmans, J  
-   Link: <a href="https://www.connectedpapers.com/main/ca2b38584efd1a80c613f4edad291d7c7ef0625e/Binge-Viewing%2C-Sleep%2C-and-the-Role-of-Pre%20Sleep-Arousal./graph" target="_blank" rel="noopener noreferrer nofollow">https://www.connectedpapers.com/main/ca2b38584efd1a80c613f4edad291d7c7ef0625e/Binge-Viewing%2C-Sleep%2C-and-the-Role-of-Pre%20Sleep-Arousal./graph</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Van den Bulck. 2017, Journal of clinical sleep medicine: JCSM: official publication of the American Academy of Sleep Medicine. S2 logo...</p></details>
+   Link:<a href="https://www.connectedpapers.com/main/ca2b38584efd1a80c613f4edad291d7c7ef0625e/Binge-Viewing%2C-Sleep%2C-and-the-Role-of-Pre%20Sleep-Arousal./graph" target="_blank" rel="noopener noreferrer nofollow">https://www.connectedpapers.com/main/ca2b38584efd1a80c613f4edad291d7c7ef0625e/Binge-Viewing%2C-Sleep%2C-and-the-Role-of-Pre%20Sleep-Arousal./graph</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Van den Bulck. 2017, Journal of clinical sleep medicine: JCSM: official publication of the American Academy of Sleep Medicine. S2 logo...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: researchgate.net  
    Title: 318641198 Binge Viewing Sleep and the Role of Pre Sleep Arousal  
-   Link: <a href="https://www.researchgate.net/publication/318641198_Binge_Viewing_Sleep_and_the_Role_of_Pre-Sleep_Arousal" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/318641198_Binge_Viewing_Sleep_and_the_Role_of_Pre-Sleep_Arousal</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Binge Viewing, Sleep, and the Role of Pre-Sleep ArousalAug 16, 2017 — Higher binge viewing frequency was associated with a poorer sleep q...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/318641198_Binge_Viewing_Sleep_and_the_Role_of_Pre-Sleep_Arousal" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/318641198_Binge_Viewing_Sleep_and_the_Role_of_Pre-Sleep_Arousal</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Binge Viewing, Sleep, and the Role of Pre-Sleep ArousalAug 16, 2017 — Higher binge viewing frequency was associated with a poorer sleep q...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: animosanopsychiatry.com  
    Title: mind racing at midnight the link between anxiety and insomnia  
-   Link: <a href="https://animosanopsychiatry.com/blog/mind-racing-at-midnight-the-link-between-anxiety-and-insomnia/" target="_blank" rel="noopener noreferrer nofollow">https://animosanopsychiatry.com/blog/mind-racing-at-midnight-the-link-between-anxiety-and-insomnia/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mind Racing at Midnight: The Link Between Anxiety and...19 Nov 2025 — Learn how anxiety and insomnia trigger each other, why racing thou...</p></details>
+   Link:<a href="https://animosanopsychiatry.com/blog/mind-racing-at-midnight-the-link-between-anxiety-and-insomnia/" target="_blank" rel="noopener noreferrer nofollow">https://animosanopsychiatry.com/blog/mind-racing-at-midnight-the-link-between-anxiety-and-insomnia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mind Racing at Midnight: The Link Between Anxiety and...19 Nov 2025 — Learn how anxiety and insomnia trigger each other, why racing thou...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: unifr.ch  
    Title: University of Fribourg Can Netflix keep you awake at night?  
-   Link: <a href="https://www.unifr.ch/psycho/en/news-and-events/news/28602/can-netflix-keep-you-awake-at-night/" target="_blank" rel="noopener noreferrer nofollow">https://www.unifr.ch/psycho/en/news-and-events/news/28602/can-netflix-keep-you-awake-at-night/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can Netflix keep you awake at night? - News21 Feb 2023 — Binge-watching suspenseful TV series with cliffhangers before sleep has only min...</p></details>
+   Link:<a href="https://www.unifr.ch/psycho/en/news-and-events/news/28602/can-netflix-keep-you-awake-at-night/" target="_blank" rel="noopener noreferrer nofollow">https://www.unifr.ch/psycho/en/news-and-events/news/28602/can-netflix-keep-you-awake-at-night/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can Netflix keep you awake at night? - News21 Feb 2023 — Binge-watching suspenseful TV series with cliffhangers before sleep has only min...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: scispace.com  
    Title: Binge Viewing, Sleep, and the Role of Pre-Sleep Arousal  
-   Link: <a href="https://scispace.com/papers/binge-viewing-sleep-and-the-role-of-pre-sleep-arousal-3pwehet1g0" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/papers/binge-viewing-sleep-and-the-role-of-pre-sleep-arousal-3pwehet1g0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Abstract: Study Objectives:To investigate the prevalence of binge viewing, its association with sleep and examine arousal as an underlyin...</p></details>
+   Link:<a href="https://scispace.com/papers/binge-viewing-sleep-and-the-role-of-pre-sleep-arousal-3pwehet1g0" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/papers/binge-viewing-sleep-and-the-role-of-pre-sleep-arousal-3pwehet1g0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Abstract: Study Objectives:To investigate the prevalence of binge viewing, its association with sleep and examine arousal as an underlyin...</p></details>

@@ -274,16 +274,16 @@ image: /assets/images/self_improvement_tha_c01280_environment_design_133edb_kitc
 
 ## Introduction
 
-Healthy eating often begins before a person consciously decides what to eat. The layout of a kitchen influences what gets noticed first, what is easiest to reach, and what feels convenient enough to repeat. In practice, this means that the position of foods, containers and snacks can shape daily eating patterns with far less effort than most people realise. Research on food environments consistently finds that visibility, proximity and ease of access influence consumption, while healthier home food environments are associated with better dietary quality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0013916512442892" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsProximity and Visibility of Fruits and Vegetables Influence...17 Apr 2012 — The results showed that placing apple slices an...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8169424/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Home food environment and associations with weight and diet...by MC Kegler · 2021 · Cited by 59 — This study describes eleven dimensi...</span></span></span>
+Healthy eating often begins before a person consciously decides what to eat. The layout of a kitchen influences what gets noticed first, what is easiest to reach, and what feels convenient enough to repeat. In practice, this means that the position of foods, containers and snacks can shape daily eating patterns with far less effort than most people realise. Research on food environments consistently finds that visibility, proximity and ease of access influence consumption, while healthier home food environments are associated with better dietary quality.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0013916512442892" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsProximity and Visibility of Fruits and Vegetables Influence...17 Apr 2012 — The results showed that placing apple slices an...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8169424/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Home food environment and associations with weight and diet...by MC Kegler · 2021 · Cited by 59 — This study describes eleven dimensi...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_kitchen_layout_healt_1e3fb4-Illustration-1-dark.svg" | relative_url }}" alt="Kitchen Cues illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_kitchen_layout_healt_1e3fb4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_kitchen_layout_healt_1e3fb4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader idea of designing environments instead of relying on [willpower]({{ 'willpower/' | relative_url }}), the kitchen is one of the most powerful places to intervene. Small layout changes can make healthy foods the default option and create useful friction around less nutritious choices.
 
 ## Can your kitchen make eating well easier?
 
-The key principle is simple: foods that are visible and convenient tend to be eaten more often, while foods that require extra effort tend to be chosen less frequently. Experimental research has shown that simply moving healthy foods closer increases consumption, and making certain foods more visible can increase intake as well. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0013916512442892" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsProximity and Visibility of Fruits and Vegetables Influence...17 Apr 2012 — The results showed that placing apple slices an...</span></span></span>
+The key principle is simple: foods that are visible and convenient tend to be eaten more often, while foods that require extra effort tend to be chosen less frequently. Experimental research has shown that simply moving healthy foods closer increases consumption, and making certain foods more visible can increase intake as well.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0013916512442892" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsProximity and Visibility of Fruits and Vegetables Influence...17 Apr 2012 — The results showed that placing apple slices an...</span></span></span>
 
-This does not mean every visible food becomes irresistible. Rather, kitchen layouts subtly guide attention. When a person walks into the kitchen, the first foods they encounter become candidates for consumption before deliberate decision-making fully engages. Over weeks and months, those small nudges accumulate into meaningful differences in eating habits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8169424/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Home food environment and associations with weight and diet...by MC Kegler · 2021 · Cited by 59 — This study describes eleven dimensi...</span></span></span>
+This does not mean every visible food becomes irresistible. Rather, kitchen layouts subtly guide attention. When a person walks into the kitchen, the first foods they encounter become candidates for consumption before deliberate decision-making fully engages. Over weeks and months, those small nudges accumulate into meaningful differences in eating habits.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8169424/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Home food environment and associations with weight and diet...by MC Kegler · 2021 · Cited by 59 — This study describes eleven dimensi...</span></span></span>
 
 A useful way to think about kitchen design is to ask three questions:
 
@@ -301,7 +301,7 @@ The healthiest kitchens tend to make the answers align with healthy intentions.
 
 ### What should be easiest to notice?
 
-Visibility is one of the strongest kitchen cues. Studies examining food environments have repeatedly found that the availability and visibility of foods influence eating behaviour. Homes with greater availability of fruits and vegetables tend to [support]({{ 'support/' | relative_url }}) healthier dietary patterns, while greater availability of sweets and highly processed snacks is associated with less healthy eating. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.news-medical.net/news/20241218/Home-food-environment-shapes-adolescent-dietary-choices.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news-medical.net">[News-Medical]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news-medical.net</span><span class="citation-popover-title">Home food environment shapes adolescent dietary choices</span><span class="citation-popover-snippet">Home food environment shapes adolescent dietary choicesDecember 19, 2024 — 18 Dec 2024 — Key findings reveal that home availa...</span><span class="citation-popover-meta">Published: December 19, 2024</span></span></span> MDPI The practical implication is straightforward: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1660-4601/21/9/1187" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[mdpi.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Fostering a...Read more...</span></span></span>
+Visibility is one of the strongest kitchen cues. Studies examining food environments have repeatedly found that the availability and visibility of foods influence eating behaviour. Homes with greater availability of fruits and vegetables tend to [support]({{ 'support/' | relative_url }}) healthier dietary patterns, while greater availability of sweets and highly processed snacks is associated with less healthy eating.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.news-medical.net/news/20241218/Home-food-environment-shapes-adolescent-dietary-choices.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news-medical.net">[News-Medical]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news-medical.net</span><span class="citation-popover-title">Home food environment shapes adolescent dietary choices</span><span class="citation-popover-snippet">Home food environment shapes adolescent dietary choicesDecember 19, 2024 — 18 Dec 2024 — Key findings reveal that home availa...</span><span class="citation-popover-meta">Published: December 19, 2024</span></span></span> MDPI The practical implication is straightforward:<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1660-4601/21/9/1187" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[mdpi.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Fostering a...Read more...</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -320,7 +320,7 @@ When healthy foods occupy prime visual territory, they become the default option
 
 The same principle works in reverse.
 
-Snack foods do not necessarily need to be banned, but moving them out of immediate sight changes the number of eating opportunities they create. Research on home food environments suggests that visible food availability is linked to dietary behaviour and weight-related outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedaily.com/releases/2015/04/150428105631.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedaily.com">[ScienceDaily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedaily.com</span><span class="citation-popover-snippet">Keeping food visible throughout the house is linked to obesity28 Apr 2015 — Researchers have identified two seemingly unrelat...</span></span></span>
+Snack foods do not necessarily need to be banned, but moving them out of immediate sight changes the number of eating opportunities they create. Research on home food environments suggests that visible food availability is linked to dietary behaviour and weight-related outcomes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedaily.com/releases/2015/04/150428105631.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedaily.com">[ScienceDaily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedaily.com</span><span class="citation-popover-snippet">Keeping food visible throughout the house is linked to obesity28 Apr 2015 — Researchers have identified two seemingly unrelat...</span></span></span>
 
 Useful changes include:
 
@@ -353,7 +353,7 @@ For example:
 
 </div>
 
-When healthy options are already prepared, the distance between intention and action becomes much smaller. This aligns with broader behaviour-design evidence showing that reducing effort increases the likelihood of a behaviour occurring. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8169424/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Home food environment and associations with weight and diet...by MC Kegler · 2021 · Cited by 59 — This study describes eleven dimensi...</span></span></span>
+When healthy options are already prepared, the distance between intention and action becomes much smaller. This aligns with broader behaviour-design evidence showing that reducing effort increases the likelihood of a behaviour occurring.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8169424/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Home food environment and associations with weight and diet...by MC Kegler · 2021 · Cited by 59 — This study describes eleven dimensi...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lPkkEnHx0I8" title="Simple routines for a healthful kitchen - habits that encourage healthy eating" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lPkkEnHx0I8" target="_blank" rel="noopener noreferrer">Simple routines for a healthful kitchen - habits that encourage healthy eating</a></p><p class="youtube-embed-meta">Channel: Healthy Elizabeth &middot; Views: 25.0K &middot; Uploaded: January 2023 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lPkkEnHx0I8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lPkkEnHx0I8">Open on YouTube</a></p></div></div></div>
 
@@ -374,7 +374,7 @@ Imagine opening the refrigerator and immediately seeing:
 
 The decision becomes easier because the healthy option is not merely available; it is the path of least resistance.
 
-This approach also reduces food waste. Foods that are visible and prepared are more likely to be consumed before they spoil, which reinforces the habit over time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://chear.ucsd.edu/blog/nourishing-spaces-the-art-of-organizing-your-home-for-healthy-eating-success" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chear.ucsd.edu">[Healthy Eating Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chear.ucsd.edu</span><span class="citation-popover-snippet">Healthy Eating ResearchThe Art of Organizing Your Home for Healthy Eating SuccessMarch 29, 2024 — 29 Mar 2024 — Prioritizing Visibility o...</span><span class="citation-popover-meta">Published: March 29, 2024</span></span></span>
+This approach also reduces food waste. Foods that are visible and prepared are more likely to be consumed before they spoil, which reinforces the habit over time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://chear.ucsd.edu/blog/nourishing-spaces-the-art-of-organizing-your-home-for-healthy-eating-success" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chear.ucsd.edu">[Healthy Eating Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chear.ucsd.edu</span><span class="citation-popover-snippet">Healthy Eating ResearchThe Art of Organizing Your Home for Healthy Eating SuccessMarch 29, 2024 — 29 Mar 2024 — Prioritizing Visibility o...</span><span class="citation-popover-meta">Published: March 29, 2024</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_kitchen_layout_healt_1e3fb4-Illustration-3-dark.svg" | relative_url }}" alt="Kitchen Cues illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_kitchen_layout_healt_1e3fb4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_environment_design_133edb_kitchen_layout_healt_1e3fb4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Snack storage that creates a useful pause
@@ -413,253 +413,253 @@ The result is a kitchen that repeatedly nudges the same behaviours. Instead of a
 In the context of self-improvement that works, that is the real advantage of kitchen design: it turns healthy eating from a constant act of self-control into the default outcome of the environment.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can your kitchen make eating well easier?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can your kitchen make eating well easier?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Slim+by+Design+by+Brian+Wansink&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Slim by Design on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8K01LgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Slim by Design" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Slim+by+Design+by+Brian+Wansink&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Slim by Design">Slim by Design</a>
-        </h4>
-        <p class="fr-book-author">By Brian Wansink</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Slim+by+Design+by+Brian+Wansink&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Slim by Design on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8K01LgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Slim by Design" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Slim+by+Design+by+Brian+Wansink&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Slim by Design">Slim by Design</a>
+</h4>
+<p class="fr-book-author">By Brian Wansink</p>
         
-        <p class="fr-book-desc">Directly addresses how kitchens and surroundings influence food choices.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Slim+by+Design+by+Brian+Wansink&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses how kitchens and surroundings influence food choices.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Slim+by+Design+by+Brian+Wansink&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Explains how environment design and small cues shape eating and daily behavior.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Explains how environment design and small cues shape eating and daily behavior.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindless+Eating+by+Brian+Wansink&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindless Eating on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TFbtDtkT2NkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindless Eating" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mindless+Eating+by+Brian+Wansink&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindless Eating">Mindless Eating</a>
-        </h4>
-        <p class="fr-book-author">By Brian Wansink</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindless+Eating+by+Brian+Wansink&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindless Eating on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=TFbtDtkT2NkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindless Eating" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mindless+Eating+by+Brian+Wansink&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindless Eating">Mindless Eating</a>
+</h4>
+<p class="fr-book-author">By Brian Wansink</p>
         
-        <p class="fr-book-desc">Covers visibility, convenience, and consumption triggers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mindless+Eating+by+Brian+Wansink&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers visibility, convenience, and consumption triggers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mindless+Eating+by+Brian+Wansink&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
-        </h4>
-        <p class="fr-book-author">By B. J. Fogg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
+</h4>
+<p class="fr-book-author">By B. J. Fogg</p>
         
-        <p class="fr-book-desc">Shows how reducing friction makes desired behaviors easier.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how reducing friction makes desired behaviors easier.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Slim+by+Design&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Slim by Design</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindless+Eating&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindless Eating</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Slim+by+Design&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Slim by Design</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindless+Eating&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindless Eating</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=kitchen+storage+bins+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-kitchen-storage-bins-merch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Storage Bin Open Front Snack Organizer for Retail Bakeries Supermarket"><img src="{{ '/assets/images/marketplace-covers/e77999d60ff7d64bfddc.jpg' | relative_url }}" alt="Listing image for Storage Bin Open Front Snack Organizer for Retail Bakeries Supermarket" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=kitchen+storage+bins+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-kitchen-storage-bins-merch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Storage Bin Open Front Snack Organizer for Retail Bakeries Supermarket</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=kitchen+storage+bins+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-kitchen-storage-bins-merch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for kitchen storage bins merch">Search <span data-ebay-domain-label>eBay.co.uk</span>: kitchen storage bins merch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=kitchen+storage+bins+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-kitchen-storage-bins-merch&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=kitchen+storage+bins+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-kitchen-storage-bins-merch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Storage Bin Open Front Snack Organizer for Retail Bakeries Supermarket"><img src="{{ '/assets/images/marketplace-covers/e77999d60ff7d64bfddc.jpg' | relative_url }}" alt="Listing image for Storage Bin Open Front Snack Organizer for Retail Bakeries Supermarket" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=kitchen+storage+bins+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-kitchen-storage-bins-merch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Storage Bin Open Front Snack Organizer for Retail Bakeries Supermarket</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=kitchen+storage+bins+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-kitchen-storage-bins-merch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for kitchen storage bins merch">Search<span data-ebay-domain-label>eBay.co.uk</span>: kitchen storage bins merch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=kitchen+storage+bins+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-kitchen-storage-bins-merch&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=kitchen+storage+bins+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-kitchen-storage-bins-merch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Love Geeks Vinyl Sticker Decal for Car Window Laptop &amp; More"><img src="{{ '/assets/images/marketplace-covers/120c82d861ecbddfdc09.jpg' | relative_url }}" alt="Listing image for I Love Geeks Vinyl Sticker Decal for Car Window Laptop &amp; More" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=kitchen+storage+bins+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-kitchen-storage-bins-merch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Love Geeks Vinyl Sticker Decal for Car Window Laptop &amp; More</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=kitchen+storage+bins+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-kitchen-storage-bins-merch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for kitchen storage bins merch">Search <span data-ebay-domain-label>eBay.co.uk</span>: kitchen storage bins merch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=kitchen+storage+bins+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-kitchen-storage-bins-merch&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=kitchen+storage+bins+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-kitchen-storage-bins-merch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Love Geeks Vinyl Sticker Decal for Car Window Laptop &amp; More"><img src="{{ '/assets/images/marketplace-covers/120c82d861ecbddfdc09.jpg' | relative_url }}" alt="Listing image for I Love Geeks Vinyl Sticker Decal for Car Window Laptop &amp; More" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=kitchen+storage+bins+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-kitchen-storage-bins-merch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Love Geeks Vinyl Sticker Decal for Car Window Laptop &amp; More</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=kitchen+storage+bins+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-kitchen-storage-bins-merch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for kitchen storage bins merch">Search<span data-ebay-domain-label>eBay.co.uk</span>: kitchen storage bins merch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=kitchen+storage+bins+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-kitchen-storage-bins-merch&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=kitchen+storage+bins+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-kitchen-storage-bins-merch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Love Zombies Vinyl Sticker Decal for Car Window Laptop &amp; More"><img src="{{ '/assets/images/marketplace-covers/a7245cf61114363104b7.jpg' | relative_url }}" alt="Listing image for I Love Zombies Vinyl Sticker Decal for Car Window Laptop &amp; More" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=kitchen+storage+bins+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-kitchen-storage-bins-merch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Love Zombies Vinyl Sticker Decal for Car Window Laptop &amp; More</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=kitchen+storage+bins+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-kitchen-storage-bins-merch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for kitchen storage bins merch">Search <span data-ebay-domain-label>eBay.co.uk</span>: kitchen storage bins merch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=kitchen+storage+bins+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-kitchen-storage-bins-merch&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=kitchen+storage+bins+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-kitchen-storage-bins-merch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=kitchen+storage+bins+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-kitchen-storage-bins-merch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Love Zombies Vinyl Sticker Decal for Car Window Laptop &amp; More"><img src="{{ '/assets/images/marketplace-covers/a7245cf61114363104b7.jpg' | relative_url }}" alt="Listing image for I Love Zombies Vinyl Sticker Decal for Car Window Laptop &amp; More" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=kitchen+storage+bins+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-kitchen-storage-bins-merch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">I Love Zombies Vinyl Sticker Decal for Car Window Laptop &amp; More</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=kitchen+storage+bins+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-kitchen-storage-bins-merch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for kitchen storage bins merch">Search<span data-ebay-domain-label>eBay.co.uk</span>: kitchen storage bins merch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=kitchen+storage+bins+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-kitchen-storage-bins-merch&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=kitchen+storage+bins+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=kitchen-cues-can-your-kitchen-make-eating-well-easier-self-improvement-that-works-kitchen-storage-bins-merch&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -675,7 +675,7 @@ In the context of self-improvement that works, that is the real advantage of kit
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -695,7 +695,7 @@ In the context of self-improvement that works, that is the real advantage of kit
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -727,7 +727,7 @@ In the context of self-improvement that works, that is the real advantage of kit
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -757,7 +757,7 @@ In the context of self-improvement that works, that is the real advantage of kit
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -815,94 +815,94 @@ In the context of self-improvement that works, that is the real advantage of kit
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8169424/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8169424/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Home food environment and associations with weight and diet...by MC Kegler · 2021 · Cited by 59 — This study describes eleven dimensi...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8169424/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8169424/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Home food environment and associations with weight and diet...by MC Kegler · 2021 · Cited by 59 — This study describes eleven dimensi...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/1660-4601/21/9/1187" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1660-4601/21/9/1187</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fostering a...Read more...</p></details>
+   Link:<a href="https://www.mdpi.com/1660-4601/21/9/1187" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1660-4601/21/9/1187</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fostering a...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: news-medical.net  
    Title: Home food environment shapes adolescent dietary choices  
-   Link: <a href="https://www.news-medical.net/news/20241218/Home-food-environment-shapes-adolescent-dietary-choices.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.news-medical.net/news/20241218/Home-food-environment-shapes-adolescent-dietary-choices.aspx</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Home food environment shapes adolescent dietary choicesDecember 19, 2024 — 18 Dec 2024 — Key findings reveal that home availa...</p></details>
+   Link:<a href="https://www.news-medical.net/news/20241218/Home-food-environment-shapes-adolescent-dietary-choices.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.news-medical.net/news/20241218/Home-food-environment-shapes-adolescent-dietary-choices.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Home food environment shapes adolescent dietary choicesDecember 19, 2024 — 18 Dec 2024 — Key findings reveal that home availa...</p></details>
    Published: December 19, 2024  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sciencedaily.com  
-   Link: <a href="https://www.sciencedaily.com/releases/2015/04/150428105631.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedaily.com/releases/2015/04/150428105631.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Keeping food visible throughout the house is linked to obesity28 Apr 2015 — Researchers have identified two seemingly unrelat...</p></details>
+   Link:<a href="https://www.sciencedaily.com/releases/2015/04/150428105631.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedaily.com/releases/2015/04/150428105631.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Keeping food visible throughout the house is linked to obesity28 Apr 2015 — Researchers have identified two seemingly unrelat...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2071-1050/16/15/6365" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2071-1050/16/15/6365</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Designers&#x27; Needs in Leveraging the Evolving Role of...by R Chu · 2024 · Cited by 8 — A design brief was created to briefly describe the...</p></details>
+   Link:<a href="https://www.mdpi.com/2071-1050/16/15/6365" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2071-1050/16/15/6365</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Designers&#x27; Needs in Leveraging the Evolving Role of...by R Chu · 2024 · Cited by 8 — A design brief was created to briefly describe the...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/0013916512442892" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0013916512442892</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsProximity and Visibility of Fruits and Vegetables Influence...17 Apr 2012 — The results showed that placing apple slices an...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/0013916512442892" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0013916512442892</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsProximity and Visibility of Fruits and Vegetables Influence...17 Apr 2012 — The results showed that placing apple slices an...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: chear.ucsd.edu  
-   Link: <a href="https://chear.ucsd.edu/blog/nourishing-spaces-the-art-of-organizing-your-home-for-healthy-eating-success" target="_blank" rel="noopener noreferrer nofollow">https://chear.ucsd.edu/blog/nourishing-spaces-the-art-of-organizing-your-home-for-healthy-eating-success</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Healthy Eating ResearchThe Art of Organizing Your Home for Healthy Eating SuccessMarch 29, 2024 — 29 Mar 2024 — Prioritizing Visibility o...</p></details>
+   Link:<a href="https://chear.ucsd.edu/blog/nourishing-spaces-the-art-of-organizing-your-home-for-healthy-eating-success" target="_blank" rel="noopener noreferrer nofollow">https://chear.ucsd.edu/blog/nourishing-spaces-the-art-of-organizing-your-home-for-healthy-eating-success</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Healthy Eating ResearchThe Art of Organizing Your Home for Healthy Eating SuccessMarch 29, 2024 — 29 Mar 2024 — Prioritizing Visibility o...</p></details>
    Published: March 29, 2024  
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: healthline.com  
-   Link: <a href="https://www.healthline.com/nutrition/best-meal-prep-containers" target="_blank" rel="noopener noreferrer nofollow">https://www.healthline.com/nutrition/best-meal-prep-containers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>12 Best Meal Prep ContainersMeal planning makes it easier to achieve your healthy eating goals. Our nutrition experts share their picks o...</p></details>
+   Link:<a href="https://www.healthline.com/nutrition/best-meal-prep-containers" target="_blank" rel="noopener noreferrer nofollow">https://www.healthline.com/nutrition/best-meal-prep-containers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>12 Best Meal Prep ContainersMeal planning makes it easier to achieve your healthy eating goals. Our nutrition experts share their picks o...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: kitchen-experts.co.uk  
-   Link: <a href="https://kitchen-experts.co.uk/blog/kitchen-design-for-healthy-eating/" target="_blank" rel="noopener noreferrer nofollow">https://kitchen-experts.co.uk/blog/kitchen-design-for-healthy-eating/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Designing a Kitchen for Healthy EatingDiscover how thoughtful kitchen design for healthy eating can inspire better habits &amp; make nutritio...</p></details>
+   Link:<a href="https://kitchen-experts.co.uk/blog/kitchen-design-for-healthy-eating/" target="_blank" rel="noopener noreferrer nofollow">https://kitchen-experts.co.uk/blog/kitchen-design-for-healthy-eating/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Designing a Kitchen for Healthy EatingDiscover how thoughtful kitchen design for healthy eating can inspire better habits &amp; make nutritio...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Ker5wz0jmK0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ker5wz0jmK0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Your Kitchen Design Influences Your Eating HabitsIn this video, I explain how design psychology in interior design can transform your...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ker5wz0jmK0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ker5wz0jmK0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Your Kitchen Design Influences Your Eating HabitsIn this video, I explain how design psychology in interior design can transform your...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: danoneinstitute.org  
-   Link: <a href="https://www.danoneinstitute.org/wp-content/uploads/2017/06/DII-Sympo-IUNS-Lytle-Home-environment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.danoneinstitute.org/wp-content/uploads/2017/06/DII-Sympo-IUNS-Lytle-Home-environment.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Healthy home food environmentFamily and the home environment are especially important: • 65-72% of children&#x27;s daily calories are consumed...</p></details>
+   Link:<a href="https://www.danoneinstitute.org/wp-content/uploads/2017/06/DII-Sympo-IUNS-Lytle-Home-environment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.danoneinstitute.org/wp-content/uploads/2017/06/DII-Sympo-IUNS-Lytle-Home-environment.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Healthy home food environmentFamily and the home environment are especially important: • 65-72% of children&#x27;s daily calories are consumed...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sacbar.com  
-   Link: <a href="https://sacbar.com/visible-food-obesity/" target="_blank" rel="noopener noreferrer nofollow">https://sacbar.com/visible-food-obesity/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Home Food Visibility and Weight: Simple Changes That WorkOhio State study shows visible food placement affects eating habits. Learn evide...</p></details>
+   Link:<a href="https://sacbar.com/visible-food-obesity/" target="_blank" rel="noopener noreferrer nofollow">https://sacbar.com/visible-food-obesity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Home Food Visibility and Weight: Simple Changes That WorkOhio State study shows visible food placement affects eating habits. Learn evide...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: exclusive.multibriefs.com  
-   Link: <a href="https://exclusive.multibriefs.com/content/designing-kitchens-for-healthy-eating" target="_blank" rel="noopener noreferrer nofollow">https://exclusive.multibriefs.com/content/designing-kitchens-for-healthy-eating</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>multibriefs.comMultiBrief: Designing kitchens for healthy eatingSetting a basket of fruit on a green surface will make the healthier choi...</p></details>
+   Link:<a href="https://exclusive.multibriefs.com/content/designing-kitchens-for-healthy-eating" target="_blank" rel="noopener noreferrer nofollow">https://exclusive.multibriefs.com/content/designing-kitchens-for-healthy-eating</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>multibriefs.comMultiBrief: Designing kitchens for healthy eatingSetting a basket of fruit on a green surface will make the healthier choi...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cubep.com  
-   Link: <a href="https://www.cubep.com/round-food-containers-eco-friendly-kitchen" target="_blank" rel="noopener noreferrer nofollow">https://www.cubep.com/round-food-containers-eco-friendly-kitchen</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cy that makes them an ideal choice for eco-conscious kitchens.Read more...</p></details>
+   Link:<a href="https://www.cubep.com/round-food-containers-eco-friendly-kitchen" target="_blank" rel="noopener noreferrer nofollow">https://www.cubep.com/round-food-containers-eco-friendly-kitchen</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cy that makes them an ideal choice for eco-conscious kitchens.Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: scribd.com  
    Title: Kitchen Design Promotes Healthy Eating  
-   Link: <a href="https://www.scribd.com/document/961359536/Kitchen-Design-Promotes-Healthy-Eating" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/961359536/Kitchen-Design-Promotes-Healthy-Eating</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kitchen Design for Healthy Eating | PDF3 Dec 2025 — In a home kitchen setting, placing healthy items like fruits and pre-cut vegetables i...</p></details>
+   Link:<a href="https://www.scribd.com/document/961359536/Kitchen-Design-Promotes-Healthy-Eating" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/961359536/Kitchen-Design-Promotes-Healthy-Eating</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kitchen Design for Healthy Eating | PDF3 Dec 2025 — In a home kitchen setting, placing healthy items like fruits and pre-cut vegetables i...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: travelingauthentic.com  
-   Link: <a href="https://travelingauthentic.com/sites/detail/newest/?p=How-to-Design-Your-Kitchen-for-Healthier-Automatic-Decisions-eGuTNJD79LaHc" target="_blank" rel="noopener noreferrer nofollow">https://travelingauthentic.com/sites/detail/newest/?p=How-to-Design-Your-Kitchen-for-Healthier-Automatic-Decisions-eGuTNJD79LaHc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Design Your Kitchen for Healthier Automatic DecisionsIncrease the visibility and convenience of foods you want to eat more of (e.g...</p></details>
+   Link:<a href="https://travelingauthentic.com/sites/detail/newest/?p=How-to-Design-Your-Kitchen-for-Healthier-Automatic-Decisions-eGuTNJD79LaHc" target="_blank" rel="noopener noreferrer nofollow">https://travelingauthentic.com/sites/detail/newest/?p=How-to-Design-Your-Kitchen-for-Healthier-Automatic-Decisions-eGuTNJD79LaHc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Design Your Kitchen for Healthier Automatic DecisionsIncrease the visibility and convenience of foods you want to eat more of (e.g...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: health.yahoo.com  
    Title: best meal prep containers 205045857  
-   Link: <a href="https://health.yahoo.com/wellness/nutrition/healthy-eating/article/best-meal-prep-containers-205045857.html" target="_blank" rel="noopener noreferrer nofollow">https://health.yahoo.com/wellness/nutrition/healthy-eating/article/best-meal-prep-containers-205045857.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>7 best meal prep containers for healthy eating...6 Mar 2026 — I evaluated each one for durability, portability, leak resistance, ease o...</p></details>
+   Link:<a href="https://health.yahoo.com/wellness/nutrition/healthy-eating/article/best-meal-prep-containers-205045857.html" target="_blank" rel="noopener noreferrer nofollow">https://health.yahoo.com/wellness/nutrition/healthy-eating/article/best-meal-prep-containers-205045857.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>7 best meal prep containers for healthy eating...6 Mar 2026 — I evaluated each one for durability, portability, leak resistance, ease o...</p></details>

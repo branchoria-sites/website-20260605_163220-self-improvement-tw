@@ -505,20 +505,20 @@ image: /assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a-ov
 Digital behaviour-change interventions are self-improvement tools delivered through apps, websites, text messages, [wearables]({{ 'wearables/' | relative_url }}) or connected devices. Their value is not that they are digital; it is that they can deliver useful behaviour-change ingredients at the moment they are needed: prompts, tracking, feedback, reminders, planning tools, tailored advice and sometimes [social support]({{ 'social-support/' | relative_url }}). A good app makes the next helpful action easier to notice, easier to start and easier to repeat. A weak app simply turns vague self-improvement into more notifications.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a-overview.webp" | relative_url }}" alt="Overview image for Digital Tools" loading="eager" decoding="sync" fetchpriority="high">
-The evidence is strongest when digital tools are judged by their active ingredients rather than by brand, novelty or download numbers. Behaviour-change researchers use taxonomies to describe the actual techniques inside an intervention, including goal setting, action planning, self-monitoring, feedback, prompts and rewards. The [Behaviour Change]({{ 'behaviour-change/' | relative_url }}) Technique Taxonomy, for example, identifies 93 distinct techniques for specifying what an intervention actually does. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8935 — &quot;BCT taxonomy v1,&quot; an extensive taxonomy...</span></span></span> For [self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}), the useful question is therefore not “Which app is best?” but “Which feature helps this behaviour happen more reliably?”
+The evidence is strongest when digital tools are judged by their active ingredients rather than by brand, novelty or download numbers. Behaviour-change researchers use taxonomies to describe the actual techniques inside an intervention, including goal setting, action planning, self-monitoring, feedback, prompts and rewards. The [Behaviour Change]({{ 'behaviour-change/' | relative_url }}) Technique Taxonomy, for example, identifies 93 distinct techniques for specifying what an intervention actually does.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8935 — &quot;BCT taxonomy v1,&quot; an extensive taxonomy...</span></span></span> For [self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}), the useful question is therefore not “Which app is best?” but “Which feature helps this behaviour happen more reliably?”
 
 ## The app is only the delivery system
 
 Digital behaviour-change interventions work best when they turn an intention into a repeatable loop. A person decides on a target behaviour, the tool helps them notice opportunities or barriers, the person acts, the tool records or reflects the action, and [feedback]({{ 'feedback/' | relative_url }}) shapes the next attempt. That loop can be simple: a walking app that sets a step goal, shows progress and prompts an evening walk. It can also be more adaptive: a wearable-linked programme that changes the timing or type of [support]({{ 'support/' | relative_url }}) when someone is inactive, stressed or in a high-risk context.
 
-The World Health Organization’s classification of digital health interventions treats digital tools as ways of addressing specific health-system and user needs, rather than as a single category of “apps”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/news/item/07-11-2023-who-publishes-the-second-edition-of-the-classification-of-digital-interventions--services-and-applications-in-health" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationWHO publishes the second edition of the Classification...WHO publishes the second edition of the Classification...</span></span></span> NICE makes a similar practical distinction in its guidance on digital and mobile health behaviour-change interventions: digital interventions may be delivered through hardware, software, websites, apps, text messages or connected devices, and their design should use evidence-based behaviour-change [techniques]({{ 'techniques/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nice.org.uk/guidance/ng183/chapter/Recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nice.org.uk">[NICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nice.org.uk</span><span class="citation-popover-snippet">Behaviour change: digital and mobile health interventions7 Oct 2020 — When designing digital and mobile health interventions, use evi...</span></span></span>
+The World Health Organization’s classification of digital health interventions treats digital tools as ways of addressing specific health-system and user needs, rather than as a single category of “apps”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/news/item/07-11-2023-who-publishes-the-second-edition-of-the-classification-of-digital-interventions--services-and-applications-in-health" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">World Health OrganizationWHO publishes the second edition of the Classification...WHO publishes the second edition of the Classification...</span></span></span> NICE makes a similar practical distinction in its guidance on digital and mobile health behaviour-change interventions: digital interventions may be delivered through hardware, software, websites, apps, text messages or connected devices, and their design should use evidence-based behaviour-change [techniques]({{ 'techniques/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nice.org.uk/guidance/ng183/chapter/Recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nice.org.uk">[NICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nice.org.uk</span><span class="citation-popover-snippet">Behaviour change: digital and mobile health interventions7 Oct 2020 — When designing digital and mobile health interventions, use evi...</span></span></span>
 
 That distinction matters because many consumer self-improvement apps are packaged around a theme — fitness, productivity, sleep, money, mood, study, diet — while the actual mechanism is often the same. A budgeting app may use self-monitoring and feedback. A meditation app may use prompts, streaks and guided practice. A habit tracker may use goal setting, reminders and reward cues. The surface category changes; the behavioural machinery often does not.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a-Illustration-1-dark.svg" | relative_url }}" alt="Digital Tools illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Common active ingredients
 
-The most useful digital tools tend to combine several modest techniques rather than rely on one dramatic feature. A review of mHealth apps for chronic-condition self-management found that frequently used behaviour-change technique groups included feedback and monitoring, goals and planning, associations, shaping knowledge and personalisation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12223045/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEngagement and attrition in digital mental health</span><span class="citation-popover-snippet">PMCEngagement and attrition in digital mental health</span></span></span> A separate review of engagement with mobile health apps found six techniques repeatedly associated with user engagement: goal setting, self-monitoring of behaviour, feedback on behaviour, prompts or cues, rewards and social support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12223045/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEngagement and attrition in digital mental health</span><span class="citation-popover-snippet">PMCEngagement and attrition in digital mental health</span></span></span>
+The most useful digital tools tend to combine several modest techniques rather than rely on one dramatic feature. A review of mHealth apps for chronic-condition self-management found that frequently used behaviour-change technique groups included feedback and monitoring, goals and planning, associations, shaping knowledge and personalisation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12223045/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEngagement and attrition in digital mental health</span><span class="citation-popover-snippet">PMCEngagement and attrition in digital mental health</span></span></span> A separate review of engagement with mobile health apps found six techniques repeatedly associated with user engagement: goal setting, self-monitoring of behaviour, feedback on behaviour, prompts or cues, rewards and social support.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12223045/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEngagement and attrition in digital mental health</span><span class="citation-popover-snippet">PMCEngagement and attrition in digital mental health</span></span></span>
 
 **Self-monitoring** is the ingredient most people recognise. It means recording the behaviour itself, such as steps, spending, pages read, cigarettes avoided, meals planned or hours slept. Digital tools make self-monitoring less effortful by using sensors, automatic logs, bank feeds, timers or quick check-ins. This can help because people often misjudge their own patterns until they see them.
 
@@ -536,24 +536,24 @@ The most useful digital tools tend to combine several modest techniques rather t
 
 ## Where digital tools help most
 
-Digital interventions are most convincing when the behaviour is frequent, observable and responsive to timely feedback. Physical activity is a good example. It happens daily, can be measured by phones or wearables, and is often sensitive to cues, goals and feedback. A 2025 systematic review and meta-analysis of standalone digital behaviour-change interventions for adults found that these interventions can support physical activity, while also noting variability across interventions and outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12223045/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEngagement and attrition in digital mental health</span><span class="citation-popover-snippet">PMCEngagement and attrition in digital mental health</span></span></span>
+Digital interventions are most convincing when the behaviour is frequent, observable and responsive to timely feedback. Physical activity is a good example. It happens daily, can be measured by phones or wearables, and is often sensitive to cues, goals and feedback. A 2025 systematic review and meta-analysis of standalone digital behaviour-change interventions for adults found that these interventions can support physical activity, while also noting variability across interventions and outcomes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12223045/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEngagement and attrition in digital mental health</span><span class="citation-popover-snippet">PMCEngagement and attrition in digital mental health</span></span></span>
 
 The same logic applies beyond exercise. Digital tools can help with medication routines, study sessions, spending awareness, sleep timing, alcohol reduction, smoking cessation preparation, food logging or mood tracking when the user needs repeated support in ordinary moments. The advantage is scale and timing: an app can be available at 7.30 am, after a meeting, in a supermarket queue or just before bedtime, when a book, therapist, coach or course is not present.
 
-A particularly important development is the just-in-time adaptive intervention, often shortened to [JITAI]({{ 'jitai/' | relative_url }}). A JITAI adapts the type, timing or intensity of support as a person’s status or context changes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12223045/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEngagement and attrition in digital mental health</span><span class="citation-popover-snippet">PMCEngagement and attrition in digital mental health</span></span></span> In plain terms, it tries to intervene when support is most likely to be useful: not always, not randomly, but when the person may be receptive or at risk of slipping. Smartphones and wearables make this possible because they can capture time, location, activity, sleep, heart rate, app use or self-reported mood, although the quality and ethics of such data use vary.
+A particularly important development is the just-in-time adaptive intervention, often shortened to [JITAI]({{ 'jitai/' | relative_url }}). A JITAI adapts the type, timing or intensity of support as a person’s status or context changes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12223045/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEngagement and attrition in digital mental health</span><span class="citation-popover-snippet">PMCEngagement and attrition in digital mental health</span></span></span> In plain terms, it tries to intervene when support is most likely to be useful: not always, not randomly, but when the person may be receptive or at risk of slipping. Smartphones and wearables make this possible because they can capture time, location, activity, sleep, heart rate, app use or self-reported mood, although the quality and ethics of such data use vary.
 
 For self improvement, this points to a practical rule: digital tools are strongest when they reduce friction in a specific behaviour loop. A study app that blocks distracting sites during a planned writing block may be more useful than a motivational quote app. A sleep tool that helps someone set a wind-down alarm and reduce late-night screen use may be more useful than one that simply produces a complicated sleep score. The most effective feature is often the one that changes the next small action.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a-Illustration-2-dark.svg" | relative_url }}" alt="Digital Tools illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where apps fail
 
-The central weakness of digital self-improvement is not a lack of features. It is disengagement. Many people download an app with good intentions, use it intensely for a few days, and then abandon it. Digital mental health research repeatedly identifies low engagement and attrition as major barriers to real-world benefit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12223045/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEngagement and attrition in digital mental health</span><span class="citation-popover-snippet">PMCEngagement and attrition in digital mental health</span></span></span> A 2024 study of lifestyle behaviour apps examined abandonment across physical activity, diet, alcohol, smoking and mental health apps, focusing on how long people used them and why they stopped in everyday conditions rather than ideal trial settings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jmir.org/2024/1/e56897/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">Open source on jmir.org.</span></span></span>
+The central weakness of digital self-improvement is not a lack of features. It is disengagement. Many people download an app with good intentions, use it intensely for a few days, and then abandon it. Digital mental health research repeatedly identifies low engagement and attrition as major barriers to real-world benefit.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12223045/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCEngagement and attrition in digital mental health</span><span class="citation-popover-snippet">PMCEngagement and attrition in digital mental health</span></span></span> A 2024 study of lifestyle behaviour apps examined abandonment across physical activity, diet, alcohol, smoking and mental health apps, focusing on how long people used them and why they stopped in everyday conditions rather than ideal trial settings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jmir.org/2024/1/e56897/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">Open source on jmir.org.</span></span></span>
 
-Apps also fail when they mistake measurement for change. Tracking calories, steps, sleep or screen time can be useful, but more data does not automatically create better behaviour. For some users, rigid targets and constant measurement can produce anxiety, demotivation or obsessive checking. Reports on fitness and wellness app use have raised concerns about unrealistic targets, excessive tracking and distress around failure, especially when goals are algorithmic rather than clinically or personally appropriate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.com/life-style/health-fitness/article/fitness-apps-trackers-negative-health-weight-loss-advice-bntzt83t0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.com">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.com</span><span class="citation-popover-snippet">Moreover, period and sleep tracking apps are also questioned for their scientific reliability, with some offering misleading advice that...</span></span></span>
+Apps also fail when they mistake measurement for change. Tracking calories, steps, sleep or screen time can be useful, but more data does not automatically create better behaviour. For some users, rigid targets and constant measurement can produce anxiety, demotivation or obsessive checking. Reports on fitness and wellness app use have raised concerns about unrealistic targets, excessive tracking and distress around failure, especially when goals are algorithmic rather than clinically or personally appropriate.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.com/life-style/health-fitness/article/fitness-apps-trackers-negative-health-weight-loss-advice-bntzt83t0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.com">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.com</span><span class="citation-popover-snippet">Moreover, period and sleep tracking apps are also questioned for their scientific reliability, with some offering misleading advice that...</span></span></span>
 
-Another common failure is poor personalisation. Many apps call themselves personalised because they use the user’s name, show a score or adjust a target. True behaviour-change personalisation is harder. It asks: what is the person trying to do, what is blocking them, when are they receptive, what support do they trust, and what would count as a realistic next step? JITAI research is promising partly because it takes this context seriously, but it also brings harder questions about data quality, privacy, bias and over-intervention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1227443/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Another common failure is poor personalisation. Many apps call themselves personalised because they use the user’s name, show a score or adjust a target. True behaviour-change personalisation is harder. It asks: what is the person trying to do, what is blocking them, when are they receptive, what support do they trust, and what would count as a realistic next step? JITAI research is promising partly because it takes this context seriously, but it also brings harder questions about data quality, privacy, bias and over-intervention.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1227443/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Privacy is not a side issue. Many behaviour-change apps collect sensitive data: mood, sleep, diet, fertility, location, spending, social contact, medication or therapy-related information. The BetterHelp case showed why this matters. The US Federal Trade Commission alleged that BetterHelp shared sensitive health data with third parties for advertising after promising to keep it private; the final order banned the company from sharing sensitive health data for advertising and required a $7.8 million payment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/enforcement/refunds/betterhelp-refunds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">Federal Trade Commission Better Help Refunds</span><span class="citation-popover-snippet">Federal Trade Commission Better Help Refunds</span></span></span> For a self-improvement tool, trust is part of the intervention. If the app makes the user disclose intimate information, its privacy practices affect whether it is safe to use.
+Privacy is not a side issue. Many behaviour-change apps collect sensitive data: mood, sleep, diet, fertility, location, spending, social contact, medication or therapy-related information. The BetterHelp case showed why this matters. The US Federal Trade Commission alleged that BetterHelp shared sensitive health data with third parties for advertising after promising to keep it private; the final order banned the company from sharing sensitive health data for advertising and required a $7.8 million payment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/enforcement/refunds/betterhelp-refunds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">Federal Trade Commission Better Help Refunds</span><span class="citation-popover-snippet">Federal Trade Commission Better Help Refunds</span></span></span> For a self-improvement tool, trust is part of the intervention. If the app makes the user disclose intimate information, its privacy practices affect whether it is safe to use.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TJXUkSPNihc" title="BCT workshop 2021 Session 1: The Behaviour Change Technique Taxonomy (BCTTv1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TJXUkSPNihc" target="_blank" rel="noopener noreferrer">BCT workshop 2021 Session 1: The Behaviour Change Technique Taxonomy (BCTTv1)</a></p><p class="youtube-embed-meta">Channel: UCL Centre for Behaviour Change &middot; Views: 6.9K &middot; Uploaded: September 2021 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TJXUkSPNihc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TJXUkSPNihc">Open on YouTube</a></p></div></div></div>
 
@@ -575,208 +575,208 @@ A strong app usually has several of these qualities:
 
 </div>
 
-NICE’s guidance is useful here because it focuses on design and implementation, not app enthusiasm. It recommends using evidence-based behaviour-change techniques and considering how digital interventions will be accessed, tailored and maintained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nice.org.uk/guidance/ng183/resources/behaviour-change-digital-and-mobile-health-interventions-pdf-66142020002245" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nice.org.uk">[NICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nice.org.uk</span><span class="citation-popover-title">behaviour change digital and mobile health interventions pdf 66142020002245</span><span class="citation-popover-snippet">behaviour change digital and mobile health interventions pdf 66142020002245</span></span></span> That is a better standard than asking whether an app feels motivating on day one.
+NICE’s guidance is useful here because it focuses on design and implementation, not app enthusiasm. It recommends using evidence-based behaviour-change techniques and considering how digital interventions will be accessed, tailored and maintained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nice.org.uk/guidance/ng183/resources/behaviour-change-digital-and-mobile-health-interventions-pdf-66142020002245" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nice.org.uk">[NICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nice.org.uk</span><span class="citation-popover-title">behaviour change digital and mobile health interventions pdf 66142020002245</span><span class="citation-popover-snippet">behaviour change digital and mobile health interventions pdf 66142020002245</span></span></span> That is a better standard than asking whether an app feels motivating on day one.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a-Illustration-3-dark.svg" | relative_url }}" alt="Digital Tools illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The best role for digital tools in self improvement
 
 Digital behaviour-change interventions are not replacements for sleep, relationships, healthcare, money, safe housing or realistic workloads. They are support systems for behaviours that can be cued, tracked, practised and adjusted. Their promise is strongest when they make a useful behaviour easier at the exact point where intention usually breaks down.
 
-The most reliable way to use them is to choose the behaviour first and the tool second. A person who wants to move more may need a walking prompt, a simple goal and feedback from a step counter. A person who wants to study may need website blocking, timed work sessions and a visible plan. A person trying to improve mood may need guided exercises, symptom tracking and human support rather than a chatbot that overpromises therapy. Recent reviews of digital mental health apps suggest that apps can improve outcomes in trials, but engagement, safety, persuasive design and real-world retention remain central problems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41746-025-01567-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
+The most reliable way to use them is to choose the behaviour first and the tool second. A person who wants to move more may need a walking prompt, a simple goal and feedback from a step counter. A person who wants to study may need website blocking, timed work sessions and a visible plan. A person trying to improve mood may need guided exercises, symptom tracking and human support rather than a chatbot that overpromises therapy. Recent reviews of digital mental health apps suggest that apps can improve outcomes in trials, but engagement, safety, persuasive design and real-world retention remain central problems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41746-025-01567-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
 
 The useful mental model is not “find the perfect app”. It is “build a better behaviour loop”. Digital tools earn their place when they make that loop easier to start, easier to notice, easier to repeat and easier to repair after disruption. When they merely add dashboards, pressure, data extraction or guilt, they are not self improvement that works; they are self-monitoring without support.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eFRiuWirxPE" title="Elina Eriksson - Digital Behavior Change Interventions to Catalyze More Sustainable Practices" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eFRiuWirxPE" target="_blank" rel="noopener noreferrer">Elina Eriksson - Digital Behavior Change Interventions to Catalyze More Sustainable Practices</a></p><p class="youtube-embed-meta">Channel: Digital Futures: Research Hub for Digitalization &middot; Views: 238 &middot; Uploaded: April 2021 &middot; Length: 39 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eFRiuWirxPE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eFRiuWirxPE">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Makes a Self Improvement App Useful?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Makes a Self Improvement App Useful?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Explains core behaviour-change mechanisms used by many apps.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Explains core behaviour-change mechanisms used by many apps.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hooked on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=R42aBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Hooked" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hooked">Hooked</a>
-        </h4>
-        <p class="fr-book-author">By Nir Eyal</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hooked on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=R42aBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Hooked" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hooked">Hooked</a>
+</h4>
+<p class="fr-book-author">By Nir Eyal</p>
         
-        <p class="fr-book-desc">Explains habit-forming product design.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains habit-forming product design.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
-        </h4>
-        <p class="fr-book-author">By B. J. Fogg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
+</h4>
+<p class="fr-book-author">By B. J. Fogg</p>
         
-        <p class="fr-book-desc">Directly relevant to digital behaviour interventions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to digital behaviour interventions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Carol S. Dweck</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
-        <p class="fr-book-desc">Addresses beliefs and learning approaches that support improvement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
+</h4>
+<p class="fr-book-author">By Carol S. Dweck</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
+<p class="fr-book-desc">Addresses beliefs and learning approaches that support improvement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hooked&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hooked</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hooked&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hooked</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="what-makes-a-self-improvement-app-useful-fitness-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2026 NEW Fit@bit Smart Watch Activity Tracker Fitness Watches Heart Rate Monitor"><img src="https://i.ebayimg.com/images/g/Da0AAeSwUdhp5tYK/s-l225.jpg" alt="Listing image for 2026 NEW Fit@bit Smart Watch Activity Tracker Fitness Watches Heart Rate Monitor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="what-makes-a-self-improvement-app-useful-fitness-tracker" target="_blank" rel="sponsored noopener noreferrer">2026 NEW Fit@bit Smart Watch Activity Tracker Fitness Watches Heart Rate Monitor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="what-makes-a-self-improvement-app-useful-fitness-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: fitness tracker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="what-makes-a-self-improvement-app-useful-fitness-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="what-makes-a-self-improvement-app-useful-fitness-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2026 NEW Fit@bit Smart Watch Activity Tracker Fitness Watches Heart Rate Monitor"><img src="https://i.ebayimg.com/images/g/Da0AAeSwUdhp5tYK/s-l225.jpg" alt="Listing image for 2026 NEW Fit@bit Smart Watch Activity Tracker Fitness Watches Heart Rate Monitor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="what-makes-a-self-improvement-app-useful-fitness-tracker" target="_blank" rel="sponsored noopener noreferrer">2026 NEW Fit@bit Smart Watch Activity Tracker Fitness Watches Heart Rate Monitor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="what-makes-a-self-improvement-app-useful-fitness-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness tracker">Search<span data-ebay-domain-label>eBay.co.uk</span>: fitness tracker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="what-makes-a-self-improvement-app-useful-fitness-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="what-makes-a-self-improvement-app-useful-fitness-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fitbit Versa 4 Fitness Tracker Smartwatch Heart Rate Black Sleep Sport Monitor"><img src="https://i.ebayimg.com/images/g/wV8AAeSwJCdpkaOt/s-l225.jpg" alt="Listing image for Fitbit Versa 4 Fitness Tracker Smartwatch Heart Rate Black Sleep Sport Monitor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="what-makes-a-self-improvement-app-useful-fitness-tracker" target="_blank" rel="sponsored noopener noreferrer">Fitbit Versa 4 Fitness Tracker Smartwatch Heart Rate Black Sleep Sport Monitor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="what-makes-a-self-improvement-app-useful-fitness-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: fitness tracker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="what-makes-a-self-improvement-app-useful-fitness-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="what-makes-a-self-improvement-app-useful-fitness-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fitbit Versa 4 Fitness Tracker Smartwatch Heart Rate Black Sleep Sport Monitor"><img src="https://i.ebayimg.com/images/g/wV8AAeSwJCdpkaOt/s-l225.jpg" alt="Listing image for Fitbit Versa 4 Fitness Tracker Smartwatch Heart Rate Black Sleep Sport Monitor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="what-makes-a-self-improvement-app-useful-fitness-tracker" target="_blank" rel="sponsored noopener noreferrer">Fitbit Versa 4 Fitness Tracker Smartwatch Heart Rate Black Sleep Sport Monitor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="what-makes-a-self-improvement-app-useful-fitness-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness tracker">Search<span data-ebay-domain-label>eBay.co.uk</span>: fitness tracker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="what-makes-a-self-improvement-app-useful-fitness-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="what-makes-a-self-improvement-app-useful-fitness-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Xiaomi Smart Band 9 Activity Tracker - Heart Rate, Blood Oxygen Monitor, Black"><img src="https://i.ebayimg.com/images/g/RqMAAeSwAb5qJ801/s-l225.jpg" alt="Listing image for Xiaomi Smart Band 9 Activity Tracker - Heart Rate, Blood Oxygen Monitor, Black" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="what-makes-a-self-improvement-app-useful-fitness-tracker" target="_blank" rel="sponsored noopener noreferrer">Xiaomi Smart Band 9 Activity Tracker - Heart Rate, Blood Oxygen Monitor, Black</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="what-makes-a-self-improvement-app-useful-fitness-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: fitness tracker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="what-makes-a-self-improvement-app-useful-fitness-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="what-makes-a-self-improvement-app-useful-fitness-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Xiaomi Smart Band 9 Activity Tracker - Heart Rate, Blood Oxygen Monitor, Black"><img src="https://i.ebayimg.com/images/g/RqMAAeSwAb5qJ801/s-l225.jpg" alt="Listing image for Xiaomi Smart Band 9 Activity Tracker - Heart Rate, Blood Oxygen Monitor, Black" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="what-makes-a-self-improvement-app-useful-fitness-tracker" target="_blank" rel="sponsored noopener noreferrer">Xiaomi Smart Band 9 Activity Tracker - Heart Rate, Blood Oxygen Monitor, Black</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="what-makes-a-self-improvement-app-useful-fitness-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness tracker">Search<span data-ebay-domain-label>eBay.co.uk</span>: fitness tracker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="what-makes-a-self-improvement-app-useful-fitness-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="what-makes-a-self-improvement-app-useful-fitness-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Trausi Smart Watch Model TG08 Fitness Tracker Sleep Monitoring &amp; Steps Black"><img src="https://i.ebayimg.com/images/g/Kj8AAeSwq4Fpymsk/s-l225.jpg" alt="Listing image for Trausi Smart Watch Model TG08 Fitness Tracker Sleep Monitoring &amp; Steps Black" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="what-makes-a-self-improvement-app-useful-fitness-tracker" target="_blank" rel="sponsored noopener noreferrer">Trausi Smart Watch Model TG08 Fitness Tracker Sleep Monitoring &amp; Steps Black</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="what-makes-a-self-improvement-app-useful-fitness-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: fitness tracker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="what-makes-a-self-improvement-app-useful-fitness-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="what-makes-a-self-improvement-app-useful-fitness-tracker" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="what-makes-a-self-improvement-app-useful-fitness-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Trausi Smart Watch Model TG08 Fitness Tracker Sleep Monitoring &amp; Steps Black"><img src="https://i.ebayimg.com/images/g/Kj8AAeSwq4Fpymsk/s-l225.jpg" alt="Listing image for Trausi Smart Watch Model TG08 Fitness Tracker Sleep Monitoring &amp; Steps Black" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="what-makes-a-self-improvement-app-useful-fitness-tracker" target="_blank" rel="sponsored noopener noreferrer">Trausi Smart Watch Model TG08 Fitness Tracker Sleep Monitoring &amp; Steps Black</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="what-makes-a-self-improvement-app-useful-fitness-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness tracker">Search<span data-ebay-domain-label>eBay.co.uk</span>: fitness tracker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="what-makes-a-self-improvement-app-useful-fitness-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-makes-a-self-improvement-app-useful-fitness-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker" data-ebay-reference="what-makes-a-self-improvement-app-useful-fitness-tracker" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -792,7 +792,7 @@ The useful mental model is not “find the perfect app”. It is “build a bett
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -812,7 +812,7 @@ The useful mental model is not “find the perfect app”. It is “build a bett
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -844,7 +844,7 @@ The useful mental model is not “find the perfect app”. It is “build a bett
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -896,7 +896,7 @@ The useful mental model is not “find the perfect app”. It is “build a bett
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -941,7 +941,7 @@ The useful mental model is not “find the perfect app”. It is “build a bett
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -982,198 +982,198 @@ The useful mental model is not “find the perfect app”. It is “build a bett
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/news/item/07-11-2023-who-publishes-the-second-edition-of-the-classification-of-digital-interventions--services-and-applications-in-health" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news/item/07-11-2023-who-publishes-the-second-edition-of-the-classification-of-digital-interventions--services-and-applications-in-health</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationWHO publishes the second edition of the Classification...WHO publishes the second edition of the Classification...</p></details>
+   Link:<a href="https://www.who.int/news/item/07-11-2023-who-publishes-the-second-edition-of-the-classification-of-digital-interventions--services-and-applications-in-health" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/news/item/07-11-2023-who-publishes-the-second-edition-of-the-classification-of-digital-interventions--services-and-applications-in-health</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>World Health OrganizationWHO publishes the second edition of the Classification...WHO publishes the second edition of the Classification...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nice.org.uk  
-   Link: <a href="https://www.nice.org.uk/guidance/ng183/chapter/Recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/ng183/chapter/Recommendations</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour change: digital and mobile health interventions7 Oct 2020 — When designing digital and mobile health interventions, use evi...</p></details>
+   Link:<a href="https://www.nice.org.uk/guidance/ng183/chapter/Recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/ng183/chapter/Recommendations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour change: digital and mobile health interventions7 Oct 2020 — When designing digital and mobile health interventions, use evi...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nice.org.uk  
    Title: behaviour change digital and mobile health interventions pdf 66142020002245  
-   Link: <a href="https://www.nice.org.uk/guidance/ng183/resources/behaviour-change-digital-and-mobile-health-interventions-pdf-66142020002245" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/ng183/resources/behaviour-change-digital-and-mobile-health-interventions-pdf-66142020002245</a>  
+   Link:<a href="https://www.nice.org.uk/guidance/ng183/resources/behaviour-change-digital-and-mobile-health-interventions-pdf-66142020002245" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/ng183/resources/behaviour-change-digital-and-mobile-health-interventions-pdf-66142020002245</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10545861/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10545861/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10545861/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10545861/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12259960/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12259960/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12259960/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12259960/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5364076/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5364076/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5364076/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5364076/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCEngagement and attrition in digital mental health  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12223045/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12223045/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12223045/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12223045/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: jmir.org  
-   Link: <a href="https://www.jmir.org/2024/1/e56897/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e56897/</a>  
+   Link:<a href="https://www.jmir.org/2024/1/e56897/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e56897/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41746-025-01567-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41746-025-01567-5</a>  
+   Link:<a href="https://www.nature.com/articles/s41746-025-01567-5" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41746-025-01567-5</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: mental.jmir.org  
-   Link: <a href="https://mental.jmir.org/2026/1/e84754" target="_blank" rel="noopener noreferrer nofollow">https://mental.jmir.org/2026/1/e84754</a>  
+   Link:<a href="https://mental.jmir.org/2026/1/e84754" target="_blank" rel="noopener noreferrer nofollow">https://mental.jmir.org/2026/1/e84754</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: formative.jmir.org  
-   Link: <a href="https://formative.jmir.org/2022/2/e33603/" target="_blank" rel="noopener noreferrer nofollow">https://formative.jmir.org/2022/2/e33603/</a>  
+   Link:<a href="https://formative.jmir.org/2022/2/e33603/" target="_blank" rel="noopener noreferrer nofollow">https://formative.jmir.org/2022/2/e33603/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: mhealth.jmir.org  
-   Link: <a href="https://mhealth.jmir.org/2020/3/e17046/" target="_blank" rel="noopener noreferrer nofollow">https://mhealth.jmir.org/2020/3/e17046/</a>  
+   Link:<a href="https://mhealth.jmir.org/2020/3/e17046/" target="_blank" rel="noopener noreferrer nofollow">https://mhealth.jmir.org/2020/3/e17046/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: jmir.org  
-   Link: <a href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e54375/</a>  
+   Link:<a href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e54375/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: mental.jmir.org  
-   Link: <a href="https://mental.jmir.org/2024/1/e57577/" target="_blank" rel="noopener noreferrer nofollow">https://mental.jmir.org/2024/1/e57577/</a>  
+   Link:<a href="https://mental.jmir.org/2024/1/e57577/" target="_blank" rel="noopener noreferrer nofollow">https://mental.jmir.org/2024/1/e57577/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: mhealth.jmir.org  
-   Link: <a href="https://mhealth.jmir.org/2019/12/e15707/" target="_blank" rel="noopener noreferrer nofollow">https://mhealth.jmir.org/2019/12/e15707/</a>  
+   Link:<a href="https://mhealth.jmir.org/2019/12/e15707/" target="_blank" rel="noopener noreferrer nofollow">https://mhealth.jmir.org/2019/12/e15707/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: mhealth.jmir.org  
-   Link: <a href="https://mhealth.jmir.org/2022/9/e33247" target="_blank" rel="noopener noreferrer nofollow">https://mhealth.jmir.org/2022/9/e33247</a>  
+   Link:<a href="https://mhealth.jmir.org/2022/9/e33247" target="_blank" rel="noopener noreferrer nofollow">https://mhealth.jmir.org/2022/9/e33247</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: jmir.org  
-   Link: <a href="https://www.jmir.org/themes/803/2019-engagement-with-and-adherence-to-digital-health-interventions-law-of-attrition" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/themes/803/2019-engagement-with-and-adherence-to-digital-health-interventions-law-of-attrition</a>  
+   Link:<a href="https://www.jmir.org/themes/803/2019-engagement-with-and-adherence-to-digital-health-interventions-law-of-attrition" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/themes/803/2019-engagement-with-and-adherence-to-digital-health-interventions-law-of-attrition</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: jmir.org  
-   Link: <a href="https://www.jmir.org/2026/1/e73388" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2026/1/e73388</a>  
+   Link:<a href="https://www.jmir.org/2026/1/e73388" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2026/1/e73388</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: jmir.org  
-   Link: <a href="https://www.jmir.org/2024/1/e48168/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e48168/</a>  
+   Link:<a href="https://www.jmir.org/2024/1/e48168/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e48168/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: mhealth.jmir.org  
-   Link: <a href="https://mhealth.jmir.org/2022/11/e37234/" target="_blank" rel="noopener noreferrer nofollow">https://mhealth.jmir.org/2022/11/e37234/</a>  
+   Link:<a href="https://mhealth.jmir.org/2022/11/e37234/" target="_blank" rel="noopener noreferrer nofollow">https://mhealth.jmir.org/2022/11/e37234/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: betterhelp.com  
-   Link: <a href="https://www.betterhelp.com/ftc-settlement/" target="_blank" rel="noopener noreferrer nofollow">https://www.betterhelp.com/ftc-settlement/</a>  
+   Link:<a href="https://www.betterhelp.com/ftc-settlement/" target="_blank" rel="noopener noreferrer nofollow">https://www.betterhelp.com/ftc-settlement/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41746-025-01778-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41746-025-01778-w</a>  
+   Link:<a href="https://www.nature.com/articles/s41746-025-01778-w" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41746-025-01778-w</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/nature-index/topics/l4/digital-behavior-change-interventions-for-health-management" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/digital-behavior-change-interventions-for-health-management</a>  
+   Link:<a href="https://www.nature.com/nature-index/topics/l4/digital-behavior-change-interventions-for-health-management" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/digital-behavior-change-interventions-for-health-management</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41746-019-0093-1" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41746-019-0093-1</a>  
+   Link:<a href="https://www.nature.com/articles/s41746" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41746</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23512568/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8935 — &quot;BCT taxonomy v1,&quot; an extensive taxonomy...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23512568/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8935 — &quot;BCT taxonomy v1,&quot; an extensive taxonomy...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1227443/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1227443/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1227443/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1227443/full</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: thetimes.com  
-   Link: <a href="https://www.thetimes.com/life-style/health-fitness/article/fitness-apps-trackers-negative-health-weight-loss-advice-bntzt83t0" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/life-style/health-fitness/article/fitness-apps-trackers-negative-health-weight-loss-advice-bntzt83t0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Moreover, period and sleep tracking apps are also questioned for their scientific reliability, with some offering misleading advice that...</p></details>
+   Link:<a href="https://www.thetimes.com/life-style/health-fitness/article/fitness-apps-trackers-negative-health-weight-loss-advice-bntzt83t0" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/life-style/health-fitness/article/fitness-apps-trackers-negative-health-weight-loss-advice-bntzt83t0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Moreover, period and sleep tracking apps are also questioned for their scientific reliability, with some offering misleading advice that...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: frontiersin.org  
    Title: Frontiers Beyond the current state of just-in-time adaptive  
-   Link: <a href="https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1460167/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1460167/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1460167/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1460167/full</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: ftc.gov  
    Title: Federal Trade Commission Better Help Refunds  
-   Link: <a href="https://www.ftc.gov/enforcement/refunds/betterhelp-refunds" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/enforcement/refunds/betterhelp-refunds</a>  
+   Link:<a href="https://www.ftc.gov/enforcement/refunds/betterhelp-refunds" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/enforcement/refunds/betterhelp-refunds</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/news-events/news/press-releases/2023/07/ftc-gives-final-approval-order-banning-betterhelp-sharing-sensitive-health-data-advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2023/07/ftc-gives-final-approval-order-banning-betterhelp-sharing-sensitive-health-data-advertising</a>  
+   Link:<a href="https://www.ftc.gov/news-events/news/press-releases/2023/07/ftc-gives-final-approval-order-banning-betterhelp-sharing-sensitive-health-data-advertising" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2023/07/ftc-gives-final-approval-order-banning-betterhelp-sharing-sensitive-health-data-advertising</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/37794916/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/37794916/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/37794916/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/37794916/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/39661976/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/39661976/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/39661976/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/39661976/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/40458474/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/40458474/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/40458474/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/40458474/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Nice" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nice</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Nice" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nice</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: research-collection.ethz.ch  
-   Link: <a href="https://www.research-collection.ethz.ch/bitstreams/22386a05-8c8f-4df3-a8df-2c9bfb551387/download" target="_blank" rel="noopener noreferrer nofollow">https://www.research-collection.ethz.ch/bitstreams/22386a05-8c8f-4df3-a8df-2c9bfb551387/download</a>  
+   Link:<a href="https://www.research-collection.ethz.ch/bitstreams/22386a05-8c8f-4df3-a8df-2c9bfb551387/download" target="_blank" rel="noopener noreferrer nofollow">https://www.research-collection.ethz.ch/bitstreams/22386a05-8c8f-4df3-a8df-2c9bfb551387/download</a>  
 
 ### Additional References
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK327619/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK327619/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Michie · 2015 · Cited by 799 — The study found that the developed taxonomy (Behaviour Change Technique Taxonomy version 1) provi...</p></details>
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK327619/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK327619/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by S Michie · 2015 · Cited by 799 — The study found that the developed taxonomy (Behaviour Change Technique Taxonomy version 1) provi...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
    Title: Elina Eriksson  
-   Link: <a href="https://www.youtube.com/watch?v=eFRiuWirxPE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eFRiuWirxPE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BCT workshop 2021 Session 1: The Behaviour Change Technique Taxonomy (BCTTv1)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=eFRiuWirxPE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eFRiuWirxPE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BCT workshop 2021 Session 1: The Behaviour Change Technique Taxonomy (BCTTv1)...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
    Title: Digital Behaviour Change Interventions to Break and Form Habits  
-   Link: <a href="https://www.youtube.com/watch?v=83_ahNFFt1M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=83_ahNFFt1M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Elina Eriksson - Digital Behavior Change Interventions to Catalyze More Sustainable Practices...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=83_ahNFFt1M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=83_ahNFFt1M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Elina Eriksson - Digital Behavior Change Interventions to Catalyze More Sustainable Practices...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=TJXUkSPNihc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TJXUkSPNihc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is the Human Behaviour-Change Project? Part 1...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TJXUkSPNihc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TJXUkSPNihc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is the Human Behaviour-Change Project? Part 1...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/legal-library/browse/cases-proceedings/2023169-betterhelp-inc-matter" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/legal-library/browse/cases-proceedings/2023169-betterhelp-inc-matter</a>  
+   Link:<a href="https://www.ftc.gov/legal-library/browse/cases-proceedings/2023169-betterhelp-inc-matter" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/legal-library/browse/cases-proceedings/2023169-betterhelp-inc-matter</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/news-events/news/press-releases/2024/05/betterhelp-customers-will-begin-receiving-notices-about-refunds-related-2023-privacy-settlement-ftc" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2024/05/betterhelp-customers-will-begin-receiving-notices-about-refunds-related-2023-privacy-settlement-ftc</a>  
+   Link:<a href="https://www.ftc.gov/news-events/news/press-releases/2024/05/betterhelp-customers-will-begin-receiving-notices-about-refunds-related-2023-privacy-settlement-ftc" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2024/05/betterhelp-customers-will-begin-receiving-notices-about-refunds-related-2023-privacy-settlement-ftc</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: ftc.gov  
-   Link: <a href="https://www.ftc.gov/news-events/news/press-releases/2023/03/ftc-ban-betterhelp-revealing-consumers-data-including-sensitive-mental-health-information-facebook" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2023/03/ftc-ban-betterhelp-revealing-consumers-data-including-sensitive-mental-health-information-facebook</a>  
+   Link:<a href="https://www.ftc.gov/news-events/news/press-releases/2023/03/ftc-ban-betterhelp-revealing-consumers-data-including-sensitive-mental-health-information-facebook" target="_blank" rel="noopener noreferrer nofollow">https://www.ftc.gov/news-events/news/press-releases/2023/03/ftc-ban-betterhelp-revealing-consumers-data-including-sensitive-mental-health-information-facebook</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/324765446_Behavior_Change_Techniques_Used_in_Mobile_Applications_Targeting_Physical_Activity_A_Systematic_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/324765446_Behavior_Change_Techniques_Used_in_Mobile_Applications_Targeting_Physical_Activity_A_Systematic_Review</a>  
+   Link:<a href="https://www.researchgate.net/publication/324765446_Behavior_Change_Techniques_Used_in_Mobile_Applications_Targeting_Physical_Activity_A_Systematic_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/324765446_Behavior_Change_Techniques_Used_in_Mobile_Applications_Targeting_Physical_Activity_A_Systematic_Review</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/393328522_Engagement_and_attrition_in_digital_mental_health_current_challenges_and_potential_solutions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/393328522_Engagement_and_attrition_in_digital_mental_health_current_challenges_and_potential_solutions</a>  
+   Link:<a href="https://www.researchgate.net/publication/393328522_Engagement_and_attrition_in_digital_mental_health_current_challenges_and_potential_solutions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/393328522_Engagement_and_attrition_in_digital_mental_health_current_challenges_and_potential_solutions</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions</a>
+   Link:<a href="https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions</a>

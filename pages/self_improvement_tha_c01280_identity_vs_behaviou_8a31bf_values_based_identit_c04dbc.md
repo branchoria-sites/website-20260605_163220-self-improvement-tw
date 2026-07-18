@@ -268,10 +268,10 @@ image: /assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_va
 
 ## Introduction
 
-Change is easier to sustain when it feels like an expression of who you want to be rather than a response to pressure. Within the broader debate between [identity]({{ 'identity/' | relative_url }}) change and behaviour design, one of the most important distinctions is not whether identity matters, but what kind of identity is being built. An identity rooted in chosen values tends to support persistence, learning and adjustment. An identity built mainly around approval, guilt, status or obligation often creates tension, fragility and burnout. Research on [motivation]({{ 'motivation/' | relative_url }}) consistently finds that people maintain behaviour more effectively when they experience autonomy, competence and meaningful connection rather than feeling controlled by external demands. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Self-determination_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Self-Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Self-determination theory</span></span></span>
+Change is easier to sustain when it feels like an expression of who you want to be rather than a response to pressure. Within the broader debate between [identity]({{ 'identity/' | relative_url }}) change and behaviour design, one of the most important distinctions is not whether identity matters, but what kind of identity is being built. An identity rooted in chosen values tends to support persistence, learning and adjustment. An identity built mainly around approval, guilt, status or obligation often creates tension, fragility and burnout. Research on [motivation]({{ 'motivation/' | relative_url }}) consistently finds that people maintain behaviour more effectively when they experience autonomy, competence and meaningful connection rather than feeling controlled by external demands.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Self-determination_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Self-Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Self-determination theory</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_values_based_identit_c04dbc-Illustration-1-dark.svg" | relative_url }}" alt="Chosen values illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_values_based_identit_c04dbc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_identity_vs_behaviou_8a31bf_values_based_identit_c04dbc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This does not mean external influences are irrelevant. Social expectations, incentives and responsibilities shape behaviour every day. The key question is whether those influences become personally endorsed. Self-improvement that works usually involves translating outside goals into reasons that feel genuinely one's own. When that happens, behaviour becomes less of a performance and more of a reflection of values. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-determination theory and the facilitation of intrinsic...The findings have led to the postulate of three innate psychological...</span></span></span>
+This does not mean external influences are irrelevant. Social expectations, incentives and responsibilities shape behaviour every day. The key question is whether those influences become personally endorsed. Self-improvement that works usually involves translating outside goals into reasons that feel genuinely one's own. When that happens, behaviour becomes less of a performance and more of a reflection of values.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-determination theory and the facilitation of intrinsic...The findings have led to the postulate of three innate psychological...</span></span></span>
 
 ## Why chosen values create stronger identities
 
@@ -284,17 +284,17 @@ Consider two people who start exercising:
 
 The behaviour may look identical at first. Both go to the gym three times a week. Yet the underlying motivation differs. The first person is responding primarily to pressure. The second is acting in line with a chosen value.
 
-According to Self-Determination Theory, motivation exists on a spectrum. At one end are behaviours driven by [rewards]({{ 'rewards/' | relative_url }}), punishment, approval or pressure. At the other are behaviours that people personally value and integrate into their sense of self. The more fully a behaviour becomes aligned with personal values, the more autonomous and sustainable it tends to become. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Self-determination_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Self-Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Self-determination theory</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://bridgetolearning.stanford.edu/menu/internalization/regulatory-styles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bridgetolearning.stanford.edu">[Bridging to Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bridgetolearning.stanford.edu</span><span class="citation-popover-snippet">Bridging to LearningRegulatory StylesIntegrated regulation reflects the fullest internalization and most autonomous and self-endorsed for...</span></span></span>
+According to Self-Determination Theory, motivation exists on a spectrum. At one end are behaviours driven by [rewards]({{ 'rewards/' | relative_url }}), punishment, approval or pressure. At the other are behaviours that people personally value and integrate into their sense of self. The more fully a behaviour becomes aligned with personal values, the more autonomous and sustainable it tends to become.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Self-determination_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Self-Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Self-determination theory</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://bridgetolearning.stanford.edu/menu/internalization/regulatory-styles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bridgetolearning.stanford.edu">[Bridging to Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bridgetolearning.stanford.edu</span><span class="citation-popover-snippet">Bridging to LearningRegulatory StylesIntegrated regulation reflects the fullest internalization and most autonomous and self-endorsed for...</span></span></span>
 
 This distinction helps explain why some habits survive difficult periods while others collapse. When motivation depends mainly on external validation, setbacks threaten the reason for continuing. When motivation is connected to values, setbacks are often interpreted as temporary obstacles rather than evidence that the effort was meaningless.
 
-Research on identity and self-regulation suggests that identity becomes especially powerful when it increases the perceived value of goal-relevant actions. People are more willing to invest effort when behaviour feels connected to who they believe they are and what matters to them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6377081/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Finding the “self” in self-regulation: The identity-value modelby ET Berkman · 2017 · Cited by 257 — The overarching prediction of the...</span></span></span>
+Research on identity and self-regulation suggests that identity becomes especially powerful when it increases the perceived value of goal-relevant actions. People are more willing to invest effort when behaviour feels connected to who they believe they are and what matters to them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6377081/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Finding the “self” in self-regulation: The identity-value modelby ET Berkman · 2017 · Cited by 257 — The overarching prediction of the...</span></span></span>
 
 ## Autonomy as a safeguard against pressure
 
 ### The difference between choice and compliance
 
-Autonomy does not mean doing whatever feels pleasant in the moment. In psychological research, autonomy refers to experiencing behaviour as self-endorsed rather than coerced. A person can willingly choose a difficult training programme, demanding study schedule or strict financial plan and still feel autonomous because the decision reflects their own priorities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-determination theory and the facilitation of intrinsic...The findings have led to the postulate of three innate psychological...</span></span></span>
+Autonomy does not mean doing whatever feels pleasant in the moment. In psychological research, autonomy refers to experiencing behaviour as self-endorsed rather than coerced. A person can willingly choose a difficult training programme, demanding study schedule or strict financial plan and still feel autonomous because the decision reflects their own priorities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-determination theory and the facilitation of intrinsic...The findings have led to the postulate of three innate psychological...</span></span></span>
 
 Pressure-driven identities often sound like:
 
@@ -311,7 +311,7 @@ Values-driven identities sound different:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* "I value learning." <span class="citation-chip-wrap"><a class="citation-chip" href="https://bridgetolearning.stanford.edu/menu/internalization/regulatory-styles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bridgetolearning.stanford.edu">[bridgetolearning.stanford.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bridgetolearning.stanford.edu</span><span class="citation-popover-snippet">Bridging to LearningRegulatory StylesIntegrated regulation reflects the fullest internalization and most autonomous and self-endorsed for...</span></span></span>
+* "I value learning."<span class="citation-chip-wrap"><a class="citation-chip" href="https://bridgetolearning.stanford.edu/menu/internalization/regulatory-styles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bridgetolearning.stanford.edu">[bridgetolearning.stanford.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bridgetolearning.stanford.edu</span><span class="citation-popover-snippet">Bridging to LearningRegulatory StylesIntegrated regulation reflects the fullest internalization and most autonomous and self-endorsed for...</span></span></span>
 * "I want to be reliable."
 * "Health matters to me."
 * "I care about being present for my family."
@@ -320,13 +320,13 @@ Values-driven identities sound different:
 
 The behaviours may overlap, but the psychological experience changes. The first set is dominated by obligation and judgement. The second is anchored in personal endorsement.
 
-Studies on internalisation show that people naturally absorb social rules and expectations, but the quality of that internalisation matters. Behaviour becomes more stable when individuals move from external compliance towards personally accepted values and integrated self-understanding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-determination theory and the facilitation of intrinsic...The findings have led to the postulate of three innate psychological...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://bridgetolearning.stanford.edu/menu/internalization/regulatory-styles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bridgetolearning.stanford.edu">[Bridging to Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bridgetolearning.stanford.edu</span><span class="citation-popover-snippet">Bridging to LearningRegulatory StylesIntegrated regulation reflects the fullest internalization and most autonomous and self-endorsed for...</span></span></span>
+Studies on internalisation show that people naturally absorb social rules and expectations, but the quality of that internalisation matters. Behaviour becomes more stable when individuals move from external compliance towards personally accepted values and integrated self-understanding.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-determination theory and the facilitation of intrinsic...The findings have led to the postulate of three innate psychological...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://bridgetolearning.stanford.edu/menu/internalization/regulatory-styles" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bridgetolearning.stanford.edu">[Bridging to Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bridgetolearning.stanford.edu</span><span class="citation-popover-snippet">Bridging to LearningRegulatory StylesIntegrated regulation reflects the fullest internalization and most autonomous and self-endorsed for...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LbEzj71JVXM" title="Intrinsic vs Extrinsic Motivation. 🌟 | Motivated Mondays" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LbEzj71JVXM" target="_blank" rel="noopener noreferrer">Intrinsic vs Extrinsic Motivation. 🌟 | Motivated Mondays</a></p><p class="youtube-embed-meta">Channel: UnJaded Jade &middot; Views: 44.3K &middot; Uploaded: March 2019 &middot; Length: 3 minutes 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LbEzj71JVXM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LbEzj71JVXM">Open on YouTube</a></p></div></div></div>
 
 ### Why pressure often backfires
 
-External pressure can produce short-term action. Deadlines, social approval and incentives can all increase effort temporarily. However, heavily controlling conditions often undermine autonomy and can reduce the sense that behaviour is truly one's own. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Self-determination_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Self-determination theory</span><span class="citation-popover-snippet">Self-determination theory</span></span></span>
+External pressure can produce short-term action. Deadlines, social approval and incentives can all increase effort temporarily. However, heavily controlling conditions often undermine autonomy and can reduce the sense that behaviour is truly one's own.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Self-determination_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Self-determination theory</span><span class="citation-popover-snippet">Self-determination theory</span></span></span>
 
 This creates a familiar self-improvement cycle:
 
@@ -348,7 +348,7 @@ The problem is not discipline. The problem is that the behaviour never became in
 
 Values alone are not enough. A person may deeply value health, creativity or learning and still struggle to act consistently.
 
-This is where competence becomes important. Self-Determination Theory identifies competence as a basic psychological need alongside autonomy and relatedness. People are more motivated when they experience themselves as capable and effective. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Self-determination_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Self-Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Self-determination theory</span></span></span> PubMed A values-based identity becomes stronger when it is supported by repeated evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=LbEzj71JVXM" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Intrinsic vs Extrinsic Motivation. &#124; Motivated Mondays</span><span class="citation-popover-snippet">Self-Determination Theory Explained...</span></span></span>
+This is where competence becomes important. Self-Determination Theory identifies competence as a basic psychological need alongside autonomy and relatedness. People are more motivated when they experience themselves as capable and effective.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Self-determination_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Self-Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Self-determination theory</span></span></span> PubMed A values-based identity becomes stronger when it is supported by repeated evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=LbEzj71JVXM" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Intrinsic vs Extrinsic Motivation. &#124; Motivated Mondays</span><span class="citation-popover-snippet">Self-Determination Theory Explained...</span></span></span>
 
 For example:
 
@@ -358,7 +358,7 @@ For example:
 
 The identity is not sustained by affirmation alone. It is reinforced through competence-building actions.
 
-This is one reason behaviour design remains important. Values provide direction, but small repeatable actions provide proof. A person who chooses actions that are achievable, measurable and repeatable accumulates evidence that supports both competence and identity. Behaviour-based identity has been associated with successful maintenance of health-related behaviours precisely because actions provide continual reinforcement of self-perception. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6124500/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Behavior-based identity is...Read more...</span></span></span>
+This is one reason behaviour design remains important. Values provide direction, but small repeatable actions provide proof. A person who chooses actions that are achievable, measurable and repeatable accumulates evidence that supports both competence and identity. Behaviour-based identity has been associated with successful maintenance of health-related behaviours precisely because actions provide continual reinforcement of self-perception.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6124500/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Behavior-based identity is...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LHQv7FU8Atw" title="Connecting motivation, awareness, values, and thriving: New research from Self-determination theory" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LHQv7FU8Atw" target="_blank" rel="noopener noreferrer">Connecting motivation, awareness, values, and thriving: New research from Self-determination theory</a></p><p class="youtube-embed-meta">Channel: Embætti landlæknis &middot; Views: 4.3K &middot; Uploaded: January 2023 &middot; Length: 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LHQv7FU8Atw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LHQv7FU8Atw">Open on YouTube</a></p></div></div></div>
 
@@ -397,7 +397,7 @@ Unhealthy belonging sounds like:
 * "I must act this way to avoid rejection."
 * "My worth depends on approval from this group."
 
-Research on internalisation suggests that relatedness—the experience of feeling connected and valued—helps people adopt and integrate behaviours more deeply. People are more likely to embrace values and practices when they feel respected and supported by important relationships. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-determination theory and the facilitation of intrinsic...The findings have led to the postulate of three innate psychological...</span></span></span>
+Research on internalisation suggests that relatedness—the experience of feeling connected and valued—helps people adopt and integrate behaviours more deeply. People are more likely to embrace values and practices when they feel respected and supported by important relationships.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-determination theory and the facilitation of intrinsic...The findings have led to the postulate of three innate psychological...</span></span></span>
 
 This explains why supportive communities often help habits endure. The social environment does not merely impose rules. It helps people make sense of those rules as part of a meaningful identity.
 
@@ -432,272 +432,272 @@ The goal is not perfect purity of motivation. Most behaviour contains a mixture 
 
 Identity can be a powerful ally in self-improvement, but only when it grows from values rather than pressure. The most durable identities are not built around proving worth, avoiding criticism or chasing approval. They are built around commitments that a person willingly endorses and repeatedly expresses through action.
 
-When behaviour aligns with chosen values, competence develops through practice and relationships reinforce rather than control the effort, change becomes easier to sustain. The identity no longer feels like a role that must be performed. It becomes a natural summary of how a person chooses to live. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Self-determination_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Self-Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Self-determination theory</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-determination theory and the facilitation of intrinsic...The findings have led to the postulate of three innate psychological...</span></span></span>
+When behaviour aligns with chosen values, competence develops through practice and relationships reinforce rather than control the effort, change becomes easier to sustain. The identity no longer feels like a role that must be performed. It becomes a natural summary of how a person chooses to live.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Self-determination_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Self-Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Self-determination theory</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-determination theory and the facilitation of intrinsic...The findings have led to the postulate of three innate psychological...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Change works better when it feels chosen. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Change works better when it feels chosen. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Drive+by+Daniel+H.+Pink&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=pYc-DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Drive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Drive+by+Daniel+H.+Pink&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drive">Drive</a>
-        </h4>
-        <p class="fr-book-author">By Daniel H. Pink</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Drive+by+Daniel+H.+Pink&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=pYc-DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Drive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Drive+by+Daniel+H.+Pink&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drive">Drive</a>
+</h4>
+<p class="fr-book-author">By Daniel H. Pink</p>
         
-        <p class="fr-book-desc">Centres autonomy, mastery, and purpose as drivers of action.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Drive+by+Daniel+H.+Pink&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Centres autonomy, mastery, and purpose as drivers of action.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Drive+by+Daniel+H.+Pink&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Links identity and behaviour through repeated action.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Links identity and behaviour through repeated action.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Happiness+Trap+by+Russ+Harris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Happiness Trap on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Q6wE1Z6FCtcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Happiness Trap" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Happiness+Trap+by+Russ+Harris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Happiness Trap">The Happiness Trap</a>
-        </h4>
-        <p class="fr-book-author">By Russ Harris</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Happiness+Trap+by+Russ+Harris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Happiness Trap on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Q6wE1Z6FCtcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Happiness Trap" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Happiness+Trap+by+Russ+Harris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Happiness Trap">The Happiness Trap</a>
+</h4>
+<p class="fr-book-author">By Russ Harris</p>
         
-        <p class="fr-book-desc">Strong emphasis on values-guided behaviour.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Happiness+Trap+by+Russ+Harris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong emphasis on values-guided behaviour.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Happiness+Trap+by+Russ+Harris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Man%27s+Search+for+Meaning+by+Viktor+Emil+Frankl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Man&#x27;s Search for Meaning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kDOlPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Man&#x27;s Search for Meaning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Man%27s+Search+for+Meaning+by+Viktor+Emil+Frankl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Man&#x27;s Search for Meaning">Man&#x27;s Search for Meaning</a>
-        </h4>
-        <p class="fr-book-author">By Viktor Emil Frankl</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Man%27s+Search+for+Meaning+by+Viktor+Emil+Frankl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Man&#x27;s Search for Meaning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kDOlPwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Man&#x27;s Search for Meaning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Man%27s+Search+for+Meaning+by+Viktor+Emil+Frankl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Man&#x27;s Search for Meaning">Man&#x27;s Search for Meaning</a>
+</h4>
+<p class="fr-book-author">By Viktor Emil Frankl</p>
         
-        <p class="fr-book-desc">Explores meaning, purpose, and chosen direction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Man%27s+Search+for+Meaning+by+Viktor+Emil+Frankl&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores meaning, purpose, and chosen direction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Man%27s+Search+for+Meaning+by+Viktor+Emil+Frankl&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Drive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drive</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Happiness+Trap&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Happiness Trap</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Drive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drive</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Happiness+Trap&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Happiness Trap</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rustic Wood Effect Farmhouse Daisy Mason Jar Canvas Wall Art Inspirational Quote"><img src="{{ '/assets/images/marketplace-covers/c5d0d37a3d701716ded0.jpg' | relative_url }}" alt="Listing image for Rustic Wood Effect Farmhouse Daisy Mason Jar Canvas Wall Art Inspirational Quote" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Rustic Wood Effect Farmhouse Daisy Mason Jar Canvas Wall Art Inspirational Quote</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for inspirational wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: inspirational wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rustic Wood Effect Farmhouse Daisy Mason Jar Canvas Wall Art Inspirational Quote"><img src="{{ '/assets/images/marketplace-covers/c5d0d37a3d701716ded0.jpg' | relative_url }}" alt="Listing image for Rustic Wood Effect Farmhouse Daisy Mason Jar Canvas Wall Art Inspirational Quote" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Rustic Wood Effect Farmhouse Daisy Mason Jar Canvas Wall Art Inspirational Quote</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for inspirational wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: inspirational wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Be happy with what you have inspirational quote sticker vinyl wall art"><img src="{{ '/assets/images/marketplace-covers/462bb95309771a87db4f.jpg' | relative_url }}" alt="Listing image for Be happy with what you have inspirational quote sticker vinyl wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Be happy with what you have inspirational quote sticker vinyl wall art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for inspirational wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: inspirational wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Be happy with what you have inspirational quote sticker vinyl wall art"><img src="{{ '/assets/images/marketplace-covers/462bb95309771a87db4f.jpg' | relative_url }}" alt="Listing image for Be happy with what you have inspirational quote sticker vinyl wall art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Be happy with what you have inspirational quote sticker vinyl wall art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for inspirational wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: inspirational wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for McLovin ID Flag Superbad Inspired Movie Poster Wall Art Print Home Decor TV"><img src="{{ '/assets/images/marketplace-covers/c57023297c7ed2324706.jpg' | relative_url }}" alt="Listing image for McLovin ID Flag Superbad Inspired Movie Poster Wall Art Print Home Decor TV" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">McLovin ID Flag Superbad Inspired Movie Poster Wall Art Print Home Decor TV</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for inspirational wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: inspirational wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for McLovin ID Flag Superbad Inspired Movie Poster Wall Art Print Home Decor TV"><img src="{{ '/assets/images/marketplace-covers/c57023297c7ed2324706.jpg' | relative_url }}" alt="Listing image for McLovin ID Flag Superbad Inspired Movie Poster Wall Art Print Home Decor TV" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">McLovin ID Flag Superbad Inspired Movie Poster Wall Art Print Home Decor TV</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for inspirational wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: inspirational wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for inspirational Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a5f496b0507d3dd6ca12.jpg' | relative_url }}" alt="Listing image for inspirational Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">inspirational Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for inspirational wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: inspirational wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for inspirational Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a5f496b0507d3dd6ca12.jpg' | relative_url }}" alt="Listing image for inspirational Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">inspirational Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for inspirational wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: inspirational wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=inspirational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chosen-values-change-works-better-when-it-feels-chosen-self-improvement-that-works-inspirational-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -713,7 +713,7 @@ When behaviour aligns with chosen values, competence develops through practice a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -733,7 +733,7 @@ When behaviour aligns with chosen values, competence develops through practice a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -765,7 +765,7 @@ When behaviour aligns with chosen values, competence develops through practice a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -795,7 +795,7 @@ When behaviour aligns with chosen values, competence develops through practice a
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -853,195 +853,195 @@ When behaviour aligns with chosen values, competence develops through practice a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6377081/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6377081/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Finding the “self” in self-regulation: The identity-value modelby ET Berkman · 2017 · Cited by 257 — The overarching prediction of the...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6377081/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6377081/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Finding the “self” in self-regulation: The identity-value modelby ET Berkman · 2017 · Cited by 257 — The overarching prediction of the...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Self-determination theory  
-   Link: <a href="https://en.wikipedia.org/wiki/Self-determination_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Self-determination_theory</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Self-determination_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Self-determination_theory</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6124500/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6124500/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior-based identity is...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6124500/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6124500/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior-based identity is...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: Self-Determination Theory Explained  
-   Link: <a href="https://www.youtube.com/watch?v=_juPDoa3GBY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_juPDoa3GBY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Authentic Living: Choosing Your Own Path Instead of Others&#x27; Expectations...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_juPDoa3GBY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_juPDoa3GBY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Authentic Living: Choosing Your Own Path Instead of Others&#x27; Expectations...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: Intrinsic vs Extrinsic Motivation. | Motivated Mondays  
-   Link: <a href="https://www.youtube.com/watch?v=LbEzj71JVXM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LbEzj71JVXM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory Explained...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LbEzj71JVXM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LbEzj71JVXM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory Explained...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: Self-Determination Theory Explained  
-   Link: <a href="https://www.youtube.com/watch?v=ZpAwJKq8TOc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZpAwJKq8TOc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The Happiness Trap: Stop Struggling, Start Living&quot; by Dr. Russ Harris...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZpAwJKq8TOc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZpAwJKq8TOc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The Happiness Trap: Stop Struggling, Start Living&quot; by Dr. Russ Harris...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: selfdeterminationtheory.org  
    Title: 2000 RyanDeci SDT  
-   Link: <a href="https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination TheorySelf-Determination Theory and the Facilitation of Intrinsic...by RM Ryan · 2000 · Cited by 87564 — Strong links...</p></details>
+   Link:<a href="https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination TheorySelf-Determination Theory and the Facilitation of Intrinsic...by RM Ryan · 2000 · Cited by 87564 — Strong links...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/11392867/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-determination theory and the facilitation of intrinsic...The findings have led to the postulate of three innate psychological...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/11392867/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-determination theory and the facilitation of intrinsic...The findings have led to the postulate of three innate psychological...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/8169757/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/8169757/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Facilitating internalization: the self-determination theory...by EL Deci · 1994 · Cited by 4810 — Self-determination theory (Deci...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/8169757/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/8169757/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Facilitating internalization: the self-determination theory...by EL Deci · 1994 · Cited by 4810 — Self-determination theory (Deci...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: bridgetolearning.stanford.edu  
-   Link: <a href="https://bridgetolearning.stanford.edu/menu/internalization/regulatory-styles" target="_blank" rel="noopener noreferrer nofollow">https://bridgetolearning.stanford.edu/menu/internalization/regulatory-styles</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bridging to LearningRegulatory StylesIntegrated regulation reflects the fullest internalization and most autonomous and self-endorsed for...</p></details>
+   Link:<a href="https://bridgetolearning.stanford.edu/menu/internalization/regulatory-styles" target="_blank" rel="noopener noreferrer nofollow">https://bridgetolearning.stanford.edu/menu/internalization/regulatory-styles</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bridging to LearningRegulatory StylesIntegrated regulation reflects the fullest internalization and most autonomous and self-endorsed for...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: selfdeterminationtheory.org  
-   Link: <a href="https://selfdeterminationtheory.org/theory/" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/theory/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination TheoryTheorySelf-Determination Theory (SDT) represents a broad framework for the study of human motivation and persona...</p></details>
+   Link:<a href="https://selfdeterminationtheory.org/theory/" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/theory/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination TheoryTheorySelf-Determination Theory (SDT) represents a broad framework for the study of human motivation and persona...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Self-Determination Theory  
-   Link: <a href="https://www.sciencedirect.com/topics/social-sciences/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/social-sciences/self-determination-theory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory - an overviewIdentified regulation reflects a more internalized form of extrinsic motivation whereby individual...</p></details>
+   Link:<a href="https://www.sciencedirect.com/topics/social-sciences/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/social-sciences/self-determination-theory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory - an overviewIdentified regulation reflects a more internalized form of extrinsic motivation whereby individual...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: positivepsychology.com  
    Title: self determination theory  
-   Link: <a href="https://positivepsychology.com/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://positivepsychology.com/self-determination-theory/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and How It Explains Motivation21 Jun 2018 — Internalization is how well the value of an activity is felt while integration explains the p...</p></details>
+   Link:<a href="https://positivepsychology.com/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://positivepsychology.com/self-determination-theory/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and How It Explains Motivation21 Jun 2018 — Internalization is how well the value of an activity is felt while integration explains the p...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: yukaichou.com  
    Title: Self-Determination Theory: The Complete Guide to Ryan and Deci's  
-   Link: <a href="https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/" target="_blank" rel="noopener noreferrer nofollow">https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ryan, proposing that people are driven by three innate psychological needs (autonomy, competence, and relatedness) and that...</p></details>
+   Link:<a href="https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/" target="_blank" rel="noopener noreferrer nofollow">https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ryan, proposing that people are driven by three innate psychological needs (autonomy, competence, and relatedness) and that...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: open.ncl.ac.uk  
    Title: self determination theory  
-   Link: <a href="https://open.ncl.ac.uk/theories/20/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://open.ncl.ac.uk/theories/20/self-determination-theory/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ncl.ac.ukSelf-Determination Theory: A review14 Mar 2026 — Identified regulation is a form of extrinsic motivation in SDT where an individ...</p></details>
+   Link:<a href="https://open.ncl.ac.uk/theories/20/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://open.ncl.ac.uk/theories/20/self-determination-theory/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ncl.ac.ukSelf-Determination Theory: A review14 Mar 2026 — Identified regulation is a form of extrinsic motivation in SDT where an individ...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: people-shift.com  
    Title: self determination theory autonomy competence and relatedness at work  
-   Link: <a href="https://people-shift.com/articles/self-determination-theory-autonomy-competence-and-relatedness-at-work/" target="_blank" rel="noopener noreferrer nofollow">https://people-shift.com/articles/self-determination-theory-autonomy-competence-and-relatedness-at-work/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory: Autonomy, Competence, and...21 May 2026 — Self-Determination Theory (SDT), developed by Edward Deci and Richa...</p></details>
+   Link:<a href="https://people-shift.com/articles/self-determination-theory-autonomy-competence-and-relatedness-at-work/" target="_blank" rel="noopener noreferrer nofollow">https://people-shift.com/articles/self-determination-theory-autonomy-competence-and-relatedness-at-work/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory: Autonomy, Competence, and...21 May 2026 — Self-Determination Theory (SDT), developed by Edward Deci and Richa...</p></details>
    Published: May 2026  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: motricidades.org  
    Title: 2594 6463 2025 v9 n2 p244 254  
-   Link: <a href="https://motricidades.org/journal/index.php/journal/article/download/2594-6463-2025-v9-n2-p244-254/589" target="_blank" rel="noopener noreferrer nofollow">https://motricidades.org/journal/index.php/journal/article/download/2594-6463-2025-v9-n2-p244-254/589</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory and youth futsalby J Rota · 2025 · Cited by 1 — This internalization process occurs along a continuum, progress...</p></details>
+   Link:<a href="https://motricidades.org/journal/index.php/journal/article/download/2594-6463-2025-v9-n2-p244-254/589" target="_blank" rel="noopener noreferrer nofollow">https://motricidades.org/journal/index.php/journal/article/download/2594-6463-2025-v9-n2-p244-254/589</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory and youth futsalby J Rota · 2025 · Cited by 1 — This internalization process occurs along a continuum, progress...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: kyptraining.com  
    Title: Self-determination theory and work motivation  
-   Link: <a href="https://kyptraining.com/self-determination-theory-and-work-motivation/" target="_blank" rel="noopener noreferrer nofollow">https://kyptraining.com/self-determination-theory-and-work-motivation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Within SDT, when a behavior is so motivated it is said to be externally regulated—that is, initiated and maintained by conting...</p></details>
+   Link:<a href="https://kyptraining.com/self-determination-theory-and-work-motivation/" target="_blank" rel="noopener noreferrer nofollow">https://kyptraining.com/self-determination-theory-and-work-motivation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Within SDT, when a behavior is so motivated it is said to be externally regulated—that is, initiated and maintained by conting...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=LHQv7FU8Atw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LHQv7FU8Atw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-determination theory. 4.3K views · 3 years ago...more...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LHQv7FU8Atw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LHQv7FU8Atw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-determination theory. 4.3K views · 3 years ago...more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: sproutsschools.com  
    Title: self determination theory 3 basic needs that drive our behavior  
-   Link: <a href="https://sproutsschools.com/self-determination-theory-3-basic-needs-that-drive-our-behavior/" target="_blank" rel="noopener noreferrer nofollow">https://sproutsschools.com/self-determination-theory-3-basic-needs-that-drive-our-behavior/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory: 3 Basic Needs That Drive Our...Nov 3, 2022 — Self-determination theory argues that people are motivated to le...</p></details>
+   Link:<a href="https://sproutsschools.com/self-determination-theory-3-basic-needs-that-drive-our-behavior/" target="_blank" rel="noopener noreferrer nofollow">https://sproutsschools.com/self-determination-theory-3-basic-needs-that-drive-our-behavior/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory: 3 Basic Needs That Drive Our...Nov 3, 2022 — Self-determination theory argues that people are motivated to le...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ukcoaching.org  
-   Link: <a href="https://www.ukcoaching.org/ukc-club/resources/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://www.ukcoaching.org/ukc-club/resources/self-determination-theory/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination TheorySelf-Determination Theory emphasises that people are most motivated and fulfilled when their basic needs for aut...</p></details>
+   Link:<a href="https://www.ukcoaching.org/ukc-club/resources/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://www.ukcoaching.org/ukc-club/resources/self-determination-theory/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination TheorySelf-Determination Theory emphasises that people are most motivated and fulfilled when their basic needs for aut...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: urmc.rochester.edu  
    Title: self determination theory  
-   Link: <a href="https://www.urmc.rochester.edu/community-health/patient-care/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.urmc.rochester.edu/community-health/patient-care/self-determination-theory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rochester.eduSelf-Determination Theory of Motivation - URMC.Rochester.eduSelf-determination theory suggests that all humans have three ba...</p></details>
+   Link:<a href="https://www.urmc.rochester.edu/community-health/patient-care/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.urmc.rochester.edu/community-health/patient-care/self-determination-theory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rochester.eduSelf-Determination Theory of Motivation - URMC.Rochester.eduSelf-determination theory suggests that all humans have three ba...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: suebehaviouraldesign.com  
    Title: self determination theory explained  
-   Link: <a href="https://www.suebehaviouraldesign.com/en/blog/self-determination-theory-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.suebehaviouraldesign.com/en/blog/self-determination-theory-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory: 3 needs that drive intrinsic...1 Mar 2026 — Values that become internalised are always the result of a proces...</p></details>
+   Link:<a href="https://www.suebehaviouraldesign.com/en/blog/self-determination-theory-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.suebehaviouraldesign.com/en/blog/self-determination-theory-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory: 3 needs that drive intrinsic...1 Mar 2026 — Values that become internalised are always the result of a proces...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: aipc.net.au  
    Title: self determination theory of motivation  
-   Link: <a href="https://www.aipc.net.au/articles/self-determination-theory-of-motivation/" target="_blank" rel="noopener noreferrer nofollow">https://www.aipc.net.au/articles/self-determination-theory-of-motivation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>21 Oct 2010 — In this article we explore the principles of Self Determination Theory (SDT), as well as Intrinsic and Extrinsic motivation...</p></details>
+   Link:<a href="https://www.aipc.net.au/articles/self-determination-theory-of-motivation/" target="_blank" rel="noopener noreferrer nofollow">https://www.aipc.net.au/articles/self-determination-theory-of-motivation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>21 Oct 2010 — In this article we explore the principles of Self Determination Theory (SDT), as well as Intrinsic and Extrinsic motivation...</p></details>
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: nirandfar.com  
-   Link: <a href="https://www.nirandfar.com/behavior-change-is-identity-change/" target="_blank" rel="noopener noreferrer nofollow">https://www.nirandfar.com/behavior-change-is-identity-change/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Key to Behavior Change is Identity ChangeLearn how changing your identity can be the key to successful behavior change. Discover stra...</p></details>
+   Link:<a href="https://www.nirandfar.com/behavior-change-is-identity-change/" target="_blank" rel="noopener noreferrer nofollow">https://www.nirandfar.com/behavior-change-is-identity-change/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Key to Behavior Change is Identity ChangeLearn how changing your identity can be the key to successful behavior change. Discover stra...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: rccs.org.uk  
-   Link: <a href="https://www.rccs.org.uk/post/autonomy-competence-and-relatedness-understanding-the-three-universal-needs-of-self-determination" target="_blank" rel="noopener noreferrer nofollow">https://www.rccs.org.uk/post/autonomy-competence-and-relatedness-understanding-the-three-universal-needs-of-self-determination</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomy Competence and Relatedness – RCCS6 Feb 2026 — Self-Determination Theory (SDT), developed by psychologists Edward Deci and Richar...</p></details>
+   Link:<a href="https://www.rccs.org.uk/post/autonomy-competence-and-relatedness-understanding-the-three-universal-needs-of-self-determination" target="_blank" rel="noopener noreferrer nofollow">https://www.rccs.org.uk/post/autonomy-competence-and-relatedness-understanding-the-three-universal-needs-of-self-determination</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomy Competence and Relatedness – RCCS6 Feb 2026 — Self-Determination Theory (SDT), developed by psychologists Edward Deci and Richar...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: cdn.uksca.org.uk  
-   Link: <a href="https://cdn.uksca.org.uk/cms-uploads/assets/uksca_journal_71_summer_24_Cahill_self_determination_aca0634d96.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.uksca.org.uk/cms-uploads/assets/uksca_journal_71_summer_24_Cahill_self_determination_aca0634d96.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to motivate university athletes using selfby C Cahill — Akin to self-determined forms of extrinsic motivation, intrinsic motives for enga...</p></details>
+   Link:<a href="https://cdn.uksca.org.uk/cms-uploads/assets/uksca_journal_71_summer_24_Cahill_self_determination_aca0634d96.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.uksca.org.uk/cms-uploads/assets/uksca_journal_71_summer_24_Cahill_self_determination_aca0634d96.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to motivate university athletes using selfby C Cahill — Akin to self-determined forms of extrinsic motivation, intrinsic motives for enga...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/322954679_Harnessing_Centered_Identity_Transformation_to_Reduce_Executive_Function_Burden_for_Maintenance_of_Health_Behavior_Change_The_Maintain_IT_Model" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/322954679_Harnessing_Centered_Identity_Transformation_to_Reduce_Executive_Function_Burden_for_Maintenance_of_Health_Behavior_Change_The_Maintain_IT_Model</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harnessing Centered Identity Transformation to Reduce...27 Feb 2018 — Taken together, these studies underscore the value of integrating...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/322954679_Harnessing_Centered_Identity_Transformation_to_Reduce_Executive_Function_Burden_for_Maintenance_of_Health_Behavior_Change_The_Maintain_IT_Model" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/322954679_Harnessing_Centered_Identity_Transformation_to_Reduce_Executive_Function_Burden_for_Maintenance_of_Health_Behavior_Change_The_Maintain_IT_Model</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harnessing Centered Identity Transformation to Reduce...27 Feb 2018 — Taken together, these studies underscore the value of integrating...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: 7cups.com  
-   Link: <a href="https://www.7cups.com/forum/projectsandevents/ArticlesandQuotes_2369/PsychologyTodayTheKeytoBehaviorChangeIsIdentityChange_279613/" target="_blank" rel="noopener noreferrer nofollow">https://www.7cups.com/forum/projectsandevents/ArticlesandQuotes_2369/PsychologyTodayTheKeytoBehaviorChangeIsIdentityChange_279613/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology Today: The Key to Behavior Change Is Identity...One of the most effective ways to change your behavior is to change your iden...</p></details>
+   Link:<a href="https://www.7cups.com/forum/projectsandevents/ArticlesandQuotes_2369/PsychologyTodayTheKeytoBehaviorChangeIsIdentityChange_279613/" target="_blank" rel="noopener noreferrer nofollow">https://www.7cups.com/forum/projectsandevents/ArticlesandQuotes_2369/PsychologyTodayTheKeytoBehaviorChangeIsIdentityChange_279613/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology Today: The Key to Behavior Change Is Identity...One of the most effective ways to change your behavior is to change your iden...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: sweetinstitute.com  
    Title: autonomy and behavior change empowering individuals for lasting transformation  
-   Link: <a href="https://sweetinstitute.com/autonomy-and-behavior-change-empowering-individuals-for-lasting-transformation/" target="_blank" rel="noopener noreferrer nofollow">https://sweetinstitute.com/autonomy-and-behavior-change-empowering-individuals-for-lasting-transformation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>By fostering a sense of control and ownership over their choices, individuals can enhance their...Read more...</p></details>
+   Link:<a href="https://sweetinstitute.com/autonomy-and-behavior-change-empowering-individuals-for-lasting-transformation/" target="_blank" rel="noopener noreferrer nofollow">https://sweetinstitute.com/autonomy-and-behavior-change-empowering-individuals-for-lasting-transformation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>By fostering a sense of control and ownership over their choices, individuals can enhance their...Read more...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: stial.ie  
    Title: Ryan and Deci 2020 self determination theory  
-   Link: <a href="https://stial.ie/resources/Ryan%20and%20Deci%202020%20self%20determination%20theory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stial.ie/resources/Ryan%20and%20Deci%202020%20self%20determination%20theory.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>pdfby RM Ryan · 2020 · Cited by 10079 — Studies show that students of more autonomy-supportive teachers have more intrinsic motivation, p...</p></details>
+   Link:<a href="https://stial.ie/resources/Ryan%20and%20Deci%202020%20self%20determination%20theory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stial.ie/resources/Ryan%20and%20Deci%202020%20self%20determination%20theory.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pdfby RM Ryan · 2020 · Cited by 10079 — Studies show that students of more autonomy-supportive teachers have more intrinsic motivation, p...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: verywellmind.com  
    Title: what is self determination theory 2795387  
-   Link: <a href="https://www.verywellmind.com/what-is-self-determination-theory-2795387" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/what-is-self-determination-theory-2795387</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Self-Determination Theory Explains Motivation29 Oct 2025 — Self-determination theory suggests that fulfilling the core needs for auto...</p></details>
+   Link:<a href="https://www.verywellmind.com/what-is-self-determination-theory-2795387" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/what-is-self-determination-theory-2795387</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Self-Determination Theory Explains Motivation29 Oct 2025 — Self-determination theory suggests that fulfilling the core needs for auto...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: researchgate.net  
    Title: 342380851 SELF DETERMINATION THEORY  
-   Link: <a href="https://www.researchgate.net/publication/342380851_SELF-DETERMINATION_THEORY" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342380851_SELF-DETERMINATION_THEORY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) SELF-DETERMINATION THEORY23 Jun 2020 — Self-determination theory (SDT), developed by Deci and Ryan, emphasizes the role of intrinsi...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/342380851_SELF-DETERMINATION_THEORY" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342380851_SELF-DETERMINATION_THEORY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) SELF-DETERMINATION THEORY23 Jun 2020 — Self-determination theory (SDT), developed by Deci and Ryan, emphasizes the role of intrinsi...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: med.libretexts.org  
    Title: 13.06: Self Determination Theory  
-   Link: <a href="https://med.libretexts.org/Courses/Glendale_Community_College/Public_Health_101_%28Calderone%29/13%3A_Community_Organizing_and_Health_Promotion_Programming/13.06%3A_Self-Determination_Theory" target="_blank" rel="noopener noreferrer nofollow">https://med.libretexts.org/Courses/Glendale_Community_College/Public_Health_101_%28Calderone%29/13%3A_Community_Organizing_and_Health_Promotion_Programming/13.06%3A_Self-Determination_Theory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>libretexts.org13.6: Self-Determination TheoryDec 30, 2024 — Identified regulation (the behavior is important to them); Integrated regulat...</p></details>
+   Link:<a href="https://med.libretexts.org/Courses/Glendale_Community_College/Public_Health_101_%28Calderone%29/13%3A_Community_Organizing_and_Health_Promotion_Programming/13.06%3A_Self-Determination_Theory" target="_blank" rel="noopener noreferrer nofollow">https://med.libretexts.org/Courses/Glendale_Community_College/Public_Health_101_%28Calderone%29/13%3A_Community_Organizing_and_Health_Promotion_Programming/13.06%3A_Self-Determination_Theory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>libretexts.org13.6: Self-Determination TheoryDec 30, 2024 — Identified regulation (the behavior is important to them); Integrated regulat...</p></details>

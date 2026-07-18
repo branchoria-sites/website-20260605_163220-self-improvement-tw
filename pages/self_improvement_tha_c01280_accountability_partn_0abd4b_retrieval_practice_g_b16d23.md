@@ -274,7 +274,7 @@ image: /assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_re
 
 ## Introduction
 
-[A study group]({{ 'a-study-group/' | relative_url }}) becomes genuinely useful when it changes how members learn rather than simply giving them a place to sit. One of the strongest findings in learning science is that actively retrieving information from memory produces better long-term retention than rereading or reviewing notes. This is often called the testing effect or retrieval practice. Across many studies and educational settings, learners who repeatedly try to recall information outperform those who mainly restudy it. PubMed Central <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.learningscientists.org/blog/2017/2/9-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learningscientists.org">[The Learning Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learningscientists.org</span><span class="citation-popover-snippet">The Learning ScientistsNew Meta-analysis of 217 Retrieval Practice StudiesFeb 9, 2017 — Retrieval practice was consistently found to be b...</span></span></span>
+[A study group]({{ 'a-study-group/' | relative_url }}) becomes genuinely useful when it changes how members learn rather than simply giving them a place to sit. One of the strongest findings in learning science is that actively retrieving information from memory produces better long-term retention than rereading or reviewing notes. This is often called the testing effect or retrieval practice. Across many studies and educational settings, learners who repeatedly try to recall information outperform those who mainly restudy it. PubMed Central<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.learningscientists.org/blog/2017/2/9-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learningscientists.org">[The Learning Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learningscientists.org</span><span class="citation-popover-snippet">The Learning ScientistsNew Meta-analysis of 217 Retrieval Practice StudiesFeb 9, 2017 — Retrieval practice was consistently found to be b...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_retrieval_practice_g_b16d23-Illustration-1-dark.svg" | relative_url }}" alt="Retrieval groups illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_retrieval_practice_g_b16d23-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_accountability_partn_0abd4b_retrieval_practice_g_b16d23-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That insight has an important implication for accountability-based [study groups]({{ 'study-groups/' | relative_url }}). The best group is not one that spends an hour silently reading together. It is one that regularly asks members to recall, explain, apply and correct information from memory. A retrieval-focused group creates accountability around learning itself, not just attendance. Members arrive prepared to test what they know, expose gaps in understanding and leave with clear next actions.
@@ -283,7 +283,7 @@ That insight has an important implication for accountability-based [study groups
 
 Many study groups drift into what feels productive but often has limited impact on learning. Members gather in the same room, open books and work quietly. The social [environment]({{ 'environment/' | relative_url }}) may increase study time, which is valuable, but simply being present does not guarantee durable learning.
 
-Retrieval practice works differently. Instead of looking at information again, learners attempt to bring it to mind without immediate [support]({{ 'support/' | relative_url }}) from notes. The effort involved in recalling information strengthens later access to that knowledge and often reveals misconceptions that passive review hides. Research spanning more than a century of educational psychology consistently finds advantages for retrieval over restudying. PubMed Central 3EEF <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.learningscientists.org/blog/2017/2/9-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learningscientists.org">[The Learning Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learningscientists.org</span><span class="citation-popover-snippet">The Learning ScientistsNew Meta-analysis of 217 Retrieval Practice StudiesFeb 9, 2017 — Retrieval practice was consistently found to be b...</span></span></span>
+Retrieval practice works differently. Instead of looking at information again, learners attempt to bring it to mind without immediate [support]({{ 'support/' | relative_url }}) from notes. The effort involved in recalling information strengthens later access to that knowledge and often reveals misconceptions that passive review hides. Research spanning more than a century of educational psychology consistently finds advantages for retrieval over restudying. PubMed Central 3EEF<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.learningscientists.org/blog/2017/2/9-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learningscientists.org">[The Learning Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learningscientists.org</span><span class="citation-popover-snippet">The Learning ScientistsNew Meta-analysis of 217 Retrieval Practice StudiesFeb 9, 2017 — Retrieval practice was consistently found to be b...</span></span></span>
 
 This means that a study group should judge success by the quality of recall attempts rather than by hours spent together. A member who struggles through ten difficult questions from memory may learn more than someone who spends the same period rereading highlighted pages.
 
@@ -293,7 +293,7 @@ For accountability purposes, retrieval practice also creates observable evidence
 
 A common challenge in group study is that attention drifts. Conversations move away from the material, phones appear, and the session gradually becomes social rather than educational.
 
-Retrieval-based activities naturally create more engagement because participants must actively generate answers. Recent research comparing collaborative and individual retrieval practice found that collaborative retrieval reduced mind-wandering during learning. Participants working together on recall tasks reported being off-task less frequently while still showing learning benefits after the collaborative session. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3983480/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralRetrieval practice enhances new learning: the forward effect of...by B Pastötter · 2014 · Cited by 270 — Regarding the bac...</span></span></span>
+Retrieval-based activities naturally create more engagement because participants must actively generate answers. Recent research comparing collaborative and individual retrieval practice found that collaborative retrieval reduced mind-wandering during learning. Participants working together on recall tasks reported being off-task less frequently while still showing learning benefits after the collaborative session.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3983480/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralRetrieval practice enhances new learning: the forward effect of...by B Pastötter · 2014 · Cited by 270 — Regarding the bac...</span></span></span>
 
 The mechanism is straightforward. When group members know they may be asked to answer a question, explain a concept or contribute to a discussion, attention has a clear target. The session becomes interactive rather than passive.
 
@@ -319,7 +319,7 @@ A retrieval group gains additional value when members explain answers rather tha
 
 Explaining requires learners to organise knowledge into a coherent structure. If someone can define a concept but cannot explain why it matters or how it connects to related ideas, the group quickly discovers the weakness. Peer explanation therefore functions as both retrieval practice and a diagnostic tool.
 
-Research on peer instruction and collaborative learning suggests that structured explanation and discussion can improve learning outcomes beyond passive listening. When learners must justify their reasoning to others, they often notice misunderstandings that would otherwise remain hidden. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.aps.org/doi/10.1103/PhysRevPhysEducRes.15.010105" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.aps.org">[APS Links]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.aps.org</span><span class="citation-popover-snippet">APS LinksComparing retrieval-based practice and peer instruction in...by T Zu · 2019 · Cited by 24 — In this study, we compared the effe...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/320069708_A_meta_-analysis_of_the_effect_of_Peer_Instruction_on_learning_gain_Identification_of_informational_and_cultural_moderators" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">A meta -analysis of the effect of Peer Instruction on learning...Peer Instruction has a positive impact on learning compared to traditio...</span></span></span>
+Research on peer instruction and collaborative learning suggests that structured explanation and discussion can improve learning outcomes beyond passive listening. When learners must justify their reasoning to others, they often notice misunderstandings that would otherwise remain hidden.<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.aps.org/doi/10.1103/PhysRevPhysEducRes.15.010105" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.aps.org">[APS Links]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.aps.org</span><span class="citation-popover-snippet">APS LinksComparing retrieval-based practice and peer instruction in...by T Zu · 2019 · Cited by 24 — In this study, we compared the effe...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/320069708_A_meta_-analysis_of_the_effect_of_Peer_Instruction_on_learning_gain_Identification_of_informational_and_cultural_moderators" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">A meta -analysis of the effect of Peer Instruction on learning...Peer Instruction has a positive impact on learning compared to traditio...</span></span></span>
 
 A useful rule for study groups is that answers should rarely end with the correct fact alone. Members should be encouraged to continue with questions such as:
 
@@ -357,7 +357,7 @@ Groups benefit from treating errors as shared learning opportunities rather than
 
 This process helps prevent the common pattern in which members celebrate correct responses but move too quickly past misunderstandings.
 
-Some research on collaborative testing and practice testing suggests that group-based retrieval activities can produce meaningful gains in later retention, especially when learners actively engage with answers and corrections rather than merely observing others. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/00986283251316581" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe Effects of Collaborative Practice Testing on Memory for...Jan 31, 2025 — The present research suggests that collaborati...</span></span></span>
+Some research on collaborative testing and practice testing suggests that group-based retrieval activities can produce meaningful gains in later retention, especially when learners actively engage with answers and corrections rather than merely observing others.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/00986283251316581" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe Effects of Collaborative Practice Testing on Memory for...Jan 31, 2025 — The present research suggests that collaborati...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/96xBOchLlWk" title="Making Retrieval Practice a Classroom Routine" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=96xBOchLlWk" target="_blank" rel="noopener noreferrer">Making Retrieval Practice a Classroom Routine</a></p><p class="youtube-embed-meta">Channel: Edutopia &middot; Views: 283.0K &middot; Uploaded: September 2025 &middot; Length: 3 minutes 51 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=96xBOchLlWk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=96xBOchLlWk">Open on YouTube</a></p></div></div></div>
 
@@ -369,7 +369,7 @@ A retrieval-focused study group does not need elaborate rules. A sixty-minute se
 
 Each member writes answers, definitions, concepts or problems from memory without using notes.
 
-**20 minutes: collaborative retrieval** <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10929687/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralCollaborative Retrieval Practice Reduces Mind-Wandering...by AG Knopps · 2023 · Cited by 9 — The results showed that engag...</span></span></span>
+**20 minutes: collaborative retrieval**<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10929687/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralCollaborative Retrieval Practice Reduces Mind-Wandering...by AG Knopps · 2023 · Cited by 9 — The results showed that engag...</span></span></span>
 
 Members compare answers, quiz one another and attempt increasingly difficult questions.
 
@@ -403,194 +403,194 @@ Within an accountability partnership or study group, retrieval practice turns le
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jXm2qqfDCr0" title="The Testing Effect: The Science of How To Actually Remember" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jXm2qqfDCr0" target="_blank" rel="noopener noreferrer">The Testing Effect: The Science of How To Actually Remember</a></p><p class="youtube-embed-meta">Channel: Dr. Erik Albinson | Learning &amp; Performance Coach &middot; Views: 740 &middot; Uploaded: February 2026 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jXm2qqfDCr0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jXm2qqfDCr0">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The study group that actually helps learning. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The study group that actually helps learning. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
-        </h4>
-        <p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Make It Stick on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fpAXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Make It Stick" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Make It Stick">Make It Stick</a>
+</h4>
+<p class="fr-book-author">By Peter C. Brown, Henry L. Roediger III et al.</p>
         
-        <p class="fr-book-desc">Strongly promotes retrieval practice and durable learning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strongly promotes retrieval practice and durable learning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Make+It+Stick+by+Peter+C.+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ultralearning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jyV2DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ultralearning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ultralearning">Ultralearning</a>
-        </h4>
-        <p class="fr-book-author">By Scott H. Young</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ultralearning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jyV2DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ultralearning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ultralearning">Ultralearning</a>
+</h4>
+<p class="fr-book-author">By Scott H. Young</p>
         
-        <p class="fr-book-desc">Encourages active learning and deliberate practice.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages active learning and deliberate practice.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ultralearning+by+Scott+H.+Young&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Carol S. Dweck</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
-        <p class="fr-book-desc">Encourages constructive feedback and growth-oriented learning.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
+</h4>
+<p class="fr-book-author">By Carol S. Dweck</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
+<p class="fr-book-desc">Encourages constructive feedback and growth-oriented learning.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=A+Mind+for+Numbers+by+Barbara+Oakley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Mind for Numbers on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Mind+for+Numbers+by+Barbara+Oakley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Mind for Numbers">A Mind for Numbers</a>
-        </h4>
-        <p class="fr-book-author">By Barbara Oakley</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=A+Mind+for+Numbers+by+Barbara+Oakley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Mind for Numbers on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Mind+for+Numbers+by+Barbara+Oakley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Mind for Numbers">A Mind for Numbers</a>
+</h4>
+<p class="fr-book-author">By Barbara Oakley</p>
         
-        <p class="fr-book-desc">Covers effective learning techniques and recall-based study.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Mind+for+Numbers+by+Barbara+Oakley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers effective learning techniques and recall-based study.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Mind+for+Numbers+by+Barbara+Oakley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ultralearning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ultralearning</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Make+It+Stick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Make It Stick</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ultralearning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ultralearning</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self-esteem and Confidence Building Flash Card Set"><img src="https://i.ebayimg.com/images/g/8dkAAOSwB~BfWKeH/s-l225.jpg" alt="Listing image for Self-esteem and Confidence Building Flash Card Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" target="_blank" rel="sponsored noopener noreferrer">Self-esteem and Confidence Building Flash Card Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flash card set">Search <span data-ebay-domain-label>eBay.co.uk</span>: flash card set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self-esteem and Confidence Building Flash Card Set"><img src="https://i.ebayimg.com/images/g/8dkAAOSwB~BfWKeH/s-l225.jpg" alt="Listing image for Self-esteem and Confidence Building Flash Card Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" target="_blank" rel="sponsored noopener noreferrer">Self-esteem and Confidence Building Flash Card Set</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flash card set">Search<span data-ebay-domain-label>eBay.co.uk</span>: flash card set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 x Vintage Compact Facts VIS-ED Spanish Flash Card Complete Cards Set"><img src="https://i.ebayimg.com/images/g/Wh4AAeSwLxhqHBeC/s-l225.jpg" alt="Listing image for 2 x Vintage Compact Facts VIS-ED Spanish Flash Card Complete Cards Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" target="_blank" rel="sponsored noopener noreferrer">2 x Vintage Compact Facts VIS-ED Spanish Flash Card Complete Cards Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flash card set">Search <span data-ebay-domain-label>eBay.co.uk</span>: flash card set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 x Vintage Compact Facts VIS-ED Spanish Flash Card Complete Cards Set"><img src="https://i.ebayimg.com/images/g/Wh4AAeSwLxhqHBeC/s-l225.jpg" alt="Listing image for 2 x Vintage Compact Facts VIS-ED Spanish Flash Card Complete Cards Set" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" target="_blank" rel="sponsored noopener noreferrer">2 x Vintage Compact Facts VIS-ED Spanish Flash Card Complete Cards Set</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flash card set">Search<span data-ebay-domain-label>eBay.co.uk</span>: flash card set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Multicolor Flash Cards Set - 300PCS Lined Revision Cards for Efficient Learning"><img src="https://i.ebayimg.com/images/g/dq4AAeSwgYNozaY1/s-l225.jpg" alt="Listing image for Multicolor Flash Cards Set - 300PCS Lined Revision Cards for Efficient Learning" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" target="_blank" rel="sponsored noopener noreferrer">Multicolor Flash Cards Set - 300PCS Lined Revision Cards for Efficient Learning</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flash card set">Search <span data-ebay-domain-label>eBay.co.uk</span>: flash card set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Multicolor Flash Cards Set - 300PCS Lined Revision Cards for Efficient Learning"><img src="https://i.ebayimg.com/images/g/dq4AAeSwgYNozaY1/s-l225.jpg" alt="Listing image for Multicolor Flash Cards Set - 300PCS Lined Revision Cards for Efficient Learning" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" target="_blank" rel="sponsored noopener noreferrer">Multicolor Flash Cards Set - 300PCS Lined Revision Cards for Efficient Learning</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flash card set">Search<span data-ebay-domain-label>eBay.co.uk</span>: flash card set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Confidence Flash Card Set - Positive Affirmations"><img src="https://i.ebayimg.com/images/g/168AAOSw2z9gQT3f/s-l225.jpg" alt="Listing image for Confidence Flash Card Set - Positive Affirmations" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" target="_blank" rel="sponsored noopener noreferrer">Confidence Flash Card Set - Positive Affirmations</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flash card set">Search <span data-ebay-domain-label>eBay.co.uk</span>: flash card set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Confidence Flash Card Set - Positive Affirmations"><img src="https://i.ebayimg.com/images/g/168AAOSw2z9gQT3f/s-l225.jpg" alt="Listing image for Confidence Flash Card Set - Positive Affirmations" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" target="_blank" rel="sponsored noopener noreferrer">Confidence Flash Card Set - Positive Affirmations</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flash card set">Search<span data-ebay-domain-label>eBay.co.uk</span>: flash card set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flash+card+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-study-group-that-actually-helps-learning-flash-card-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flash card set" data-ebay-reference="the-study-group-that-actually-helps-learning-flash-card-set" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -606,7 +606,7 @@ Within an accountability partnership or study group, retrieval practice turns le
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -626,7 +626,7 @@ Within an accountability partnership or study group, retrieval practice turns le
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -658,7 +658,7 @@ Within an accountability partnership or study group, retrieval practice turns le
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -710,7 +710,7 @@ Within an accountability partnership or study group, retrieval practice turns le
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -755,7 +755,7 @@ Within an accountability partnership or study group, retrieval practice turns le
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -796,115 +796,115 @@ Within an accountability partnership or study group, retrieval practice turns le
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: link.aps.org  
-   Link: <a href="https://link.aps.org/doi/10.1103/PhysRevPhysEducRes.15.010105" target="_blank" rel="noopener noreferrer nofollow">https://link.aps.org/doi/10.1103/PhysRevPhysEducRes.15.010105</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>APS LinksComparing retrieval-based practice and peer instruction in...by T Zu · 2019 · Cited by 24 — In this study, we compared the effe...</p></details>
+   Link:<a href="https://link.aps.org/doi/10.1103/PhysRevPhysEducRes.15.010105" target="_blank" rel="noopener noreferrer nofollow">https://link.aps.org/doi/10.1103/PhysRevPhysEducRes.15.010105</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>APS LinksComparing retrieval-based practice and peer instruction in...by T Zu · 2019 · Cited by 24 — In this study, we compared the effe...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/320069708_A_meta_-analysis_of_the_effect_of_Peer_Instruction_on_learning_gain_Identification_of_informational_and_cultural_moderators" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/320069708_A_meta_-analysis_of_the_effect_of_Peer_Instruction_on_learning_gain_Identification_of_informational_and_cultural_moderators</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A meta -analysis of the effect of Peer Instruction on learning...Peer Instruction has a positive impact on learning compared to traditio...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/320069708_A_meta_-analysis_of_the_effect_of_Peer_Instruction_on_learning_gain_Identification_of_informational_and_cultural_moderators" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/320069708_A_meta_-analysis_of_the_effect_of_Peer_Instruction_on_learning_gain_Identification_of_informational_and_cultural_moderators</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A meta -analysis of the effect of Peer Instruction on learning...Peer Instruction has a positive impact on learning compared to traditio...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: retrievalpractice.org  
    Title: Pooja K  
-   Link: <a href="https://www.retrievalpractice.org/why-it-works" target="_blank" rel="noopener noreferrer nofollow">https://www.retrievalpractice.org/why-it-works</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Agarwal, Ph.D.What is retrieval practice? - RetrievalPractice.orgRetrieval practice is a strategy in which bringing information to mind e...</p></details>
+   Link:<a href="https://www.retrievalpractice.org/why-it-works" target="_blank" rel="noopener noreferrer nofollow">https://www.retrievalpractice.org/why-it-works</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Agarwal, Ph.D.What is retrieval practice? - RetrievalPractice.orgRetrieval practice is a strategy in which bringing information to mind e...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/347076022_Retrieval_Practice_Beneficial_for_All_Students_or_Moderated_by_Individual_Differences" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/347076022_Retrieval_Practice_Beneficial_for_All_Students_or_Moderated_by_Individual_Differences</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ced long-term memory retention when compared to several other [techniques](&amp;#123;&amp;#123; &#x27;techniques/&#x27; | relative_url &amp;#125;&amp;#125;). Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/347076022_Retrieval_Practice_Beneficial_for_All_Students_or_Moderated_by_Individual_Differences" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/347076022_Retrieval_Practice_Beneficial_for_All_Students_or_Moderated_by_Individual_Differences</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ced long-term memory retention when compared to several other [techniques](&amp;#123;&amp;#123; &#x27;techniques/&#x27; | relative_url &amp;#125;&amp;#125;). Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3983480/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3983480/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralRetrieval practice enhances new learning: the forward effect of...by B Pastötter · 2014 · Cited by 270 — Regarding the bac...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3983480/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3983480/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralRetrieval practice enhances new learning: the forward effect of...by B Pastötter · 2014 · Cited by 270 — Regarding the bac...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: learningscientists.org  
-   Link: <a href="https://www.learningscientists.org/blog/2017/2/9-1" target="_blank" rel="noopener noreferrer nofollow">https://www.learningscientists.org/blog/2017/2/9-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Learning ScientistsNew Meta-analysis of 217 Retrieval Practice StudiesFeb 9, 2017 — Retrieval practice was consistently found to be b...</p></details>
+   Link:<a href="https://www.learningscientists.org/blog/2017/2/9-1" target="_blank" rel="noopener noreferrer nofollow">https://www.learningscientists.org/blog/2017/2/9-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Learning ScientistsNew Meta-analysis of 217 Retrieval Practice StudiesFeb 9, 2017 — Retrieval practice was consistently found to be b...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12894256/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12894256/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralTesting the testing effect on prolific: when retrieval practice...by K Sigayret · 2026 · Cited by 1 — The testing effect—w...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12894256/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12894256/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralTesting the testing effect on prolific: when retrieval practice...by K Sigayret · 2026 · Cited by 1 — The testing effect—w...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10929687/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10929687/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralCollaborative Retrieval Practice Reduces Mind-Wandering...by AG Knopps · 2023 · Cited by 9 — The results showed that engag...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10929687/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10929687/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralCollaborative Retrieval Practice Reduces Mind-Wandering...by AG Knopps · 2023 · Cited by 9 — The results showed that engag...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/00986283251316581" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/00986283251316581</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsThe Effects of Collaborative Practice Testing on Memory for...Jan 31, 2025 — The present research suggests that collaborati...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/00986283251316581" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/00986283251316581</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsThe Effects of Collaborative Practice Testing on Memory for...Jan 31, 2025 — The present research suggests that collaborati...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: 2366135.fs1.hubspotusercontent-na1.net  
    Title: Retrieval Practice Myths, Mutations & Mistakes  
-   Link: <a href="https://2366135.fs1.hubspotusercontent-na1.net/hubfs/2366135/Retrieval%20Practice%20-%20Myths%2C%20Mutations%20%26%20Mistakes.pdf" target="_blank" rel="noopener noreferrer nofollow">https://2366135.fs1.hubspotusercontent-na1.net/hubfs/2366135/Retrieval%20Practice%20-%20Myths%2C%20Mutations%20%26%20Mistakes.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Practice - Myths, Mutations &amp; MistakesRetrieval practice is a strategy supported by evidence and can be used to enhance learning and prog...</p></details>
+   Link:<a href="https://2366135.fs1.hubspotusercontent-na1.net/hubfs/2366135/Retrieval%20Practice%20-%20Myths%2C%20Mutations%20%26%20Mistakes.pdf" target="_blank" rel="noopener noreferrer nofollow">https://2366135.fs1.hubspotusercontent-na1.net/hubfs/2366135/Retrieval%20Practice%20-%20Myths%2C%20Mutations%20%26%20Mistakes.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Practice - Myths, Mutations &amp; MistakesRetrieval practice is a strategy supported by evidence and can be used to enhance learning and prog...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: education-ni.gov.uk  
    Title: Retrieval Practice  
-   Link: <a href="https://www.education-ni.gov.uk/sites/default/files/2025-04/May%20Newsletter%20-%20Retrieval%20Practice%20%20What%20it%20is%2C%20Why%20it%20Works%20and%20How%20to%20Do%20It%20Better.PDF" target="_blank" rel="noopener noreferrer nofollow">https://www.education-ni.gov.uk/sites/default/files/2025-04/May%20Newsletter%20-%20Retrieval%20Practice%20%20What%20it%20is%2C%20Why%20it%20Works%20and%20How%20to%20Do%20It%20Better.PDF</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Retrieval Practice has consistently been found to be one of the most effective learning strategies in all of cognitive psycho...</p></details>
+   Link:<a href="https://www.education-ni.gov.uk/sites/default/files/2025-04/May%20Newsletter%20-%20Retrieval%20Practice%20%20What%20it%20is%2C%20Why%20it%20Works%20and%20How%20to%20Do%20It%20Better.PDF" target="_blank" rel="noopener noreferrer nofollow">https://www.education-ni.gov.uk/sites/default/files/2025-04/May%20Newsletter%20-%20Retrieval%20Practice%20%20What%20it%20is%2C%20Why%20it%20Works%20and%20How%20to%20Do%20It%20Better.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Retrieval Practice has consistently been found to be one of the most effective learning strategies in all of cognitive psycho...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/nature-index/topics/l4/collaborative-learning-strategies-in-higher-education" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/collaborative-learning-strategies-in-higher-education</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Collaborative Learning Strategies in Higher EducationRetrieval practice: A learning strategy that involves actively recalling information...</p></details>
+   Link:<a href="https://www.nature.com/nature-index/topics/l4/collaborative-learning-strategies-in-higher-education" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/collaborative-learning-strategies-in-higher-education</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Collaborative Learning Strategies in Higher EducationRetrieval practice: A learning strategy that involves actively recalling information...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: centerforengagedlearning.org  
-   Link: <a href="https://www.centerforengagedlearning.org/why-letting-your-students-collaborate-on-exams-isnt-a-bad-idea/" target="_blank" rel="noopener noreferrer nofollow">https://www.centerforengagedlearning.org/why-letting-your-students-collaborate-on-exams-isnt-a-bad-idea/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Letting Your Students Collaborate on Exams isn&#x27;t a...by D Buck — Now, the above research really just shows that the testing effect e...</p></details>
+   Link:<a href="https://www.centerforengagedlearning.org/why-letting-your-students-collaborate-on-exams-isnt-a-bad-idea/" target="_blank" rel="noopener noreferrer nofollow">https://www.centerforengagedlearning.org/why-letting-your-students-collaborate-on-exams-isnt-a-bad-idea/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Letting Your Students Collaborate on Exams isn&#x27;t a...by D Buck — Now, the above research really just shows that the testing effect e...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ctl.wustl.edu  
-   Link: <a href="https://ctl.wustl.edu/resources/using-retrieval-practice-to-increase-student-learning/" target="_blank" rel="noopener noreferrer nofollow">https://ctl.wustl.edu/resources/using-retrieval-practice-to-increase-student-learning/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Retrieval practice is the strategy of recalling facts, concepts, or events from memory in order to enhance learning.Read more...</p></details>
+   Link:<a href="https://ctl.wustl.edu/resources/using-retrieval-practice-to-increase-student-learning/" target="_blank" rel="noopener noreferrer nofollow">https://ctl.wustl.edu/resources/using-retrieval-practice-to-increase-student-learning/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Retrieval practice is the strategy of recalling facts, concepts, or events from memory in order to enhance learning.Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: educationendowmentfoundation.org.uk  
    Title: does research on retrieval practice translate into classroom practice  
-   Link: <a href="https://educationendowmentfoundation.org.uk/news/does-research-on-retrieval-practice-translate-into-classroom-practice" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/does-research-on-retrieval-practice-translate-into-classroom-practice</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EEFEEF Blog: Does research on ​&#x27;retrieval practice&#x27; translate...5 Dec 2019 — Retrieval practice is strongly supported by over 100 years...</p></details>
+   Link:<a href="https://educationendowmentfoundation.org.uk/news/does-research-on-retrieval-practice-translate-into-classroom-practice" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/news/does-research-on-retrieval-practice-translate-into-classroom-practice</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EEFEEF Blog: Does research on ​&#x27;retrieval practice&#x27; translate...5 Dec 2019 — Retrieval practice is strongly supported by over 100 years...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: evidencebased.education  
    Title: retrieval practice and technology five key principles  
-   Link: <a href="https://evidencebased.education/resource/retrieval-practice-and-technology-five-key-principles/" target="_blank" rel="noopener noreferrer nofollow">https://evidencebased.education/resource/retrieval-practice-and-technology-five-key-principles/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Retrieval Practice and Technology: Five Key Principles1 Apr 2025 — Learn how retrieval practice can enhance teaching and learning with ne...</p></details>
+   Link:<a href="https://evidencebased.education/resource/retrieval-practice-and-technology-five-key-principles/" target="_blank" rel="noopener noreferrer nofollow">https://evidencebased.education/resource/retrieval-practice-and-technology-five-key-principles/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Retrieval Practice and Technology: Five Key Principles1 Apr 2025 — Learn how retrieval practice can enhance teaching and learning with ne...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: online.ucpress.edu  
    Title: Repeated Retrieval Practice to Foster Students  
-   Link: <a href="https://online.ucpress.edu/collabra/article/7/1/28881/118716/Repeated-Retrieval-Practice-to-Foster-Students" target="_blank" rel="noopener noreferrer nofollow">https://online.ucpress.edu/collabra/article/7/1/28881/118716/Repeated-Retrieval-Practice-to-Foster-Students</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Retrieval Practice to Foster Students&#x27; Critical...Oct 7, 2021 — The present experiment investigated whether repeated retrieval practice...</p></details>
+   Link:<a href="https://online.ucpress.edu/collabra/article/7/1/28881/118716/Repeated-Retrieval-Practice-to-Foster-Students" target="_blank" rel="noopener noreferrer nofollow">https://online.ucpress.edu/collabra/article/7/1/28881/118716/Repeated-Retrieval-Practice-to-Foster-Students</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Retrieval Practice to Foster Students&#x27; Critical...Oct 7, 2021 — The present experiment investigated whether repeated retrieval practice...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: resolve.cambridge.org  
-   Link: <a href="https://resolve.cambridge.org/core/journals/canadian-journal-of-linguistics-revue-canadienne-de-linguistique/article/improved-student-learning-through-active-retrieval-practice-and-randomsampled-exams/0BC0D7C392693E4CCD52C78D8077E320" target="_blank" rel="noopener noreferrer nofollow">https://resolve.cambridge.org/core/journals/canadian-journal-of-linguistics-revue-canadienne-de-linguistique/article/improved-student-learning-through-active-retrieval-practice-and-randomsampled-exams/0BC0D7C392693E4CCD52C78D8077E320</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>student learning through active retrieval practice...16 Dec 2024 — One pedagogical finding that has gained recent attention is the utili...</p></details>
+   Link:<a href="https://resolve.cambridge.org/core/journals/canadian-journal-of-linguistics-revue-canadienne-de-linguistique/article/improved-student-learning-through-active-retrieval-practice-and-randomsampled-exams/0BC0D7C392693E4CCD52C78D8077E320" target="_blank" rel="noopener noreferrer nofollow">https://resolve.cambridge.org/core/journals/canadian-journal-of-linguistics-revue-canadienne-de-linguistique/article/improved-student-learning-through-active-retrieval-practice-and-randomsampled-exams/0BC0D7C392693E4CCD52C78D8077E320</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>student learning through active retrieval practice...16 Dec 2024 — One pedagogical finding that has gained recent attention is the utili...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/09500693.2023.2283906" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/09500693.2023.2283906</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Retrieval-based learning versus discussion; which review...by A Jakobsson · 2024 · Cited by 16 — The aim of this study was to compare tw...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/09500693.2023.2283906" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/09500693.2023.2283906</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Retrieval-based learning versus discussion; which review...by A Jakobsson · 2024 · Cited by 16 — The aim of this study was to compare tw...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: wgu.edu  
-   Link: <a href="https://www.wgu.edu/blog/peer-learning2208.html" target="_blank" rel="noopener noreferrer nofollow">https://www.wgu.edu/blog/peer-learning2208.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Peer Learning in Education: Overview, Benefits, and...Mar 2, 2026 — Peer learning is an educational approach where students interact wit...</p></details>
+   Link:<a href="https://www.wgu.edu/blog/peer-learning2208.html" target="_blank" rel="noopener noreferrer nofollow">https://www.wgu.edu/blog/peer-learning2208.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Peer Learning in Education: Overview, Benefits, and...Mar 2, 2026 — Peer learning is an educational approach where students interact wit...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12292765/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12292765/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Use of Retrieval Practice in the Health Professions - PMCby MJ Serra · 2025 · Cited by 12 — Retrieval practice, or the active recall of i...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12292765/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12292765/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Use of Retrieval Practice in the Health Professions - PMCby MJ Serra · 2025 · Cited by 12 — Retrieval practice, or the active recall of i...</p></details>

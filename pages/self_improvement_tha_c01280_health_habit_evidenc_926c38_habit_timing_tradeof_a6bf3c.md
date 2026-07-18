@@ -268,14 +268,14 @@ image: /assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_ha
 
 ## Introduction
 
-Morning is not automatically the best time for every health habit. The strongest evidence suggests a more nuanced rule: habits are easier to maintain when they are attached to a reliable cue and repeated consistently. Morning routines often provide that stability because they face fewer interruptions, competing demands and decision points. However, evening habits can work just as well when they fit a person's natural schedule, energy patterns and existing routines. The practical question is not “What is the optimal hour?” but “When can this behaviour happen repeatedly under real-life conditions?” Research on habit formation, exercise adherence and routine stability points towards consistency and cue quality as the main drivers of [automaticity]({{ 'automaticity/' | relative_url }}), with clock time playing a supporting role. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 851 — Automaticity develo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Context Stability in Habit Building Increases Automaticity...by M Stojanovic · 2022 · Cited by 18 — In this paper, we investigate the ef...</span></span></span>
+Morning is not automatically the best time for every health habit. The strongest evidence suggests a more nuanced rule: habits are easier to maintain when they are attached to a reliable cue and repeated consistently. Morning routines often provide that stability because they face fewer interruptions, competing demands and decision points. However, evening habits can work just as well when they fit a person's natural schedule, energy patterns and existing routines. The practical question is not “What is the optimal hour?” but “When can this behaviour happen repeatedly under real-life conditions?” Research on habit formation, exercise adherence and routine stability points towards consistency and cue quality as the main drivers of [automaticity]({{ 'automaticity/' | relative_url }}), with clock time playing a supporting role.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 851 — Automaticity develo...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Context Stability in Habit Building Increases Automaticity...by M Stojanovic · 2022 · Cited by 18 — In this paper, we investigate the ef...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_habit_timing_tradeof_a6bf3c-Illustration-1-dark.svg" | relative_url }}" alt="Timing illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_habit_timing_tradeof_a6bf3c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_habit_timing_tradeof_a6bf3c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why mornings may help repetition
 
 Morning habits have a structural advantage: the day has not yet had a chance to interfere.
 
-Many health behaviours fail not because people reject them, but because work demands, family responsibilities, fatigue and unexpected events crowd them out. A morning walk, stretching session or medication routine is often completed before those competing pressures appear. Researchers studying exercise adherence have argued that consistent morning exercise may [support]({{ 'support/' | relative_url }}) habit formation because morning routines already contain [stable cues]({{ 'stable-cues/' | relative_url }}) that can trigger behaviour repeatedly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.lww.com/acsm-essr/fulltext/2020/10000/consistent_morning_exercise_may_be_beneficial_for.7.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.lww.com">[Lippincott Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.lww.com</span><span class="citation-popover-snippet">Lippincott JournalsConsistent Morning Exercise May Be Beneficial for...This review explores the hypothesis that a consistent exercise tim...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://exerciseismedicine.gr/wp-content/uploads/2020/09/Consistent_Morning_Exercise_May_Be_Beneficial_for.7.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exerciseismedicine.gr">[2exerciseismedicine.gr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exerciseismedicine.gr</span><span class="citation-popover-snippet">Again, consistent morning exercise may be...</span></span></span>
+Many health behaviours fail not because people reject them, but because work demands, family responsibilities, fatigue and unexpected events crowd them out. A morning walk, stretching session or medication routine is often completed before those competing pressures appear. Researchers studying exercise adherence have argued that consistent morning exercise may [support]({{ 'support/' | relative_url }}) habit formation because morning routines already contain [stable cues]({{ 'stable-cues/' | relative_url }}) that can trigger behaviour repeatedly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.lww.com/acsm-essr/fulltext/2020/10000/consistent_morning_exercise_may_be_beneficial_for.7.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.lww.com">[Lippincott Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.lww.com</span><span class="citation-popover-snippet">Lippincott JournalsConsistent Morning Exercise May Be Beneficial for...This review explores the hypothesis that a consistent exercise tim...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://exerciseismedicine.gr/wp-content/uploads/2020/09/Consistent_Morning_Exercise_May_Be_Beneficial_for.7.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exerciseismedicine.gr">[2exerciseismedicine.gr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exerciseismedicine.gr</span><span class="citation-popover-snippet">Again, consistent morning exercise may be...</span></span></span>
 
 This advantage is behavioural rather than magical. The benefit comes from predictability:
 
@@ -288,7 +288,7 @@ This advantage is behavioural rather than magical. The benefit comes from predic
 
 </div>
 
-Studies of long-term exercisers have found that consistent early-morning activity is associated with stronger exercise automaticity and more stable routines. Importantly, the proposed mechanism is not that morning exercise changes [motivation]({{ 'motivation/' | relative_url }}) directly; it is that regular timing helps create cue-behaviour associations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 851 — Automaticity develo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://exerciseismedicine.gr/wp-content/uploads/2020/09/Consistent_Morning_Exercise_May_Be_Beneficial_for.7.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exerciseismedicine.gr">[2exerciseismedicine.gr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exerciseismedicine.gr</span><span class="citation-popover-snippet">Again, consistent morning exercise may be...</span></span></span>
+Studies of long-term exercisers have found that consistent early-morning activity is associated with stronger exercise automaticity and more stable routines. Importantly, the proposed mechanism is not that morning exercise changes [motivation]({{ 'motivation/' | relative_url }}) directly; it is that regular timing helps create cue-behaviour associations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 851 — Automaticity develo...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://exerciseismedicine.gr/wp-content/uploads/2020/09/Consistent_Morning_Exercise_May_Be_Beneficial_for.7.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: exerciseismedicine.gr">[2exerciseismedicine.gr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">exerciseismedicine.gr</span><span class="citation-popover-snippet">Again, consistent morning exercise may be...</span></span></span>
 
 For behaviours that are easy to perform soon after waking—such as taking medication, drinking water, brief mobility work or preparing a healthy breakfast—the morning often offers a naturally protected slot.
 
@@ -298,11 +298,11 @@ For behaviours that are easy to perform soon after waking—such as taking medic
 
 The strongest habit-formation evidence points towards context stability rather than a universal ideal time.
 
-Habit researchers describe automaticity as developing when a behaviour is repeated in a consistent context. The cue might be a time of day, but it can also be another routine: after brushing teeth, after arriving at work, after lunch, or after putting children to bed. Stable contexts help the brain learn when a behaviour belongs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 851 — Automaticity develo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Context Stability in Habit Building Increases Automaticity...by M Stojanovic · 2022 · Cited by 18 — In this paper, we investigate the ef...</span></span></span>
+Habit researchers describe automaticity as developing when a behaviour is repeated in a consistent context. The cue might be a time of day, but it can also be another routine: after brushing teeth, after arriving at work, after lunch, or after putting children to bed. Stable contexts help the brain learn when a behaviour belongs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 851 — Automaticity develo...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Context Stability in Habit Building Increases Automaticity...by M Stojanovic · 2022 · Cited by 18 — In this paper, we investigate the ef...</span></span></span>
 
 This distinction matters because people often mistake “6:00 a.m.” for the cue when the real cue is “after getting out of bed”. The latter is usually more robust because it survives weekends, travel and schedule shifts.
 
-A randomised trial examining nutrition habits found that linking behaviour to a daily routine was about as effective as linking it to a specific clock time. The key factor was not whether the cue was temporal or routine-based, but whether people repeatedly acted when the cue occurred. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.tilburguniversity.edu/en/publications/habit-formation-following-routine-based-versus-time-based-cue-pla/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.tilburguniversity.edu">[Tilburg University Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.tilburguniversity.edu</span><span class="citation-popover-title">habit formation following routine based versus time based cue pla</span><span class="citation-popover-snippet">Interventions should encourage...Read more...</span></span></span>
+A randomised trial examining nutrition habits found that linking behaviour to a daily routine was about as effective as linking it to a specific clock time. The key factor was not whether the cue was temporal or routine-based, but whether people repeatedly acted when the cue occurred.<span class="citation-chip-wrap"><a class="citation-chip" href="https://research.tilburguniversity.edu/en/publications/habit-formation-following-routine-based-versus-time-based-cue-pla/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.tilburguniversity.edu">[Tilburg University Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.tilburguniversity.edu</span><span class="citation-popover-title">habit formation following routine based versus time based cue pla</span><span class="citation-popover-snippet">Interventions should encourage...Read more...</span></span></span>
 
 In practice, this means:
 
@@ -320,7 +320,7 @@ The best cue is frequently the one that already happens every day.
 
 The common self-improvement message that everything important should happen before breakfast ignores major differences between people.
 
-Some individuals have later chronotypes—the biological tendency to feel more alert and energetic later in the day. Research on chronotypes consistently finds meaningful variation in when people perform best physically and mentally. More recent evidence suggests that matching activity timing to one's chronotype may improve adherence, sleep quality and health outcomes more effectively than forcing everyone into the same schedule. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.com/life-style/health-fitness/article/body-clock-when-should-you-exercise-morning-or-evening-cldvpmvhp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.com">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.com</span><span class="citation-popover-title">The Times Lark or owl?</span><span class="citation-popover-snippet">Here&#x27;s when you should exercise - and what you should doA recent study published in the journal *Open Heart* suggests that aligning your...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 851 — Automaticity develo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 851 — Automaticity develo...</span></span></span>
+Some individuals have later chronotypes—the biological tendency to feel more alert and energetic later in the day. Research on chronotypes consistently finds meaningful variation in when people perform best physically and mentally. More recent evidence suggests that matching activity timing to one's chronotype may improve adherence, sleep quality and health outcomes more effectively than forcing everyone into the same schedule.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.com/life-style/health-fitness/article/body-clock-when-should-you-exercise-morning-or-evening-cldvpmvhp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.com">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.com</span><span class="citation-popover-title">The Times Lark or owl?</span><span class="citation-popover-snippet">Here&#x27;s when you should exercise - and what you should doA recent study published in the journal *Open Heart* suggests that aligning your...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 851 — Automaticity develo...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 851 — Automaticity develo...</span></span></span>
 
 Evening timing may be particularly useful when:
 
@@ -335,7 +335,7 @@ Evening timing may be particularly useful when:
 
 For example, a post-dinner walk has a built-in cue, occurs after a predictable daily event and can become part of a household routine. Similarly, evening meal preparation, stretching or planning for the next day may fit naturally into an established shutdown ritual.
 
-Exercise research also complicates the simple “earlier is better” story. Physiological performance measures such as strength, power and some cardiovascular responses often peak later in the day. While that does not automatically improve habit formation, it can make the activity feel easier or more rewarding for some people, which may indirectly support consistency. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 851 — Automaticity develo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 851 — Automaticity develo...</span></span></span>
+Exercise research also complicates the simple “earlier is better” story. Physiological performance measures such as strength, power and some cardiovascular responses often peak later in the day. While that does not automatically improve habit formation, it can make the activity feel easier or more rewarding for some people, which may indirectly support consistency.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 851 — Automaticity develo...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 851 — Automaticity develo...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_habit_timing_tradeof_a6bf3c-Illustration-2-dark.svg" | relative_url }}" alt="Timing illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_habit_timing_tradeof_a6bf3c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_health_habit_evidenc_926c38_habit_timing_tradeof_a6bf3c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to match timing to the behaviour
@@ -355,7 +355,7 @@ Examples include:
 * Preparing a healthy breakfast.
 * Packing healthy food before leaving home.
 
-These habits are generally simple, benefit from stable cues and can be completed before the day becomes complicated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 851 — Automaticity develo...</span></span></span>
+These habits are generally simple, benefit from stable cues and can be completed before the day becomes complicated.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 851 — Automaticity develo...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/idhDz9miZ3w" title="The Science of How Your Brain Forms Habits (and How to Take Control)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=idhDz9miZ3w" target="_blank" rel="noopener noreferrer">The Science of How Your Brain Forms Habits (and How to Take Control)</a></p><p class="youtube-embed-meta">Channel: Dr. Tracey Marks &middot; Views: 178.5K &middot; Uploaded: April 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=idhDz9miZ3w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=idhDz9miZ3w">Open on YouTube</a></p></div></div></div>
 
@@ -382,207 +382,207 @@ These behaviours often benefit from a transition cue such as finishing work, eat
 
 Some habits gain little from being forced into either morning or evening.
 
-Flossing, taking supplements, applying sunscreen before leaving home, or completing a rehabilitation exercise may be easiest when attached to a behaviour that already occurs daily. In these cases, cue reliability usually matters more than the hour on the clock. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.tilburguniversity.edu/en/publications/habit-formation-following-routine-based-versus-time-based-cue-pla/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.tilburguniversity.edu">[Tilburg University Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.tilburguniversity.edu</span><span class="citation-popover-title">habit formation following routine based versus time based cue pla</span><span class="citation-popover-snippet">Interventions should encourage...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://discovery.ucl.ac.uk/id/eprint/10118622/1/Jan%20paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.ucl.ac.uk">[UCL Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.ucl.ac.uk</span><span class="citation-popover-title">Jan paper</span><span class="citation-popover-snippet">Routine cues are linked to higher behavioural automaticity in...</span></span></span>
+Flossing, taking supplements, applying sunscreen before leaving home, or completing a rehabilitation exercise may be easiest when attached to a behaviour that already occurs daily. In these cases, cue reliability usually matters more than the hour on the clock.<span class="citation-chip-wrap"><a class="citation-chip" href="https://research.tilburguniversity.edu/en/publications/habit-formation-following-routine-based-versus-time-based-cue-pla/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.tilburguniversity.edu">[Tilburg University Research Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.tilburguniversity.edu</span><span class="citation-popover-title">habit formation following routine based versus time based cue pla</span><span class="citation-popover-snippet">Interventions should encourage...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://discovery.ucl.ac.uk/id/eprint/10118622/1/Jan%20paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.ucl.ac.uk">[UCL Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.ucl.ac.uk</span><span class="citation-popover-title">Jan paper</span><span class="citation-popover-snippet">Routine cues are linked to higher behavioural automaticity in...</span></span></span>
 
 ## The practical decision rule
 
 For self-improvement, the most useful question is not whether morning or evening is theoretically superior. It is whether the chosen time consistently survives ordinary life.
 
-Morning timing often wins because it reduces exposure to interruptions and provides stable cues. Evening timing can win when it aligns better with energy levels, chronotype or household routines. The evidence on habit formation repeatedly points in the same direction: automaticity grows when behaviours occur in a stable context that repeats often enough for the cue and action to become linked. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 851 — Automaticity develo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Context Stability in Habit Building Increases Automaticity...by M Stojanovic · 2022 · Cited by 18 — In this paper, we investigate the ef...</span></span></span>
+Morning timing often wins because it reduces exposure to interruptions and provides stable cues. Evening timing can win when it aligns better with energy levels, chronotype or household routines. The evidence on habit formation repeatedly points in the same direction: automaticity grows when behaviours occur in a stable context that repeats often enough for the cue and action to become linked.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 851 — Automaticity develo...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Context Stability in Habit Building Increases Automaticity...by M Stojanovic · 2022 · Cited by 18 — In this paper, we investigate the ef...</span></span></span>
 
-A reliable evening cue is usually more valuable than an aspirational morning schedule that repeatedly fails. The best habit time is therefore not the earliest available slot but the one that a person can repeat with the least friction for months rather than days. MDPI <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 851 — Automaticity develo...</span></span></span>
+A reliable evening cue is usually more valuable than an aspirational morning schedule that repeatedly fails. The best habit time is therefore not the earliest available slot but the one that a person can repeat with the least friction for months rather than days. MDPI<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 851 — Automaticity develo...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/k3Ls28qBT5c" title="How to Create a Morning Routine (and Stick to It Long-Term)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=k3Ls28qBT5c" target="_blank" rel="noopener noreferrer">How to Create a Morning Routine (and Stick to It Long-Term)</a></p><p class="youtube-embed-meta">Channel: Thomas Frank &middot; Views: 1.1M &middot; Uploaded: May 2017 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=k3Ls28qBT5c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=k3Ls28qBT5c">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Is morning really the best habit time?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Is morning really the best habit time?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Explains habit cues, consistency, and fitting behaviours into existing routines rather than chasing ideal times.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Explains habit cues, consistency, and fitting behaviours into existing routines rather than chasing ideal times.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rrlPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Power of Habit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
-        </h4>
-        <p class="fr-book-author">By Charles Duhigg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rrlPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Power of Habit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
+</h4>
+<p class="fr-book-author">By Charles Duhigg</p>
         
-        <p class="fr-book-desc">Focuses on cue-routine-reward loops and how stable contexts support repetition.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on cue-routine-reward loops and how stable contexts support repetition.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
-        </h4>
-        <p class="fr-book-author">By B. J. Fogg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
+</h4>
+<p class="fr-book-author">By B. J. Fogg</p>
         
-        <p class="fr-book-desc">Emphasises attaching actions to reliable prompts and routines.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasises attaching actions to reliable prompts and routines.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Miracle+Morning+by+Hal+Elrod&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Miracle Morning on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Miracle+Morning+by+Hal+Elrod&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Miracle Morning">The Miracle Morning</a>
-        </h4>
-        <p class="fr-book-author">By Hal Elrod</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Miracle+Morning+by+Hal+Elrod&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Miracle Morning on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Miracle+Morning+by+Hal+Elrod&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Miracle Morning">The Miracle Morning</a>
+</h4>
+<p class="fr-book-author">By Hal Elrod</p>
         
-        <p class="fr-book-desc">Directly addresses morning routines and their advantages for consistency.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Miracle+Morning+by+Hal+Elrod&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses morning routines and their advantages for consistency.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Miracle+Morning+by+Hal+Elrod&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Power+of+Habit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Power of Habit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Power+of+Habit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Power of Habit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-morning-really-the-best-habit-time-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="is-morning-really-the-best-habit-time-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A5 Habit Tracker Calendar Daily Weekly Monthly Goal Planner 250gsm Wire‑Bound"><img src="https://i.ebayimg.com/images/g/WrEAAeSwMX9pTtTw/s-l225.jpg" alt="Listing image for A5 Habit Tracker Calendar Daily Weekly Monthly Goal Planner 250gsm Wire‑Bound" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-morning-really-the-best-habit-time-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="is-morning-really-the-best-habit-time-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">A5 Habit Tracker Calendar Daily Weekly Monthly Goal Planner 250gsm Wire‑Bound</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-morning-really-the-best-habit-time-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="is-morning-really-the-best-habit-time-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-morning-really-the-best-habit-time-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="is-morning-really-the-best-habit-time-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-morning-really-the-best-habit-time-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="is-morning-really-the-best-habit-time-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A5 Habit Tracker Calendar Daily Weekly Monthly Goal Planner 250gsm Wire‑Bound"><img src="https://i.ebayimg.com/images/g/WrEAAeSwMX9pTtTw/s-l225.jpg" alt="Listing image for A5 Habit Tracker Calendar Daily Weekly Monthly Goal Planner 250gsm Wire‑Bound" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-morning-really-the-best-habit-time-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="is-morning-really-the-best-habit-time-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">A5 Habit Tracker Calendar Daily Weekly Monthly Goal Planner 250gsm Wire‑Bound</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-morning-really-the-best-habit-time-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="is-morning-really-the-best-habit-time-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-morning-really-the-best-habit-time-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="is-morning-really-the-best-habit-time-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-morning-really-the-best-habit-time-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="is-morning-really-the-best-habit-time-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar – Daily, Weekly &amp; Monthly Habit &amp; Goal Tracker, Wire-Boun"><img src="https://i.ebayimg.com/images/g/cOEAAeSw5jFppzlq/s-l225.jpg" alt="Listing image for Habit Tracker Calendar – Daily, Weekly &amp; Monthly Habit &amp; Goal Tracker, Wire-Boun" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-morning-really-the-best-habit-time-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="is-morning-really-the-best-habit-time-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar – Daily, Weekly &amp; Monthly Habit &amp; Goal Tracker, Wire-Boun</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-morning-really-the-best-habit-time-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="is-morning-really-the-best-habit-time-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-morning-really-the-best-habit-time-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="is-morning-really-the-best-habit-time-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-morning-really-the-best-habit-time-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="is-morning-really-the-best-habit-time-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar – Daily, Weekly &amp; Monthly Habit &amp; Goal Tracker, Wire-Boun"><img src="https://i.ebayimg.com/images/g/cOEAAeSw5jFppzlq/s-l225.jpg" alt="Listing image for Habit Tracker Calendar – Daily, Weekly &amp; Monthly Habit &amp; Goal Tracker, Wire-Boun" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-morning-really-the-best-habit-time-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="is-morning-really-the-best-habit-time-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar – Daily, Weekly &amp; Monthly Habit &amp; Goal Tracker, Wire-Boun</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-morning-really-the-best-habit-time-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="is-morning-really-the-best-habit-time-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-morning-really-the-best-habit-time-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="is-morning-really-the-best-habit-time-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-morning-really-the-best-habit-time-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="is-morning-really-the-best-habit-time-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Wall Calendar 2026"><img src="https://i.ebayimg.com/images/g/BgMAAeSw0mNqArLP/s-l225.jpg" alt="Listing image for Habit Tracker Wall Calendar 2026" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-morning-really-the-best-habit-time-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="is-morning-really-the-best-habit-time-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Wall Calendar 2026</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-morning-really-the-best-habit-time-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="is-morning-really-the-best-habit-time-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-morning-really-the-best-habit-time-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="is-morning-really-the-best-habit-time-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-morning-really-the-best-habit-time-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="is-morning-really-the-best-habit-time-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Wall Calendar 2026"><img src="https://i.ebayimg.com/images/g/BgMAAeSw0mNqArLP/s-l225.jpg" alt="Listing image for Habit Tracker Wall Calendar 2026" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-morning-really-the-best-habit-time-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="is-morning-really-the-best-habit-time-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Wall Calendar 2026</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-morning-really-the-best-habit-time-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="is-morning-really-the-best-habit-time-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-morning-really-the-best-habit-time-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="is-morning-really-the-best-habit-time-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-morning-really-the-best-habit-time-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="is-morning-really-the-best-habit-time-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,..."><img src="https://i.ebayimg.com/images/g/bcYAAeSw7cJqHb1X/s-l225.jpg" alt="Listing image for Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,..." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-morning-really-the-best-habit-time-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="is-morning-really-the-best-habit-time-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,...</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-morning-really-the-best-habit-time-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="is-morning-really-the-best-habit-time-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-morning-really-the-best-habit-time-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="is-morning-really-the-best-habit-time-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-morning-really-the-best-habit-time-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="is-morning-really-the-best-habit-time-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-morning-really-the-best-habit-time-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="is-morning-really-the-best-habit-time-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,..."><img src="https://i.ebayimg.com/images/g/bcYAAeSw7cJqHb1X/s-l225.jpg" alt="Listing image for Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,..." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-morning-really-the-best-habit-time-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="is-morning-really-the-best-habit-time-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,...</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-morning-really-the-best-habit-time-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="is-morning-really-the-best-habit-time-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-morning-really-the-best-habit-time-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="is-morning-really-the-best-habit-time-habit-tracker-calendar" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-morning-really-the-best-habit-time-habit-tracker-calendar&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker calendar" data-ebay-reference="is-morning-really-the-best-habit-time-habit-tracker-calendar" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -598,7 +598,7 @@ A reliable evening cue is usually more valuable than an aspirational morning sch
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -618,7 +618,7 @@ A reliable evening cue is usually more valuable than an aspirational morning sch
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -650,7 +650,7 @@ A reliable evening cue is usually more valuable than an aspirational morning sch
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -702,7 +702,7 @@ A reliable evening cue is usually more valuable than an aspirational morning sch
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -747,7 +747,7 @@ A reliable evening cue is usually more valuable than an aspirational morning sch
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -788,141 +788,141 @@ A reliable evening cue is usually more valuable than an aspirational morning sch
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: exerciseismedicine.gr  
-   Link: <a href="https://exerciseismedicine.gr/wp-content/uploads/2020/09/Consistent_Morning_Exercise_May_Be_Beneficial_for.7.pdf" target="_blank" rel="noopener noreferrer nofollow">https://exerciseismedicine.gr/wp-content/uploads/2020/09/Consistent_Morning_Exercise_May_Be_Beneficial_for.7.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Again, consistent morning exercise may be...</p></details>
+   Link:<a href="https://exerciseismedicine.gr/wp-content/uploads/2020/09/Consistent_Morning_Exercise_May_Be_Beneficial_for.7.pdf" target="_blank" rel="noopener noreferrer nofollow">https://exerciseismedicine.gr/wp-content/uploads/2020/09/Consistent_Morning_Exercise_May_Be_Beneficial_for.7.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Again, consistent morning exercise may be...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2227-9032/12/23/2488" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2227-9032/12/23/2488</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Time to Form a Habit: A Systematic Review and Meta-...by B Singh · 2024 · Cited by 97 — Conclusions: Emerging evidence on health-rel...</p></details>
+   Link:<a href="https://www.mdpi.com/2227-9032/12/23/2488" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2227-9032/12/23/2488</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Time to Form a Habit: A Systematic Review and Meta-...by B Singh · 2024 · Cited by 97 — Conclusions: Emerging evidence on health-rel...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/1660-4601/20/3/2083" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1660-4601/20/3/2083</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Time of Day and Chronotype-Dependent Synchrony Effects...by EM Malek · 2023 · Cited by 11 — Our data suggests that exercise timing has l...</p></details>
+   Link:<a href="https://www.mdpi.com/1660-4601/20/3/2083" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1660-4601/20/3/2083</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Time of Day and Chronotype-Dependent Synchrony Effects...by EM Malek · 2023 · Cited by 11 — Our data suggests that exercise timing has l...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 851 — Automaticity develo...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 851 — Automaticity develo...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Context Stability in Habit Building Increases Automaticity...by M Stojanovic · 2022 · Cited by 18 — In this paper, we investigate the ef...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Context Stability in Habit Building Increases Automaticity...by M Stojanovic · 2022 · Cited by 18 — In this paper, we investigate the ef...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: journals.lww.com  
-   Link: <a href="https://journals.lww.com/acsm-essr/fulltext/2020/10000/consistent_morning_exercise_may_be_beneficial_for.7.aspx" target="_blank" rel="noopener noreferrer nofollow">https://journals.lww.com/acsm-essr/fulltext/2020/10000/consistent_morning_exercise_may_be_beneficial_for.7.aspx</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lippincott JournalsConsistent Morning Exercise May Be Beneficial for...This review explores the hypothesis that a consistent exercise tim...</p></details>
+   Link:<a href="https://journals.lww.com/acsm-essr/fulltext/2020/10000/consistent_morning_exercise_may_be_beneficial_for.7.aspx" target="_blank" rel="noopener noreferrer nofollow">https://journals.lww.com/acsm-essr/fulltext/2020/10000/consistent_morning_exercise_may_be_beneficial_for.7.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lippincott JournalsConsistent Morning Exercise May Be Beneficial for...This review explores the hypothesis that a consistent exercise tim...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8764567/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8764567/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Consistent early morning exercise was most strongly related to exercise automaticity and...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8764567/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8764567/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Consistent early morning exercise was most strongly related to exercise automaticity and...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: research.tilburguniversity.edu  
    Title: habit formation following routine based versus time based cue pla  
-   Link: <a href="https://research.tilburguniversity.edu/en/publications/habit-formation-following-routine-based-versus-time-based-cue-pla/" target="_blank" rel="noopener noreferrer nofollow">https://research.tilburguniversity.edu/en/publications/habit-formation-following-routine-based-versus-time-based-cue-pla/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Interventions should encourage...Read more...</p></details>
+   Link:<a href="https://research.tilburguniversity.edu/en/publications/habit-formation-following-routine-based-versus-time-based-cue-pla/" target="_blank" rel="noopener noreferrer nofollow">https://research.tilburguniversity.edu/en/publications/habit-formation-following-routine-based-versus-time-based-cue-pla/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Interventions should encourage...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: discovery.ucl.ac.uk  
    Title: Jan paper  
-   Link: <a href="https://discovery.ucl.ac.uk/id/eprint/10118622/1/Jan%20paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/id/eprint/10118622/1/Jan%20paper.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Routine cues are linked to higher behavioural automaticity in...</p></details>
+   Link:<a href="https://discovery.ucl.ac.uk/id/eprint/10118622/1/Jan%20paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/id/eprint/10118622/1/Jan%20paper.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Routine cues are linked to higher behavioural automaticity in...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9367887/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9367887/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by N Sempere-Rubio · 2022 · Cited by 91 — This systematic review includes 23 studies fulfilling the selection criteria that analyses t...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9367887/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9367887/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by N Sempere-Rubio · 2022 · Cited by 91 — This systematic review includes 23 studies fulfilling the selection criteria that analyses t...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central The effects of time of day and chronotype on cognitive  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6200828/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6200828/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by ER Facer-Childs · 2018 · Cited by 240 — This study aimed to investigate the impact of chronotype on indices of cognitive and physic...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6200828/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6200828/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by ER Facer-Childs · 2018 · Cited by 240 — This study aimed to investigate the impact of chronotype on indices of cognitive and physic...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: thetimes.com  
    Title: The Times Lark or owl?  
-   Link: <a href="https://www.thetimes.com/life-style/health-fitness/article/body-clock-when-should-you-exercise-morning-or-evening-cldvpmvhp" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/life-style/health-fitness/article/body-clock-when-should-you-exercise-morning-or-evening-cldvpmvhp</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s when you should exercise - and what you should doA recent study published in the journal *Open Heart* suggests that aligning your...</p></details>
+   Link:<a href="https://www.thetimes.com/life-style/health-fitness/article/body-clock-when-should-you-exercise-morning-or-evening-cldvpmvhp" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/life-style/health-fitness/article/body-clock-when-should-you-exercise-morning-or-evening-cldvpmvhp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s when you should exercise - and what you should doA recent study published in the journal *Open Heart* suggests that aligning your...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Morning and evening exercise  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5481716/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5481716/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralMorning and evening exercise - PMCby DY Seo · 2013 · Cited by 60 — In the present review, we confirm that the diurnal or ho...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5481716/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5481716/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralMorning and evening exercise - PMCby DY Seo · 2013 · Cited by 60 — In the present review, we confirm that the diurnal or ho...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10214902/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10214902/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by LC Brito · 2022 · Cited by 41 — Indeed, different research groups have consistently found greater CV benefits when exercise is cond...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10214902/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10214902/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by LC Brito · 2022 · Cited by 41 — Indeed, different research groups have consistently found greater CV benefits when exercise is cond...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sleepfoundation.org  
-   Link: <a href="https://www.sleepfoundation.org/how-sleep-works/chronotypes" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/how-sleep-works/chronotypes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, Types, &amp; Effect on Sleep10 Jul 2025 — Chronotype is the natural inclination of your body to sleep at a certain time, or what...</p></details>
+   Link:<a href="https://www.sleepfoundation.org/how-sleep-works/chronotypes" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/how-sleep-works/chronotypes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, Types, &amp; Effect on Sleep10 Jul 2025 — Chronotype is the natural inclination of your body to sleep at a certain time, or what...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: oxford-review.com  
    Title: Habit Formation  
-   Link: <a href="https://oxford-review.com/habit-formation-what-the-neuroscience-is-saying/" target="_blank" rel="noopener noreferrer nofollow">https://oxford-review.com/habit-formation-what-the-neuroscience-is-saying/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What the Neuroscience is SayingThe neuroscience of habit formation reveals why some behaviours become automatic and how organisations can...</p></details>
+   Link:<a href="https://oxford-review.com/habit-formation-what-the-neuroscience-is-saying/" target="_blank" rel="noopener noreferrer nofollow">https://oxford-review.com/habit-formation-what-the-neuroscience-is-saying/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What the Neuroscience is SayingThe neuroscience of habit formation reveals why some behaviours become automatic and how organisations can...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/316882937_Chronotype_Physical_Activity_and_Sport_Performance_A_Systematic_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/316882937_Chronotype_Physical_Activity_and_Sport_Performance_A_Systematic_Review</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Chronotype, Physical Activity, and Sport PerformanceThe objective of the present review was to study the effect of chronotype on at...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/316882937_Chronotype_Physical_Activity_and_Sport_Performance_A_Systematic_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/316882937_Chronotype_Physical_Activity_and_Sport_Performance_A_Systematic_Review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Chronotype, Physical Activity, and Sport PerformanceThe objective of the present review was to study the effect of chronotype on at...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/365790456_Habit_formation_in_context_Context-specific_and_context-free_measures_for_tracking_fruit_consumption_habit_formation_and_behaviour" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/365790456_Habit_formation_in_context_Context-specific_and_context-free_measures_for_tracking_fruit_consumption_habit_formation_and_behaviour</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Habit formation in context: Context‐specific and...28 Nov 2022 — Objectives Interventions promoting habitual fruit consumption hav...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/365790456_Habit_formation_in_context_Context-specific_and_context-free_measures_for_tracking_fruit_consumption_habit_formation_and_behaviour" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/365790456_Habit_formation_in_context_Context-specific_and_context-free_measures_for_tracking_fruit_consumption_habit_formation_and_behaviour</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Habit formation in context: Context‐specific and...28 Nov 2022 — Objectives Interventions promoting habitual fruit consumption hav...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Time to Form a Habit: A Systematic Review and...4 Dec 2024 — Habit formation typically takes 2 to 6 months, and up to a year for s...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Time to Form a Habit: A Systematic Review and...4 Dec 2024 — Habit formation typically takes 2 to 6 months, and up to a year for s...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/Bas-Verplanken/publication/45364462_The_Automatic_Component_of_Habit_in_Health_Behavior_Habit_as_Cue-Contingent_Automaticity/links/5535045b0cf2df9ea6a42a91/The-Automatic-Component-of-Habit-in-Health-Behavior-Habit-as-Cue-Contingent-Automaticity.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Bas-Verplanken/publication/45364462_The_Automatic_Component_of_Habit_in_Health_Behavior_Habit_as_Cue-Contingent_Automaticity/links/5535045b0cf2df9ea6a42a91/The-Automatic-Component-of-Habit-in-Health-Behavior-Habit-as-Cue-Contingent-Automaticity.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Automatic Component of Habit in Health BehaviorObjective: Habit might be usefully characterized as a form of automaticity that involv...</p></details>
+   Link:<a href="https://www.researchgate.net/profile/Bas-Verplanken/publication/45364462_The_Automatic_Component_of_Habit_in_Health_Behavior_Habit_as_Cue-Contingent_Automaticity/links/5535045b0cf2df9ea6a42a91/The-Automatic-Component-of-Habit-in-Health-Behavior-Habit-as-Cue-Contingent-Automaticity.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Bas-Verplanken/publication/45364462_The_Automatic_Component_of_Habit_in_Health_Behavior_Habit_as_Cue-Contingent_Automaticity/links/5535045b0cf2df9ea6a42a91/The-Automatic-Component-of-Habit-in-Health-Behavior-Habit-as-Cue-Contingent-Automaticity.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Automatic Component of Habit in Health BehaviorObjective: Habit might be usefully characterized as a form of automaticity that involv...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: tomsguide.com  
-   Link: <a href="https://www.tomsguide.com/wellness/sleep/new-study-reveals-that-timing-exercise-to-match-your-body-clock-chronotype-may-lower-cardiovascular-disease-and-improve-sleep-quality-heres-how" target="_blank" rel="noopener noreferrer nofollow">https://www.tomsguide.com/wellness/sleep/new-study-reveals-that-timing-exercise-to-match-your-body-clock-chronotype-may-lower-cardiovascular-disease-and-improve-sleep-quality-heres-how</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Conducted over 12 weeks with 134 previously sedentary adults who had at least one cardiovascular risk factor, the study divided participa...</p></details>
+   Link:<a href="https://www.tomsguide.com/wellness/sleep/new-study-reveals-that-timing-exercise-to-match-your-body-clock-chronotype-may-lower-cardiovascular-disease-and-improve-sleep-quality-heres-how" target="_blank" rel="noopener noreferrer nofollow">https://www.tomsguide.com/wellness/sleep/new-study-reveals-that-timing-exercise-to-match-your-body-clock-chronotype-may-lower-cardiovascular-disease-and-improve-sleep-quality-heres-how</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conducted over 12 weeks with 134 previously sedentary adults who had at least one cardiovascular risk factor, the study divided participa...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: diabetologia-journal.org  
-   Link: <a href="https://diabetologia-journal.org/2023/09/21/study-shows-morning-and-afternoon-slightly-better-than-evening-physical-activity-for-diabetes-prevention/" target="_blank" rel="noopener noreferrer nofollow">https://diabetologia-journal.org/2023/09/21/study-shows-morning-and-afternoon-slightly-better-than-evening-physical-activity-for-diabetes-prevention/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Study shows morning and afternoon slightly better than...21 Sept 2023 — Morning and afternoon physical activity are associated with a lo...</p></details>
+   Link:<a href="https://diabetologia-journal.org/2023/09/21/study-shows-morning-and-afternoon-slightly-better-than-evening-physical-activity-for-diabetes-prevention/" target="_blank" rel="noopener noreferrer nofollow">https://diabetologia-journal.org/2023/09/21/study-shows-morning-and-afternoon-slightly-better-than-evening-physical-activity-for-diabetes-prevention/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Study shows morning and afternoon slightly better than...21 Sept 2023 — Morning and afternoon physical activity are associated with a lo...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: news-medical.net  
    Title: Matching exercise timing to body clock chronotype improves heart health.aspx  
-   Link: <a href="https://www.news-medical.net/news/20260415/Matching-exercise-timing-to-body-clock-chronotype-improves-heart-health.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.news-medical.net/news/20260415/Matching-exercise-timing-to-body-clock-chronotype-improves-heart-health.aspx</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Matching exercise timing to body clock chronotype...15 Apr 2026 — Chronotype alignment boosted sleep quality and lowered risk factors, s...</p></details>
+   Link:<a href="https://www.news-medical.net/news/20260415/Matching-exercise-timing-to-body-clock-chronotype-improves-heart-health.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.news-medical.net/news/20260415/Matching-exercise-timing-to-body-clock-chronotype-improves-heart-health.aspx</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Matching exercise timing to body clock chronotype...15 Apr 2026 — Chronotype alignment boosted sleep quality and lowered risk factors, s...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2501.01779v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2501.01779v2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>approach to exercise, which is particularly important for older adults who...</p></details>
+   Link:<a href="https://arxiv.org/html/2501.01779v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2501.01779v2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>approach to exercise, which is particularly important for older adults who...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=pLm_mopCMek" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pLm_mopCMek</a>  
+   Link:<a href="https://www.youtube.com/watch?v=pLm_mopCMek" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pLm_mopCMek</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: nature.com  
    Title: Differential benefits of 12-week morning vs  
-   Link: <a href="https://www.nature.com/articles/s41598-025-02659-8" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-025-02659-8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>B Shen · 2025 · Cited by 12 — This study aims to investigate the effects of a 12-week timed exercise program on sleep, lipi...</p></details>
+   Link:<a href="https://www.nature.com/articles/s41598-025-02659-8" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41598-025-02659-8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>B Shen · 2025 · Cited by 12 — This study aims to investigate the effects of a 12-week timed exercise program on sleep, lipi...</p></details>

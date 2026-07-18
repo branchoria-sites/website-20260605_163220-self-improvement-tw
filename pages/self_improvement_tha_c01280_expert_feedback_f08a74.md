@@ -505,26 +505,26 @@ image: /assets/images/self_improvement_tha_c01280_expert_feedback_f08a74-overvie
 Outside help is useful when [self improvement]({{ 'self-improvement-that-works/' | relative_url }}) has stopped being a private intention and has become a repeated pattern: the same goal is missed, the same skill plateaus, the same emotional difficulty keeps returning, or the consequences are becoming serious. Coaches, therapists and subject experts can all help, but they do different jobs. A coach can sharpen goals, accountability and action; a therapist can treat distress, trauma, anxiety, depression and other mental health difficulties; an expert teacher, supervisor or mentor can diagnose the gap between current performance and the standard required. The common value is not inspiration. It is structured [feedback]({{ 'feedback/' | relative_url }}), better judgement and safer boundaries.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74-overview.webp" | relative_url }}" alt="Overview image for Expert Help" loading="eager" decoding="sync" fetchpriority="high">
-The practical question is therefore not “Do I need help?” as a confession of failure. It is “What kind of feedback does this problem require?” Behaviour-change research already shows that [goal setting]({{ 'goal-setting/' | relative_url }}), self-monitoring, feedback and [social support]({{ 'social-support/' | relative_url }}) are active ingredients in many effective interventions. Professional support matters when those ingredients need skill, diagnosis, challenge, protection or sustained accountability that the person cannot reliably provide for themselves. Meta-analytic evidence suggests workplace coaching can improve organisational outcomes, while psychotherapy has a much stronger evidence and regulatory tradition for diagnosable mental health problems and emotional distress. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10597717/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralWorkplace coaching: a meta-analysis and recommendations...by JA Cannon-Bowers · 2023 · Cited by 106 — Results indicated th...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10597717/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralWorkplace coaching: a meta-analysis and recommendations...by JA Cannon-Bowers · 2023 · Cited by 106 — Results indicated th...</span></span></span>
+The practical question is therefore not “Do I need help?” as a confession of failure. It is “What kind of feedback does this problem require?” Behaviour-change research already shows that [goal setting]({{ 'goal-setting/' | relative_url }}), self-monitoring, feedback and [social support]({{ 'social-support/' | relative_url }}) are active ingredients in many effective interventions. Professional support matters when those ingredients need skill, diagnosis, challenge, protection or sustained accountability that the person cannot reliably provide for themselves. Meta-analytic evidence suggests workplace coaching can improve organisational outcomes, while psychotherapy has a much stronger evidence and regulatory tradition for diagnosable mental health problems and emotional distress.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10597717/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralWorkplace coaching: a meta-analysis and recommendations...by JA Cannon-Bowers · 2023 · Cited by 106 — Results indicated th...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10597717/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralWorkplace coaching: a meta-analysis and recommendations...by JA Cannon-Bowers · 2023 · Cited by 106 — Results indicated th...</span></span></span>
 
 ## What Expert Feedback Adds
 
 Most self-improvement advice assumes the person can see their own problem clearly. Often they cannot. A novice writer may think the problem is “[motivation]({{ 'motivation/' | relative_url }})” when the real problem is unclear structure. A manager may think the issue is “confidence” when colleagues experience them as vague or avoidant. Someone trying to improve sleep may focus on discipline while ignoring anxiety, medication, alcohol, caring responsibilities or an untreated health condition. Outside feedback is valuable because it changes the quality of the information entering the loop.
 
-Good feedback does three things. It clarifies the target, shows the gap between present behaviour and that target, and points to the next adjustment. Hattie and Timperley’s influential review of feedback in learning describes effective feedback as answering three practical questions: where am I going, how am I going, and where next? That framework transfers well to self improvement: a helpful expert does not merely praise or criticise, but helps the person understand the standard, compare current performance against it, and choose the next practice move. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.3102/003465430298487" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals The Power of Feedback</span><span class="citation-popover-snippet">Sage Journals The Power of Feedback</span></span></span>
+Good feedback does three things. It clarifies the target, shows the gap between present behaviour and that target, and points to the next adjustment. Hattie and Timperley’s influential review of feedback in learning describes effective feedback as answering three practical questions: where am I going, how am I going, and where next? That framework transfers well to self improvement: a helpful expert does not merely praise or criticise, but helps the person understand the standard, compare current performance against it, and choose the next practice move.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.3102/003465430298487" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals The Power of Feedback</span><span class="citation-popover-snippet">Sage Journals The Power of Feedback</span></span></span>
 
-This is why expert help is especially powerful for skill-based goals. Deliberate practice, as described in research on expert performance, involves focused attempts to improve specific tasks, immediate feedback, time for problem-solving and repeated performance to refine behaviour. That is difficult to do alone because people tend to practise what is comfortable, not what is most diagnostic. A music teacher, sports coach, therapist-supervisor, language tutor, editor or technical mentor can see errors the learner has normalised and can keep practice close to the edge of ability rather than drifting into either boredom or overwhelm. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/18778378/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralWorkplace coaching: a meta-analysis and recommendations...by JA Cannon-Bowers · 2023 · Cited by 106 — Results indicated th</span></span></span>
+This is why expert help is especially powerful for skill-based goals. Deliberate practice, as described in research on expert performance, involves focused attempts to improve specific tasks, immediate feedback, time for problem-solving and repeated performance to refine behaviour. That is difficult to do alone because people tend to practise what is comfortable, not what is most diagnostic. A music teacher, sports coach, therapist-supervisor, language tutor, editor or technical mentor can see errors the learner has normalised and can keep practice close to the edge of ability rather than drifting into either boredom or overwhelm.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/18778378/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralWorkplace coaching: a meta-analysis and recommendations...by JA Cannon-Bowers · 2023 · Cited by 106 — Results indicated th</span></span></span>
 
-Feedback is not automatically beneficial, however. A major meta-analysis of feedback interventions found that feedback improved performance on average, but more than a third of interventions reduced performance. The lesson is important for self improvement: feedback can backfire when it becomes personal, vague, humiliating, poorly timed or disconnected from a clear task. “You are not disciplined enough” is weaker than “your plan fails at 6 pm because the next action is still too large and your phone is beside you.” Useful expert feedback narrows attention back to behaviour, evidence and the next experiment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/232458848_The_Effects_of_Feedback_Interventions_on_Performance_A_Historical_Review_a_Meta-Analysis_and_a_Preliminary_Feedback_Intervention_Theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) The Effects of Feedback Interventions on Performance</span><span class="citation-popover-snippet">Research Gate(PDF) The Effects of Feedback Interventions on Performance</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://mrbartonmaths.com/resourcesnew/8.%20Research/Marking%20and%20Feedback/The%20effects%20of%20feedback%20interventions.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mrbartonmaths.com">[2mr barton maths]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mrbartonmaths.com</span><span class="citation-popover-title">The effects of feedback interventions</span><span class="citation-popover-snippet">The effects of feedback interventions</span></span></span>
+Feedback is not automatically beneficial, however. A major meta-analysis of feedback interventions found that feedback improved performance on average, but more than a third of interventions reduced performance. The lesson is important for self improvement: feedback can backfire when it becomes personal, vague, humiliating, poorly timed or disconnected from a clear task. “You are not disciplined enough” is weaker than “your plan fails at 6 pm because the next action is still too large and your phone is beside you.” Useful expert feedback narrows attention back to behaviour, evidence and the next experiment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/232458848_The_Effects_of_Feedback_Interventions_on_Performance_A_Historical_Review_a_Meta-Analysis_and_a_Preliminary_Feedback_Intervention_Theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(PDF) The Effects of Feedback Interventions on Performance</span><span class="citation-popover-snippet">Research Gate(PDF) The Effects of Feedback Interventions on Performance</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://mrbartonmaths.com/resourcesnew/8.%20Research/Marking%20and%20Feedback/The%20effects%20of%20feedback%20interventions.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mrbartonmaths.com">[2mr barton maths]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mrbartonmaths.com</span><span class="citation-popover-title">The effects of feedback interventions</span><span class="citation-popover-snippet">The effects of feedback interventions</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74-Illustration-1-dark.svg" | relative_url }}" alt="Expert Help illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Coaching Versus Therapy
 
 Coaching and therapy overlap in conversation, reflection and change, which is why the boundary can feel confusing. The difference is not that coaching is “positive” and therapy is “negative”. The difference is scope. Coaching is usually directed towards goals, performance, habits, leadership, transitions or personal development. Therapy is designed to assess and treat emotional distress, mental health symptoms, trauma, relationship patterns and psychiatric conditions, often within a clearer clinical, ethical and safeguarding framework.
 
-In England, NHS Talking Therapies provide psychological interventions for adults with anxiety disorders and depression, using NICE-recommended therapies delivered in person, remotely, individually or in groups. NHS guidance also notes that a person can self-refer for talking therapies for anxiety and depression, while advising GP involvement for concerns such as eating disorders, bipolar disorder, personality disorder or psychosis. That distinction is a useful practical rule: if the problem is primarily a goal, performance or decision problem, coaching may fit; if it involves symptoms, risk, trauma, severe distress or impaired functioning, therapy or medical care is more appropriate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.england.nhs.uk/mental-health/adults/nhs-talking-therapies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: england.nhs.uk">[NHS England]</a><span class="citation-popover" role="note"><span class="citation-popover-source">england.nhs.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> 2nhs.uk
+In England, NHS Talking Therapies provide psychological interventions for adults with anxiety disorders and depression, using NICE-recommended therapies delivered in person, remotely, individually or in groups. NHS guidance also notes that a person can self-refer for talking therapies for anxiety and depression, while advising GP involvement for concerns such as eating disorders, bipolar disorder, personality disorder or psychosis. That distinction is a useful practical rule: if the problem is primarily a goal, performance or decision problem, coaching may fit; if it involves symptoms, risk, trauma, severe distress or impaired functioning, therapy or medical care is more appropriate.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.england.nhs.uk/mental-health/adults/nhs-talking-therapies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: england.nhs.uk">[NHS England]</a><span class="citation-popover" role="note"><span class="citation-popover-source">england.nhs.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> 2nhs.uk
 
-Coaching has evidence, but its evidence base is not the same as psychotherapy’s. A 2023 meta-analysis of workplace coaching found positive organisational outcomes and argued for clearer research standards in the field. That supports coaching as a serious tool for development, particularly at work, but it does not make coaching a substitute for mental healthcare. Psychotherapy, by contrast, has decades of evidence across psychiatric conditions, and evidence-based psychotherapies have been shown to be effective and cost-effective for many disorders. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10597717/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralWorkplace coaching: a meta-analysis and recommendations...by JA Cannon-Bowers · 2023 · Cited by 106 — Results indicated th...</span></span></span>
+Coaching has evidence, but its evidence base is not the same as psychotherapy’s. A 2023 meta-analysis of workplace coaching found positive organisational outcomes and argued for clearer research standards in the field. That supports coaching as a serious tool for development, particularly at work, but it does not make coaching a substitute for mental healthcare. Psychotherapy, by contrast, has decades of evidence across psychiatric conditions, and evidence-based psychotherapies have been shown to be effective and cost-effective for many disorders.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10597717/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralWorkplace coaching: a meta-analysis and recommendations...by JA Cannon-Bowers · 2023 · Cited by 106 — Results indicated th...</span></span></span>
 
 A simple decision split is often enough:
 
@@ -533,7 +533,7 @@ A simple decision split is often enough:
 * **Choose a subject expert** when the issue is performance against a known standard: pronunciation, exam technique, lifting form, public speaking, management skill, design quality, writing, coding, sales calls or any domain where trained eyes can see the mistake faster than introspection can.
 * **Use more than one [support]({{ 'support/' | relative_url }})** when the problem has both performance and wellbeing dimensions, such as a founder whose leadership habits need coaching but whose panic attacks require clinical support.
 
-The strongest practitioners also know what they are not. The International Coaching Federation’s guidance on referring clients to therapy says coaches should recognise when a client’s needs fall outside coaching competence and refer to mental health professionals when appropriate. That boundary is not a bureaucratic nicety; it protects clients from receiving motivational tools when they need assessment, treatment or safeguarding. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://coachingfederation.org/wp-content/uploads/2024/12/icf-research-guide-referring-client-to-therapy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coachingfederation.org">[ICF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coachingfederation.org</span><span class="citation-popover-title">ICFReferring a Client to Therapy</span><span class="citation-popover-snippet">ICFReferring a Client to Therapy</span></span></span>
+The strongest practitioners also know what they are not. The International Coaching Federation’s guidance on referring clients to therapy says coaches should recognise when a client’s needs fall outside coaching competence and refer to mental health professionals when appropriate. That boundary is not a bureaucratic nicety; it protects clients from receiving motivational tools when they need assessment, treatment or safeguarding.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://coachingfederation.org/wp-content/uploads/2024/12/icf-research-guide-referring-client-to-therapy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coachingfederation.org">[ICF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coachingfederation.org</span><span class="citation-popover-title">ICFReferring a Client to Therapy</span><span class="citation-popover-snippet">ICFReferring a Client to Therapy</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WbUOY9ioIqw" title="What People Get Wrong About Deliberate Practice" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WbUOY9ioIqw" target="_blank" rel="noopener noreferrer">What People Get Wrong About Deliberate Practice</a></p><p class="youtube-embed-meta">Channel: Benjamin Keep, PhD, JD &middot; Views: 377.3K &middot; Uploaded: October 2021 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WbUOY9ioIqw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WbUOY9ioIqw">Open on YouTube</a></p></div></div></div>
 
@@ -543,9 +543,9 @@ The best time to get outside help is often earlier than people think. Many peopl
 
 Outside help is particularly justified in four situations. The first is **repeated failed attempts**. If a person has made the same plan several times and failed in the same way, the bottleneck is probably not effort alone. A coach or expert can help identify whether the plan is too large, the cue is wrong, the [environment]({{ 'environment/' | relative_url }}) is hostile, the reward is delayed, or the goal is not actually valued.
 
-The second is **high-stakes skill development**. In domains such as management, sport, music, writing, therapy training, technical work or public communication, weak feedback lets bad habits harden. Deliberate practice research emphasises targeted tasks, immediate feedback and repeated refinement; that is exactly where teachers, supervisors and expert reviewers earn their keep. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/18778378/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralWorkplace coaching: a meta-analysis and recommendations...by JA Cannon-Bowers · 2023 · Cited by 106 — Results indicated th</span></span></span>
+The second is **high-stakes skill development**. In domains such as management, sport, music, writing, therapy training, technical work or public communication, weak feedback lets bad habits harden. Deliberate practice research emphasises targeted tasks, immediate feedback and repeated refinement; that is exactly where teachers, supervisors and expert reviewers earn their keep.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/18778378/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralWorkplace coaching: a meta-analysis and recommendations...by JA Cannon-Bowers · 2023 · Cited by 106 — Results indicated th</span></span></span>
 
-The third is **mental health or emotional load**. If a goal is blocked by anxiety, depression, trauma, compulsive behaviour, substance misuse or intense emotional reactivity, the self-improvement frame may be too small. NICE guidance for depression covers first episodes, relapse prevention, chronic depression and more complex presentations, while NICE guidance for generalised anxiety and panic disorder uses stepped care and recommends psychological interventions such as CBT or applied relaxation in appropriate cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nice.org.uk/guidance/cg113/chapter/1-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nice.org.uk">[NICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nice.org.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nice.org.uk/guidance/cg113/chapter/1-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nice.org.uk">[NICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nice.org.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The third is **mental health or emotional load**. If a goal is blocked by anxiety, depression, trauma, compulsive behaviour, substance misuse or intense emotional reactivity, the self-improvement frame may be too small. NICE guidance for depression covers first episodes, relapse prevention, chronic depression and more complex presentations, while NICE guidance for generalised anxiety and panic disorder uses stepped care and recommends psychological interventions such as CBT or applied relaxation in appropriate cases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nice.org.uk/guidance/cg113/chapter/1-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nice.org.uk">[NICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nice.org.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nice.org.uk/guidance/cg113/chapter/1-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nice.org.uk">[NICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nice.org.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The fourth is **social accountability**. Some people know exactly what to do but do not follow through without another person expecting evidence. Coaching, supervision, tutoring and therapy all create a regular appointment where intentions are converted into reviewable actions. The point is not dependence. The point is to borrow structure until the behaviour is stable enough to continue with less support.
 
@@ -567,9 +567,9 @@ A good coach or expert will usually:
 
 </div>
 
-A good therapist will usually add a more formal concern for assessment, risk, confidentiality, consent, formulation and the fit between treatment and symptoms. NHS descriptions of CBT, for example, emphasise working with thoughts, feelings and behaviours, and note that an assessment helps decide the best treatment before therapy begins. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.england.nhs.uk/mental-health/adults/nhs-talking-therapies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: england.nhs.uk">[nhs.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">england.nhs.uk</span><span class="citation-popover-snippet">Open source on nhs.uk.</span></span></span>
+A good therapist will usually add a more formal concern for assessment, risk, confidentiality, consent, formulation and the fit between treatment and symptoms. NHS descriptions of CBT, for example, emphasise working with thoughts, feelings and behaviours, and note that an assessment helps decide the best treatment before therapy begins.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.england.nhs.uk/mental-health/adults/nhs-talking-therapies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: england.nhs.uk">[nhs.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">england.nhs.uk</span><span class="citation-popover-snippet">Open source on nhs.uk.</span></span></span>
 
-Credentials matter, but they are not the whole story. In the UK, some psychological professional titles are protected by law, including several practitioner psychologist titles and arts therapy titles regulated by the Health and Care Professions Council. Counsellor and psychotherapist are not regulated by law in the same way, but practitioners may join registers accredited by the Professional Standards Authority, such as those held by professional bodies. The NHS advises people choosing private therapy to check that the therapist is registered with a professional organisation accredited by the PSA. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhs.uk/tests-and-treatments/talking-therapies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhs.uk">[nhs.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhs.uk</span><span class="citation-popover-snippet">Open source on nhs.uk.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hcpc-uk.org/about-us/who-we-regulate/the-professions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hcpc-uk.org">[The HCPC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hcpc-uk.org</span><span class="citation-popover-title">the professions</span><span class="citation-popover-snippet">the professions</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hcpc-uk.org/news-and-events/blog/2023/understanding-the-regulation-of-psychologists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hcpc-uk.org">[The HCPC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hcpc-uk.org</span><span class="citation-popover-title">understanding the regulation of psychologists</span><span class="citation-popover-snippet">understanding the regulation of psychologists</span></span></span>
+Credentials matter, but they are not the whole story. In the UK, some psychological professional titles are protected by law, including several practitioner psychologist titles and arts therapy titles regulated by the Health and Care Professions Council. Counsellor and psychotherapist are not regulated by law in the same way, but practitioners may join registers accredited by the Professional Standards Authority, such as those held by professional bodies. The NHS advises people choosing private therapy to check that the therapist is registered with a professional organisation accredited by the PSA.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nhs.uk/tests-and-treatments/talking-therapies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhs.uk">[nhs.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhs.uk</span><span class="citation-popover-snippet">Open source on nhs.uk.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hcpc-uk.org/about-us/who-we-regulate/the-professions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hcpc-uk.org">[The HCPC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hcpc-uk.org</span><span class="citation-popover-title">the professions</span><span class="citation-popover-snippet">the professions</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hcpc-uk.org/news-and-events/blog/2023/understanding-the-regulation-of-psychologists/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hcpc-uk.org">[The HCPC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hcpc-uk.org</span><span class="citation-popover-title">understanding the regulation of psychologists</span><span class="citation-popover-snippet">understanding the regulation of psychologists</span></span></span>
 
 For coaching, the governance picture is generally looser. This makes due diligence more important. A coach should be able to explain their training, supervision or reflective practice, ethical code, confidentiality policy, complaints route, data handling, fees, cancellation terms and referral boundaries. They should not imply that coaching can treat mental illness unless they are also appropriately qualified and operating within that qualified role.
 
@@ -579,9 +579,9 @@ For coaching, the governance picture is generally looser. This makes due diligen
 
 The most important red flag is a professional who cannot say where their work ends. A coach who diagnoses trauma, tells a client to stop medication, discourages therapy, promises life transformation, or treats distress as a mere mindset issue is outside a safe coaching scope. A therapist who ignores risk, blurs boundaries, overshares, becomes socially entangled, gives advice beyond competence or cannot explain confidentiality limits is also unsafe.
 
-Boundary problems are not theoretical. The British Association for Counselling and Psychotherapy lists complaints involving unwanted or inappropriate touching, unnecessary contact, late-night contact, failure to keep time boundaries, interruptions, friendships forming out of therapy, and failure to maintain confidentiality. Recent UK reporting has also highlighted concerns about underqualified practitioners, unclear regulation and harmful counselling experiences, reinforcing the need for clients to check registration, boundaries and complaints processes rather than relying on a confident website or social media presence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bacp.co.uk/about-us/protecting-the-public/professional-conduct/what-complaints-tell-us/boundaries/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bacp.co.uk">[BACP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bacp.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/society/2024/nov/09/mps-urge-government-to-regulate-uk-psychotherapists-and-counsellors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+Boundary problems are not theoretical. The British Association for Counselling and Psychotherapy lists complaints involving unwanted or inappropriate touching, unnecessary contact, late-night contact, failure to keep time boundaries, interruptions, friendships forming out of therapy, and failure to maintain confidentiality. Recent UK reporting has also highlighted concerns about underqualified practitioners, unclear regulation and harmful counselling experiences, reinforcing the need for clients to check registration, boundaries and complaints processes rather than relying on a confident website or social media presence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bacp.co.uk/about-us/protecting-the-public/professional-conduct/what-complaints-tell-us/boundaries/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bacp.co.uk">[BACP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bacp.co.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/society/2024/nov/09/mps-urge-government-to-regulate-uk-psychotherapists-and-counsellors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
-Other warning signs include: <span class="citation-chip-wrap"><a class="citation-chip" href="https://coachingfederation.org/wp-content/uploads/2024/12/icf-research-guide-referring-client-to-therapy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coachingfederation.org">[coachingfederation.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coachingfederation.org</span><span class="citation-popover-title">ICFReferring a Client to Therapy</span><span class="citation-popover-snippet">ICFReferring a Client to Therapy</span></span></span>
+Other warning signs include:<span class="citation-chip-wrap"><a class="citation-chip" href="https://coachingfederation.org/wp-content/uploads/2024/12/icf-research-guide-referring-client-to-therapy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coachingfederation.org">[coachingfederation.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coachingfederation.org</span><span class="citation-popover-title">ICFReferring a Client to Therapy</span><span class="citation-popover-snippet">ICFReferring a Client to Therapy</span></span></span>
 
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
@@ -608,194 +608,194 @@ The most effective outside help does not replace personal responsibility. It mak
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PA6SMcV3aVc" title="Differences between Coaching, Mentoring and Counselling" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PA6SMcV3aVc" target="_blank" rel="noopener noreferrer">Differences between Coaching, Mentoring and Counselling</a></p><p class="youtube-embed-meta">Channel: Think Leicestershire &middot; Views: 8.2K &middot; Uploaded: January 2014 &middot; Length: 3 minutes 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PA6SMcV3aVc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PA6SMcV3aVc">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Should You Get Outside Help?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Should You Get Outside Help?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peak on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eHfkCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Peak" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peak">Peak</a>
-        </h4>
-        <p class="fr-book-author">By Anders Ericsson, Robert Pool</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peak on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=eHfkCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Peak" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peak">Peak</a>
+</h4>
+<p class="fr-book-author">By Anders Ericsson, Robert Pool</p>
         
-        <p class="fr-book-desc">Explains why expert guidance accelerates improvement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why expert guidance accelerates improvement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Peak+by+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coaching+Habit+by+Michael+Bungay+Stanier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coaching Habit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EGFPDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Coaching Habit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Coaching+Habit+by+Michael+Bungay+Stanier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coaching Habit">The Coaching Habit</a>
-        </h4>
-        <p class="fr-book-author">By Michael Bungay Stanier</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coaching+Habit+by+Michael+Bungay+Stanier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coaching Habit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EGFPDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Coaching Habit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Coaching+Habit+by+Michael+Bungay+Stanier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coaching Habit">The Coaching Habit</a>
+</h4>
+<p class="fr-book-author">By Michael Bungay Stanier</p>
         
-        <p class="fr-book-desc">Shows how structured questioning and feedback improve outcomes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Coaching+Habit+by+Michael+Bungay+Stanier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how structured questioning and feedback improve outcomes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Coaching+Habit+by+Michael+Bungay+Stanier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Carol S. Dweck</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
-        <p class="fr-book-desc">Frames feedback as a tool for growth rather than judgment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
+</h4>
+<p class="fr-book-author">By Carol S. Dweck</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
+<p class="fr-book-desc">Frames feedback as a tool for growth rather than judgment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thanks+for+the+Feedback+by+Douglas+Stone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thanks for the Feedback on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VQjUrQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Thanks for the Feedback" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thanks+for+the+Feedback+by+Douglas+Stone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thanks for the Feedback">Thanks for the Feedback</a>
-        </h4>
-        <p class="fr-book-author">By Douglas Stone, Sheila Heen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thanks+for+the+Feedback+by+Douglas+Stone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thanks for the Feedback on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VQjUrQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Thanks for the Feedback" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thanks+for+the+Feedback+by+Douglas+Stone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thanks for the Feedback">Thanks for the Feedback</a>
+</h4>
+<p class="fr-book-author">By Douglas Stone, Sheila Heen</p>
         
-        <p class="fr-book-desc">Directly addresses receiving and using feedback effectively.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thanks+for+the+Feedback+by+Douglas+Stone&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses receiving and using feedback effectively.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thanks+for+the+Feedback+by+Douglas+Stone&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Peak&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Peak</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coaching+Habit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coaching Habit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Peak&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Peak</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coaching+Habit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coaching Habit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-you-get-outside-help-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-should-you-get-outside-help-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 234 Weekly Habit Tracker Planner Stickers, Daily Routine Journal Stickers"><img src="https://i.ebayimg.com/images/g/2WYAAOSwGQpiKx5r/s-l225.jpg" alt="Listing image for 234 Weekly Habit Tracker Planner Stickers, Daily Routine Journal Stickers" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-you-get-outside-help-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-should-you-get-outside-help-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">234 Weekly Habit Tracker Planner Stickers, Daily Routine Journal Stickers</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-you-get-outside-help-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-should-you-get-outside-help-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-you-get-outside-help-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-should-you-get-outside-help-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-you-get-outside-help-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-should-you-get-outside-help-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 234 Weekly Habit Tracker Planner Stickers, Daily Routine Journal Stickers"><img src="https://i.ebayimg.com/images/g/2WYAAOSwGQpiKx5r/s-l225.jpg" alt="Listing image for 234 Weekly Habit Tracker Planner Stickers, Daily Routine Journal Stickers" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-you-get-outside-help-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-should-you-get-outside-help-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">234 Weekly Habit Tracker Planner Stickers, Daily Routine Journal Stickers</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-you-get-outside-help-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-should-you-get-outside-help-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-you-get-outside-help-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-should-you-get-outside-help-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-you-get-outside-help-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-should-you-get-outside-help-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A5 Leather Habit Tracker Journal Refillable Undated Notebook Cloud Gray"><img src="https://i.ebayimg.com/images/g/Oc8AAeSwcPNof5Pp/s-l225.jpg" alt="Listing image for A5 Leather Habit Tracker Journal Refillable Undated Notebook Cloud Gray" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-you-get-outside-help-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-should-you-get-outside-help-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">A5 Leather Habit Tracker Journal Refillable Undated Notebook Cloud Gray</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-you-get-outside-help-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-should-you-get-outside-help-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-you-get-outside-help-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-should-you-get-outside-help-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-you-get-outside-help-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-should-you-get-outside-help-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A5 Leather Habit Tracker Journal Refillable Undated Notebook Cloud Gray"><img src="https://i.ebayimg.com/images/g/Oc8AAeSwcPNof5Pp/s-l225.jpg" alt="Listing image for A5 Leather Habit Tracker Journal Refillable Undated Notebook Cloud Gray" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-you-get-outside-help-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-should-you-get-outside-help-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">A5 Leather Habit Tracker Journal Refillable Undated Notebook Cloud Gray</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-you-get-outside-help-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-should-you-get-outside-help-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-you-get-outside-help-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-should-you-get-outside-help-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-you-get-outside-help-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-should-you-get-outside-help-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 648 Habit Tracker Planner Stickers, Daily Routine Organiser Journal Stickers"><img src="https://i.ebayimg.com/images/g/DUMAAOSwaxtiMhRe/s-l225.jpg" alt="Listing image for 648 Habit Tracker Planner Stickers, Daily Routine Organiser Journal Stickers" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-you-get-outside-help-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-should-you-get-outside-help-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">648 Habit Tracker Planner Stickers, Daily Routine Organiser Journal Stickers</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-you-get-outside-help-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-should-you-get-outside-help-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-you-get-outside-help-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-should-you-get-outside-help-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-you-get-outside-help-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-should-you-get-outside-help-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 648 Habit Tracker Planner Stickers, Daily Routine Organiser Journal Stickers"><img src="https://i.ebayimg.com/images/g/DUMAAOSwaxtiMhRe/s-l225.jpg" alt="Listing image for 648 Habit Tracker Planner Stickers, Daily Routine Organiser Journal Stickers" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-you-get-outside-help-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-should-you-get-outside-help-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">648 Habit Tracker Planner Stickers, Daily Routine Organiser Journal Stickers</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-you-get-outside-help-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-should-you-get-outside-help-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-you-get-outside-help-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-should-you-get-outside-help-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-you-get-outside-help-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-should-you-get-outside-help-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A5 Leather Habit Tracker Journal Refillable Undated Notebook - Primrose"><img src="https://i.ebayimg.com/images/g/1DoAAeSwKDVof5GY/s-l225.jpg" alt="Listing image for A5 Leather Habit Tracker Journal Refillable Undated Notebook - Primrose" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-you-get-outside-help-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-should-you-get-outside-help-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">A5 Leather Habit Tracker Journal Refillable Undated Notebook - Primrose</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-you-get-outside-help-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-should-you-get-outside-help-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-you-get-outside-help-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-should-you-get-outside-help-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-you-get-outside-help-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-should-you-get-outside-help-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-you-get-outside-help-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-should-you-get-outside-help-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A5 Leather Habit Tracker Journal Refillable Undated Notebook - Primrose"><img src="https://i.ebayimg.com/images/g/1DoAAeSwKDVof5GY/s-l225.jpg" alt="Listing image for A5 Leather Habit Tracker Journal Refillable Undated Notebook - Primrose" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-you-get-outside-help-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-should-you-get-outside-help-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">A5 Leather Habit Tracker Journal Refillable Undated Notebook - Primrose</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-you-get-outside-help-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-should-you-get-outside-help-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-you-get-outside-help-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-should-you-get-outside-help-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-should-you-get-outside-help-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-should-you-get-outside-help-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -811,7 +811,7 @@ The most effective outside help does not replace personal responsibility. It mak
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -831,7 +831,7 @@ The most effective outside help does not replace personal responsibility. It mak
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -863,7 +863,7 @@ The most effective outside help does not replace personal responsibility. It mak
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -915,7 +915,7 @@ The most effective outside help does not replace personal responsibility. It mak
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -960,7 +960,7 @@ The most effective outside help does not replace personal responsibility. It mak
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1001,218 +1001,218 @@ The most effective outside help does not replace personal responsibility. It mak
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: england.nhs.uk  
-   Link: <a href="https://www.england.nhs.uk/mental-health/adults/nhs-talking-therapies/" target="_blank" rel="noopener noreferrer nofollow">https://www.england.nhs.uk/mental-health/adults/nhs-talking-therapies/</a>  
+   Link:<a href="https://www.england.nhs.uk/mental-health/adults/nhs-talking-therapies/" target="_blank" rel="noopener noreferrer nofollow">https://www.england.nhs.uk/mental-health/adults/nhs-talking-therapies/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
    Title: Research Gate(PDF) The Effects of Feedback Interventions on Performance  
-   Link: <a href="https://www.researchgate.net/publication/232458848_The_Effects_of_Feedback_Interventions_on_Performance_A_Historical_Review_a_Meta-Analysis_and_a_Preliminary_Feedback_Intervention_Theory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232458848_The_Effects_of_Feedback_Interventions_on_Performance_A_Historical_Review_a_Meta-Analysis_and_a_Preliminary_Feedback_Intervention_Theory</a>  
+   Link:<a href="https://www.researchgate.net/publication/232458848_The_Effects_of_Feedback_Interventions_on_Performance_A_Historical_Review_a_Meta-Analysis_and_a_Preliminary_Feedback_Intervention_Theory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232458848_The_Effects_of_Feedback_Interventions_on_Performance_A_Historical_Review_a_Meta-Analysis_and_a_Preliminary_Feedback_Intervention_Theory</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nhs.uk  
-   Link: <a href="https://www.nhs.uk/tests-and-treatments/talking-therapies/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/tests-and-treatments/talking-therapies/</a>  
+   Link:<a href="https://www.nhs.uk/tests-and-treatments/talking-therapies/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/tests-and-treatments/talking-therapies/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nhs.uk  
-   Link: <a href="https://www.nhs.uk/tests-and-treatments/cognitive-behavioural-therapy-cbt/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/tests-and-treatments/cognitive-behavioural-therapy-cbt/</a>  
+   Link:<a href="https://www.nhs.uk/tests-and-treatments/cognitive-behavioural-therapy-cbt/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/tests-and-treatments/cognitive-behavioural-therapy-cbt/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: coachingfederation.org  
    Title: ICFReferring a Client to Therapy  
-   Link: <a href="https://coachingfederation.org/wp-content/uploads/2024/12/icf-research-guide-referring-client-to-therapy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://coachingfederation.org/wp-content/uploads/2024/12/icf-research-guide-referring-client-to-therapy.pdf</a>  
+   Link:<a href="https://coachingfederation.org/wp-content/uploads/2024/12/icf-research-guide-referring-client-to-therapy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://coachingfederation.org/wp-content/uploads/2024/12/icf-research-guide-referring-client-to-therapy.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: coachingfederation.org  
-   Link: <a href="https://coachingfederation.org/resource/referring-a-client-to-therapy/" target="_blank" rel="noopener noreferrer nofollow">https://coachingfederation.org/resource/referring-a-client-to-therapy/</a>  
+   Link:<a href="https://coachingfederation.org/resource/referring-a-client-to-therapy/" target="_blank" rel="noopener noreferrer nofollow">https://coachingfederation.org/resource/referring-a-client-to-therapy/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nice.org.uk  
-   Link: <a href="https://www.nice.org.uk/guidance/ng222" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/ng222</a>  
+   Link:<a href="https://www.nice.org.uk/guidance/ng222" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/ng222</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nice.org.uk  
-   Link: <a href="https://www.nice.org.uk/guidance/cg113/chapter/1-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/cg113/chapter/1-guidance</a>  
+   Link:<a href="https://www.nice.org.uk/guidance/cg113/chapter/1-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/cg113/chapter/1-guidance</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nice.org.uk  
    Title: what treatments should i be offered for gad  
-   Link: <a href="https://www.nice.org.uk/guidance/cg113/ifp/chapter/what-treatments-should-i-be-offered-for-gad" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/cg113/ifp/chapter/what-treatments-should-i-be-offered-for-gad</a>  
+   Link:<a href="https://www.nice.org.uk/guidance/cg113/ifp/chapter/what-treatments-should-i-be-offered-for-gad" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/cg113/ifp/chapter/what-treatments-should-i-be-offered-for-gad</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: hcpc-uk.org  
    Title: the professions  
-   Link: <a href="https://www.hcpc-uk.org/about-us/who-we-regulate/the-professions/" target="_blank" rel="noopener noreferrer nofollow">https://www.hcpc-uk.org/about-us/who-we-regulate/the-professions/</a>  
+   Link:<a href="https://www.hcpc-uk.org/about-us/who-we-regulate/the-professions/" target="_blank" rel="noopener noreferrer nofollow">https://www.hcpc-uk.org/about-us/who-we-regulate/the-professions/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: hcpc-uk.org  
    Title: understanding the regulation of psychologists  
-   Link: <a href="https://www.hcpc-uk.org/news-and-events/blog/2023/understanding-the-regulation-of-psychologists/" target="_blank" rel="noopener noreferrer nofollow">https://www.hcpc-uk.org/news-and-events/blog/2023/understanding-the-regulation-of-psychologists/</a>  
+   Link:<a href="https://www.hcpc-uk.org/news-and-events/blog/2023/understanding-the-regulation-of-psychologists/" target="_blank" rel="noopener noreferrer nofollow">https://www.hcpc-uk.org/news-and-events/blog/2023/understanding-the-regulation-of-psychologists/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: bacp.co.uk  
-   Link: <a href="https://www.bacp.co.uk/about-us/protecting-the-public/professional-conduct/what-complaints-tell-us/boundaries/" target="_blank" rel="noopener noreferrer nofollow">https://www.bacp.co.uk/about-us/protecting-the-public/professional-conduct/what-complaints-tell-us/boundaries/</a>  
+   Link:<a href="https://www.bacp.co.uk/about-us/protecting-the-public/professional-conduct/what-complaints-tell-us/boundaries/" target="_blank" rel="noopener noreferrer nofollow">https://www.bacp.co.uk/about-us/protecting-the-public/professional-conduct/what-complaints-tell-us/boundaries/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/233682110_The_impact_of_life_coaching_on_goal_attainment_metacognition_and_mental_health" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/233682110_The_impact_of_life_coaching_on_goal_attainment_metacognition_and_mental_health</a>  
+   Link:<a href="https://www.researchgate.net/publication/233682110_The_impact_of_life_coaching_on_goal_attainment_metacognition_and_mental_health" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/233682110_The_impact_of_life_coaching_on_goal_attainment_metacognition_and_mental_health</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/385981763_Network_meta-analysis_of_the_effectiveness_of_psychotherapies_with_or_without_medication_for_treating_adult_depression" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/385981763_Network_meta-analysis_of_the_effectiveness_of_psychotherapies_with_or_without_medication_for_treating_adult_depression</a>  
+   Link:<a href="https://www.researchgate.net/publication/385981763_Network_meta-analysis_of_the_effectiveness_of_psychotherapies_with_or_without_medication_for_treating_adult_depression" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/385981763_Network_meta-analysis_of_the_effectiveness_of_psychotherapies_with_or_without_medication_for_treating_adult_depression</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/23244224_Deliberate_Practice_and_Acquisition_of_Expert_Performance_A_General_Overview" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/23244224_Deliberate_Practice_and_Acquisition_of_Expert_Performance_A_General_Overview</a>  
+   Link:<a href="https://www.researchgate.net/publication/23244224_Deliberate_Practice_and_Acquisition_of_Expert_Performance_A_General_Overview" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/23244224_Deliberate_Practice_and_Acquisition_of_Expert_Performance_A_General_Overview</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nhs.uk  
    Title: www.nhs.uk Treatment  
-   Link: <a href="https://www.nhs.uk/mental-health/conditions/depression-in-adults/treatment/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/mental-health/conditions/depression-in-adults/treatment/</a>  
+   Link:<a href="https://www.nhs.uk/mental-health/conditions/depression-in-adults/treatment/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhs.uk/mental-health/conditions/depression-in-adults/treatment/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: best.barnsleyccg.nhs.uk  
-   Link: <a href="https://best.barnsleyccg.nhs.uk/media/dfehuntl/anxiety_management_guidelines.pdf" target="_blank" rel="noopener noreferrer nofollow">https://best.barnsleyccg.nhs.uk/media/dfehuntl/anxiety_management_guidelines.pdf</a>  
+   Link:<a href="https://best.barnsleyccg.nhs.uk/media/dfehuntl/anxiety_management_guidelines.pdf" target="_blank" rel="noopener noreferrer nofollow">https://best.barnsleyccg.nhs.uk/media/dfehuntl/anxiety_management_guidelines.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: talkingtherapies.cnwl.nhs.uk  
-   Link: <a href="https://talkingtherapies.cnwl.nhs.uk/how-we-can-help" target="_blank" rel="noopener noreferrer nofollow">https://talkingtherapies.cnwl.nhs.uk/how-we-can-help</a>  
+   Link:<a href="https://talkingtherapies.cnwl.nhs.uk/how-we-can-help" target="_blank" rel="noopener noreferrer nofollow">https://talkingtherapies.cnwl.nhs.uk/how-we-can-help</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: digital.nhs.uk  
    Title: therapy based outcomes  
-   Link: <a href="https://digital.nhs.uk/data-and-information/publications/statistical/nhs-talking-therapies-for-anxiety-and-depression-annual-reports/2022-23/therapy-based-outcomes" target="_blank" rel="noopener noreferrer nofollow">https://digital.nhs.uk/data-and-information/publications/statistical/nhs-talking-therapies-for-anxiety-and-depression-annual-reports/2022-23/therapy-based-outcomes</a>  
+   Link:<a href="https://digital.nhs.uk/data-and-information/publications/statistical/nhs-talking-therapies-for-anxiety-and-depression-annual-reports/2022-23/therapy-based-outcomes" target="_blank" rel="noopener noreferrer nofollow">https://digital.nhs.uk/data-and-information/publications/statistical/nhs-talking-therapies-for-anxiety-and-depression-annual-reports/2022-23/therapy-based-outcomes</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: archive.datadictionary.nhs.uk  
-   Link: <a href="https://archive.datadictionary.nhs.uk/DD%20Release%20May%202024/nhs_business_definitions/health_and_care_professions_council.html" target="_blank" rel="noopener noreferrer nofollow">https://archive.datadictionary.nhs.uk/DD%20Release%20May%202024/nhs_business_definitions/health_and_care_professions_council.html</a>  
+   Link:<a href="https://archive.datadictionary.nhs.uk/DD%20Release%20May%202024/nhs_business_definitions/health_and_care_professions_council.html" target="_blank" rel="noopener noreferrer nofollow">https://archive.datadictionary.nhs.uk/DD%20Release%20May%202024/nhs_business_definitions/health_and_care_professions_council.html</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: mot.southyorkshire.icb.nhs.uk  
    Title: icb.nhs.uk Depression in adults  
-   Link: <a href="https://mot.southyorkshire.icb.nhs.uk/sheffield/files/Sheffield%20Guideline%20Depression%20in%20adults%20-%20treatment%20and%20management%20protocol.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mot.southyorkshire.icb.nhs.uk/sheffield/files/Sheffield%20Guideline%20Depression%20in%20adults%20-%20treatment%20and%20management%20protocol.pdf</a>  
+   Link:<a href="https://mot.southyorkshire.icb.nhs.uk/sheffield/files/Sheffield%20Guideline%20Depression%20in%20adults%20-%20treatment%20and%20management%20protocol.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mot.southyorkshire.icb.nhs.uk/sheffield/files/Sheffield%20Guideline%20Depression%20in%20adults%20-%20treatment%20and%20management%20protocol.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: berkshirehealthcare.nhs.uk  
-   Link: <a href="https://www.berkshirehealthcare.nhs.uk/talking-therapies" target="_blank" rel="noopener noreferrer nofollow">https://www.berkshirehealthcare.nhs.uk/talking-therapies</a>  
+   Link:<a href="https://www.berkshirehealthcare.nhs.uk/talking-therapies" target="_blank" rel="noopener noreferrer nofollow">https://www.berkshirehealthcare.nhs.uk/talking-therapies</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: intranet.sheffieldccg.nhs.uk  
    Title: sheffieldccg.nhs.uk Generalised Anxiety Disorder (GAD)  
-   Link: <a href="https://www.intranet.sheffieldccg.nhs.uk/Downloads/Medicines%20Management/prescribing%20guidelines/Generalised_Anxiety_Disorder.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.intranet.sheffieldccg.nhs.uk/Downloads/Medicines%20Management/prescribing%20guidelines/Generalised_Anxiety_Disorder.pdf</a>  
+   Link:<a href="https://www.intranet.sheffieldccg.nhs.uk/Downloads/Medicines%20Management/prescribing%20guidelines/Generalised_Anxiety_Disorder.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.intranet.sheffieldccg.nhs.uk/Downloads/Medicines%20Management/prescribing%20guidelines/Generalised_Anxiety_Disorder.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: england.nhs.uk  
-   Link: <a href="https://www.england.nhs.uk/personalisedcare/workforce-and-training/health-and-wellbeing-coaches/" target="_blank" rel="noopener noreferrer nofollow">https://www.england.nhs.uk/personalisedcare/workforce-and-training/health-and-wellbeing-coaches/</a>  
+   Link:<a href="https://www.england.nhs.uk/personalisedcare/workforce-and-training/health-and-wellbeing-coaches/" target="_blank" rel="noopener noreferrer nofollow">https://www.england.nhs.uk/personalisedcare/workforce-and-training/health-and-wellbeing-coaches/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cpft.nhs.uk  
-   Link: <a href="https://www.cpft.nhs.uk/talkingtherapies/" target="_blank" rel="noopener noreferrer nofollow">https://www.cpft.nhs.uk/talkingtherapies/</a>  
+   Link:<a href="https://www.cpft.nhs.uk/talkingtherapies/" target="_blank" rel="noopener noreferrer nofollow">https://www.cpft.nhs.uk/talkingtherapies/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cdn.who.int  
-   Link: <a href="https://cdn.who.int/media/docs/default-source/mental-health/mhgap/depression/comparative-effectiveness-of-different-formats-of-psychological-treatments-for-depressive-disorder.pdf?sfvrsn=5e99c74a_0" target="_blank" rel="noopener noreferrer nofollow">https://cdn.who.int/media/docs/default-source/mental-health/mhgap/depression/comparative-effectiveness-of-different-formats-of-psychological-treatments-for-depressive-disorder.pdf?sfvrsn=5e99c74a_0</a>  
+   Link:<a href="https://cdn.who.int/media/docs/default-source/mental-health/mhgap/depression/comparative-effectiveness-of-different-formats-of-psychological-treatments-for-depressive-disorder.pdf?sfvrsn=5e99c74a_0" target="_blank" rel="noopener noreferrer nofollow">https://cdn.who.int/media/docs/default-source/mental-health/mhgap/depression/comparative-effectiveness-of-different-formats-of-psychological-treatments-for-depressive-disorder.pdf?sfvrsn=5e99c74a_0</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10597717/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10597717/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralWorkplace coaching: a meta-analysis and recommendations...by JA Cannon-Bowers · 2023 · Cited by 106 — Results indicated th...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10597717/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10597717/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralWorkplace coaching: a meta-analysis and recommendations...by JA Cannon-Bowers · 2023 · Cited by 106 — Results indicated th...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5509639/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5509639/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence-based psychotherapies have been shown to be efficacious and cost-effective for a wide range of psychiatric conditions.Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5509639/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5509639/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence-based psychotherapies have been shown to be efficacious and cost-effective for a wide range of psychiatric conditions.Read more...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals The Power of Feedback  
-   Link: <a href="https://journals.sagepub.com/doi/10.3102/003465430298487" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.3102/003465430298487</a>  
+   Link:<a href="https://journals.sagepub.com/doi/10.3102/003465430298487" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.3102/003465430298487</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/18778378/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/18778378/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/18778378/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/18778378/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: mrbartonmaths.com  
    Title: The effects of feedback interventions  
-   Link: <a href="https://mrbartonmaths.com/resourcesnew/8.%20Research/Marking%20and%20Feedback/The%20effects%20of%20feedback%20interventions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mrbartonmaths.com/resourcesnew/8.%20Research/Marking%20and%20Feedback/The%20effects%20of%20feedback%20interventions.pdf</a>  
+   Link:<a href="https://mrbartonmaths.com/resourcesnew/8.%20Research/Marking%20and%20Feedback/The%20effects%20of%20feedback%20interventions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://mrbartonmaths.com/resourcesnew/8.%20Research/Marking%20and%20Feedback/The%20effects%20of%20feedback%20interventions.pdf</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/society/2024/nov/09/mps-urge-government-to-regulate-uk-psychotherapists-and-counsellors" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/society/2024/nov/09/mps-urge-government-to-regulate-uk-psychotherapists-and-counsellors</a>  
+   Link:<a href="https://www.theguardian.com/society/2024/nov/09/mps-urge-government-to-regulate-uk-psychotherapists-and-counsellors" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/society/2024/nov/09/mps-urge-government-to-regulate-uk-psychotherapists-and-counsellors</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/society/2024/oct/19/when-therapy-goes-wrong-the-problem-of-underqualified-psychotherapists" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/society/2024/oct/19/when-therapy-goes-wrong-the-problem-of-underqualified-psychotherapists</a>  
+   Link:<a href="https://www.theguardian.com/society/2024/oct/19/when-therapy-goes-wrong-the-problem-of-underqualified-psychotherapists" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/society/2024/oct/19/when-therapy-goes-wrong-the-problem-of-underqualified-psychotherapists</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: professionalstandards.org.uk  
-   Link: <a href="https://www.professionalstandards.org.uk/practitioners/counsellor" target="_blank" rel="noopener noreferrer nofollow">https://www.professionalstandards.org.uk/practitioners/counsellor</a>  
+   Link:<a href="https://www.professionalstandards.org.uk/practitioners/counsellor" target="_blank" rel="noopener noreferrer nofollow">https://www.professionalstandards.org.uk/practitioners/counsellor</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: professionalstandards.org.uk  
-   Link: <a href="https://www.professionalstandards.org.uk/practitioners/psychotherapist" target="_blank" rel="noopener noreferrer nofollow">https://www.professionalstandards.org.uk/practitioners/psychotherapist</a>  
+   Link:<a href="https://www.professionalstandards.org.uk/practitioners/psychotherapist" target="_blank" rel="noopener noreferrer nofollow">https://www.professionalstandards.org.uk/practitioners/psychotherapist</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/25511982/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/25511982/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/25511982/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/25511982/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/20182507" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/20182507</a>  
+   Link:<a href="https://www.jstor.org/stable/20182507" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/20182507</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: jsomers.net  
    Title: deliberate practice  
-   Link: <a href="https://jsomers.net/blog/deliberate-practice" target="_blank" rel="noopener noreferrer nofollow">https://jsomers.net/blog/deliberate-practice</a>  
+   Link:<a href="https://jsomers.net/blog/deliberate-practice" target="_blank" rel="noopener noreferrer nofollow">https://jsomers.net/blog/deliberate-practice</a>  
 
 ### Additional References
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
    Title: Life Coaching vs Therapy (Life Coaching Ethics) (Life Coaching 101 4/6)  
-   Link: <a href="https://www.youtube.com/watch?v=BO1t7Y0Lz7Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BO1t7Y0Lz7Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pam Pappas MD - Coaching vs Therapy for Physician Burnout...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=BO1t7Y0Lz7Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=BO1t7Y0Lz7Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pam Pappas MD - Coaching vs Therapy for Physician Burnout...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
    Title: Pam Pappas MD  
-   Link: <a href="https://www.youtube.com/watch?v=x7_7R9ngQck" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x7_7R9ngQck</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Differences between Coaching, Mentoring and Counselling...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=x7_7R9ngQck" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x7_7R9ngQck</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Differences between Coaching, Mentoring and Counselling...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: youtube.com  
    Title: Differences between Coaching, Mentoring and Counselling  
-   Link: <a href="https://www.youtube.com/watch?v=PA6SMcV3aVc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PA6SMcV3aVc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Best Sort Of Feedback | Deliberate Practice 4/6...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PA6SMcV3aVc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PA6SMcV3aVc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Best Sort Of Feedback | Deliberate Practice 4/6...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
    Title: Coaching vs Therapy (Accelerator vs Brake)  
-   Link: <a href="https://www.youtube.com/watch?v=jD8LMiJLDKk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jD8LMiJLDKk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Life Coaching vs Therapy (Life Coaching Ethics) (Life Coaching 101 4/6)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jD8LMiJLDKk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jD8LMiJLDKk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Life Coaching vs Therapy (Life Coaching Ethics) (Life Coaching 101 4/6)...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: baat.org  
-   Link: <a href="https://baat.org/publications/insight/winter-2024/art-therapist-as-protected-title/" target="_blank" rel="noopener noreferrer nofollow">https://baat.org/publications/insight/winter-2024/art-therapist-as-protected-title/</a>  
+   Link:<a href="https://baat.org/publications/insight/winter-2024/art-therapist-as-protected-title/" target="_blank" rel="noopener noreferrer nofollow">https://baat.org/publications/insight/winter-2024/art-therapist-as-protected-title/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: envertiz.com  
-   Link: <a href="https://www.envertiz.com/about-hcpc" target="_blank" rel="noopener noreferrer nofollow">https://www.envertiz.com/about-hcpc</a>  
+   Link:<a href="https://www.envertiz.com/about-hcpc" target="_blank" rel="noopener noreferrer nofollow">https://www.envertiz.com/about-hcpc</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: hgi.org.uk  
-   Link: <a href="https://www.hgi.org.uk/our-registers/psa-accreditation/" target="_blank" rel="noopener noreferrer nofollow">https://www.hgi.org.uk/our-registers/psa-accreditation/</a>  
+   Link:<a href="https://www.hgi.org.uk/our-registers/psa-accreditation/" target="_blank" rel="noopener noreferrer nofollow">https://www.hgi.org.uk/our-registers/psa-accreditation/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: ncps.com  
-   Link: <a href="https://ncps.com/about-us/accredited-register-programme-regulation" target="_blank" rel="noopener noreferrer nofollow">https://ncps.com/about-us/accredited-register-programme-regulation</a>  
+   Link:<a href="https://ncps.com/about-us/accredited-register-programme-regulation" target="_blank" rel="noopener noreferrer nofollow">https://ncps.com/about-us/accredited-register-programme-regulation</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: bacp.co.uk  
-   Link: <a href="https://www.bacp.co.uk/about-us/protecting-the-public/bacp-register/" target="_blank" rel="noopener noreferrer nofollow">https://www.bacp.co.uk/about-us/protecting-the-public/bacp-register/</a>  
+   Link:<a href="https://www.bacp.co.uk/about-us/protecting-the-public/bacp-register/" target="_blank" rel="noopener noreferrer nofollow">https://www.bacp.co.uk/about-us/protecting-the-public/bacp-register/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: professionalstandards.org.uk  
-   Link: <a href="https://www.professionalstandards.org.uk/organisations-we-oversee/find-a-register/british-association-counselling-psychotherapy" target="_blank" rel="noopener noreferrer nofollow">https://www.professionalstandards.org.uk/organisations-we-oversee/find-a-register/british-association-counselling-psychotherapy</a>
+   Link:<a href="https://www.professionalstandards.org.uk/organisations-we-oversee/find-a-register/british-association-counselling-psychotherapy" target="_blank" rel="noopener noreferrer nofollow">https://www.professionalstandards.org.uk/organisations-we-oversee/find-a-register/british-association-counselling-psychotherapy</a>

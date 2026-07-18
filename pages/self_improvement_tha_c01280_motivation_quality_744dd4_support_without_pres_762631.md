@@ -271,7 +271,7 @@ image: /assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_supp
 Support can make self-improvement easier, but it can also quietly undermine it. The difference is not whether other people are involved. It is whether their involvement helps a person feel understood, capable and free to choose, or whether it makes them feel judged, compared and controlled.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_support_without_pres_762631-Illustration-1-dark.svg" | relative_url }}" alt="Support illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_support_without_pres_762631-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_motivation_quality_744dd4_support_without_pres_762631-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research on self-determination theory consistently finds that people sustain effort more effectively when three psychological needs are supported: autonomy (a sense of choice), competence (a sense of growing capability) and relatedness (a sense of connection). [Social support]({{ 'social-support/' | relative_url }}) is most helpful when it strengthens all three. When support turns into pressure, it often damages autonomy even if the supporter has good intentions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-determination theory and the facilitation of intrinsic...The findings have led to the postulate of three innate psychological...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.urmc.rochester.edu/community-health/patient-care/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: urmc.rochester.edu">[University of Rochester Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">urmc.rochester.edu</span><span class="citation-popover-title">University of Rochester Medicine Self-Determination Theory of Motivation</span><span class="citation-popover-snippet">University of Rochester MedicineSelf-Determination Theory of Motivation - URMC.Rochester.eduSelf-determination theory suggests that all h...</span></span></span>
+Research on self-determination theory consistently finds that people sustain effort more effectively when three psychological needs are supported: autonomy (a sense of choice), competence (a sense of growing capability) and relatedness (a sense of connection). [Social support]({{ 'social-support/' | relative_url }}) is most helpful when it strengthens all three. When support turns into pressure, it often damages autonomy even if the supporter has good intentions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-determination theory and the facilitation of intrinsic...The findings have led to the postulate of three innate psychological...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.urmc.rochester.edu/community-health/patient-care/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: urmc.rochester.edu">[University of Rochester Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">urmc.rochester.edu</span><span class="citation-popover-title">University of Rochester Medicine Self-Determination Theory of Motivation</span><span class="citation-popover-snippet">University of Rochester MedicineSelf-Determination Theory of Motivation - URMC.Rochester.eduSelf-determination theory suggests that all h...</span></span></span>
 
 For [chosen goals]({{ 'chosen-goals/' | relative_url }}), this distinction matters. A friend, coach, family member or accountability group can help a goal feel more achievable and meaningful. The same people can also make the goal feel like an obligation performed for approval rather than a commitment freely owned by the person pursuing it.
 
@@ -293,7 +293,7 @@ Common examples include:
 
 These messages can create short-term compliance, but they often shift attention away from the person's reasons for pursuing the goal. Instead of acting because the goal matters, the person begins acting to avoid guilt, criticism, embarrassment or disapproval.
 
-Self-determination theory describes this as a movement towards controlled motivation. Behaviour may continue, but the emotional cost rises because the person experiences the goal as externally imposed rather than self-endorsed. Research across education, coaching, work and health settings repeatedly finds that autonomy-supportive environments are associated with better motivation, persistence and wellbeing than controlling environments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/social-sciences/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[Self-Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">an overviewSDT proposes that all human beings have three basic psychological needs – the needs for competence, autonomy, and relatedness...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/research-practice/conduct-research/self-determination-theory.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationSelf-determination theory: A quarter century of human...Mar 2, 2025 — SDT describes factors that help...</span></span></span>
+Self-determination theory describes this as a movement towards controlled motivation. Behaviour may continue, but the emotional cost rises because the person experiences the goal as externally imposed rather than self-endorsed. Research across education, coaching, work and health settings repeatedly finds that autonomy-supportive environments are associated with better motivation, persistence and wellbeing than controlling environments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/social-sciences/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[Self-Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">an overviewSDT proposes that all human beings have three basic psychological needs – the needs for competence, autonomy, and relatedness...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/research-practice/conduct-research/self-determination-theory.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationSelf-determination theory: A quarter century of human...Mar 2, 2025 — SDT describes factors that help...</span></span></span>
 
 Comparison creates a similar problem. Some people do find competition energising, but social comparison can easily shift the focus from personal progress to social ranking. A running goal becomes about beating other runners. Learning a skill becomes about avoiding looking incompetent. The goal remains, but ownership weakens because evaluation by others becomes the primary driver.
 
@@ -305,7 +305,7 @@ This helps explain why many people abandon goals after criticism or a perceived 
 
 Supportive relationships do not remove challenge. They change the way challenge is communicated.
 
-Research on [autonomy support]({{ 'autonomy-support/' | relative_url }}) emphasises behaviours such as acknowledging feelings, offering meaningful choices, providing rationale instead of demands, encouraging initiative and recognising the person's perspective. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/social-sciences/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[Self-Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">an overviewSDT proposes that all human beings have three basic psychological needs – the needs for competence, autonomy, and relatedness...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/28324765.2023.2255040" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: Autonomy support for the academic goal pursuit...by É Audet · 2023 · Cited by 5 — The results sugge...</span></span></span>
+Research on [autonomy support]({{ 'autonomy-support/' | relative_url }}) emphasises behaviours such as acknowledging feelings, offering meaningful choices, providing rationale instead of demands, encouraging initiative and recognising the person's perspective.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/topics/social-sciences/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[Self-Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">an overviewSDT proposes that all human beings have three basic psychological needs – the needs for competence, autonomy, and relatedness...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/28324765.2023.2255040" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: Autonomy support for the academic goal pursuit...by É Audet · 2023 · Cited by 5 — The results sugge...</span></span></span>
 
 An autonomy-supportive supporter might say:
 
@@ -328,7 +328,7 @@ Directive supportAutonomy-supportive support“You need to do this.”“What do
 
 The second style keeps responsibility with the goal owner. The supporter contributes perspective, encouragement and practical help without taking control of the decision.
 
-Evidence from coaching and mentoring contexts suggests that autonomy-supportive behaviours are linked to greater satisfaction of competence and relatedness needs, which in turn support healthier motivation and development. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8935530/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">to Student Motivation: A Meta-Analysis of... - PMC...</span></span></span>
+Evidence from coaching and mentoring contexts suggests that autonomy-supportive behaviours are linked to greater satisfaction of competence and relatedness needs, which in turn support healthier motivation and development.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8935530/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">to Student Motivation: A Meta-Analysis of... - PMC...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UXnFxqX8d5g" title="When Discipline Isn’t Working, Try Delight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UXnFxqX8d5g" target="_blank" rel="noopener noreferrer">When Discipline Isn’t Working, Try Delight</a></p><p class="youtube-embed-meta">Channel: Alli Worthington &middot; Views: 129 &middot; Uploaded: January 2026 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UXnFxqX8d5g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UXnFxqX8d5g">Open on YouTube</a></p></div></div></div>
 
@@ -350,7 +350,7 @@ For example:
 
 </div>
 
-Process-focused [feedback]({{ 'feedback/' | relative_url }}) appears particularly valuable because it reinforces capability without making self-worth dependent on results. Research on autonomy-supportive coaching has found that process-focused praise is associated with greater satisfaction of competence needs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4410092/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Effects of Autonomy-supportive Coaching, Need</span><span class="citation-popover-snippet">by JD Coatsworth · 2009 · Cited by 358 — Results indicated that coaches&#x27; autonomy support, particularly via process-focused praise, pr...</span></span></span>
+Process-focused [feedback]({{ 'feedback/' | relative_url }}) appears particularly valuable because it reinforces capability without making self-worth dependent on results. Research on autonomy-supportive coaching has found that process-focused praise is associated with greater satisfaction of competence needs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4410092/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Effects of Autonomy-supportive Coaching, Need</span><span class="citation-popover-snippet">by JD Coatsworth · 2009 · Cited by 358 — Results indicated that coaches&#x27; autonomy support, particularly via process-focused praise, pr...</span></span></span>
 
 This distinction matters. Praise such as “You're amazing” can unintentionally create pressure to maintain an image. Feedback such as “You handled that challenge better than last month” directs attention towards growth and learning.
 
@@ -365,7 +365,7 @@ The difference can be subtle.
 
 An accountability partner who asks, “Did you complete every target?” may unintentionally create a pass–fail relationship. An accountability partner who asks, “How did the week go, and what will you adjust next?” supports reflection while preserving ownership.
 
-Research examining goal support distinguishes autonomy-supportive forms of support from directive forms. Autonomy-supportive goal support is associated not only with goal progress but also with relationship quality and wellbeing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://carleton.ca/goallab/wp-content/uploads/Distinguishing-autonomous-and-directive-forms-of-goal-support.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carleton.ca">[Carleton University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carleton.ca</span><span class="citation-popover-title">Distinguishing autonomous and directive forms of goal support</span><span class="citation-popover-snippet">Carleton UniversityDistinguishing Autonomous and Directive Forms of Goal...by R Koestner · 2012 · Cited by 160 — The mechanism by which...</span></span></span>
+Research examining goal support distinguishes autonomy-supportive forms of support from directive forms. Autonomy-supportive goal support is associated not only with goal progress but also with relationship quality and wellbeing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://carleton.ca/goallab/wp-content/uploads/Distinguishing-autonomous-and-directive-forms-of-goal-support.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: carleton.ca">[Carleton University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">carleton.ca</span><span class="citation-popover-title">Distinguishing autonomous and directive forms of goal support</span><span class="citation-popover-snippet">Carleton UniversityDistinguishing Autonomous and Directive Forms of Goal...by R Koestner · 2012 · Cited by 160 — The mechanism by which...</span></span></span>
 
 When choosing accountability, several features help protect both motivation and relationships:
 
@@ -402,7 +402,7 @@ This often happens in families, coaching relationships or close friendships. A s
 
 The underlying message becomes: “This is our goal, and I expect you to pursue it.”
 
-The problem is not the presence of care. It is the loss of autonomy. Self-determination research consistently suggests that high-quality relationships support both connection and self-direction rather than forcing a choice between them. Autonomy and relatedness are not opposing needs; they tend to work best together. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/positive-approaches-to-optimal-relationship-development/optimal-relationships-as-mutual-fulfillment-of-selfdetermination-theorys-basic-psychological-needs/1354C16F936F5B99D79B34AE42A2473A" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment2</span><span class="citation-popover-snippet">Cambridge University Press &amp; Assessment2 - Optimal relationships as mutual fulfillment of self-...Experiencing autonomy allows one to co...</span></span></span> University Press & Assessment
+The problem is not the presence of care. It is the loss of autonomy. Self-determination research consistently suggests that high-quality relationships support both connection and self-direction rather than forcing a choice between them. Autonomy and relatedness are not opposing needs; they tend to work best together.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/books/positive-approaches-to-optimal-relationship-development/optimal-relationships-as-mutual-fulfillment-of-selfdetermination-theorys-basic-psychological-needs/1354C16F936F5B99D79B34AE42A2473A" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-title">University Press &amp; Assessment2</span><span class="citation-popover-snippet">Cambridge University Press &amp; Assessment2 - Optimal relationships as mutual fulfillment of self-...Experiencing autonomy allows one to co...</span></span></span> University Press & Assessment
 
 A person is more likely to remain engaged when they feel both connected to others and free to choose their own path.
 
@@ -424,272 +424,272 @@ More sustainable support follows a different pattern:
 
 </div>
 
-When support works well, it does not replace ownership. It protects it. The person still experiences the goal as their own, while benefiting from encouragement, perspective and connection. In the language of self-determination theory, support is most effective when it strengthens autonomy, competence and relatedness at the same time. Self-Determination Theory <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-determination theory and the facilitation of intrinsic...The findings have led to the postulate of three innate psychological...</span></span></span>
+When support works well, it does not replace ownership. It protects it. The person still experiences the goal as their own, while benefiting from encouragement, perspective and connection. In the language of self-determination theory, support is most effective when it strengthens autonomy, competence and relatedness at the same time. Self-Determination Theory<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-determination theory and the facilitation of intrinsic...The findings have led to the postulate of three innate psychological...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Help that supports without taking over. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Help that supports without taking over. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Drive+by+Daniel+H.+Pink&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0H_DIkg0I4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Drive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Drive+by+Daniel+H.+Pink&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drive">Drive</a>
-        </h4>
-        <p class="fr-book-author">By Daniel H. Pink</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Drive+by+Daniel+H.+Pink&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0H_DIkg0I4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Drive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Drive+by+Daniel+H.+Pink&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drive">Drive</a>
+</h4>
+<p class="fr-book-author">By Daniel H. Pink</p>
         
-        <p class="fr-book-desc">Explains autonomy, mastery and purpose, aligning closely with autonomy-supportive encouragement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Drive+by+Daniel+H.+Pink&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains autonomy, mastery and purpose, aligning closely with autonomy-supportive encouragement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Drive+by+Daniel+H.+Pink&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coaching+Habit+by+Michael+Bungay+Stanier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coaching Habit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EGFPDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Coaching Habit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Coaching+Habit+by+Michael+Bungay+Stanier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coaching Habit">The Coaching Habit</a>
-        </h4>
-        <p class="fr-book-author">By Michael Bungay Stanier</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coaching+Habit+by+Michael+Bungay+Stanier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coaching Habit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EGFPDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Coaching Habit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Coaching+Habit+by+Michael+Bungay+Stanier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coaching Habit">The Coaching Habit</a>
+</h4>
+<p class="fr-book-author">By Michael Bungay Stanier</p>
         
-        <p class="fr-book-desc">Shows how to support others through questions rather than control.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Coaching+Habit+by+Michael+Bungay+Stanier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how to support others through questions rather than control.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Coaching+Habit+by+Michael+Bungay+Stanier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Carol S. Dweck</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
-        <p class="fr-book-desc">Supports growth-focused feedback rather than pressure and comparison.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
+</h4>
+<p class="fr-book-author">By Carol S. Dweck</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
+<p class="fr-book-desc">Supports growth-focused feedback rather than pressure and comparison.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Self-Determination+Theory+by+Richard+Ryan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Self-Determination Theory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GF0ODQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Self-Determination Theory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Self-Determination+Theory+by+Richard+Ryan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Self-Determination Theory">Self-Determination Theory</a>
-        </h4>
-        <p class="fr-book-author">By Richard Ryan, Edward L. Deci</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Self-Determination+Theory+by+Richard+Ryan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Self-Determination Theory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GF0ODQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Self-Determination Theory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Self-Determination+Theory+by+Richard+Ryan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Self-Determination Theory">Self-Determination Theory</a>
+</h4>
+<p class="fr-book-author">By Richard Ryan, Edward L. Deci</p>
         
-        <p class="fr-book-desc">Directly covers autonomy, competence and relatedness.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Self-Determination+Theory+by+Richard+Ryan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers autonomy, competence and relatedness.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Self-Determination+Theory+by+Richard+Ryan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Drive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drive</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coaching+Habit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coaching Habit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Drive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drive</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coaching+Habit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coaching Habit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivation-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Set of 9 Monopoly Motivation Vision of Success Mindset Work POSTER / CANVAS ed3"><img src="{{ '/assets/images/marketplace-covers/34300078dfe02f7776ef.jpg' | relative_url }}" alt="Listing image for Set of 9 Monopoly Motivation Vision of Success Mindset Work POSTER / CANVAS ed3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivation-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Set of 9 Monopoly Motivation Vision of Success Mindset Work POSTER / CANVAS ed3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivation-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivation poster">Search <span data-ebay-domain-label>eBay.com</span>: motivation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivation-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivation-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Set of 9 Monopoly Motivation Vision of Success Mindset Work POSTER / CANVAS ed3"><img src="{{ '/assets/images/marketplace-covers/34300078dfe02f7776ef.jpg' | relative_url }}" alt="Listing image for Set of 9 Monopoly Motivation Vision of Success Mindset Work POSTER / CANVAS ed3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivation-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Set of 9 Monopoly Motivation Vision of Success Mindset Work POSTER / CANVAS ed3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivation-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivation poster">Search<span data-ebay-domain-label>eBay.com</span>: motivation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivation-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivation-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Arnold Schwarzenegger Poster - Aesthetic Bodybuilder Motivation - Unframed"><img src="{{ '/assets/images/marketplace-covers/a41a3234d9a13fbd3a7a.jpg' | relative_url }}" alt="Listing image for Arnold Schwarzenegger Poster - Aesthetic Bodybuilder Motivation - Unframed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivation-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Arnold Schwarzenegger Poster - Aesthetic Bodybuilder Motivation - Unframed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivation-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivation poster">Search <span data-ebay-domain-label>eBay.com</span>: motivation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivation-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivation-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Arnold Schwarzenegger Poster - Aesthetic Bodybuilder Motivation - Unframed"><img src="{{ '/assets/images/marketplace-covers/a41a3234d9a13fbd3a7a.jpg' | relative_url }}" alt="Listing image for Arnold Schwarzenegger Poster - Aesthetic Bodybuilder Motivation - Unframed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivation-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Arnold Schwarzenegger Poster - Aesthetic Bodybuilder Motivation - Unframed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivation-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivation poster">Search<span data-ebay-domain-label>eBay.com</span>: motivation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivation-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivation-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DISCIPLINE Greek God Bodybuilding Poster - Motivational Gym Wall Art, Unframed"><img src="{{ '/assets/images/marketplace-covers/009dc91b30203aff9d8d.jpg' | relative_url }}" alt="Listing image for DISCIPLINE Greek God Bodybuilding Poster - Motivational Gym Wall Art, Unframed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivation-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">DISCIPLINE Greek God Bodybuilding Poster - Motivational Gym Wall Art, Unframed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivation-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivation poster">Search <span data-ebay-domain-label>eBay.com</span>: motivation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivation-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivation-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DISCIPLINE Greek God Bodybuilding Poster - Motivational Gym Wall Art, Unframed"><img src="{{ '/assets/images/marketplace-covers/009dc91b30203aff9d8d.jpg' | relative_url }}" alt="Listing image for DISCIPLINE Greek God Bodybuilding Poster - Motivational Gym Wall Art, Unframed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivation-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">DISCIPLINE Greek God Bodybuilding Poster - Motivational Gym Wall Art, Unframed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivation-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivation poster">Search<span data-ebay-domain-label>eBay.com</span>: motivation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivation-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivation-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Gym Poster - Inspirational Fitness Wall Art"><img src="{{ '/assets/images/marketplace-covers/bab42bbca8dc07ea2b13.jpg' | relative_url }}" alt="Listing image for Motivational Gym Poster - Inspirational Fitness Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivation-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Gym Poster - Inspirational Fitness Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivation-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivation poster">Search <span data-ebay-domain-label>eBay.com</span>: motivation poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivation-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivation-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivation-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Gym Poster - Inspirational Fitness Wall Art"><img src="{{ '/assets/images/marketplace-covers/bab42bbca8dc07ea2b13.jpg' | relative_url }}" alt="Listing image for Motivational Gym Poster - Inspirational Fitness Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivation-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Gym Poster - Inspirational Fitness Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivation-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivation poster">Search<span data-ebay-domain-label>eBay.com</span>: motivation poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivation-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=motivation+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivation-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gym Motivational Posters Work Out Insperational Quotes Wall Art"><img src="{{ '/assets/images/marketplace-covers/4d2a471cca3e54fc14d8.jpg' | relative_url }}" alt="Listing image for Gym Motivational Posters Work Out Insperational Quotes Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Gym Motivational Posters Work Out Insperational Quotes Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gym Motivational Posters Work Out Insperational Quotes Wall Art"><img src="{{ '/assets/images/marketplace-covers/4d2a471cca3e54fc14d8.jpg' | relative_url }}" alt="Listing image for Gym Motivational Posters Work Out Insperational Quotes Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Gym Motivational Posters Work Out Insperational Quotes Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/889e8acbca3b73af071f.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/889e8acbca3b73af071f.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/72cf51fc129cd58e3c35.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/72cf51fc129cd58e3c35.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/ab8e18c59c3009355dfa.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/ab8e18c59c3009355dfa.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=support-help-that-supports-without-taking-over-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -705,7 +705,7 @@ When support works well, it does not replace ownership. It protects it. The pers
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -725,7 +725,7 @@ When support works well, it does not replace ownership. It protects it. The pers
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -757,7 +757,7 @@ When support works well, it does not replace ownership. It protects it. The pers
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -787,7 +787,7 @@ When support works well, it does not replace ownership. It protects it. The pers
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -845,214 +845,214 @@ When support works well, it does not replace ownership. It protects it. The pers
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: urmc.rochester.edu  
    Title: University of Rochester Medicine Self-Determination Theory of Motivation  
-   Link: <a href="https://www.urmc.rochester.edu/community-health/patient-care/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.urmc.rochester.edu/community-health/patient-care/self-determination-theory</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Rochester MedicineSelf-Determination Theory of Motivation - URMC.Rochester.eduSelf-determination theory suggests that all h...</p></details>
+   Link:<a href="https://www.urmc.rochester.edu/community-health/patient-care/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.urmc.rochester.edu/community-health/patient-care/self-determination-theory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of Rochester MedicineSelf-Determination Theory of Motivation - URMC.Rochester.eduSelf-determination theory suggests that all h...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8935530/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8935530/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>to Student Motivation: A Meta-Analysis of... - PMC...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8935530/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8935530/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to Student Motivation: A Meta-Analysis of... - PMC...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe Effects of Autonomy-supportive Coaching, Need  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4410092/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4410092/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by JD Coatsworth · 2009 · Cited by 358 — Results indicated that coaches&#x27; autonomy support, particularly via process-focused praise, pr...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4410092/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4410092/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by JD Coatsworth · 2009 · Cited by 358 — Results indicated that coaches&#x27; autonomy support, particularly via process-focused praise, pr...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: carleton.ca  
    Title: Distinguishing autonomous and directive forms of goal support  
-   Link: <a href="https://carleton.ca/goallab/wp-content/uploads/Distinguishing-autonomous-and-directive-forms-of-goal-support.pdf" target="_blank" rel="noopener noreferrer nofollow">https://carleton.ca/goallab/wp-content/uploads/Distinguishing-autonomous-and-directive-forms-of-goal-support.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Carleton UniversityDistinguishing Autonomous and Directive Forms of Goal...by R Koestner · 2012 · Cited by 160 — The mechanism by which...</p></details>
+   Link:<a href="https://carleton.ca/goallab/wp-content/uploads/Distinguishing-autonomous-and-directive-forms-of-goal-support.pdf" target="_blank" rel="noopener noreferrer nofollow">https://carleton.ca/goallab/wp-content/uploads/Distinguishing-autonomous-and-directive-forms-of-goal-support.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Carleton UniversityDistinguishing Autonomous and Directive Forms of Goal...by R Koestner · 2012 · Cited by 160 — The mechanism by which...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cambridge.org  
    Title: University Press & Assessment2  
-   Link: <a href="https://www.cambridge.org/core/books/positive-approaches-to-optimal-relationship-development/optimal-relationships-as-mutual-fulfillment-of-selfdetermination-theorys-basic-psychological-needs/1354C16F936F5B99D79B34AE42A2473A" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/positive-approaches-to-optimal-relationship-development/optimal-relationships-as-mutual-fulfillment-of-selfdetermination-theorys-basic-psychological-needs/1354C16F936F5B99D79B34AE42A2473A</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment2 - Optimal relationships as mutual fulfillment of self-...Experiencing autonomy allows one to co...</p></details>
+   Link:<a href="https://www.cambridge.org/core/books/positive-approaches-to-optimal-relationship-development/optimal-relationships-as-mutual-fulfillment-of-selfdetermination-theorys-basic-psychological-needs/1354C16F936F5B99D79B34AE42A2473A" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/positive-approaches-to-optimal-relationship-development/optimal-relationships-as-mutual-fulfillment-of-selfdetermination-theorys-basic-psychological-needs/1354C16F936F5B99D79B34AE42A2473A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; Assessment2 - Optimal relationships as mutual fulfillment of self-...Experiencing autonomy allows one to co...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7057354/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7057354/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>in Relatedness: How Need Fulfillment Interacts in...by ES Kluwer · 2019 · Cited by 163 — We test the hypothesis that relatedness and aut...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7057354/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7057354/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in Relatedness: How Need Fulfillment Interacts in...by ES Kluwer · 2019 · Cited by 163 — We test the hypothesis that relatedness and aut...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: selfdeterminationtheory.org  
    Title: The goal  
-   Link: <a href="https://selfdeterminationtheory.org/wp-content/uploads/2021/03/2015_NunezFernandezEtAl_RelationshipBetween.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2021/03/2015_NunezFernandezEtAl_RelationshipBetween.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The relationship between teacher&#x27;s autonomy support and...by JL Núñez · 2014 · Cited by 109 — Using the self-determination framework, we...</p></details>
+   Link:<a href="https://selfdeterminationtheory.org/wp-content/uploads/2021/03/2015_NunezFernandezEtAl_RelationshipBetween.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2021/03/2015_NunezFernandezEtAl_RelationshipBetween.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The relationship between teacher&#x27;s autonomy support and...by JL Núñez · 2014 · Cited by 109 — Using the self-determination framework, we...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/11392867/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-determination theory and the facilitation of intrinsic...The findings have led to the postulate of three innate psychological...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/11392867/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-determination theory and the facilitation of intrinsic...The findings have led to the postulate of three innate psychological...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: selfdeterminationtheory.org  
    Title: Again, research results have supported this reasoning.Read more  
-   Link: <a href="https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination TheorySelf-Determination Theory and the Facilitation of Intrinsic...by RM Ryan · 2000 · Cited by 86837 — In this sens...</p></details>
+   Link:<a href="https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination TheorySelf-Determination Theory and the Facilitation of Intrinsic...by RM Ryan · 2000 · Cited by 86837 — In this sens...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: apa.org  
-   Link: <a href="https://www.apa.org/research-practice/conduct-research/self-determination-theory.html" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/research-practice/conduct-research/self-determination-theory.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationSelf-determination theory: A quarter century of human...Mar 2, 2025 — SDT describes factors that help...</p></details>
+   Link:<a href="https://www.apa.org/research-practice/conduct-research/self-determination-theory.html" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/research-practice/conduct-research/self-determination-theory.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationSelf-determination theory: A quarter century of human...Mar 2, 2025 — SDT describes factors that help...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: selfdeterminationtheory.org  
-   Link: <a href="https://selfdeterminationtheory.org/research/autonomy-supportive-practices/" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/research/autonomy-supportive-practices/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination TheoryAutonomy-Supportive Practices – Page ArrayExploring the pathways through which teacher support predicts changes...</p></details>
+   Link:<a href="https://selfdeterminationtheory.org/research/autonomy-supportive-practices/" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/research/autonomy-supportive-practices/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination TheoryAutonomy-Supportive Practices – Page ArrayExploring the pathways through which teacher support predicts changes...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/28324765.2023.2255040" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/28324765.2023.2255040</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: Autonomy support for the academic goal pursuit...by É Audet · 2023 · Cited by 5 — The results sugge...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/28324765.2023.2255040" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/28324765.2023.2255040</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: Autonomy support for the academic goal pursuit...by É Audet · 2023 · Cited by 5 — The results sugge...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: selfdeterminationtheory.org  
    Title: 2008 Koestner CanPsyc.pdf  
-   Link: <a href="https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2008_Koestner_CanPsyc.pdf.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2008_Koestner_CanPsyc.pdf.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination TheoryReaching One&#x27;s Personal Goals: A Motivational...by R KOESTNER · 2008 · Cited by 175 — A recent study examined t...</p></details>
+   Link:<a href="https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2008_Koestner_CanPsyc.pdf.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2008_Koestner_CanPsyc.pdf.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination TheoryReaching One&#x27;s Personal Goals: A Motivational...by R KOESTNER · 2008 · Cited by 175 — A recent study examined t...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: selfdeterminationtheory.org  
-   Link: <a href="https://selfdeterminationtheory.org/theory/" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/theory/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination TheoryTheoryIndeed, the highest quality personal relationships are ones in which each partner supports the autonomy, c...</p></details>
+   Link:<a href="https://selfdeterminationtheory.org/theory/" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/theory/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination TheoryTheoryIndeed, the highest quality personal relationships are ones in which each partner supports the autonomy, c...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12263349/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12263349/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self‐Determination Theory Into Practice - PMC - NIHby A Neufeld · 2025 · Cited by 16 — SDT posits that all people have three basic psycho...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12263349/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12263349/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self‐Determination Theory Into Practice - PMC - NIHby A Neufeld · 2025 · Cited by 16 — SDT posits that all people have three basic psycho...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: sciencedirect.com  
    Title: Self-Determination Theory  
-   Link: <a href="https://www.sciencedirect.com/topics/social-sciences/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/social-sciences/self-determination-theory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>an overviewSDT proposes that all human beings have three basic psychological needs – the needs for competence, autonomy, and relatedness...</p></details>
+   Link:<a href="https://www.sciencedirect.com/topics/social-sciences/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/social-sciences/self-determination-theory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>an overviewSDT proposes that all human beings have three basic psychological needs – the needs for competence, autonomy, and relatedness...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: selfdeterminationtheory.org  
-   Link: <a href="https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2009_StoneDeciRyan_JGM.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2009_StoneDeciRyan_JGM.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>n, called self-determination theory (SDT), that identifies the core principles underlying sustainable motivation...Read mo...</p></details>
+   Link:<a href="https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2009_StoneDeciRyan_JGM.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2014/04/2009_StoneDeciRyan_JGM.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n, called self-determination theory (SDT), that identifies the core principles underlying sustainable motivation...Read mo...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: selfdeterminationtheory.org  
    Title: 2000 DeciRyan PIWhatWhy  
-   Link: <a href="https://selfdeterminationtheory.org/SDT/documents/2000_DeciRyan_PIWhatWhy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/SDT/documents/2000_DeciRyan_PIWhatWhy.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The “What” and “Why” of Goal Pursuits: Human Needs and...by EL Deci · Cited by 62093 — This study revealed that the degree to which pare...</p></details>
+   Link:<a href="https://selfdeterminationtheory.org/SDT/documents/2000_DeciRyan_PIWhatWhy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/SDT/documents/2000_DeciRyan_PIWhatWhy.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The “What” and “Why” of Goal Pursuits: Human Needs and...by EL Deci · Cited by 62093 — This study revealed that the degree to which pare...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: people-shift.com  
    Title: self determination theory autonomy competence and relatedness at work  
-   Link: <a href="https://people-shift.com/articles/self-determination-theory-autonomy-competence-and-relatedness-at-work/" target="_blank" rel="noopener noreferrer nofollow">https://people-shift.com/articles/self-determination-theory-autonomy-competence-and-relatedness-at-work/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory: Autonomy, Competence, and...21 May 2026 — It proposes that human beings have three basic psychological needs...</p></details>
+   Link:<a href="https://people-shift.com/articles/self-determination-theory-autonomy-competence-and-relatedness-at-work/" target="_blank" rel="noopener noreferrer nofollow">https://people-shift.com/articles/self-determination-theory-autonomy-competence-and-relatedness-at-work/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory: Autonomy, Competence, and...21 May 2026 — It proposes that human beings have three basic psychological needs...</p></details>
    Published: May 2026  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Self determination theory  
-   Link: <a href="https://en.wikipedia.org/wiki/Self-determination_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Self-determination_theory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-determination theorySelf-determination theory identifies a basic psychological need for autonomy as a central feature for underst...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Self-determination_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Self-determination_theory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-determination theorySelf-determination theory identifies a basic psychological need for autonomy as a central feature for underst...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: open.ncl.ac.uk  
    Title: self determination theory  
-   Link: <a href="https://open.ncl.ac.uk/theories/20/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://open.ncl.ac.uk/theories/20/self-determination-theory/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ncl.ac.ukSelf-Determination Theory: A review14 Mar 2026 — By integrating the principles of SDT across diverse contexts, it is possible to...</p></details>
+   Link:<a href="https://open.ncl.ac.uk/theories/20/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://open.ncl.ac.uk/theories/20/self-determination-theory/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ncl.ac.ukSelf-Determination Theory: A review14 Mar 2026 — By integrating the principles of SDT across diverse contexts, it is possible to...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ukcoaching.org  
-   Link: <a href="https://www.ukcoaching.org/ukc-club/resources/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://www.ukcoaching.org/ukc-club/resources/self-determination-theory/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination TheorySelf-Determination Theory emphasises that people are most motivated and fulfilled when their basic needs for aut...</p></details>
+   Link:<a href="https://www.ukcoaching.org/ukc-club/resources/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://www.ukcoaching.org/ukc-club/resources/self-determination-theory/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination TheorySelf-Determination Theory emphasises that people are most motivated and fulfilled when their basic needs for aut...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: balanceisbetter.org.nz  
-   Link: <a href="https://balanceisbetter.org.nz/self-determination-theory-what-is-it-and-what-does-it-mean-practically-for-coaches/" target="_blank" rel="noopener noreferrer nofollow">https://balanceisbetter.org.nz/self-determination-theory-what-is-it-and-what-does-it-mean-practically-for-coaches/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ed by three basic psychological needs: relatedness, competence, and autonomy.Read more...</p></details>
+   Link:<a href="https://balanceisbetter.org.nz/self-determination-theory-what-is-it-and-what-does-it-mean-practically-for-coaches/" target="_blank" rel="noopener noreferrer nofollow">https://balanceisbetter.org.nz/self-determination-theory-what-is-it-and-what-does-it-mean-practically-for-coaches/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ed by three basic psychological needs: relatedness, competence, and autonomy.Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: simplypsychology.org  
    Title: self determination theory  
-   Link: <a href="https://www.simplypsychology.org/self-determination-theory.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/self-determination-theory.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory Of MotivationApr 1, 2026 — When people act autonomously, their actions reflect their genuine interests, values...</p></details>
+   Link:<a href="https://www.simplypsychology.org/self-determination-theory.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/self-determination-theory.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory Of MotivationApr 1, 2026 — When people act autonomously, their actions reflect their genuine interests, values...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: drpaulmccarthy.com  
-   Link: <a href="https://www.drpaulmccarthy.com/post/self-determination-theory-in-sport-new-evidence-for-athletic-performance-enhancement" target="_blank" rel="noopener noreferrer nofollow">https://www.drpaulmccarthy.com/post/self-determination-theory-in-sport-new-evidence-for-athletic-performance-enhancement</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory in Sport: New Evidence for...Dec 21, 2025 — The foundations of self-determination theory in sport are three ps...</p></details>
+   Link:<a href="https://www.drpaulmccarthy.com/post/self-determination-theory-in-sport-new-evidence-for-athletic-performance-enhancement" target="_blank" rel="noopener noreferrer nofollow">https://www.drpaulmccarthy.com/post/self-determination-theory-in-sport-new-evidence-for-athletic-performance-enhancement</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory in Sport: New Evidence for...Dec 21, 2025 — The foundations of self-determination theory in sport are three ps...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: positivepsychology.com  
    Title: self determination theory  
-   Link: <a href="https://positivepsychology.com/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://positivepsychology.com/self-determination-theory/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and How It Explains Motivation21 Jun 2018 — Self-Determination Theory posits that autonomy, competence &amp; relatedness are fundamental psyc...</p></details>
+   Link:<a href="https://positivepsychology.com/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://positivepsychology.com/self-determination-theory/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and How It Explains Motivation21 Jun 2018 — Self-Determination Theory posits that autonomy, competence &amp; relatedness are fundamental psyc...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=_juPDoa3GBY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_juPDoa3GBY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory ExplainedSelf-determination Theory argues that we do what we do because we are motivated by three basic needs t...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_juPDoa3GBY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_juPDoa3GBY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory ExplainedSelf-determination Theory argues that we do what we do because we are motivated by three basic needs t...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: suebehaviouraldesign.com  
    Title: self determination theory explained  
-   Link: <a href="https://www.suebehaviouraldesign.com/en/blog/self-determination-theory-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.suebehaviouraldesign.com/en/blog/self-determination-theory-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory: 3 needs that drive intrinsic...1 Mar 2026 — Autonomy: it is not about freedom, it is about ownership · Compet...</p></details>
+   Link:<a href="https://www.suebehaviouraldesign.com/en/blog/self-determination-theory-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.suebehaviouraldesign.com/en/blog/self-determination-theory-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory: 3 needs that drive intrinsic...1 Mar 2026 — Autonomy: it is not about freedom, it is about ownership · Compet...</p></details>
 
 ### Additional References
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: ssa.gov  
-   Link: <a href="https://www.ssa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.ssa.gov/</a>  
+   Link:<a href="https://www.ssa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.ssa.gov/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/post/Brief_measure_of_self-determination_at_work_autonomy_competence_relatedness_for_use_with_bachelors_level_helping_professionals" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/post/Brief_measure_of_self-determination_at_work_autonomy_competence_relatedness_for_use_with_bachelors_level_helping_professionals</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brief measure of self-determination at work (autonomy...Oct 18, 2023 — I am seeking a brief measure of self-determination at work (auto...</p></details>
+   Link:<a href="https://www.researchgate.net/post/Brief_measure_of_self-determination_at_work_autonomy_competence_relatedness_for_use_with_bachelors_level_helping_professionals" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/post/Brief_measure_of_self-determination_at_work_autonomy_competence_relatedness_for_use_with_bachelors_level_helping_professionals</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brief measure of self-determination at work (autonomy...Oct 18, 2023 — I am seeking a brief measure of self-determination at work (auto...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: rccs.org.uk  
-   Link: <a href="https://www.rccs.org.uk/post/autonomy-competence-and-relatedness-understanding-the-three-universal-needs-of-self-determination" target="_blank" rel="noopener noreferrer nofollow">https://www.rccs.org.uk/post/autonomy-competence-and-relatedness-understanding-the-three-universal-needs-of-self-determination</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomy Competence and Relatedness – RCCS6 Feb 2026 — Explore autonomy competence and relatedness – the core human needs that drive moti...</p></details>
+   Link:<a href="https://www.rccs.org.uk/post/autonomy-competence-and-relatedness-understanding-the-three-universal-needs-of-self-determination" target="_blank" rel="noopener noreferrer nofollow">https://www.rccs.org.uk/post/autonomy-competence-and-relatedness-understanding-the-three-universal-needs-of-self-determination</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomy Competence and Relatedness – RCCS6 Feb 2026 — Explore autonomy competence and relatedness – the core human needs that drive moti...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: instituteofcoaching.org  
-   Link: <a href="https://instituteofcoaching.org/resources/coaching-self-determination-mind-using-theory-advance-evidence-based-coaching-practice" target="_blank" rel="noopener noreferrer nofollow">https://instituteofcoaching.org/resources/coaching-self-determination-mind-using-theory-advance-evidence-based-coaching-practice</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Using theory to advance evidence-based coaching practiceIn this paper it will be argued that Self-Determination Theory (SDT; Deci &amp; Ryan...</p></details>
+   Link:<a href="https://instituteofcoaching.org/resources/coaching-self-determination-mind-using-theory-advance-evidence-based-coaching-practice" target="_blank" rel="noopener noreferrer nofollow">https://instituteofcoaching.org/resources/coaching-self-determination-mind-using-theory-advance-evidence-based-coaching-practice</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Using theory to advance evidence-based coaching practiceIn this paper it will be argued that Self-Determination Theory (SDT; Deci &amp; Ryan...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: thementalgame.me  
    Title: the influence of self determination theory on athlete motivation  
-   Link: <a href="https://thementalgame.me/blog/the-influence-of-self-determination-theory-on-athlete-motivation" target="_blank" rel="noopener noreferrer nofollow">https://thementalgame.me/blog/the-influence-of-self-determination-theory-on-athlete-motivation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Self-Determination Theory Fuels Athlete Motivation...Oct 23, 2025 — By understanding the importance of autonomy, competence, and rel...</p></details>
+   Link:<a href="https://thementalgame.me/blog/the-influence-of-self-determination-theory-on-athlete-motivation" target="_blank" rel="noopener noreferrer nofollow">https://thementalgame.me/blog/the-influence-of-self-determination-theory-on-athlete-motivation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Self-Determination Theory Fuels Athlete Motivation...Oct 23, 2025 — By understanding the importance of autonomy, competence, and rel...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: transformingbball.com  
    Title: why coaches need to understand self determination theory  
-   Link: <a href="https://transformingbball.com/why-coaches-need-to-understand-self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://transformingbball.com/why-coaches-need-to-understand-self-determination-theory/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomy: Give Players Ownership · 2. Competence – Build Confidence Through Challenge · 3. Relatedness – Foster a Sense of Community.Read...</p></details>
+   Link:<a href="https://transformingbball.com/why-coaches-need-to-understand-self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://transformingbball.com/why-coaches-need-to-understand-self-determination-theory/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomy: Give Players Ownership · 2. Competence – Build Confidence Through Challenge · 3. Relatedness – Foster a Sense of Community.Read...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: verywellmind.com  
    Title: what is self determination theory 2795387  
-   Link: <a href="https://www.verywellmind.com/what-is-self-determination-theory-2795387" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/what-is-self-determination-theory-2795387</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Self-Determination Theory Explains MotivationOct 29, 2025 — Self-determination theory suggests that fulfilling the core needs for aut...</p></details>
+   Link:<a href="https://www.verywellmind.com/what-is-self-determination-theory-2795387" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/what-is-self-determination-theory-2795387</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Self-Determination Theory Explains MotivationOct 29, 2025 — Self-determination theory suggests that fulfilling the core needs for aut...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/SampleSize/comments/1e41t6e/academic_a_study_on_the_impact_of_personal_goal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SampleSize/comments/1e41t6e/academic_a_study_on_the_impact_of_personal_goal/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tcomes (Anyone currently working). Academic.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/SampleSize/comments/1e41t6e/academic_a_study_on_the_impact_of_personal_goal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/SampleSize/comments/1e41t6e/academic_a_study_on_the_impact_of_personal_goal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tcomes (Anyone currently working). Academic.Read more...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: magiclab.psych.ubc.ca  
    Title: ca Self-regulation & Goal pursuit  
-   Link: <a href="https://magiclab.psych.ubc.ca/research/self-regulation-goal-pursuit/" target="_blank" rel="noopener noreferrer nofollow">https://magiclab.psych.ubc.ca/research/self-regulation-goal-pursuit/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ubc.caSelf-regulation &amp; Goal pursuit - MAGIC LabOur lab has a long-standing interest in goal pursuit: How people harness their resources...</p></details>
+   Link:<a href="https://magiclab.psych.ubc.ca/research/self-regulation-goal-pursuit/" target="_blank" rel="noopener noreferrer nofollow">https://magiclab.psych.ubc.ca/research/self-regulation-goal-pursuit/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ubc.caSelf-regulation &amp; Goal pursuit - MAGIC LabOur lab has a long-standing interest in goal pursuit: How people harness their resources...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: cmeetit.com  
    Title: social goals vs personal goals  
-   Link: <a href="https://cmeetit.com/blog/social-goals-vs-personal-goals.html" target="_blank" rel="noopener noreferrer nofollow">https://cmeetit.com/blog/social-goals-vs-personal-goals.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Accountability...17 Aug 2025 — Discover the science behind social vs personal goals and why sharing your goals dramatical...</p></details>
+   Link:<a href="https://cmeetit.com/blog/social-goals-vs-personal-goals.html" target="_blank" rel="noopener noreferrer nofollow">https://cmeetit.com/blog/social-goals-vs-personal-goals.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Accountability...17 Aug 2025 — Discover the science behind social vs personal goals and why sharing your goals dramatical...</p></details>

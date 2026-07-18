@@ -274,16 +274,16 @@ image: /assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97_de
 
 ## Introduction
 
-Automatic enrolment is one of the strongest real-world demonstrations that [saving]({{ 'saving/' | relative_url }}) behaviour depends not only on intentions but also on [defaults]({{ 'defaults/' | relative_url }}). The lesson for everyday savers is simple: people are far more likely to save when saving happens automatically and requires effort to stop than when saving requires a fresh decision every month. Evidence from US retirement plans and the UK's workplace pension system shows that changing the default from “join if you want” to “you are in unless you opt out” dramatically increases participation in long-term saving. At the same time, the same evidence reveals an important warning: many people treat the default contribution level as a recommendation, even when it may be too low for their future needs. The most useful lesson is therefore not merely to automate saving, but to review and strengthen the default over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nber.org/system/files/working_papers/w7682/w7682.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nber.org">[NBER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nber.org</span><span class="citation-popover-snippet">First, 401(k) participation is significantly higher under automatic enrollment. Second, the default contribution rate and investment...R...</span></span></span>
+Automatic enrolment is one of the strongest real-world demonstrations that [saving]({{ 'saving/' | relative_url }}) behaviour depends not only on intentions but also on [defaults]({{ 'defaults/' | relative_url }}). The lesson for everyday savers is simple: people are far more likely to save when saving happens automatically and requires effort to stop than when saving requires a fresh decision every month. Evidence from US retirement plans and the UK's workplace pension system shows that changing the default from “join if you want” to “you are in unless you opt out” dramatically increases participation in long-term saving. At the same time, the same evidence reveals an important warning: many people treat the default contribution level as a recommendation, even when it may be too low for their future needs. The most useful lesson is therefore not merely to automate saving, but to review and strengthen the default over time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nber.org/system/files/working_papers/w7682/w7682.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nber.org">[NBER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nber.org</span><span class="citation-popover-snippet">First, 401(k) participation is significantly higher under automatic enrollment. Second, the default contribution rate and investment...R...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97_default_enrolment_le_e59075-Illustration-1-dark.svg" | relative_url }}" alt="Default lessons illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97_default_enrolment_le_e59075-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97_default_enrolment_le_e59075-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why opt-out saving changes participation
 
 Automatic enrolment works because it changes the effort required to act. Under an opt-in system, people must complete forms, compare options, decide contribution levels and take action. Under an opt-out system, saving begins automatically and the decision becomes whether to stop.
 
-This seemingly small change produces surprisingly large effects. Research by Brigitte Madrian and Dennis Shea examining a major US employer's 401(k) retirement plan found that participation rose sharply after automatic enrolment was introduced, despite no change in the underlying economic benefits of the plan. Employees who previously failed to join often remained enrolled once participation became the default. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nber.org/papers/w7682" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nber.org">[NBER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nber.org</span><span class="citation-popover-snippet">First, 401(k) participation is significantly higher under automatic enrollment. Second, the default contribution rate...Read more...</span></span></span>
+This seemingly small change produces surprisingly large effects. Research by Brigitte Madrian and Dennis Shea examining a major US employer's 401(k) retirement plan found that participation rose sharply after automatic enrolment was introduced, despite no change in the underlying economic benefits of the plan. Employees who previously failed to join often remained enrolled once participation became the default.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nber.org/papers/w7682" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nber.org">[NBER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nber.org</span><span class="citation-popover-snippet">First, 401(k) participation is significantly higher under automatic enrollment. Second, the default contribution rate...Read more...</span></span></span>
 
-Behavioural economists often describe this as inertia. People tend to stick with the current arrangement, especially when a decision is complex, distant in its consequences or easy to postpone. Automatic enrolment turns that tendency into an advantage for saving rather than a barrier to it. Subsequent studies found that moving from an opt-in to an opt-out design can raise participation among new employees by more than 50 percentage points. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2798815/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCOptimal Defaults and Active Decisions</span><span class="citation-popover-snippet">NIHby GD Carroll · 2009 · Cited by 974 — For example, switching from a non-participation default to a participation default (automa...</span></span></span>
+Behavioural economists often describe this as inertia. People tend to stick with the current arrangement, especially when a decision is complex, distant in its consequences or easy to postpone. Automatic enrolment turns that tendency into an advantage for saving rather than a barrier to it. Subsequent studies found that moving from an opt-in to an opt-out design can raise participation among new employees by more than 50 percentage points.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2798815/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCOptimal Defaults and Active Decisions</span><span class="citation-popover-snippet">NIHby GD Carroll · 2009 · Cited by 974 — For example, switching from a non-participation default to a participation default (automa...</span></span></span>
 
 For personal saving, the implication is broader than pensions. Any system that automatically transfers money into savings immediately after income arrives is effectively creating a personal version of automatic enrolment. Instead of asking whether to save this month, the saver must actively choose not to save.
 
@@ -291,15 +291,15 @@ For personal saving, the implication is broader than pensions. Any system that a
 
 ## What 401(k) and UK pension evidence can and cannot prove
 
-The United States provided the first widely cited evidence through employer retirement plans. Studies consistently found participation rates above 85% under automatic enrolment, far higher than under traditional opt-in arrangements. Researchers also found that automatic enrolment had particularly large effects on groups that historically saved less, including younger workers and lower earners. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nber.org/papers/w8651" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nber.org">[NBER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nber.org</span><span class="citation-popover-snippet">For Better or For Worse: Default Effects and 401(k) Savings...by JJ Choi · 2001 · Cited by 1065 — We analyze the impact of automatic...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/delivery.cfm/nber_W8651.pdf?abstractid=294089" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-title">nber W8651</span><span class="citation-popover-snippet">Default Effects and 401(k) Savings Behaviorby JJ Choi · 2001 · Cited by 1074 — Madrian and Shea also note that automatic enrollment h...</span></span></span>
+The United States provided the first widely cited evidence through employer retirement plans. Studies consistently found participation rates above 85% under automatic enrolment, far higher than under traditional opt-in arrangements. Researchers also found that automatic enrolment had particularly large effects on groups that historically saved less, including younger workers and lower earners.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nber.org/papers/w8651" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nber.org">[NBER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nber.org</span><span class="citation-popover-snippet">For Better or For Worse: Default Effects and 401(k) Savings...by JJ Choi · 2001 · Cited by 1065 — We analyze the impact of automatic...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/sol3/delivery.cfm/nber_W8651.pdf?abstractid=294089" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-title">nber W8651</span><span class="citation-popover-snippet">Default Effects and 401(k) Savings Behaviorby JJ Choi · 2001 · Cited by 1074 — Madrian and Shea also note that automatic enrollment h...</span></span></span>
 
-The United Kingdom later provided evidence on a national scale. Automatic enrolment into workplace pensions began rolling out in 2012 and transformed pension participation across millions of workers. Government analysis describes automatic enrolment as a major driver of increased workplace pension participation and contributions. Opt-out rates remained much lower than many policymakers originally expected, generally around 10% or below. <span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/writtenevidence/64033/html/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament Committees]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-snippet">To date, the number of workers...Read more...</span></span></span>
+The United Kingdom later provided evidence on a national scale. Automatic enrolment into workplace pensions began rolling out in 2012 and transformed pension participation across millions of workers. Government analysis describes automatic enrolment as a major driver of increased workplace pension participation and contributions. Opt-out rates remained much lower than many policymakers originally expected, generally around 10% or below.<span class="citation-chip-wrap"><a class="citation-chip" href="https://committees.parliament.uk/writtenevidence/64033/html/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: committees.parliament.uk">[UK Parliament Committees]</a><span class="citation-popover" role="note"><span class="citation-popover-source">committees.parliament.uk</span><span class="citation-popover-snippet">To date, the number of workers...Read more...</span></span></span>
 
-The strength of this evidence is that it comes from real behaviour involving real money rather than laboratory experiments. Large populations changed their actions after defaults changed. That makes the finding unusually robust for a behavioural intervention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/statistics/ten-years-of-automatic-enrolment-in-workplace-pensions/ten-years-of-automatic-enrolment-in-workplace-pensions-statistics-and-analysis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ten years of automatic enrolment in workplace pensions statistics and analysis</span><span class="citation-popover-snippet">Ten years of Automatic Enrolment in Workplace Pensions26 Oct 2022 — This data and analysis examines the role Automatic Enrolment (AE) h...</span></span></span>
+The strength of this evidence is that it comes from real behaviour involving real money rather than laboratory experiments. Large populations changed their actions after defaults changed. That makes the finding unusually robust for a behavioural intervention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/statistics/ten-years-of-automatic-enrolment-in-workplace-pensions/ten-years-of-automatic-enrolment-in-workplace-pensions-statistics-and-analysis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">ten years of automatic enrolment in workplace pensions statistics and analysis</span><span class="citation-popover-snippet">Ten years of Automatic Enrolment in Workplace Pensions26 Oct 2022 — This data and analysis examines the role Automatic Enrolment (AE) h...</span></span></span>
 
 However, the evidence has [limits]({{ 'limits/' | relative_url }}).
 
-Automatic enrolment clearly increases participation, but participation is not the same as adequate saving. A pension account with small contributions is better than no pension account, yet it may still leave someone underprepared for retirement. Automatic enrolment also cannot solve affordability problems. Research on UK workers who opt out finds that financial pressure and concerns about current affordability remain important reasons for leaving pension schemes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0958928717717656" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsWhy do people opt-out or not opt-out of automatic...Aug 22, 2017 — Lack of affordability or other provisions for retirement...</span></span></span>
+Automatic enrolment clearly increases participation, but participation is not the same as adequate saving. A pension account with small contributions is better than no pension account, yet it may still leave someone underprepared for retirement. Automatic enrolment also cannot solve affordability problems. Research on UK workers who opt out finds that financial pressure and concerns about current affordability remain important reasons for leaving pension schemes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0958928717717656" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsWhy do people opt-out or not opt-out of automatic...Aug 22, 2017 — Lack of affordability or other provisions for retirement...</span></span></span>
 
 The evidence therefore proves that defaults can move people into saving. It does not prove that every automatically enrolled saver is saving enough.
 
@@ -308,13 +308,13 @@ The evidence therefore proves that defaults can move people into saving. It does
 
 The most important caution from the automatic enrolment literature is that people often accept whatever default they are given.
 
-Research on US 401(k) plans found that many automatically enrolled workers stayed at the default contribution rate and default investment choice for long periods. In some firms, around 80% of participants initially accepted both the default contribution rate and the default investment allocation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/abstract%3D294089" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Effects and 401(K) Savings BehaviorDec 14, 2001 — As a result, automatic enrollment has a dramatic impact on retirement savings behavior...</span></span></span>
+Research on US 401(k) plans found that many automatically enrolled workers stayed at the default contribution rate and default investment choice for long periods. In some firms, around 80% of participants initially accepted both the default contribution rate and the default investment allocation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://papers.ssrn.com/abstract%3D294089" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">Effects and 401(K) Savings BehaviorDec 14, 2001 — As a result, automatic enrollment has a dramatic impact on retirement savings behavior...</span></span></span>
 
 This creates a paradox. The same inertia that successfully gets people into saving can also keep them at contribution levels that are lower than they would choose if they actively reviewed their situation.
 
-In the early years of automatic enrolment, some plans used contribution defaults of only 2% or 3% of pay. Those defaults dramatically increased participation but also encouraged many workers to anchor on contribution rates that were unlikely to generate adequate retirement wealth on their own. Researchers repeatedly observed this "default effect": the default did not merely start behaviour, it shaped long-term behaviour. SSRN <span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.repec.org/p/nbr/nberwo/7682.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[IDEAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-snippet">IDEAS/RePEcThe Power of Suggestion: Inertia in 401(k) Participation andby BC Madrian · 2000 · Cited by 4572 — After the plan change, empl...</span></span></span>
+In the early years of automatic enrolment, some plans used contribution defaults of only 2% or 3% of pay. Those defaults dramatically increased participation but also encouraged many workers to anchor on contribution rates that were unlikely to generate adequate retirement wealth on their own. Researchers repeatedly observed this "default effect": the default did not merely start behaviour, it shaped long-term behaviour. SSRN<span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.repec.org/p/nbr/nberwo/7682.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[IDEAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-snippet">IDEAS/RePEcThe Power of Suggestion: Inertia in 401(k) Participation andby BC Madrian · 2000 · Cited by 4572 — After the plan change, empl...</span></span></span>
 
-The UK debate increasingly reflects the same concern. Automatic enrolment succeeded in getting millions of people saving, but policymakers, pension specialists and researchers continue to question whether minimum contribution levels are sufficient for many workers' retirement needs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commonslibrary.parliament.uk/research-briefings/sn06417/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commonslibrary.parliament.uk">[House of Commons Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commonslibrary.parliament.uk</span><span class="citation-popover-title">House of Commons Library Pensions: Automatic enrolment</span><span class="citation-popover-snippet">House of Commons LibraryPensions: Automatic enrolment - current issuesJan 19, 2026 — The paper discusses pensions auto-enrolment, its int...</span></span></span>
+The UK debate increasingly reflects the same concern. Automatic enrolment succeeded in getting millions of people saving, but policymakers, pension specialists and researchers continue to question whether minimum contribution levels are sufficient for many workers' retirement needs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://commonslibrary.parliament.uk/research-briefings/sn06417/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commonslibrary.parliament.uk">[House of Commons Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commonslibrary.parliament.uk</span><span class="citation-popover-title">House of Commons Library Pensions: Automatic enrolment</span><span class="citation-popover-snippet">House of Commons LibraryPensions: Automatic enrolment - current issuesJan 19, 2026 — The paper discusses pensions auto-enrolment, its int...</span></span></span>
 
 For personal finance, the practical lesson is straightforward:
 
@@ -322,7 +322,7 @@ For personal finance, the practical lesson is straightforward:
 
 * Treat the default as a starting point, not a target.
 * Review contribution rates after pay rises.
-* Increase automatic transfers periodically. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2798815/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCOptimal Defaults and Active Decisions</span><span class="citation-popover-snippet">NIHby GD Carroll · 2009 · Cited by 974 — For example, switching from a non-participation default to a participation default (automa...</span></span></span>
+* Increase automatic transfers periodically.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2798815/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCOptimal Defaults and Active Decisions</span><span class="citation-popover-snippet">NIHby GD Carroll · 2009 · Cited by 974 — For example, switching from a non-participation default to a participation default (automa...</span></span></span>
 * Assume that a system designed to maximise participation may not be designed to maximise long-term wealth.
 
 </div>
@@ -343,274 +343,274 @@ Second, make opting out slightly inconvenient. A savings system is stronger when
 
 Third, review defaults regularly. The evidence shows that people often stay where the default places them. That makes the initial setting important, but it also makes periodic increases valuable.
 
-Finally, remember the central behavioural insight: most people do not save because they repeatedly make perfect financial decisions. They save because a good decision was made once and then allowed to continue automatically. The pension evidence demonstrates that changing the default can change behaviour for millions of people. Personal saving systems become more effective when they apply the same principle to everyday money management. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/uk-house-price-index-for-march-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">uk house price index for march 2026</span><span class="citation-popover-snippet">House Price Index for March 2026...</span><span class="citation-popover-meta">Published: march 2026</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nber.org/reporter/2024number3/influencing-retirement-savings-decisions-automatic-enrollment-and-related-tools" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nber.org">[NBER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nber.org</span><span class="citation-popover-title">influencing retirement savings decisions automatic enrollment and related tools</span><span class="citation-popover-snippet">Influencing Retirement Savings Decisions with Automatic...Oct 22, 2024 — In a study of an employer that used automatic enrollment, we fo...</span></span></span>
+Finally, remember the central behavioural insight: most people do not save because they repeatedly make perfect financial decisions. They save because a good decision was made once and then allowed to continue automatically. The pension evidence demonstrates that changing the default can change behaviour for millions of people. Personal saving systems become more effective when they apply the same principle to everyday money management.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/uk-house-price-index-for-march-2026" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">uk house price index for march 2026</span><span class="citation-popover-snippet">House Price Index for March 2026...</span><span class="citation-popover-meta">Published: march 2026</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nber.org/reporter/2024number3/influencing-retirement-savings-decisions-automatic-enrollment-and-related-tools" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nber.org">[NBER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nber.org</span><span class="citation-popover-title">influencing retirement savings decisions automatic enrollment and related tools</span><span class="citation-popover-snippet">Influencing Retirement Savings Decisions with Automatic...Oct 22, 2024 — In a study of an employer that used automatic enrollment, we fo...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97_default_enrolment_le_e59075-Illustration-3-dark.svg" | relative_url }}" alt="Default lessons illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97_default_enrolment_le_e59075-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97_default_enrolment_le_e59075-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What pension defaults teach everyday savers. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What pension defaults teach everyday savers. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nudge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Wf1AEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Nudge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nudge">Nudge</a>
-        </h4>
-        <p class="fr-book-author">By Richard H. Thaler, Cass R. Sunstein</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nudge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Wf1AEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Nudge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nudge">Nudge</a>
+</h4>
+<p class="fr-book-author">By Richard H. Thaler, Cass R. Sunstein</p>
         
-        <p class="fr-book-desc">Automatic enrolment is one of the book&#x27;s signature themes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Automatic enrolment is one of the book&#x27;s signature themes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Misbehaving+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Misbehaving on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9EJzAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Misbehaving" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Misbehaving+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Misbehaving">Misbehaving</a>
-        </h4>
-        <p class="fr-book-author">By Richard H. Thaler</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Misbehaving+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Misbehaving on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9EJzAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Misbehaving" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Misbehaving+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Misbehaving">Misbehaving</a>
+</h4>
+<p class="fr-book-author">By Richard H. Thaler</p>
         
-        <p class="fr-book-desc">Explains behavioural economics research behind saving defaults.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Misbehaving+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains behavioural economics research behind saving defaults.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Misbehaving+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Psychology+of+Money+by+Morgan+Housel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of Money on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5HrrDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Psychology of Money" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Psychology+of+Money+by+Morgan+Housel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Money">The Psychology of Money</a>
-        </h4>
-        <p class="fr-book-author">By Morgan Housel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Psychology+of+Money+by+Morgan+Housel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of Money on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5HrrDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Psychology of Money" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Psychology+of+Money+by+Morgan+Housel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Money">The Psychology of Money</a>
+</h4>
+<p class="fr-book-author">By Morgan Housel</p>
         
-        <p class="fr-book-desc">Connects behaviour and long-term saving outcomes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Psychology+of+Money+by+Morgan+Housel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects behaviour and long-term saving outcomes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Psychology+of+Money+by+Morgan+Housel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Provides the cognitive foundations for default effects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the cognitive foundations for default effects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Nudge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nudge</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Misbehaving&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Misbehaving</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Psychology+of+Money&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Psychology of Money</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Nudge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nudge</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Misbehaving&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Misbehaving</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Psychology+of+Money&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Psychology of Money</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Saving money is for losers Framed A Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/efd8f3fcb4305cbca980.jpg' | relative_url }}" alt="Listing image for Saving money is for losers Framed A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Saving money is for losers Framed A Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for money saving poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: money saving poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Saving money is for losers Framed A Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/efd8f3fcb4305cbca980.jpg' | relative_url }}" alt="Listing image for Saving money is for losers Framed A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Saving money is for losers Framed A Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for money saving poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: money saving poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Saving and Growing Money Poster Wall Art Print pick size A4/A3/A2/90x60cm"><img src="{{ '/assets/images/marketplace-covers/3303b74456d8fb77a1b7.jpg' | relative_url }}" alt="Listing image for Saving and Growing Money Poster Wall Art Print pick size A4/A3/A2/90x60cm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Saving and Growing Money Poster Wall Art Print pick size A4/A3/A2/90x60cm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for money saving poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: money saving poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Saving and Growing Money Poster Wall Art Print pick size A4/A3/A2/90x60cm"><img src="{{ '/assets/images/marketplace-covers/3303b74456d8fb77a1b7.jpg' | relative_url }}" alt="Listing image for Saving and Growing Money Poster Wall Art Print pick size A4/A3/A2/90x60cm" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Saving and Growing Money Poster Wall Art Print pick size A4/A3/A2/90x60cm</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for money saving poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: money saving poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1951 Rest As You Ride. in Money Saving Coaches Go Union Pacific - 11x17 Poster"><img src="{{ '/assets/images/marketplace-covers/7f777e136d6619021095.jpg' | relative_url }}" alt="Listing image for 1951 Rest As You Ride. in Money Saving Coaches Go Union Pacific - 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">1951 Rest As You Ride. in Money Saving Coaches Go Union Pacific - 11x17 Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for money saving poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: money saving poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1951 Rest As You Ride. in Money Saving Coaches Go Union Pacific - 11x17 Poster"><img src="{{ '/assets/images/marketplace-covers/7f777e136d6619021095.jpg' | relative_url }}" alt="Listing image for 1951 Rest As You Ride. in Money Saving Coaches Go Union Pacific - 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">1951 Rest As You Ride. in Money Saving Coaches Go Union Pacific - 11x17 Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for money saving poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: money saving poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hard Time Saving Money Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/53a387b9666494d876a6.jpg' | relative_url }}" alt="Listing image for Hard Time Saving Money Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Hard Time Saving Money Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for money saving poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: money saving poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hard Time Saving Money Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/53a387b9666494d876a6.jpg' | relative_url }}" alt="Listing image for Hard Time Saving Money Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Hard Time Saving Money Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for money saving poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: money saving poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=default-lessons-what-pension-defaults-teach-everyday-savers-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -626,7 +626,7 @@ Finally, remember the central behavioural insight: most people do not save becau
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -646,7 +646,7 @@ Finally, remember the central behavioural insight: most people do not save becau
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -678,7 +678,7 @@ Finally, remember the central behavioural insight: most people do not save becau
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -708,7 +708,7 @@ Finally, remember the central behavioural insight: most people do not save becau
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -766,220 +766,220 @@ Finally, remember the central behavioural insight: most people do not save becau
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nber.org  
-   Link: <a href="https://www.nber.org/system/files/working_papers/w7682/w7682.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/system/files/working_papers/w7682/w7682.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>First, 401(k) participation is significantly higher under automatic enrollment. Second, the default contribution rate and investment...R...</p></details>
+   Link:<a href="https://www.nber.org/system/files/working_papers/w7682/w7682.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/system/files/working_papers/w7682/w7682.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>First, 401(k) participation is significantly higher under automatic enrollment. Second, the default contribution rate and investment...R...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: GOV.UK  
    Title: ten years of automatic enrolment in workplace pensions statistics and analysis  
-   Link: <a href="https://www.gov.uk/government/statistics/ten-years-of-automatic-enrolment-in-workplace-pensions/ten-years-of-automatic-enrolment-in-workplace-pensions-statistics-and-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/statistics/ten-years-of-automatic-enrolment-in-workplace-pensions/ten-years-of-automatic-enrolment-in-workplace-pensions-statistics-and-analysis</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ten years of Automatic Enrolment in Workplace Pensions26 Oct 2022 — This data and analysis examines the role Automatic Enrolment (AE) h...</p></details>
+   Link:<a href="https://www.gov.uk/government/statistics/ten-years-of-automatic-enrolment-in-workplace-pensions/ten-years-of-automatic-enrolment-in-workplace-pensions-statistics-and-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/statistics/ten-years-of-automatic-enrolment-in-workplace-pensions/ten-years-of-automatic-enrolment-in-workplace-pensions-statistics-and-analysis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ten years of Automatic Enrolment in Workplace Pensions26 Oct 2022 — This data and analysis examines the role Automatic Enrolment (AE) h...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nber.org  
-   Link: <a href="https://www.nber.org/papers/w7682" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/papers/w7682</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>First, 401(k) participation is significantly higher under automatic enrollment. Second, the default contribution rate...Read more...</p></details>
+   Link:<a href="https://www.nber.org/papers/w7682" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/papers/w7682</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>First, 401(k) participation is significantly higher under automatic enrollment. Second, the default contribution rate...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ideas.repec.org  
-   Link: <a href="https://ideas.repec.org/p/nbr/nberwo/7682.html" target="_blank" rel="noopener noreferrer nofollow">https://ideas.repec.org/p/nbr/nberwo/7682.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IDEAS/RePEcThe Power of Suggestion: Inertia in 401(k) Participation andby BC Madrian · 2000 · Cited by 4572 — After the plan change, empl...</p></details>
+   Link:<a href="https://ideas.repec.org/p/nbr/nberwo/7682.html" target="_blank" rel="noopener noreferrer nofollow">https://ideas.repec.org/p/nbr/nberwo/7682.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IDEAS/RePEcThe Power of Suggestion: Inertia in 401(k) Participation andby BC Madrian · 2000 · Cited by 4572 — After the plan change, empl...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCOptimal Defaults and Active Decisions  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2798815/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2798815/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby GD Carroll · 2009 · Cited by 974 — For example, switching from a non-participation default to a participation default (automa...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2798815/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2798815/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby GD Carroll · 2009 · Cited by 974 — For example, switching from a non-participation default to a participation default (automa...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nber.org  
-   Link: <a href="https://www.nber.org/papers/w8651" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/papers/w8651</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>For Better or For Worse: Default Effects and 401(k) Savings...by JJ Choi · 2001 · Cited by 1065 — We analyze the impact of automatic...</p></details>
+   Link:<a href="https://www.nber.org/papers/w8651" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/papers/w8651</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For Better or For Worse: Default Effects and 401(k) Savings...by JJ Choi · 2001 · Cited by 1065 — We analyze the impact of automatic...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: papers.ssrn.com  
    Title: nber W8651  
-   Link: <a href="https://papers.ssrn.com/sol3/delivery.cfm/nber_W8651.pdf?abstractid=294089" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/delivery.cfm/nber_W8651.pdf?abstractid=294089</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Default Effects and 401(k) Savings Behaviorby JJ Choi · 2001 · Cited by 1074 — Madrian and Shea also note that automatic enrollment h...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/delivery.cfm/nber_W8651.pdf?abstractid=294089" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/delivery.cfm/nber_W8651.pdf?abstractid=294089</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Default Effects and 401(k) Savings Behaviorby JJ Choi · 2001 · Cited by 1074 — Madrian and Shea also note that automatic enrollment h...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nber.org  
    Title: influencing retirement savings decisions automatic enrollment and related tools  
-   Link: <a href="https://www.nber.org/reporter/2024number3/influencing-retirement-savings-decisions-automatic-enrollment-and-related-tools" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/reporter/2024number3/influencing-retirement-savings-decisions-automatic-enrollment-and-related-tools</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Influencing Retirement Savings Decisions with Automatic...Oct 22, 2024 — In a study of an employer that used automatic enrollment, we fo...</p></details>
+   Link:<a href="https://www.nber.org/reporter/2024number3/influencing-retirement-savings-decisions-automatic-enrollment-and-related-tools" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/reporter/2024number3/influencing-retirement-savings-decisions-automatic-enrollment-and-related-tools</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Influencing Retirement Savings Decisions with Automatic...Oct 22, 2024 — In a study of an employer that used automatic enrollment, we fo...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/writtenevidence/64033/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/64033/html/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>To date, the number of workers...Read more...</p></details>
+   Link:<a href="https://committees.parliament.uk/writtenevidence/64033/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/64033/html/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>To date, the number of workers...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/writtenevidence/63978/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/63978/html/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Furthermore, contributions at the...Read more...</p></details>
+   Link:<a href="https://committees.parliament.uk/writtenevidence/63978/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/63978/html/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Furthermore, contributions at the...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ideas.repec.org  
-   Link: <a href="https://ideas.repec.org/p/nbr/nberwo/8651.html" target="_blank" rel="noopener noreferrer nofollow">https://ideas.repec.org/p/nbr/nberwo/8651.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IDEAS/RePEcFor Better or For Worse: Default Effects and 401(k) Savingsby JJ Choi · 2001 · Cited by 1063 — As a result, automatic enrollme...</p></details>
+   Link:<a href="https://ideas.repec.org/p/nbr/nberwo/8651.html" target="_blank" rel="noopener noreferrer nofollow">https://ideas.repec.org/p/nbr/nberwo/8651.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IDEAS/RePEcFor Better or For Worse: Default Effects and 401(k) Savingsby JJ Choi · 2001 · Cited by 1063 — As a result, automatic enrollme...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: commonslibrary.parliament.uk  
    Title: House of Commons Library Pensions: Automatic enrolment  
-   Link: <a href="https://commonslibrary.parliament.uk/research-briefings/sn06417/" target="_blank" rel="noopener noreferrer nofollow">https://commonslibrary.parliament.uk/research-briefings/sn06417/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>House of Commons LibraryPensions: Automatic enrolment - current issuesJan 19, 2026 — The paper discusses pensions auto-enrolment, its int...</p></details>
+   Link:<a href="https://commonslibrary.parliament.uk/research-briefings/sn06417/" target="_blank" rel="noopener noreferrer nofollow">https://commonslibrary.parliament.uk/research-briefings/sn06417/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>House of Commons LibraryPensions: Automatic enrolment - current issuesJan 19, 2026 — The paper discusses pensions auto-enrolment, its int...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: GOV.UK  
    Title: uk house price index for march 2026  
-   Link: <a href="https://www.gov.uk/government/news/uk-house-price-index-for-march-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/uk-house-price-index-for-march-2026</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>House Price Index for March 2026...</p></details>
+   Link:<a href="https://www.gov.uk/government/news/uk-house-price-index-for-march-2026" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/uk-house-price-index-for-march-2026</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>House Price Index for March 2026...</p></details>
    Published: march 2026  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/publications/automatic-enrolment-evaluation-report-2019/automatic-enrolment-evaluation-report-2019" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/automatic-enrolment-evaluation-report-2019/automatic-enrolment-evaluation-report-2019</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enrolment evaluation report 2019Opt out – Where a jobholder has been automatically enrolled, they can choose to &#x27;opt out&#x27; of a pension sc...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/automatic-enrolment-evaluation-report-2019/automatic-enrolment-evaluation-report-2019" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/automatic-enrolment-evaluation-report-2019/automatic-enrolment-evaluation-report-2019</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enrolment evaluation report 2019Opt out – Where a jobholder has been automatically enrolled, they can choose to &#x27;opt out&#x27; of a pension sc...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/workplace-pensions/joining-a-workplace-pension" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/workplace-pensions/joining-a-workplace-pension</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a workplace pensionAll employers must provide a workplace pension scheme. This is called &#x27;automatic enrolment&#x27;. Your employer must automa...</p></details>
+   Link:<a href="https://www.gov.uk/workplace-pensions/joining-a-workplace-pension" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/workplace-pensions/joining-a-workplace-pension</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a workplace pensionAll employers must provide a workplace pension scheme. This is called &#x27;automatic enrolment&#x27;. Your employer must automa...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to GOV.UKServices and information, benefits, includes eligibility, appeals, tax credits and Universal Credit, births, deaths, marriages a...</p></details>
+   Link:<a href="https://www.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to GOV.UKServices and information, benefits, includes eligibility, appeals, tax credits and Universal Credit, births, deaths, marriages a...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/publications/review-of-the-automatic-enrolment-earnings-trigger-and-qualifying-earnings-band-for-202526-supporting-analysis/review-of-the-automatic-enrolment-earnings-trigger-and-qualifying-earnings-band-for-202526-supporting-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/review-of-the-automatic-enrolment-earnings-trigger-and-qualifying-earnings-band-for-202526-supporting-analysis/review-of-the-automatic-enrolment-earnings-trigger-and-qualifying-earnings-band-for-202526-supporting-analysis</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of the Automatic Enrolment Earnings Trigger and...21 Jan 2025 — The automatic enrolment earnings trigger determines who is eligible to b...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/review-of-the-automatic-enrolment-earnings-trigger-and-qualifying-earnings-band-for-202526-supporting-analysis/review-of-the-automatic-enrolment-earnings-trigger-and-qualifying-earnings-band-for-202526-supporting-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/review-of-the-automatic-enrolment-earnings-trigger-and-qualifying-earnings-band-for-202526-supporting-analysis/review-of-the-automatic-enrolment-earnings-trigger-and-qualifying-earnings-band-for-202526-supporting-analysis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of the Automatic Enrolment Earnings Trigger and...21 Jan 2025 — The automatic enrolment earnings trigger determines who is eligible to b...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nber.org  
-   Link: <a href="https://www.nber.org/system/files/working_papers/w8651/w8651.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/system/files/working_papers/w8651/w8651.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DEFAULT EFFECTS AND 401(K) SAVINGS BEHAVIOR...by JJ Choi · 2001 · Cited by 1082 — As a result, automatic enrollment has a dramatic impac...</p></details>
+   Link:<a href="https://www.nber.org/system/files/working_papers/w8651/w8651.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/system/files/working_papers/w8651/w8651.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DEFAULT EFFECTS AND 401(K) SAVINGS BEHAVIOR...by JJ Choi · 2001 · Cited by 1082 — As a result, automatic enrollment has a dramatic impac...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nber.org  
-   Link: <a href="https://www.nber.org/system/files/working_papers/w11979/w11979.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/system/files/working_papers/w11979/w11979.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>C:\Program Files\Qualcomm\Eudora Pro\Attach\11979.wpdby JJ Choi · 2006 · Cited by 184 — Previous research has shown that 401(k) participa...</p></details>
+   Link:<a href="https://www.nber.org/system/files/working_papers/w11979/w11979.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/system/files/working_papers/w11979/w11979.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>C:\Program Files\Qualcomm\Eudora Pro\Attach\11979.wpdby JJ Choi · 2006 · Cited by 184 — Previous research has shown that 401(k) participa...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ideas.repec.org  
-   Link: <a href="https://ideas.repec.org/p/jku/econwp/2024-02.html" target="_blank" rel="noopener noreferrer nofollow">https://ideas.repec.org/p/jku/econwp/2024-02.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>from the UK&#x27;s Automatic Enrollment Mandateby R Scarfe · 2024 · Cited by 3 — We examine who bears the costs of mandated workplace pension...</p></details>
+   Link:<a href="https://ideas.repec.org/p/jku/econwp/2024-02.html" target="_blank" rel="noopener noreferrer nofollow">https://ideas.repec.org/p/jku/econwp/2024-02.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>from the UK&#x27;s Automatic Enrollment Mandateby R Scarfe · 2024 · Cited by 3 — We examine who bears the costs of mandated workplace pension...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: thepensionsregulator.gov.uk  
-   Link: <a href="https://www.thepensionsregulator.gov.uk/en/business-advisers/automatic-enrolment-guide-for-business-advisers/opting-out" target="_blank" rel="noopener noreferrer nofollow">https://www.thepensionsregulator.gov.uk/en/business-advisers/automatic-enrolment-guide-for-business-advisers/opting-out</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Opting outOnce staff have been enrolled into the pension scheme, they have one calendar month during which they can opt out and get a ful...</p></details>
+   Link:<a href="https://www.thepensionsregulator.gov.uk/en/business-advisers/automatic-enrolment-guide-for-business-advisers/opting-out" target="_blank" rel="noopener noreferrer nofollow">https://www.thepensionsregulator.gov.uk/en/business-advisers/automatic-enrolment-guide-for-business-advisers/opting-out</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Opting outOnce staff have been enrolled into the pension scheme, they have one calendar month during which they can opt out and get a ful...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: papers.ssrn.com  
-   Link: <a href="https://papers.ssrn.com/abstract%3D294089" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/abstract%3D294089</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects and 401(K) Savings BehaviorDec 14, 2001 — As a result, automatic enrollment has a dramatic impact on retirement savings behavior...</p></details>
+   Link:<a href="https://papers.ssrn.com/abstract%3D294089" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/abstract%3D294089</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effects and 401(K) Savings BehaviorDec 14, 2001 — As a result, automatic enrollment has a dramatic impact on retirement savings behavior...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: papers.ssrn.com  
    Title: nber w12009  
-   Link: <a href="https://papers.ssrn.com/sol3/Delivery.cfm/nber_w12009.pdf?abstractid=881243" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/nber_w12009.pdf?abstractid=881243</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Importance of Default Options for Retirement Savings...by J Beshears · 2006 · Cited by 972 — Most firms with automatic enrollment have a...</p></details>
+   Link:<a href="https://papers.ssrn.com/sol3/Delivery.cfm/nber_w12009.pdf?abstractid=881243" target="_blank" rel="noopener noreferrer nofollow">https://papers.ssrn.com/sol3/Delivery.cfm/nber_w12009.pdf?abstractid=881243</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Importance of Default Options for Retirement Savings...by J Beshears · 2006 · Cited by 972 — Most firms with automatic enrollment have a...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7c4bd240f0b62dffde1258/862summ.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c4bd240f0b62dffde1258/862summ.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>enrolment: Experiences of workers who have...This report provides the findings of a study commissioned by the Department for Work and Pe...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7c4bd240f0b62dffde1258/862summ.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7c4bd240f0b62dffde1258/862summ.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>enrolment: Experiences of workers who have...This report provides the findings of a study commissioned by the Department for Work and Pe...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/0958928717717656" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0958928717717656</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsWhy do people opt-out or not opt-out of automatic...Aug 22, 2017 — Lack of affordability or other provisions for retirement...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/0958928717717656" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0958928717717656</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsWhy do people opt-out or not opt-out of automatic...Aug 22, 2017 — Lack of affordability or other provisions for retirement...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK593519/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK593519/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Benefits - Behavioral Economics - NCBI - NIHHowever, the authors found that making automatic enrollment the default dramatically increase...</p></details>
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK593519/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK593519/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Benefits - Behavioral Economics - NCBI - NIHHowever, the authors found that making automatic enrollment the default dramatically increase...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
    Title: United Kingdom  
-   Link: <a href="https://en.wikipedia.org/wiki/United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/United_Kingdom</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>United KingdomThe UK is a constitutional monarchy and parliamentary democracy with three distinct jurisdictions: England and Wales, Sc...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/United_Kingdom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>United KingdomThe UK is a constitutional monarchy and parliamentary democracy with three distinct jurisdictions: England and Wales, Sc...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: britannica.com  
    Title: The United Kingdom comprises the whole of the island of Great Britain.Read more  
-   Link: <a href="https://www.britannica.com/place/United-Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/United-Kingdom</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>United Kingdom | History, Population, Map, Flag, Capital, &amp;...United Kingdom, island country located off the northwestern coast of mainl...</p></details>
+   Link:<a href="https://www.britannica.com/place/United-Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/United-Kingdom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>United Kingdom | History, Population, Map, Flag, Capital, &amp;...United Kingdom, island country located off the northwestern coast of mainl...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: study-uk.britishcouncil.org  
    Title: about uk  
-   Link: <a href="https://study-uk.britishcouncil.org/why-study/about-uk" target="_blank" rel="noopener noreferrer nofollow">https://study-uk.britishcouncil.org/why-study/about-uk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the UK - Study UK - British CouncilThe UK is a union of four nations - England, Northern Ireland, Scotland and Wales, with similarities a...</p></details>
+   Link:<a href="https://study-uk.britishcouncil.org/why-study/about-uk" target="_blank" rel="noopener noreferrer nofollow">https://study-uk.britishcouncil.org/why-study/about-uk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the UK - Study UK - British CouncilThe UK is a union of four nations - England, Northern Ireland, Scotland and Wales, with similarities a...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: thecommonwealth.org  
-   Link: <a href="https://thecommonwealth.org/our-member-countries/united-kingdom" target="_blank" rel="noopener noreferrer nofollow">https://thecommonwealth.org/our-member-countries/united-kingdom</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>United Kingdom | CommonwealthThe United Kingdom of Great Britain and Northern Ireland (UK) is an island country that sits north-west of m...</p></details>
+   Link:<a href="https://thecommonwealth.org/our-member-countries/united-kingdom" target="_blank" rel="noopener noreferrer nofollow">https://thecommonwealth.org/our-member-countries/united-kingdom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>United Kingdom | CommonwealthThe United Kingdom of Great Britain and Northern Ireland (UK) is an island country that sits north-west of m...</p></details>
 
 ### Additional References
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: visitbritain.com  
-   Link: <a href="https://www.visitbritain.com/en" target="_blank" rel="noopener noreferrer nofollow">https://www.visitbritain.com/en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Official Website For UK Tourism | VisitBritainLet VisitBritain provide you with fresh perspectives of the UK&#x27;s diverse cities, modern...</p></details>
+   Link:<a href="https://www.visitbritain.com/en" target="_blank" rel="noopener noreferrer nofollow">https://www.visitbritain.com/en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Official Website For UK Tourism | VisitBritainLet VisitBritain provide you with fresh perspectives of the UK&#x27;s diverse cities, modern...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: assets.retirement.govt.nz  
-   Link: <a href="https://assets.retirement.govt.nz/public/Uploads/Retirement-Income-Policy-Review/2025-RRIP/Default-contribution-rates_AW.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.retirement.govt.nz/public/Uploads/Retirement-Income-Policy-Review/2025-RRIP/Default-contribution-rates_AW.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>contribution rates in retirement plansThis paper reviews international evidence on default contribution rates in retirement savings plans...</p></details>
+   Link:<a href="https://assets.retirement.govt.nz/public/Uploads/Retirement-Income-Policy-Review/2025-RRIP/Default-contribution-rates_AW.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.retirement.govt.nz/public/Uploads/Retirement-Income-Policy-Review/2025-RRIP/Default-contribution-rates_AW.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>contribution rates in retirement plansThis paper reviews international evidence on default contribution rates in retirement savings plans...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: mefop.it  
-   Link: <a href="https://www.mefop.it/cms/doc/26375/ev0721065ennen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mefop.it/cms/doc/26375/ev0721065ennen.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The process by which automatic enrolment operates, for example, the enrolment process, default contribution rates and default...Read more...</p></details>
+   Link:<a href="https://www.mefop.it/cms/doc/26375/ev0721065ennen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mefop.it/cms/doc/26375/ev0721065ennen.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The process by which automatic enrolment operates, for example, the enrolment process, default contribution rates and default...Read more...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: research.ed.ac.uk  
    Title: RobertsonRose TJSP 2019 UnderstandingDefaultBehaviourWorkplacePensions  
-   Link: <a href="https://www.research.ed.ac.uk/files/115207744/RobertsonRose_TJSP_2019_UnderstandingDefaultBehaviourWorkplacePensions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.research.ed.ac.uk/files/115207744/RobertsonRose_TJSP_2019_UnderstandingDefaultBehaviourWorkplacePensions.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>default behaviour in workplace pensionsby L Robertson-Rose · 2021 · Cited by 21 — This article examines the retirement savings behaviour...</p></details>
+   Link:<a href="https://www.research.ed.ac.uk/files/115207744/RobertsonRose_TJSP_2019_UnderstandingDefaultBehaviourWorkplacePensions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.research.ed.ac.uk/files/115207744/RobertsonRose_TJSP_2019_UnderstandingDefaultBehaviourWorkplacePensions.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>default behaviour in workplace pensionsby L Robertson-Rose · 2021 · Cited by 21 — This article examines the retirement savings behaviour...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: chicagobooth.edu  
-   Link: <a href="https://www.chicagobooth.edu/review/savings-america-helping-individuals-provide-their-own-retirement" target="_blank" rel="noopener noreferrer nofollow">https://www.chicagobooth.edu/review/savings-america-helping-individuals-provide-their-own-retirement</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>n and Savings Behavior,&quot; examines the impact of automatic enrollment on 401(k)...Read more...</p></details>
+   Link:<a href="https://www.chicagobooth.edu/review/savings-america-helping-individuals-provide-their-own-retirement" target="_blank" rel="noopener noreferrer nofollow">https://www.chicagobooth.edu/review/savings-america-helping-individuals-provide-their-own-retirement</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n and Savings Behavior,&quot; examines the impact of automatic enrollment on 401(k)...Read more...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: ifs.org.uk  
-   Link: <a href="https://ifs.org.uk/sites/default/files/output_url_files/Who-leaves-their-pension-after-being-automatically-enrolled-BN272.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ifs.org.uk/sites/default/files/output_url_files/Who-leaves-their-pension-after-being-automatically-enrolled-BN272.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>leave the workplace pension scheme that they were automatically enrolled into...Read more...</p></details>
+   Link:<a href="https://ifs.org.uk/sites/default/files/output_url_files/Who-leaves-their-pension-after-being-automatically-enrolled-BN272.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ifs.org.uk/sites/default/files/output_url_files/Who-leaves-their-pension-after-being-automatically-enrolled-BN272.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>leave the workplace pension scheme that they were automatically enrolled into...Read more...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: nestinsight.org.uk  
    Title: Does Pension Automatic Enrollment Increase Debt?  
-   Link: <a href="https://www.nestinsight.org.uk/wp-content/uploads/2024/02/Does-pension-automatic-enrollment-increase-debt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nestinsight.org.uk/wp-content/uploads/2024/02/Does-pension-automatic-enrollment-increase-debt.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by J Beshears · 2024 · Cited by 33 — Over the first 41 months after enrollment, each additional month increases the average automatically...</p></details>
+   Link:<a href="https://www.nestinsight.org.uk/wp-content/uploads/2024/02/Does-pension-automatic-enrollment-increase-debt.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nestinsight.org.uk/wp-content/uploads/2024/02/Does-pension-automatic-enrollment-increase-debt.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by J Beshears · 2024 · Cited by 33 — Over the first 41 months after enrollment, each additional month increases the average automatically...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: emerald.com  
    Title: Persistent anchoring to default rates when  
-   Link: <a href="https://www.emerald.com/rbf/article/10/1/88/370051/Persistent-anchoring-to-default-rates-when" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/rbf/article/10/1/88/370051/Persistent-anchoring-to-default-rates-when</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>electing 401(k...12 Mar 2018 — In this paper, we seek to investigate how the auto-enrollment rate influences the size of the elected con...</p></details>
+   Link:<a href="https://www.emerald.com/rbf/article/10/1/88/370051/Persistent-anchoring-to-default-rates-when" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/rbf/article/10/1/88/370051/Persistent-anchoring-to-default-rates-when</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>electing 401(k...12 Mar 2018 — In this paper, we seek to investigate how the auto-enrollment rate influences the size of the elected con...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: cipp.org.uk  
    Title: dwp automatic enrolment 2023 24 review  
-   Link: <a href="https://www.cipp.org.uk/resources/news/dwp-automatic-enrolment-2023-24-review.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cipp.org.uk/resources/news/dwp-automatic-enrolment-2023-24-review.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DWP automatic enrolment 2023/24 review27 Jan 2023 — Each year, the Department for Work and Pension (DWP) releases an analysis and review...</p></details>
+   Link:<a href="https://www.cipp.org.uk/resources/news/dwp-automatic-enrolment-2023-24-review.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cipp.org.uk/resources/news/dwp-automatic-enrolment-2023-24-review.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DWP automatic enrolment 2023/24 review27 Jan 2023 — Each year, the Department for Work and Pension (DWP) releases an analysis and review...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: nationalacademies.org  
    Title: Chapter: 6 Retirement Benefits  
-   Link: <a href="https://www.nationalacademies.org/read/26874/chapter/10" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/26874/chapter/10</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(Madrian &amp; Shea, 2001). The authors studied choices by employees who were offered the option to enroll in an advantageous company 401(k)...</p></details>
+   Link:<a href="https://www.nationalacademies.org/read/26874/chapter/10" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/26874/chapter/10</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(Madrian &amp; Shea, 2001). The authors studied choices by employees who were offered the option to enroll in an advantageous company 401(k)...</p></details>

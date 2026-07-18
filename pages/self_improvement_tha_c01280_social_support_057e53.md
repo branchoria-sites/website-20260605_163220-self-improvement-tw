@@ -505,15 +505,15 @@ image: /assets/images/self_improvement_tha_c01280_social_support_057e53-overview
 Social support helps [self improvement]({{ 'self-improvement-that-works/' | relative_url }}) when it lowers the effort of doing the behaviour, not when it turns change into a public performance. The useful version is practical, specific and non-shaming: a walking partner who makes the walk easier to start, [a study group]({{ 'a-study-group/' | relative_url }}) that creates a reliable work block, a friend who asks what obstacle got in the way rather than whether you “failed”. This matters because accountability can either support behaviour or damage it. When support becomes surveillance, comparison or moral judgement, people may hide lapses, feel controlled, or avoid the behaviour altogether.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_social_support_057e53-overview.webp" | relative_url }}" alt="Overview image for Social Support" loading="eager" decoding="sync" fetchpriority="high">
-The evidence is strongest when social support is treated as a behaviour-change ingredient rather than a personality test. The [Behaviour Change]({{ 'behaviour-change/' | relative_url }}) Technique Taxonomy lists social support as a distinct cluster, including unspecified, practical and emotional support, alongside tools such as goal-setting, self-monitoring and [feedback]({{ 'feedback/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8847 — &quot;BCT taxonomy v1,&quot; an extensive taxonomy...</span></span></span> In real life, that means the question is not “Who will keep me accountable?” but “What kind of support would make this action easier, safer or more likely this week?”
+The evidence is strongest when social support is treated as a behaviour-change ingredient rather than a personality test. The [Behaviour Change]({{ 'behaviour-change/' | relative_url }}) Technique Taxonomy lists social support as a distinct cluster, including unspecified, practical and emotional support, alongside tools such as goal-setting, self-monitoring and [feedback]({{ 'feedback/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8847 — &quot;BCT taxonomy v1,&quot; an extensive taxonomy...</span></span></span> In real life, that means the question is not “Who will keep me accountable?” but “What kind of support would make this action easier, safer or more likely this week?”
 
 ## Why support works best when it protects autonomy
 
-Good support does not replace self-direction. It protects it. Self-determination theory, a major framework in [motivation]({{ 'motivation/' | relative_url }}) research, argues that people are more likely to sustain behaviour when three psychological needs are supported: autonomy, competence and relatedness. In health behaviour change, autonomy-supportive help includes listening to the person’s perspective, offering a rationale, giving a menu of options, minimising judgement and connecting the behaviour to the person’s own values. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3323356/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-determination theory: its application to health behavior...by H Patrick · 2012 · Cited by 838 — For example, autonomy supportive...</span></span></span>
+Good support does not replace self-direction. It protects it. Self-determination theory, a major framework in [motivation]({{ 'motivation/' | relative_url }}) research, argues that people are more likely to sustain behaviour when three psychological needs are supported: autonomy, competence and relatedness. In health behaviour change, autonomy-supportive help includes listening to the person’s perspective, offering a rationale, giving a menu of options, minimising judgement and connecting the behaviour to the person’s own values.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3323356/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-determination theory: its application to health behavior...by H Patrick · 2012 · Cited by 838 — For example, autonomy supportive...</span></span></span>
 
 That distinction explains why two versions of “accountability” can feel completely different. One friend says, “You said you wanted to walk after lunch; shall I meet you at the corner?” Another says, “You skipped again? You clearly don’t want it badly enough.” Both involve another person noticing the behaviour. Only the first one makes the next action easier while preserving dignity.
 
-This is not just a matter of tone. A 2021 meta-analysis of self-determination-theory-informed interventions found effects on autonomy support, autonomy satisfaction, competence satisfaction, relatedness satisfaction and autonomous motivation, suggesting that the social climate around change can shape the quality of motivation, not just the amount of pressure applied. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/17437199.2020.1718529" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineA meta-analysis of self-determination theory-informed...by N Ntoumanis · 2021 · Cited by 1450 — The results of ef...</span></span></span> For self improvement that works, the aim is not maximum pressure. It is enough structure to help a person act on their own reasons.
+This is not just a matter of tone. A 2021 meta-analysis of self-determination-theory-informed interventions found effects on autonomy support, autonomy satisfaction, competence satisfaction, relatedness satisfaction and autonomous motivation, suggesting that the social climate around change can shape the quality of motivation, not just the amount of pressure applied.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/17437199.2020.1718529" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineA meta-analysis of self-determination theory-informed...by N Ntoumanis · 2021 · Cited by 1450 — The results of ef...</span></span></span> For self improvement that works, the aim is not maximum pressure. It is enough structure to help a person act on their own reasons.
 
 A practical rule follows: support should make behaviour more doable without making identity more fragile. “Text me when you have opened the document” is more useful than “Prove you are serious.” “Let’s walk for ten minutes” is safer than “No excuses.” The best accountability keeps the focus on the next action, not the person’s worth.
 
@@ -521,11 +521,11 @@ A practical rule follows: support should make behaviour more doable without maki
 
 Social support is often discussed as if it were one thing, but the useful roles are different. A person who gives encouragement may not be the best person to troubleshoot logistics. A person who shares the activity may not be the right person to receive private reflections. Separating the roles prevents one relationship from becoming overloaded.
 
-The Behaviour Change Technique Taxonomy distinguishes practical support from emotional support, which is a helpful starting point. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalwellbeing.org">[digitalwellbeing.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalwellbeing.org</span><span class="citation-popover-title">i BCT Taxonomy (v1): 93 hierarchically-clustered techniquesof behavior</span><span class="citation-popover-snippet">3. Social support. 3.1. Social support (unspecified). 3.2. Social support (practical). 3.3. Social support (emotional). 4. Shaping knowle...</span></span></span> In everyday self improvement, useful support usually falls into a few roles:
+The Behaviour Change Technique Taxonomy distinguishes practical support from emotional support, which is a helpful starting point.<span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalwellbeing.org">[digitalwellbeing.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalwellbeing.org</span><span class="citation-popover-title">i BCT Taxonomy (v1): 93 hierarchically-clustered techniquesof behavior</span><span class="citation-popover-snippet">3. Social support. 3.1. Social support (unspecified). 3.2. Social support (practical). 3.3. Social support (emotional). 4. Shaping knowle...</span></span></span> In everyday self improvement, useful support usually falls into a few roles:
 
 **The logistics ally.** This person helps remove friction. They might share a lift to the gym, sit in the library at the same time, agree on a recurring meal-prep slot, or help make a plan realistic. Their value is not motivational speeches; it is reducing the number of decisions and obstacles between intention and action.
 
-**The co-doer.** This is the walking partner, study mate, language-practice partner or colleague who does the behaviour alongside you. The behaviour becomes easier because the time, place and social cue are already arranged. Public health guidance on physical activity social support highlights buddy systems, walking groups and activity groups as ways to help people start, maintain or increase activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdc.gov/physical-activity/php/strategies/social-supports.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-title">social supports</span><span class="citation-popover-snippet">social supports</span></span></span>
+**The co-doer.** This is the walking partner, study mate, language-practice partner or colleague who does the behaviour alongside you. The behaviour becomes easier because the time, place and social cue are already arranged. Public health guidance on physical activity social support highlights buddy systems, walking groups and activity groups as ways to help people start, maintain or increase activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdc.gov/physical-activity/php/strategies/social-supports.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-title">social supports</span><span class="citation-popover-snippet">social supports</span></span></span>
 
 **The kind observer.** This person notices patterns without turning them into a trial. They can ask, “What made Tuesday harder?” or “Do you want help adjusting the plan?” This role is especially useful when the behaviour involves repeated attempts, such as sleep routines, studying, budgeting or exercise.
 
@@ -540,13 +540,13 @@ The common feature is that each role changes the conditions around the behaviour
 
 The clearest examples of shame-free support are ordinary: people agree to show up together, and the behaviour becomes less dependent on private willpower. Walking groups and [study groups]({{ 'study-groups/' | relative_url }}) work because they combine a cue, a place, a time and a mild social expectation. The point is not to expose anyone’s shortcomings. The point is to reduce the activation energy of starting.
 
-For physical activity, the evidence base is practical and mature enough to be useful. The Community Preventive Services Task Force recommends social support interventions in community settings to increase physical activity and fitness in adults. These interventions include building or strengthening social networks, buddy systems, contracts with others, and walking or activity groups. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thecommunityguide.org/findings/physical-activity-social-support-interventions-community-settings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecommunityguide.org">[The Community Guide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecommunityguide.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> A systematic review and meta-analysis of group walking interventions concluded that they are effective at increasing physical activity, while also noting limitations such as variation between studies and reliance on self-reported activity in parts of the evidence base. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/1479-5868-9-78" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Exercise, physical activity, and self-determination theoryby PJ Teixeira · 2012 · Cited by 4529 — Specifically SDT argues that th...</span></span></span>
+For physical activity, the evidence base is practical and mature enough to be useful. The Community Preventive Services Task Force recommends social support interventions in community settings to increase physical activity and fitness in adults. These interventions include building or strengthening social networks, buddy systems, contracts with others, and walking or activity groups.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thecommunityguide.org/findings/physical-activity-social-support-interventions-community-settings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecommunityguide.org">[The Community Guide]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecommunityguide.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> A systematic review and meta-analysis of group walking interventions concluded that they are effective at increasing physical activity, while also noting limitations such as variation between studies and reliance on self-reported activity in parts of the evidence base.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/1479" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Exercise, physical activity, and self-determination theoryby PJ Teixeira · 2012 · Cited by 4529 — Specifically SDT argues that th...</span></span></span>
 
-A walking partner is powerful because the support is embedded in the behaviour itself. Instead of “I will exercise because someone will judge me if I do not,” the structure becomes “I walk because Tuesday at 6 pm is when we meet.” The social element can also make the behaviour more pleasant, which matters for repetition. Public-health sources often describe these interventions as networks of friendship and support, not merely accountability contracts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdc.gov/physical-activity/php/strategies/social-supports.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-title">social supports</span><span class="citation-popover-snippet">social supports</span></span></span>
+A walking partner is powerful because the support is embedded in the behaviour itself. Instead of “I will exercise because someone will judge me if I do not,” the structure becomes “I walk because Tuesday at 6 pm is when we meet.” The social element can also make the behaviour more pleasant, which matters for repetition. Public-health sources often describe these interventions as networks of friendship and support, not merely accountability contracts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdc.gov/physical-activity/php/strategies/social-supports.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-title">social supports</span><span class="citation-popover-snippet">social supports</span></span></span>
 
-Study groups show the same principle in a different setting. A randomised controlled trial in an online college course found that offering study-together groups helped build peer support and improved academic and social-emotional outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1096751623000209" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The mechanism is familiar: a student who might postpone work alone now has a scheduled session, shared norms and immediate help when stuck. The best group does not shame the person who is confused. It makes confusion easier to bring into the open.
+Study groups show the same principle in a different setting. A randomised controlled trial in an online college course found that offering study-together groups helped build peer support and improved academic and social-emotional outcomes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1096751623000209" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The mechanism is familiar: a student who might postpone work alone now has a scheduled session, shared norms and immediate help when stuck. The best group does not shame the person who is confused. It makes confusion easier to bring into the open.
 
-There is also evidence that peer assessment can improve academic performance compared with no assessment, although peer feedback needs careful design to avoid unfairness or anxiety. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/1479-5868-10-18" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Open source on springer.com.</span></span></span> That is the broader lesson for self improvement: peers can help when they provide feedback, structure and shared effort. They hurt when the group becomes a ranking system or a place where people perform competence instead of building it.
+There is also evidence that peer assessment can improve academic performance compared with no assessment, although peer feedback needs careful design to avoid unfairness or anxiety.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/1479" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Open source on springer.com.</span></span></span> That is the broader lesson for self improvement: peers can help when they provide feedback, structure and shared effort. They hurt when the group becomes a ranking system or a place where people perform competence instead of building it.
 
 A useful study group or walking partnership usually has four features:
 
@@ -565,13 +565,13 @@ These details may sound small, but they determine whether social support becomes
 
 ## Avoiding comparison traps
 
-Comparison is not always harmful. In behaviour-change research, social comparison can sometimes change behaviour, especially when people receive information about how their behaviour compares with others. A 2025 meta-analysis of randomised controlled trials across behavioural sciences found small-to-moderate effects for social-comparison behaviour-change techniques, with effects observed across performance, health-related and climate-related behaviours. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41562-025-02209-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
+Comparison is not always harmful. In behaviour-change research, social comparison can sometimes change behaviour, especially when people receive information about how their behaviour compares with others. A 2025 meta-analysis of randomised controlled trials across behavioural sciences found small-to-moderate effects for social-comparison behaviour-change techniques, with effects observed across performance, health-related and climate-related behaviours.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/s41562-025-02209-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Open source on nature.com.</span></span></span>
 
 But social comparison is a sharp tool. It may work as information while still being emotionally costly for some people, especially when it becomes public ranking, humiliation or identity threat. A leaderboard can tell someone what is possible; it can also tell them they are permanently behind. A step-count challenge can prompt movement; it can also make an injured, tired or beginner participant disappear from the group.
 
 The practical distinction is between **informative comparison** and **status comparison**. Informative comparison says, “People like me often manage two short walks a week at first; perhaps I can start there.” Status comparison says, “Everyone else is better than me.” The first can expand possibility. The second can trigger shame, defensiveness or avoidance.
 
-Weight stigma research shows why this matters. A systematic review on weight stigma and physical activity found mixed overall evidence, but reported that everyday weight discrimination and internalised weight stigma were associated with reduced physical activity in most studies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8847 — &quot;BCT taxonomy v1,&quot; an extensive taxonomy...</span></span></span> Other research links weight stigma with disordered eating cognitions and behaviours, and with shame-related pathways that can contribute to healthcare avoidance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1096751623000209" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The lesson is not limited to weight. When change is framed as proof of worth, people may protect themselves by disengaging.
+Weight stigma research shows why this matters. A systematic review on weight stigma and physical activity found mixed overall evidence, but reported that everyday weight discrimination and internalised weight stigma were associated with reduced physical activity in most studies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8847 — &quot;BCT taxonomy v1,&quot; an extensive taxonomy...</span></span></span> Other research links weight stigma with disordered eating cognitions and behaviours, and with shame-related pathways that can contribute to healthcare avoidance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1096751623000209" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The lesson is not limited to weight. When change is framed as proof of worth, people may protect themselves by disengaging.
 
 A shame-free support system can still use feedback, but it should avoid unnecessary exposure. For example, a running group can offer pace groups without mocking slower participants. A budgeting group can discuss categories and habits without forcing people to reveal exact debts. A study group can compare methods and practice scores privately rather than turning every quiz into a public hierarchy.
 
@@ -616,7 +616,7 @@ This is not softness. It is precision. The person is still being observed, but t
 
 Accountability has crossed the line when the person becomes more focused on managing embarrassment than doing the behaviour. [Warning signs]({{ 'warning-signs/' | relative_url }}) include hiding lapses, dreading check-ins, exaggerating progress, avoiding the supporter, or feeling that one missed action proves something global about the self.
 
-Self-compassion research is relevant here because behaviour change often includes lapses. A meta-analysis found that self-compassion is associated with physical health and health-promoting behaviour, and reviews of self-compassion interventions suggest possible benefits for health behaviour regulation, though the intervention evidence is still smaller and more varied than the broader association literature. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/17437199.2020.1718529" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineA meta-analysis of self-determination theory-informed...by N Ntoumanis · 2021 · Cited by 1450 — The results of ef...</span></span></span> This does not mean people should abandon standards. It means that recovering from a lapse is itself a skill.
+Self-compassion research is relevant here because behaviour change often includes lapses. A meta-analysis found that self-compassion is associated with physical health and health-promoting behaviour, and reviews of self-compassion interventions suggest possible benefits for health behaviour regulation, though the intervention evidence is still smaller and more varied than the broader association literature.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/17437199.2020.1718529" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineA meta-analysis of self-determination theory-informed...by N Ntoumanis · 2021 · Cited by 1450 — The results of ef...</span></span></span> This does not mean people should abandon standards. It means that recovering from a lapse is itself a skill.
 
 A shame-free response to a lapse has three steps:
 
@@ -654,269 +654,269 @@ The strongest support leaves a person feeling more capable, not more exposed. It
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ruPQq51h4Mk" title="Accountability Without Shame: How to Support Recovery with Compassion" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ruPQq51h4Mk" target="_blank" rel="noopener noreferrer">Accountability Without Shame: How to Support Recovery with Compassion</a></p><p class="youtube-embed-meta">Channel: Put The Shovel Down &middot; Views: 4.4K &middot; Uploaded: June 2025 &middot; Length: 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ruPQq51h4Mk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ruPQq51h4Mk">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Accountability Helps Instead of Hurts. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Accountability Helps Instead of Hurts. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Shows how supportive environments and systems improve behaviour change.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Shows how supportive environments and systems improve behaviour change.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Happiness+Advantage+by+Shawn+Achor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Happiness Advantage on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QQDb8PvpojoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Happiness Advantage" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Happiness+Advantage+by+Shawn+Achor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Happiness Advantage">The Happiness Advantage</a>
-        </h4>
-        <p class="fr-book-author">By Shawn Achor</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Happiness+Advantage+by+Shawn+Achor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Happiness Advantage on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QQDb8PvpojoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Happiness Advantage" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Happiness+Advantage+by+Shawn+Achor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Happiness Advantage">The Happiness Advantage</a>
+</h4>
+<p class="fr-book-author">By Shawn Achor</p>
         
-        <p class="fr-book-desc">Covers social connection, support, and sustainable motivation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Happiness+Advantage+by+Shawn+Achor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers social connection, support, and sustainable motivation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Happiness+Advantage+by+Shawn+Achor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Carol S. Dweck</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
-        <p class="fr-book-desc">Encourages supportive feedback focused on learning rather than judgement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
+</h4>
+<p class="fr-book-author">By Carol S. Dweck</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
+<p class="fr-book-desc">Encourages supportive feedback focused on learning rather than judgement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
-        </h4>
-        <p class="fr-book-author">By Charles Duhigg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
+</h4>
+<p class="fr-book-author">By Charles Duhigg</p>
         
-        <p class="fr-book-desc">Explains behaviour change mechanisms that social support can reinforce.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains behaviour change mechanisms that social support can reinforce.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Happiness+Advantage&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Happiness Advantage</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Happiness+Advantage&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Happiness Advantage</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/72cf51fc129cd58e3c35.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/72cf51fc129cd58e3c35.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/ab8e18c59c3009355dfa.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/ab8e18c59c3009355dfa.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quotes Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/79bcfa06dda89ad237ca.jpg' | relative_url }}" alt="Listing image for Motivational Quotes Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quotes Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quotes Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/79bcfa06dda89ad237ca.jpg' | relative_url }}" alt="Listing image for Motivational Quotes Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quotes Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/cdb87d9c00637e7f5353.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="{{ '/assets/images/marketplace-covers/cdb87d9c00637e7f5353.jpg' | relative_url }}" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=social-support-when-accountability-helps-instead-of-hurts-self-improvement-that-works-motivational-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -932,7 +932,7 @@ The strongest support leaves a person feeling more capable, not more exposed. It
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -952,7 +952,7 @@ The strongest support leaves a person feeling more capable, not more exposed. It
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -984,7 +984,7 @@ The strongest support leaves a person feeling more capable, not more exposed. It
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -1014,7 +1014,7 @@ The strongest support leaves a person feeling more capable, not more exposed. It
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -1072,180 +1072,180 @@ The strongest support leaves a person feeling more capable, not more exposed. It
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: digitalwellbeing.org  
    Title: i BCT Taxonomy (v1): 93 hierarchically-clustered techniquesof behavior  
-   Link: <a href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>3. Social support. 3.1. Social support (unspecified). 3.2. Social support (practical). 3.3. Social support (emotional). 4. Shaping knowle...</p></details>
+   Link:<a href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3. Social support. 3.1. Social support (unspecified). 3.2. Social support (practical). 3.3. Social support (emotional). 4. Shaping knowle...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3323356/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3323356/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-determination theory: its application to health behavior...by H Patrick · 2012 · Cited by 838 — For example, autonomy supportive...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3323356/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3323356/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-determination theory: its application to health behavior...by H Patrick · 2012 · Cited by 838 — For example, autonomy supportive...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1186/1479-5868-9-78" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/1479-5868-9-78</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Exercise, physical activity, and self-determination theoryby PJ Teixeira · 2012 · Cited by 4529 — Specifically SDT argues that th...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1186/1479" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/1479</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exercise, physical activity, and self-determination theoryby PJ Teixeira · 2012 · Cited by 4529 — Specifically SDT argues that th...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cdc.gov  
    Title: social supports  
-   Link: <a href="https://www.cdc.gov/physical-activity/php/strategies/social-supports.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/physical-activity/php/strategies/social-supports.html</a>  
+   Link:<a href="https://www.cdc.gov/physical-activity/php/strategies/social-supports.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/physical-activity/php/strategies/social-supports.html</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: odphp.health.gov  
    Title: physical activity social support interventions community settings  
-   Link: <a href="https://odphp.health.gov/healthypeople/tools-action/browse-evidence-based-resources/physical-activity-social-support-interventions-community-settings" target="_blank" rel="noopener noreferrer nofollow">https://odphp.health.gov/healthypeople/tools-action/browse-evidence-based-resources/physical-activity-social-support-interventions-community-settings</a>  
+   Link:<a href="https://odphp.health.gov/healthypeople/tools-action/browse-evidence-based-resources/physical-activity-social-support-interventions-community-settings" target="_blank" rel="noopener noreferrer nofollow">https://odphp.health.gov/healthypeople/tools-action/browse-evidence-based-resources/physical-activity-social-support-interventions-community-settings</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1186/1479-5868-10-18" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/1479-5868-10-18</a>  
+   Link:<a href="https://link.springer.com/article/10.1186/1479" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/1479</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1096751623000209" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1096751623000209</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S1096751623000209" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1096751623000209</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s10648-019-09510-3" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10648-019-09510-3</a>  
+   Link:<a href="https://link.springer.com/article/10.1007/s10648-019-09510-3" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10648-019-09510-3</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/s41562-025-02209-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41562-025-02209-2</a>  
+   Link:<a href="https://www.nature.com/articles/s41562-025-02209-2" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/s41562-025-02209-2</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1740144523002218" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1740144523002218</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1740144523002218" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1740144523002218</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1469029217300730" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1469029217300730</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S1469029217300730" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1469029217300730</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: self-compassion.org  
-   Link: <a href="https://self-compassion.org/wp-content/uploads/2018/05/Biber2017.pdf" target="_blank" rel="noopener noreferrer nofollow">https://self-compassion.org/wp-content/uploads/2018/05/Biber2017.pdf</a>  
+   Link:<a href="https://self-compassion.org/wp-content/uploads/2018/05/Biber2017.pdf" target="_blank" rel="noopener noreferrer nofollow">https://self-compassion.org/wp-content/uploads/2018/05/Biber2017.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1186/s12966-020-01001-x" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12966-020-01001-x</a>  
+   Link:<a href="https://link.springer.com/article/10.1186/s12966-020-01001-x" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12966-020-01001-x</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1186/s12966-016-0436-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12966-016-0436-0</a>  
+   Link:<a href="https://link.springer.com/article/10.1186/s12966" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12966</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1186/s12889-024-19600-9" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12889-024-19600-9</a>  
+   Link:<a href="https://link.springer.com/article/10.1186/s12889-024-19600-9" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12889-024-19600-9</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/nature-index/topics/l4/dyadic-interventions-for-physical-activity-behavior-change" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/dyadic-interventions-for-physical-activity-behavior-change</a>  
+   Link:<a href="https://www.nature.com/nature-index/topics/l4/dyadic-interventions-for-physical-activity-behavior-change" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/dyadic-interventions-for-physical-activity-behavior-change</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2542454824000225" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2542454824000225</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2542454824000225" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2542454824000225</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2274580725000378" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2274580725000378</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2274580725000378" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2274580725000378</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: sciencedirect.com  
    Title: Behavior Change Technique  
-   Link: <a href="https://www.sciencedirect.com/topics/psychology/behavior-change-technique" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/behavior-change-technique</a>  
+   Link:<a href="https://www.sciencedirect.com/topics/psychology/behavior-change-technique" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/behavior-change-technique</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: sciencedirect.com  
    Title: Self-Determination Theory  
-   Link: <a href="https://www.sciencedirect.com/topics/social-sciences/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/social-sciences/self-determination-theory</a>  
+   Link:<a href="https://www.sciencedirect.com/topics/social-sciences/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/social-sciences/self-determination-theory</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2468781224000365" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2468781224000365</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2468781224000365" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2468781224000365</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1469029224000013" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1469029224000013</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1469029224000013" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1469029224000013</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S2212144718300449" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2212144718300449</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S2212144718300449" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S2212144718300449</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23512568/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8847 — &quot;BCT taxonomy v1,&quot; an extensive taxonomy...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23512568/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8847 — &quot;BCT taxonomy v1,&quot; an extensive taxonomy...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/17437199.2020.1718529" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/17437199.2020.1718529</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineA meta-analysis of self-determination theory-informed...by N Ntoumanis · 2021 · Cited by 1450 — The results of ef...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/17437199.2020.1718529" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/17437199.2020.1718529</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineA meta-analysis of self-determination theory-informed...by N Ntoumanis · 2021 · Cited by 1450 — The results of ef...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: thecommunityguide.org  
-   Link: <a href="https://www.thecommunityguide.org/findings/physical-activity-social-support-interventions-community-settings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.thecommunityguide.org/findings/physical-activity-social-support-interventions-community-settings.html</a>  
+   Link:<a href="https://www.thecommunityguide.org/findings/physical-activity-social-support-interventions-community-settings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.thecommunityguide.org/findings/physical-activity-social-support-interventions-community-settings.html</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/34747131/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/34747131/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/34747131/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/34747131/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/17437199.2019.1705872" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/17437199.2019.1705872</a>  
+   Link:<a href="https://www.tandfonline.com/doi/abs/10.1080/17437199.2019.1705872" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/17437199.2019.1705872</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/21678185/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/21678185/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/21678185/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/21678185/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/11392867/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/11392867/</a>  
 
 ### Additional References
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: How to Support Someone Who's Struggling: Helped, Hugged, or Heard  
-   Link: <a href="https://www.youtube.com/watch?v=DD5P-1bC9E4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DD5P-1bC9E4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Be Emotionally Supportive Without Fixing, Rescuing or People-Pleasing...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DD5P-1bC9E4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DD5P-1bC9E4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Be Emotionally Supportive Without Fixing, Rescuing or People-Pleasing...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: Accountability Without Shame: How to Support Recovery with Compassion  
-   Link: <a href="https://www.youtube.com/watch?v=ruPQq51h4Mk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ruPQq51h4Mk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Support Someone Who&#x27;s Struggling: Helped, Hugged, or Heard...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ruPQq51h4Mk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ruPQq51h4Mk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Support Someone Who&#x27;s Struggling: Helped, Hugged, or Heard...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: How to Be Emotionally Supportive Without Fixing, Rescuing or People-Pleasing  
-   Link: <a href="https://www.youtube.com/watch?v=F-ich-1h8j8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F-ich-1h8j8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Emotional Intelligence = Better Relationships...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=F-ich-1h8j8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=F-ich-1h8j8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Emotional Intelligence = Better Relationships...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: clinicaltrials.gov  
-   Link: <a href="https://clinicaltrials.gov/study/NCT04573972" target="_blank" rel="noopener noreferrer nofollow">https://clinicaltrials.gov/study/NCT04573972</a>  
+   Link:<a href="https://clinicaltrials.gov/study/NCT04573972" target="_blank" rel="noopener noreferrer nofollow">https://clinicaltrials.gov/study/NCT04573972</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/394703604_Peer_Social_Support_and_Academic_Achievement_A_Systematic_Literature_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394703604_Peer_Social_Support_and_Academic_Achievement_A_Systematic_Literature_Review</a>  
+   Link:<a href="https://www.researchgate.net/publication/394703604_Peer_Social_Support_and_Academic_Achievement_A_Systematic_Literature_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/394703604_Peer_Social_Support_and_Academic_Achievement_A_Systematic_Literature_Review</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/367120702_WeWalk_walking_with_a_buddy_after_stroke-a_pilot_study_evaluating_feasibility_and_acceptability_of_a_person-centred_dyadic_behaviour_change_intervention" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/367120702_WeWalk_walking_with_a_buddy_after_stroke-a_pilot_study_evaluating_feasibility_and_acceptability_of_a_person-centred_dyadic_behaviour_change_intervention</a>  
+   Link:<a href="https://www.researchgate.net/publication/367120702_WeWalk_walking_with_a_buddy_after_stroke-a_pilot_study_evaluating_feasibility_and_acceptability_of_a_person-centred_dyadic_behaviour_change_intervention" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/367120702_WeWalk_walking_with_a_buddy_after_stroke-a_pilot_study_evaluating_feasibility_and_acceptability_of_a_person-centred_dyadic_behaviour_change_intervention</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/379174780_Social_comparison_as_a_behaviour_change_technique_A_systematic_review_and_meta-analysis_of_randomised_controlled_trials_across_scientific_disciplines" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/379174780_Social_comparison_as_a_behaviour_change_technique_A_systematic_review_and_meta-analysis_of_randomised_controlled_trials_across_scientific_disciplines</a>  
+   Link:<a href="https://www.researchgate.net/publication/379174780_Social_comparison_as_a_behaviour_change_technique_A_systematic_review_and_meta-analysis_of_randomised_controlled_trials_across_scientific_disciplines" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/379174780_Social_comparison_as_a_behaviour_change_technique_A_systematic_review_and_meta-analysis_of_randomised_controlled_trials_across_scientific_disciplines</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/391867009_Meta-analysis_of_randomized_controlled_trials_examining_social_comparison_as_a_behaviour_change_technique_across_the_behavioural_sciences" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391867009_Meta-analysis_of_randomized_controlled_trials_examining_social_comparison_as_a_behaviour_change_technique_across_the_behavioural_sciences</a>  
+   Link:<a href="https://www.researchgate.net/publication/391867009_Meta-analysis_of_randomized_controlled_trials_examining_social_comparison_as_a_behaviour_change_technique_across_the_behavioural_sciences" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391867009_Meta-analysis_of_randomized_controlled_trials_examining_social_comparison_as_a_behaviour_change_technique_across_the_behavioural_sciences</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/science/comments/3fi5mn/exposure_to_weightstigmatizing_media_effects_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/science/comments/3fi5mn/exposure_to_weightstigmatizing_media_effects_on/</a>  
+   Link:<a href="https://www.reddit.com/r/science/comments/3fi5mn/exposure_to_weightstigmatizing_media_effects_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/science/comments/3fi5mn/exposure_to_weightstigmatizing_media_effects_on/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: phwwhocc.co.uk  
-   Link: <a href="https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf</a>
+   Link:<a href="https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf</a>

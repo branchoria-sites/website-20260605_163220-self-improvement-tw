@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /self-improvement-tha-c01280-cycling-to/
 description: Focused pages that expand on Cycle Commute.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: self_improvement_tha_c01280_cycling_to_work_894f2f
 parent_title: Cycle Commute
@@ -16,7 +16,7 @@ parent_permalink: /cycle-commute/
 
 # Explore Topics in Cycle Commute
 
-The following pages expand on the main **[Cycle Commute]({{ '/cycle-commute/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Cycle Commute]({{ '/cycle-commute/' | relative_url }})** page and cover its key branches in.
 
 - [Ride Days]({{ '/ride-days/' | relative_url }})
 - [Commute Bag]({{ '/commute-bag/' | relative_url }})

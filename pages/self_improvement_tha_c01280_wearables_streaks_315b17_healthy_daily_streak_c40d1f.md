@@ -271,7 +271,7 @@ image: /assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_healt
 Daily streaks are one of the most popular forms of visible [feedback]({{ 'feedback/' | relative_url }}) in self-improvement. Language apps, fitness trackers, writing calendars and habit apps all use them because they make progress easy to see. A growing chain of successful days can create momentum and encourage repetition. The problem is that an unbroken streak can quietly become more important than the habit itself.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_healthy_daily_streak_c40d1f-Illustration-1-dark.svg" | relative_url }}" alt="Streaks illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_healthy_daily_streak_c40d1f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_healthy_daily_streak_c40d1f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The most effective streak systems do not treat a missed day as failure. They treat it as an interruption. Research on goal monitoring suggests that visible progress tracking helps people stay engaged with goals, especially when progress is recorded and reviewed. Yet evidence from habit formation research, user experience studies and real-world app design points to a consistent risk: when people see one missed day as the end of the story, [motivation]({{ 'motivation/' | relative_url }}) often collapses. A healthy streak helps people come back after disruption rather than making perfection the price of participation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Does monitoring goal progress promote goal attainment?</span><span class="citation-popover-snippet">B Harkin · 2016 · Cited by 745 — The findings suggest that monitoring goal progress is an effective self-regulation strategy, and...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://psychiatry.ucsd.edu/research/programs-centers/instep/tools-resource/definitions/team-processes/action-phase/goal-progress.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychiatry.ucsd.edu">[2psychiatry.ucsd.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychiatry.ucsd.edu</span><span class="citation-popover-snippet">Goal Progress MonitoringMeta-analysis, found that targeted interventions are successful at increases frequency of progress monitoring beh...</span></span></span>
+The most effective streak systems do not treat a missed day as failure. They treat it as an interruption. Research on goal monitoring suggests that visible progress tracking helps people stay engaged with goals, especially when progress is recorded and reviewed. Yet evidence from habit formation research, user experience studies and real-world app design points to a consistent risk: when people see one missed day as the end of the story, [motivation]({{ 'motivation/' | relative_url }}) often collapses. A healthy streak helps people come back after disruption rather than making perfection the price of participation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Does monitoring goal progress promote goal attainment?</span><span class="citation-popover-snippet">B Harkin · 2016 · Cited by 745 — The findings suggest that monitoring goal progress is an effective self-regulation strategy, and...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://psychiatry.ucsd.edu/research/programs-centers/instep/tools-resource/definitions/team-processes/action-phase/goal-progress.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychiatry.ucsd.edu">[2psychiatry.ucsd.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychiatry.ucsd.edu</span><span class="citation-popover-snippet">Goal Progress MonitoringMeta-analysis, found that targeted interventions are successful at increases frequency of progress monitoring beh...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HJE_KAnQtiM" title="You Didn’t Build a Habit. You Built a Streak." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HJE_KAnQtiM" target="_blank" rel="noopener noreferrer">You Didn’t Build a Habit. You Built a Streak.</a></p><p class="youtube-embed-meta">Channel: Berrohn &middot; Views: 20.3K &middot; Uploaded: April 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HJE_KAnQtiM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HJE_KAnQtiM">Open on YouTube</a></p></div></div></div>
 
@@ -279,9 +279,9 @@ The most effective streak systems do not treat a missed day as failure. They tre
 
 A streak works because it compresses a long-term goal into a simple daily question: “Did I do the thing today?” Instead of waiting months to see fitness gains or language improvement, people receive immediate confirmation that they showed up.
 
-This mechanism aligns with broader findings on progress monitoring. Recording behaviour and making progress visible can improve goal attainment because it keeps attention on the process rather than leaving intentions vague and easy to forget. The streak becomes a visible record of consistency. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Does monitoring goal progress promote goal attainment?</span><span class="citation-popover-snippet">B Harkin · 2016 · Cited by 745 — The findings suggest that monitoring goal progress is an effective self-regulation strategy, and...</span></span></span>
+This mechanism aligns with broader findings on progress monitoring. Recording behaviour and making progress visible can improve goal attainment because it keeps attention on the process rather than leaving intentions vague and easy to forget. The streak becomes a visible record of consistency.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Does monitoring goal progress promote goal attainment?</span><span class="citation-popover-snippet">B Harkin · 2016 · Cited by 745 — The findings suggest that monitoring goal progress is an effective self-regulation strategy, and...</span></span></span>
 
-The appeal is not only informational. It is emotional. A 50-day streak feels like something valuable that has been built over time. Behavioural designers often rely on this sense of accumulated investment because people are strongly motivated to avoid losing something they already possess. This is one reason streaks can be so effective at getting people to return day after day. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.justanotherpm.com/blog/the-psychology-behind-duolingos-streak-feature" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justanotherpm.com">[justanotherpm.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justanotherpm.com</span><span class="citation-popover-snippet">The Psychology Behind Duolingo&#x27;s Streak Feature26 May 2025 — Habit formation: Short, low-friction actions repeated daily = sticky behavior...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+The appeal is not only informational. It is emotional. A 50-day streak feels like something valuable that has been built over time. Behavioural designers often rely on this sense of accumulated investment because people are strongly motivated to avoid losing something they already possess. This is one reason streaks can be so effective at getting people to return day after day.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.justanotherpm.com/blog/the-psychology-behind-duolingos-streak-feature" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justanotherpm.com">[justanotherpm.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justanotherpm.com</span><span class="citation-popover-snippet">The Psychology Behind Duolingo&#x27;s Streak Feature26 May 2025 — Habit formation: Short, low-friction actions repeated daily = sticky behavior...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 In [wearables]({{ 'wearables/' | relative_url }}) and habit trackers, the best streaks [support]({{ 'support/' | relative_url }}) a larger purpose. The streak exists to reinforce walking, practising, writing or exercising. It is a tool that strengthens the habit rather than becoming the habit.
 
@@ -293,9 +293,9 @@ The weakness of streaks is that they can turn continuity into perfectionism.
 
 Many users report the same pattern: they build momentum, miss a day because of illness, travel, work pressure or family responsibilities, and then abandon the habit entirely. The psychological damage comes less from the missed day itself than from the story attached to it. The streak is broken, therefore the effort feels wasted.
 
-This reaction is often fuelled by loss aversion. The emotional impact of losing a 100-day streak can feel larger than the satisfaction of extending it to 101 days. As a result, people may begin protecting the number rather than serving the original goal. Researchers studying gamified learning systems have documented cases where users become overly focused on maintaining streaks, points and badges at the expense of the learning activity itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.justanotherpm.com/blog/the-psychology-behind-duolingos-streak-feature" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justanotherpm.com">[justanotherpm.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justanotherpm.com</span><span class="citation-popover-snippet">The Psychology Behind Duolingo&#x27;s Streak Feature26 May 2025 — Habit formation: Short, low-friction actions repeated daily = sticky behavior...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+This reaction is often fuelled by loss aversion. The emotional impact of losing a 100-day streak can feel larger than the satisfaction of extending it to 101 days. As a result, people may begin protecting the number rather than serving the original goal. Researchers studying gamified learning systems have documented cases where users become overly focused on maintaining streaks, points and badges at the expense of the learning activity itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.justanotherpm.com/blog/the-psychology-behind-duolingos-streak-feature" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justanotherpm.com">[justanotherpm.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justanotherpm.com</span><span class="citation-popover-snippet">The Psychology Behind Duolingo&#x27;s Streak Feature26 May 2025 — Habit formation: Short, low-friction actions repeated daily = sticky behavior...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
-Real-world examples show how powerful this effect can become. Users of language-learning apps frequently describe continuing minimal lessons long after enthusiasm for learning has faded because they do not want to lose a streak. Journalistic reporting and user accounts have documented people feeling anxiety, guilt or a sense of obligation around maintaining streaks that were originally intended to be motivational. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/lifeandstyle/article/2024/sep/08/streak-daily-ritual-can-enrich-your-life-or-become-unhealthy-obsession" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Don&#x27;t break the streak!</span><span class="citation-popover-snippet">How a daily ritual can enrich your life - or become an unhealthy obsessionThe article examines the concept of &quot;streaks&quot;—consistent, unbro...</span></span></span>
+Real-world examples show how powerful this effect can become. Users of language-learning apps frequently describe continuing minimal lessons long after enthusiasm for learning has faded because they do not want to lose a streak. Journalistic reporting and user accounts have documented people feeling anxiety, guilt or a sense of obligation around maintaining streaks that were originally intended to be motivational.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/lifeandstyle/article/2024/sep/08/streak-daily-ritual-can-enrich-your-life-or-become-unhealthy-obsession" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Don&#x27;t break the streak!</span><span class="citation-popover-snippet">How a daily ritual can enrich your life - or become an unhealthy obsessionThe article examines the concept of &quot;streaks&quot;—consistent, unbro...</span></span></span>
 
 The crucial insight is that a broken streak does not equal a broken habit. Missing one day and quitting are not the same event. Yet many streak systems visually present them as if they are.
 
@@ -304,7 +304,7 @@ The crucial insight is that a broken streak does not equal a broken habit. Missi
 
 The healthiest streak designs recognise that life contains interruptions.
 
-One common solution is the “streak freeze”, used by apps such as Duolingo. A streak freeze allows a user to miss a day without resetting their accumulated progress. Duolingo explicitly frames the feature as a way to provide flexibility when people need time off rather than forcing uninterrupted daily participation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.duolingo.com/how-duolingo-streak-builds-habit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.duolingo.com">[Duolingo Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.duolingo.com</span><span class="citation-popover-title">how duolingo streak builds habit</span><span class="citation-popover-snippet">Duolingo BlogThe habit-building research behind your Duolingo streak31 Jan 2022 — The Streak Freeze, which allows you to hit pause on you...</span></span></span>
+One common solution is the “streak freeze”, used by apps such as Duolingo. A streak freeze allows a user to miss a day without resetting their accumulated progress. Duolingo explicitly frames the feature as a way to provide flexibility when people need time off rather than forcing uninterrupted daily participation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://blog.duolingo.com/how-duolingo-streak-builds-habit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.duolingo.com">[Duolingo Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.duolingo.com</span><span class="citation-popover-title">how duolingo streak builds habit</span><span class="citation-popover-snippet">Duolingo BlogThe habit-building research behind your Duolingo streak31 Jan 2022 — The Streak Freeze, which allows you to hit pause on you...</span></span></span>
 
 The value of this approach is not that it preserves a number. Its deeper value is that it reduces the psychological cost of returning. Instead of feeling that months of effort disappeared because of one difficult day, users can resume immediately.
 
@@ -320,7 +320,7 @@ A broader set of flexible streak rules can achieve the same goal:
 
 </div>
 
-Several habit-building frameworks emphasise that missing a single day has little effect on long-term habit formation. The greater danger comes from allowing one missed day to become several weeks of disengagement. The recovery behaviour matters more than the interruption itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ehm-tech.com/habit/blog/habit-streaks-do-they-actually-work/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ehm-tech.com">[EHM Tech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ehm-tech.com</span><span class="citation-popover-title">EHM Tech Habit Streaks: Why They Work and When They Backfire</span><span class="citation-popover-snippet">Lally&#x27;s research shows that missing one day has no measurable impact on habit formation.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://habit-streak.com/en/blog/habit-tracking/habit-tracking-mistakes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: habit-streak.com">[Habit Streak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">habit-streak.com</span><span class="citation-popover-title">habit tracking mistakes</span><span class="citation-popover-snippet">Focus on the &#x27;never miss twice&#x27;...Read more...</span></span></span>
+Several habit-building frameworks emphasise that missing a single day has little effect on long-term habit formation. The greater danger comes from allowing one missed day to become several weeks of disengagement. The recovery behaviour matters more than the interruption itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ehm-tech.com/habit/blog/habit-streaks-do-they-actually-work/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ehm-tech.com">[EHM Tech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ehm-tech.com</span><span class="citation-popover-title">EHM Tech Habit Streaks: Why They Work and When They Backfire</span><span class="citation-popover-snippet">Lally&#x27;s research shows that missing one day has no measurable impact on habit formation.Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://habit-streak.com/en/blog/habit-tracking/habit-tracking-mistakes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: habit-streak.com">[Habit Streak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">habit-streak.com</span><span class="citation-popover-title">habit tracking mistakes</span><span class="citation-popover-snippet">Focus on the &#x27;never miss twice&#x27;...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HXuj7wAt7u8" title="The Science of Making &amp; Breaking Habits | Huberman Lab Essentials" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HXuj7wAt7u8" target="_blank" rel="noopener noreferrer">The Science of Making &amp; Breaking Habits | Huberman Lab Essentials</a></p><p class="youtube-embed-meta">Channel: Andrew Huberman &middot; Views: 295.3K &middot; Uploaded: December 2025 &middot; Length: 36 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HXuj7wAt7u8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HXuj7wAt7u8">Open on YouTube</a></p></div></div></div>
 
@@ -334,183 +334,183 @@ This distinction matters because real improvement rarely follows a perfectly str
 
 The strongest streak systems measure commitment rather than perfection. They reward repeated returns to the behaviour. In practical terms, someone who exercises 280 days per year with occasional interruptions is usually building a stronger habit than someone who exercises for 60 consecutive days and quits after losing a streak.
 
-Visible feedback remains valuable, but the metric should support the behaviour instead of becoming a source of shame. A streak is most effective when it encourages the next repetition, not when it turns one missed day into evidence that the entire effort has failed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2203.16175" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Does monitoring goal progress promote goal attainment?</span><span class="citation-popover-snippet">B Harkin · 2016 · Cited by 745 — The findings suggest that monitoring goal progress is an effective self-regulation strategy, and...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://psychiatry.ucsd.edu/research/programs-centers/instep/tools-resource/definitions/team-processes/action-phase/goal-progress.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychiatry.ucsd.edu">[3psychiatry.ucsd.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychiatry.ucsd.edu</span><span class="citation-popover-snippet">Goal Progress MonitoringMeta-analysis, found that targeted interventions are successful at increases frequency of progress monitoring beh...</span></span></span>
+Visible feedback remains valuable, but the metric should support the behaviour instead of becoming a source of shame. A streak is most effective when it encourages the next repetition, not when it turns one missed day into evidence that the entire effort has failed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2203.16175" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Does monitoring goal progress promote goal attainment?</span><span class="citation-popover-snippet">B Harkin · 2016 · Cited by 745 — The findings suggest that monitoring goal progress is an effective self-regulation strategy, and...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://psychiatry.ucsd.edu/research/programs-centers/instep/tools-resource/definitions/team-processes/action-phase/goal-progress.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychiatry.ucsd.edu">[3psychiatry.ucsd.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychiatry.ucsd.edu</span><span class="citation-popover-snippet">Goal Progress MonitoringMeta-analysis, found that targeted interventions are successful at increases frequency of progress monitoring beh...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_healthy_daily_streak_c40d1f-Illustration-3-dark.svg" | relative_url }}" alt="Streaks illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_healthy_daily_streak_c40d1f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_healthy_daily_streak_c40d1f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How to Keep a Streak From Owning You. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How to Keep a Streak From Owning You. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Directly addresses consistency, recovery, and habit identity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Directly addresses consistency, recovery, and habit identity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
-        </h4>
-        <p class="fr-book-author">By B. J. Fogg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
+</h4>
+<p class="fr-book-author">By B. J. Fogg</p>
         
-        <p class="fr-book-desc">Encourages restarting quickly after missed days.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages restarting quickly after missed days.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Indistractable on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_KjNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Indistractable" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Indistractable">Indistractable</a>
-        </h4>
-        <p class="fr-book-author">By Nir Eyal</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Indistractable on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_KjNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Indistractable" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Indistractable">Indistractable</a>
+</h4>
+<p class="fr-book-author">By Nir Eyal</p>
         
-        <p class="fr-book-desc">Useful when streak maintenance becomes compulsive.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful when streak maintenance becomes compulsive.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
-        </h4>
-        <p class="fr-book-author">By Charles Duhigg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
+</h4>
+<p class="fr-book-author">By Charles Duhigg</p>
         
-        <p class="fr-book-desc">Explains why repeated actions become automatic.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why repeated actions become automatic.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Indistractable&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Indistractable</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Indistractable&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Indistractable</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-    </div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-how-to-keep-a-streak-from-owning-you-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-how-to-keep-a-streak-from-owning-you-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-how-to-keep-a-streak-from-owning-you-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-how-to-keep-a-streak-from-owning-you-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-how-to-keep-a-streak-from-owning-you-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-how-to-keep-a-streak-from-owning-you-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-how-to-keep-a-streak-from-owning-you-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-how-to-keep-a-streak-from-owning-you-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-how-to-keep-a-streak-from-owning-you-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-how-to-keep-a-streak-from-owning-you-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-how-to-keep-a-streak-from-owning-you-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-how-to-keep-a-streak-from-owning-you-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-how-to-keep-a-streak-from-owning-you-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-how-to-keep-a-streak-from-owning-you-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-how-to-keep-a-streak-from-owning-you-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-how-to-keep-a-streak-from-owning-you-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-how-to-keep-a-streak-from-owning-you-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-how-to-keep-a-streak-from-owning-you-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-how-to-keep-a-streak-from-owning-you-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-how-to-keep-a-streak-from-owning-you-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-how-to-keep-a-streak-from-owning-you-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-how-to-keep-a-streak-from-owning-you-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-how-to-keep-a-streak-from-owning-you-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-how-to-keep-a-streak-from-owning-you-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-how-to-keep-a-streak-from-owning-you-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-how-to-keep-a-streak-from-owning-you-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-how-to-keep-a-streak-from-owning-you-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-how-to-keep-a-streak-from-owning-you-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-how-to-keep-a-streak-from-owning-you-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-how-to-keep-a-streak-from-owning-you-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-how-to-keep-a-streak-from-owning-you-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-how-to-keep-a-streak-from-owning-you-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-how-to-keep-a-streak-from-owning-you-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=streaks-how-to-keep-a-streak-from-owning-you-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -526,7 +526,7 @@ Visible feedback remains valuable, but the metric should support the behaviour i
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -546,7 +546,7 @@ Visible feedback remains valuable, but the metric should support the behaviour i
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -578,7 +578,7 @@ Visible feedback remains valuable, but the metric should support the behaviour i
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -608,7 +608,7 @@ Visible feedback remains valuable, but the metric should support the behaviour i
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -666,140 +666,140 @@ Visible feedback remains valuable, but the metric should support the behaviour i
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: psychiatry.ucsd.edu  
-   Link: <a href="https://psychiatry.ucsd.edu/research/programs-centers/instep/tools-resource/definitions/team-processes/action-phase/goal-progress.html" target="_blank" rel="noopener noreferrer nofollow">https://psychiatry.ucsd.edu/research/programs-centers/instep/tools-resource/definitions/team-processes/action-phase/goal-progress.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Goal Progress MonitoringMeta-analysis, found that targeted interventions are successful at increases [frequency](&amp;#123;&amp;#123; &#x27;frequency/&#x27; | relative_url &amp;#125;&amp;#125;) of progress monitoring beh...</p></details>
+   Link:<a href="https://psychiatry.ucsd.edu/research/programs-centers/instep/tools-resource/definitions/team-processes/action-phase/goal-progress.html" target="_blank" rel="noopener noreferrer nofollow">https://psychiatry.ucsd.edu/research/programs-centers/instep/tools-resource/definitions/team-processes/action-phase/goal-progress.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goal Progress MonitoringMeta-analysis, found that targeted interventions are successful at increases [frequency](&amp;#123;&amp;#123; &#x27;frequency/&#x27; | relative_url &amp;#125;&amp;#125;) of progress monitoring beh...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2203.16175" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2203.16175</a>  
+   Link:<a href="https://arxiv.org/abs/2203.16175" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2203.16175</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: justanotherpm.com  
-   Link: <a href="https://www.justanotherpm.com/blog/the-psychology-behind-duolingos-streak-feature" target="_blank" rel="noopener noreferrer nofollow">https://www.justanotherpm.com/blog/the-psychology-behind-duolingos-streak-feature</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychology Behind Duolingo&#x27;s Streak Feature26 May 2025 — Habit formation: Short, low-friction actions repeated daily = sticky behavior...</p></details>
+   Link:<a href="https://www.justanotherpm.com/blog/the-psychology-behind-duolingos-streak-feature" target="_blank" rel="noopener noreferrer nofollow">https://www.justanotherpm.com/blog/the-psychology-behind-duolingos-streak-feature</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychology Behind Duolingo&#x27;s Streak Feature26 May 2025 — Habit formation: Short, low-friction actions repeated daily = sticky behavior...</p></details>
    Published: May 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: blog.duolingo.com  
    Title: how duolingo streak builds habit  
-   Link: <a href="https://blog.duolingo.com/how-duolingo-streak-builds-habit/" target="_blank" rel="noopener noreferrer nofollow">https://blog.duolingo.com/how-duolingo-streak-builds-habit/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Duolingo BlogThe habit-building research behind your Duolingo streak31 Jan 2022 — The Streak Freeze, which allows you to hit pause on you...</p></details>
+   Link:<a href="https://blog.duolingo.com/how-duolingo-streak-builds-habit/" target="_blank" rel="noopener noreferrer nofollow">https://blog.duolingo.com/how-duolingo-streak-builds-habit/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Duolingo BlogThe habit-building research behind your Duolingo streak31 Jan 2022 — The Streak Freeze, which allows you to hit pause on you...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: duolingo.com  
    Title: Help Center  
-   Link: <a href="https://www.duolingo.com/help/what-is-a-streak" target="_blank" rel="noopener noreferrer nofollow">https://www.duolingo.com/help/what-is-a-streak</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is a streak?A streak freeze lets you maintain your streak when you forget to practice for a day. A streak freeze must be purchased i...</p></details>
+   Link:<a href="https://www.duolingo.com/help/what-is-a-streak" target="_blank" rel="noopener noreferrer nofollow">https://www.duolingo.com/help/what-is-a-streak</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is a streak?A streak freeze lets you maintain your streak when you forget to practice for a day. A streak freeze must be purchased i...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ehm-tech.com  
    Title: EHM Tech Habit Streaks: Why They Work and When They Backfire  
-   Link: <a href="https://www.ehm-tech.com/habit/blog/habit-streaks-do-they-actually-work/" target="_blank" rel="noopener noreferrer nofollow">https://www.ehm-tech.com/habit/blog/habit-streaks-do-they-actually-work/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lally&#x27;s research shows that missing one day has no measurable impact on habit formation.Read more...</p></details>
+   Link:<a href="https://www.ehm-tech.com/habit/blog/habit-streaks-do-they-actually-work/" target="_blank" rel="noopener noreferrer nofollow">https://www.ehm-tech.com/habit/blog/habit-streaks-do-they-actually-work/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lally&#x27;s research shows that missing one day has no measurable impact on habit formation.Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: habit-streak.com  
    Title: habit tracking mistakes  
-   Link: <a href="https://habit-streak.com/en/blog/habit-tracking/habit-tracking-mistakes" target="_blank" rel="noopener noreferrer nofollow">https://habit-streak.com/en/blog/habit-tracking/habit-tracking-mistakes</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Focus on the &#x27;never miss twice&#x27;...Read more...</p></details>
+   Link:<a href="https://habit-streak.com/en/blog/habit-tracking/habit-tracking-mistakes" target="_blank" rel="noopener noreferrer nofollow">https://habit-streak.com/en/blog/habit-tracking/habit-tracking-mistakes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Focus on the &#x27;never miss twice&#x27;...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: blog.duolingo.com  
    Title: protecting streaks from site issues  
-   Link: <a href="https://blog.duolingo.com/protecting-streaks-from-site-issues/" target="_blank" rel="noopener noreferrer nofollow">https://blog.duolingo.com/protecting-streaks-from-site-issues/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>we protect learner streaks from site issues1 Nov 2021 — To keep their streak protected, learners must equip a “streak freeze” in advance...</p></details>
+   Link:<a href="https://blog.duolingo.com/protecting-streaks-from-site-issues/" target="_blank" rel="noopener noreferrer nofollow">https://blog.duolingo.com/protecting-streaks-from-site-issues/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>we protect learner streaks from site issues1 Nov 2021 — To keep their streak protected, learners must equip a “streak freeze” in advance...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: blog.duolingo.com  
    Title: how to keep your streak on vacation  
-   Link: <a href="https://blog.duolingo.com/how-to-keep-your-streak-on-vacation/" target="_blank" rel="noopener noreferrer nofollow">https://blog.duolingo.com/how-to-keep-your-streak-on-vacation/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>can I keep my streak while on vacation?18 Apr 2023 — By foregoing a few timer boosts or Streak Freezes before your trip, you can use thos...</p></details>
+   Link:<a href="https://blog.duolingo.com/how-to-keep-your-streak-on-vacation/" target="_blank" rel="noopener noreferrer nofollow">https://blog.duolingo.com/how-to-keep-your-streak-on-vacation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>can I keep my streak while on vacation?18 Apr 2023 — By foregoing a few timer boosts or Streak Freezes before your trip, you can use thos...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med Does monitoring goal progress promote goal attainment?  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26479070/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>B Harkin · 2016 · Cited by 745 — The findings suggest that monitoring goal progress is an effective self-regulation strategy, and...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26479070/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>B Harkin · 2016 · Cited by 745 — The findings suggest that monitoring goal progress is an effective self-regulation strategy, and...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: theguardian.com  
    Title: The Guardian Don't break the streak!  
-   Link: <a href="https://www.theguardian.com/lifeandstyle/article/2024/sep/08/streak-daily-ritual-can-enrich-your-life-or-become-unhealthy-obsession" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/lifeandstyle/article/2024/sep/08/streak-daily-ritual-can-enrich-your-life-or-become-unhealthy-obsession</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How a daily ritual can enrich your life - or become an unhealthy obsessionThe article examines the concept of &quot;streaks&quot;—consistent, unbro...</p></details>
+   Link:<a href="https://www.theguardian.com/lifeandstyle/article/2024/sep/08/streak-daily-ritual-can-enrich-your-life-or-become-unhealthy-obsession" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/lifeandstyle/article/2024/sep/08/streak-daily-ritual-can-enrich-your-life-or-become-unhealthy-obsession</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How a daily ritual can enrich your life - or become an unhealthy obsessionThe article examines the concept of &quot;streaks&quot;—consistent, unbro...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: duolingo.fandom.com  
    Title: Streak freeze  
-   Link: <a href="https://duolingo.fandom.com/wiki/Shop/Streak_freeze" target="_blank" rel="noopener noreferrer nofollow">https://duolingo.fandom.com/wiki/Shop/Streak_freeze</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>fandom.comShop/Streak freeze - Duolingo Wiki - FandomA streak freeze can be bought at any time and will stay equipped until you miss a da...</p></details>
+   Link:<a href="https://duolingo.fandom.com/wiki/Shop/Streak_freeze" target="_blank" rel="noopener noreferrer nofollow">https://duolingo.fandom.com/wiki/Shop/Streak_freeze</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fandom.comShop/Streak freeze - Duolingo Wiki - FandomA streak freeze can be bought at any time and will stay equipped until you miss a da...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: duolingo.fandom.com  
-   Link: <a href="https://duolingo.fandom.com/wiki/Streak" target="_blank" rel="noopener noreferrer nofollow">https://duolingo.fandom.com/wiki/Streak</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Duolingo Wiki - FandomYou can freeze your streak to avoid it resetting from a day of inactivity by buying a streak freeze in the gems sto...</p></details>
+   Link:<a href="https://duolingo.fandom.com/wiki/Streak" target="_blank" rel="noopener noreferrer nofollow">https://duolingo.fandom.com/wiki/Streak</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Duolingo Wiki - FandomYou can freeze your streak to avoid it resetting from a day of inactivity by buying a streak freeze in the gems sto...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: forum.duome.eu  
    Title: eu Streak Freeze  
-   Link: <a href="https://forum.duome.eu/viewtopic.php?t=29919" target="_blank" rel="noopener noreferrer nofollow">https://forum.duome.eu/viewtopic.php?t=29919</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Freeze - Duolingo Forum27 May 2024 — If you use one streak freeze and then come back the next day, Duolingo will refill your streak freez...</p></details>
+   Link:<a href="https://forum.duome.eu/viewtopic.php?t=29919" target="_blank" rel="noopener noreferrer nofollow">https://forum.duome.eu/viewtopic.php?t=29919</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Freeze - Duolingo Forum27 May 2024 — If you use one streak freeze and then come back the next day, Duolingo will refill your streak freez...</p></details>
    Published: May 2024  
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/duolingo/comments/1cr0jk4/how_do_i_freeze_my_streak_for_3_days/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/duolingo/comments/1cr0jk4/how_do_i_freeze_my_streak_for_3_days/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How do I freeze my streak for 3 days?: r/duolingoSo, in less than a month I&#x27;m going to a field trip that will last 4 days, but I can&#x27;t b...</p></details>
+   Link:<a href="https://www.reddit.com/r/duolingo/comments/1cr0jk4/how_do_i_freeze_my_streak_for_3_days/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/duolingo/comments/1cr0jk4/how_do_i_freeze_my_streak_for_3_days/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How do I freeze my streak for 3 days?: r/duolingoSo, in less than a month I&#x27;m going to a field trip that will last 4 days, but I can&#x27;t b...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: uxmag.medium.com  
-   Link: <a href="https://uxmag.medium.com/the-psychology-of-hot-streak-game-design-how-to-keep-players-coming-back-every-day-without-shame-3dde153f239c" target="_blank" rel="noopener noreferrer nofollow">https://uxmag.medium.com/the-psychology-of-hot-streak-game-design-how-to-keep-players-coming-back-every-day-without-shame-3dde153f239c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology of Hot Streak Game Design - UX MagazineThe purpose of a streak is to encourage the creation and sustaining of new habits that...</p></details>
+   Link:<a href="https://uxmag.medium.com/the-psychology-of-hot-streak-game-design-how-to-keep-players-coming-back-every-day-without-shame-3dde153f239c" target="_blank" rel="noopener noreferrer nofollow">https://uxmag.medium.com/the-psychology-of-hot-streak-game-design-how-to-keep-players-coming-back-every-day-without-shame-3dde153f239c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology of Hot Streak Game Design - UX MagazineThe purpose of a streak is to encourage the creation and sustaining of new habits that...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: trophy.so  
-   Link: <a href="https://trophy.so/blog/the-psychology-of-streaks-how-sylvi-weaponized-duolingos-best-feature-against-them" target="_blank" rel="noopener noreferrer nofollow">https://trophy.so/blog/the-psychology-of-streaks-how-sylvi-weaponized-duolingos-best-feature-against-them</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychology of Streaks: How Sylvi Weaponized Duolingo&#x27;s...30 June 2025 — The research revealed that consecutive daily activity create...</p></details>
+   Link:<a href="https://trophy.so/blog/the-psychology-of-streaks-how-sylvi-weaponized-duolingos-best-feature-against-them" target="_blank" rel="noopener noreferrer nofollow">https://trophy.so/blog/the-psychology-of-streaks-how-sylvi-weaponized-duolingos-best-feature-against-them</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Psychology of Streaks: How Sylvi Weaponized Duolingo&#x27;s...30 June 2025 — The research revealed that consecutive daily activity create...</p></details>
    Published: June 2025  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: eprints.whiterose.ac.uk  
-   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/87431/" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/87431/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Harkin · 2016 · Cited by 738 — Taken together, the findings suggest that monitoring goal progress is an effective self-regulation st...</p></details>
+   Link:<a href="https://eprints.whiterose.ac.uk/id/eprint/87431/" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/87431/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by B Harkin · 2016 · Cited by 738 — Taken together, the findings suggest that monitoring goal progress is an effective self-regulation st...</p></details>
 
-19. <a id="endnote-19"></a>
-   Source: eprints.whiterose.ac.uk  
-   Title: whiterose.ac.uk Does Monitoring Goal Progress Promote Goal Attainment?  
-   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/87431/1/bul%20Harkin%20raw%20FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/87431/1/bul%20Harkin%20raw%20FINAL.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Harkin · 2016 · Cited by 745 — The present meta-analysis includes only studies that randomly allocated participants to a treatment c...</p></details>
-
-20. <a id="endnote-20"></a>
+19.<a id="endnote-19"></a>
    Source: eprints.whiterose.ac.uk  
    Title: whiterose.ac.uk Does Monitoring Goal Progress Promote Goal Attainment?  
-   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/91437/" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/91437/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Harkin · 2016 · Cited by 742 — Taken together, the findings suggest that monitoring goal progress is an effective self-regulation st...</p></details>
+   Link:<a href="https://eprints.whiterose.ac.uk/id/eprint/87431/1/bul%20Harkin%20raw%20FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/87431/1/bul%20Harkin%20raw%20FINAL.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by B Harkin · 2016 · Cited by 745 — The present meta-analysis includes only studies that randomly allocated participants to a treatment c...</p></details>
 
-21. <a id="endnote-21"></a>
+20.<a id="endnote-20"></a>
+   Source: eprints.whiterose.ac.uk  
+   Title: whiterose.ac.uk Does Monitoring Goal Progress Promote Goal Attainment?  
+   Link:<a href="https://eprints.whiterose.ac.uk/id/eprint/91437/" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/91437/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by B Harkin · 2016 · Cited by 742 — Taken together, the findings suggest that monitoring goal progress is an effective self-regulation st...</p></details>
+
+21.<a id="endnote-21"></a>
    Source: researchgate.net  
    Title: 315582603 Which Factors Are Associated with Monitoring Goal Progress  
-   Link: <a href="https://www.researchgate.net/publication/315582603_Which_Factors_Are_Associated_with_Monitoring_Goal_Progress" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/315582603_Which_Factors_Are_Associated_with_Monitoring_Goal_Progress</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>progress monitoring can increase the likelihood. that people will achieve their goal (e.g., Harkin et al., 2016). Furthermore, we examine...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/315582603_Which_Factors_Are_Associated_with_Monitoring_Goal_Progress" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/315582603_Which_Factors_Are_Associated_with_Monitoring_Goal_Progress</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>progress monitoring can increase the likelihood. that people will achieve their goal (e.g., Harkin et al., 2016). Furthermore, we examine...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ovid.com  
-   Link: <a href="https://www.ovid.com/journals/plbul/fulltext/10.1037/bul0000025~does-monitoring-goal-progress-promote-goal-attainment-a" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/plbul/fulltext/10.1037/bul0000025~does-monitoring-goal-progress-promote-goal-attainment-a</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Does Monitoring Goal Progress Promote Goal...by B Harkin · 2016 · Cited by 745 — Taken together, the findings suggest that monitoring goa...</p></details>
+   Link:<a href="https://www.ovid.com/journals/plbul/fulltext/10.1037/bul0000025~does-monitoring-goal-progress-promote-goal-attainment-a" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/plbul/fulltext/10.1037/bul0000025~does-monitoring-goal-progress-promote-goal-attainment-a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Does Monitoring Goal Progress Promote Goal...by B Harkin · 2016 · Cited by 745 — Taken together, the findings suggest that monitoring goa...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: researchdataanalysis.com  
    Title: ben harkin data analysis innovation best researcher award 2436  
-   Link: <a href="https://researchdataanalysis.com/ben-harkin-data-analysis-innovation-best-researcher-award-2436/" target="_blank" rel="noopener noreferrer nofollow">https://researchdataanalysis.com/ben-harkin-data-analysis-innovation-best-researcher-award-2436/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“Does Monitoring Goal Progress Promote Goal Attainment? A Meta-Analysis of the Experimental Evidence,” Psychological Bulletin. Harkin, B...</p></details>
+   Link:<a href="https://researchdataanalysis.com/ben-harkin-data-analysis-innovation-best-researcher-award-2436/" target="_blank" rel="noopener noreferrer nofollow">https://researchdataanalysis.com/ben-harkin-data-analysis-innovation-best-researcher-award-2436/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“Does Monitoring Goal Progress Promote Goal Attainment? A Meta-Analysis of the Experimental Evidence,” Psychological Bulletin. Harkin, B...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/lennyrachitsky_the-thinking-behind-duolingos-streak-freezes-activity-7275197877256179713-tvBJ" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/lennyrachitsky_the-thinking-behind-duolingos-streak-freezes-activity-7275197877256179713-tvBJ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A perfect element for user retention and engagement. Check out www.mybumpsocial...Read more...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/lennyrachitsky_the-thinking-behind-duolingos-streak-freezes-activity-7275197877256179713-tvBJ" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/lennyrachitsky_the-thinking-behind-duolingos-streak-freezes-activity-7275197877256179713-tvBJ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A perfect element for user retention and engagement. Check out www.mybumpsocial...Read more...</p></details>

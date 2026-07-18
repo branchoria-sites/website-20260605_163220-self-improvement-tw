@@ -268,29 +268,29 @@ image: /assets/images/self_improvement_tha_c01280_ego_depletion_debate_45c31f_mo
 
 ## Introduction
 
-Why does temptation often feel stronger after a period of intense self-control? One influential answer in the ego [depletion debate]({{ 'depletion-debate/' | relative_url }}) is that people do not necessarily “run out” of willpower. Instead, effortful control may temporarily change what the mind prioritises. After spending time resisting impulses, concentrating, suppressing emotions, or forcing attention onto difficult tasks, [motivation]({{ 'motivation/' | relative_url }}) can shift away from further control and towards relief, reward, and immediate satisfaction. At the same time, attention may become more sensitive to tempting cues and less focused on long-term goals. This perspective, known as the process model or shifting-priorities account of self-control, has become one of the most important alternatives to the classic resource-depletion explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26168503/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med What Is Ego Depletion?</span><span class="citation-popover-snippet">Toward a Mechanistic Revision of...by M Inzlicht · 2012 · Cited by 1572 — This study proposes a process model of depletion, suggesting t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/1745691612454134" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals What Is Ego Depletion?</span><span class="citation-popover-snippet">Toward a Mechanistic Revision of...by M Inzlicht · 2012 · Cited by 1571 — This study proposes a process model of depletion, suggesting t...</span></span></span>
+Why does temptation often feel stronger after a period of intense self-control? One influential answer in the ego [depletion debate]({{ 'depletion-debate/' | relative_url }}) is that people do not necessarily “run out” of willpower. Instead, effortful control may temporarily change what the mind prioritises. After spending time resisting impulses, concentrating, suppressing emotions, or forcing attention onto difficult tasks, [motivation]({{ 'motivation/' | relative_url }}) can shift away from further control and towards relief, reward, and immediate satisfaction. At the same time, attention may become more sensitive to tempting cues and less focused on long-term goals. This perspective, known as the process model or shifting-priorities account of self-control, has become one of the most important alternatives to the classic resource-depletion explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26168503/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med What Is Ego Depletion?</span><span class="citation-popover-snippet">Toward a Mechanistic Revision of...by M Inzlicht · 2012 · Cited by 1572 — This study proposes a process model of depletion, suggesting t...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/1745691612454134" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals What Is Ego Depletion?</span><span class="citation-popover-snippet">Toward a Mechanistic Revision of...by M Inzlicht · 2012 · Cited by 1571 — This study proposes a process model of depletion, suggesting t...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_ego_depletion_debate_45c31f_motivation_attention_9033b5-Illustration-1-dark.svg" | relative_url }}" alt="Attention Shift illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_ego_depletion_debate_45c31f_motivation_attention_9033b5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_ego_depletion_debate_45c31f_motivation_attention_9033b5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For people interested in [self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}), the practical implication is significant. The danger period may not be a moment of empty mental fuel. It may be a moment when rewards become louder, goals become quieter, and the [environment]({{ 'environment/' | relative_url }}) suddenly matters much more.
 
 ## How the Process Model Reframes Depletion
 
-The traditional [ego depletion]({{ 'ego-depletion/' | relative_url }}) theory proposed that self-control failures occur because a limited resource has been consumed. The process model, developed by Michael Inzlicht and Brandon Schmeichel, argues that the key mechanism is different. According to this view, exerting self-control changes motivation and attention in ways that make future self-control less likely, even if no depleted resource needs to be assumed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26168503/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med What Is Ego Depletion?</span><span class="citation-popover-snippet">Toward a Mechanistic Revision of...by M Inzlicht · 2012 · Cited by 1572 — This study proposes a process model of depletion, suggesting t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/1745691612454134" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals What Is Ego Depletion?</span><span class="citation-popover-snippet">Toward a Mechanistic Revision of...by M Inzlicht · 2012 · Cited by 1571 — This study proposes a process model of depletion, suggesting t...</span></span></span>
+The traditional [ego depletion]({{ 'ego-depletion/' | relative_url }}) theory proposed that self-control failures occur because a limited resource has been consumed. The process model, developed by Michael Inzlicht and Brandon Schmeichel, argues that the key mechanism is different. According to this view, exerting self-control changes motivation and attention in ways that make future self-control less likely, even if no depleted resource needs to be assumed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26168503/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med What Is Ego Depletion?</span><span class="citation-popover-snippet">Toward a Mechanistic Revision of...by M Inzlicht · 2012 · Cited by 1572 — This study proposes a process model of depletion, suggesting t...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/1745691612454134" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals What Is Ego Depletion?</span><span class="citation-popover-snippet">Toward a Mechanistic Revision of...by M Inzlicht · 2012 · Cited by 1571 — This study proposes a process model of depletion, suggesting t...</span></span></span>
 
-The model proposes two linked shifts: <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0146167218802836" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[journals.sagepub.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsAftereffects of Self-Control on Positive Emotional Reactivity7 Nov 2018 — The process model proposes that exercising self-co...</span></span></span>
+The model proposes two linked shifts:<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/0146167218802836" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[journals.sagepub.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsAftereffects of Self-Control on Positive Emotional Reactivity7 Nov 2018 — The process model proposes that exercising self-co...</span></span></span>
 
 * **A motivational shift** away from restraint and towards gratification.
-* **An attentional shift** away from signals that [support]({{ 'support/' | relative_url }}) long-term goals and towards signals associated with reward, pleasure, novelty, or relief. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26168503/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med What Is Ego Depletion?</span><span class="citation-popover-snippet">Toward a Mechanistic Revision of...by M Inzlicht · 2012 · Cited by 1572 — This study proposes a process model of depletion, suggesting t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://michaelinzlicht.com/s/what-is-ego-depletion.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: michaelinzlicht.com">[Michael Inzlicht]</a><span class="citation-popover" role="note"><span class="citation-popover-source">michaelinzlicht.com</span><span class="citation-popover-title">what is ego depletion</span><span class="citation-popover-snippet">Self-control exertion at Time 1 leads to self-control failure at. Time 2 by inducing shifts in motivation away from self-...Read more...</span></span></span>
+* **An attentional shift** away from signals that [support]({{ 'support/' | relative_url }}) long-term goals and towards signals associated with reward, pleasure, novelty, or relief.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26168503/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med What Is Ego Depletion?</span><span class="citation-popover-snippet">Toward a Mechanistic Revision of...by M Inzlicht · 2012 · Cited by 1572 — This study proposes a process model of depletion, suggesting t...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://michaelinzlicht.com/s/what-is-ego-depletion.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: michaelinzlicht.com">[Michael Inzlicht]</a><span class="citation-popover" role="note"><span class="citation-popover-source">michaelinzlicht.com</span><span class="citation-popover-title">what is ego depletion</span><span class="citation-popover-snippet">Self-control exertion at Time 1 leads to self-control failure at. Time 2 by inducing shifts in motivation away from self-...Read more...</span></span></span>
 
-These shifts are thought to reinforce one another. If rewards become more appealing, attention naturally moves towards them. As attention dwells on rewarding possibilities, motivation to pursue them increases further. The result can look like depleted [willpower]({{ 'willpower/' | relative_url }}) even though the underlying mechanism is a change in priorities rather than a drained mental tank. <span class="citation-chip-wrap"><a class="citation-chip" href="https://michael-inzlicht.squarespace.com/s/attentional-and-motivational-mechanisms-of-self-control.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: michael-inzlicht.squarespace.com">[Michael Inzlicht]</a><span class="citation-popover" role="note"><span class="citation-popover-source">michael-inzlicht.squarespace.com</span><span class="citation-popover-snippet">Michael InzlichtAttentional and Motivational Mechanisms of Self-ControlThis explanation for the refractory period has been called the pro...</span></span></span> ResearchGate This framework also helps explain why incentives <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/figure/Inzlicht-Schmeichel-The-process-model-of-self-control-fatigue-Self-control-failure_fig2_259438432" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(Inzlicht &amp; Schmeichel</span><span class="citation-popover-snippet">The process model of self-control...Self-control failure tends to occur after initial self-control exertions because of shifts in motiva...</span></span></span>, mood changes, personal beliefs, and task framing can sometimes offset apparent depletion effects. If self-control performance depends partly on motivation and attention, then changing what people care about in the moment should change outcomes. Evidence that incentives and beliefs influence performance is one reason many researchers began looking beyond pure resource explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/news/releases/self-control-may-not-be-a-limited-resource-after-all.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">self control may not be a limited resource after all</span><span class="citation-popover-snippet">Inzlicht and Schmeichel propose an alternative model that describes self-control as a process involving motivation and attention. “Engagi...</span></span></span>
+These shifts are thought to reinforce one another. If rewards become more appealing, attention naturally moves towards them. As attention dwells on rewarding possibilities, motivation to pursue them increases further. The result can look like depleted [willpower]({{ 'willpower/' | relative_url }}) even though the underlying mechanism is a change in priorities rather than a drained mental tank.<span class="citation-chip-wrap"><a class="citation-chip" href="https://michael-inzlicht.squarespace.com/s/attentional-and-motivational-mechanisms-of-self-control.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: michael-inzlicht.squarespace.com">[Michael Inzlicht]</a><span class="citation-popover" role="note"><span class="citation-popover-source">michael-inzlicht.squarespace.com</span><span class="citation-popover-snippet">Michael InzlichtAttentional and Motivational Mechanisms of Self-ControlThis explanation for the refractory period has been called the pro...</span></span></span> ResearchGate This framework also helps explain why incentives<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/figure/Inzlicht-Schmeichel-The-process-model-of-self-control-fatigue-Self-control-failure_fig2_259438432" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">Research Gate(Inzlicht &amp; Schmeichel</span><span class="citation-popover-snippet">The process model of self-control...Self-control failure tends to occur after initial self-control exertions because of shifts in motiva...</span></span></span>, mood changes, personal beliefs, and task framing can sometimes offset apparent depletion effects. If self-control performance depends partly on motivation and attention, then changing what people care about in the moment should change outcomes. Evidence that incentives and beliefs influence performance is one reason many researchers began looking beyond pure resource explanations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/news/releases/self-control-may-not-be-a-limited-resource-after-all.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">self control may not be a limited resource after all</span><span class="citation-popover-snippet">Inzlicht and Schmeichel propose an alternative model that describes self-control as a process involving motivation and attention. “Engagi...</span></span></span>
 
 ## Why Rewards Become More Salient After Strain
 
-A central idea in the newer models is that self-control is often experienced as effortful and somewhat aversive. After sustained effort, the mind may begin to assign greater value to rewarding alternatives and less value to continued restraint. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.3758/s13415-019-00694-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">After-effects of self-control: The reward responsivity hypothesisby NJ Kelley · 2019 · Cited by 57 — In the current paper, we rev...</span></span></span> This does not mean that every difficult task automatically produces indulgence. Rather, the balance of motivation can shift. The person who spent the afternoon focusing on demanding work may find social media more attractive than usual. The dieter who resisted snacks all day may notice dessert more readily. The student who concentrated intensely may become unusually drawn to entertainment. The tempting option has not necessarily changed; its subjective attractiveness has. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8182659/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Aftereffects of self-control: The reward responsivity hypothesisby NJ Kelley · 2019 · Cited by 57 — Self-control exertion is aversive...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4179327/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Inzlicht and Schmeichel (2012) proposed a process model of ego...Read more...</span></span></span>
+A central idea in the newer models is that self-control is often experienced as effortful and somewhat aversive. After sustained effort, the mind may begin to assign greater value to rewarding alternatives and less value to continued restraint. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.3758/s13415-019-00694-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">After-effects of self-control: The reward responsivity hypothesisby NJ Kelley · 2019 · Cited by 57 — In the current paper, we rev...</span></span></span> This does not mean that every difficult task automatically produces indulgence. Rather, the balance of motivation can shift. The person who spent the afternoon focusing on demanding work may find social media more attractive than usual. The dieter who resisted snacks all day may notice dessert more readily. The student who concentrated intensely may become unusually drawn to entertainment. The tempting option has not necessarily changed; its subjective attractiveness has.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8182659/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Aftereffects of self-control: The reward responsivity hypothesisby NJ Kelley · 2019 · Cited by 57 — Self-control exertion is aversive...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4179327/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Inzlicht and Schmeichel (2012) proposed a process model of ego...Read more...</span></span></span>
 
-Researchers have referred to this idea as the **reward responsivity hypothesis**. It suggests that exercising self-control can temporarily increase responsiveness to rewarding stimuli, including food, money, positive images, risk-taking opportunities, or other sources of immediate gratification. Evidence across behavioural and neuroscience studies has provided support for the possibility that reward processing becomes more prominent following effortful control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.3758/s13415-019-00694-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">After-effects of self-control: The reward responsivity hypothesisby NJ Kelley · 2019 · Cited by 57 — In the current paper, we rev...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8486128/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">increase local knowledge—Exploring the hidden...by CD Wiesner · 2021 · Cited by 6 — The reward responsivity hypothesis proposes that peo...</span></span></span>
+Researchers have referred to this idea as the **reward responsivity hypothesis**. It suggests that exercising self-control can temporarily increase responsiveness to rewarding stimuli, including food, money, positive images, risk-taking opportunities, or other sources of immediate gratification. Evidence across behavioural and neuroscience studies has provided support for the possibility that reward processing becomes more prominent following effortful control.<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.3758/s13415-019-00694-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">After-effects of self-control: The reward responsivity hypothesisby NJ Kelley · 2019 · Cited by 57 — In the current paper, we rev...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8486128/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">increase local knowledge—Exploring the hidden...by CD Wiesner · 2021 · Cited by 6 — The reward responsivity hypothesis proposes that peo...</span></span></span>
 
-Importantly, this mechanism predicts outcomes that a simple resource model struggles to explain. If the issue were only reduced control capacity, people should mainly perform worse on later control tasks. But some studies suggest that prior self-control can also increase approach-oriented reactions, positive emotional responses to rewarding stimuli, and willingness to pursue attractive opportunities. These outcomes are easier to understand if motivation itself has shifted. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01112/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Trait approach motivation moderates the aftereffects of self-...by A Crowell · 2014 · Cited by 30 — Based on a process model proposing t...</span></span></span>
+Importantly, this mechanism predicts outcomes that a simple resource model struggles to explain. If the issue were only reduced control capacity, people should mainly perform worse on later control tasks. But some studies suggest that prior self-control can also increase approach-oriented reactions, positive emotional responses to rewarding stimuli, and willingness to pursue attractive opportunities. These outcomes are easier to understand if motivation itself has shifted. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01112/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">Trait approach motivation moderates the aftereffects of self-...by A Crowell · 2014 · Cited by 30 — Based on a process model proposing t...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rhHwhdpo-r8" title="The Self-Control Method That Actually Works" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rhHwhdpo-r8" target="_blank" rel="noopener noreferrer">The Self-Control Method That Actually Works</a></p><p class="youtube-embed-meta">Channel: The Art of Improvement &middot; Views: 19.1K &middot; Uploaded: April 2025 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rhHwhdpo-r8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rhHwhdpo-r8">Open on YouTube</a></p></div></div></div>
 
@@ -303,7 +303,7 @@ In practical terms, this means that after a demanding period of self-control:
 * Temptations may stand out more.
 * Reward cues may be noticed more quickly.
 * Long-term goals may require more deliberate effort to keep in mind.
-* Novel or pleasurable options may capture attention more easily. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26168503/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med What Is Ego Depletion?</span><span class="citation-popover-snippet">Toward a Mechanistic Revision of...by M Inzlicht · 2012 · Cited by 1572 — This study proposes a process model of depletion, suggesting t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://michaelinzlicht.com/s/what-is-ego-depletion.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: michaelinzlicht.com">[Michael Inzlicht]</a><span class="citation-popover" role="note"><span class="citation-popover-source">michaelinzlicht.com</span><span class="citation-popover-title">what is ego depletion</span><span class="citation-popover-snippet">Self-control exertion at Time 1 leads to self-control failure at. Time 2 by inducing shifts in motivation away from self-...Read more...</span></span></span>
+* Novel or pleasurable options may capture attention more easily.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26168503/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med What Is Ego Depletion?</span><span class="citation-popover-snippet">Toward a Mechanistic Revision of...by M Inzlicht · 2012 · Cited by 1572 — This study proposes a process model of depletion, suggesting t...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://michaelinzlicht.com/s/what-is-ego-depletion.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: michaelinzlicht.com">[Michael Inzlicht]</a><span class="citation-popover" role="note"><span class="citation-popover-source">michaelinzlicht.com</span><span class="citation-popover-title">what is ego depletion</span><span class="citation-popover-snippet">Self-control exertion at Time 1 leads to self-control failure at. Time 2 by inducing shifts in motivation away from self-...Read more...</span></span></span>
 
 This helps explain a common experience: people often feel disciplined while actively engaged in a demanding task, yet become vulnerable immediately afterwards. The challenge is not only fatigue. It is that attention is no longer anchored to the goal that previously guided behaviour.
 
@@ -311,11 +311,11 @@ This helps explain a common experience: people often feel disciplined while acti
 
 The shifting-priorities account changes how self-improvement failures are interpreted.
 
-Consider someone trying to reduce late-night snacking. A resource model encourages the explanation: “I used up my willpower during the day.” The process model suggests a different story: after many hours of effort, the person became more motivated by comfort and reward and more attentive to food cues. The evening environment then did the rest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26168503/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med What Is Ego Depletion?</span><span class="citation-popover-snippet">Toward a Mechanistic Revision of...by M Inzlicht · 2012 · Cited by 1572 — This study proposes a process model of depletion, suggesting t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/news/releases/self-control-may-not-be-a-limited-resource-after-all.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">self control may not be a limited resource after all</span><span class="citation-popover-snippet">Inzlicht and Schmeichel propose an alternative model that describes self-control as a process involving motivation and attention. “Engagi...</span></span></span>
+Consider someone trying to reduce late-night snacking. A resource model encourages the explanation: “I used up my willpower during the day.” The process model suggests a different story: after many hours of effort, the person became more motivated by comfort and reward and more attentive to food cues. The evening environment then did the rest.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26168503/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med What Is Ego Depletion?</span><span class="citation-popover-snippet">Toward a Mechanistic Revision of...by M Inzlicht · 2012 · Cited by 1572 — This study proposes a process model of depletion, suggesting t...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/news/releases/self-control-may-not-be-a-limited-resource-after-all.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">self control may not be a limited resource after all</span><span class="citation-popover-snippet">Inzlicht and Schmeichel propose an alternative model that describes self-control as a process involving motivation and attention. “Engagi...</span></span></span>
 
 The distinction matters because it points towards different solutions. If the problem is an empty resource, the main answer is to conserve willpower. If the problem is shifting priorities, then managing attention, incentives, and environments becomes crucial.
 
-The newer perspective also explains why people often experience a sense of earned indulgence. After difficult work, reward-seeking can feel justified. The mind may not merely crave a treat; it may reinterpret the treat as deserved. Researchers have argued that these motivational changes can make self-control failures appear voluntary rather than impossible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/news/releases/self-control-may-not-be-a-limited-resource-after-all.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">self control may not be a limited resource after all</span><span class="citation-popover-snippet">Inzlicht and Schmeichel propose an alternative model that describes self-control as a process involving motivation and attention. “Engagi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://rcgd.isr.umich.edu/wp-content/uploads/2018/08/Inzlicht__Berkman_in_press.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcgd.isr.umich.edu">[RCGD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcgd.isr.umich.edu</span><span class="citation-popover-title">Inzlicht Berkman in press</span><span class="citation-popover-snippet">Schmeichel, et al., 2014), self-control wanes over time not because people have no energy but because people experience a shift in...Rea...</span></span></span>
+The newer perspective also explains why people often experience a sense of earned indulgence. After difficult work, reward-seeking can feel justified. The mind may not merely crave a treat; it may reinterpret the treat as deserved. Researchers have argued that these motivational changes can make self-control failures appear voluntary rather than impossible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologicalscience.org/news/releases/self-control-may-not-be-a-limited-resource-after-all.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologicalscience.org">[Association for Psychological Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologicalscience.org</span><span class="citation-popover-title">self control may not be a limited resource after all</span><span class="citation-popover-snippet">Inzlicht and Schmeichel propose an alternative model that describes self-control as a process involving motivation and attention. “Engagi...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://rcgd.isr.umich.edu/wp-content/uploads/2018/08/Inzlicht__Berkman_in_press.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rcgd.isr.umich.edu">[RCGD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rcgd.isr.umich.edu</span><span class="citation-popover-title">Inzlicht Berkman in press</span><span class="citation-popover-snippet">Schmeichel, et al., 2014), self-control wanes over time not because people have no energy but because people experience a shift in...Rea...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_ego_depletion_debate_45c31f_motivation_attention_9033b5-Illustration-2-dark.svg" | relative_url }}" alt="Attention Shift illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_ego_depletion_debate_45c31f_motivation_attention_9033b5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_ego_depletion_debate_45c31f_motivation_attention_9033b5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Practical Cue Changes for High-Risk Transitions
@@ -376,274 +376,274 @@ The objective is not to generate more effort but to make the desired goal visibl
 
 ## What the Mechanism Explains—and What It Does Not
 
-The motivation-and-attention account has become influential because it offers a more detailed explanation than a simple resource metaphor. It explains why incentives matter, why rewards can feel unusually attractive after strain, and why environmental cues become so important during vulnerable moments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26168503/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med What Is Ego Depletion?</span><span class="citation-popover-snippet">Toward a Mechanistic Revision of...by M Inzlicht · 2012 · Cited by 1572 — This study proposes a process model of depletion, suggesting t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26168503/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed At the same time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med What Is Ego Depletion?</span><span class="citation-popover-snippet">Toward a Mechanistic Revision of...by M Inzlicht · 2012 · Cited by 1572 — This study proposes a process model of depletion, suggesting t...</span></span></span>, it does not solve every question in the ego depletion debate. Researchers continue to discuss how large these effects are, when they occur, and how they interact with fatigue, habits, emotions, and beliefs. Some findings support shifting-priority explanations, while other results remain mixed or difficult to replicate consistently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://online.ucpress.edu/collabra/article/11/1/128616/205875/Self-Control-Following-Prior-Exertion-An-Empirical" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: online.ucpress.edu">[University of California Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">online.ucpress.edu</span><span class="citation-popover-snippet">University of California PressSelf-Control Following Prior Exertion: An Empirical Test of the...Jan 30, 2025 — Instead, it has been argu...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8182659/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Aftereffects of self-control: The reward responsivity hypothesisby NJ Kelley · 2019 · Cited by 57 — Self-control exertion is aversive...</span></span></span>
+The motivation-and-attention account has become influential because it offers a more detailed explanation than a simple resource metaphor. It explains why incentives matter, why rewards can feel unusually attractive after strain, and why environmental cues become so important during vulnerable moments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26168503/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med What Is Ego Depletion?</span><span class="citation-popover-snippet">Toward a Mechanistic Revision of...by M Inzlicht · 2012 · Cited by 1572 — This study proposes a process model of depletion, suggesting t...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26168503/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed At the same time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med What Is Ego Depletion?</span><span class="citation-popover-snippet">Toward a Mechanistic Revision of...by M Inzlicht · 2012 · Cited by 1572 — This study proposes a process model of depletion, suggesting t...</span></span></span>, it does not solve every question in the ego depletion debate. Researchers continue to discuss how large these effects are, when they occur, and how they interact with fatigue, habits, emotions, and beliefs. Some findings support shifting-priority explanations, while other results remain mixed or difficult to replicate consistently.<span class="citation-chip-wrap"><a class="citation-chip" href="https://online.ucpress.edu/collabra/article/11/1/128616/205875/Self-Control-Following-Prior-Exertion-An-Empirical" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: online.ucpress.edu">[University of California Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">online.ucpress.edu</span><span class="citation-popover-snippet">University of California PressSelf-Control Following Prior Exertion: An Empirical Test of the...Jan 30, 2025 — Instead, it has been argu...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8182659/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Aftereffects of self-control: The reward responsivity hypothesisby NJ Kelley · 2019 · Cited by 57 — Self-control exertion is aversive...</span></span></span>
 
-For everyday self-improvement, however, the core insight remains valuable: after effortful control, the biggest threat may not be a depleted reservoir of willpower. It may be a temporary change in what the mind notices and what it wants. When rewards become more salient and goals become less prominent, temptation feels louder—not necessarily because control has vanished, but because attention and motivation have moved elsewhere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26168503/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med What Is Ego Depletion?</span><span class="citation-popover-snippet">Toward a Mechanistic Revision of...by M Inzlicht · 2012 · Cited by 1572 — This study proposes a process model of depletion, suggesting t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/1745691612454134" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals What Is Ego Depletion?</span><span class="citation-popover-snippet">Toward a Mechanistic Revision of...by M Inzlicht · 2012 · Cited by 1571 — This study proposes a process model of depletion, suggesting t...</span></span></span>
+For everyday self-improvement, however, the core insight remains valuable: after effortful control, the biggest threat may not be a depleted reservoir of willpower. It may be a temporary change in what the mind notices and what it wants. When rewards become more salient and goals become less prominent, temptation feels louder—not necessarily because control has vanished, but because attention and motivation have moved elsewhere.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26168503/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med What Is Ego Depletion?</span><span class="citation-popover-snippet">Toward a Mechanistic Revision of...by M Inzlicht · 2012 · Cited by 1572 — This study proposes a process model of depletion, suggesting t...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/1745691612454134" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals What Is Ego Depletion?</span><span class="citation-popover-snippet">Toward a Mechanistic Revision of...by M Inzlicht · 2012 · Cited by 1571 — This study proposes a process model of depletion, suggesting t...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Temptation Gets Louder After Effort. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Temptation Gets Louder After Effort. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Willpower+Instinct+by+Kelly+McGonigal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Willpower Instinct on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4x1aDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Willpower Instinct" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Willpower+Instinct+by+Kelly+McGonigal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Willpower Instinct">The Willpower Instinct</a>
-        </h4>
-        <p class="fr-book-author">By Kelly McGonigal</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Willpower+Instinct+by+Kelly+McGonigal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Willpower Instinct on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4x1aDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Willpower Instinct" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Willpower+Instinct+by+Kelly+McGonigal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Willpower Instinct">The Willpower Instinct</a>
+</h4>
+<p class="fr-book-author">By Kelly McGonigal</p>
         
-        <p class="fr-book-desc">Explores why temptations become more compelling in certain states.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Willpower+Instinct+by+Kelly+McGonigal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores why temptations become more compelling in certain states.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Willpower+Instinct+by+Kelly+McGonigal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Indistractable on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_KjNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Indistractable" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Indistractable">Indistractable</a>
-        </h4>
-        <p class="fr-book-author">By Nir Eyal</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Indistractable on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_KjNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Indistractable" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Indistractable">Indistractable</a>
+</h4>
+<p class="fr-book-author">By Nir Eyal</p>
         
-        <p class="fr-book-desc">Addresses attention shifts and reward-seeking behavior.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses attention shifts and reward-seeking behavior.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Shows how cues and environments shape attention and action.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Shows how cues and environments shape attention and action.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B_L8CAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
-        </h4>
-        <p class="fr-book-author">By Cal Newport</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B_L8CAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
+</h4>
+<p class="fr-book-author">By Cal Newport</p>
         
-        <p class="fr-book-desc">Focuses on protecting attention from competing rewards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on protecting attention from competing rewards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Willpower+Instinct&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Willpower Instinct</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Indistractable&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Indistractable</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Willpower+Instinct&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Willpower Instinct</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Indistractable&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Indistractable</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mesh Pen Pot Pencil Holder Desk Stationery Organiser Office Home Storage"><img src="{{ '/assets/images/marketplace-covers/60a4dbd611649d82c998.jpg' | relative_url }}" alt="Listing image for Mesh Pen Pot Pencil Holder Desk Stationery Organiser Office Home Storage" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Mesh Pen Pot Pencil Holder Desk Stationery Organiser Office Home Storage</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mesh Pen Pot Pencil Holder Desk Stationery Organiser Office Home Storage"><img src="{{ '/assets/images/marketplace-covers/60a4dbd611649d82c998.jpg' | relative_url }}" alt="Listing image for Mesh Pen Pot Pencil Holder Desk Stationery Organiser Office Home Storage" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Mesh Pen Pot Pencil Holder Desk Stationery Organiser Office Home Storage</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver"><img src="{{ '/assets/images/marketplace-covers/8ef2fda3ba43e1e28efb.jpg' | relative_url }}" alt="Listing image for 4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver"><img src="{{ '/assets/images/marketplace-covers/8ef2fda3ba43e1e28efb.jpg' | relative_url }}" alt="Listing image for 4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage For Office"><img src="{{ '/assets/images/marketplace-covers/4099560f2fd851fe1c13.jpg' | relative_url }}" alt="Listing image for Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage For Office" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage For Office</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage For Office"><img src="{{ '/assets/images/marketplace-covers/4099560f2fd851fe1c13.jpg' | relative_url }}" alt="Listing image for Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage For Office" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage For Office</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Black Samurai Warrior Pen Holder – Desk Organizer Statue, Unique Office Decor,"><img src="{{ '/assets/images/marketplace-covers/7dfaf475c242d68e5cc4.jpg' | relative_url }}" alt="Listing image for Black Samurai Warrior Pen Holder – Desk Organizer Statue, Unique Office Decor," loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Black Samurai Warrior Pen Holder – Desk Organizer Statue, Unique Office Decor,</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Black Samurai Warrior Pen Holder – Desk Organizer Statue, Unique Office Decor,"><img src="{{ '/assets/images/marketplace-covers/7dfaf475c242d68e5cc4.jpg' | relative_url }}" alt="Listing image for Black Samurai Warrior Pen Holder – Desk Organizer Statue, Unique Office Decor," loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Black Samurai Warrior Pen Holder – Desk Organizer Statue, Unique Office Decor,</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=attention-shift-why-temptation-gets-louder-after-effort-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -659,7 +659,7 @@ For everyday self-improvement, however, the core insight remains valuable: after
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -679,7 +679,7 @@ For everyday self-improvement, however, the core insight remains valuable: after
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -711,7 +711,7 @@ For everyday self-improvement, however, the core insight remains valuable: after
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -741,7 +741,7 @@ For everyday self-improvement, however, the core insight remains valuable: after
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -799,161 +799,161 @@ For everyday self-improvement, however, the core insight remains valuable: after
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
    Title: Research Gate(Inzlicht & Schmeichel)  
-   Link: <a href="https://www.researchgate.net/figure/Inzlicht-Schmeichel-The-process-model-of-self-control-fatigue-Self-control-failure_fig2_259438432" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Inzlicht-Schmeichel-The-process-model-of-self-control-fatigue-Self-control-failure_fig2_259438432</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The process model of self-control...Self-control failure tends to occur after initial self-control exertions because of shifts in motiva...</p></details>
+   Link:<a href="https://www.researchgate.net/figure/Inzlicht-Schmeichel-The-process-model-of-self-control-fatigue-Self-control-failure_fig2_259438432" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Inzlicht-Schmeichel-The-process-model-of-self-control-fatigue-Self-control-failure_fig2_259438432</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The process model of self-control...Self-control failure tends to occur after initial self-control exertions because of shifts in motiva...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: rcgd.isr.umich.edu  
    Title: Inzlicht Berkman in press  
-   Link: <a href="https://rcgd.isr.umich.edu/wp-content/uploads/2018/08/Inzlicht__Berkman_in_press.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rcgd.isr.umich.edu/wp-content/uploads/2018/08/Inzlicht__Berkman_in_press.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Schmeichel, et al., 2014), self-control wanes over time not because people have no energy but because people experience a shift in...Rea...</p></details>
+   Link:<a href="https://rcgd.isr.umich.edu/wp-content/uploads/2018/08/Inzlicht__Berkman_in_press.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rcgd.isr.umich.edu/wp-content/uploads/2018/08/Inzlicht__Berkman_in_press.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Schmeichel, et al., 2014), self-control wanes over time not because people have no energy but because people experience a shift in...Rea...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8182659/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8182659/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aftereffects of self-control: The reward responsivity hypothesisby NJ Kelley · 2019 · Cited by 57 — Self-control exertion is aversive...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8182659/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8182659/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aftereffects of self-control: The reward responsivity hypothesisby NJ Kelley · 2019 · Cited by 57 — Self-control exertion is aversive...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.3758/s13415-019-00694-3" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13415-019-00694-3</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>After-effects of self-control: The reward responsivity hypothesisby NJ Kelley · 2019 · Cited by 57 — In the current paper, we rev...</p></details>
+   Link:<a href="https://link.springer.com/article/10.3758/s13415-019-00694-3" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.3758/s13415-019-00694-3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>After-effects of self-control: The reward responsivity hypothesisby NJ Kelley · 2019 · Cited by 57 — In the current paper, we rev...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4179327/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4179327/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Inzlicht and Schmeichel (2012) proposed a process model of ego...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4179327/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4179327/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inzlicht and Schmeichel (2012) proposed a process model of ego...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8486128/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8486128/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>increase local knowledge—Exploring the hidden...by CD Wiesner · 2021 · Cited by 6 — The reward responsivity hypothesis proposes that peo...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8486128/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8486128/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>increase local knowledge—Exploring the hidden...by CD Wiesner · 2021 · Cited by 6 — The reward responsivity hypothesis proposes that peo...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: researchgate.net  
    Title: (Inzlicht & Schmeichel)  
-   Link: <a href="https://www.researchgate.net/figure/Inzlicht-Schmeichel-The-process-model-of-self-control-fatigue-Self-control-failure_fig1_259200658" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Inzlicht-Schmeichel-The-process-model-of-self-control-fatigue-Self-control-failure_fig1_259200658</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The process model of self-control...Instead of self-control failure stemming from depletion of finite energetic resources, the process m...</p></details>
+   Link:<a href="https://www.researchgate.net/figure/Inzlicht-Schmeichel-The-process-model-of-self-control-fatigue-Self-control-failure_fig1_259200658" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Inzlicht-Schmeichel-The-process-model-of-self-control-fatigue-Self-control-failure_fig1_259200658</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The process model of self-control...Instead of self-control failure stemming from depletion of finite energetic resources, the process m...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
    Title: 386084974 Harnessing Opportunity Cost Salience for Effortless Self Control  
-   Link: <a href="https://www.researchgate.net/publication/386084974_Harnessing_Opportunity_Cost_Salience_for_Effortless_Self-Control" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/386084974_Harnessing_Opportunity_Cost_Salience_for_Effortless_Self-Control</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Harnessing Opportunity Cost Salience for Effortless Self-...23 Nov 2024 — Drawing on behavioral economics literature, we investigate opp...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/386084974_Harnessing_Opportunity_Cost_Salience_for_Effortless_Self-Control" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/386084974_Harnessing_Opportunity_Cost_Salience_for_Effortless_Self-Control</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harnessing Opportunity Cost Salience for Effortless Self-...23 Nov 2024 — Drawing on behavioral economics literature, we investigate opp...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med What Is Ego Depletion?  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26168503/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26168503/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Toward a Mechanistic Revision of...by M Inzlicht · 2012 · Cited by 1572 — This study proposes a process model of depletion, suggesting t...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26168503/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26168503/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Toward a Mechanistic Revision of...by M Inzlicht · 2012 · Cited by 1572 — This study proposes a process model of depletion, suggesting t...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals What Is Ego Depletion?  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/1745691612454134" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/1745691612454134</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Toward a Mechanistic Revision of...by M Inzlicht · 2012 · Cited by 1571 — This study proposes a process model of depletion, suggesting t...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.1177/1745691612454134" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/1745691612454134</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Toward a Mechanistic Revision of...by M Inzlicht · 2012 · Cited by 1571 — This study proposes a process model of depletion, suggesting t...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/24439530/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24439530/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why self-control seems (but may not be) limitedby M Inzlicht · 2014 · Cited by 1272 — Self-control refers to the mental processes t...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/24439530/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24439530/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why self-control seems (but may not be) limitedby M Inzlicht · 2014 · Cited by 1272 — Self-control refers to the mental processes t...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: michael-inzlicht.squarespace.com  
-   Link: <a href="https://michael-inzlicht.squarespace.com/s/attentional-and-motivational-mechanisms-of-self-control.pdf" target="_blank" rel="noopener noreferrer nofollow">https://michael-inzlicht.squarespace.com/s/attentional-and-motivational-mechanisms-of-self-control.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Michael InzlichtAttentional and Motivational Mechanisms of Self-ControlThis explanation for the refractory period has been called the pro...</p></details>
+   Link:<a href="https://michael-inzlicht.squarespace.com/s/attentional-and-motivational-mechanisms-of-self-control.pdf" target="_blank" rel="noopener noreferrer nofollow">https://michael-inzlicht.squarespace.com/s/attentional-and-motivational-mechanisms-of-self-control.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Michael InzlichtAttentional and Motivational Mechanisms of Self-ControlThis explanation for the refractory period has been called the pro...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: michaelinzlicht.com  
    Title: what is ego depletion  
-   Link: <a href="https://michaelinzlicht.com/s/what-is-ego-depletion.pdf" target="_blank" rel="noopener noreferrer nofollow">https://michaelinzlicht.com/s/what-is-ego-depletion.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-control exertion at Time 1 leads to self-control failure at. Time 2 by inducing shifts in motivation away from self-...Read more...</p></details>
+   Link:<a href="https://michaelinzlicht.com/s/what-is-ego-depletion.pdf" target="_blank" rel="noopener noreferrer nofollow">https://michaelinzlicht.com/s/what-is-ego-depletion.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-control exertion at Time 1 leads to self-control failure at. Time 2 by inducing shifts in motivation away from self-...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: psychologicalscience.org  
    Title: self control may not be a limited resource after all  
-   Link: <a href="https://www.psychologicalscience.org/news/releases/self-control-may-not-be-a-limited-resource-after-all.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/news/releases/self-control-may-not-be-a-limited-resource-after-all.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inzlicht and Schmeichel propose an alternative model that describes self-control as a process involving motivation and attention. “Engagi...</p></details>
+   Link:<a href="https://www.psychologicalscience.org/news/releases/self-control-may-not-be-a-limited-resource-after-all.html" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/news/releases/self-control-may-not-be-a-limited-resource-after-all.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inzlicht and Schmeichel propose an alternative model that describes self-control as a process involving motivation and attention. “Engagi...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01112/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01112/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Trait approach motivation moderates the aftereffects of self-...by A Crowell · 2014 · Cited by 30 — Based on a process model proposing t...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01112/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.01112/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trait approach motivation moderates the aftereffects of self-...by A Crowell · 2014 · Cited by 30 — Based on a process model proposing t...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/0146167218802836" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0146167218802836</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsAftereffects of Self-Control on Positive Emotional Reactivity7 Nov 2018 — The process model proposes that exercising self-co...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/0146167218802836" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0146167218802836</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsAftereffects of Self-Control on Positive Emotional Reactivity7 Nov 2018 — The process model proposes that exercising self-co...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: online.ucpress.edu  
-   Link: <a href="https://online.ucpress.edu/collabra/article/11/1/128616/205875/Self-Control-Following-Prior-Exertion-An-Empirical" target="_blank" rel="noopener noreferrer nofollow">https://online.ucpress.edu/collabra/article/11/1/128616/205875/Self-Control-Following-Prior-Exertion-An-Empirical</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of California PressSelf-Control Following Prior Exertion: An Empirical Test of the...Jan 30, 2025 — Instead, it has been argu...</p></details>
+   Link:<a href="https://online.ucpress.edu/collabra/article/11/1/128616/205875/Self-Control-Following-Prior-Exertion-An-Empirical" target="_blank" rel="noopener noreferrer nofollow">https://online.ucpress.edu/collabra/article/11/1/128616/205875/Self-Control-Following-Prior-Exertion-An-Empirical</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of California PressSelf-Control Following Prior Exertion: An Empirical Test of the...Jan 30, 2025 — Instead, it has been argu...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2019.00079/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2019.00079/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An Integrative Model of Effortful Controlby N André · 2019 · Cited by 107 — This article presents an integrative model of effortful contr...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2019.00079/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/systems-neuroscience/articles/10.3389/fnsys.2019.00079/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An Integrative Model of Effortful Controlby N André · 2019 · Cited by 107 — This article presents an integrative model of effortful contr...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: worldsupporter.org  
-   Link: <a href="https://www.worldsupporter.org/en/summary/what-ego-depletion-toward-mechanistic-revision-resource-model-self-control-inzlicht" target="_blank" rel="noopener noreferrer nofollow">https://www.worldsupporter.org/en/summary/what-ego-depletion-toward-mechanistic-revision-resource-model-self-control-inzlicht</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>self-control - Inzlicht &amp; Schmeichel - 2012 - Article.Read more...</p></details>
+   Link:<a href="https://www.worldsupporter.org/en/summary/what-ego-depletion-toward-mechanistic-revision-resource-model-self-control-inzlicht" target="_blank" rel="noopener noreferrer nofollow">https://www.worldsupporter.org/en/summary/what-ego-depletion-toward-mechanistic-revision-resource-model-self-control-inzlicht</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>self-control - Inzlicht &amp; Schmeichel - 2012 - Article.Read more...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: d-nb.info  
-   Link: <a href="https://d-nb.info/1256674230/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1256674230/34</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the hidden benefits of self-control failureby CD Wiesner · Cited by 5 — In both cases, we expect that exerting effortful self-c...</p></details>
+   Link:<a href="https://d-nb.info/1256674230/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1256674230/34</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring the hidden benefits of self-control failureby CD Wiesner · Cited by 5 — In both cases, we expect that exerting effortful self-c...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: madoc.bib.uni-mannheim.de  
-   Link: <a href="https://madoc.bib.uni-mannheim.de/62513/1/J%20Organ%20Behavior%20-%202022%20-%20Wehrt%20-%20More%20than%20a%20muscle%20How%20self%E2%80%90control%20motivation%20depletion%20and%20self%E2%80%90regulation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://madoc.bib.uni-mannheim.de/62513/1/J%20Organ%20Behavior%20-%202022%20-%20Wehrt%20-%20More%20than%20a%20muscle%20How%20self%E2%80%90control%20motivation%20depletion%20and%20self%E2%80%90regulation.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>than a muscle: How self‐control motivation, depletion...by W Wehrt · 2022 · Cited by 44 — Perceiving oneself as depleted has been interp...</p></details>
+   Link:<a href="https://madoc.bib.uni-mannheim.de/62513/1/J%20Organ%20Behavior%20-%202022%20-%20Wehrt%20-%20More%20than%20a%20muscle%20How%20self%E2%80%90control%20motivation%20depletion%20and%20self%E2%80%90regulation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://madoc.bib.uni-mannheim.de/62513/1/J%20Organ%20Behavior%20-%202022%20-%20Wehrt%20-%20More%20than%20a%20muscle%20How%20self%E2%80%90control%20motivation%20depletion%20and%20self%E2%80%90regulation.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>than a muscle: How self‐control motivation, depletion...by W Wehrt · 2022 · Cited by 44 — Perceiving oneself as depleted has been interp...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: selfdeterminationtheory.org  
-   Link: <a href="https://selfdeterminationtheory.org/wp-content/uploads/2021/01/2020_LudwigBrownBrewer_SelfRegulation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2021/01/2020_LudwigBrownBrewer_SelfRegulation.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Regulation Without Force: Can Awareness Leverage...by VU Ludwig · 2020 · Cited by 127 — Attempting to overcome unwanted habit loops...</p></details>
+   Link:<a href="https://selfdeterminationtheory.org/wp-content/uploads/2021/01/2020_LudwigBrownBrewer_SelfRegulation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2021/01/2020_LudwigBrownBrewer_SelfRegulation.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Regulation Without Force: Can Awareness Leverage...by VU Ludwig · 2020 · Cited by 127 — Attempting to overcome unwanted habit loops...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: journals.sagepub.com  
    Title: In this article, we provide a framework to better  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/0963721414534256" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/0963721414534256</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Mechanisms of Self-Control Improvementby M Inzlicht · 2014 · Cited by 240 — Good self-control is central to success across life domai...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.1177/0963721414534256" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/0963721414534256</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Mechanisms of Self-Control Improvementby M Inzlicht · 2014 · Cited by 240 — Good self-control is central to success across life domai...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: macau.uni-kiel.de  
-   Link: <a href="https://macau.uni-kiel.de/receive/macau_mods_00002669" target="_blank" rel="noopener noreferrer nofollow">https://macau.uni-kiel.de/receive/macau_mods_00002669</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by C Wiesner · 2021 · Cited by 6 — The results showed that participants who exerted a high amount of effortful self-control during t...</p></details>
+   Link:<a href="https://macau.uni-kiel.de/receive/macau_mods_00002669" target="_blank" rel="noopener noreferrer nofollow">https://macau.uni-kiel.de/receive/macau_mods_00002669</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by C Wiesner · 2021 · Cited by 6 — The results showed that participants who exerted a high amount of effortful self-control during t...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: publications.rwth-aachen.de  
-   Link: <a href="https://publications.rwth-aachen.de/record/63200/files/3368.pdf?version=1" target="_blank" rel="noopener noreferrer nofollow">https://publications.rwth-aachen.de/record/63200/files/3368.pdf?version=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Interestingly, seemingly easy or well-practiced tasks that still require a...</p></details>
+   Link:<a href="https://publications.rwth-aachen.de/record/63200/files/3368.pdf?version=1" target="_blank" rel="noopener noreferrer nofollow">https://publications.rwth-aachen.de/record/63200/files/3368.pdf?version=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Interestingly, seemingly easy or well-practiced tasks that still require a...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: bpb-us-e1.wpmucdn.com  
    Title: Inzlicht, Berkman, & Elkins-Brown, in press2  
-   Link: <a href="https://bpb-us-e1.wpmucdn.com/blogs.uoregon.edu/dist/1/172/files/2015/06/Inzlicht-Berkman-Elkins-Brown-in-press2-1mc0a6u.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bpb-us-e1.wpmucdn.com/blogs.uoregon.edu/dist/1/172/files/2015/06/Inzlicht-Berkman-Elkins-Brown-in-press2-1mc0a6u.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CDNThis is then followed by a discussion of a more mechanistically-informed alternative to the resource account, called the process model...</p></details>
+   Link:<a href="https://bpb-us-e1.wpmucdn.com/blogs.uoregon.edu/dist/1/172/files/2015/06/Inzlicht-Berkman-Elkins-Brown-in-press2-1mc0a6u.pdf" target="_blank" rel="noopener noreferrer nofollow">https://bpb-us-e1.wpmucdn.com/blogs.uoregon.edu/dist/1/172/files/2015/06/Inzlicht-Berkman-Elkins-Brown-in-press2-1mc0a6u.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CDNThis is then followed by a discussion of a more mechanistically-informed alternative to the resource account, called the process model...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/02699931.2023.2209711" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/02699931.2023.2209711</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roles of recalled parenting experiences and effortful...by J Tammilehto · 2023 · Cited by 19 — Research suggests that both childhood exp...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/02699931.2023.2209711" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/02699931.2023.2209711</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roles of recalled parenting experiences and effortful...by J Tammilehto · 2023 · Cited by 19 — Research suggests that both childhood exp...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: The Science of Ego Depletion: Is Your Willpower Running Out?  
-   Link: <a href="https://www.youtube.com/watch?v=LIERO2mHho0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LIERO2mHho0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self Control: The Top 10 Ways to Resist Impulses, Control Your Choices and be More Mindful...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LIERO2mHho0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LIERO2mHho0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self Control: The Top 10 Ways to Resist Impulses, Control Your Choices and be More Mindful...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: Ego Depletion: Defined  
-   Link: <a href="https://www.youtube.com/watch?v=NJeZkh87QNE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NJeZkh87QNE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The video #298 Michael Inzlicht: Self-Control, Gratification Delay, Ego-Depletion, And The Replication Crisis features the primary archit...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NJeZkh87QNE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NJeZkh87QNE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The video #298 Michael Inzlicht: Self-Control, Gratification Delay, Ego-Depletion, And The Replication Crisis features the primary archit...</p></details>

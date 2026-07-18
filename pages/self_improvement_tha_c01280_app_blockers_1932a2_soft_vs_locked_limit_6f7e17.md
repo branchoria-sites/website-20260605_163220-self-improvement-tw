@@ -277,7 +277,7 @@ image: /assets/images/self_improvement_tha_c01280_app_blockers_1932a2_soft_vs_lo
 Most people start with soft app [limits]({{ 'limits/' | relative_url }}) and only consider locked commitment tools after repeated failures. That [progression]({{ 'progression/' | relative_url }}) makes sense. Soft limits are easy to adopt, preserve flexibility and work well when the problem is occasional mindless checking rather than a deeply ingrained habit. Locked commitment tools, by contrast, deliberately remove the option to override a restriction, at least for a defined period. The key question is not which approach is tougher. It is which approach changes behaviour without creating so much resistance that the system collapses.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2_soft_vs_locked_limit_6f7e17-Illustration-1-dark.svg" | relative_url }}" alt="Soft vs Locked illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2_soft_vs_locked_limit_6f7e17-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2_soft_vs_locked_limit_6f7e17-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research on digital self-control tools suggests that users consistently prefer [support]({{ 'support/' | relative_url }}) that is strong enough to change behaviour but not so coercive that it feels hostile. The most effective solution is often neither complete freedom nor total lockdown, but a level of friction matched to the specific behaviour being changed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1071581922000957" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The Goldilocks level of support: Using user reviews, ratings...by U Lyngs · 2022 · Cited by 55 — We analyse ratings &amp; revie...</span></span></span>
+Research on digital self-control tools suggests that users consistently prefer [support]({{ 'support/' | relative_url }}) that is strong enough to change behaviour but not so coercive that it feels hostile. The most effective solution is often neither complete freedom nor total lockdown, but a level of friction matched to the specific behaviour being changed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1071581922000957" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The Goldilocks level of support: Using user reviews, ratings...by U Lyngs · 2022 · Cited by 55 — We analyse ratings &amp; revie...</span></span></span>
 
 ## What soft limits are good for
 
@@ -296,7 +296,7 @@ Soft limits work particularly well when:
 
 </div>
 
-Evidence for this approach comes from self-nudging research. The app *one sec*, for example, inserts a brief pause and reflection prompt before selected apps open. In a field study, users opened targeted apps 57% less often after six weeks. Importantly, the intervention relied on delay and reflection rather than complete prohibition. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/368573395_Directing_smartphone_use_through_the_self-nudge_app_one_sec" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Directing smartphone use through the self-nudge app one...In sum, one sec decreased users&#x27; actual opening of target apps by...</span></span></span>
+Evidence for this approach comes from self-nudging research. The app *one sec*, for example, inserts a brief pause and reflection prompt before selected apps open. In a field study, users opened targeted apps 57% less often after six weeks. Importantly, the intervention relied on delay and reflection rather than complete prohibition.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/368573395_Directing_smartphone_use_through_the_self-nudge_app_one_sec" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Directing smartphone use through the self-nudge app one...In sum, one sec decreased users&#x27; actual opening of target apps by...</span></span></span>
 
 This illustrates a broader principle: many unwanted app visits are not deliberate decisions. They are reflexes. A small interruption can be enough to break the automatic sequence.
 
@@ -313,7 +313,7 @@ This is especially common when:
 * The user is stressed, tired or procrastinating.
 * The limit requires only a single tap to dismiss.
 
-Research examining hundreds of digital self-control tools found that users repeatedly described wanting support that was “just enough” to change behaviour. Complaints frequently arose when tools were either too easy to circumvent or so restrictive that they felt oppressive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1071581922000957" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The Goldilocks level of support: Using user reviews, ratings...by U Lyngs · 2022 · Cited by 55 — We analyse ratings &amp; revie...</span></span></span>
+Research examining hundreds of digital self-control tools found that users repeatedly described wanting support that was “just enough” to change behaviour. Complaints frequently arose when tools were either too easy to circumvent or so restrictive that they felt oppressive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1071581922000957" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The Goldilocks level of support: Using user reviews, ratings...by U Lyngs · 2022 · Cited by 55 — We analyse ratings &amp; revie...</span></span></span>
 
 The weakness of soft limits is not merely that they can be bypassed. It is that repeated bypassing trains a new habit: overriding the intervention itself. Once that happens, the friction disappears psychologically even if it remains technically present.
 
@@ -340,7 +340,7 @@ In digital environments, this can mean:
 
 </div>
 
-Reviews of digital self-control interventions consistently identify blocking and removal features as among the most common and potentially powerful approaches for reducing unwanted use. These interventions modify the [environment]({{ 'environment/' | relative_url }}) directly rather than relying primarily on awareness or motivation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dl.acm.org/doi/full/10.1145/3571810" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dl.acm.org">[ACM Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dl.acm.org</span><span class="citation-popover-snippet">ACM Digital LibraryAchieving Digital Wellbeing Through Digital Self-control...by AM Roffarello · 2023 · Cited by 164 — The most common i...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/368573395_Directing_smartphone_use_through_the_self-nudge_app_one_sec" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Directing smartphone use through the self-nudge app one...In sum, one sec decreased users&#x27; actual opening of target apps by...</span></span></span>
+Reviews of digital self-control interventions consistently identify blocking and removal features as among the most common and potentially powerful approaches for reducing unwanted use. These interventions modify the [environment]({{ 'environment/' | relative_url }}) directly rather than relying primarily on awareness or motivation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dl.acm.org/doi/full/10.1145/3571810" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dl.acm.org">[ACM Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dl.acm.org</span><span class="citation-popover-snippet">ACM Digital LibraryAchieving Digital Wellbeing Through Digital Self-control...by AM Roffarello · 2023 · Cited by 164 — The most common i...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/368573395_Directing_smartphone_use_through_the_self-nudge_app_one_sec" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Directing smartphone use through the self-nudge app one...In sum, one sec decreased users&#x27; actual opening of target apps by...</span></span></span>
 
 The advantage is obvious: a block that cannot be dismissed cannot become a reflexively ignored warning.
 
@@ -353,7 +353,7 @@ A blocker that is too restrictive can create a different failure mode. Instead o
 
 This is why the strongest possible restriction is rarely the optimal one. A full-day lockout may sound impressive, but if it survives only three days before being removed, it has achieved less than a moderate intervention that lasts six months.
 
-Researchers studying digital self-control tools describe this challenge as a “Goldilocks” problem. Users tend to favour interventions that feel proportionate to their goals and circumstances. Excessive restriction can undermine the sense of autonomy that makes long-term behaviour change sustainable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1071581922000957" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The Goldilocks level of support: Using user reviews, ratings...by U Lyngs · 2022 · Cited by 55 — We analyse ratings &amp; revie...</span></span></span>
+Researchers studying digital self-control tools describe this challenge as a “Goldilocks” problem. Users tend to favour interventions that feel proportionate to their goals and circumstances. Excessive restriction can undermine the sense of autonomy that makes long-term behaviour change sustainable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1071581922000957" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The Goldilocks level of support: Using user reviews, ratings...by U Lyngs · 2022 · Cited by 55 — We analyse ratings &amp; revie...</span></span></span>
 
 The practical lesson is that commitment strength should be matched to the severity of the problem. A person who occasionally checks social media during work may need only a delay. Someone repeatedly losing entire afternoons to the same platforms may benefit from a temporary lock that removes the option to negotiate.
 
@@ -398,199 +398,199 @@ SituationBetter starting pointOccasional mindless checkingSoft limitsBuilding aw
 
 The most successful digital friction systems often evolve rather than remain fixed. People begin with reminders and delays, discover where those interventions fail, and then selectively introduce stronger commitment where necessary.
 
-The objective is not maximum restriction. It is dependable behaviour change. Soft limits provide a nudge. Locked commitment tools provide a boundary. The most effective choice is the one that reliably protects the activity that matters while remaining acceptable enough to keep using. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1071581922000957" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The Goldilocks level of support: Using user reviews, ratings...by U Lyngs · 2022 · Cited by 55 — We analyse ratings &amp; revie...</span></span></span> 2pmc.ncbi.nlm.nih.gov
+The objective is not maximum restriction. It is dependable behaviour change. Soft limits provide a nudge. Locked commitment tools provide a boundary. The most effective choice is the one that reliably protects the activity that matters while remaining acceptable enough to keep using.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1071581922000957" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The Goldilocks level of support: Using user reviews, ratings...by U Lyngs · 2022 · Cited by 55 — We analyse ratings &amp; revie...</span></span></span> 2pmc.ncbi.nlm.nih.gov
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6oidFm4d3H4" title="Freedom App Review (Save 5 Hours A Week)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6oidFm4d3H4" target="_blank" rel="noopener noreferrer">Freedom App Review (Save 5 Hours A Week)</a></p><p class="youtube-embed-meta">Channel: Loïs Talagrand &middot; Views: 9.2K &middot; Uploaded: September 2023 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6oidFm4d3H4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6oidFm4d3H4">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When app limits need more than a nudge. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When app limits need more than a nudge. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Explains friction, environment design and habit systems that relate directly to app limits and digital self-control.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Explains friction, environment design and habit systems that relate directly to app limits and digital self-control.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Indistractable on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_KjNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Indistractable" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Indistractable">Indistractable</a>
-        </h4>
-        <p class="fr-book-author">By Nir Eyal</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Indistractable on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_KjNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Indistractable" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Indistractable">Indistractable</a>
+</h4>
+<p class="fr-book-author">By Nir Eyal</p>
         
-        <p class="fr-book-desc">Focuses on controlling attention and reducing digital distractions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on controlling attention and reducing digital distractions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Stolen+Focus+by+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stolen Focus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GUlUEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Stolen Focus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Stolen+Focus+by+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stolen Focus">Stolen Focus</a>
-        </h4>
-        <p class="fr-book-author">By Johann Hari</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Stolen+Focus+by+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stolen Focus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GUlUEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Stolen Focus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Stolen+Focus+by+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stolen Focus">Stolen Focus</a>
+</h4>
+<p class="fr-book-author">By Johann Hari</p>
         
-        <p class="fr-book-desc">Explores attention erosion and practical responses to distraction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Stolen+Focus+by+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores attention erosion and practical responses to distraction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Stolen+Focus+by+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
-        </h4>
-        <p class="fr-book-author">By Charles Duhigg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
+</h4>
+<p class="fr-book-author">By Charles Duhigg</p>
         
-        <p class="fr-book-desc">Provides habit-loop concepts useful for deciding when stronger restrictions are needed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides habit-loop concepts useful for deciding when stronger restrictions are needed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Indistractable&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Indistractable</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Stolen+Focus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Stolen Focus</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Indistractable&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Indistractable</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Stolen+Focus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Stolen Focus</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lockbox&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-app-limits-need-more-than-a-nudge-phone-lockbox&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lockbox" data-ebay-reference="when-app-limits-need-more-than-a-nudge-phone-lockbox" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for iDiskk Cell Phone Lock Box with Timer,iPhone time Box for Android Sumsung/Google"><img src="https://i.ebayimg.com/images/g/gLoAAeSwUnlpglCS/s-l225.jpg" alt="Listing image for iDiskk Cell Phone Lock Box with Timer,iPhone time Box for Android Sumsung/Google" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lockbox&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-app-limits-need-more-than-a-nudge-phone-lockbox&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lockbox" data-ebay-reference="when-app-limits-need-more-than-a-nudge-phone-lockbox" target="_blank" rel="sponsored noopener noreferrer">iDiskk Cell Phone Lock Box with Timer,iPhone time Box for Android Sumsung/Google</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lockbox&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-app-limits-need-more-than-a-nudge-phone-lockbox&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lockbox" data-ebay-reference="when-app-limits-need-more-than-a-nudge-phone-lockbox" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone lockbox">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone lockbox</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lockbox&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-app-limits-need-more-than-a-nudge-phone-lockbox&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lockbox" data-ebay-reference="when-app-limits-need-more-than-a-nudge-phone-lockbox" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lockbox&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-app-limits-need-more-than-a-nudge-phone-lockbox&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lockbox" data-ebay-reference="when-app-limits-need-more-than-a-nudge-phone-lockbox" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for iDiskk Cell Phone Lock Box with Timer,iPhone time Box for Android Sumsung/Google"><img src="https://i.ebayimg.com/images/g/gLoAAeSwUnlpglCS/s-l225.jpg" alt="Listing image for iDiskk Cell Phone Lock Box with Timer,iPhone time Box for Android Sumsung/Google" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lockbox&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-app-limits-need-more-than-a-nudge-phone-lockbox&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lockbox" data-ebay-reference="when-app-limits-need-more-than-a-nudge-phone-lockbox" target="_blank" rel="sponsored noopener noreferrer">iDiskk Cell Phone Lock Box with Timer,iPhone time Box for Android Sumsung/Google</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lockbox&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-app-limits-need-more-than-a-nudge-phone-lockbox&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lockbox" data-ebay-reference="when-app-limits-need-more-than-a-nudge-phone-lockbox" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone lockbox">Search<span data-ebay-domain-label>eBay.co.uk</span>: phone lockbox</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lockbox&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-app-limits-need-more-than-a-nudge-phone-lockbox&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lockbox" data-ebay-reference="when-app-limits-need-more-than-a-nudge-phone-lockbox" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lockbox&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-app-limits-need-more-than-a-nudge-phone-lockbox&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lockbox" data-ebay-reference="when-app-limits-need-more-than-a-nudge-phone-lockbox" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for iDiskk Phone Lock Box with Timer Phone Jail,Self-control Phone Safe Lock Box for"><img src="https://i.ebayimg.com/images/g/IEEAAeSwPZBp4VaN/s-l225.jpg" alt="Listing image for iDiskk Phone Lock Box with Timer Phone Jail,Self-control Phone Safe Lock Box for" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lockbox&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-app-limits-need-more-than-a-nudge-phone-lockbox&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lockbox" data-ebay-reference="when-app-limits-need-more-than-a-nudge-phone-lockbox" target="_blank" rel="sponsored noopener noreferrer">iDiskk Phone Lock Box with Timer Phone Jail,Self-control Phone Safe Lock Box for</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lockbox&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-app-limits-need-more-than-a-nudge-phone-lockbox&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lockbox" data-ebay-reference="when-app-limits-need-more-than-a-nudge-phone-lockbox" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone lockbox">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone lockbox</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lockbox&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-app-limits-need-more-than-a-nudge-phone-lockbox&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lockbox" data-ebay-reference="when-app-limits-need-more-than-a-nudge-phone-lockbox" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lockbox&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-app-limits-need-more-than-a-nudge-phone-lockbox&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lockbox" data-ebay-reference="when-app-limits-need-more-than-a-nudge-phone-lockbox" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for iDiskk Phone Lock Box with Timer Phone Jail,Self-control Phone Safe Lock Box for"><img src="https://i.ebayimg.com/images/g/IEEAAeSwPZBp4VaN/s-l225.jpg" alt="Listing image for iDiskk Phone Lock Box with Timer Phone Jail,Self-control Phone Safe Lock Box for" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lockbox&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-app-limits-need-more-than-a-nudge-phone-lockbox&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lockbox" data-ebay-reference="when-app-limits-need-more-than-a-nudge-phone-lockbox" target="_blank" rel="sponsored noopener noreferrer">iDiskk Phone Lock Box with Timer Phone Jail,Self-control Phone Safe Lock Box for</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lockbox&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-app-limits-need-more-than-a-nudge-phone-lockbox&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lockbox" data-ebay-reference="when-app-limits-need-more-than-a-nudge-phone-lockbox" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone lockbox">Search<span data-ebay-domain-label>eBay.co.uk</span>: phone lockbox</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lockbox&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-app-limits-need-more-than-a-nudge-phone-lockbox&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lockbox" data-ebay-reference="when-app-limits-need-more-than-a-nudge-phone-lockbox" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lockbox&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-app-limits-need-more-than-a-nudge-phone-lockbox&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lockbox" data-ebay-reference="when-app-limits-need-more-than-a-nudge-phone-lockbox" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Portable Phone Lock Box Transparent Self-Discipline Time Management Box Timer"><img src="https://i.ebayimg.com/images/g/3wIAAeSwrgZqGBeN/s-l225.jpg" alt="Listing image for Portable Phone Lock Box Transparent Self-Discipline Time Management Box Timer" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lockbox&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-app-limits-need-more-than-a-nudge-phone-lockbox&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lockbox" data-ebay-reference="when-app-limits-need-more-than-a-nudge-phone-lockbox" target="_blank" rel="sponsored noopener noreferrer">Portable Phone Lock Box Transparent Self-Discipline Time Management Box Timer</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lockbox&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-app-limits-need-more-than-a-nudge-phone-lockbox&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lockbox" data-ebay-reference="when-app-limits-need-more-than-a-nudge-phone-lockbox" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone lockbox">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone lockbox</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lockbox&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-app-limits-need-more-than-a-nudge-phone-lockbox&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lockbox" data-ebay-reference="when-app-limits-need-more-than-a-nudge-phone-lockbox" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lockbox&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-app-limits-need-more-than-a-nudge-phone-lockbox&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lockbox" data-ebay-reference="when-app-limits-need-more-than-a-nudge-phone-lockbox" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Portable Phone Lock Box Transparent Self-Discipline Time Management Box Timer"><img src="https://i.ebayimg.com/images/g/3wIAAeSwrgZqGBeN/s-l225.jpg" alt="Listing image for Portable Phone Lock Box Transparent Self-Discipline Time Management Box Timer" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lockbox&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-app-limits-need-more-than-a-nudge-phone-lockbox&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lockbox" data-ebay-reference="when-app-limits-need-more-than-a-nudge-phone-lockbox" target="_blank" rel="sponsored noopener noreferrer">Portable Phone Lock Box Transparent Self-Discipline Time Management Box Timer</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lockbox&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-app-limits-need-more-than-a-nudge-phone-lockbox&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lockbox" data-ebay-reference="when-app-limits-need-more-than-a-nudge-phone-lockbox" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone lockbox">Search<span data-ebay-domain-label>eBay.co.uk</span>: phone lockbox</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lockbox&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-app-limits-need-more-than-a-nudge-phone-lockbox&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lockbox" data-ebay-reference="when-app-limits-need-more-than-a-nudge-phone-lockbox" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lockbox&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-app-limits-need-more-than-a-nudge-phone-lockbox&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lockbox" data-ebay-reference="when-app-limits-need-more-than-a-nudge-phone-lockbox" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phone Lock Box With Phone Jail, Self-control Universal Phone Safe Lock Box"><img src="https://i.ebayimg.com/images/g/jtAAAeSwcYFoZNDi/s-l225.jpg" alt="Listing image for Phone Lock Box With Phone Jail, Self-control Universal Phone Safe Lock Box" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lockbox&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-app-limits-need-more-than-a-nudge-phone-lockbox&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lockbox" data-ebay-reference="when-app-limits-need-more-than-a-nudge-phone-lockbox" target="_blank" rel="sponsored noopener noreferrer">Phone Lock Box With Phone Jail, Self-control Universal Phone Safe Lock Box</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lockbox&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-app-limits-need-more-than-a-nudge-phone-lockbox&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lockbox" data-ebay-reference="when-app-limits-need-more-than-a-nudge-phone-lockbox" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone lockbox">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone lockbox</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lockbox&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-app-limits-need-more-than-a-nudge-phone-lockbox&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lockbox" data-ebay-reference="when-app-limits-need-more-than-a-nudge-phone-lockbox" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lockbox&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-app-limits-need-more-than-a-nudge-phone-lockbox&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lockbox" data-ebay-reference="when-app-limits-need-more-than-a-nudge-phone-lockbox" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lockbox&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-app-limits-need-more-than-a-nudge-phone-lockbox&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lockbox" data-ebay-reference="when-app-limits-need-more-than-a-nudge-phone-lockbox" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Phone Lock Box With Phone Jail, Self-control Universal Phone Safe Lock Box"><img src="https://i.ebayimg.com/images/g/jtAAAeSwcYFoZNDi/s-l225.jpg" alt="Listing image for Phone Lock Box With Phone Jail, Self-control Universal Phone Safe Lock Box" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lockbox&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-app-limits-need-more-than-a-nudge-phone-lockbox&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lockbox" data-ebay-reference="when-app-limits-need-more-than-a-nudge-phone-lockbox" target="_blank" rel="sponsored noopener noreferrer">Phone Lock Box With Phone Jail, Self-control Universal Phone Safe Lock Box</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lockbox&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-app-limits-need-more-than-a-nudge-phone-lockbox&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lockbox" data-ebay-reference="when-app-limits-need-more-than-a-nudge-phone-lockbox" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone lockbox">Search<span data-ebay-domain-label>eBay.co.uk</span>: phone lockbox</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lockbox&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-app-limits-need-more-than-a-nudge-phone-lockbox&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lockbox" data-ebay-reference="when-app-limits-need-more-than-a-nudge-phone-lockbox" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+lockbox&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-app-limits-need-more-than-a-nudge-phone-lockbox&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone lockbox" data-ebay-reference="when-app-limits-need-more-than-a-nudge-phone-lockbox" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -606,7 +606,7 @@ The objective is not maximum restriction. It is dependable behaviour change. Sof
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -626,7 +626,7 @@ The objective is not maximum restriction. It is dependable behaviour change. Sof
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -658,7 +658,7 @@ The objective is not maximum restriction. It is dependable behaviour change. Sof
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -710,7 +710,7 @@ The objective is not maximum restriction. It is dependable behaviour change. Sof
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -755,7 +755,7 @@ The objective is not maximum restriction. It is dependable behaviour change. Sof
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -796,142 +796,142 @@ The objective is not maximum restriction. It is dependable behaviour change. Sof
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1071581922000957" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1071581922000957</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Goldilocks level of support: Using user reviews, ratings...by U Lyngs · 2022 · Cited by 55 — We analyse ratings &amp; revie...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1071581922000957" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1071581922000957</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Goldilocks level of support: Using user reviews, ratings...by U Lyngs · 2022 · Cited by 55 — We analyse ratings &amp; revie...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/368573395_Directing_smartphone_use_through_the_self-nudge_app_one_sec" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/368573395_Directing_smartphone_use_through_the_self-nudge_app_one_sec</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Directing smartphone use through the self-nudge app one...In sum, one sec decreased users&#x27; actual opening of target apps by...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/368573395_Directing_smartphone_use_through_the_self-nudge_app_one_sec" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/368573395_Directing_smartphone_use_through_the_self-nudge_app_one_sec</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directing smartphone use through the self-nudge app one...In sum, one sec decreased users&#x27; actual opening of target apps by...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: one-sec.app  
-   Link: <a href="https://one-sec.app/research/" target="_blank" rel="noopener noreferrer nofollow">https://one-sec.app/research/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchWe have conducted research on the psychological effects of the app demonstrating that one sec reduces app usage by 57% and signif...</p></details>
+   Link:<a href="https://one-sec.app/research/" target="_blank" rel="noopener noreferrer nofollow">https://one-sec.app/research/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchWe have conducted research on the psychological effects of the app demonstrating that one sec reduces app usage by 57% and signif...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: dl.acm.org  
-   Link: <a href="https://dl.acm.org/doi/full/10.1145/3571810" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/full/10.1145/3571810</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ACM Digital LibraryAchieving Digital Wellbeing Through Digital Self-control...by AM Roffarello · 2023 · Cited by 164 — The most common i...</p></details>
+   Link:<a href="https://dl.acm.org/doi/full/10.1145/3571810" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/full/10.1145/3571810</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ACM Digital LibraryAchieving Digital Wellbeing Through Digital Self-control...by AM Roffarello · 2023 · Cited by 164 — The most common i...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/353906557_Digital_self-control_interventions_for_distracting_media_multitasking_-_A_systematic_review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/353906557_Digital_self-control_interventions_for_distracting_media_multitasking_-_A_systematic_review</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Digital self‐control interventions for distracting media...These interventions use different approaches, such as the blocking of a...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/353906557_Digital_self-control_interventions_for_distracting_media_multitasking_-_A_systematic_review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/353906557_Digital_self-control_interventions_for_distracting_media_multitasking_-_A_systematic_review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Digital self‐control interventions for distracting media...These interventions use different approaches, such as the blocking of a...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: dl.acm.org  
-   Link: <a href="https://dl.acm.org/doi/fullHtml/10.1145/3411763.3451843" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/fullHtml/10.1145/3411763.3451843</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ACM Digital LibraryReducing Risk in Digital Self-Control Toolsby RX Schwartz · 2021 · Cited by 19 — ” Their features can be grouped into...</p></details>
+   Link:<a href="https://dl.acm.org/doi/fullHtml/10.1145/3411763.3451843" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/fullHtml/10.1145/3411763.3451843</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ACM Digital LibraryReducing Risk in Digital Self-Control Toolsby RX Schwartz · 2021 · Cited by 19 — ” Their features can be grouped into...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10498313/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10498313/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating the Effectiveness of Apps Designed to Reduce...by FI Rahmillah · 2023 · Cited by 29 — This paper investigated existing apps d...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10498313/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10498313/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluating the Effectiveness of Apps Designed to Reduce...by FI Rahmillah · 2023 · Cited by 29 — This paper investigated existing apps d...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12894810/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12894810/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govSelf‐nudging toward physical activity: Scale development...by AB Bakker · 2026 — This study uses nudging theory to develop and va...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12894810/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12894810/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govSelf‐nudging toward physical activity: Scale development...by AB Bakker · 2026 — This study uses nudging theory to develop and va...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11005480/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11005480/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby N Junger · 2024 · Cited by 12 — Nudging, a controversial technique for modifying people&#x27;s behavior in a predictable way, is c...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11005480/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11005480/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby N Junger · 2024 · Cited by 12 — Nudging, a controversial technique for modifying people&#x27;s behavior in a predictable way, is c...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8145956/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8145956/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by SCL Lau · 2020 · Cited by 46 — Our findings support the use of theory to guide the development of digital self-management intervent...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8145956/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8145956/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by SCL Lau · 2020 · Cited by 46 — Our findings support the use of theory to guide the development of digital self-management intervent...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9112639/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9112639/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by JA Olson · 2022 · Cited by 114 — We tested an intervention with ten strategies that nudge users to reduce their smartphone use, for...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9112639/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9112639/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by JA Olson · 2022 · Cited by 114 — We tested an intervention with ten strategies that nudge users to reduce their smartphone use, for...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9066336/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9066336/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Review of Digital Well-being Apps - PMCby S Almoallim · 2022 · Cited by 35 — Findings indicate four interventions for limiting the overal...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9066336/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9066336/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Review of Digital Well-being Apps - PMCby S Almoallim · 2022 · Cited by 35 — Findings indicate four interventions for limiting the overal...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: one-sec.app  
-   Link: <a href="https://one-sec.app/it/research/" target="_blank" rel="noopener noreferrer nofollow">https://one-sec.app/it/research/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>StudiWe have conducted research on the psychological effects of the app demonstrating that one sec reduces app usage by 57% and significa...</p></details>
+   Link:<a href="https://one-sec.app/it/research/" target="_blank" rel="noopener noreferrer nofollow">https://one-sec.app/it/research/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>StudiWe have conducted research on the psychological effects of the app demonstrating that one sec reduces app usage by 57% and significa...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
    Title: 374003343 Use of digital self control tools in higher education a survey study  
-   Link: <a href="https://www.researchgate.net/publication/374003343_Use_of_digital_self-control_tools_in_higher_education_-_a_survey_study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374003343_Use_of_digital_self-control_tools_in_higher_education_-_a_survey_study</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Use of digital self-control tools in higher education18 Sept 2023 — Digital self-control tools, which aim to assist users in their...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/374003343_Use_of_digital_self-control_tools_in_higher_education_-_a_survey_study" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374003343_Use_of_digital_self-control_tools_in_higher_education_-_a_survey_study</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Use of digital self-control tools in higher education18 Sept 2023 — Digital self-control tools, which aim to assist users in their...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2666558126000011" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2666558126000011</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>digital self-control tools. Young children takes part in educational settings. Cao and Li (2023) found that the existing evidence highlig...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2666558126000011" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2666558126000011</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>digital self-control tools. Young children takes part in educational settings. Cao and Li (2023) found that the existing evidence highlig...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: play.google.com  
-   Link: <a href="https://play.google.com/store/apps/details?hl=en_US&amp;id=wtf.riedel.onesec" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_US&amp;id=wtf.riedel.onesec</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sec | app blocker, focus5 days ago — App usage drops by 57% on average thanks to one sec – proven by science!... Having two more weeks p...</p></details>
+   Link:<a href="https://play.google.com/store/apps/details?hl=en_US&amp;id=wtf.riedel.onesec" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_US&amp;id=wtf.riedel.onesec</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sec | app blocker, focus5 days ago — App usage drops by 57% on average thanks to one sec – proven by science!... Having two more weeks p...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: apps.apple.com  
    Title: comone sec | screen time + focus  
-   Link: <a href="https://apps.apple.com/ag/app/one-sec-screen-time-focus/id1532875441" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/ag/app/one-sec-screen-time-focus/id1532875441</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>sec | screen time + focus - App Store - AppleWillpower is not enough against social media algorithms! That&#x27;s why I made one sec: one sec...</p></details>
+   Link:<a href="https://apps.apple.com/ag/app/one-sec-screen-time-focus/id1532875441" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/ag/app/one-sec-screen-time-focus/id1532875441</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sec | screen time + focus - App Store - AppleWillpower is not enough against social media algorithms! That&#x27;s why I made one sec: one sec...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/PNASNews/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PNASNews/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PNAS | Washington D.C. DCCutting edge news and reports from PNAS, one of the world&#x27;s most-cited multidisciplinary scientific journals.Rea...</p></details>
+   Link:<a href="https://www.facebook.com/PNASNews/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PNASNews/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PNAS | Washington D.C. DCCutting edge news and reports from PNAS, one of the world&#x27;s most-cited multidisciplinary scientific journals.Rea...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pnas.org  
-   Link: <a href="https://www.pnas.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Explore High-Impact Scientific Research Across...PNAS is one of the world&#x27;s most-cited and comprehensive multidisciplinary scient...</p></details>
+   Link:<a href="https://www.pnas.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Explore High-Impact Scientific Research Across...PNAS is one of the world&#x27;s most-cited and comprehensive multidisciplinary scient...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: iris.polito.it  
-   Link: <a href="https://iris.polito.it/retrieve/28c10713-3c1e-4084-83d0-0a9b2e8b2723/dwbreview.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iris.polito.it/retrieve/28c10713-3c1e-4084-83d0-0a9b2e8b2723/dwbreview.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Wellbeing Through Digital Self-Control...To assess the state-of-the-art characterizing the development of DSCTs and to guide fut...</p></details>
+   Link:<a href="https://iris.polito.it/retrieve/28c10713-3c1e-4084-83d0-0a9b2e8b2723/dwbreview.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iris.polito.it/retrieve/28c10713-3c1e-4084-83d0-0a9b2e8b2723/dwbreview.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Wellbeing Through Digital Self-Control...To assess the state-of-the-art characterizing the development of DSCTs and to guide fut...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/PsychologicalTricks/comments/114kc1x/pt_breathing_intervention_before_socialmediaapps/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/PsychologicalTricks/comments/114kc1x/pt_breathing_intervention_before_socialmediaapps/</a>  
+   Link:<a href="https://www.reddit.com/r/PsychologicalTricks/comments/114kc1x/pt_breathing_intervention_before_socialmediaapps/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/PsychologicalTricks/comments/114kc1x/pt_breathing_intervention_before_socialmediaapps/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Proceedings of the National Academy of Sciences of the United States of America  
-   Link: <a href="https://en.wikipedia.org/wiki/Proceedings_of_the_National_Academy_of_Sciences_of_the_United_States_of_America" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Proceedings_of_the_National_Academy_of_Sciences_of_the_United_States_of_America</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Proceedings of the National Academy of SciencesIt is the official journal of the National Academy of Sciences, published since 1915, a...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Proceedings_of_the_National_Academy_of_Sciences_of_the_United_States_of_America" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Proceedings_of_the_National_Academy_of_Sciences_of_the_United_States_of_America</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Proceedings of the National Academy of SciencesIt is the official journal of the National Academy of Sciences, published since 1915, a...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/c/PNASNews/videos" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/c/PNASNews/videos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PNASPNAS is one of the world&#x27;s most-cited and comprehensive multidisciplinary scientific journals, publishing more than 3,500 research pa...</p></details>
+   Link:<a href="https://www.youtube.com/c/PNASNews/videos" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/c/PNASNews/videos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PNASPNAS is one of the world&#x27;s most-cited and comprehensive multidisciplinary scientific journals, publishing more than 3,500 research pa...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/journal/procnatiacadscie" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/journal/procnatiacadscie</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It publishes high-impact research reports, commentaries, perspectives, reviews, colloquium...Read more...</p></details>
+   Link:<a href="https://www.jstor.org/journal/procnatiacadscie" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/journal/procnatiacadscie</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It publishes high-impact research reports, commentaries, perspectives, reviews, colloquium...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: d-nb.info  
-   Link: <a href="https://d-nb.info/1256424374/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1256424374/34</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital self‐control interventions for distracting media...by D Biedermann · Cited by 53 — In this review, we summarized and categorized...</p></details>
+   Link:<a href="https://d-nb.info/1256424374/34" target="_blank" rel="noopener noreferrer nofollow">https://d-nb.info/1256424374/34</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital self‐control interventions for distracting media...by D Biedermann · Cited by 53 — In this review, we summarized and categorized...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/science/comments/1167elo/directing_smartphone_use_through_the_selfnudge/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/science/comments/1167elo/directing_smartphone_use_through_the_selfnudge/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>dismiss their consumption attempt after having opened a target app...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/science/comments/1167elo/directing_smartphone_use_through_the_selfnudge/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/science/comments/1167elo/directing_smartphone_use_through_the_selfnudge/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>dismiss their consumption attempt after having opened a target app...Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: fortune.com  
    Title: one sec app can help cut your social media use  
-   Link: <a href="https://fortune.com/well/2023/03/06/one-sec-app-can-help-cut-your-social-media-use/" target="_blank" rel="noopener noreferrer nofollow">https://fortune.com/well/2023/03/06/one-sec-app-can-help-cut-your-social-media-use/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This app may curb your social media usage by halfMar 6, 2023 — Key takeaways · The app, One Sec, can help reduce screen time by asking yo...</p></details>
+   Link:<a href="https://fortune.com/well/2023/03/06/one-sec-app-can-help-cut-your-social-media-use/" target="_blank" rel="noopener noreferrer nofollow">https://fortune.com/well/2023/03/06/one-sec-app-can-help-cut-your-social-media-use/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This app may curb your social media usage by halfMar 6, 2023 — Key takeaways · The app, One Sec, can help reduce screen time by asking yo...</p></details>

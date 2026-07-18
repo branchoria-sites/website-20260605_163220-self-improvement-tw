@@ -271,7 +271,7 @@ image: /assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_system
 A productivity system becomes busywork when the activities designed to [support]({{ 'support/' | relative_url }}) progress start competing with the progress itself. The calendar, tracker, dashboard, note-taking method or review process may look organised and disciplined, yet the underlying goal moves little. In the language of systems design, the mechanism has begun protecting itself.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_systems_busywork_tra_c3ea25-Illustration-1-dark.svg" | relative_url }}" alt="Busywork Trap illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_systems_busywork_tra_c3ea25-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_systems_busywork_tra_c3ea25-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This is a common failure mode in self-improvement because systems are meant to create consistency. Tracking, planning and reviewing can genuinely improve [behaviour change]({{ 'behaviour-change/' | relative_url }}). Research on habit formation and digital behaviour-change interventions consistently finds that self-monitoring and feedback are among the most effective [techniques]({{ 'techniques/' | relative_url }}) for sustaining desired behaviours. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 80 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 80 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span>
+This is a common failure mode in self-improvement because systems are meant to create consistency. Tracking, planning and reviewing can genuinely improve [behaviour change]({{ 'behaviour-change/' | relative_url }}). Research on habit formation and digital behaviour-change interventions consistently finds that self-monitoring and feedback are among the most effective [techniques]({{ 'techniques/' | relative_url }}) for sustaining desired behaviours.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 80 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 80 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span>
 
 The problem is not that systems exist. The problem arises when the support structure becomes the primary object of attention. A person who spends more time perfecting a productivity workflow than producing meaningful work may be highly active while making little progress. The system still generates activity, [rewards]({{ 'rewards/' | relative_url }}) and a sense of control, but it has drifted away from its intended purpose.
 
@@ -295,7 +295,7 @@ Common examples include:
 
 A useful distinction is between a support activity and a substitute activity. Planning tomorrow's work supports execution. Reorganising the same project board for the fifth time this week often substitutes for execution.
 
-This pattern resembles a broader phenomenon known as Goodhart's Law: when a measure becomes a target, it ceases to be a good measure. Metrics are useful indicators until people begin optimising the indicator itself rather than the reality it was meant to represent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Goodhart%27s_law" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Goodhart&#x27;s law</span><span class="citation-popover-snippet">Goodhart&#x27;s law</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.splunk.com/en_us/blog/learn/goodharts-law.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: splunk.com">[splunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">splunk.com</span><span class="citation-popover-title">goodharts law</span><span class="citation-popover-snippet">What is Goodhart&#x27;s Law?6 Mar 2024 — Goodhart&#x27;s Law warns of distorted metrics when tied to goals: It states, &quot;When a measure become...</span></span></span> In personal productivity, the measure might be streak length, inbox zero, completed checkboxes, hours tracked or pages of notes. These can provide valuable [feedback]({{ 'feedback/' | relative_url }}). But when preserving the number becomes more important than advancing the goal, the metric starts distorting behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 80 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span> ModelThinkers A habit tracker illustrates the tension. Tracking behaviour often helps because self-monitoring increases awareness and reinforces consistenc <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10376445/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Signaling and meaning in organizational analytics - PMC - NIHby JW Treem · 2023 · Cited by 11 — Goodhart&#x27;s Law states that “When a mea...</span></span></span> y. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jamesclear.com/habit-tracker" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamesclear.com">[James Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamesclear.com</span><span class="citation-popover-snippet">James ClearThe Ultimate Habit Tracker Guide: Why and How to Track...A habit tracker is a simple way to log your behavior, and the mere a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s12966-019-0824-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The aim of this systematic review and meta-analysis was...</span></span></span> Yet the tracker becomes counterproductive if maintaining the visual streak matters more than performing the behaviour for its original purpose.
+This pattern resembles a broader phenomenon known as Goodhart's Law: when a measure becomes a target, it ceases to be a good measure. Metrics are useful indicators until people begin optimising the indicator itself rather than the reality it was meant to represent.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Goodhart%27s_law" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Goodhart&#x27;s law</span><span class="citation-popover-snippet">Goodhart&#x27;s law</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.splunk.com/en_us/blog/learn/goodharts-law.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: splunk.com">[splunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">splunk.com</span><span class="citation-popover-title">goodharts law</span><span class="citation-popover-snippet">What is Goodhart&#x27;s Law?6 Mar 2024 — Goodhart&#x27;s Law warns of distorted metrics when tied to goals: It states, &quot;When a measure become...</span></span></span> In personal productivity, the measure might be streak length, inbox zero, completed checkboxes, hours tracked or pages of notes. These can provide valuable [feedback]({{ 'feedback/' | relative_url }}). But when preserving the number becomes more important than advancing the goal, the metric starts distorting behaviour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 80 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span> ModelThinkers A habit tracker illustrates the tension. Tracking behaviour often helps because self-monitoring increases awareness and reinforces consistenc<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10376445/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Signaling and meaning in organizational analytics - PMC - NIHby JW Treem · 2023 · Cited by 11 — Goodhart&#x27;s Law states that “When a mea...</span></span></span> y.<span class="citation-chip-wrap"><a class="citation-chip" href="https://jamesclear.com/habit-tracker" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamesclear.com">[James Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamesclear.com</span><span class="citation-popover-snippet">James ClearThe Ultimate Habit Tracker Guide: Why and How to Track...A habit tracker is a simple way to log your behavior, and the mere a...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s12966" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">The aim of this systematic review and meta-analysis was...</span></span></span> Yet the tracker becomes counterproductive if maintaining the visual streak matters more than performing the behaviour for its original purpose.
 
 ## How Over-Optimising Replaces Progress
 
@@ -319,7 +319,7 @@ Another common drift occurs when systems become increasingly sophisticated.
 
 Additional categories, tags, templates, automations and review layers can create an impression of precision. Sometimes these additions are useful. Often they merely increase maintenance costs.
 
-Research on self-tracking highlights both benefits and limitations. Tracking can improve awareness and support behaviour change, but tracking systems also require effort, interpretation and ongoing management. When the maintenance burden grows too large, the tracking process itself can become a source of friction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 80 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span>
+Research on self-tracking highlights both benefits and limitations. Tracking can improve awareness and support behaviour change, but tracking systems also require effort, interpretation and ongoing management. When the maintenance burden grows too large, the tracking process itself can become a source of friction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 80 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span>
 
 A simple reading habit supported by a one-minute daily checkmark may succeed. A reading system requiring multiple databases, progress charts, categorisation rules and weekly reporting may consume more energy than the habit it was meant to support.
 
@@ -338,7 +338,7 @@ The original goal might be:
 
 </div>
 
-The operational target gradually becomes: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.splunk.com/en_us/blog/learn/goodharts-law.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: splunk.com">[splunk.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">splunk.com</span><span class="citation-popover-title">goodharts law</span><span class="citation-popover-snippet">What is Goodhart&#x27;s Law?6 Mar 2024 — Goodhart&#x27;s Law warns of distorted metrics when tied to goals: It states, &quot;When a measure become...</span></span></span>
+The operational target gradually becomes:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.splunk.com/en_us/blog/learn/goodharts-law.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: splunk.com">[splunk.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">splunk.com</span><span class="citation-popover-title">goodharts law</span><span class="citation-popover-snippet">What is Goodhart&#x27;s Law?6 Mar 2024 — Goodhart&#x27;s Law warns of distorted metrics when tied to goals: It states, &quot;When a measure become...</span></span></span>
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -349,14 +349,14 @@ The operational target gradually becomes: <span class="citation-chip-wrap"><a cl
 
 </div>
 
-The replacement target is easier to observe and control. Over time, [attention shifts]({{ 'attention-shift/' | relative_url }}) towards preserving the proxy rather than pursuing the underlying objective. Analysts discussing Goodhart's Law frequently describe this as a form of metric distortion or target substitution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://changeassociates.com/goodharts-law-and-the-illusion-of-progress-in-change-programmes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: changeassociates.com">[Change Associates]</a><span class="citation-popover" role="note"><span class="citation-popover-source">changeassociates.com</span><span class="citation-popover-snippet">Change AssociatesGoodhart&#x27;s Law in change programmesGoodhart&#x27;s Law warns us: “When a measure becomes a target, it ceases to be a good mea...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://kpitree.co/guides/frameworks/goodharts-law" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kpitree.co">[KPI Tree]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kpitree.co</span><span class="citation-popover-title">KPI Tree Goodhart&#x27;s Law and metric design</span><span class="citation-popover-snippet">Goodhart&#x27;s Law and metric design - KPI TreeGoodhart&#x27;s Law warns that when a measure becomes a target, it ceases to be a good measure. Lea...</span></span></span>
+The replacement target is easier to observe and control. Over time, [attention shifts]({{ 'attention-shift/' | relative_url }}) towards preserving the proxy rather than pursuing the underlying objective. Analysts discussing Goodhart's Law frequently describe this as a form of metric distortion or target substitution.<span class="citation-chip-wrap"><a class="citation-chip" href="https://changeassociates.com/goodharts-law-and-the-illusion-of-progress-in-change-programmes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: changeassociates.com">[Change Associates]</a><span class="citation-popover" role="note"><span class="citation-popover-source">changeassociates.com</span><span class="citation-popover-snippet">Change AssociatesGoodhart&#x27;s Law in change programmesGoodhart&#x27;s Law warns us: “When a measure becomes a target, it ceases to be a good mea...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://kpitree.co/guides/frameworks/goodharts-law" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kpitree.co">[KPI Tree]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kpitree.co</span><span class="citation-popover-title">KPI Tree Goodhart&#x27;s Law and metric design</span><span class="citation-popover-snippet">Goodhart&#x27;s Law and metric design - KPI TreeGoodhart&#x27;s Law warns that when a measure becomes a target, it ceases to be a good measure. Lea...</span></span></span>
 
 The result is a peculiar form of failure: the system appears healthy according to its own measures while the outcome stagnates.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_systems_busywork_tra_c3ea25-Illustration-2-dark.svg" | relative_url }}" alt="Busywork Trap illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_systems_busywork_tra_c3ea25-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_systems_busywork_tra_c3ea25-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Review Questions That Reconnect Method and Outcome
 
-The solution is rarely to abandon systems altogether. Behaviour-change research suggests that monitoring, prompts and feedback often support consistency when used appropriately. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 80 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 80 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span>
+The solution is rarely to abandon systems altogether. Behaviour-change research suggests that monitoring, prompts and feedback often support consistency when used appropriately.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 80 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 80 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span>
 
 Instead, productive systems need periodic governance reviews. The goal is to ensure the method remains subordinate to the outcome.
 
@@ -395,7 +395,7 @@ Many useful metrics are proxies rather than outcomes.
 
 Pages written are a proxy for completing a manuscript. Study hours are a proxy for learning. Gym visits are a proxy for fitness.
 
-Proxy measures are often necessary, but they should remain visibly connected to the result they represent. If the proxy becomes the only thing reviewed, drift becomes more likely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Goodhart%27s_law" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Goodhart&#x27;s law</span><span class="citation-popover-snippet">Goodhart&#x27;s law</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://kpitree.co/guides/frameworks/goodharts-law" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kpitree.co">[KPI Tree]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kpitree.co</span><span class="citation-popover-title">KPI Tree Goodhart&#x27;s Law and metric design</span><span class="citation-popover-snippet">Goodhart&#x27;s Law and metric design - KPI TreeGoodhart&#x27;s Law warns that when a measure becomes a target, it ceases to be a good measure. Lea...</span></span></span>
+Proxy measures are often necessary, but they should remain visibly connected to the result they represent. If the proxy becomes the only thing reviewed, drift becomes more likely.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Goodhart%27s_law" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Goodhart&#x27;s law</span><span class="citation-popover-snippet">Goodhart&#x27;s law</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://kpitree.co/guides/frameworks/goodharts-law" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kpitree.co">[KPI Tree]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kpitree.co</span><span class="citation-popover-title">KPI Tree Goodhart&#x27;s Law and metric design</span><span class="citation-popover-snippet">Goodhart&#x27;s Law and metric design - KPI TreeGoodhart&#x27;s Law warns that when a measure becomes a target, it ceases to be a good measure. Lea...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_systems_busywork_tra_c3ea25-Illustration-3-dark.svg" | relative_url }}" alt="Busywork Trap illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_systems_busywork_tra_c3ea25-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_systems_busywork_tra_c3ea25-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### What Has Improved in the Last Month?
@@ -415,194 +415,194 @@ A healthy productivity system remains willing to simplify itself, discard unused
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/s4Oc7RE7xWY" title="You Are Working Hard, But Doing Nothing (Fake Productivity)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=s4Oc7RE7xWY" target="_blank" rel="noopener noreferrer">You Are Working Hard, But Doing Nothing (Fake Productivity)</a></p><p class="youtube-embed-meta">Channel: Anli &middot; Views: 38 &middot; Uploaded: May 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=s4Oc7RE7xWY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=s4Oc7RE7xWY">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When the System Becomes the Goal. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When the System Becomes the Goal. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Essentialism+by+Greg+McKeown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Essentialism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=pK7PBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Essentialism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Essentialism+by+Greg+McKeown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Essentialism">Essentialism</a>
-        </h4>
-        <p class="fr-book-author">By Greg McKeown</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Essentialism+by+Greg+McKeown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Essentialism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=pK7PBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Essentialism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Essentialism+by+Greg+McKeown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Essentialism">Essentialism</a>
+</h4>
+<p class="fr-book-author">By Greg McKeown</p>
         
-        <p class="fr-book-desc">Directly addresses focusing on outcomes instead of process clutter.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Essentialism+by+Greg+McKeown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses focusing on outcomes instead of process clutter.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Essentialism+by+Greg+McKeown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B_L8CAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
-        </h4>
-        <p class="fr-book-author">By Cal Newport</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B_L8CAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
+</h4>
+<p class="fr-book-author">By Cal Newport</p>
         
-        <p class="fr-book-desc">Counters busywork by prioritising valuable focused work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Counters busywork by prioritising valuable focused work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+One+Thing+by+Gary+Keller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The One Thing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=94ScMQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The One Thing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+One+Thing+by+Gary+Keller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The One Thing">The One Thing</a>
-        </h4>
-        <p class="fr-book-author">By Gary Keller, Jay Papasan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+One+Thing+by+Gary+Keller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The One Thing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=94ScMQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The One Thing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+One+Thing+by+Gary+Keller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The One Thing">The One Thing</a>
+</h4>
+<p class="fr-book-author">By Gary Keller, Jay Papasan</p>
         
-        <p class="fr-book-desc">Helps reconnect effort with the most important outcome.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+One+Thing+by+Gary+Keller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps reconnect effort with the most important outcome.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+One+Thing+by+Gary+Keller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Promotes systems while keeping attention on meaningful results.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Promotes systems while keeping attention on meaningful results.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Essentialism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Essentialism</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Work&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Work</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+One+Thing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The One Thing</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Essentialism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Essentialism</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Work&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Work</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+One+Thing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The One Thing</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Undated Weekly &amp; Monthly Planner with Stickers for Goals &amp; Productivity. Size A5"><img src="https://i.ebayimg.com/images/g/45AAAeSwB81pExkI/s-l225.jpg" alt="Listing image for Undated Weekly &amp; Monthly Planner with Stickers for Goals &amp; Productivity. Size A5" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" target="_blank" rel="sponsored noopener noreferrer">Undated Weekly &amp; Monthly Planner with Stickers for Goals &amp; Productivity. Size A5</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for productivity planner">Search <span data-ebay-domain-label>eBay.co.uk</span>: productivity planner</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Undated Weekly &amp; Monthly Planner with Stickers for Goals &amp; Productivity. Size A5"><img src="https://i.ebayimg.com/images/g/45AAAeSwB81pExkI/s-l225.jpg" alt="Listing image for Undated Weekly &amp; Monthly Planner with Stickers for Goals &amp; Productivity. Size A5" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" target="_blank" rel="sponsored noopener noreferrer">Undated Weekly &amp; Monthly Planner with Stickers for Goals &amp; Productivity. Size A5</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for productivity planner">Search<span data-ebay-domain-label>eBay.co.uk</span>: productivity planner</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Weekly Planner Desk Pad Undated with To Do List Productivity Organiser 120g"><img src="https://i.ebayimg.com/images/g/TeoAAeSwR-pqGv2L/s-l225.jpg" alt="Listing image for A4 Weekly Planner Desk Pad Undated with To Do List Productivity Organiser 120g" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" target="_blank" rel="sponsored noopener noreferrer">A4 Weekly Planner Desk Pad Undated with To Do List Productivity Organiser 120g</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for productivity planner">Search <span data-ebay-domain-label>eBay.co.uk</span>: productivity planner</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Weekly Planner Desk Pad Undated with To Do List Productivity Organiser 120g"><img src="https://i.ebayimg.com/images/g/TeoAAeSwR-pqGv2L/s-l225.jpg" alt="Listing image for A4 Weekly Planner Desk Pad Undated with To Do List Productivity Organiser 120g" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" target="_blank" rel="sponsored noopener noreferrer">A4 Weekly Planner Desk Pad Undated with To Do List Productivity Organiser 120g</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for productivity planner">Search<span data-ebay-domain-label>eBay.co.uk</span>: productivity planner</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Goal-Focused Journal Planner - Productivity Planner &amp; Goal Success Daily Planner"><img src="https://i.ebayimg.com/images/g/1u8AAeSw8MdoyXtx/s-l225.jpg" alt="Listing image for Goal-Focused Journal Planner - Productivity Planner &amp; Goal Success Daily Planner" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" target="_blank" rel="sponsored noopener noreferrer">Goal-Focused Journal Planner - Productivity Planner &amp; Goal Success Daily Planner</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for productivity planner">Search <span data-ebay-domain-label>eBay.co.uk</span>: productivity planner</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Goal-Focused Journal Planner - Productivity Planner &amp; Goal Success Daily Planner"><img src="https://i.ebayimg.com/images/g/1u8AAeSw8MdoyXtx/s-l225.jpg" alt="Listing image for Goal-Focused Journal Planner - Productivity Planner &amp; Goal Success Daily Planner" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" target="_blank" rel="sponsored noopener noreferrer">Goal-Focused Journal Planner - Productivity Planner &amp; Goal Success Daily Planner</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for productivity planner">Search<span data-ebay-domain-label>eBay.co.uk</span>: productivity planner</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Weekly Planner Desk Pad Undated with To Do List Productivity OrganiserPU 120g"><img src="https://i.ebayimg.com/images/g/HmAAAeSwdbJqGvZt/s-l225.jpg" alt="Listing image for A4 Weekly Planner Desk Pad Undated with To Do List Productivity OrganiserPU 120g" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" target="_blank" rel="sponsored noopener noreferrer">A4 Weekly Planner Desk Pad Undated with To Do List Productivity OrganiserPU 120g</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for productivity planner">Search <span data-ebay-domain-label>eBay.co.uk</span>: productivity planner</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A4 Weekly Planner Desk Pad Undated with To Do List Productivity OrganiserPU 120g"><img src="https://i.ebayimg.com/images/g/HmAAAeSwdbJqGvZt/s-l225.jpg" alt="Listing image for A4 Weekly Planner Desk Pad Undated with To Do List Productivity OrganiserPU 120g" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" target="_blank" rel="sponsored noopener noreferrer">A4 Weekly Planner Desk Pad Undated with To Do List Productivity OrganiserPU 120g</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for productivity planner">Search<span data-ebay-domain-label>eBay.co.uk</span>: productivity planner</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=productivity+planner&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-system-becomes-the-goal-productivity-planner&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="productivity planner" data-ebay-reference="when-the-system-becomes-the-goal-productivity-planner" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -618,7 +618,7 @@ A healthy productivity system remains willing to simplify itself, discard unused
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -638,7 +638,7 @@ A healthy productivity system remains willing to simplify itself, discard unused
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -670,7 +670,7 @@ A healthy productivity system remains willing to simplify itself, discard unused
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -722,7 +722,7 @@ A healthy productivity system remains willing to simplify itself, discard unused
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -767,7 +767,7 @@ A healthy productivity system remains willing to simplify itself, discard unused
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -808,119 +808,119 @@ A healthy productivity system remains willing to simplify itself, discard unused
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCDigital Behavior Change Intervention Designs for Habit  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by Y Zhu · 2024 · Cited by 80 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by Y Zhu · 2024 · Cited by 80 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1186/s12966-019-0824-3" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12966-019-0824-3</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The aim of this systematic review and meta-analysis was...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1186/s12966" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12966</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The aim of this systematic review and meta-analysis was...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Goodhart's law  
-   Link: <a href="https://en.wikipedia.org/wiki/Goodhart%27s_law" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Goodhart%27s_law</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Goodhart%27s_law" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Goodhart%27s_law</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: splunk.com  
    Title: goodharts law  
-   Link: <a href="https://www.splunk.com/en_us/blog/learn/goodharts-law.html" target="_blank" rel="noopener noreferrer nofollow">https://www.splunk.com/en_us/blog/learn/goodharts-law.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Goodhart&#x27;s Law?6 Mar 2024 — Goodhart&#x27;s Law warns of distorted metrics when tied to goals: It states, &quot;When a measure become...</p></details>
+   Link:<a href="https://www.splunk.com/en_us/blog/learn/goodharts-law.html" target="_blank" rel="noopener noreferrer nofollow">https://www.splunk.com/en_us/blog/learn/goodharts-law.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is Goodhart&#x27;s Law?6 Mar 2024 — Goodhart&#x27;s Law warns of distorted metrics when tied to goals: It states, &quot;When a measure become...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10376445/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10376445/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Signaling and [meaning](&amp;#123;&amp;#123; &#x27;meaning/&#x27; | relative_url &amp;#125;&amp;#125;) in organizational analytics - PMC - NIHby JW Treem · 2023 · Cited by 11 — Goodhart&#x27;s Law states that “When a mea...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10376445/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10376445/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Signaling and [meaning](&amp;#123;&amp;#123; &#x27;meaning/&#x27; | relative_url &amp;#125;&amp;#125;) in organizational analytics - PMC - NIHby JW Treem · 2023 · Cited by 11 — Goodhart&#x27;s Law states that “When a mea...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: modelthinkers.com  
-   Link: <a href="https://modelthinkers.com/mental-model/goodharts-law" target="_blank" rel="noopener noreferrer nofollow">https://modelthinkers.com/mental-model/goodharts-law</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Goodhart&#x27;s LawGoodhart&#x27;s Law is a reminder that measures that become targets will distort behaviours in generally undesirable ways as peo...</p></details>
+   Link:<a href="https://modelthinkers.com/mental-model/goodharts-law" target="_blank" rel="noopener noreferrer nofollow">https://modelthinkers.com/mental-model/goodharts-law</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goodhart&#x27;s LawGoodhart&#x27;s Law is a reminder that measures that become targets will distort behaviours in generally undesirable ways as peo...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8493454/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8493454/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>With the development of tracking...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8493454/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8493454/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>With the development of tracking...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12259960/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12259960/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>review and meta analysis of standalone digital...by SA Lee · 2025 · Cited by 9 — The most common behavior change techniques were 2.2 fee...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12259960/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12259960/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>review and meta analysis of standalone digital...by SA Lee · 2025 · Cited by 9 — The most common behavior change techniques were 2.2 fee...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: kpitree.co  
    Title: KPI Tree Goodhart's Law and metric design  
-   Link: <a href="https://kpitree.co/guides/frameworks/goodharts-law" target="_blank" rel="noopener noreferrer nofollow">https://kpitree.co/guides/frameworks/goodharts-law</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Goodhart&#x27;s Law and metric design - KPI TreeGoodhart&#x27;s Law warns that when a measure becomes a target, it ceases to be a good measure. Lea...</p></details>
+   Link:<a href="https://kpitree.co/guides/frameworks/goodharts-law" target="_blank" rel="noopener noreferrer nofollow">https://kpitree.co/guides/frameworks/goodharts-law</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goodhart&#x27;s Law and metric design - KPI TreeGoodhart&#x27;s Law warns that when a measure becomes a target, it ceases to be a good measure. Lea...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: jamesclear.com  
-   Link: <a href="https://jamesclear.com/habit-tracker" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/habit-tracker</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>James ClearThe Ultimate Habit Tracker Guide: Why and How to Track...A habit tracker is a simple way to log your behavior, and the mere a...</p></details>
+   Link:<a href="https://jamesclear.com/habit-tracker" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/habit-tracker</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>James ClearThe Ultimate Habit Tracker Guide: Why and How to Track...A habit tracker is a simple way to log your behavior, and the mere a...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: changeassociates.com  
-   Link: <a href="https://changeassociates.com/goodharts-law-and-the-illusion-of-progress-in-change-programmes/" target="_blank" rel="noopener noreferrer nofollow">https://changeassociates.com/goodharts-law-and-the-illusion-of-progress-in-change-programmes/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Change AssociatesGoodhart&#x27;s Law in change programmesGoodhart&#x27;s Law warns us: “When a measure becomes a target, it ceases to be a good mea...</p></details>
+   Link:<a href="https://changeassociates.com/goodharts-law-and-the-illusion-of-progress-in-change-programmes/" target="_blank" rel="noopener noreferrer nofollow">https://changeassociates.com/goodharts-law-and-the-illusion-of-progress-in-change-programmes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Change AssociatesGoodhart&#x27;s Law in change programmesGoodhart&#x27;s Law warns us: “When a measure becomes a target, it ceases to be a good mea...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: lawsofsoftwareengineering.com  
-   Link: <a href="https://lawsofsoftwareengineering.com/laws/goodharts-law/" target="_blank" rel="noopener noreferrer nofollow">https://lawsofsoftwareengineering.com/laws/goodharts-law/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Goodhart&#x27;s Law | Laws of Software EngineeringApr 18, 2026 — When a measure becomes a target, it ceases to be a good measure...</p></details>
+   Link:<a href="https://lawsofsoftwareengineering.com/laws/goodharts-law/" target="_blank" rel="noopener noreferrer nofollow">https://lawsofsoftwareengineering.com/laws/goodharts-law/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goodhart&#x27;s Law | Laws of Software EngineeringApr 18, 2026 — When a measure becomes a target, it ceases to be a good measure...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11054424/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11054424/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Comprehensive Review of Behavior Change Techniques in...Self-Monitoring and Feedback involves tracking and recording the target behavior...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11054424/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11054424/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Comprehensive Review of Behavior Change Techniques in...Self-Monitoring and Feedback involves tracking and recording the target behavior...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/explainlikeimfive/comments/1bp7apj/eli5_what_does_godharts_law_mean/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/1bp7apj/eli5_what_does_godharts_law_mean/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ELI5: What does Godhart&#x27;s law mean?: r/explainlikeimfiveIt goes &quot;When a measure becomes a target, it ceases to be a good measure.&quot; How d...</p></details>
+   Link:<a href="https://www.reddit.com/r/explainlikeimfive/comments/1bp7apj/eli5_what_does_godharts_law_mean/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/1bp7apj/eli5_what_does_godharts_law_mean/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ELI5: What does Godhart&#x27;s law mean?: r/explainlikeimfiveIt goes &quot;When a measure becomes a target, it ceases to be a good measure.&quot; How d...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: bentofocus.com  
-   Link: <a href="https://www.bentofocus.com/habits/habit-tracking" target="_blank" rel="noopener noreferrer nofollow">https://www.bentofocus.com/habits/habit-tracking</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Focus Habit TrackingMaster habit tracking to build consistent focus routines. Learn what to track, how to measure progress, and why track...</p></details>
+   Link:<a href="https://www.bentofocus.com/habits/habit-tracking" target="_blank" rel="noopener noreferrer nofollow">https://www.bentofocus.com/habits/habit-tracking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Focus Habit TrackingMaster habit tracking to build consistent focus routines. Learn what to track, how to measure progress, and why track...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40claus.nisslmueller/goodharts-law-and-the-death-of-honest-metrics-e08cc756f93a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40claus.nisslmueller/goodharts-law-and-the-death-of-honest-metrics-e08cc756f93a</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Goodhart&#x27;s Law and the Death of Honest MetricsGoodhart&#x27;s Law isn&#x27;t anti-data. It&#x27;s anti-naivety. It warns that measurement changes the sy...</p></details>
+   Link:<a href="https://medium.com/%40claus.nisslmueller/goodharts-law-and-the-death-of-honest-metrics-e08cc756f93a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40claus.nisslmueller/goodharts-law-and-the-death-of-honest-metrics-e08cc756f93a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goodhart&#x27;s Law and the Death of Honest MetricsGoodhart&#x27;s Law isn&#x27;t anti-data. It&#x27;s anti-naivety. It warns that measurement changes the sy...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/modern-business/goodharts-law-in-practice-b3f54b6285b9" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/modern-business/goodharts-law-in-practice-b3f54b6285b9</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Goodhart&#x27;s Law in PracticeGoodhart&#x27;s law is a principle in economics that states that “when a measure becomes a target, it ceases to be a...</p></details>
+   Link:<a href="https://medium.com/modern-business/goodharts-law-in-practice-b3f54b6285b9" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/modern-business/goodharts-law-in-practice-b3f54b6285b9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goodhart&#x27;s Law in PracticeGoodhart&#x27;s law is a principle in economics that states that “when a measure becomes a target, it ceases to be a...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/roelof-van-den-berg_goodharts-law-is-straightforward-when-a-activity-7459860194697617409-pqHX" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/roelof-van-den-berg_goodharts-law-is-straightforward-when-a-activity-7459860194697617409-pqHX</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Goodhart&#x27;s Law is straightforwardPerformance systems usually work best when metrics inform judgment rather than replace it. Once the numb...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/roelof-van-den-berg_goodharts-law-is-straightforward-when-a-activity-7459860194697617409-pqHX" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/roelof-van-den-berg_goodharts-law-is-straightforward-when-a-activity-7459860194697617409-pqHX</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goodhart&#x27;s Law is straightforwardPerformance systems usually work best when metrics inform judgment rather than replace it. Once the numb...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facilethings.com  
-   Link: <a href="https://facilethings.com/blog/en/habit-tracking-build-your-best-self-day-by-day" target="_blank" rel="noopener noreferrer nofollow">https://facilethings.com/blog/en/habit-tracking-build-your-best-self-day-by-day</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit Tracking: Build Your Best Self Day by DayTracking habits creates awareness of your behavior and helps you be consistent in the most...</p></details>
+   Link:<a href="https://facilethings.com/blog/en/habit-tracking-build-your-best-self-day-by-day" target="_blank" rel="noopener noreferrer nofollow">https://facilethings.com/blog/en/habit-tracking-build-your-best-self-day-by-day</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Habit Tracking: Build Your Best Self Day by DayTracking habits creates awareness of your behavior and helps you be consistent in the most...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/when-metrics-become-targets-trap-goodharts-law-ingrid-gerstbach-2kztf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/when-metrics-become-targets-trap-goodharts-law-ingrid-gerstbach-2kztf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When Metrics Become Targets: The Trap of Goodhart&#x27;s LawGoodhart&#x27;s Law works through a psychological mechanism that behavioral researchers...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/when-metrics-become-targets-trap-goodharts-law-ingrid-gerstbach-2kztf" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/when-metrics-become-targets-trap-goodharts-law-ingrid-gerstbach-2kztf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When Metrics Become Targets: The Trap of Goodhart&#x27;s LawGoodhart&#x27;s Law works through a psychological mechanism that behavioral researchers...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: karstgoods.com  
    Title: habit tracker the science backed tool that builds better routines  
-   Link: <a href="https://karstgoods.com/en-gb/bookmark/habit-tracker-the-science-backed-tool-that-builds-better-routines" target="_blank" rel="noopener noreferrer nofollow">https://karstgoods.com/en-gb/bookmark/habit-tracker-the-science-backed-tool-that-builds-better-routines</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit Tracker: The Science-Backed Tool That Builds Better...Feb 4, 2026 — A habit tracker transforms abstract intentions into concrete d...</p></details>
+   Link:<a href="https://karstgoods.com/en-gb/bookmark/habit-tracker-the-science-backed-tool-that-builds-better-routines" target="_blank" rel="noopener noreferrer nofollow">https://karstgoods.com/en-gb/bookmark/habit-tracker-the-science-backed-tool-that-builds-better-routines</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Habit Tracker: The Science-Backed Tool That Builds Better...Feb 4, 2026 — A habit tracker transforms abstract intentions into concrete d...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: theinspiredstories.com  
    Title: how to track your habits for better productivity and mindfulness  
-   Link: <a href="https://theinspiredstories.com/blogs/theinspiredstoriesblog/how-to-track-your-habits-for-better-productivity-and-mindfulness" target="_blank" rel="noopener noreferrer nofollow">https://theinspiredstories.com/blogs/theinspiredstoriesblog/how-to-track-your-habits-for-better-productivity-and-mindfulness</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Track Your Habits for Better Productivity and...Mar 21, 2025 — In this guide, we&#x27;ll explore habit tracking, how to use habit stac...</p></details>
+   Link:<a href="https://theinspiredstories.com/blogs/theinspiredstoriesblog/how-to-track-your-habits-for-better-productivity-and-mindfulness" target="_blank" rel="noopener noreferrer nofollow">https://theinspiredstories.com/blogs/theinspiredstoriesblog/how-to-track-your-habits-for-better-productivity-and-mindfulness</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Track Your Habits for Better Productivity and...Mar 21, 2025 — In this guide, we&#x27;ll explore habit tracking, how to use habit stac...</p></details>

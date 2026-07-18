@@ -502,18 +502,18 @@ image: /assets/images/self_improvement_tha_c01280_relapse_missed_days_db0249-ove
 
 ## Introduction
 
-Missing a day is not proof that [self improvement]({{ 'self-improvement-that-works/' | relative_url }}) has failed. It is usually a signal: the system was too brittle for real life, the cue was weak, the target was too large, the recovery rule was missing, or a predictable barrier was never planned for. This matters because the most damaging part of a missed day is often not the missed behaviour itself, but the story that follows: “I have ruined it”, “I am back to zero”, or “I may as well stop.” Behaviour-change research and relapse-prevention models point to a better interpretation. A lapse is a limited interruption; relapse is a wider return to the old pattern. The practical aim is not perfect streaks, but fast, low-drama recovery. Occasional omissions do not necessarily erase habit formation, but repeated unexamined lapses can reveal design flaws that need attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 899 — Missing the occasio...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 899 — Missing the occasio...</span></span></span>
+Missing a day is not proof that [self improvement]({{ 'self-improvement-that-works/' | relative_url }}) has failed. It is usually a signal: the system was too brittle for real life, the cue was weak, the target was too large, the recovery rule was missing, or a predictable barrier was never planned for. This matters because the most damaging part of a missed day is often not the missed behaviour itself, but the story that follows: “I have ruined it”, “I am back to zero”, or “I may as well stop.” Behaviour-change research and relapse-prevention models point to a better interpretation. A lapse is a limited interruption; relapse is a wider return to the old pattern. The practical aim is not perfect streaks, but fast, low-drama recovery. Occasional omissions do not necessarily erase habit formation, but repeated unexamined lapses can reveal design flaws that need attention.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 899 — Missing the occasio...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 899 — Missing the occasio...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_relapse_missed_days_db0249-overview.webp" | relative_url }}" alt="Overview image for Missed Days" loading="eager" decoding="sync" fetchpriority="high">
 For [self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}), missed days should be treated like diagnostic data. They show where intention met tiredness, travel, stress, boredom, [social pressure]({{ 'social-pressure/' | relative_url }}), low confidence, bad timing or an overambitious rule. The useful question is not “Why am I like this?” but “What made the behaviour less likely in this event window, and what restart rule would make tomorrow easier?”
 
 ## A missed day is a lapse, not a verdict
 
-The word “relapse” is useful, but it can be too heavy for ordinary self improvement unless it is handled carefully. In clinical relapse-prevention work, a distinction is often made between a lapse and a relapse: a lapse is a slip or brief return to the old behaviour, while relapse is a broader collapse back into the previous pattern. That distinction matters for everyday goals too. Skipping one workout, ordering takeaway once, missing one writing session or sleeping late after a bad night is not the same as abandoning the wider change. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 899 — Missing the occasio...</span></span></span>
+The word “relapse” is useful, but it can be too heavy for ordinary self improvement unless it is handled carefully. In clinical relapse-prevention work, a distinction is often made between a lapse and a relapse: a lapse is a slip or brief return to the old behaviour, while relapse is a broader collapse back into the previous pattern. That distinction matters for everyday goals too. Skipping one workout, ordering takeaway once, missing one writing session or sleeping late after a bad night is not the same as abandoning the wider change.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 899 — Missing the occasio...</span></span></span>
 
-The risk is that people interpret a small interruption as a total [identity]({{ 'identity/' | relative_url }}) failure. Marlatt’s relapse-prevention model describes the “abstinence violation effect”, where a lapse can trigger guilt, shame, lowered self-efficacy and a feeling that control has been lost. Although this model comes from addiction research, the mechanism is recognisable in ordinary self-improvement failures: one missed morning routine becomes “the week is ruined”; one unplanned snack becomes “the diet is over”; one unproductive day becomes “I am not a disciplined person.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 899 — Missing the occasio...</span></span></span>
+The risk is that people interpret a small interruption as a total [identity]({{ 'identity/' | relative_url }}) failure. Marlatt’s relapse-prevention model describes the “abstinence violation effect”, where a lapse can trigger guilt, shame, lowered self-efficacy and a feeling that control has been lost. Although this model comes from addiction research, the mechanism is recognisable in ordinary self-improvement failures: one missed morning routine becomes “the week is ruined”; one unplanned snack becomes “the diet is over”; one unproductive day becomes “I am not a disciplined person.”<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 899 — Missing the occasio...</span></span></span>
 
-That interpretation is dangerous because it turns a small event into permission to stop trying. In dieting research, related “what-the-hell” or counterregulatory effects describe how people who believe they have broken a strict rule may abandon restraint and consume more than they otherwise would. The lesson is not limited to food. Rigid all-or-nothing rules can make any missed day feel catastrophic, which increases the chance of a second missed day. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Counterregulatory_eating" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Counterregulatory eating</span><span class="citation-popover-snippet">Counterregulatory eating</span></span></span>
+That interpretation is dangerous because it turns a small event into permission to stop trying. In dieting research, related “what-the-hell” or counterregulatory effects describe how people who believe they have broken a strict rule may abandon restraint and consume more than they otherwise would. The lesson is not limited to food. Rigid all-or-nothing rules can make any missed day feel catastrophic, which increases the chance of a second missed day.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Counterregulatory_eating" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Counterregulatory eating</span><span class="citation-popover-snippet">Counterregulatory eating</span></span></span>
 
 A more useful frame is: “This was a lapse in execution, not a final assessment of character.” That sentence is not an excuse. It is a way of keeping the problem small enough to solve.
 
@@ -521,9 +521,9 @@ A more useful frame is: “This was a lapse in execution, not a final assessment
 
 Real [behaviour change]({{ 'behaviour-change/' | relative_url }}) happens in ordinary life, not in a laboratory schedule. People get ill, travel, work late, argue, feel low, lose childcare, forget equipment, face [bad weather]({{ 'bad-weather/' | relative_url }}), or simply meet a day where their planned behaviour had too much friction. A system that only works on calm, well-rested days has not yet been tested.
 
-The evidence on habit formation supports a less brittle view of consistency. In a well-known real-world habit formation study, participants chose a simple eating, drinking or activity behaviour and repeated it in a stable context over 12 weeks. Automaticity increased gradually and varied widely between people and behaviours. Importantly, missing one opportunity did not materially derail the habit formation process. A later review for general practice put the practical point plainly: occasional missed opportunities did not seriously impair habit formation, and automaticity gains resumed after a missed performance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Modelling habit formation in the real world</span><span class="citation-popover-snippet">Online Library Modelling habit formation in the real world</span></span></span>
+The evidence on habit formation supports a less brittle view of consistency. In a well-known real-world habit formation study, participants chose a simple eating, drinking or activity behaviour and repeated it in a stable context over 12 weeks. Automaticity increased gradually and varied widely between people and behaviours. Importantly, missing one opportunity did not materially derail the habit formation process. A later review for general practice put the practical point plainly: occasional missed opportunities did not seriously impair habit formation, and automaticity gains resumed after a missed performance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Modelling habit formation in the real world</span><span class="citation-popover-snippet">Online Library Modelling habit formation in the real world</span></span></span>
 
-This finding is often misused as reassurance that consistency barely matters. That is not the point. Repetition in a stable context still matters because habits form through repeated cue-behaviour pairings. The better conclusion is more precise: one missed day is usually not disastrous, but repeated misses in the same circumstances are meaningful information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cykelvaeksthuset.dk/media/az3linp0/promoting-habit-formation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cykelvaeksthuset.dk">[cykelvaeksthuset.dk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cykelvaeksthuset.dk</span><span class="citation-popover-title">Promoting habit formation</span><span class="citation-popover-snippet">Promoting habit formation</span></span></span>
+This finding is often misused as reassurance that consistency barely matters. That is not the point. Repetition in a stable context still matters because habits form through repeated cue-behaviour pairings. The better conclusion is more precise: one missed day is usually not disastrous, but repeated misses in the same circumstances are meaningful information.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cykelvaeksthuset.dk/media/az3linp0/promoting-habit-formation.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cykelvaeksthuset.dk">[cykelvaeksthuset.dk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cykelvaeksthuset.dk</span><span class="citation-popover-title">Promoting habit formation</span><span class="citation-popover-snippet">Promoting habit formation</span></span></span>
 
 For example, missing a reading habit once because of a family emergency is noise. Missing it every Friday night is a pattern. Missing a run once because of a storm is interruption. Missing it whenever the shoes are not visible is design feedback. Missing journalling after a late shift is not moral failure; it may mean the routine needs a smaller version for late days.
 
@@ -532,7 +532,7 @@ For example, missing a reading habit once because of a family emergency is noise
 
 After a missed day, the next action should be deliberately easy. This is not because ambition is bad, but because the immediate job is to re-enter the pattern. If the planned workout was 45 minutes, the restart version might be ten minutes. If the intended writing session was 1,000 words, the restart version might be opening the document and writing one rough paragraph. If the meditation habit was 20 minutes, the restart version might be three minutes.
 
-This works because a lapse often lowers confidence. Relapse-prevention models place self-efficacy, or belief in one’s ability to cope, at the centre of recovery after setbacks. A small completed action gives the person evidence that the system is still alive. It also prevents a common mistake: trying to compensate for a missed day by making the next day so demanding that it becomes another failure point. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 899 — Missing the occasio...</span></span></span>
+This works because a lapse often lowers confidence. Relapse-prevention models place self-efficacy, or belief in one’s ability to cope, at the centre of recovery after setbacks. A small completed action gives the person evidence that the system is still alive. It also prevents a common mistake: trying to compensate for a missed day by making the next day so demanding that it becomes another failure point.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 899 — Missing the occasio...</span></span></span>
 
 A useful restart rule has three features:
 
@@ -552,7 +552,7 @@ For instance: “If I miss a gym day, I do ten minutes at home the next morning.
 
 Many self-improvement systems quietly punish missed days. A streak counter resets to zero. A planner page looks ruined. A challenge becomes invalid. A person then feels that the cost of restarting is not just doing the behaviour again, but emotionally climbing back from “failure”.
 
-Self-monitoring can be useful: the Behaviour Change Technique Taxonomy includes self-monitoring, [goal setting]({{ 'goal-setting/' | relative_url }}), feedback, action planning and prompts among the active ingredients used in behaviour-change interventions. Reviews of digital behaviour-change tools also find that self-monitoring, goal setting and prompts are among the most commonly used techniques. But tracking becomes less useful when the tracker’s emotional design makes one missed day feel like a public defeat. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 899 — Missing the occasio</span></span></span>
+Self-monitoring can be useful: the Behaviour Change Technique Taxonomy includes self-monitoring, [goal setting]({{ 'goal-setting/' | relative_url }}), feedback, action planning and prompts among the active ingredients used in behaviour-change interventions. Reviews of digital behaviour-change tools also find that self-monitoring, goal setting and prompts are among the most commonly used techniques. But tracking becomes less useful when the tracker’s emotional design makes one missed day feel like a public defeat.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 899 — Missing the occasio</span></span></span>
 
 A better tracking rule is to record misses without turning them into drama. The mark should mean “data point”, not “identity collapse”. For some people, a streak is motivating; for others, it creates brittle perfectionism. The practical test is simple: after a miss, does the tracker make restarting easier or harder?
 
@@ -572,7 +572,7 @@ This changes the purpose of tracking. The point is not to protect a perfect chai
 
 ## Missed days are often system failures in disguise
 
-The least useful explanation for a missed day is usually “I lacked discipline.” It may be true in a vague sense, but it does not tell the person what to change. Behaviour-change research is more practical when it asks which active ingredient was missing: was the goal too vague, the prompt absent, the environment unsupportive, the feedback delayed, the action too large, or the coping plan underdeveloped? <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 899 — Missing the occasio</span></span></span>
+The least useful explanation for a missed day is usually “I lacked discipline.” It may be true in a vague sense, but it does not tell the person what to change. Behaviour-change research is more practical when it asks which active ingredient was missing: was the goal too vague, the prompt absent, the environment unsupportive, the feedback delayed, the action too large, or the coping plan underdeveloped?<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 899 — Missing the occasio</span></span></span>
 
 A missed day becomes useful when it points to one of a few common failure patterns.
 
@@ -582,7 +582,7 @@ A missed day becomes useful when it points to one of a few common failure patter
 
 **The environment kept voting against the goal.** If the phone is beside the bed, the guitar is in a cupboard, the running clothes are unwashed, or the healthy lunch requires morning decisions, the environment is making the old behaviour easier.
 
-**The plan ignored predictable barriers.** Coping planning is specifically about anticipating obstacles and deciding in advance how to respond. Reviews of action planning and implementation intentions suggest planning can help bridge the gap between intention and behaviour, although effects vary by design and context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 899 — Missing the occasio</span></span></span>
+**The plan ignored predictable barriers.** Coping planning is specifically about anticipating obstacles and deciding in advance how to respond. Reviews of action planning and implementation intentions suggest planning can help bridge the gap between intention and behaviour, although effects vary by design and context.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 899 — Missing the occasio</span></span></span>
 
 **The reward was too distant.** Many self-improvement goals have delayed payoffs: health, skill, savings, confidence. A restart system may need an immediate reward that is not self-sabotaging: a visible tick, a pleasant playlist, a short walk outside, or a satisfying shutdown ritual.
 
@@ -601,7 +601,7 @@ A useful lapse review asks:
 4. **What would make the desired behaviour easier by tomorrow?** Reduce the size, move the cue, prepare the equipment, change the time, ask for [support]({{ 'support/' | relative_url }}), remove friction.
 5. **What is the minimum acceptable version?** Define the action that keeps the pattern alive without pretending every day is ideal.
 
-This form of review fits the broader evidence on behaviour maintenance: sustained change is not just initial motivation, but ongoing self-regulation, planning, coping, context management and recovery after disruption. A systematic review of behaviour-change maintenance theories identified motives, self-regulation, resources, habits and environmental/social influences as recurring explanations for whether change lasts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/17437199.2016.1151372" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This form of review fits the broader evidence on behaviour maintenance: sustained change is not just initial motivation, but ongoing self-regulation, planning, coping, context management and recovery after disruption. A systematic review of behaviour-change maintenance theories identified motives, self-regulation, resources, habits and environmental/social influences as recurring explanations for whether change lasts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/17437199.2016.1151372" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The important word is “pattern”. A lapse review should not be triggered by every tiny imperfection. Over-analysis can become another avoidance behaviour. But when the same miss repeats, the system is sending a message.
 
@@ -615,7 +615,7 @@ Compensation can be useful when it is gentle and realistic, such as doing a shor
 
 The better recovery rule is: **resume before you repair**. First, do the next normal or minimum version. Only then decide whether any catch-up is genuinely needed. For many habits, catch-up is irrelevant. You do not need to brush your teeth four times because you missed once. You do not need to meditate for an hour because yesterday was chaotic. The goal is to restore the rhythm.
 
-This is especially important for goals involving health, food, sleep and exercise. Rigid restriction after a lapse can intensify all-or-nothing thinking, while flexible restraint tends to be more sustainable than rules that make ordinary variation feel like failure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Implementation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+This is especially important for goals involving health, food, sleep and exercise. Rigid restriction after a lapse can intensify all-or-nothing thinking, while flexible restraint tends to be more sustainable than rules that make ordinary variation feel like failure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Implementation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 ## What to do in the first 24 hours after a miss
 
@@ -643,7 +643,7 @@ Sometimes the right lesson is not “try harder” or even “restart smaller”
 
 A goal may need revision if missed days cluster around the same structural problem: the schedule is impossible, the behaviour conflicts with sleep, the plan depends on money or equipment you do not reliably have, or the target was copied from someone else’s life. A person with caring responsibilities, shift work or chronic fatigue may need a different rhythm from someone with predictable evenings. A student during exams may need a maintenance version rather than a growth version. A beginner may need two workouts a week before aiming for five.
 
-This is not lowering standards for comfort. It is making the target compatible with reality. Behaviour-change interventions are more precise when they specify the behaviour, context and mechanism rather than relying on aspiration. If the behaviour cannot be repeated in the person’s actual life, it is not yet a workable habit design. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 899 — Missing the occasio</span></span></span>
+This is not lowering standards for comfort. It is making the target compatible with reality. Behaviour-change interventions are more precise when they specify the behaviour, context and mechanism rather than relying on aspiration. If the behaviour cannot be repeated in the person’s actual life, it is not yet a workable habit design.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 899 — Missing the occasio</span></span></span>
 
 A useful revision keeps the value but changes the implementation. “I want to be fit” might become “I will do two scheduled strength sessions and one flexible walk.” “I want to write daily” might become “I will write on weekdays and review notes on Sundays.” “I want to stop scrolling at night” might become “The phone charges in the kitchen from 10 pm, with one planned exception for travel.”
 
@@ -653,7 +653,7 @@ The question is not “What would my ideal self do every day?” It is “What v
 
 Many self-improvement plans use identity language: become a runner, reader, saver, calm person, organised person. This can help when identity supports action, but it can backfire if one missed day appears to disprove the identity. “A real runner would not skip.” “A disciplined person would not do this.” “I guess I am not that kind of person.”
 
-A more durable identity allows interruption. “I am someone who returns.” “I am a person who keeps the system alive after messy days.” “I do not need a perfect record to continue.” This is not empty affirmation; it is a recovery behaviour. Research on self-compassion and goal pursuit suggests that responding to setbacks with kindness and perspective can support adaptive coping rather than avoidance or rumination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://self-compassion.org/wp-content/uploads/publications/SClearninggoals.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: self-compassion.org">[Self-Compassion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">self-compassion.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A more durable identity allows interruption. “I am someone who returns.” “I am a person who keeps the system alive after messy days.” “I do not need a perfect record to continue.” This is not empty affirmation; it is a recovery behaviour. Research on self-compassion and goal pursuit suggests that responding to setbacks with kindness and perspective can support adaptive coping rather than avoidance or rumination.<span class="citation-chip-wrap"><a class="citation-chip" href="https://self-compassion.org/wp-content/uploads/publications/SClearninggoals.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: self-compassion.org">[Self-Compassion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">self-compassion.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Self-compassion is often misunderstood as letting oneself off the hook. In this context, it is closer to accurate accounting. A missed day is acknowledged, the consequence is contained, and the next useful action is taken. Shame says, “Because I failed, I cannot continue.” Self-compassion says, “Because I am human, I need a restart rule.”
 
@@ -693,269 +693,269 @@ Relapse and missed days are uncomfortable because they expose the gap between th
 The core rule is simple: **missed days are feedback before they are failure**. Treat one missed day as a lapse to recover from quickly. Treat repeated missed days as a pattern to learn from. Keep the restart small, the tracking neutral, the review specific and the identity continuous. That is how a system survives the ordinary interruptions that break perfection-based plans.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What to Do After You Miss a Day. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What to Do After You Miss a Day. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Strong emphasis on recovering from misses and maintaining systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Strong emphasis on recovering from misses and maintaining systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
-        </h4>
-        <p class="fr-book-author">By B. J. Fogg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
+</h4>
+<p class="fr-book-author">By B. J. Fogg</p>
         
-        <p class="fr-book-desc">Encourages easy restarts after interruptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages easy restarts after interruptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Carol S. Dweck</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
-        <p class="fr-book-desc">Useful for reframing setbacks as learning opportunities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
+</h4>
+<p class="fr-book-author">By Carol S. Dweck</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
+<p class="fr-book-desc">Useful for reframing setbacks as learning opportunities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
-        </h4>
-        <p class="fr-book-author">By Charles Duhigg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
+</h4>
+<p class="fr-book-author">By Charles Duhigg</p>
         
-        <p class="fr-book-desc">Explains how habits persist despite occasional lapses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how habits persist despite occasional lapses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=success+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-success-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SUCCESS NUTRITION FACTS Motivation Success Work Decor Wall Games POSTER CANVAS"><img src="{{ '/assets/images/marketplace-covers/d1e5f0582562e90074b0.jpg' | relative_url }}" alt="Listing image for SUCCESS NUTRITION FACTS Motivation Success Work Decor Wall Games POSTER CANVAS" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=success+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-success-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SUCCESS NUTRITION FACTS Motivation Success Work Decor Wall Games POSTER CANVAS</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=success+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-success-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for success wall art">Search <span data-ebay-domain-label>eBay.com</span>: success wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=success+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-success-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=success+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-success-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SUCCESS NUTRITION FACTS Motivation Success Work Decor Wall Games POSTER CANVAS"><img src="{{ '/assets/images/marketplace-covers/d1e5f0582562e90074b0.jpg' | relative_url }}" alt="Listing image for SUCCESS NUTRITION FACTS Motivation Success Work Decor Wall Games POSTER CANVAS" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=success+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-success-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SUCCESS NUTRITION FACTS Motivation Success Work Decor Wall Games POSTER CANVAS</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=success+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-success-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for success wall art">Search<span data-ebay-domain-label>eBay.com</span>: success wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=success+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-success-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=success+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-success-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Mindset Success Quote Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/e492dec571adcf6d7649.jpg' | relative_url }}" alt="Listing image for Motivational Mindset Success Quote Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=success+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-success-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Mindset Success Quote Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=success+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-success-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for success wall art">Search <span data-ebay-domain-label>eBay.com</span>: success wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=success+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-success-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=success+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-success-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Mindset Success Quote Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/e492dec571adcf6d7649.jpg' | relative_url }}" alt="Listing image for Motivational Mindset Success Quote Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=success+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-success-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Motivational Mindset Success Quote Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=success+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-success-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for success wall art">Search<span data-ebay-domain-label>eBay.com</span>: success wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=success+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-success-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=success+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-success-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Success Canvas - Motivational Wall Art"><img src="{{ '/assets/images/marketplace-covers/447677a9efec5de995f2.jpg' | relative_url }}" alt="Listing image for Success Canvas - Motivational Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=success+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-success-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Success Canvas - Motivational Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=success+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-success-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for success wall art">Search <span data-ebay-domain-label>eBay.com</span>: success wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=success+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-success-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=success+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-success-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Success Canvas - Motivational Wall Art"><img src="{{ '/assets/images/marketplace-covers/447677a9efec5de995f2.jpg' | relative_url }}" alt="Listing image for Success Canvas - Motivational Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=success+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-success-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Success Canvas - Motivational Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=success+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-success-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for success wall art">Search<span data-ebay-domain-label>eBay.com</span>: success wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=success+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-success-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=success+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-success-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for John Wooden Pyramid of Success Motivational Poster Wall Art Print Inspirational"><img src="{{ '/assets/images/marketplace-covers/4ed7fa76bb4362637148.jpg' | relative_url }}" alt="Listing image for John Wooden Pyramid of Success Motivational Poster Wall Art Print Inspirational" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=success+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-success-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">John Wooden Pyramid of Success Motivational Poster Wall Art Print Inspirational</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=success+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-success-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for success wall art">Search <span data-ebay-domain-label>eBay.com</span>: success wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=success+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-success-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=success+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-success-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=success+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-success-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for John Wooden Pyramid of Success Motivational Poster Wall Art Print Inspirational"><img src="{{ '/assets/images/marketplace-covers/4ed7fa76bb4362637148.jpg' | relative_url }}" alt="Listing image for John Wooden Pyramid of Success Motivational Poster Wall Art Print Inspirational" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=success+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-success-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">John Wooden Pyramid of Success Motivational Poster Wall Art Print Inspirational</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=success+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-success-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for success wall art">Search<span data-ebay-domain-label>eBay.com</span>: success wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=success+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-success-wall-art&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=success+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-success-wall-art&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar 12‑Month Undated Daily Weekly Monthly Goal Planner A4"><img src="{{ '/assets/images/marketplace-covers/7954881b4b2556a6a539.jpg' | relative_url }}" alt="Listing image for Habit Tracker Calendar 12‑Month Undated Daily Weekly Monthly Goal Planner A4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar 12‑Month Undated Daily Weekly Monthly Goal Planner A4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar 12‑Month Undated Daily Weekly Monthly Goal Planner A4"><img src="{{ '/assets/images/marketplace-covers/7954881b4b2556a6a539.jpg' | relative_url }}" alt="Listing image for Habit Tracker Calendar 12‑Month Undated Daily Weekly Monthly Goal Planner A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar 12‑Month Undated Daily Weekly Monthly Goal Planner A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Undated Calendar The Motivational Journal Features Space for 20..."><img src="{{ '/assets/images/marketplace-covers/74cc77b1c46199d403d5.jpg' | relative_url }}" alt="Listing image for Habit Tracker Undated Calendar The Motivational Journal Features Space for 20..." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Undated Calendar The Motivational Journal Features Space for 20...</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Undated Calendar The Motivational Journal Features Space for 20..."><img src="{{ '/assets/images/marketplace-covers/74cc77b1c46199d403d5.jpg' | relative_url }}" alt="Listing image for Habit Tracker Undated Calendar The Motivational Journal Features Space for 20..." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Undated Calendar The Motivational Journal Features Space for 20...</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Floral Habit Tracker Calendar|Monthly Daily Habit Planner|Spiral Desk Organizer"><img src="{{ '/assets/images/marketplace-covers/4490bc55c38326362da3.jpg' | relative_url }}" alt="Listing image for Floral Habit Tracker Calendar|Monthly Daily Habit Planner|Spiral Desk Organizer" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Floral Habit Tracker Calendar|Monthly Daily Habit Planner|Spiral Desk Organizer</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Floral Habit Tracker Calendar|Monthly Daily Habit Planner|Spiral Desk Organizer"><img src="{{ '/assets/images/marketplace-covers/4490bc55c38326362da3.jpg' | relative_url }}" alt="Listing image for Floral Habit Tracker Calendar|Monthly Daily Habit Planner|Spiral Desk Organizer" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Floral Habit Tracker Calendar|Monthly Daily Habit Planner|Spiral Desk Organizer</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar, 24 Undated Monthly A4 Habit Tracker Pad, Wire-Bound D..."><img src="{{ '/assets/images/marketplace-covers/2781fd9e9858633c2124.jpg' | relative_url }}" alt="Listing image for Habit Tracker Calendar, 24 Undated Monthly A4 Habit Tracker Pad, Wire-Bound D..." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar, 24 Undated Monthly A4 Habit Tracker Pad, Wire-Bound D...</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar, 24 Undated Monthly A4 Habit Tracker Pad, Wire-Bound D..."><img src="{{ '/assets/images/marketplace-covers/2781fd9e9858633c2124.jpg' | relative_url }}" alt="Listing image for Habit Tracker Calendar, 24 Undated Monthly A4 Habit Tracker Pad, Wire-Bound D..." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar, 24 Undated Monthly A4 Habit Tracker Pad, Wire-Bound D...</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missed-days-what-to-do-after-you-miss-a-day-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -971,7 +971,7 @@ The core rule is simple: **missed days are feedback before they are failure**. T
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -991,7 +991,7 @@ The core rule is simple: **missed days are feedback before they are failure**. T
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -1023,7 +1023,7 @@ The core rule is simple: **missed days are feedback before they are failure**. T
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -1053,7 +1053,7 @@ The core rule is simple: **missed days are feedback before they are failure**. T
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -1111,152 +1111,152 @@ The core rule is simple: **missed days are feedback before they are failure**. T
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Counterregulatory eating  
-   Link: <a href="https://en.wikipedia.org/wiki/Counterregulatory_eating" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Counterregulatory_eating</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Counterregulatory_eating" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Counterregulatory_eating</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: onlinelibrary.wiley.com  
    Title: Online Library Modelling habit formation in the real world  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674</a>  
+   Link:<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/abs/10.1002/ejsp.674</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cykelvaeksthuset.dk  
    Title: Promoting habit formation  
-   Link: <a href="https://www.cykelvaeksthuset.dk/media/az3linp0/promoting-habit-formation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cykelvaeksthuset.dk/media/az3linp0/promoting-habit-formation.pdf</a>  
+   Link:<a href="https://www.cykelvaeksthuset.dk/media/az3linp0/promoting-habit-formation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cykelvaeksthuset.dk/media/az3linp0/promoting-habit-formation.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: self-compassion.org  
-   Link: <a href="https://self-compassion.org/wp-content/uploads/publications/SClearninggoals.pdf" target="_blank" rel="noopener noreferrer nofollow">https://self-compassion.org/wp-content/uploads/publications/SClearninggoals.pdf</a>  
+   Link:<a href="https://self-compassion.org/wp-content/uploads/publications/SClearninggoals.pdf" target="_blank" rel="noopener noreferrer nofollow">https://self-compassion.org/wp-content/uploads/publications/SClearninggoals.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: onlinelibrary.wiley.com  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674?538fcd4b_page=6&amp;d2101103_page=2&amp;ref_=b2b_cm_3p_cs_t_ww" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674?538fcd4b_page=6&amp;d2101103_page=2&amp;ref_=b2b_cm_3p_cs_t_ww</a>  
+   Link:<a href="https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674?538fcd4b_page=6&amp;d2101103_page=2&amp;ref_=b2b_cm_3p_cs_t_ww" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674?538fcd4b_page=6&amp;d2101103_page=2&amp;ref_=b2b_cm_3p_cs_t_ww</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Implementation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Implementation</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Implementation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Implementation</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 899 — Missing the occasio...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralMaking health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 899 — Missing the occasio...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Relapse Prevention: An Overview of Marlatt's Cognitive  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6760427/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6760427/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by ME Larimer · 1999 · Cited by 1172 — Lapse-management strategies focus on halting the lapse and combating the abstinence violation e...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6760427/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6760427/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by ME Larimer · 1999 · Cited by 1172 — Lapse-management strategies focus on halting the lapse and combating the abstinence violation e...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9014843/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23512568/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23512568/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/24591064/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24591064/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/24591064/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/24591064/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9223740/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9223740/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9223740/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9223740/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/17437199.2016.1151372" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/17437199.2016.1151372</a>  
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/17437199.2016.1151372" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/17437199.2016.1151372</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Goal pursuit increases more after dietary success than  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10895756/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10895756/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10895756/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10895756/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/23311908.2022.2041277" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/23311908.2022.2041277</a>  
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/23311908.2022.2041277" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/23311908.2022.2041277</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/21749245/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/21749245/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/21749245/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/21749245/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: sciencedirect.com  
    Title: Abstinence Violation  
-   Link: <a href="https://www.sciencedirect.com/topics/psychology/abstinence-violation" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/abstinence-violation</a>  
+   Link:<a href="https://www.sciencedirect.com/topics/psychology/abstinence-violation" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/abstinence-violation</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2016.00289/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2016.00289/full</a>  
+   Link:<a href="https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2016.00289/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2016.00289/full</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: adf.org.au  
-   Link: <a href="https://adf.org.au/reducing-risk/relapse/" target="_blank" rel="noopener noreferrer nofollow">https://adf.org.au/reducing-risk/relapse/</a>  
+   Link:<a href="https://adf.org.au/reducing-risk/relapse/" target="_blank" rel="noopener noreferrer nofollow">https://adf.org.au/reducing-risk/relapse/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ojs.lib.uwo.ca  
-   Link: <a href="https://ojs.lib.uwo.ca/index.php/wupj/article/view/15249" target="_blank" rel="noopener noreferrer nofollow">https://ojs.lib.uwo.ca/index.php/wupj/article/view/15249</a>  
+   Link:<a href="https://ojs.lib.uwo.ca/index.php/wupj/article/view/15249" target="_blank" rel="noopener noreferrer nofollow">https://ojs.lib.uwo.ca/index.php/wupj/article/view/15249</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: southshorerecovery.com  
    Title: abstinence violation effect  
-   Link: <a href="https://southshorerecovery.com/abstinence-violation-effect/" target="_blank" rel="noopener noreferrer nofollow">https://southshorerecovery.com/abstinence-violation-effect/</a>  
+   Link:<a href="https://southshorerecovery.com/abstinence-violation-effect/" target="_blank" rel="noopener noreferrer nofollow">https://southshorerecovery.com/abstinence-violation-effect/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: feedyourmental.com  
    Title: self compassion as a behavior change tool  
-   Link: <a href="https://www.feedyourmental.com/blog/2022/7/19/self-compassion-as-a-behavior-change-tool" target="_blank" rel="noopener noreferrer nofollow">https://www.feedyourmental.com/blog/2022/7/19/self-compassion-as-a-behavior-change-tool</a>  
+   Link:<a href="https://www.feedyourmental.com/blog/2022/7/19/self-compassion-as-a-behavior-change-tool" target="_blank" rel="noopener noreferrer nofollow">https://www.feedyourmental.com/blog/2022/7/19/self-compassion-as-a-behavior-change-tool</a>  
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: All-or-Nothing Thinking: A Cognitive Distortion That Leads to Depression (#3)  
-   Link: <a href="https://www.youtube.com/watch?v=jkafQlNX3eE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jkafQlNX3eE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>James Clear &quot;never miss twice&quot; rule Never Miss Two Days: James Clear’s Best Habit Rule Revealed Stoic Shift...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jkafQlNX3eE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jkafQlNX3eE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>James Clear &quot;never miss twice&quot; rule Never Miss Two Days: James Clear’s Best Habit Rule Revealed Stoic Shift...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: "Build Wealth & Discipline Using Atomic Habits"  
-   Link: <a href="https://www.youtube.com/watch?v=WaLJq6Txhqo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WaLJq6Txhqo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>All-or-Nothing Thinking: A Cognitive Distortion That Leads to Depression (#3)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WaLJq6Txhqo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WaLJq6Txhqo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All-or-Nothing Thinking: A Cognitive Distortion That Leads to Depression (#3)...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: TLDR Addiction: #6  
-   Link: <a href="https://www.youtube.com/watch?v=spvtY0edGVA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=spvtY0edGVA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Your goals aren&#x27;t the problem, your method is...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=spvtY0edGVA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=spvtY0edGVA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Your goals aren&#x27;t the problem, your method is...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/233302898_Beyond_intentional_processes_The_role_of_action_and_coping_planning_in_explaining_exercise_behaviour_among_adolescents" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/233302898_Beyond_intentional_processes_The_role_of_action_and_coping_planning_in_explaining_exercise_behaviour_among_adolescents</a>  
+   Link:<a href="https://www.researchgate.net/publication/233302898_Beyond_intentional_processes_The_role_of_action_and_coping_planning_in_explaining_exercise_behaviour_among_adolescents" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/233302898_Beyond_intentional_processes_The_role_of_action_and_coping_planning_in_explaining_exercise_behaviour_among_adolescents</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/2475072/How_are_habits_formed_Modelling_habit_formation_in_the_real_world" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/2475072/How_are_habits_formed_Modelling_habit_formation_in_the_real_world</a>  
+   Link:<a href="https://www.academia.edu/2475072/How_are_habits_formed_Modelling_habit_formation_in_the_real_world" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/2475072/How_are_habits_formed_Modelling_habit_formation_in_the_real_world</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/361879142_Self-Efficacy_as_a_Potential_Mechanism_of_Behavior_Change_in_Mindfulness-Based_Relapse_Prevention" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/361879142_Self-Efficacy_as_a_Potential_Mechanism_of_Behavior_Change_in_Mindfulness-Based_Relapse_Prevention</a>  
+   Link:<a href="https://www.researchgate.net/publication/361879142_Self-Efficacy_as_a_Potential_Mechanism_of_Behavior_Change_in_Mindfulness-Based_Relapse_Prevention" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/361879142_Self-Efficacy_as_a_Potential_Mechanism_of_Behavior_Change_in_Mindfulness-Based_Relapse_Prevention</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/225096701_A_prospective_study_of_predictors_of_relapse_in_anorexia_nervosa_Implications_for_relapse_prevention" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/225096701_A_prospective_study_of_predictors_of_relapse_in_anorexia_nervosa_Implications_for_relapse_prevention</a>  
+   Link:<a href="https://www.researchgate.net/publication/225096701_A_prospective_study_of_predictors_of_relapse_in_anorexia_nervosa_Implications_for_relapse_prevention" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/225096701_A_prospective_study_of_predictors_of_relapse_in_anorexia_nervosa_Implications_for_relapse_prevention</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions</a>  
+   Link:<a href="https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/260309798_The_Role_of_Self-Compassion_in_Goal_Pursuit_and_Well-Being_Among_University_Freshmen" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/260309798_The_Role_of_Self-Compassion_in_Goal_Pursuit_and_Well-Being_Among_University_Freshmen</a>  
+   Link:<a href="https://www.researchgate.net/publication/260309798_The_Role_of_Self-Compassion_in_Goal_Pursuit_and_Well-Being_Among_University_Freshmen" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/260309798_The_Role_of_Self-Compassion_in_Goal_Pursuit_and_Well-Being_Among_University_Freshmen</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/17437199.2011.560095?mi=3icuj5" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/17437199.2011.560095?mi=3icuj5</a>
+   Link:<a href="https://www.tandfonline.com/doi/abs/10.1080/17437199.2011.560095?mi=3icuj5" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/17437199.2011.560095?mi=3icuj5</a>

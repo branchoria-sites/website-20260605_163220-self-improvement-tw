@@ -268,7 +268,7 @@ image: /assets/images/self_improvement_tha_c01280_social_support_057e53_autonomy
 
 ## Introduction
 
-Accountability helps [self improvement]({{ 'self-improvement-that-works/' | relative_url }}) when it protects a person's ability to choose, learn and continue. It becomes counterproductive when it relies on shame, surveillance or threats to self-worth. The distinction matters because both approaches can increase effort in the short term, yet they create very different forms of [motivation]({{ 'motivation/' | relative_url }}). Autonomy-supportive accountability helps people act for reasons they recognise as their own. Shame-based pressure pushes behaviour through fear of judgement, embarrassment or social exposure. Research based on Self-Determination Theory (SDT) consistently finds that environments supporting autonomy, competence and relatedness are associated with stronger and more sustainable motivation, while controlling forms of pressure tend to undermine the quality of motivation and long-term persistence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-determination theory and the facilitation of intrinsic...Research guided by self-determination theory has focused on the soci...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/17437199.2020.1718529" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineA meta-analysis of self-determination theory-informed...by N Ntoumanis · 2021 · Cited by 1450 — The results of ef...</span></span></span>
+Accountability helps [self improvement]({{ 'self-improvement-that-works/' | relative_url }}) when it protects a person's ability to choose, learn and continue. It becomes counterproductive when it relies on shame, surveillance or threats to self-worth. The distinction matters because both approaches can increase effort in the short term, yet they create very different forms of [motivation]({{ 'motivation/' | relative_url }}). Autonomy-supportive accountability helps people act for reasons they recognise as their own. Shame-based pressure pushes behaviour through fear of judgement, embarrassment or social exposure. Research based on Self-Determination Theory (SDT) consistently finds that environments supporting autonomy, competence and relatedness are associated with stronger and more sustainable motivation, while controlling forms of pressure tend to undermine the quality of motivation and long-term persistence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-determination theory and the facilitation of intrinsic...Research guided by self-determination theory has focused on the soci...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/17437199.2020.1718529" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineA meta-analysis of self-determination theory-informed...by N Ntoumanis · 2021 · Cited by 1450 — The results of ef...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_social_support_057e53_autonomy_support_b5619c-Illustration-1-dark.svg" | relative_url }}" alt="Autonomy support illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_social_support_057e53_autonomy_support_b5619c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_social_support_057e53_autonomy_support_b5619c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within [social support]({{ 'social-support/' | relative_url }}), the question is therefore not whether accountability works, but what kind of accountability is being created. The most useful support makes the next action clearer and easier without turning the person's [identity]({{ 'identity/' | relative_url }}) into the thing being evaluated.
@@ -286,7 +286,7 @@ Consider two versions of the same arrangement:
 
 Both involve another person. Both create external expectations. Yet the psychological experience is very different.
 
-Autonomy-supportive accountability provides a rationale, leaves room for choice, and treats setbacks as information. Controlling accountability relies on pressure, guilt, status threats or fear of disappointing others. SDT research distinguishes autonomous motivation from controlled motivation in precisely this way: behaviour may occur in both cases, but the underlying reason for acting differs. Autonomous motivation is linked to greater persistence and wellbeing, whereas controlled motivation depends more heavily on pressure and compliance. Frontiers <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/1479-5868-9-78" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">springer.comExercise, physical activity, and self-determination theoryby PJ Teixeira · 2012 · Cited by 4548 — SDT, however, conceptualize...</span></span></span> This explains a common pattern in self-improvement efforts. People often perform well while someone is watching, then stop when the external pressure disappears. The accountability system succeeded at producing compliance but failed at helping the person internalise the behaviour.
+Autonomy-supportive accountability provides a rationale, leaves room for choice, and treats setbacks as information. Controlling accountability relies on pressure, guilt, status threats or fear of disappointing others. SDT research distinguishes autonomous motivation from controlled motivation in precisely this way: behaviour may occur in both cases, but the underlying reason for acting differs. Autonomous motivation is linked to greater persistence and wellbeing, whereas controlled motivation depends more heavily on pressure and compliance. Frontiers<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/1479" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">springer.comExercise, physical activity, and self-determination theoryby PJ Teixeira · 2012 · Cited by 4548 — SDT, however, conceptualize...</span></span></span> This explains a common pattern in self-improvement efforts. People often perform well while someone is watching, then stop when the external pressure disappears. The accountability system succeeded at producing compliance but failed at helping the person internalise the behaviour.
 
 ## Why autonomy support produces more durable change
 
@@ -296,13 +296,13 @@ Research within SDT identifies three psychological needs that support high-quali
 
 * **Autonomy**: feeling that actions are chosen rather than imposed.
 * **Competence**: feeling capable of making progress.
-* **Relatedness**: feeling understood and supported by others. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/08295735211055355" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">In SDT, these needs are conceived as</span><span class="citation-popover-snippet">Sage JournalsApplying Self-Determination Theory to Educationby F Guay · 2022 · Cited by 881 — This theory proposes three psychological ne...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1634267/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersApplying self-determination theory to behavior change...by R Gerstenberg · 2025 · Cited by 2 — The satisfaction of the three ba...</span></span></span>
+* **Relatedness**: feeling understood and supported by others.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/08295735211055355" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">In SDT, these needs are conceived as</span><span class="citation-popover-snippet">Sage JournalsApplying Self-Determination Theory to Educationby F Guay · 2022 · Cited by 881 — This theory proposes three psychological ne...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1634267/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersApplying self-determination theory to behavior change...by R Gerstenberg · 2025 · Cited by 2 — The satisfaction of the three ba...</span></span></span>
 
 Good accountability strengthens all three at once.
 
 ### Autonomy: preserving ownership
 
-Ownership is maintained when support helps a person connect actions to their own goals and values. Offering options, asking questions and acknowledging difficulties all reinforce the sense that the individual remains the author of the change effort. SDT-informed interventions frequently use these [techniques]({{ 'techniques/' | relative_url }}) because they increase autonomous motivation and psychological need satisfaction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-determination theory and the facilitation of intrinsic...Research guided by self-determination theory has focused on the soci...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/17437199.2020.1718529" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineA meta-analysis of self-determination theory-informed...by N Ntoumanis · 2021 · Cited by 1450 — The results of ef...</span></span></span>
+Ownership is maintained when support helps a person connect actions to their own goals and values. Offering options, asking questions and acknowledging difficulties all reinforce the sense that the individual remains the author of the change effort. SDT-informed interventions frequently use these [techniques]({{ 'techniques/' | relative_url }}) because they increase autonomous motivation and psychological need satisfaction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-determination theory and the facilitation of intrinsic...Research guided by self-determination theory has focused on the soci...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/17437199.2020.1718529" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineA meta-analysis of self-determination theory-informed...by N Ntoumanis · 2021 · Cited by 1450 — The results of ef...</span></span></span>
 
 An accountability partner who asks, "Which option feels realistic this week?" supports autonomy. One who says, "You have to do this if you care about yourself," attempts to replace it.
 
@@ -312,7 +312,7 @@ An accountability partner who asks, "Which option feels realistic this week?" su
 
 People persist when they experience progress as achievable. Accountability that highlights effort, strategies and learning strengthens competence. Accountability that focuses on failure, comparison or personal inadequacy weakens it.
 
-Research on autonomy-supportive coaching illustrates this mechanism. Process-focused [feedback]({{ 'feedback/' | relative_url }}) and autonomy-supportive interactions are associated with greater competence satisfaction and healthier development outcomes than controlling approaches. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4410092/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Effects of Autonomy-supportive Coaching, Need</span><span class="citation-popover-snippet">by JD Coatsworth · 2009 · Cited by 358 — Results indicated that coaches&#x27; autonomy support, particularly via process-focused praise, pr...</span></span></span>
+Research on autonomy-supportive coaching illustrates this mechanism. Process-focused [feedback]({{ 'feedback/' | relative_url }}) and autonomy-supportive interactions are associated with greater competence satisfaction and healthier development outcomes than controlling approaches.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4410092/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Effects of Autonomy-supportive Coaching, Need</span><span class="citation-popover-snippet">by JD Coatsworth · 2009 · Cited by 358 — Results indicated that coaches&#x27; autonomy support, particularly via process-focused praise, pr...</span></span></span>
 
 When someone misses a target, competence-supportive accountability asks, "What obstacle showed up?" rather than, "What's wrong with you?"
 
@@ -330,7 +330,7 @@ Shame and accountability are often confused because both involve evaluation. The
 
 Shame communicates, implicitly or explicitly, that the person is the problem. Accountability evaluates behaviour, decisions or strategies.
 
-Psychological research consistently distinguishes shame from guilt. Guilt is typically linked to a specific action and often promotes repair or corrective effort. Shame is more likely to involve a negative judgement of the self as a whole and is frequently associated with withdrawal, hiding or avoidance. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/news/podcasts/speaking-of-psychology/guilt-shame" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationWhat&#x27;s the difference between guilt and shame?June Tangney, PhD, talks about the difference between sha...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6143989/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCReconsidering the Differences Between Shame and Guilt</span><span class="citation-popover-snippet">by M Miceli · 2018 · Cited by 255 — Shame implies perceived lack of power to meet the standards of one&#x27;s ideal self, whereas guilt imp...</span></span></span>
+Psychological research consistently distinguishes shame from guilt. Guilt is typically linked to a specific action and often promotes repair or corrective effort. Shame is more likely to involve a negative judgement of the self as a whole and is frequently associated with withdrawal, hiding or avoidance. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/news/podcasts/speaking-of-psychology/guilt-shame" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationWhat&#x27;s the difference between guilt and shame?June Tangney, PhD, talks about the difference between sha...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6143989/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCReconsidering the Differences Between Shame and Guilt</span><span class="citation-popover-snippet">by M Miceli · 2018 · Cited by 255 — Shame implies perceived lack of power to meet the standards of one&#x27;s ideal self, whereas guilt imp...</span></span></span>
 
 In self-improvement settings, shame-based pressure often sounds like:
 
@@ -345,7 +345,7 @@ In self-improvement settings, shame-based pressure often sounds like:
 
 These statements do not identify a next step. They create a threat to identity.
 
-A person experiencing shame may work harder for a period, but the motivation frequently becomes defensive. The goal shifts from learning and progress to escaping judgement. Studies examining shame suggest that it can generate desires for self-change, but it is also strongly linked to distancing, withdrawal and concealment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-determination theory and the facilitation of intrinsic...Research guided by self-determination theory has focused on the soci...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psychologytoday.com/ca/blog/creative-synthesis/201501/shame-and-motivation-to-change" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">shame and motivation to change</span><span class="citation-popover-snippet">Jan 29, 2015 — the urge to distance oneself (wanting to hide or remove oneself from a shameful situation). They found that shame &quot;was uni...</span></span></span>
+A person experiencing shame may work harder for a period, but the motivation frequently becomes defensive. The goal shifts from learning and progress to escaping judgement. Studies examining shame suggest that it can generate desires for self-change, but it is also strongly linked to distancing, withdrawal and concealment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-determination theory and the facilitation of intrinsic...Research guided by self-determination theory has focused on the soci...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.psychologytoday.com/ca/blog/creative-synthesis/201501/shame-and-motivation-to-change" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">shame and motivation to change</span><span class="citation-popover-snippet">Jan 29, 2015 — the urge to distance oneself (wanting to hide or remove oneself from a shameful situation). They found that shame &quot;was uni...</span></span></span>
 
 This creates a paradox. The more accountability depends on public embarrassment, the more likely people become to hide information that would actually help them improve.
 
@@ -364,7 +364,7 @@ The longer-term costs are less visible:
 
 **Avoidance.** Missed goals become emotionally costly, making re-engagement harder.
 
-**Fragile motivation.** The person's effort becomes tied to approval rather than personal values. <span class="citation-chip-wrap"><a class="citation-chip" href="https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yukaichou.com">[Yu-kai Chou]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yukaichou.com</span><span class="citation-popover-title">self determination theory guide to ryan and decis motivation framework</span><span class="citation-popover-snippet">Self-Determination Theory: All 6 Mini-Theories6 May 2026 — Instead of an external authority applying pressure, the person applies pressur...</span><span class="citation-popover-meta">Published: May 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-determination theory and the facilitation of intrinsic...Research guided by self-determination theory has focused on the soci...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1634267/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersApplying self-determination theory to behavior change...by R Gerstenberg · 2025 · Cited by 2 — The satisfaction of the three ba...</span></span></span>
+**Fragile motivation.** The person's effort becomes tied to approval rather than personal values.<span class="citation-chip-wrap"><a class="citation-chip" href="https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yukaichou.com">[Yu-kai Chou]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yukaichou.com</span><span class="citation-popover-title">self determination theory guide to ryan and decis motivation framework</span><span class="citation-popover-snippet">Self-Determination Theory: All 6 Mini-Theories6 May 2026 — Instead of an external authority applying pressure, the person applies pressur...</span><span class="citation-popover-meta">Published: May 2026</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-determination theory and the facilitation of intrinsic...Research guided by self-determination theory has focused on the soci...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1634267/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersApplying self-determination theory to behavior change...by R Gerstenberg · 2025 · Cited by 2 — The satisfaction of the three ba...</span></span></span>
 
 These effects help explain why highly controlling accountability systems can generate bursts of performance yet struggle to produce lasting habits.
 
@@ -428,178 +428,178 @@ The central mechanism is simple: accountability works best when it strengthens s
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9BbOvodf-9k" title="Motivation through autonomy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9BbOvodf-9k" target="_blank" rel="noopener noreferrer">Motivation through autonomy</a></p><p class="youtube-embed-meta">Channel: Cambridge English Spain &middot; Views: 4.4K &middot; Uploaded: June 2016 &middot; Length: 4 minutes 32 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9BbOvodf-9k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9BbOvodf-9k">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Accountability that does not feel like control. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Accountability that does not feel like control. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Drive+by+Daniel+H.+Pink&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0H_DIkg0I4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Drive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Drive+by+Daniel+H.+Pink&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drive">Drive</a>
-        </h4>
-        <p class="fr-book-author">By Daniel H. Pink</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Drive+by+Daniel+H.+Pink&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0H_DIkg0I4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Drive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Drive+by+Daniel+H.+Pink&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drive">Drive</a>
+</h4>
+<p class="fr-book-author">By Daniel H. Pink</p>
         
-        <p class="fr-book-desc">Centres on autonomy as a key driver of sustainable motivation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Drive+by+Daniel+H.+Pink&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Centres on autonomy as a key driver of sustainable motivation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Drive+by+Daniel+H.+Pink&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Carol S. Dweck</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
-        <p class="fr-book-desc">Supports dignity-preserving feedback and learning-focused support.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
+</h4>
+<p class="fr-book-author">By Carol S. Dweck</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
+<p class="fr-book-desc">Supports dignity-preserving feedback and learning-focused support.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Punished+by+Rewards+by+Alfie+Kohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Punished by Rewards on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4bWoQgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Punished by Rewards" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Punished+by+Rewards+by+Alfie+Kohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Punished by Rewards">Punished by Rewards</a>
-        </h4>
-        <p class="fr-book-author">By Alfie Kohn</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Punished+by+Rewards+by+Alfie+Kohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Punished by Rewards on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4bWoQgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Punished by Rewards" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Punished+by+Rewards+by+Alfie+Kohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Punished by Rewards">Punished by Rewards</a>
+</h4>
+<p class="fr-book-author">By Alfie Kohn</p>
         
-        <p class="fr-book-desc">Examines how controlling accountability can undermine intrinsic motivation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Punished+by+Rewards+by+Alfie+Kohn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how controlling accountability can undermine intrinsic motivation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Punished+by+Rewards+by+Alfie+Kohn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Focuses on systems and environment rather than shame-based pressure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Focuses on systems and environment rather than shame-based pressure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Drive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drive</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Punished+by+Rewards&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Punished by Rewards</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Drive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drive</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Punished+by+Rewards&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Punished by Rewards</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-    </div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-support-accountability-that-does-not-feel-like-control-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-support-accountability-that-does-not-feel-like-control-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-support-accountability-that-does-not-feel-like-control-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-support-accountability-that-does-not-feel-like-control-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-support-accountability-that-does-not-feel-like-control-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-support-accountability-that-does-not-feel-like-control-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-support-accountability-that-does-not-feel-like-control-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-support-accountability-that-does-not-feel-like-control-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-support-accountability-that-does-not-feel-like-control-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-support-accountability-that-does-not-feel-like-control-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-support-accountability-that-does-not-feel-like-control-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-support-accountability-that-does-not-feel-like-control-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-support-accountability-that-does-not-feel-like-control-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-support-accountability-that-does-not-feel-like-control-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-support-accountability-that-does-not-feel-like-control-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-support-accountability-that-does-not-feel-like-control-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-support-accountability-that-does-not-feel-like-control-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-support-accountability-that-does-not-feel-like-control-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-support-accountability-that-does-not-feel-like-control-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-support-accountability-that-does-not-feel-like-control-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-support-accountability-that-does-not-feel-like-control-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-support-accountability-that-does-not-feel-like-control-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-support-accountability-that-does-not-feel-like-control-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-support-accountability-that-does-not-feel-like-control-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-support-accountability-that-does-not-feel-like-control-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-support-accountability-that-does-not-feel-like-control-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-support-accountability-that-does-not-feel-like-control-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-support-accountability-that-does-not-feel-like-control-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-support-accountability-that-does-not-feel-like-control-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-support-accountability-that-does-not-feel-like-control-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-support-accountability-that-does-not-feel-like-control-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-support-accountability-that-does-not-feel-like-control-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-support-accountability-that-does-not-feel-like-control-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=autonomy-support-accountability-that-does-not-feel-like-control-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -615,7 +615,7 @@ The central mechanism is simple: accountability works best when it strengthens s
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -635,7 +635,7 @@ The central mechanism is simple: accountability works best when it strengthens s
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -667,7 +667,7 @@ The central mechanism is simple: accountability works best when it strengthens s
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -697,7 +697,7 @@ The central mechanism is simple: accountability works best when it strengthens s
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -755,161 +755,161 @@ The central mechanism is simple: accountability works best when it strengthens s
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1186/1479-5868-9-78" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/1479-5868-9-78</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>springer.comExercise, physical activity, and self-determination theoryby PJ Teixeira · 2012 · Cited by 4548 — SDT, however, conceptualize...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1186/1479" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/1479</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>springer.comExercise, physical activity, and self-determination theoryby PJ Teixeira · 2012 · Cited by 4548 — SDT, however, conceptualize...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe Effects of Autonomy-supportive Coaching, Need  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4410092/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4410092/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by JD Coatsworth · 2009 · Cited by 358 — Results indicated that coaches&#x27; autonomy support, particularly via process-focused praise, pr...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4410092/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4410092/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by JD Coatsworth · 2009 · Cited by 358 — Results indicated that coaches&#x27; autonomy support, particularly via process-focused praise, pr...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCReconsidering the Differences Between Shame and Guilt  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6143989/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6143989/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by M Miceli · 2018 · Cited by 255 — Shame implies perceived lack of power to meet the standards of one&#x27;s ideal self, whereas guilt imp...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6143989/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6143989/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by M Miceli · 2018 · Cited by 255 — Shame implies perceived lack of power to meet the standards of one&#x27;s ideal self, whereas guilt imp...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCShame Withdraws, Guilt Corrects  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12189037/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12189037/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Withdraws, Guilt Corrects - PMC - NIHby RW Semaan · 2025 · Cited by 5 — This research aims to explain how two equally valenced emotions...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12189037/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12189037/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Withdraws, Guilt Corrects - PMC - NIHby RW Semaan · 2025 · Cited by 5 — This research aims to explain how two equally valenced emotions...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/11392867/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-determination theory and the facilitation of intrinsic...Research guided by self-determination theory has focused on the soci...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/11392867/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-determination theory and the facilitation of intrinsic...Research guided by self-determination theory has focused on the soci...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/17437199.2020.1718529" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/17437199.2020.1718529</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineA meta-analysis of self-determination theory-informed...by N Ntoumanis · 2021 · Cited by 1450 — The results of ef...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/17437199.2020.1718529" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/17437199.2020.1718529</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineA meta-analysis of self-determination theory-informed...by N Ntoumanis · 2021 · Cited by 1450 — The results of ef...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26168470/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26168470/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory Applied to Health Contextsby JYY Ng · 2012 · Cited by 2943 — A meta-analysis evaluated relations between...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26168470/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26168470/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory Applied to Health Contextsby JYY Ng · 2012 · Cited by 2943 — A meta-analysis evaluated relations between...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1634267/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1634267/full</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersApplying self-determination theory to behavior change...by R Gerstenberg · 2025 · Cited by 2 — The satisfaction of the three ba...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1634267/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1634267/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersApplying self-determination theory to behavior change...by R Gerstenberg · 2025 · Cited by 2 — The satisfaction of the three ba...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: journals.sagepub.com  
    Title: In SDT, these needs are conceived as  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/08295735211055355" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/08295735211055355</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsApplying Self-Determination Theory to Educationby F Guay · 2022 · Cited by 881 — This theory proposes three psychological ne...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/08295735211055355" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/08295735211055355</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsApplying Self-Determination Theory to Educationby F Guay · 2022 · Cited by 881 — This theory proposes three psychological ne...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/30295176/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/30295176/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A meta-analysis of techniques to promote motivation for...by FB Gillison · 2019 · Cited by 641 — A systematic review and meta-anal...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/30295176/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/30295176/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A meta-analysis of techniques to promote motivation for...by FB Gillison · 2019 · Cited by 641 — A systematic review and meta-anal...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: apa.org  
-   Link: <a href="https://www.apa.org/news/podcasts/speaking-of-psychology/guilt-shame" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/news/podcasts/speaking-of-psychology/guilt-shame</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationWhat&#x27;s the difference between guilt and shame?June Tangney, PhD, talks about the difference between sha...</p></details>
+   Link:<a href="https://www.apa.org/news/podcasts/speaking-of-psychology/guilt-shame" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/news/podcasts/speaking-of-psychology/guilt-shame</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationWhat&#x27;s the difference between guilt and shame?June Tangney, PhD, talks about the difference between sha...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1678930/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1678930/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding shame, guilt, embarrassment and prideby D Singh · 2025 · Cited by 2 — For example, guilt is more specific to one&#x27;s actions...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1678930/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1678930/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding shame, guilt, embarrassment and prideby D Singh · 2025 · Cited by 2 — For example, guilt is more specific to one&#x27;s actions...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/25401288/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/25401288/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shame and the motivation to change the selfby B Lickel · 2014 · Cited by 264 — We report 2 studies examining people&#x27;s lived experie...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/25401288/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/25401288/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shame and the motivation to change the selfby B Lickel · 2014 · Cited by 264 — We report 2 studies examining people&#x27;s lived experie...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: psychologytoday.com  
    Title: shame and motivation to change  
-   Link: <a href="https://www.psychologytoday.com/ca/blog/creative-synthesis/201501/shame-and-motivation-to-change" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/ca/blog/creative-synthesis/201501/shame-and-motivation-to-change</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jan 29, 2015 — the urge to distance oneself (wanting to hide or remove oneself from a shameful situation). They found that shame &quot;was uni...</p></details>
+   Link:<a href="https://www.psychologytoday.com/ca/blog/creative-synthesis/201501/shame-and-motivation-to-change" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/ca/blog/creative-synthesis/201501/shame-and-motivation-to-change</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jan 29, 2015 — the urge to distance oneself (wanting to hide or remove oneself from a shameful situation). They found that shame &quot;was uni...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: yukaichou.com  
    Title: self determination theory guide to ryan and decis motivation framework  
-   Link: <a href="https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/" target="_blank" rel="noopener noreferrer nofollow">https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory: All 6 Mini-Theories6 May 2026 — Instead of an external authority applying pressure, the person applies pressur...</p></details>
+   Link:<a href="https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/" target="_blank" rel="noopener noreferrer nofollow">https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory: All 6 Mini-Theories6 May 2026 — Instead of an external authority applying pressure, the person applies pressur...</p></details>
    Published: May 2026  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/32437175/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/32437175/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govSelf-determination theory interventions for health behavior...by P Sheeran · 2020 · Cited by 228 — The present review indicates t...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/32437175/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/32437175/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govSelf-determination theory interventions for health behavior...by P Sheeran · 2020 · Cited by 228 — The present review indicates t...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: next.co.uk  
-   Link: <a href="https://www.next.co.uk/shop/brand-self-0" target="_blank" rel="noopener noreferrer nofollow">https://www.next.co.uk/shop/brand-self-0</a>  
+   Link:<a href="https://www.next.co.uk/shop/brand-self-0" target="_blank" rel="noopener noreferrer nofollow">https://www.next.co.uk/shop/brand-self-0</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: sciencedirect.com  
    Title: Self-Determination Theory  
-   Link: <a href="https://www.sciencedirect.com/topics/social-sciences/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/social-sciences/self-determination-theory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>an overviewSelf-determination theory is defined as a framework that explores the relationship between personality, human motivation, and...</p></details>
+   Link:<a href="https://www.sciencedirect.com/topics/social-sciences/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/social-sciences/self-determination-theory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>an overviewSelf-determination theory is defined as a framework that explores the relationship between personality, human motivation, and...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: psychologytoday.com  
    Title: shame and motivation to change  
-   Link: <a href="https://www.psychologytoday.com/us/blog/creative-synthesis/201501/shame-and-motivation-to-change" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/blog/creative-synthesis/201501/shame-and-motivation-to-change</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jan 29, 2015 — Feeling shame was a stronger predictor than guilt or regret for motivation for positive self-change...</p></details>
+   Link:<a href="https://www.psychologytoday.com/us/blog/creative-synthesis/201501/shame-and-motivation-to-change" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/blog/creative-synthesis/201501/shame-and-motivation-to-change</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jan 29, 2015 — Feeling shame was a stronger predictor than guilt or regret for motivation for positive self-change...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ukcoaching.org  
-   Link: <a href="https://www.ukcoaching.org/ukc-club/resources/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://www.ukcoaching.org/ukc-club/resources/self-determination-theory/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination TheorySelf-Determination Theory emphasises that people are most motivated and fulfilled when their basic needs for aut...</p></details>
+   Link:<a href="https://www.ukcoaching.org/ukc-club/resources/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://www.ukcoaching.org/ukc-club/resources/self-determination-theory/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination TheorySelf-Determination Theory emphasises that people are most motivated and fulfilled when their basic needs for aut...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: psychwire.com  
-   Link: <a href="https://psychwire.com/free-resources/q-and-a/f6wzti/the-upside-of-shame" target="_blank" rel="noopener noreferrer nofollow">https://psychwire.com/free-resources/q-and-a/f6wzti/the-upside-of-shame</a>  
+   Link:<a href="https://psychwire.com/free-resources/q-and-a/f6wzti/the-upside-of-shame" target="_blank" rel="noopener noreferrer nofollow">https://psychwire.com/free-resources/q-and-a/f6wzti/the-upside-of-shame</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: rccs.org.uk  
-   Link: <a href="https://www.rccs.org.uk/post/autonomy-competence-and-relatedness-understanding-the-three-universal-needs-of-self-determination" target="_blank" rel="noopener noreferrer nofollow">https://www.rccs.org.uk/post/autonomy-competence-and-relatedness-understanding-the-three-universal-needs-of-self-determination</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomy Competence and Relatedness – RCCS6 Feb 2026 — The concept of basic psychological needs is central to Self-Determination Theory...</p></details>
+   Link:<a href="https://www.rccs.org.uk/post/autonomy-competence-and-relatedness-understanding-the-three-universal-needs-of-self-determination" target="_blank" rel="noopener noreferrer nofollow">https://www.rccs.org.uk/post/autonomy-competence-and-relatedness-understanding-the-three-universal-needs-of-self-determination</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomy Competence and Relatedness – RCCS6 Feb 2026 — The concept of basic psychological needs is central to Self-Determination Theory...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: socialidentitylab.psych.ubc.ca  
-   Link: <a href="https://socialidentitylab.psych.ubc.ca/research/shame-and-guilt/" target="_blank" rel="noopener noreferrer nofollow">https://socialidentitylab.psych.ubc.ca/research/shame-and-guilt/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Guilt | UBC Social Identity LabShame rather than guilt can be a maladaptive emotional reaction because it predicts a desire to avoid...</p></details>
+   Link:<a href="https://socialidentitylab.psych.ubc.ca/research/shame-and-guilt/" target="_blank" rel="noopener noreferrer nofollow">https://socialidentitylab.psych.ubc.ca/research/shame-and-guilt/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and Guilt | UBC Social Identity LabShame rather than guilt can be a maladaptive emotional reaction because it predicts a desire to avoid...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=_juPDoa3GBY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_juPDoa3GBY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory ExplainedSelf-determination Theory argues that we do what we do because we are motivated by three basic needs t...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_juPDoa3GBY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_juPDoa3GBY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory ExplainedSelf-determination Theory argues that we do what we do because we are motivated by three basic needs t...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: experts.umn.edu  
    Title: self determination theory interventions for health behavior chang  
-   Link: <a href="https://experts.umn.edu/en/publications/self-determination-theory-interventions-for-health-behavior-chang/" target="_blank" rel="noopener noreferrer nofollow">https://experts.umn.edu/en/publications/self-determination-theory-interventions-for-health-behavior-chang/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>umn.eduSelf-determination theory interventions for health behavior...by P Sheeran · 2020 · Cited by 223 — OBJECTIVE: We conducted a meta...</p></details>
+   Link:<a href="https://experts.umn.edu/en/publications/self-determination-theory-interventions-for-health-behavior-chang/" target="_blank" rel="noopener noreferrer nofollow">https://experts.umn.edu/en/publications/self-determination-theory-interventions-for-health-behavior-chang/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>umn.eduSelf-determination theory interventions for health behavior...by P Sheeran · 2020 · Cited by 223 — OBJECTIVE: We conducted a meta...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: allactive.co.uk  
    Title: self determination theory and health behaviour change  
-   Link: <a href="https://allactive.co.uk/2026/05/19/self-determination-theory-and-health-behaviour-change/" target="_blank" rel="noopener noreferrer nofollow">https://allactive.co.uk/2026/05/19/self-determination-theory-and-health-behaviour-change/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory and health behaviour change19 May 2026 — Interventions that train practitioners in autonomy-supportive techniqu...</p></details>
+   Link:<a href="https://allactive.co.uk/2026/05/19/self-determination-theory-and-health-behaviour-change/" target="_blank" rel="noopener noreferrer nofollow">https://allactive.co.uk/2026/05/19/self-determination-theory-and-health-behaviour-change/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory and health behaviour change19 May 2026 — Interventions that train practitioners in autonomy-supportive techniqu...</p></details>
    Published: May 2026  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/650804963/9781108677318-008" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/650804963/9781108677318-008</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nd engagement by encouraging feelings of autonomy, competence, and...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/650804963/9781108677318-008" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/650804963/9781108677318-008</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nd engagement by encouraging feelings of autonomy, competence, and...Read more...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: keithedwards.com  
    Title: guilt vs shame in fostering greater accountability  
-   Link: <a href="https://keithedwards.com/2012/10/30/guilt-vs-shame-in-fostering-greater-accountability/" target="_blank" rel="noopener noreferrer nofollow">https://keithedwards.com/2012/10/30/guilt-vs-shame-in-fostering-greater-accountability/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oct 30, 2012 — Dr Keith Edwards discusses the differences in Guilt vs Shame, and how focus on greater accountability for people&#x27;s inappro...</p></details>
+   Link:<a href="https://keithedwards.com/2012/10/30/guilt-vs-shame-in-fostering-greater-accountability/" target="_blank" rel="noopener noreferrer nofollow">https://keithedwards.com/2012/10/30/guilt-vs-shame-in-fostering-greater-accountability/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oct 30, 2012 — Dr Keith Edwards discusses the differences in Guilt vs Shame, and how focus on greater accountability for people&#x27;s inappro...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: verywellmind.com  
    Title: what is self determination theory 2795387  
-   Link: <a href="https://www.verywellmind.com/what-is-self-determination-theory-2795387" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/what-is-self-determination-theory-2795387</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Self-Determination Theory Explains Motivation29 Oct 2025 — Self-determination theory suggests that fulfilling the core needs for auto...</p></details>
+   Link:<a href="https://www.verywellmind.com/what-is-self-determination-theory-2795387" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/what-is-self-determination-theory-2795387</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Self-Determination Theory Explains Motivation29 Oct 2025 — Self-determination theory suggests that fulfilling the core needs for auto...</p></details>

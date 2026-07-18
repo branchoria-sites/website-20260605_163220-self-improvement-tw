@@ -268,7 +268,7 @@ image: /assets/images/self_improvement_tha_c01280_false_progress_cb1a89_habit_ap
 
 ## Introduction
 
-Habit-tracking apps can be useful. Self-monitoring is one of the most consistently supported behaviour-change techniques in research, and digital tools can make monitoring easier, more visible and more consistent. The problem begins when the tool becomes the target. Instead of helping someone exercise, read, sleep earlier or practise a skill, the app starts rewarding check-ins, streak protection, badge collection and notification responses. The user remains active inside the system while the underlying [behaviour changes]({{ 'behaviour-change/' | relative_url }}) little. This is a classic form of self-improvement theatre: measurable engagement with a tool is mistaken for meaningful change in real life. Research on digital behaviour-change interventions repeatedly finds that tracking, feedback, prompts and goal setting can support [behaviour change]({{ 'behaviour-change/' | relative_url }}), but only when they remain connected to the behaviour itself rather than becoming an end in their own right. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://mhealth.jmir.org/2020/3/e17046/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mhealth.jmir.org">[JMIR mHealth and uHealth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mhealth.jmir.org</span><span class="citation-popover-snippet">JMIR mHealth and uHealthMobile Apps for Health Behavior Change in Physical Activity...by M Milne-Ives · 2020 · Cited by 525 — This syste...</span></span></span>
+Habit-tracking apps can be useful. Self-monitoring is one of the most consistently supported behaviour-change techniques in research, and digital tools can make monitoring easier, more visible and more consistent. The problem begins when the tool becomes the target. Instead of helping someone exercise, read, sleep earlier or practise a skill, the app starts rewarding check-ins, streak protection, badge collection and notification responses. The user remains active inside the system while the underlying [behaviour changes]({{ 'behaviour-change/' | relative_url }}) little. This is a classic form of self-improvement theatre: measurable engagement with a tool is mistaken for meaningful change in real life. Research on digital behaviour-change interventions repeatedly finds that tracking, feedback, prompts and goal setting can support [behaviour change]({{ 'behaviour-change/' | relative_url }}), but only when they remain connected to the behaviour itself rather than becoming an end in their own right. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://mhealth.jmir.org/2020/3/e17046/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mhealth.jmir.org">[JMIR mHealth and uHealth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mhealth.jmir.org</span><span class="citation-popover-snippet">JMIR mHealth and uHealthMobile Apps for Health Behavior Change in Physical Activity...by M Milne-Ives · 2020 · Cited by 525 — This syste...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_habit_app_trap_b65f28-Illustration-1-dark.svg" | relative_url }}" alt="App Trap illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_habit_app_trap_b65f28-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89_habit_app_trap_b65f28-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Engagement Can Replace Behaviour Change
@@ -277,11 +277,11 @@ Many habit apps face a governance problem. The user's goal is behaviour change. 
 
 A person who opens a habit app every day creates excellent engagement data. Whether they are actually exercising, sleeping better or writing more is a different question. The danger appears when product design increasingly optimises for returning to the app rather than completing the behaviour outside it.
 
-Gamification illustrates the tension. Research shows that points, [rewards]({{ 'rewards/' | relative_url }}) and game mechanics can increase [motivation]({{ 'motivation/' | relative_url }}) and make behaviour change easier. Gamification is not inherently deceptive. In many contexts it genuinely helps people persist with difficult habits. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 79 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/org/science/article/pii/S1874944524001035" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The Effectiveness of Gamification in Changing Health-...by B Alzghoul · 2024 · Cited by 29 — The studies demonstrated that gamification...</span></span></span>
+Gamification illustrates the tension. Research shows that points, [rewards]({{ 'rewards/' | relative_url }}) and game mechanics can increase [motivation]({{ 'motivation/' | relative_url }}) and make behaviour change easier. Gamification is not inherently deceptive. In many contexts it genuinely helps people persist with difficult habits.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 79 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/org/science/article/pii/S1874944524001035" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The Effectiveness of Gamification in Changing Health-...by B Alzghoul · 2024 · Cited by 29 — The studies demonstrated that gamification...</span></span></span>
 
 However, game mechanics can also shift attention. The user may start pursuing the reward signal rather than the behaviour the reward was intended to [support]({{ 'support/' | relative_url }}). A fitness habit becomes a quest for maintaining a streak. A reading habit becomes a quest for recording another completion. A meditation practice becomes a quest for preserving a digital badge.
 
-The distinction is subtle but important. Behaviour-change researchers generally treat self-monitoring as a means to an end. The desired outcome is the behaviour. The log exists to support it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10998180/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Gamification of Behavior Change: Mathematical Principle and...by F Lieder · 2024 · Cited by 24 — Gamification can make behavior chang...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10545861/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Potential associations between behavior change techniques...by M Milne-Ives · 2023 · Cited by 74 — Six BCTs were repeatedly associate...</span></span></span>
+The distinction is subtle but important. Behaviour-change researchers generally treat self-monitoring as a means to an end. The desired outcome is the behaviour. The log exists to support it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10998180/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Gamification of Behavior Change: Mathematical Principle and...by F Lieder · 2024 · Cited by 24 — Gamification can make behavior chang...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10545861/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Potential associations between behavior change techniques...by M Milne-Ives · 2023 · Cited by 74 — Six BCTs were repeatedly associate...</span></span></span>
 
 When users begin caring more about maintaining app metrics than performing the underlying activity well, the relationship has reversed.
 
@@ -293,13 +293,13 @@ If the behaviour would continue because it is embedded in routines, cues and env
 
 If the behaviour would collapse because the main source of motivation is maintaining an in-app score, the app may have become the habit.
 
-This distinction echoes behaviour-design frameworks such as BJ Fogg's work, which emphasises making the target behaviour easier and better prompted in everyday life. The technology should help behaviour occur; it should not become a substitute activity that merely feels productive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tinyhabits.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tinyhabits.com">[Tiny Habits]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tinyhabits.com</span><span class="citation-popover-snippet">Tiny HabitsTiny Habits: BJ FoggCreate any habit you want in your life using Tiny Habits: A breakthrough method created by Stanford behavi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">Fogg Behavior ModelThe Fogg Behavior Model (FBM) is a widely used framework for understanding behavior change, identifying three critical...</span></span></span>
+This distinction echoes behaviour-design frameworks such as BJ Fogg's work, which emphasises making the target behaviour easier and better prompted in everyday life. The technology should help behaviour occur; it should not become a substitute activity that merely feels productive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tinyhabits.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tinyhabits.com">[Tiny Habits]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tinyhabits.com</span><span class="citation-popover-snippet">Tiny HabitsTiny Habits: BJ FoggCreate any habit you want in your life using Tiny Habits: A breakthrough method created by Stanford behavi...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">Fogg Behavior ModelThe Fogg Behavior Model (FBM) is a widely used framework for understanding behavior change, identifying three critical...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/W6AB-dxnAkA" title="8 Habit Tracking Apps That Actually Work" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=W6AB-dxnAkA" target="_blank" rel="noopener noreferrer">8 Habit Tracking Apps That Actually Work</a></p><p class="youtube-embed-meta">Channel: Tool Finder &middot; Views: 51.8K &middot; Uploaded: August 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=W6AB-dxnAkA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=W6AB-dxnAkA">Open on YouTube</a></p></div></div></div>
 
 ## How Streaks and Logs Can Mislead
 
-Streaks are powerful because they exploit several well-known psychological tendencies. People dislike losing progress. They enjoy visible evidence of consistency. A growing streak provides immediate [feedback]({{ 'feedback/' | relative_url }}), while many real-world benefits arrive only after weeks or months. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ehm-tech.com/habit/blog/habit-streaks-do-they-actually-work/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ehm-tech.com">[EHM Tech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ehm-tech.com</span><span class="citation-popover-title">habit streaks do they actually work</span><span class="citation-popover-snippet">EHM TechHabit Streaks: Why They Work and When They BackfireMar 10, 2026 — Research confirms that self-monitoring improves goal attainment...</span></span></span>
+Streaks are powerful because they exploit several well-known psychological tendencies. People dislike losing progress. They enjoy visible evidence of consistency. A growing streak provides immediate [feedback]({{ 'feedback/' | relative_url }}), while many real-world benefits arrive only after weeks or months.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ehm-tech.com/habit/blog/habit-streaks-do-they-actually-work/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ehm-tech.com">[EHM Tech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ehm-tech.com</span><span class="citation-popover-title">habit streaks do they actually work</span><span class="citation-popover-snippet">EHM TechHabit Streaks: Why They Work and When They BackfireMar 10, 2026 — Research confirms that self-monitoring improves goal attainment...</span></span></span>
 
 That is often helpful. The problem emerges when the metric ceases to represent the underlying reality.
 
@@ -318,7 +318,7 @@ In each case, the digital record improves while the real-world outcome may stagn
 
 This is a version of a broader measurement problem sometimes summarised by Goodhart's Law: when a measure becomes a target, it can stop being a good measure. The streak was originally evidence that the habit existed. Once preserving the streak becomes the objective, users often discover ways to protect the metric without meaningfully advancing the behaviour.
 
-The irony is that self-monitoring remains one of the most effective behaviour-change tools available. Large reviews consistently identify self-monitoring, feedback, goal setting and prompts as important components of successful interventions. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://mhealth.jmir.org/2020/3/e17046/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mhealth.jmir.org">[JMIR mHealth and uHealth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mhealth.jmir.org</span><span class="citation-popover-snippet">JMIR mHealth and uHealthMobile Apps for Health Behavior Change in Physical Activity...by M Milne-Ives · 2020 · Cited by 525 — This syste...</span></span></span>
+The irony is that self-monitoring remains one of the most effective behaviour-change tools available. Large reviews consistently identify self-monitoring, feedback, goal setting and prompts as important components of successful interventions. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://mhealth.jmir.org/2020/3/e17046/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mhealth.jmir.org">[JMIR mHealth and uHealth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mhealth.jmir.org</span><span class="citation-popover-snippet">JMIR mHealth and uHealthMobile Apps for Health Behavior Change in Physical Activity...by M Milne-Ives · 2020 · Cited by 525 — This syste...</span></span></span>
 
 The lesson is not that logging is useless. The lesson is that logging is useful only when it stays honest.
 
@@ -362,7 +362,7 @@ Notifications that ask "Have you done the habit?" keep attention on the target b
 
 ### Prefer Automatic Verification Where Appropriate
 
-Some modern systems integrate with activity trackers, health devices or other external measures. While imperfect, automatic recording can reduce the temptation to treat manual check-ins as the main accomplishment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techradar.com/computing/websites-apps/habitify" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-snippet">As many people abandon their resolutions by February, Habitify offers a structured and customizable way to build good habits like exercis...</span></span></span>
+Some modern systems integrate with activity trackers, health devices or other external measures. While imperfect, automatic recording can reduce the temptation to treat manual check-ins as the main accomplishment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techradar.com/computing/websites-apps/habitify" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-snippet">As many people abandon their resolutions by February, Habitify offers a structured and customizable way to build good habits like exercis...</span></span></span>
 
 The ideal situation is that the behaviour generates the record rather than the record generating the feeling of achievement.
 
@@ -389,7 +389,7 @@ Habit formation depends more on long-term consistency than on maintaining perfec
 
 ## The Practical Test
 
-A habit app earns its place when it makes the desired behaviour more likely outside the app. Research on digital behaviour-change tools supports [techniques]({{ 'techniques/' | relative_url }}) such as self-monitoring, feedback, goal setting and prompts because they help people perform real actions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11897847/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAdherence to self‐monitoring and behavioral goals is</span><span class="citation-popover-snippet">by LE Burke · 2025 · Cited by 11 — Providing proximal feedback (FB) to self‐monitoring (SM) can improve adherence, as well as adherenc...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 79 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span>
+A habit app earns its place when it makes the desired behaviour more likely outside the app. Research on digital behaviour-change tools supports [techniques]({{ 'techniques/' | relative_url }}) such as self-monitoring, feedback, goal setting and prompts because they help people perform real actions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11897847/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAdherence to self‐monitoring and behavioral goals is</span><span class="citation-popover-snippet">by LE Burke · 2025 · Cited by 11 — Providing proximal feedback (FB) to self‐monitoring (SM) can improve adherence, as well as adherenc...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 79 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span>
 
 The practical test is simple: after several weeks, is the person spending more time exercising, studying, writing, sleeping or practising than before?
 
@@ -400,194 +400,194 @@ If the most obvious improvement is a longer streak, a prettier dashboard or more
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_FhZV0BAAzQ" title="Is Tracking Your Habits Actually HURTING Your Progress?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_FhZV0BAAzQ" target="_blank" rel="noopener noreferrer">Is Tracking Your Habits Actually HURTING Your Progress?</a></p><p class="youtube-embed-meta">Channel: Dr Dan Maggs &middot; Views: 1.5K &middot; Uploaded: December 2024 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_FhZV0BAAzQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_FhZV0BAAzQ">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When the App Becomes the Habit. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When the App Becomes the Habit. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Indistractable on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_KjNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Indistractable" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Indistractable">Indistractable</a>
-        </h4>
-        <p class="fr-book-author">By Nir Eyal</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Indistractable on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_KjNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Indistractable" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Indistractable">Indistractable</a>
+</h4>
+<p class="fr-book-author">By Nir Eyal</p>
         
-        <p class="fr-book-desc">Addresses the difference between engaging with tools and achieving real-world outcomes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses the difference between engaging with tools and achieving real-world outcomes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Minimalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S4NbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Minimalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Minimalism">Digital Minimalism</a>
-        </h4>
-        <p class="fr-book-author">By Cal Newport</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Minimalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S4NbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Minimalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Minimalism">Digital Minimalism</a>
+</h4>
+<p class="fr-book-author">By Cal Newport</p>
         
-        <p class="fr-book-desc">Explores using technology intentionally rather than compulsively.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores using technology intentionally rather than compulsively.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Keeps attention on behaviour change rather than habit-tracking tools.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Keeps attention on behaviour change rather than habit-tracking tools.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hooked on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=R42aBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Hooked" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hooked">Hooked</a>
-        </h4>
-        <p class="fr-book-author">By Nir Eyal</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hooked on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=R42aBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Hooked" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hooked">Hooked</a>
+</h4>
+<p class="fr-book-author">By Nir Eyal</p>
         
-        <p class="fr-book-desc">Helps readers understand how apps encourage repeated checking and streak behaviour.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand how apps encourage repeated checking and streak behaviour.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hooked+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Indistractable&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Indistractable</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Minimalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Minimalism</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Indistractable&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Indistractable</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Minimalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Minimalism</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HABIT TRACKER BY BRIGHT DAY FITNESS JOURNAL PLANNER AND ACTIVITY RECORDER"><img src="https://i.ebayimg.com/images/g/BykAAOSwuTBlEtyP/s-l225.jpg" alt="Listing image for HABIT TRACKER BY BRIGHT DAY FITNESS JOURNAL PLANNER AND ACTIVITY RECORDER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">HABIT TRACKER BY BRIGHT DAY FITNESS JOURNAL PLANNER AND ACTIVITY RECORDER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HABIT TRACKER BY BRIGHT DAY FITNESS JOURNAL PLANNER AND ACTIVITY RECORDER"><img src="https://i.ebayimg.com/images/g/BykAAOSwuTBlEtyP/s-l225.jpg" alt="Listing image for HABIT TRACKER BY BRIGHT DAY FITNESS JOURNAL PLANNER AND ACTIVITY RECORDER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">HABIT TRACKER BY BRIGHT DAY FITNESS JOURNAL PLANNER AND ACTIVITY RECORDER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A5 Leather Habit Tracker Journal Refillable Undated Notebook - Brown"><img src="https://i.ebayimg.com/images/g/ovgAAeSw~J5of48n/s-l225.jpg" alt="Listing image for A5 Leather Habit Tracker Journal Refillable Undated Notebook - Brown" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">A5 Leather Habit Tracker Journal Refillable Undated Notebook - Brown</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A5 Leather Habit Tracker Journal Refillable Undated Notebook - Brown"><img src="https://i.ebayimg.com/images/g/ovgAAeSw~J5of48n/s-l225.jpg" alt="Listing image for A5 Leather Habit Tracker Journal Refillable Undated Notebook - Brown" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">A5 Leather Habit Tracker Journal Refillable Undated Notebook - Brown</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A5 Leather Habit Tracker Journal Refillable Undated Notebook - Nevada Sky"><img src="https://i.ebayimg.com/images/g/pHAAAeSwDZpof5Kc/s-l225.jpg" alt="Listing image for A5 Leather Habit Tracker Journal Refillable Undated Notebook - Nevada Sky" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">A5 Leather Habit Tracker Journal Refillable Undated Notebook - Nevada Sky</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A5 Leather Habit Tracker Journal Refillable Undated Notebook - Nevada Sky"><img src="https://i.ebayimg.com/images/g/pHAAAeSwDZpof5Kc/s-l225.jpg" alt="Listing image for A5 Leather Habit Tracker Journal Refillable Undated Notebook - Nevada Sky" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">A5 Leather Habit Tracker Journal Refillable Undated Notebook - Nevada Sky</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar 2026 Motivational Journal Inspirational Goal Pl"><img src="https://i.ebayimg.com/images/g/8ooAAeSwoVBpDl1R/s-l225.jpg" alt="Listing image for Habit Tracker Calendar 2026 Motivational Journal Inspirational Goal Pl" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar 2026 Motivational Journal Inspirational Goal Pl</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar 2026 Motivational Journal Inspirational Goal Pl"><img src="https://i.ebayimg.com/images/g/8ooAAeSwoVBpDl1R/s-l225.jpg" alt="Listing image for Habit Tracker Calendar 2026 Motivational Journal Inspirational Goal Pl" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar 2026 Motivational Journal Inspirational Goal Pl</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-the-app-becomes-the-habit-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-the-app-becomes-the-habit-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -603,7 +603,7 @@ If the most obvious improvement is a longer streak, a prettier dashboard or more
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -623,7 +623,7 @@ If the most obvious improvement is a longer streak, a prettier dashboard or more
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -655,7 +655,7 @@ If the most obvious improvement is a longer streak, a prettier dashboard or more
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -707,7 +707,7 @@ If the most obvious improvement is a longer streak, a prettier dashboard or more
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -752,7 +752,7 @@ If the most obvious improvement is a longer streak, a prettier dashboard or more
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -793,143 +793,143 @@ If the most obvious improvement is a longer streak, a prettier dashboard or more
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCDigital Behavior Change Intervention Designs for Habit  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by Y Zhu · 2024 · Cited by 79 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by Y Zhu · 2024 · Cited by 79 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: mhealth.jmir.org  
-   Link: <a href="https://mhealth.jmir.org/2020/3/e17046/" target="_blank" rel="noopener noreferrer nofollow">https://mhealth.jmir.org/2020/3/e17046/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JMIR mHealth and uHealthMobile Apps for Health Behavior Change in Physical Activity...by M Milne-Ives · 2020 · Cited by 525 — This syste...</p></details>
+   Link:<a href="https://mhealth.jmir.org/2020/3/e17046/" target="_blank" rel="noopener noreferrer nofollow">https://mhealth.jmir.org/2020/3/e17046/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JMIR mHealth and uHealthMobile Apps for Health Behavior Change in Physical Activity...by M Milne-Ives · 2020 · Cited by 525 — This syste...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10998180/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10998180/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gamification of Behavior Change: Mathematical Principle and...by F Lieder · 2024 · Cited by 24 — Gamification can make behavior chang...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10998180/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10998180/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gamification of Behavior Change: Mathematical Principle and...by F Lieder · 2024 · Cited by 24 — Gamification can make behavior chang...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/org/science/article/pii/S1874944524001035" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S1874944524001035</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Effectiveness of Gamification in Changing Health-...by B Alzghoul · 2024 · Cited by 29 — The studies demonstrated that gamification...</p></details>
+   Link:<a href="https://www.sciencedirect.com/org/science/article/pii/S1874944524001035" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S1874944524001035</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Effectiveness of Gamification in Changing Health-...by B Alzghoul · 2024 · Cited by 29 — The studies demonstrated that gamification...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10545861/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10545861/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Potential associations between behavior change techniques...by M Milne-Ives · 2023 · Cited by 74 — Six BCTs were repeatedly associate...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10545861/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10545861/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Potential associations between behavior change techniques...by M Milne-Ives · 2023 · Cited by 74 — Six BCTs were repeatedly associate...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ehm-tech.com  
    Title: habit streaks do they actually work  
-   Link: <a href="https://www.ehm-tech.com/habit/blog/habit-streaks-do-they-actually-work/" target="_blank" rel="noopener noreferrer nofollow">https://www.ehm-tech.com/habit/blog/habit-streaks-do-they-actually-work/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EHM TechHabit Streaks: Why They Work and When They BackfireMar 10, 2026 — Research confirms that self-monitoring improves goal attainment...</p></details>
+   Link:<a href="https://www.ehm-tech.com/habit/blog/habit-streaks-do-they-actually-work/" target="_blank" rel="noopener noreferrer nofollow">https://www.ehm-tech.com/habit/blog/habit-streaks-do-they-actually-work/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EHM TechHabit Streaks: Why They Work and When They BackfireMar 10, 2026 — Research confirms that self-monitoring improves goal attainment...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAdherence to self‐monitoring and behavioral goals is  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11897847/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11897847/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by LE Burke · 2025 · Cited by 11 — Providing proximal feedback (FB) to self‐monitoring (SM) can improve adherence, as well as adherenc...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11897847/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11897847/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by LE Burke · 2025 · Cited by 11 — Providing proximal feedback (FB) to self‐monitoring (SM) can improve adherence, as well as adherenc...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: techradar.com  
-   Link: <a href="https://www.techradar.com/computing/websites-apps/habitify" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/computing/websites-apps/habitify</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>As many people abandon their resolutions by February, Habitify offers a structured and customizable way to build good habits like exercis...</p></details>
+   Link:<a href="https://www.techradar.com/computing/websites-apps/habitify" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/computing/websites-apps/habitify</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>As many people abandon their resolutions by February, Habitify offers a structured and customizable way to build good habits like exercis...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/org/science/article/pii/S1438887124002619" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S1438887124002619</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 78 — Regarding self-monitoring, most studies automat...</p></details>
+   Link:<a href="https://www.sciencedirect.com/org/science/article/pii/S1438887124002619" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S1438887124002619</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 78 — Regarding self-monitoring, most studies automat...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: mhealth.jmir.org  
-   Link: <a href="https://mhealth.jmir.org/2019/12/e15707/" target="_blank" rel="noopener noreferrer nofollow">https://mhealth.jmir.org/2019/12/e15707/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In addition, for SB, activity tracker...</p></details>
+   Link:<a href="https://mhealth.jmir.org/2019/12/e15707/" target="_blank" rel="noopener noreferrer nofollow">https://mhealth.jmir.org/2019/12/e15707/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In addition, for SB, activity tracker...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: tinyhabits.com  
-   Link: <a href="https://tinyhabits.com/" target="_blank" rel="noopener noreferrer nofollow">https://tinyhabits.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny HabitsTiny Habits: BJ FoggCreate any habit you want in your life using Tiny Habits: A breakthrough method created by Stanford behavi...</p></details>
+   Link:<a href="https://tinyhabits.com/" target="_blank" rel="noopener noreferrer nofollow">https://tinyhabits.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny HabitsTiny Habits: BJ FoggCreate any habit you want in your life using Tiny Habits: A breakthrough method created by Stanford behavi...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior ModelThe Fogg Behavior Model (FBM) is a widely used framework for understanding behavior change, identifying three critical...</p></details>
+   Link:<a href="https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/fogg-behavior-model</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior ModelThe Fogg Behavior Model (FBM) is a widely used framework for understanding behavior change, identifying three critical...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Behavior" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Behavior</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BehaviorBehavior (American English) or behaviour (British English) is the range of actions of organisms, individuals, systems or artif...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Behavior" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Behavior</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BehaviorBehavior (American English) or behaviour (British English) is the range of actions of organisms, individuals, systems or artif...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: drpaulmccarthy.com  
    Title: This framework shows exactly why  
-   Link: <a href="https://www.drpaulmccarthy.com/post/tiny-habits-the-breakthrough-method-for-building-life-changing-behaviors" target="_blank" rel="noopener noreferrer nofollow">https://www.drpaulmccarthy.com/post/tiny-habits-the-breakthrough-method-for-building-life-changing-behaviors</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: The Breakthrough Method for Building Life-...Feb 10, 2026 — A powerful scientific framework by Stanford behavior scientist...</p></details>
+   Link:<a href="https://www.drpaulmccarthy.com/post/tiny-habits-the-breakthrough-method-for-building-life-changing-behaviors" target="_blank" rel="noopener noreferrer nofollow">https://www.drpaulmccarthy.com/post/tiny-habits-the-breakthrough-method-for-building-life-changing-behaviors</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: The Breakthrough Method for Building Life-...Feb 10, 2026 — A powerful scientific framework by Stanford behavior scientist...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: growthengineering.co.uk  
    Title: fogg behavior model  
-   Link: <a href="https://www.growthengineering.co.uk/fogg-behavior-model/" target="_blank" rel="noopener noreferrer nofollow">https://www.growthengineering.co.uk/fogg-behavior-model/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Explore the Fogg Behavior Model for L&amp;D. Learn to design experiences that truly change learner behavior...</p></details>
+   Link:<a href="https://www.growthengineering.co.uk/fogg-behavior-model/" target="_blank" rel="noopener noreferrer nofollow">https://www.growthengineering.co.uk/fogg-behavior-model/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Explore the Fogg Behavior Model for L&amp;D. Learn to design experiences that truly change learner behavior...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: gsb.stanford.edu  
    Title: building habits key lasting behavior change  
-   Link: <a href="https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change" target="_blank" rel="noopener noreferrer nofollow">https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Habits: The Key to Lasting Behavior Change18 Apr 2023 — In this episode, BJ Fogg reveals the secret to building habits that stick...</p></details>
+   Link:<a href="https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change" target="_blank" rel="noopener noreferrer nofollow">https://www.gsb.stanford.edu/insights/building-habits-key-lasting-behavior-change</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Habits: The Key to Lasting Behavior Change18 Apr 2023 — In this episode, BJ Fogg reveals the secret to building habits that stick...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/278405715_Beyond_Self-Tracking_and_Reminders_Designing_Smartphone_Apps_That_Support_Habit_Formation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/278405715_Beyond_Self-Tracking_and_Reminders_Designing_Smartphone_Apps_That_Support_Habit_Formation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Designing Smartphone Apps That Support Habit Formation10 Dec 2025 — The most common BCTs in behavior change apps are, for example, self-m...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/278405715_Beyond_Self-Tracking_and_Reminders_Designing_Smartphone_Apps_That_Support_Habit_Formation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/278405715_Beyond_Self-Tracking_and_Reminders_Designing_Smartphone_Apps_That_Support_Habit_Formation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Designing Smartphone Apps That Support Habit Formation10 Dec 2025 — The most common BCTs in behavior change apps are, for example, self-m...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/design-bootcamp/designing-with-intention-applying-bj-foggs-behavioral-model-in-ai-experiences-05ea6dca3069" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/design-bootcamp/designing-with-intention-applying-bj-foggs-behavioral-model-in-ai-experiences-05ea6dca3069</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Applying BJ Fogg&#x27;s Behavioral Model in AI ExperiencesFBM can help designers to build AI-driven experiences that not only engage users but...</p></details>
+   Link:<a href="https://medium.com/design-bootcamp/designing-with-intention-applying-bj-foggs-behavioral-model-in-ai-experiences-05ea6dca3069" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/design-bootcamp/designing-with-intention-applying-bj-foggs-behavioral-model-in-ai-experiences-05ea6dca3069</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Applying BJ Fogg&#x27;s Behavioral Model in AI ExperiencesFBM can help designers to build AI-driven experiences that not only engage users but...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Habits/comments/1ou9f3q/built_a_habit_app_focused_on_behavior_change_not/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Habits/comments/1ou9f3q/built_a_habit_app_focused_on_behavior_change_not/</a>  
+   Link:<a href="https://www.reddit.com/r/Habits/comments/1ou9f3q/built_a_habit_app_focused_on_behavior_change_not/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Habits/comments/1ou9f3q/built_a_habit_app_focused_on_behavior_change_not/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/design-bootcamp/case-study-designing-a-habit-tracking-app-17ee984a6791" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/design-bootcamp/case-study-designing-a-habit-tracking-app-17ee984a6791</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Case study: Designing a habit tracking appFor instance, the results showed that features such as to-do lists, progress tracking, and dail...</p></details>
+   Link:<a href="https://medium.com/design-bootcamp/case-study-designing-a-habit-tracking-app-17ee984a6791" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/design-bootcamp/case-study-designing-a-habit-tracking-app-17ee984a6791</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Case study: Designing a habit tracking appFor instance, the results showed that features such as to-do lists, progress tracking, and dail...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/884899367/Gamifying-Productivity-Do-Habit-Tracking-Apps-Actually-Improve-Time-Management-for-Students" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/884899367/Gamifying-Productivity-Do-Habit-Tracking-Apps-Actually-Improve-Time-Management-for-Students</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gamifying Productivity for Students | PDF | MotivationThis research paper examines the effectiveness of gamified habit-tracking apps in i...</p></details>
+   Link:<a href="https://www.scribd.com/document/884899367/Gamifying-Productivity-Do-Habit-Tracking-Apps-Actually-Improve-Time-Management-for-Students" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/884899367/Gamifying-Productivity-Do-Habit-Tracking-Apps-Actually-Improve-Time-Management-for-Students</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gamifying Productivity for Students | PDF | MotivationThis research paper examines the effectiveness of gamified habit-tracking apps in i...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/habit" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/habit</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HABIT Definition &amp; Meaning7 days ago — The word habit most often refers to a usual way of behaving or a tendency that someone has settled...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/habit" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/habit</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HABIT Definition &amp; Meaning7 days ago — The word habit most often refers to a usual way of behaving or a tendency that someone has settled...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: uxdesign.cc  
    Title: how to design behaviours using bj foggs model 6723d5ff3b64  
-   Link: <a href="https://uxdesign.cc/how-to-design-behaviours-using-bj-foggs-model-6723d5ff3b64" target="_blank" rel="noopener noreferrer nofollow">https://uxdesign.cc/how-to-design-behaviours-using-bj-foggs-model-6723d5ff3b64</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to design behaviours, using BJ Fogg&#x27;s model26 Feb 2020 — This post is a summary from his book “Tiny Habits” (2019) where he proposes...</p></details>
+   Link:<a href="https://uxdesign.cc/how-to-design-behaviours-using-bj-foggs-model-6723d5ff3b64" target="_blank" rel="noopener noreferrer nofollow">https://uxdesign.cc/how-to-design-behaviours-using-bj-foggs-model-6723d5ff3b64</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to design behaviours, using BJ Fogg&#x27;s model26 Feb 2020 — This post is a summary from his book “Tiny Habits” (2019) where he proposes...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: emergent.sh  
-   Link: <a href="https://emergent.sh/learn/best-habit-building-app-builder" target="_blank" rel="noopener noreferrer nofollow">https://emergent.sh/learn/best-habit-building-app-builder</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 5 Habit Building Apps That Actually Work in 2026Jan 16, 2026 — Uncover the best habit building apps in 2026 for real behavior change...</p></details>
+   Link:<a href="https://emergent.sh/learn/best-habit-building-app-builder" target="_blank" rel="noopener noreferrer nofollow">https://emergent.sh/learn/best-habit-building-app-builder</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top 5 Habit Building Apps That Actually Work in 2026Jan 16, 2026 — Uncover the best habit building apps in 2026 for real behavior change...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: news.delightpath.com  
    Title: CREATE Action Funnel: Understanding the psychology of user decisions.Read more  
-   Link: <a href="https://news.delightpath.com/p/3-behavioral-models-to-design-habit" target="_blank" rel="noopener noreferrer nofollow">https://news.delightpath.com/p/3-behavioral-models-to-design-habit</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>delightpath.com3 Behavioral Models to Design Habit-Forming Onboarding...23 May 2025 — BJ Fogg&#x27;s Behavior Model: Aligning motivation, abi...</p></details>
+   Link:<a href="https://news.delightpath.com/p/3-behavioral-models-to-design-habit" target="_blank" rel="noopener noreferrer nofollow">https://news.delightpath.com/p/3-behavioral-models-to-design-habit</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>delightpath.com3 Behavioral Models to Design Habit-Forming Onboarding...23 May 2025 — BJ Fogg&#x27;s Behavior Model: Aligning motivation, abi...</p></details>
    Published: May 2025  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: northbeam.io  
    Title: fogg behavior model motivation ability and prompts  
-   Link: <a href="https://www.northbeam.io/blog/fogg-behavior-model-motivation-ability-and-prompts" target="_blank" rel="noopener noreferrer nofollow">https://www.northbeam.io/blog/fogg-behavior-model-motivation-ability-and-prompts</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior Model: Motivation, Ability, and Prompts29 Oct 2025 — The Fogg Behavior Model explains that behavior occurs when Motivation...</p></details>
+   Link:<a href="https://www.northbeam.io/blog/fogg-behavior-model-motivation-ability-and-prompts" target="_blank" rel="noopener noreferrer nofollow">https://www.northbeam.io/blog/fogg-behavior-model-motivation-ability-and-prompts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg Behavior Model: Motivation, Ability, and Prompts29 Oct 2025 — The Fogg Behavior Model explains that behavior occurs when Motivation...</p></details>

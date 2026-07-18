@@ -277,15 +277,15 @@ image: /assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_ph
 One of the simplest ways to protect a study session is to move the phone out of reach before the first page is read, the first problem is attempted, or the first note is written. This matters because the opening minutes of a study block are unusually fragile. If the phone is already on the desk, checking it can become the default behaviour before academic work has gained any momentum. The goal is not permanent phone avoidance. It is to create a short protected window—roughly the first ten minutes—during which studying becomes the activity that gets started first.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_phone_distance_study_d1b6b9-Illustration-1-dark.svg" | relative_url }}" alt="Phone Distance illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_phone_distance_study_d1b6b9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_study_before_scrolli_78a723_phone_distance_study_d1b6b9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research on smartphone presence suggests that distance matters more than many students assume. The benefit is not only avoiding active scrolling. A phone that is visible and reachable can compete for attention even when it is silent and unused. Moving it across the room creates a small barrier at exactly the moment when attention is easiest to lose and hardest to rebuild. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.journals.uchicago.edu/doi/full/10.1086/691462" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.uchicago.edu">[Chicago Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.uchicago.edu</span><span class="citation-popover-snippet">Chicago JournalsBrain Drain: The Mere Presence of One&#x27;s Own Smartphone...by AF Ward · 2017 · Cited by 1355 — In this research, we test t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.utexas.edu/2017/06/26/the-mere-presence-of-your-smartphone-reduces-brain-power/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.utexas.edu">[UT Austin News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.utexas.edu</span><span class="citation-popover-title">the mere presence of your smartphone reduces brain power</span><span class="citation-popover-snippet">UT Austin NewsThe Mere Presence of Your Smartphone Reduces Brain...26 Jun 2017 — The findings suggest that the mere presence of one&#x27;s sm...</span></span></span>
+Research on smartphone presence suggests that distance matters more than many students assume. The benefit is not only avoiding active scrolling. A phone that is visible and reachable can compete for attention even when it is silent and unused. Moving it across the room creates a small barrier at exactly the moment when attention is easiest to lose and hardest to rebuild.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.journals.uchicago.edu/doi/full/10.1086/691462" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.uchicago.edu">[Chicago Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.uchicago.edu</span><span class="citation-popover-snippet">Chicago JournalsBrain Drain: The Mere Presence of One&#x27;s Own Smartphone...by AF Ward · 2017 · Cited by 1355 — In this research, we test t...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://news.utexas.edu/2017/06/26/the-mere-presence-of-your-smartphone-reduces-brain-power/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.utexas.edu">[UT Austin News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.utexas.edu</span><span class="citation-popover-title">the mere presence of your smartphone reduces brain power</span><span class="citation-popover-snippet">UT Austin NewsThe Mere Presence of Your Smartphone Reduces Brain...26 Jun 2017 — The findings suggest that the mere presence of one&#x27;s sm...</span></span></span>
 
 ## Why Visible Phones Still Compete for Attention
 
 Many students think distraction begins when they unlock the screen. The evidence suggests the competition can begin earlier.
 
-A widely cited series of experiments from the University of Texas found that participants performed best on demanding cognitive tasks when their phones were in another room. Performance was weaker when phones were kept in a pocket, bag, or on the desk. The researchers argued that part of attention may be consumed simply by resisting the urge to check the device. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.journals.uchicago.edu/doi/full/10.1086/691462" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.uchicago.edu">[Chicago Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.uchicago.edu</span><span class="citation-popover-snippet">Chicago JournalsBrain Drain: The Mere Presence of One&#x27;s Own Smartphone...by AF Ward · 2017 · Cited by 1355 — In this research, we test t...</span></span></span>
+A widely cited series of experiments from the University of Texas found that participants performed best on demanding cognitive tasks when their phones were in another room. Performance was weaker when phones were kept in a pocket, bag, or on the desk. The researchers argued that part of attention may be consumed simply by resisting the urge to check the device.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.journals.uchicago.edu/doi/full/10.1086/691462" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.uchicago.edu">[Chicago Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.uchicago.edu</span><span class="citation-popover-snippet">Chicago JournalsBrain Drain: The Mere Presence of One&#x27;s Own Smartphone...by AF Ward · 2017 · Cited by 1355 — In this research, we test t...</span></span></span>
 
-Later research has produced a more mixed picture. Some replication studies have failed to find equally strong effects, while several meta-analyses conclude that the impact of phone presence is generally small rather than overwhelming. Even so, the overall evidence suggests that visible smartphones can impose a measurable attentional cost, particularly during tasks that require working memory and sustained concentration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/pnasnexus/article/4/2/pgaf017/8016017" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicBlocking mobile internet on smartphones improves sustained...by N Castelo · 2025 · Cited by 41 — Lab experiments focused on...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691822002323" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[3ScienceDirect 3Technology,]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Reexamining the “brain drain” effect: A replication of Ward...by ACR Pardo · 2022 · Cited by 24 — The present study found t...</span></span></span> Mind, and Behavior](#endnote-14 "Snippet: Technology, Mind, and BehaviorThe Effect of Mere Presence of Smartphone on Cognitive...by A Hartanto · 2024 · Cited by 10 — To reconcile")
+Later research has produced a more mixed picture. Some replication studies have failed to find equally strong effects, while several meta-analyses conclude that the impact of phone presence is generally small rather than overwhelming. Even so, the overall evidence suggests that visible smartphones can impose a measurable attentional cost, particularly during tasks that require working memory and sustained concentration.<span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/pnasnexus/article/4/2/pgaf017/8016017" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicBlocking mobile internet on smartphones improves sustained...by N Castelo · 2025 · Cited by 41 — Lab experiments focused on...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0001691822002323" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[3ScienceDirect 3Technology,]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Reexamining the “brain drain” effect: A replication of Ward...by ACR Pardo · 2022 · Cited by 24 — The present study found t...</span></span></span> Mind, and Behavior](#endnote-14 "Snippet: Technology, Mind, and BehaviorThe Effect of Mere Presence of Smartphone on Cognitive...by A Hartanto · 2024 · Cited by 10 — To reconcile")
 
 For a student starting a study session, this distinction is important. The first ten minutes are not usually spent solving the hardest problems. They are spent establishing focus. During that stage, even a small attentional drain can be enough to trigger a checking habit before meaningful work has begun.
 
@@ -337,11 +337,11 @@ Useful options include:
 * Disabling non-essential notifications before studying.
 * Logging out of social media accounts during study periods.
 * Leaving the phone in a bag rather than carrying it between study locations.
-* Removing smartwatches that duplicate phone notifications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eu-jer.com/cell-phone-notifications-harm-attention-an-exploration-of-the-factors-that-contribute-to-distraction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eu-jer.com">[eu-jer.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eu-jer.com</span><span class="citation-popover-title">The present experiment sought to better understand this phenomenon</span><span class="citation-popover-snippet">Cell Phone Notifications Harm Attention: An Exploration of...by A Kaminske · 2022 · Cited by 38 — Recent research has found that the pre...</span></span></span>
+* Removing smartwatches that duplicate phone notifications.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eu-jer.com/cell-phone-notifications-harm-attention-an-exploration-of-the-factors-that-contribute-to-distraction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eu-jer.com">[eu-jer.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eu-jer.com</span><span class="citation-popover-title">The present experiment sought to better understand this phenomenon</span><span class="citation-popover-snippet">Cell Phone Notifications Harm Attention: An Exploration of...by A Kaminske · 2022 · Cited by 38 — Recent research has found that the pre...</span></span></span>
 
 </div>
 
-Research on notifications consistently shows that alerts can disrupt attention and cognitive control. Even brief signals can pull attention away from an ongoing task and encourage checking behaviour. Recent work suggests that notifications create immediate attentional shifts, while notification suppression is associated with longer periods of uninterrupted focus. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.22657" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9671478/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The effects of smartphone notifications on cognitive control...by JD Upshaw · 2022 · Cited by 45 — The present study aimed to examine...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0277220" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">effects of smartphone notifications on cognitive control...by JD Upshaw · 2022 · Cited by 48 — The current study examined the effects of...</span></span></span>
+Research on notifications consistently shows that alerts can disrupt attention and cognitive control. Even brief signals can pull attention away from an ongoing task and encourage checking behaviour. Recent work suggests that notifications create immediate attentional shifts, while notification suppression is associated with longer periods of uninterrupted focus.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.22657" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9671478/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The effects of smartphone notifications on cognitive control...by JD Upshaw · 2022 · Cited by 45 — The present study aimed to examine...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0277220" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">effects of smartphone notifications on cognitive control...by JD Upshaw · 2022 · Cited by 48 — The current study examined the effects of...</span></span></span>
 
 Another common problem is anxiety about missing something important. For those students, a scheduled check can work better than total restriction. For example, placing the phone across the room and allowing a two-minute check after the first ten minutes preserves the protective barrier while reducing worry about being unreachable.
 
@@ -350,199 +350,199 @@ Another common problem is anxiety about missing something important. For those s
 
 The strongest argument for phone distance is not that phones make studying impossible. It is that they make abandoning a study session unusually easy before it has properly started.
 
-A phone on the desk keeps scrolling available as an immediate alternative. A phone across the room forces a pause between impulse and action. Research on smartphone presence, notifications, and attention suggests that this pause can matter more than it appears. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/pnasnexus/article/4/2/pgaf017/8016017" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicBlocking mobile internet on smartphones improves sustained...by N Castelo · 2025 · Cited by 41 — Lab experiments focused on...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.journals.uchicago.edu/doi/full/10.1086/691462" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.uchicago.edu">[Chicago Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.uchicago.edu</span><span class="citation-popover-snippet">Chicago JournalsBrain Drain: The Mere Presence of One&#x27;s Own Smartphone...by AF Ward · 2017 · Cited by 1355 — In this research, we test t...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10249922/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">mere presence of a smartphone reduces basal attentional...by J Skowronek · 2023 · Cited by 104 — The smartphone may use limited cognitiv...</span></span></span>
+A phone on the desk keeps scrolling available as an immediate alternative. A phone across the room forces a pause between impulse and action. Research on smartphone presence, notifications, and attention suggests that this pause can matter more than it appears.<span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/pnasnexus/article/4/2/pgaf017/8016017" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicBlocking mobile internet on smartphones improves sustained...by N Castelo · 2025 · Cited by 41 — Lab experiments focused on...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.journals.uchicago.edu/doi/full/10.1086/691462" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.uchicago.edu">[Chicago Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.uchicago.edu</span><span class="citation-popover-snippet">Chicago JournalsBrain Drain: The Mere Presence of One&#x27;s Own Smartphone...by AF Ward · 2017 · Cited by 1355 — In this research, we test t...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10249922/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">mere presence of a smartphone reduces basal attentional...by J Skowronek · 2023 · Cited by 104 — The smartphone may use limited cognitiv...</span></span></span>
 
 For students trying to study before scrolling, the first victory is often not an hour of deep work. It is reaching the ten-minute mark with attention still pointed at the task. Phone distance is a simple way to give those ten minutes a better chance of surviving.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Phone Belongs Across the Room. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Phone Belongs Across the Room. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Minimalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S4NbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Minimalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Minimalism">Digital Minimalism</a>
-        </h4>
-        <p class="fr-book-author">By Cal Newport</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Minimalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S4NbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Minimalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Minimalism">Digital Minimalism</a>
+</h4>
+<p class="fr-book-author">By Cal Newport</p>
         
-        <p class="fr-book-desc">Promotes intentional technology use and reducing phone-driven attention loss.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes intentional technology use and reducing phone-driven attention loss.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Stolen+Focus+by+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stolen Focus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GUlUEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Stolen Focus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Stolen+Focus+by+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stolen Focus">Stolen Focus</a>
-        </h4>
-        <p class="fr-book-author">By Johann Hari</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Stolen+Focus+by+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stolen Focus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GUlUEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Stolen Focus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Stolen+Focus+by+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stolen Focus">Stolen Focus</a>
+</h4>
+<p class="fr-book-author">By Johann Hari</p>
         
-        <p class="fr-book-desc">Explores why attention is fragmented and how distractions affect concentration.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Stolen+Focus+by+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores why attention is fragmented and how distractions affect concentration.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Stolen+Focus+by+Johann+Hari&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Indistractable on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_KjNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Indistractable" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Indistractable">Indistractable</a>
-        </h4>
-        <p class="fr-book-author">By Nir Eyal</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Indistractable on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_KjNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Indistractable" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Indistractable">Indistractable</a>
+</h4>
+<p class="fr-book-author">By Nir Eyal</p>
         
-        <p class="fr-book-desc">Provides practical methods for reducing the pull of phones and notifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides practical methods for reducing the pull of phones and notifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Useful for building study-first routines and cues.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Useful for building study-first routines and cues.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Minimalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Minimalism</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Stolen+Focus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Stolen Focus</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Indistractable&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Indistractable</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Minimalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Minimalism</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Stolen+Focus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Stolen Focus</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Indistractable&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Indistractable</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PU Leather Phone And TV Remote Control Holder Desk Organizer Box Storage Boxes"><img src="https://i.ebayimg.com/images/g/gAgAAeSwPeFp~A79/s-l225.jpg" alt="Listing image for PU Leather Phone And TV Remote Control Holder Desk Organizer Box Storage Boxes" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" target="_blank" rel="sponsored noopener noreferrer">PU Leather Phone And TV Remote Control Holder Desk Organizer Box Storage Boxes</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone storage box">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone storage box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PU Leather Phone And TV Remote Control Holder Desk Organizer Box Storage Boxes"><img src="https://i.ebayimg.com/images/g/gAgAAeSwPeFp~A79/s-l225.jpg" alt="Listing image for PU Leather Phone And TV Remote Control Holder Desk Organizer Box Storage Boxes" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" target="_blank" rel="sponsored noopener noreferrer">PU Leather Phone And TV Remote Control Holder Desk Organizer Box Storage Boxes</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone storage box">Search<span data-ebay-domain-label>eBay.co.uk</span>: phone storage box</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wall Mounted Mobile Phone Charging Organizer Storage Box Holder Stand Rack"><img src="https://i.ebayimg.com/images/g/1dgAAeSwU9BqDqEz/s-l225.jpg" alt="Listing image for Wall Mounted Mobile Phone Charging Organizer Storage Box Holder Stand Rack" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" target="_blank" rel="sponsored noopener noreferrer">Wall Mounted Mobile Phone Charging Organizer Storage Box Holder Stand Rack</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone storage box">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone storage box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wall Mounted Mobile Phone Charging Organizer Storage Box Holder Stand Rack"><img src="https://i.ebayimg.com/images/g/1dgAAeSwU9BqDqEz/s-l225.jpg" alt="Listing image for Wall Mounted Mobile Phone Charging Organizer Storage Box Holder Stand Rack" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" target="_blank" rel="sponsored noopener noreferrer">Wall Mounted Mobile Phone Charging Organizer Storage Box Holder Stand Rack</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone storage box">Search<span data-ebay-domain-label>eBay.co.uk</span>: phone storage box</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Silicone Cell Phone Data Cable Storage Box Travel Earphone Wire Key USB Bag"><img src="https://i.ebayimg.com/images/g/5A8AAeSwe5lp8MjG/s-l225.jpg" alt="Listing image for Silicone Cell Phone Data Cable Storage Box Travel Earphone Wire Key USB Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" target="_blank" rel="sponsored noopener noreferrer">Silicone Cell Phone Data Cable Storage Box Travel Earphone Wire Key USB Bag</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone storage box">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone storage box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Silicone Cell Phone Data Cable Storage Box Travel Earphone Wire Key USB Bag"><img src="https://i.ebayimg.com/images/g/5A8AAeSwe5lp8MjG/s-l225.jpg" alt="Listing image for Silicone Cell Phone Data Cable Storage Box Travel Earphone Wire Key USB Bag" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" target="_blank" rel="sponsored noopener noreferrer">Silicone Cell Phone Data Cable Storage Box Travel Earphone Wire Key USB Bag</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone storage box">Search<span data-ebay-domain-label>eBay.co.uk</span>: phone storage box</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wall Mounted Mobile Phone Charging Organizer Storage Box Holder Stand Rack"><img src="https://i.ebayimg.com/images/g/cwcAAeSwV~5pd57f/s-l225.jpg" alt="Listing image for Wall Mounted Mobile Phone Charging Organizer Storage Box Holder Stand Rack" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" target="_blank" rel="sponsored noopener noreferrer">Wall Mounted Mobile Phone Charging Organizer Storage Box Holder Stand Rack</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone storage box">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone storage box</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wall Mounted Mobile Phone Charging Organizer Storage Box Holder Stand Rack"><img src="https://i.ebayimg.com/images/g/cwcAAeSwV~5pd57f/s-l225.jpg" alt="Listing image for Wall Mounted Mobile Phone Charging Organizer Storage Box Holder Stand Rack" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" target="_blank" rel="sponsored noopener noreferrer">Wall Mounted Mobile Phone Charging Organizer Storage Box Holder Stand Rack</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone storage box">Search<span data-ebay-domain-label>eBay.co.uk</span>: phone storage box</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+storage+box&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-phone-belongs-across-the-room-phone-storage-box&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone storage box" data-ebay-reference="why-the-phone-belongs-across-the-room-phone-storage-box" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -558,7 +558,7 @@ For students trying to study before scrolling, the first victory is often not an
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -578,7 +578,7 @@ For students trying to study before scrolling, the first victory is often not an
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -610,7 +610,7 @@ For students trying to study before scrolling, the first victory is often not an
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -662,7 +662,7 @@ For students trying to study before scrolling, the first victory is often not an
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -707,7 +707,7 @@ For students trying to study before scrolling, the first victory is often not an
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -748,131 +748,131 @@ For students trying to study before scrolling, the first victory is often not an
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/pnasnexus/article/4/2/pgaf017/8016017" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/pnasnexus/article/4/2/pgaf017/8016017</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicBlocking mobile internet on smartphones improves sustained...by N Castelo · 2025 · Cited by 41 — Lab experiments focused on...</p></details>
+   Link:<a href="https://academic.oup.com/pnasnexus/article/4/2/pgaf017/8016017" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/pnasnexus/article/4/2/pgaf017/8016017</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicBlocking mobile internet on smartphones improves sustained...by N Castelo · 2025 · Cited by 41 — Lab experiments focused on...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0001691822002323" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0001691822002323</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reexamining the “brain drain” effect: A replication of Ward...by ACR Pardo · 2022 · Cited by 24 — The present study found t...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0001691822002323" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0001691822002323</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reexamining the “brain drain” effect: A replication of Ward...by ACR Pardo · 2022 · Cited by 24 — The present study found t...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9671478/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9671478/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The effects of smartphone notifications on cognitive control...by JD Upshaw · 2022 · Cited by 45 — The present study aimed to examine...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9671478/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9671478/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The effects of smartphone notifications on cognitive control...by JD Upshaw · 2022 · Cited by 45 — The present study aimed to examine...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: journals.plos.org  
-   Link: <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0277220" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0277220</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>effects of smartphone notifications on cognitive control...by JD Upshaw · 2022 · Cited by 48 — The current study examined the effects of...</p></details>
+   Link:<a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0277220" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0277220</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>effects of smartphone notifications on cognitive control...by JD Upshaw · 2022 · Cited by 48 — The current study examined the effects of...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2605.22657" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.22657</a>  
+   Link:<a href="https://arxiv.org/abs/2605.22657" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.22657</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10249922/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10249922/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>mere presence of a smartphone reduces basal attentional...by J Skowronek · 2023 · Cited by 104 — The smartphone may use limited cognitiv...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10249922/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10249922/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mere presence of a smartphone reduces basal attentional...by J Skowronek · 2023 · Cited by 104 — The smartphone may use limited cognitiv...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0747563226000233" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0747563226000233</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How social media notifications disrupt cognitive processingby H Fournier · 2026 · Cited by 1 — Observational studies show that disabling...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0747563226000233" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0747563226000233</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How social media notifications disrupt cognitive processingby H Fournier · 2026 · Cited by 1 — Observational studies show that disabling...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0301051123002454" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0301051123002454</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Electrophysiological effects of smartphone notifications on...by JD Upshaw · 2024 · Cited by 6 — These results provide evidence supporti...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0301051123002454" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0301051123002454</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Electrophysiological effects of smartphone notifications on...by JD Upshaw · 2024 · Cited by 6 — These results provide evidence supporti...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sciencedirect.com  
    Title: Does a smartphone on the desk drain our brain?  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1053810020301975" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1053810020301975</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>M Hartmann · 2020 · Cited by 40 — We found no overall effect of smartphone presence on short-term and prospective memory perform...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S1053810020301975" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1053810020301975</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>M Hartmann · 2020 · Cited by 40 — We found no overall effect of smartphone presence on short-term and prospective memory perform...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0747563222001558" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0747563222001558</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In the context of focused work, however, smartphone presence may be problematic.Read...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0747563222001558" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0747563222001558</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In the context of focused work, however, smartphone presence may be problematic.Read...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sciencedirect.com  
    Title: Can smartphone presence affect cognitive function?  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0747563222002217" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0747563222002217</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>G Niu · 2022 · Cited by 52 — This study examines the influence of smartphones on cognitive function and the potential moderatin...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0747563222002217" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0747563222002217</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>G Niu · 2022 · Cited by 52 — This study examines the influence of smartphones on cognitive function and the potential moderatin...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: journals.uchicago.edu  
-   Link: <a href="https://www.journals.uchicago.edu/doi/full/10.1086/691462" target="_blank" rel="noopener noreferrer nofollow">https://www.journals.uchicago.edu/doi/full/10.1086/691462</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chicago JournalsBrain Drain: The Mere Presence of One&#x27;s Own Smartphone...by AF Ward · 2017 · Cited by 1355 — In this research, we test t...</p></details>
+   Link:<a href="https://www.journals.uchicago.edu/doi/full/10.1086/691462" target="_blank" rel="noopener noreferrer nofollow">https://www.journals.uchicago.edu/doi/full/10.1086/691462</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chicago JournalsBrain Drain: The Mere Presence of One&#x27;s Own Smartphone...by AF Ward · 2017 · Cited by 1355 — In this research, we test t...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: news.utexas.edu  
    Title: the mere presence of your smartphone reduces brain power  
-   Link: <a href="https://news.utexas.edu/2017/06/26/the-mere-presence-of-your-smartphone-reduces-brain-power/" target="_blank" rel="noopener noreferrer nofollow">https://news.utexas.edu/2017/06/26/the-mere-presence-of-your-smartphone-reduces-brain-power/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UT Austin NewsThe Mere Presence of Your Smartphone Reduces Brain...26 Jun 2017 — The findings suggest that the mere presence of one&#x27;s sm...</p></details>
+   Link:<a href="https://news.utexas.edu/2017/06/26/the-mere-presence-of-your-smartphone-reduces-brain-power/" target="_blank" rel="noopener noreferrer nofollow">https://news.utexas.edu/2017/06/26/the-mere-presence-of-your-smartphone-reduces-brain-power/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UT Austin NewsThe Mere Presence of Your Smartphone Reduces Brain...26 Jun 2017 — The findings suggest that the mere presence of one&#x27;s sm...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: tmb.apaopen.org  
-   Link: <a href="https://tmb.apaopen.org/pub/7np97zr5" target="_blank" rel="noopener noreferrer nofollow">https://tmb.apaopen.org/pub/7np97zr5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Technology, Mind, and BehaviorThe Effect of Mere Presence of Smartphone on Cognitive...by A Hartanto · 2024 · Cited by 10 — To reconcile...</p></details>
+   Link:<a href="https://tmb.apaopen.org/pub/7np97zr5" target="_blank" rel="noopener noreferrer nofollow">https://tmb.apaopen.org/pub/7np97zr5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Technology, Mind, and BehaviorThe Effect of Mere Presence of Smartphone on Cognitive...by A Hartanto · 2024 · Cited by 10 — To reconcile...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/315966604_Brain_Drain_The_Mere_Presence_of_One%27s_Own_Smartphone_Reduces_Available_Cognitive_Capacity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/315966604_Brain_Drain_The_Mere_Presence_of_One%27s_Own_Smartphone_Reduces_Available_Cognitive_Capacity</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brain Drain: The Mere Presence of One&#x27;s Own Smartphone...3 Apr 2017 — In this research, we test the “brain drain” hypothesis that the me...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/315966604_Brain_Drain_The_Mere_Presence_of_One%27s_Own_Smartphone_Reduces_Available_Cognitive_Capacity" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/315966604_Brain_Drain_The_Mere_Presence_of_One%27s_Own_Smartphone_Reduces_Available_Cognitive_Capacity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brain Drain: The Mere Presence of One&#x27;s Own Smartphone...3 Apr 2017 — In this research, we test the “brain drain” hypothesis that the me...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: tandf.figshare.com  
-   Link: <a href="https://tandf.figshare.com/articles/journal_contribution/Does_the_Mere_Presence_of_a_Smartphone_Impact_Cognitive_Performance_A_Meta-Analysis_of_the_Brain_Drain_Effect_/24630852" target="_blank" rel="noopener noreferrer nofollow">https://tandf.figshare.com/articles/journal_contribution/Does_the_Mere_Presence_of_a_Smartphone_Impact_Cognitive_Performance_A_Meta-Analysis_of_the_Brain_Drain_Effect_/24630852</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Mere Presence of a Smartphone Impact...Nov 24, 2023 — &lt;p&gt;A growing body of research investigates the general possibility that the me...</p></details>
+   Link:<a href="https://tandf.figshare.com/articles/journal_contribution/Does_the_Mere_Presence_of_a_Smartphone_Impact_Cognitive_Performance_A_Meta-Analysis_of_the_Brain_Drain_Effect_/24630852" target="_blank" rel="noopener noreferrer nofollow">https://tandf.figshare.com/articles/journal_contribution/Does_the_Mere_Presence_of_a_Smartphone_Impact_Cognitive_Performance_A_Meta-Analysis_of_the_Brain_Drain_Effect_/24630852</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Mere Presence of a Smartphone Impact...Nov 24, 2023 — &lt;p&gt;A growing body of research investigates the general possibility that the me...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/364467331_Does_the_mere_presence_of_a_smartphone_impact_cognitive_performance_A_meta-analysis_of_the_brain_drain_effect" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/364467331_Does_the_mere_presence_of_a_smartphone_impact_cognitive_performance_A_meta-analysis_of_the_brain_drain_effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Does the mere presence of a smartphone impact...Dec 3, 2025 — The meta-analysis provides little evidence to [support](&amp;#123;&amp;#123; &#x27;support/&#x27; | relative_url &amp;#125;&amp;#125;) the existence...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/364467331_Does_the_mere_presence_of_a_smartphone_impact_cognitive_performance_A_meta-analysis_of_the_brain_drain_effect" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/364467331_Does_the_mere_presence_of_a_smartphone_impact_cognitive_performance_A_meta-analysis_of_the_brain_drain_effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Does the mere presence of a smartphone impact...Dec 3, 2025 — The meta-analysis provides little evidence to [support](&amp;#123;&amp;#123; &#x27;support/&#x27; | relative_url &amp;#125;&amp;#125;) the existence...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: psypost.org  
    Title: new psychology research reveals the cognitive cost of smartphone notifications  
-   Link: <a href="https://www.psypost.org/new-psychology-research-reveals-the-cognitive-cost-of-smartphone-notifications/" target="_blank" rel="noopener noreferrer nofollow">https://www.psypost.org/new-psychology-research-reveals-the-cognitive-cost-of-smartphone-notifications/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New psychology research reveals the cognitive cost of...18 Mar 2026 — A recent study in Computers in Human Behavior provides evidence th...</p></details>
+   Link:<a href="https://www.psypost.org/new-psychology-research-reveals-the-cognitive-cost-of-smartphone-notifications/" target="_blank" rel="noopener noreferrer nofollow">https://www.psypost.org/new-psychology-research-reveals-the-cognitive-cost-of-smartphone-notifications/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New psychology research reveals the cognitive cost of...18 Mar 2026 — A recent study in Computers in Human Behavior provides evidence th...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: lonestarneurology.net  
    Title: the impact of smartphone addiction on cognitive function and attention span  
-   Link: <a href="https://lonestarneurology.net/others/the-impact-of-smartphone-addiction-on-cognitive-function-and-attention-span/" target="_blank" rel="noopener noreferrer nofollow">https://lonestarneurology.net/others/the-impact-of-smartphone-addiction-on-cognitive-function-and-attention-span/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Smartphone Addiction: Effects on Cognition &amp; AttentionApr 9, 2025 — Studies have shown that excessive smartphone use can disrupt memory...</p></details>
+   Link:<a href="https://lonestarneurology.net/others/the-impact-of-smartphone-addiction-on-cognitive-function-and-attention-span/" target="_blank" rel="noopener noreferrer nofollow">https://lonestarneurology.net/others/the-impact-of-smartphone-addiction-on-cognitive-function-and-attention-span/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Smartphone Addiction: Effects on Cognition &amp; AttentionApr 9, 2025 — Studies have shown that excessive smartphone use can disrupt memory...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: eu-jer.com  
    Title: The present experiment sought to better understand this phenomenon  
-   Link: <a href="https://www.eu-jer.com/cell-phone-notifications-harm-attention-an-exploration-of-the-factors-that-contribute-to-distraction" target="_blank" rel="noopener noreferrer nofollow">https://www.eu-jer.com/cell-phone-notifications-harm-attention-an-exploration-of-the-factors-that-contribute-to-distraction</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cell Phone Notifications Harm Attention: An Exploration of...by A Kaminske · 2022 · Cited by 38 — Recent research has found that the pre...</p></details>
+   Link:<a href="https://www.eu-jer.com/cell-phone-notifications-harm-attention-an-exploration-of-the-factors-that-contribute-to-distraction" target="_blank" rel="noopener noreferrer nofollow">https://www.eu-jer.com/cell-phone-notifications-harm-attention-an-exploration-of-the-factors-that-contribute-to-distraction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cell Phone Notifications Harm Attention: An Exploration of...by A Kaminske · 2022 · Cited by 38 — Recent research has found that the pre...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: research.vu.nl  
    Title: does the mere presence of a smartphone impact cognitive performan  
-   Link: <a href="https://research.vu.nl/en/publications/does-the-mere-presence-of-a-smartphone-impact-cognitive-performan/" target="_blank" rel="noopener noreferrer nofollow">https://research.vu.nl/en/publications/does-the-mere-presence-of-a-smartphone-impact-cognitive-performan/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the Mere Presence of a Smartphone Impact...by DA Parry · 2024 · Cited by 26 — A growing body of research investigates the general possib...</p></details>
+   Link:<a href="https://research.vu.nl/en/publications/does-the-mere-presence-of-a-smartphone-impact-cognitive-performan/" target="_blank" rel="noopener noreferrer nofollow">https://research.vu.nl/en/publications/does-the-mere-presence-of-a-smartphone-impact-cognitive-performan/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the Mere Presence of a Smartphone Impact...by DA Parry · 2024 · Cited by 26 — A growing body of research investigates the general possib...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: nowcomment.com  
-   Link: <a href="https://nowcomment.com/documents/169447" target="_blank" rel="noopener noreferrer nofollow">https://nowcomment.com/documents/169447</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>f one&#x27;s own smartphone may occupy limited-capacity cognitive resources, thereby...Read more...</p></details>
+   Link:<a href="https://nowcomment.com/documents/169447" target="_blank" rel="noopener noreferrer nofollow">https://nowcomment.com/documents/169447</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>f one&#x27;s own smartphone may occupy limited-capacity cognitive resources, thereby...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: hbr.org  
    Title: having your smartphone nearby takes a toll on your thinking  
-   Link: <a href="https://hbr.org/2018/03/having-your-smartphone-nearby-takes-a-toll-on-your-thinking" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2018/03/having-your-smartphone-nearby-takes-a-toll-on-your-thinking</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Having Your Smartphone Nearby Takes a Toll on...20 Mar 2018 — In recent research, we investigated whether merely having one&#x27;s own smartp...</p></details>
+   Link:<a href="https://hbr.org/2018/03/having-your-smartphone-nearby-takes-a-toll-on-your-thinking" target="_blank" rel="noopener noreferrer nofollow">https://hbr.org/2018/03/having-your-smartphone-nearby-takes-a-toll-on-your-thinking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Having Your Smartphone Nearby Takes a Toll on...20 Mar 2018 — In recent research, we investigated whether merely having one&#x27;s own smartp...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: interruptions.net  
-   Link: <a href="https://interruptions.net/literature/Kushlev-CHI16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://interruptions.net/literature/Kushlev-CHI16.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“Silence Your Phones”: Smartphone Notifications Increase...by K Kushlev · Cited by 404 — A wealth of basic research and theory documents...</p></details>
+   Link:<a href="https://interruptions.net/literature/Kushlev-CHI16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://interruptions.net/literature/Kushlev-CHI16.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“Silence Your Phones”: Smartphone Notifications Increase...by K Kushlev · Cited by 404 — A wealth of basic research and theory documents...</p></details>

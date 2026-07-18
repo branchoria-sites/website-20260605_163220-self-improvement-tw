@@ -271,7 +271,7 @@ image: /assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_task_foc
 Many self-improvement systems fail at the [feedback]({{ 'feedback/' | relative_url }}) stage, not because the information is wrong, but because the interpretation becomes personal. A missed workout turns into “I am lazy”. A poor presentation becomes “I am not good enough”. Once feedback is treated as a verdict on character, it often triggers shame, avoidance, and defensive thinking rather than useful adjustment.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_task_focused_feedbac_c64a60-Illustration-1-dark.svg" | relative_url }}" alt="No Shame illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_task_focused_feedbac_c64a60-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_task_focused_feedbac_c64a60-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Task-focused feedback works differently. It keeps attention on what happened, what influenced the result, and what can change next time. Instead of asking, “What does this say about me?”, it asks, “What does this say about the process?” Research on feedback, self-regulation, self-compassion, and learning consistently suggests that people cope better with setbacks and persist longer when feedback targets strategies, effort allocation, or task execution rather than personal worth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10380873/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Person versus process praise and criticism: implications for...by ML Kamins · 1999 · Cited by 1621 — Two studies tested the hypoth...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-regulatory behavior change techniques in interventions to...by B Spring · 2020 · Cited by 115 — Inclusion of 14 self-regulatory...</span></span></span>
+Task-focused feedback works differently. It keeps attention on what happened, what influenced the result, and what can change next time. Instead of asking, “What does this say about me?”, it asks, “What does this say about the process?” Research on feedback, self-regulation, self-compassion, and learning consistently suggests that people cope better with setbacks and persist longer when feedback targets strategies, effort allocation, or task execution rather than personal worth.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10380873/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Person versus process praise and criticism: implications for...by ML Kamins · 1999 · Cited by 1621 — Two studies tested the hypoth...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-regulatory behavior change techniques in interventions to...by B Spring · 2020 · Cited by 115 — Inclusion of 14 self-regulatory...</span></span></span>
 
 ## Why Self-Judgement Gives No Usable Instruction
 
@@ -286,7 +286,7 @@ The first statement describes an [identity]({{ 'identity/' | relative_url }}). T
 
 This distinction matters because behaviour can be changed, redesigned, supported, automated, simplified, or replaced. Character labels rarely provide any clear next action. They tend to collapse many possible causes into a single negative conclusion about the self.
 
-Research on self-compassion and self-criticism helps explain why. Self-compassion is not simply being kind to oneself. In the psychological literature, it is associated with a style of responding to mistakes that combines acknowledgement of the problem with constructive correction. Rather than denying failure, it allows people to examine it without becoming consumed by self-condemnation. Studies consistently find links between self-compassion, reduced maladaptive self-criticism, and more adaptive responses to setbacks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://self-compassion.org/wp-content/uploads/2022/06/Psych-Review-article-in-press.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: self-compassion.org">[Self-Compassion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">self-compassion.org</span><span class="citation-popover-title">Psych Review article in press</span><span class="citation-popover-snippet">21 self-criticism, self-compassion uses warmth, encouragement, and constructive feedback to work toward personal goals. Self-compassion is...</span></span></span> Frontiers The practical consequence is simple: when feedback attacks identity <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.1047022/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[frontiersin.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">The impact of Emotion-focused training for...by J Halamová · 2023 · Cited by 8 — Empirical research is increasingly focused on self-comp...</span></span></span>, [attention shifts]({{ 'attention-shift/' | relative_url }}) from solving the problem to protecting the self.
+Research on self-compassion and self-criticism helps explain why. Self-compassion is not simply being kind to oneself. In the psychological literature, it is associated with a style of responding to mistakes that combines acknowledgement of the problem with constructive correction. Rather than denying failure, it allows people to examine it without becoming consumed by self-condemnation. Studies consistently find links between self-compassion, reduced maladaptive self-criticism, and more adaptive responses to setbacks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://self-compassion.org/wp-content/uploads/2022/06/Psych-Review-article-in-press.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: self-compassion.org">[Self-Compassion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">self-compassion.org</span><span class="citation-popover-title">Psych Review article in press</span><span class="citation-popover-snippet">21 self-criticism, self-compassion uses warmth, encouragement, and constructive feedback to work toward personal goals. Self-compassion is...</span></span></span> Frontiers The practical consequence is simple: when feedback attacks identity<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.1047022/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[frontiersin.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">The impact of Emotion-focused training for...by J Halamová · 2023 · Cited by 8 — Empirical research is increasingly focused on self-comp...</span></span></span>, [attention shifts]({{ 'attention-shift/' | relative_url }}) from solving the problem to protecting the self.
 
 ## How Shame Disrupts the Feedback Loop
 
@@ -309,7 +309,7 @@ This creates a damaging cycle:
 
 The original goal may still matter, but the system loses its ability to adapt.
 
-Behaviour-change research repeatedly identifies monitoring and feedback as important self-regulation mechanisms because they provide information for adjustment. Those mechanisms only work when people remain willing to look at the information. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://educationendowmentfoundation.org.uk/early-years/toolkit/self-regulation-strategies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">Self-regulation strategies &#124; EEFSelf-regulation strategies have a positive impact (+ three months), on average, and may be a cost-effecti...</span></span></span>
+Behaviour-change research repeatedly identifies monitoring and feedback as important self-regulation mechanisms because they provide information for adjustment. Those mechanisms only work when people remain willing to look at the information. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://educationendowmentfoundation.org.uk/early-years/toolkit/self-regulation-strategies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: educationendowmentfoundation.org.uk">[EEF]</a><span class="citation-popover" role="note"><span class="citation-popover-source">educationendowmentfoundation.org.uk</span><span class="citation-popover-snippet">Self-regulation strategies &#124; EEFSelf-regulation strategies have a positive impact (+ three months), on average, and may be a cost-effecti...</span></span></span>
 
 Task-focused feedback preserves that willingness by treating data as operational information rather than moral judgement.
 
@@ -336,7 +336,7 @@ For example:
 
 > “I have no self-control.”
 
-**Task-focused interpretation** <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/361410794_Learning_from_Failure_with_Self_vs_Task_Focused_Feedback" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">361410794 Learning from Failure with Self vs Task Focused Feedback</span><span class="citation-popover-snippet">Learning from Failure with Self vs Task Focused Feedback19 Jun 2022 — Decades of feedback research have suggested that feedback is more e...</span></span></span>
+**Task-focused interpretation**<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/361410794_Learning_from_Failure_with_Self_vs_Task_Focused_Feedback" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">361410794 Learning from Failure with Self vs Task Focused Feedback</span><span class="citation-popover-snippet">Learning from Failure with Self vs Task Focused Feedback19 Jun 2022 — Decades of feedback research have suggested that feedback is more e...</span></span></span>
 
 > “My plan relied on resisting distractions rather than removing them.”
 
@@ -374,7 +374,7 @@ Process-focused feedback targets actions, strategies, or methods:
 
 </div>
 
-Research by Melissa Kamins and Carol Dweck found that feedback framed around the person can create a sense that worth depends on performance. After setbacks, children exposed to person-focused praise or criticism showed more helpless responses and self-blame than those receiving process-focused feedback. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10380873/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Person versus process praise and criticism: implications for...by ML Kamins · 1999 · Cited by 1621 — Two studies tested the hypoth...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://studentexperiencenetwork.org/research_library/person-vs-process-praise-and-criticism-implications-for-contingent-self-worth-and-coping/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studentexperiencenetwork.org">[Student Experience Research Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studentexperiencenetwork.org</span><span class="citation-popover-title">Student Experience Research Network Person vs</span><span class="citation-popover-snippet">process praise and criticismDweck, Carol S. Children displayed more &quot;helpless&quot; responses (including self blame) after receiving person cr...</span></span></span>
+Research by Melissa Kamins and Carol Dweck found that feedback framed around the person can create a sense that worth depends on performance. After setbacks, children exposed to person-focused praise or criticism showed more helpless responses and self-blame than those receiving process-focused feedback.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10380873/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Person versus process praise and criticism: implications for...by ML Kamins · 1999 · Cited by 1621 — Two studies tested the hypoth...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://studentexperiencenetwork.org/research_library/person-vs-process-praise-and-criticism-implications-for-contingent-self-worth-and-coping/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: studentexperiencenetwork.org">[Student Experience Research Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">studentexperiencenetwork.org</span><span class="citation-popover-title">Student Experience Research Network Person vs</span><span class="citation-popover-snippet">process praise and criticismDweck, Carol S. Children displayed more &quot;helpless&quot; responses (including self blame) after receiving person cr...</span></span></span>
 
 The important lesson for self-improvement is that people can deliver person-focused feedback to themselves just as easily as others can.
 
@@ -388,7 +388,7 @@ Many internal monologues sound like this:
 
 </div>
 
-These statements mirror the same identity-focused pattern that research associates with poorer coping after setbacks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10380873/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Person versus process praise and criticism: implications for...by ML Kamins · 1999 · Cited by 1621 — Two studies tested the hypoth...</span></span></span> ScienceDirect Replacing them with process-focused observations keeps attention on changeable variables. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2666915325000204" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A network approach to shame: The central roles of self...by B ShamsAlam · 2025 · Cited by 4 — This network analysis provides a precise u...</span></span></span>
+These statements mirror the same identity-focused pattern that research associates with poorer coping after setbacks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10380873/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Person versus process praise and criticism: implications for...by ML Kamins · 1999 · Cited by 1621 — Two studies tested the hypoth...</span></span></span> ScienceDirect Replacing them with process-focused observations keeps attention on changeable variables.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S2666915325000204" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">A network approach to shame: The central roles of self...by B ShamsAlam · 2025 · Cited by 4 — This network analysis provides a precise u...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_task_focused_feedbac_c64a60-Illustration-2-dark.svg" | relative_url }}" alt="No Shame illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_task_focused_feedbac_c64a60-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_feedback_loops_fdc3b7_task_focused_feedbac_c64a60-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Examples That Turn Blame Into System Diagnosis
@@ -484,183 +484,183 @@ Useful feedback narrows the gap between observation and action. Unhelpful feedba
 
 ## Why Better Feedback Sounds Less Personal
 
-People often assume that harsh self-criticism creates accountability. The evidence suggests a more complicated reality. Constructive self-correction does not require attacking the self. It requires accurate information, emotional tolerance, and attention to variables that can actually be changed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://self-compassion.org/wp-content/uploads/2022/06/Psych-Review-article-in-press.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: self-compassion.org">[Self-Compassion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">self-compassion.org</span><span class="citation-popover-title">Psych Review article in press</span><span class="citation-popover-snippet">21 self-criticism, self-compassion uses warmth, encouragement, and constructive feedback to work toward personal goals. Self-compassion is...</span></span></span> Frontiers The most productive feedback therefore sounds less like a verdict and more like an investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.1047022/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[frontiersin.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">The impact of Emotion-focused training for...by J Halamová · 2023 · Cited by 8 — Empirical research is increasingly focused on self-comp...</span></span></span>
+People often assume that harsh self-criticism creates accountability. The evidence suggests a more complicated reality. Constructive self-correction does not require attacking the self. It requires accurate information, emotional tolerance, and attention to variables that can actually be changed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://self-compassion.org/wp-content/uploads/2022/06/Psych-Review-article-in-press.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: self-compassion.org">[Self-Compassion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">self-compassion.org</span><span class="citation-popover-title">Psych Review article in press</span><span class="citation-popover-snippet">21 self-criticism, self-compassion uses warmth, encouragement, and constructive feedback to work toward personal goals. Self-compassion is...</span></span></span> Frontiers The most productive feedback therefore sounds less like a verdict and more like an investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.1047022/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[frontiersin.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">The impact of Emotion-focused training for...by J Halamová · 2023 · Cited by 8 — Empirical research is increasingly focused on self-comp...</span></span></span>
 
 Instead of asking whether a result proves something about who you are, task-focused feedback asks what the result reveals about the system you are using. That small shift prevents shame from consuming the signal. The mistake remains visible, but it becomes information for redesign rather than evidence for self-condemnation.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Better Feedback Sounds Less Personal. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Better Feedback Sounds Less Personal. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Carol S. Dweck</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
-        <p class="fr-book-desc">Promotes process-focused evaluation over identity judgments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
+</h4>
+<p class="fr-book-author">By Carol S. Dweck</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
+<p class="fr-book-desc">Promotes process-focused evaluation over identity judgments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Self-Compassion+by+Kristin+Neff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Self-Compassion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PDAEzLL9mscC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Self-Compassion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Self-Compassion+by+Kristin+Neff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Self-Compassion">Self-Compassion</a>
-        </h4>
-        <p class="fr-book-author">By Kristin Neff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Self-Compassion+by+Kristin+Neff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Self-Compassion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PDAEzLL9mscC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Self-Compassion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Self-Compassion+by+Kristin+Neff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Self-Compassion">Self-Compassion</a>
+</h4>
+<p class="fr-book-author">By Kristin Neff</p>
         
-        <p class="fr-book-desc">Addresses shame and self-criticism after setbacks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Self-Compassion+by+Kristin+Neff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses shame and self-criticism after setbacks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Self-Compassion+by+Kristin+Neff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Frames mistakes as system issues that can be redesigned.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Frames mistakes as system issues that can be redesigned.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Grit+by+Angela+Duckworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Grit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SQYeDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Grit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Grit+by+Angela+Duckworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Grit">Grit</a>
-        </h4>
-        <p class="fr-book-author">By Angela Duckworth</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Grit+by+Angela+Duckworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Grit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SQYeDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Grit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Grit+by+Angela+Duckworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Grit">Grit</a>
+</h4>
+<p class="fr-book-author">By Angela Duckworth</p>
         
-        <p class="fr-book-desc">Encourages persistence through learning rather than self-blame.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Grit+by+Angela+Duckworth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages persistence through learning rather than self-blame.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Grit+by+Angela+Duckworth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Self+Compassion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Self Compassion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Self+Compassion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Self Compassion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-    </div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-shame-why-better-feedback-sounds-less-personal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-shame-why-better-feedback-sounds-less-personal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-shame-why-better-feedback-sounds-less-personal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-shame-why-better-feedback-sounds-less-personal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-shame-why-better-feedback-sounds-less-personal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-shame-why-better-feedback-sounds-less-personal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-shame-why-better-feedback-sounds-less-personal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-shame-why-better-feedback-sounds-less-personal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-shame-why-better-feedback-sounds-less-personal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-shame-why-better-feedback-sounds-less-personal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-shame-why-better-feedback-sounds-less-personal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-shame-why-better-feedback-sounds-less-personal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-shame-why-better-feedback-sounds-less-personal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-shame-why-better-feedback-sounds-less-personal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-shame-why-better-feedback-sounds-less-personal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-shame-why-better-feedback-sounds-less-personal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-shame-why-better-feedback-sounds-less-personal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-shame-why-better-feedback-sounds-less-personal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-shame-why-better-feedback-sounds-less-personal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-shame-why-better-feedback-sounds-less-personal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-shame-why-better-feedback-sounds-less-personal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-shame-why-better-feedback-sounds-less-personal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-shame-why-better-feedback-sounds-less-personal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-shame-why-better-feedback-sounds-less-personal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-shame-why-better-feedback-sounds-less-personal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-shame-why-better-feedback-sounds-less-personal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-shame-why-better-feedback-sounds-less-personal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-shame-why-better-feedback-sounds-less-personal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-shame-why-better-feedback-sounds-less-personal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-shame-why-better-feedback-sounds-less-personal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-shame-why-better-feedback-sounds-less-personal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-shame-why-better-feedback-sounds-less-personal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-shame-why-better-feedback-sounds-less-personal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-shame-why-better-feedback-sounds-less-personal-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -676,7 +676,7 @@ Instead of asking whether a result proves something about who you are, task-focu
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -696,7 +696,7 @@ Instead of asking whether a result proves something about who you are, task-focu
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -728,7 +728,7 @@ Instead of asking whether a result proves something about who you are, task-focu
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -758,7 +758,7 @@ Instead of asking whether a result proves something about who you are, task-focu
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -816,139 +816,139 @@ Instead of asking whether a result proves something about who you are, task-focu
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-regulatory behavior change [techniques](&amp;#123;&amp;#123; &#x27;techniques/&#x27; | relative_url &amp;#125;&amp;#125;) in interventions to...by B Spring · 2020 · Cited by 115 — Inclusion of 14 self-regulatory...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-regulatory behavior change [techniques](&amp;#123;&amp;#123; &#x27;techniques/&#x27; | relative_url &amp;#125;&amp;#125;) in interventions to...by B Spring · 2020 · Cited by 115 — Inclusion of 14 self-regulatory...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: self-compassion.org  
    Title: Psych Review article in press  
-   Link: <a href="https://self-compassion.org/wp-content/uploads/2022/06/Psych-Review-article-in-press.pdf" target="_blank" rel="noopener noreferrer nofollow">https://self-compassion.org/wp-content/uploads/2022/06/Psych-Review-article-in-press.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>21 self-criticism, self-compassion uses warmth, encouragement, and constructive feedback to work toward personal goals. Self-compassion is...</p></details>
+   Link:<a href="https://self-compassion.org/wp-content/uploads/2022/06/Psych-Review-article-in-press.pdf" target="_blank" rel="noopener noreferrer nofollow">https://self-compassion.org/wp-content/uploads/2022/06/Psych-Review-article-in-press.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>21 self-criticism, self-compassion uses warmth, encouragement, and constructive feedback to work toward personal goals. Self-compassion is...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2666915325000204" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2666915325000204</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A network approach to shame: The central roles of self...by B ShamsAlam · 2025 · Cited by 4 — This network analysis provides a precise u...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2666915325000204" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2666915325000204</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A network approach to shame: The central roles of self...by B ShamsAlam · 2025 · Cited by 4 — This network analysis provides a precise u...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: educationendowmentfoundation.org.uk  
-   Link: <a href="https://educationendowmentfoundation.org.uk/early-years/toolkit/self-regulation-strategies" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/early-years/toolkit/self-regulation-strategies</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-regulation strategies | EEFSelf-regulation strategies have a positive impact (+ three months), on average, and may be a cost-effecti...</p></details>
+   Link:<a href="https://educationendowmentfoundation.org.uk/early-years/toolkit/self-regulation-strategies" target="_blank" rel="noopener noreferrer nofollow">https://educationendowmentfoundation.org.uk/early-years/toolkit/self-regulation-strategies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-regulation strategies | EEFSelf-regulation strategies have a positive impact (+ three months), on average, and may be a cost-effecti...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0148296322009006" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0148296322009006</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-regulation and goal-directed behavior: A systematic...by S Billore · 2023 · Cited by 112 — This article is one of the first to pres...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0148296322009006" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0148296322009006</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-regulation and goal-directed behavior: A systematic...by S Billore · 2023 · Cited by 112 — This article is one of the first to pres...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0959475226000046" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0959475226000046</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The roles of growth mindset and feedback type in shaping...by X Liu · 2026 — Person-oriented criticism targets the child&#x27;s global self (...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0959475226000046" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0959475226000046</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The roles of growth mindset and feedback type in shaping...by X Liu · 2026 — Person-oriented criticism targets the child&#x27;s global self (...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Carol Dweck  
-   Link: <a href="https://www.youtube.com/watch?v=NWv1VdDeoRY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NWv1VdDeoRY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Defensiveness Ends Here | The What, So What, Now What Framework...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=NWv1VdDeoRY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NWv1VdDeoRY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defensiveness Ends Here | The What, So What, Now What Framework...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/10380873/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/10380873/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Person versus process praise and criticism: implications for...by ML Kamins · 1999 · Cited by 1621 — Two studies tested the hypoth...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/10380873/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/10380873/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Person versus process praise and criticism: implications for...by ML Kamins · 1999 · Cited by 1621 — Two studies tested the hypoth...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.1047022/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.1047022/full</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of Emotion-focused training for...by J Halamová · 2023 · Cited by 8 — Empirical research is increasingly focused on self-comp...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.1047022/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.1047022/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of Emotion-focused training for...by J Halamová · 2023 · Cited by 8 — Empirical research is increasingly focused on self-comp...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: studentexperiencenetwork.org  
    Title: Student Experience Research Network Person vs  
-   Link: <a href="https://studentexperiencenetwork.org/research_library/person-vs-process-praise-and-criticism-implications-for-contingent-self-worth-and-coping/" target="_blank" rel="noopener noreferrer nofollow">https://studentexperiencenetwork.org/research_library/person-vs-process-praise-and-criticism-implications-for-contingent-self-worth-and-coping/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>process praise and criticismDweck, Carol S. Children displayed more &quot;helpless&quot; responses (including self blame) after receiving person cr...</p></details>
+   Link:<a href="https://studentexperiencenetwork.org/research_library/person-vs-process-praise-and-criticism-implications-for-contingent-self-worth-and-coping/" target="_blank" rel="noopener noreferrer nofollow">https://studentexperiencenetwork.org/research_library/person-vs-process-praise-and-criticism-implications-for-contingent-self-worth-and-coping/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>process praise and criticismDweck, Carol S. Children displayed more &quot;helpless&quot; responses (including self blame) after receiving person cr...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
    Title: 361410794 Learning from Failure with Self vs Task Focused Feedback  
-   Link: <a href="https://www.researchgate.net/publication/361410794_Learning_from_Failure_with_Self_vs_Task_Focused_Feedback" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/361410794_Learning_from_Failure_with_Self_vs_Task_Focused_Feedback</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learning from Failure with Self vs Task Focused Feedback19 Jun 2022 — Decades of feedback research have suggested that feedback is more e...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/361410794_Learning_from_Failure_with_Self_vs_Task_Focused_Feedback" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/361410794_Learning_from_Failure_with_Self_vs_Task_Focused_Feedback</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Learning from Failure with Self vs Task Focused Feedback19 Jun 2022 — Decades of feedback research have suggested that feedback is more e...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/ja/dictionary/english/person" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/ja/dictionary/english/person</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>意味, Cambridge 英語辞書での定義person noun [C] (HUMAN)... a man, woman, or child: Who was the first person to swim the English Channel? A meal...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/ja/dictionary/english/person" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/ja/dictionary/english/person</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>意味, Cambridge 英語辞書での定義person noun [C] (HUMAN)... a man, woman, or child: Who was the first person to swim the English Channel? A meal...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1625771/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1625771/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A comparative study of state self-esteem responses to...by YH Chen · 2025 · Cited by 10 — Adolescents demonstrated significantly greater...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1625771/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1625771/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A comparative study of state self-esteem responses to...by YH Chen · 2025 · Cited by 10 — Adolescents demonstrated significantly greater...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: linkedin.com  
    Title: how can you use self compassion deal feedback  
-   Link: <a href="https://www.linkedin.com/advice/0/how-can-you-use-self-compassion-deal-feedback" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/advice/0/how-can-you-use-self-compassion-deal-feedback</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Compassion at Work: How to Deal with Feedback...10 Apr 2023 — Learn how to use self-compassion to cope with stress, improve your p...</p></details>
+   Link:<a href="https://www.linkedin.com/advice/0/how-can-you-use-self-compassion-deal-feedback" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/advice/0/how-can-you-use-self-compassion-deal-feedback</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Compassion at Work: How to Deal with Feedback...10 Apr 2023 — Learn how to use self-compassion to cope with stress, improve your p...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: njlifehacks.com  
    Title: self compassion versus self criticism  
-   Link: <a href="https://www.njlifehacks.com/self-compassion-versus-self-criticism/" target="_blank" rel="noopener noreferrer nofollow">https://www.njlifehacks.com/self-compassion-versus-self-criticism/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>because their [motivation](&amp;#123;&amp;#123; &#x27;motivation/&#x27; | relative_url &amp;#125;&amp;#125;) stems...</p></details>
+   Link:<a href="https://www.njlifehacks.com/self-compassion-versus-self-criticism/" target="_blank" rel="noopener noreferrer nofollow">https://www.njlifehacks.com/self-compassion-versus-self-criticism/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>because their [motivation](&amp;#123;&amp;#123; &#x27;motivation/&#x27; | relative_url &amp;#125;&amp;#125;) stems...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: phwwhocc.co.uk  
-   Link: <a href="https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying and Applying Behaviour Change TechniquesThis interactive tool unpacks step 5 &#x27;build the intervention&#x27; where we explore how to...</p></details>
+   Link:<a href="https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying and Applying Behaviour Change TechniquesThis interactive tool unpacks step 5 &#x27;build the intervention&#x27; where we explore how to...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: oxfordlearning.com  
-   Link: <a href="https://oxfordlearning.com/praising-children-for-effort-rather-than-ability/" target="_blank" rel="noopener noreferrer nofollow">https://oxfordlearning.com/praising-children-for-effort-rather-than-ability/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Praising Children for Effort Rather Than AbilityPraising effort rather than skills or natural ability helps students of all ages learn th...</p></details>
+   Link:<a href="https://oxfordlearning.com/praising-children-for-effort-rather-than-ability/" target="_blank" rel="noopener noreferrer nofollow">https://oxfordlearning.com/praising-children-for-effort-rather-than-ability/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Praising Children for Effort Rather Than AbilityPraising effort rather than skills or natural ability helps students of all ages learn th...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/12918063_Person_Versus_Process_Praise_and_Criticism_Implications_for_Contingent_Self-Worth_and_Coping" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/12918063_Person_Versus_Process_Praise_and_Criticism_Implications_for_Contingent_Self-Worth_and_Coping</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Person Versus Process Praise and Criticism: Implications...Kamins and Dweck (1999) demonstrated that process praise (e.g., &quot;You found a...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/12918063_Person_Versus_Process_Praise_and_Criticism_Implications_for_Contingent_Self-Worth_and_Coping" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/12918063_Person_Versus_Process_Praise_and_Criticism_Implications_for_Contingent_Self-Worth_and_Coping</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Person Versus Process Praise and Criticism: Implications...Kamins and Dweck (1999) demonstrated that process praise (e.g., &quot;You found a...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: learningloop.io  
-   Link: <a href="https://learningloop.io/plays/psychology/feedback-loops" target="_blank" rel="noopener noreferrer nofollow">https://learningloop.io/plays/psychology/feedback-loops</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Feedback Loops: Provide instant insight into user actionsUse feedback loops to give users immediate clarity on their actions - practical...</p></details>
+   Link:<a href="https://learningloop.io/plays/psychology/feedback-loops" target="_blank" rel="noopener noreferrer nofollow">https://learningloop.io/plays/psychology/feedback-loops</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Feedback Loops: Provide instant insight into user actionsUse feedback loops to give users immediate clarity on their actions - practical...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: bingschool.stanford.edu  
    Title: carol dweck praising intelligence costs childrens self esteem and motivation  
-   Link: <a href="https://bingschool.stanford.edu/news/carol-dweck-praising-intelligence-costs-childrens-self-esteem-and-motivation" target="_blank" rel="noopener noreferrer nofollow">https://bingschool.stanford.edu/news/carol-dweck-praising-intelligence-costs-childrens-self-esteem-and-motivation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dweck: Praising Intelligence: Costs to Children&#x27;s Self...Nov 1, 2007 — Dweck and her team are now working on developing a computer-based...</p></details>
+   Link:<a href="https://bingschool.stanford.edu/news/carol-dweck-praising-intelligence-costs-childrens-self-esteem-and-motivation" target="_blank" rel="noopener noreferrer nofollow">https://bingschool.stanford.edu/news/carol-dweck-praising-intelligence-costs-childrens-self-esteem-and-motivation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dweck: Praising Intelligence: Costs to Children&#x27;s Self...Nov 1, 2007 — Dweck and her team are now working on developing a computer-based...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: studentexperiencenetwork.org  
-   Link: <a href="https://studentexperiencenetwork.org/wp-content/uploads/2015/09/Praise-That-Makes-Learners-More-Reslient.pdf" target="_blank" rel="noopener noreferrer nofollow">https://studentexperiencenetwork.org/wp-content/uploads/2015/09/Praise-That-Makes-Learners-More-Reslient.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>But another important idea for parents and teachers to remember is that both praise and criticism should.Read more...</p></details>
+   Link:<a href="https://studentexperiencenetwork.org/wp-content/uploads/2015/09/Praise-That-Makes-Learners-More-Reslient.pdf" target="_blank" rel="noopener noreferrer nofollow">https://studentexperiencenetwork.org/wp-content/uploads/2015/09/Praise-That-Makes-Learners-More-Reslient.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>But another important idea for parents and teachers to remember is that both praise and criticism should.Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reed.edu  
    Title: College Effects of person versus process praise on student motivation  
-   Link: <a href="https://www.reed.edu/psychology/motivation/assets/downloads/Haimovitz_Corpus_2011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reed.edu/psychology/motivation/assets/downloads/Haimovitz_Corpus_2011.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reed CollegeEffects of person versus process praise on student motivationMay 26, 2011 — Con- versely, those who received person praise su...</p></details>
+   Link:<a href="https://www.reed.edu/psychology/motivation/assets/downloads/Haimovitz_Corpus_2011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reed.edu/psychology/motivation/assets/downloads/Haimovitz_Corpus_2011.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reed CollegeEffects of person versus process praise on student motivationMay 26, 2011 — Con- versely, those who received person praise su...</p></details>
    Published: May 26, 2011  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7f0d5940f0b6230268d23a/Behaviour_change_reference_report_tcm6-9697.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7f0d5940f0b6230268d23a/Behaviour_change_reference_report_tcm6-9697.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>overview of behaviour change models and their usesThis is a central line of narrative in Tim Jackson&#x27;s review of behavioural theory in wh...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7f0d5940f0b6230268d23a/Behaviour_change_reference_report_tcm6-9697.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7f0d5940f0b6230268d23a/Behaviour_change_reference_report_tcm6-9697.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>overview of behaviour change models and their usesThis is a central line of narrative in Tim Jackson&#x27;s review of behavioural theory in wh...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/Person-versus-process-praise-and-criticism%3A-for-and-Kamins-Dweck/5f28c7e059f999d8f10510128198154e9930f025" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Person-versus-process-praise-and-criticism%3A-for-and-Kamins-Dweck/5f28c7e059f999d8f10510128198154e9930f025</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>veyed person or trait judgments could send a message of contingent worth and...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/Person-versus-process-praise-and-criticism%3A-for-and-Kamins-Dweck/5f28c7e059f999d8f10510128198154e9930f025" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Person-versus-process-praise-and-criticism%3A-for-and-Kamins-Dweck/5f28c7e059f999d8f10510128198154e9930f025</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>veyed person or trait judgments could send a message of contingent worth and...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: escholarship.org  
    Title: qt68j7q1t4 noSplash 2d42212fd2f4c2c6bdea92cc30585219  
-   Link: <a href="https://escholarship.org/content/qt68j7q1t4/qt68j7q1t4_noSplash_2d42212fd2f4c2c6bdea92cc30585219.pdf" target="_blank" rel="noopener noreferrer nofollow">https://escholarship.org/content/qt68j7q1t4/qt68j7q1t4_noSplash_2d42212fd2f4c2c6bdea92cc30585219.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Decades of feedback research have suggested that feedback is more effective in correcting errors than confirming the right responses...</p></details>
+   Link:<a href="https://escholarship.org/content/qt68j7q1t4/qt68j7q1t4_noSplash_2d42212fd2f4c2c6bdea92cc30585219.pdf" target="_blank" rel="noopener noreferrer nofollow">https://escholarship.org/content/qt68j7q1t4/qt68j7q1t4_noSplash_2d42212fd2f4c2c6bdea92cc30585219.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Decades of feedback research have suggested that feedback is more effective in correcting errors than confirming the right responses...</p></details>

@@ -268,16 +268,16 @@ image: /assets/images/self_improvement_tha_c01280_phone_out_bedroom_20e47b_bedti
 
 ## Introduction
 
-Moving a phone out of the bedroom is often presented as a simple sleep hack. The research supports part of that claim, but in a more specific way than many headlines suggest. The strongest evidence is not that phones universally ruin sleep or that banning them from the bedroom cures insomnia. Rather, studies consistently show that reducing smartphone use around bedtime lowers several common sleep risks: people often fall asleep faster, spend less time mentally activated before sleep, and in some cases sleep longer and rate their sleep more positively. The practical value is that bedtime phone restrictions appear to work as a form of risk reduction for many people, especially those who regularly scroll, message, watch videos or engage with stimulating content in bed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0228756" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Effect of restricting bedtime mobile phone use on sleep...by J He · 2020 · Cited by 150 — Restricting mobile phone use before bedtim...</span></span></span>
+Moving a phone out of the bedroom is often presented as a simple sleep hack. The research supports part of that claim, but in a more specific way than many headlines suggest. The strongest evidence is not that phones universally ruin sleep or that banning them from the bedroom cures insomnia. Rather, studies consistently show that reducing smartphone use around bedtime lowers several common sleep risks: people often fall asleep faster, spend less time mentally activated before sleep, and in some cases sleep longer and rate their sleep more positively. The practical value is that bedtime phone restrictions appear to work as a form of risk reduction for many people, especially those who regularly scroll, message, watch videos or engage with stimulating content in bed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0228756" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Effect of restricting bedtime mobile phone use on sleep...by J He · 2020 · Cited by 150 — Restricting mobile phone use before bedtim...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_phone_out_bedroom_20e47b_bedtime_phone_sleep_58a79a-Illustration-1-dark.svg" | relative_url }}" alt="Sleep Evidence illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_phone_out_bedroom_20e47b_bedtime_phone_sleep_58a79a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_phone_out_bedroom_20e47b_bedtime_phone_sleep_58a79a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Does Removing the Phone Really Help?
 
 The clearest evidence comes from intervention studies rather than from surveys. Observational research can show that heavy bedtime phone users tend to sleep worse, but intervention studies test what happens when behaviour actually changes.
 
-One of the most cited trials asked participants to restrict mobile phone use before bed for four weeks. Compared with a control group, the restriction group experienced shorter sleep latency (the time needed to fall asleep), longer sleep duration, better self-reported sleep quality, lower pre-sleep arousal and improvements in positive mood. The researchers also observed gains in working-memory performance. Importantly, this was not a complete technology ban; it was a targeted reduction near bedtime. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0228756&amp;type=printable" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">of restricting bedtime mobile phone use on sleep...by J He · 2020 · Cited by 147 — This study aimed to assess the effects of restricting...</span></span></span>
+One of the most cited trials asked participants to restrict mobile phone use before bed for four weeks. Compared with a control group, the restriction group experienced shorter sleep latency (the time needed to fall asleep), longer sleep duration, better self-reported sleep quality, lower pre-sleep arousal and improvements in positive mood. The researchers also observed gains in working-memory performance. Importantly, this was not a complete technology ban; it was a targeted reduction near bedtime.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0228756&amp;type=printable" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">of restricting bedtime mobile phone use on sleep...by J He · 2020 · Cited by 147 — This study aimed to assess the effects of restricting...</span></span></span>
 
-A later intervention focused specifically on restricting smartphone use while in bed among university students with problematic smartphone use. The improvements appeared quickly, within roughly a week, and persisted throughout the intervention period. The proposed mechanism was reduced cognitive arousal before sleep: participants were less mentally engaged and activated at the point when they were trying to fall asleep. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0306460323002204" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Can Restricting While-in-bed Smartphone Use Improve...by Z Tu · 2023 · Cited by 20 — Restricting while-in-bed smartphone us...</span></span></span>
+A later intervention focused specifically on restricting smartphone use while in bed among university students with problematic smartphone use. The improvements appeared quickly, within roughly a week, and persisted throughout the intervention period. The proposed mechanism was reduced cognitive arousal before sleep: participants were less mentally engaged and activated at the point when they were trying to fall asleep.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0306460323002204" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Can Restricting While-in-bed Smartphone Use Improve...by Z Tu · 2023 · Cited by 20 — Restricting while-in-bed smartphone us...</span></span></span>
 
 These findings matter because they test a practical [behaviour change]({{ 'behaviour-change/' | relative_url }}) rather than simply documenting a correlation.
 
@@ -285,11 +285,11 @@ These findings matter because they test a practical [behaviour change]({{ 'behav
 
 ## What Observational Sleep Studies Can and Cannot Prove
 
-Many large studies find that people who use electronic media heavily, particularly near bedtime, report poorer sleep quality and more sleep problems. A 2024 meta-analysis covering 55 studies and more than 41,000 participants found a significant relationship between electronic media use and worse sleep outcomes across multiple countries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jmir.org/2024/1/e48356/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">Electronic Media Use and Sleep Qualityby X Han · 2024 · Cited by 86 — The meta-analysis revealed that electronic media use was signif...</span></span></span>
+Many large studies find that people who use electronic media heavily, particularly near bedtime, report poorer sleep quality and more sleep problems. A 2024 meta-analysis covering 55 studies and more than 41,000 participants found a significant relationship between electronic media use and worse sleep outcomes across multiple countries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jmir.org/2024/1/e48356/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">Electronic Media Use and Sleep Qualityby X Han · 2024 · Cited by 86 — The meta-analysis revealed that electronic media use was signif...</span></span></span>
 
 However, observational studies have [limits]({{ 'limits/' | relative_url }}).
 
-People who struggle with sleep may be more likely to reach for their phones in the first place. Anxiety, stress, loneliness, shift work, depression and irregular schedules can simultaneously increase both phone use and sleep problems. As a result, an association does not automatically prove that the phone caused the sleep disturbance. The authors of the 2024 meta-analysis explicitly noted that much of the available evidence is correlational and therefore cannot establish causality on its own. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11077410/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralElectronic Media Use and Sleep Quality: Updated Systematic...by X Han · 2024 · Cited by 86 — This paper explores the widel...</span></span></span>
+People who struggle with sleep may be more likely to reach for their phones in the first place. Anxiety, stress, loneliness, shift work, depression and irregular schedules can simultaneously increase both phone use and sleep problems. As a result, an association does not automatically prove that the phone caused the sleep disturbance. The authors of the 2024 meta-analysis explicitly noted that much of the available evidence is correlational and therefore cannot establish causality on its own.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11077410/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralElectronic Media Use and Sleep Quality: Updated Systematic...by X Han · 2024 · Cited by 86 — This paper explores the widel...</span></span></span>
 
 This distinction is important. A survey showing that poor sleepers use phones more heavily does not tell us whether the phone created the problem, worsened an existing problem, or merely accompanied it. Restriction trials are valuable precisely because they address this uncertainty by testing whether changing [behaviour changes]({{ 'behaviour-change/' | relative_url }}) outcomes.
 
@@ -300,13 +300,13 @@ The overall picture is therefore stronger than a simple correlation but weaker t
 
 Across intervention studies, several outcomes appear repeatedly.
 
-**People tend to fall asleep faster.** Reduced sleep latency is among the most consistent findings. When bedtime phone use is restricted, participants often spend less time lying awake trying to transition into sleep. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article/citation?id=10.1371%2Fjournal.pone.0228756" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">PLOS One... (2020) Effect of restricting bedtime mobile phone use on sleep, arousal, mood, and working memory: A randomized pilot trial...</span></span></span>
+**People tend to fall asleep faster.** Reduced sleep latency is among the most consistent findings. When bedtime phone use is restricted, participants often spend less time lying awake trying to transition into sleep.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article/citation?id=10.1371%2Fjournal.pone.0228756" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">PLOS One... (2020) Effect of restricting bedtime mobile phone use on sleep, arousal, mood, and working memory: A randomized pilot trial...</span></span></span>
 
-**Pre-sleep arousal declines.** Researchers frequently measure cognitive and emotional activation before sleep. Restrictions reduce the racing thoughts, emotional engagement and alertness that can keep people awake. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article/peerReview?id=10.1371%2Fjournal.pone.0228756" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-title">peer Review</span><span class="citation-popover-snippet">Review History - Research journals - PLOS3 Feb 2020 — Effect of restricting bedtime mobile phone use on sleep, arousal, mood, and working...</span></span></span>
+**Pre-sleep arousal declines.** Researchers frequently measure cognitive and emotional activation before sleep. Restrictions reduce the racing thoughts, emotional engagement and alertness that can keep people awake.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article/peerReview?id=10.1371%2Fjournal.pone.0228756" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-title">peer Review</span><span class="citation-popover-snippet">Review History - Research journals - PLOS3 Feb 2020 — Effect of restricting bedtime mobile phone use on sleep, arousal, mood, and working...</span></span></span>
 
-**Sleep duration often increases.** Some participants simply stop sacrificing sleep time to scrolling, messaging or video viewing. This behavioural effect may be as important as any physiological effect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0228756" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Effect of restricting bedtime mobile phone use on sleep...by J He · 2020 · Cited by 150 — Restricting mobile phone use before bedtim...</span></span></span>
+**Sleep duration often increases.** Some participants simply stop sacrificing sleep time to scrolling, messaging or video viewing. This behavioural effect may be as important as any physiological effect.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0228756" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">Effect of restricting bedtime mobile phone use on sleep...by J He · 2020 · Cited by 150 — Restricting mobile phone use before bedtim...</span></span></span>
 
-**Sleep quality ratings improve.** Participants commonly report feeling that they slept better, even when objective sleep measures are more modest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0228756&amp;type=printable" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">of restricting bedtime mobile phone use on sleep...by J He · 2020 · Cited by 147 — This study aimed to assess the effects of restricting...</span></span></span>
+**Sleep quality ratings improve.** Participants commonly report feeling that they slept better, even when objective sleep measures are more modest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0228756&amp;type=printable" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">of restricting bedtime mobile phone use on sleep...by J He · 2020 · Cited by 147 — This study aimed to assess the effects of restricting...</span></span></span>
 
 The practical interpretation is straightforward: bedtime restrictions seem most effective when they prevent activities that would otherwise extend wakefulness or maintain mental stimulation.
 
@@ -316,208 +316,208 @@ The practical interpretation is straightforward: bedtime restrictions seem most 
 
 Popular discussions often focus almost entirely on blue light. Light exposure can affect circadian rhythms and melatonin production, but restriction studies suggest that the phone's impact is broader than illumination alone.
 
-Research combining smartphone app-use data with wearable sleep tracking found that smartphone use in bed was associated with longer sleep latency, more awake time and changes in physiological measures such as heart rate and heart-rate variability. These findings point toward a behavioural and psychological effect, not merely a lighting effect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/32040492/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">of restricting bedtime mobile phone use on sleep...Restricting mobile phone use close to bedtime reduced sleep latency and pre-sleep ar...</span></span></span> PubMed The content on the phone matters. Social media arguments <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/32040492/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">of restricting bedtime mobile phone use on sleep...Restricting mobile phone use close to bedtime reduced sleep latency and pre-sleep ar...</span></span></span>, work emails, breaking news, games, videos and endless feeds all compete for attention. Many of these activities increase emotional engagement or cognitive activation at exactly the time the brain is supposed to be winding down.
+Research combining smartphone app-use data with wearable sleep tracking found that smartphone use in bed was associated with longer sleep latency, more awake time and changes in physiological measures such as heart rate and heart-rate variability. These findings point toward a behavioural and psychological effect, not merely a lighting effect.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/32040492/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">of restricting bedtime mobile phone use on sleep...Restricting mobile phone use close to bedtime reduced sleep latency and pre-sleep ar...</span></span></span> PubMed The content on the phone matters. Social media arguments<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/32040492/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">of restricting bedtime mobile phone use on sleep...Restricting mobile phone use close to bedtime reduced sleep latency and pre-sleep ar...</span></span></span>, work emails, breaking news, games, videos and endless feeds all compete for attention. Many of these activities increase emotional engagement or cognitive activation at exactly the time the brain is supposed to be winding down.
 
-This helps explain why simply enabling a blue-light filter does not necessarily solve the problem. A dimmed screen can still deliver novelty, stress, reward-seeking and social stimulation. Restriction studies that improve sleep generally remove or reduce the entire behavioural package, not just a particular wavelength of light. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0306460323002204" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Can Restricting While-in-bed Smartphone Use Improve...by Z Tu · 2023 · Cited by 20 — Restricting while-in-bed smartphone us...</span></span></span>
+This helps explain why simply enabling a blue-light filter does not necessarily solve the problem. A dimmed screen can still deliver novelty, stress, reward-seeking and social stimulation. Restriction studies that improve sleep generally remove or reduce the entire behavioural package, not just a particular wavelength of light.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0306460323002204" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Can Restricting While-in-bed Smartphone Use Improve...by Z Tu · 2023 · Cited by 20 — Restricting while-in-bed smartphone us...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_phone_out_bedroom_20e47b_bedtime_phone_sleep_58a79a-Illustration-3-dark.svg" | relative_url }}" alt="Sleep Evidence illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_phone_out_bedroom_20e47b_bedtime_phone_sleep_58a79a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_phone_out_bedroom_20e47b_bedtime_phone_sleep_58a79a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Evidence Means for Self-Improvement
 
 The strongest sleep argument for keeping the phone out of the bedroom is not that every person will gain an extra hour of sleep or eliminate all sleep problems. The evidence does not [support]({{ 'support/' | relative_url }}) such universal claims.
 
-What it does support is a practical probability shift. If someone routinely uses a phone in bed, restricting access around bedtime increases the likelihood of faster sleep onset, lower pre-sleep arousal and better overall sleep quality. The intervention is inexpensive, low-risk and supported by experimental evidence rather than correlations alone. PLOS PubMed Viewed through the lens of self-improvement that works <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/32040492/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">of restricting bedtime mobile phone use on sleep...Restricting mobile phone use close to bedtime reduced sleep latency and pre-sleep ar...</span></span></span>, removing the phone from the bedroom functions less like a miracle cure and more like a favourable environmental adjustment. The evidence suggests that many people sleep better when the easiest late-night distraction is no longer within arm's reach. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article/citation?id=10.1371%2Fjournal.pone.0228756" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">PLOS One... (2020) Effect of restricting bedtime mobile phone use on sleep, arousal, mood, and working memory: A randomized pilot trial...</span></span></span>
+What it does support is a practical probability shift. If someone routinely uses a phone in bed, restricting access around bedtime increases the likelihood of faster sleep onset, lower pre-sleep arousal and better overall sleep quality. The intervention is inexpensive, low-risk and supported by experimental evidence rather than correlations alone. PLOS PubMed Viewed through the lens of self-improvement that works<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/32040492/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">of restricting bedtime mobile phone use on sleep...Restricting mobile phone use close to bedtime reduced sleep latency and pre-sleep ar...</span></span></span>, removing the phone from the bedroom functions less like a miracle cure and more like a favourable environmental adjustment. The evidence suggests that many people sleep better when the easiest late-night distraction is no longer within arm's reach.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.plos.org/plosone/article/citation?id=10.1371%2Fjournal.pone.0228756" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">PLOS One... (2020) Effect of restricting bedtime mobile phone use on sleep, arousal, mood, and working memory: A randomized pilot trial...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TYLA4osvnvg" title="Study says over 50% of teens spend an hour on their phones overnight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TYLA4osvnvg" target="_blank" rel="noopener noreferrer">Study says over 50% of teens spend an hour on their phones overnight</a></p><p class="youtube-embed-meta">Channel: KVUE &middot; Views: 60 &middot; Uploaded: May 2026 &middot; Length: 1 minute 6 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TYLA4osvnvg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TYLA4osvnvg">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Does Removing the Phone Really Help?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Does Removing the Phone Really Help?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why We Sleep on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZlU3DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why We Sleep" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why We Sleep">Why We Sleep</a>
-        </h4>
-        <p class="fr-book-author">By Matthew Walker</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why We Sleep on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZlU3DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why We Sleep" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why We Sleep">Why We Sleep</a>
+</h4>
+<p class="fr-book-author">By Matthew Walker</p>
         
-        <p class="fr-book-desc">Most directly supports the evidence discussion around sleep quality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Most directly supports the evidence discussion around sleep quality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Minimalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S4NbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Minimalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Minimalism">Digital Minimalism</a>
-        </h4>
-        <p class="fr-book-author">By Cal Newport</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Minimalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S4NbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Minimalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Minimalism">Digital Minimalism</a>
+</h4>
+<p class="fr-book-author">By Cal Newport</p>
         
-        <p class="fr-book-desc">Supports reducing evening phone engagement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports reducing evening phone engagement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sleep+Solution+by+W.+Chris+Winter%2C+M.D.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sleep Solution on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SnuNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Sleep Solution" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Sleep+Solution+by+W.+Chris+Winter%2C+M.D.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sleep Solution">The Sleep Solution</a>
-        </h4>
-        <p class="fr-book-author">By W. Chris Winter, M.D.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sleep+Solution+by+W.+Chris+Winter%2C+M.D.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sleep Solution on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SnuNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Sleep Solution" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Sleep+Solution+by+W.+Chris+Winter%2C+M.D.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sleep Solution">The Sleep Solution</a>
+</h4>
+<p class="fr-book-author">By W. Chris Winter, M.D.</p>
         
-        <p class="fr-book-desc">Addresses habits that influence falling asleep and staying asleep.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Sleep+Solution+by+W.+Chris+Winter%2C+M.D.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses habits that influence falling asleep and staying asleep.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Sleep+Solution+by+W.+Chris+Winter%2C+M.D.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Break+Up+with+Your+Phone+by+Catherine+Price&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Break Up with Your Phone on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rRVHDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Break Up with Your Phone" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Break+Up+with+Your+Phone+by+Catherine+Price&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Break Up with Your Phone">How to Break Up with Your Phone</a>
-        </h4>
-        <p class="fr-book-author">By Catherine Price</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Break+Up+with+Your+Phone+by+Catherine+Price&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Break Up with Your Phone on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rRVHDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Break Up with Your Phone" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Break+Up+with+Your+Phone+by+Catherine+Price&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Break Up with Your Phone">How to Break Up with Your Phone</a>
+</h4>
+<p class="fr-book-author">By Catherine Price</p>
         
-        <p class="fr-book-desc">Focuses on changing smartphone habits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Break+Up+with+Your+Phone+by+Catherine+Price&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on changing smartphone habits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Break+Up+with+Your+Phone+by+Catherine+Price&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+We+Sleep&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why We Sleep</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Minimalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Minimalism</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Sleep+Solution&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Sleep Solution</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+We+Sleep&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why We Sleep</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Minimalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Minimalism</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Sleep+Solution&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Sleep Solution</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-removing-the-phone-really-help-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="does-removing-the-phone-really-help-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for KEPLUG Sunrise Alarm Clock Wake Up Light, Digital Alarm Clocks Bedside Dimmable"><img src="https://i.ebayimg.com/images/g/75UAAeSwp25pooPG/s-l225.jpg" alt="Listing image for KEPLUG Sunrise Alarm Clock Wake Up Light, Digital Alarm Clocks Bedside Dimmable" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-removing-the-phone-really-help-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="does-removing-the-phone-really-help-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">KEPLUG Sunrise Alarm Clock Wake Up Light, Digital Alarm Clocks Bedside Dimmable</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-removing-the-phone-really-help-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="does-removing-the-phone-really-help-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sunrise alarm clock">Search <span data-ebay-domain-label>eBay.co.uk</span>: sunrise alarm clock</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-removing-the-phone-really-help-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="does-removing-the-phone-really-help-sunrise-alarm-clock" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-removing-the-phone-really-help-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="does-removing-the-phone-really-help-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for KEPLUG Sunrise Alarm Clock Wake Up Light, Digital Alarm Clocks Bedside Dimmable"><img src="https://i.ebayimg.com/images/g/75UAAeSwp25pooPG/s-l225.jpg" alt="Listing image for KEPLUG Sunrise Alarm Clock Wake Up Light, Digital Alarm Clocks Bedside Dimmable" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-removing-the-phone-really-help-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="does-removing-the-phone-really-help-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">KEPLUG Sunrise Alarm Clock Wake Up Light, Digital Alarm Clocks Bedside Dimmable</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-removing-the-phone-really-help-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="does-removing-the-phone-really-help-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sunrise alarm clock">Search<span data-ebay-domain-label>eBay.co.uk</span>: sunrise alarm clock</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-removing-the-phone-really-help-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="does-removing-the-phone-really-help-sunrise-alarm-clock" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-removing-the-phone-really-help-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="does-removing-the-phone-really-help-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lumie Bodyclock Rise 100 Wake-Up Light Alarm Clock Sunrise &amp; Sunset"><img src="https://i.ebayimg.com/images/g/xOEAAeSweFVqKGUJ/s-l225.jpg" alt="Listing image for Lumie Bodyclock Rise 100 Wake-Up Light Alarm Clock Sunrise &amp; Sunset" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-removing-the-phone-really-help-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="does-removing-the-phone-really-help-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">Lumie Bodyclock Rise 100 Wake-Up Light Alarm Clock Sunrise &amp; Sunset</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-removing-the-phone-really-help-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="does-removing-the-phone-really-help-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sunrise alarm clock">Search <span data-ebay-domain-label>eBay.co.uk</span>: sunrise alarm clock</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-removing-the-phone-really-help-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="does-removing-the-phone-really-help-sunrise-alarm-clock" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-removing-the-phone-really-help-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="does-removing-the-phone-really-help-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lumie Bodyclock Rise 100 Wake-Up Light Alarm Clock Sunrise &amp; Sunset"><img src="https://i.ebayimg.com/images/g/xOEAAeSweFVqKGUJ/s-l225.jpg" alt="Listing image for Lumie Bodyclock Rise 100 Wake-Up Light Alarm Clock Sunrise &amp; Sunset" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-removing-the-phone-really-help-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="does-removing-the-phone-really-help-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">Lumie Bodyclock Rise 100 Wake-Up Light Alarm Clock Sunrise &amp; Sunset</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-removing-the-phone-really-help-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="does-removing-the-phone-really-help-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sunrise alarm clock">Search<span data-ebay-domain-label>eBay.co.uk</span>: sunrise alarm clock</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-removing-the-phone-really-help-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="does-removing-the-phone-really-help-sunrise-alarm-clock" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-removing-the-phone-really-help-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="does-removing-the-phone-really-help-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AFEXOA Sunrise Alarm Clock with Wake Up Light, White Noise Machine"><img src="https://i.ebayimg.com/images/g/vxIAAeSw5vBqBeNj/s-l225.jpg" alt="Listing image for AFEXOA Sunrise Alarm Clock with Wake Up Light, White Noise Machine" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-removing-the-phone-really-help-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="does-removing-the-phone-really-help-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">AFEXOA Sunrise Alarm Clock with Wake Up Light, White Noise Machine</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-removing-the-phone-really-help-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="does-removing-the-phone-really-help-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sunrise alarm clock">Search <span data-ebay-domain-label>eBay.co.uk</span>: sunrise alarm clock</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-removing-the-phone-really-help-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="does-removing-the-phone-really-help-sunrise-alarm-clock" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-removing-the-phone-really-help-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="does-removing-the-phone-really-help-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AFEXOA Sunrise Alarm Clock with Wake Up Light, White Noise Machine"><img src="https://i.ebayimg.com/images/g/vxIAAeSw5vBqBeNj/s-l225.jpg" alt="Listing image for AFEXOA Sunrise Alarm Clock with Wake Up Light, White Noise Machine" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-removing-the-phone-really-help-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="does-removing-the-phone-really-help-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">AFEXOA Sunrise Alarm Clock with Wake Up Light, White Noise Machine</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-removing-the-phone-really-help-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="does-removing-the-phone-really-help-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sunrise alarm clock">Search<span data-ebay-domain-label>eBay.co.uk</span>: sunrise alarm clock</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-removing-the-phone-really-help-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="does-removing-the-phone-really-help-sunrise-alarm-clock" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-removing-the-phone-really-help-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="does-removing-the-phone-really-help-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lumie Sunrise Digital Alarm Clock With Sunset Mood Lightinh White Model SRA-0000"><img src="https://i.ebayimg.com/images/g/HSoAAeSwPIZqDMhd/s-l225.jpg" alt="Listing image for Lumie Sunrise Digital Alarm Clock With Sunset Mood Lightinh White Model SRA-0000" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-removing-the-phone-really-help-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="does-removing-the-phone-really-help-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">Lumie Sunrise Digital Alarm Clock With Sunset Mood Lightinh White Model SRA-0000</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-removing-the-phone-really-help-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="does-removing-the-phone-really-help-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sunrise alarm clock">Search <span data-ebay-domain-label>eBay.co.uk</span>: sunrise alarm clock</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-removing-the-phone-really-help-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="does-removing-the-phone-really-help-sunrise-alarm-clock" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-removing-the-phone-really-help-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="does-removing-the-phone-really-help-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-removing-the-phone-really-help-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="does-removing-the-phone-really-help-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lumie Sunrise Digital Alarm Clock With Sunset Mood Lightinh White Model SRA-0000"><img src="https://i.ebayimg.com/images/g/HSoAAeSwPIZqDMhd/s-l225.jpg" alt="Listing image for Lumie Sunrise Digital Alarm Clock With Sunset Mood Lightinh White Model SRA-0000" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-removing-the-phone-really-help-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="does-removing-the-phone-really-help-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">Lumie Sunrise Digital Alarm Clock With Sunset Mood Lightinh White Model SRA-0000</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-removing-the-phone-really-help-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="does-removing-the-phone-really-help-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sunrise alarm clock">Search<span data-ebay-domain-label>eBay.co.uk</span>: sunrise alarm clock</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-removing-the-phone-really-help-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="does-removing-the-phone-really-help-sunrise-alarm-clock" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-removing-the-phone-really-help-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="does-removing-the-phone-really-help-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -533,7 +533,7 @@ What it does support is a practical probability shift. If someone routinely uses
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -553,7 +553,7 @@ What it does support is a practical probability shift. If someone routinely uses
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -585,7 +585,7 @@ What it does support is a practical probability shift. If someone routinely uses
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -637,7 +637,7 @@ What it does support is a practical probability shift. If someone routinely uses
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -682,7 +682,7 @@ What it does support is a practical probability shift. If someone routinely uses
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -723,164 +723,164 @@ What it does support is a practical probability shift. If someone routinely uses
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: journals.plos.org  
-   Link: <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0228756" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0228756</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of restricting bedtime mobile phone use on sleep...by J He · 2020 · Cited by 150 — Restricting mobile phone use before bedtim...</p></details>
+   Link:<a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0228756" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0228756</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of restricting bedtime mobile phone use on sleep...by J He · 2020 · Cited by 150 — Restricting mobile phone use before bedtim...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0306460323002204" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0306460323002204</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Can Restricting While-in-bed Smartphone Use Improve...by Z Tu · 2023 · Cited by 20 — Restricting while-in-bed smartphone us...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0306460323002204" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0306460323002204</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can Restricting While-in-bed Smartphone Use Improve...by Z Tu · 2023 · Cited by 20 — Restricting while-in-bed smartphone us...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: jmir.org  
-   Link: <a href="https://www.jmir.org/2024/1/e48356/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e48356/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Electronic Media Use and Sleep Qualityby X Han · 2024 · Cited by 86 — The meta-analysis revealed that electronic media use was signif...</p></details>
+   Link:<a href="https://www.jmir.org/2024/1/e48356/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e48356/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Electronic Media Use and Sleep Qualityby X Han · 2024 · Cited by 86 — The meta-analysis revealed that electronic media use was signif...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: techtimes.com  
-   Link: <a href="https://www.techtimes.com/articles/314413/20260202/smart-rings-2026-sleep-tracking-hrv-analysis-fitness-metrics-without-watch.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.techtimes.com/articles/314413/20260202/smart-rings-2026-sleep-tracking-hrv-analysis-fitness-metrics-without-watch.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Smart Rings 2026: Sleep Tracking, HRV Analysis &amp; Fitness Metrics...February 2, 2026 — Research shows the Oura Ring achieves 85% accuracy...</p></details>
+   Link:<a href="https://www.techtimes.com/articles/314413/20260202/smart-rings-2026-sleep-tracking-hrv-analysis-fitness-metrics-without-watch.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.techtimes.com/articles/314413/20260202/smart-rings-2026-sleep-tracking-hrv-analysis-fitness-metrics-without-watch.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Smart Rings 2026: Sleep Tracking, HRV Analysis &amp; Fitness Metrics...February 2, 2026 — Research shows the Oura Ring achieves 85% accuracy...</p></details>
    Published: February 2, 2026  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: journals.plos.org  
-   Link: <a href="https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0228756&amp;type=printable" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0228756&amp;type=printable</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of restricting bedtime mobile phone use on sleep...by J He · 2020 · Cited by 147 — This study aimed to assess the effects of restricting...</p></details>
+   Link:<a href="https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0228756&amp;type=printable" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article/file?id=10.1371%2Fjournal.pone.0228756&amp;type=printable</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of restricting bedtime mobile phone use on sleep...by J He · 2020 · Cited by 147 — This study aimed to assess the effects of restricting...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: journals.plos.org  
-   Link: <a href="https://journals.plos.org/plosone/article/citation?id=10.1371%2Fjournal.pone.0228756" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article/citation?id=10.1371%2Fjournal.pone.0228756</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PLOS One... (2020) Effect of restricting bedtime mobile phone use on sleep, arousal, mood, and working memory: A randomized pilot trial...</p></details>
+   Link:<a href="https://journals.plos.org/plosone/article/citation?id=10.1371%2Fjournal.pone.0228756" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article/citation?id=10.1371%2Fjournal.pone.0228756</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PLOS One... (2020) Effect of restricting bedtime mobile phone use on sleep, arousal, mood, and working memory: A randomized pilot trial...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: journals.plos.org  
    Title: peer Review  
-   Link: <a href="https://journals.plos.org/plosone/article/peerReview?id=10.1371%2Fjournal.pone.0228756" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article/peerReview?id=10.1371%2Fjournal.pone.0228756</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Review History - Research journals - PLOS3 Feb 2020 — Effect of restricting bedtime mobile phone use on sleep, arousal, mood, and working...</p></details>
+   Link:<a href="https://journals.plos.org/plosone/article/peerReview?id=10.1371%2Fjournal.pone.0228756" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article/peerReview?id=10.1371%2Fjournal.pone.0228756</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Review History - Research journals - PLOS3 Feb 2020 — Effect of restricting bedtime mobile phone use on sleep, arousal, mood, and working...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: jmir.org  
-   Link: <a href="https://www.jmir.org/2024/1/e48356/citations" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e48356/citations</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Electronic Media Use and Sleep Quality23 Apr 2024 — Background: This paper explores the widely discussed relationship between electronic...</p></details>
+   Link:<a href="https://www.jmir.org/2024/1/e48356/citations" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e48356/citations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Electronic Media Use and Sleep Quality23 Apr 2024 — Background: This paper explores the widely discussed relationship between electronic...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: jmir.org  
-   Link: <a href="https://www.jmir.org/2025/1/e60423/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2025/1/e60423/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Smartphone Usage Patterns and Sleep Behavior in...by T Wang · 2025 · Cited by 8 — This study introduces “nocturnal smartphone inactivity...</p></details>
+   Link:<a href="https://www.jmir.org/2025/1/e60423/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2025/1/e60423/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Smartphone Usage Patterns and Sleep Behavior in...by T Wang · 2025 · Cited by 8 — This study introduces “nocturnal smartphone inactivity...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: jmir.org  
-   Link: <a href="https://www.jmir.org/2024/1/e48356/metrics" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e48356/metrics</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Electronic Media Use and Sleep Quality23 Apr 2024 — Background: This paper explores the widely discussed relationship between electronic...</p></details>
+   Link:<a href="https://www.jmir.org/2024/1/e48356/metrics" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e48356/metrics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Electronic Media Use and Sleep Quality23 Apr 2024 — Background: This paper explores the widely discussed relationship between electronic...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: jmir.org  
-   Link: <a href="https://www.jmir.org/2022/1/e27487/citations" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2022/1/e27487/citations</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy Assessment of Oura Ring Nocturnal Heart Rate...Jan 18, 2022 — Accuracy assessment of Oura Ring nocturnal heart rate and heart r...</p></details>
+   Link:<a href="https://www.jmir.org/2022/1/e27487/citations" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2022/1/e27487/citations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Accuracy Assessment of Oura Ring Nocturnal Heart Rate...Jan 18, 2022 — Accuracy assessment of Oura Ring nocturnal heart rate and heart r...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: jmir.org  
-   Link: <a href="https://www.jmir.org/2024/1/e48356/authors" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e48356/authors</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Electronic Media Use and Sleep Quality23 Apr 2024 — Background: This paper explores the widely discussed relationship between electronic...</p></details>
+   Link:<a href="https://www.jmir.org/2024/1/e48356/authors" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e48356/authors</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Electronic Media Use and Sleep Quality23 Apr 2024 — Background: This paper explores the widely discussed relationship between electronic...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/am/pii/S1556407X23000413" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/am/pii/S1556407X23000413</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Doty --Sleep App Survey -- 1by TJ Doty · 2023 · Cited by 9 — Key Points. •. Most sleep apps available to consumers are designed to enhanc...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/am/pii/S1556407X23000413" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/am/pii/S1556407X23000413</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Doty --Sleep App Survey -- 1by TJ Doty · 2023 · Cited by 9 — Key Points. •. Most sleep apps available to consumers are designed to enhanc...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: sciencedirect.com  
    Title: Poor sleep has been linked to a rang  
-   Link: <a href="https://www.sciencedirect.com/org/science/article/pii/S1438887125002079" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S1438887125002079</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Impact of Mobile Phone Usage on Sleep Quality Among...by JS Izquierdo-Condoy · 2025 · Cited by 29 — Prolonged screen exposure and late-n...</p></details>
+   Link:<a href="https://www.sciencedirect.com/org/science/article/pii/S1438887125002079" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S1438887125002079</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Impact of Mobile Phone Usage on Sleep Quality Among...by JS Izquierdo-Condoy · 2025 · Cited by 29 — Prolonged screen exposure and late-n...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1087079224000376" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1087079224000376</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A bidirectional model of sleep and technology useby S Bauducco · 2024 · Cited by 99 — Social media use did not alter heart rate nor heart...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1087079224000376" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1087079224000376</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A bidirectional model of sleep and technology useby S Bauducco · 2024 · Cited by 99 — Social media use did not alter heart rate nor heart...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2666557322000386" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2666557322000386</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bedtime smartphone use and academic performanceby Y Lin · 2022 · Cited by 50 — This study finds robust evidence that wellbeing-related st...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2666557322000386" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2666557322000386</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bedtime smartphone use and academic performanceby Y Lin · 2022 · Cited by 50 — This study finds robust evidence that wellbeing-related st...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165178123003219" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0165178123003219</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can limiting bedtime smartphone use improve next-day...by Z Tu · 2023 · Cited by 6 — The results generally supported our hypothesis, hig...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0165178123003219" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0165178123003219</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can limiting bedtime smartphone use improve next-day...by Z Tu · 2023 · Cited by 6 — The results generally supported our hypothesis, hig...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/32040492/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/32040492/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of restricting bedtime mobile phone use on sleep...Restricting mobile phone use close to bedtime reduced sleep latency and pre-sleep ar...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/32040492/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/32040492/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of restricting bedtime mobile phone use on sleep...Restricting mobile phone use close to bedtime reduced sleep latency and pre-sleep ar...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11077410/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11077410/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralElectronic Media Use and Sleep Quality: Updated Systematic...by X Han · 2024 · Cited by 86 — This paper explores the widel...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11077410/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11077410/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralElectronic Media Use and Sleep Quality: Updated Systematic...by X Han · 2024 · Cited by 86 — This paper explores the widel...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/36405389/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36405389/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>quantitative analysis of smartphone use effect on sleep...Our findings indicate that smartphone use in bed has significant adverse...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/36405389/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36405389/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>quantitative analysis of smartphone use effect on sleep...Our findings indicate that smartphone use in bed has significant adverse...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed Central“Leave your smartphone out of bed”: quantitative analysis of...by S Kheirinejad · 2022 · Cited by 74 — Our findings indica...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed Central“Leave your smartphone out of bed”: quantitative analysis of...by S Kheirinejad · 2022 · Cited by 74 — Our findings indica...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38533835/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38533835/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Media Use and Sleep Qualityby X Han · 2024 · Cited by 86 — The meta-analysis revealed that electronic media use was significantly linked...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/38533835/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38533835/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Media Use and Sleep Qualityby X Han · 2024 · Cited by 86 — The meta-analysis revealed that electronic media use was significantly linked...</p></details>
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/339152901_Effect_of_restricting_bedtime_mobile_phone_use_on_sleep_arousal_mood_and_working_memory_A_randomized_pilot_trial" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/339152901_Effect_of_restricting_bedtime_mobile_phone_use_on_sleep_arousal_mood_and_working_memory_A_randomized_pilot_trial</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of restricting bedtime mobile phone use on sleep...10 Feb 2020 — Restricting mobile phone use close to bedtime reduced sleep late...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/339152901_Effect_of_restricting_bedtime_mobile_phone_use_on_sleep_arousal_mood_and_working_memory_A_randomized_pilot_trial" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/339152901_Effect_of_restricting_bedtime_mobile_phone_use_on_sleep_arousal_mood_and_working_memory_A_randomized_pilot_trial</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of restricting bedtime mobile phone use on sleep...10 Feb 2020 — Restricting mobile phone use close to bedtime reduced sleep late...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/379337444_A_Meta-Analysis_of_Electronic_Media_Use_and_Sleep_Quality_An_Updated_Systematic_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/379337444_A_Meta-Analysis_of_Electronic_Media_Use_and_Sleep_Quality_An_Updated_Systematic_Review</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Meta-Analysis of Electronic Media Use and Sleep Quality19 Mar 2026 — Background This paper explores the widely discussed relationship b...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/379337444_A_Meta-Analysis_of_Electronic_Media_Use_and_Sleep_Quality_An_Updated_Systematic_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/379337444_A_Meta-Analysis_of_Electronic_Media_Use_and_Sleep_Quality_An_Updated_Systematic_Review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Meta-Analysis of Electronic Media Use and Sleep Quality19 Mar 2026 — Background This paper explores the widely discussed relationship b...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: systematic.com  
-   Link: <a href="https://systematic.com/int/careers/meet-us/our-offices/australia/" target="_blank" rel="noopener noreferrer nofollow">https://systematic.com/int/careers/meet-us/our-offices/australia/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Australia | Systematic officesExplore career opportunities at Systematic&#x27;s Australia offices in Brisbane and Canberra. Join us to innovat...</p></details>
+   Link:<a href="https://systematic.com/int/careers/meet-us/our-offices/australia/" target="_blank" rel="noopener noreferrer nofollow">https://systematic.com/int/careers/meet-us/our-offices/australia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Australia | Systematic officesExplore career opportunities at Systematic&#x27;s Australia offices in Brisbane and Canberra. Join us to innovat...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: dictionary.com  
-   Link: <a href="https://www.dictionary.com/browse/systematic" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/systematic</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SYSTEMATIC Definition &amp; Meaningadjective having, showing, or involving a system, method, or plan: a systematic course of reading; systema...</p></details>
+   Link:<a href="https://www.dictionary.com/browse/systematic" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/systematic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SYSTEMATIC Definition &amp; Meaningadjective having, showing, or involving a system, method, or plan: a systematic course of reading; systema...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/365257943_Leave_your_smartphone_out_of_bed_quantitative_analysis_of_smartphone_use_effect_on_sleep_quality" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/365257943_Leave_your_smartphone_out_of_bed_quantitative_analysis_of_smartphone_use_effect_on_sleep_quality</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) “Leave your smartphone out of bed”: quantitative...Nov 9, 2022 — Our findings indicate that smartphone use in bed has significant...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/365257943_Leave_your_smartphone_out_of_bed_quantitative_analysis_of_smartphone_use_effect_on_sleep_quality" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/365257943_Leave_your_smartphone_out_of_bed_quantitative_analysis_of_smartphone_use_effect_on_sleep_quality</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) “Leave your smartphone out of bed”: quantitative...Nov 9, 2022 — Our findings indicate that smartphone use in bed has significant...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: collinsdictionary.com  
-   Link: <a href="https://www.collinsdictionary.com/dictionary/english/in" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/in</a>  
+   Link:<a href="https://www.collinsdictionary.com/dictionary/english/in" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/in</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: centralive.health  
-   Link: <a href="https://centralive.health/publication/" target="_blank" rel="noopener noreferrer nofollow">https://centralive.health/publication/</a>  
+   Link:<a href="https://centralive.health/publication/" target="_blank" rel="noopener noreferrer nofollow">https://centralive.health/publication/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: studocu.vn  
-   Link: <a href="https://www.studocu.vn/vn/document/dai-hoc-khoa-hoc-xa-hoi-va-nhan-van-dai-hoc-quoc-gia-thanh-pho-ho-chi-minh/tam-ly-hoc-dai-cuong/jmr-2024-systematic-review-of-electronic-media-use-sleep-quality/152195350" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.vn/vn/document/dai-hoc-khoa-hoc-xa-hoi-va-nhan-van-dai-hoc-quoc-gia-thanh-pho-ho-chi-minh/tam-ly-hoc-dai-cuong/jmr-2024-systematic-review-of-electronic-media-use-sleep-quality/152195350</a>  
+   Link:<a href="https://www.studocu.vn/vn/document/dai-hoc-khoa-hoc-xa-hoi-va-nhan-van-dai-hoc-quoc-gia-thanh-pho-ho-chi-minh/tam-ly-hoc-dai-cuong/jmr-2024-systematic-review-of-electronic-media-use-sleep-quality/152195350" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.vn/vn/document/dai-hoc-khoa-hoc-xa-hoi-va-nhan-van-dai-hoc-quoc-gia-thanh-pho-ho-chi-minh/tam-ly-hoc-dai-cuong/jmr-2024-systematic-review-of-electronic-media-use-sleep-quality/152195350</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: collinsdictionary.com  
-   Link: <a href="https://www.collinsdictionary.com/dictionary/english/systematic" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/systematic</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>characterized by the use of order and planning; methodical 2. comprising or resembling a system 3. Also:.... Click for more definitions...</p></details>
+   Link:<a href="https://www.collinsdictionary.com/dictionary/english/systematic" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/systematic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>characterized by the use of order and planning; methodical 2. comprising or resembling a system 3. Also:.... Click for more definitions...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8776263/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8776263/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>adverse impact of excessive smartphone screen-time on...by D Arshad · 2021 · Cited by 98 — Smartphone usage, especially near bedtime, wo...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8776263/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8776263/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>adverse impact of excessive smartphone screen-time on...by D Arshad · 2021 · Cited by 98 — Smartphone usage, especially near bedtime, wo...</p></details>

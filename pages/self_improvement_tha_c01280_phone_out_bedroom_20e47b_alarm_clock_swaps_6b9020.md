@@ -271,7 +271,7 @@ image: /assets/images/self_improvement_tha_c01280_phone_out_bedroom_20e47b_alarm
 One of the strongest reasons people give for keeping a phone beside the bed is simple: “It’s my alarm clock.” In practice, that is usually a product problem, not a sleep problem. A separate alarm removes the most common excuse for keeping an internet-connected device within arm’s reach all night.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_phone_out_bedroom_20e47b_alarm_clock_swaps_6b9020-Illustration-1-dark.svg" | relative_url }}" alt="Alarm Swaps illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_phone_out_bedroom_20e47b_alarm_clock_swaps_6b9020-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_phone_out_bedroom_20e47b_alarm_clock_swaps_6b9020-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For a phone-free bedroom, the goal is not to buy the most advanced alarm clock available. It is to find the least distracting device that reliably wakes you up. A good replacement should help you sleep, wake, and then disappear into the background. It should not become a new source of light, notifications, apps, or late-night tinkering. Sleep organisations and NHS guidance consistently recommend reducing bedroom technology, avoiding screens before bed, and keeping devices that encourage clock-watching or stimulation out of the sleep [environment]({{ 'environment/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nhsinform.scot/mind-to-mind/sleeping-better/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhsinform.scot">[NHS inform]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhsinform.scot</span><span class="citation-popover-snippet">NHS informSleeping betterAvoid having phones, computers or TVs in the bedroom, as they can be a distraction and deprive you of sleep. Vid...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.whittington.nhs.uk/default.asp?c=46665&amp;print=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whittington.nhs.uk">[Whittington NHS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whittington.nhs.uk</span><span class="citation-popover-snippet">Improving Sleep (print version)10 Sept 2025 — Try to switch off screens 1 to 2 hours before bedtime and take screens out o...</span></span></span>
+For a phone-free bedroom, the goal is not to buy the most advanced alarm clock available. It is to find the least distracting device that reliably wakes you up. A good replacement should help you sleep, wake, and then disappear into the background. It should not become a new source of light, notifications, apps, or late-night tinkering. Sleep organisations and NHS guidance consistently recommend reducing bedroom technology, avoiding screens before bed, and keeping devices that encourage clock-watching or stimulation out of the sleep [environment]({{ 'environment/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nhsinform.scot/mind-to-mind/sleeping-better/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhsinform.scot">[NHS inform]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhsinform.scot</span><span class="citation-popover-snippet">NHS informSleeping betterAvoid having phones, computers or TVs in the bedroom, as they can be a distraction and deprive you of sleep. Vid...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.whittington.nhs.uk/default.asp?c=46665&amp;print=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whittington.nhs.uk">[Whittington NHS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whittington.nhs.uk</span><span class="citation-popover-snippet">Improving Sleep (print version)10 Sept 2025 — Try to switch off screens 1 to 2 hours before bedtime and take screens out o...</span></span></span>
 
 ## The Alarm Excuse Is Solvable
 
@@ -287,7 +287,7 @@ Once the phone leaves the bedroom, three concerns usually appear:
 
 Dedicated alarm clocks already solve all three.
 
-The key advantage is not that an alarm clock is magical. It is that a purpose-built device does one job. A smartphone brings messages, social media, news, work, entertainment, and an infinite number of reasons to stay awake. Sleep specialists frequently recommend replacing the phone alarm with a standalone alarm for exactly this reason. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sleepfoundation.org/bedroom-environment/technology-in-the-bedroom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleepfoundation.org">[Sleep Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleepfoundation.org</span><span class="citation-popover-title">technology in the bedroom</span><span class="citation-popover-snippet">Sleep FoundationTechnology in the Bedroom11 Jul 2025 — Use a basic alarm clock: If you use your phone as an alarm, a basic alarm clock ca...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.realsimple.com/manual-alarm-clocks-vs-phone-11874808" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: realsimple.com">[Real Simple]</a><span class="citation-popover" role="note"><span class="citation-popover-source">realsimple.com</span><span class="citation-popover-snippet">It explains that smartphones, often used right before bed and upon waking, emit blue light and constant notifications that overstimulate...</span></span></span>
+The key advantage is not that an alarm clock is magical. It is that a purpose-built device does one job. A smartphone brings messages, social media, news, work, entertainment, and an infinite number of reasons to stay awake. Sleep specialists frequently recommend replacing the phone alarm with a standalone alarm for exactly this reason.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sleepfoundation.org/bedroom-environment/technology-in-the-bedroom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleepfoundation.org">[Sleep Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleepfoundation.org</span><span class="citation-popover-title">technology in the bedroom</span><span class="citation-popover-snippet">Sleep FoundationTechnology in the Bedroom11 Jul 2025 — Use a basic alarm clock: If you use your phone as an alarm, a basic alarm clock ca...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.realsimple.com/manual-alarm-clocks-vs-phone-11874808" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: realsimple.com">[Real Simple]</a><span class="citation-popover" role="note"><span class="citation-popover-source">realsimple.com</span><span class="citation-popover-snippet">It explains that smartphones, often used right before bed and upon waking, emit blue light and constant notifications that overstimulate...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xhwujFMRGuc" title="Testing the Philips SmartSleep Sunrise Alarm Clocks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xhwujFMRGuc" target="_blank" rel="noopener noreferrer">Testing the Philips SmartSleep Sunrise Alarm Clocks</a></p><p class="youtube-embed-meta">Channel: Optimize Your Biology &middot; Views: 62.1K &middot; Uploaded: February 2025 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xhwujFMRGuc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xhwujFMRGuc">Open on YouTube</a></p></div></div></div>
 
@@ -297,7 +297,7 @@ Different sleepers need different solutions. Choosing the right category matters
 
 ### Basic Alarm Clocks
 
-For many people, the best option is a simple alarm clock with: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.healthline.com/health/sunrise-alarm-clock-review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: healthline.com">[healthline.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">healthline.com</span><span class="citation-popover-title">sunrise alarm clock review</span><span class="citation-popover-snippet">It concluded that they may help, but the effects weren&#x27;t overwhelming. Researchers have found...Read more...</span></span></span>
+For many people, the best option is a simple alarm clock with:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.healthline.com/health/sunrise-alarm-clock-review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: healthline.com">[healthline.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">healthline.com</span><span class="citation-popover-title">sunrise alarm clock review</span><span class="citation-popover-snippet">It concluded that they may help, but the effects weren&#x27;t overwhelming. Researchers have found...Read more...</span></span></span>
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -318,9 +318,9 @@ A useful detail is display control. Bright clocks can act like miniature night l
 
 Sunrise alarms gradually increase light before the wake-up time, attempting to mimic dawn.
 
-Research on dawn simulation and wake-up lights is mixed but generally encouraging. Studies and sleep specialists suggest that gradual light exposure can improve morning alertness and reduce the feeling of being abruptly jolted awake, although effects vary between individuals. They appear particularly helpful during dark winter mornings or for people who struggle with waking in darkness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.allure.com/story/best-sunrise-alarm-clocks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: allure.com">[Allure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">allure.com</span><span class="citation-popover-snippet">These clocks can be highly beneficial, particularly during the darker winter months when natural light is scarce. When selecting a sunris...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://guysandstthomasspecialistcare.co.uk/news/light-therapy-and-sleep/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guysandstthomasspecialistcare.co.uk">[Guy&#x27;s and St Thomas&#x27; Specialist Care]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guysandstthomasspecialistcare.co.uk</span><span class="citation-popover-snippet">Guy&#x27;s and St Thomas&#x27; Specialist CareLight therapy and sleepIt is thought that by imitating a natural process, sunrise alarm clocks may he...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sleepreviewmag.com/sleep-treatments/therapy-devices/light-therapy/light-dawn-simulation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleepreviewmag.com">[Sleep Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleepreviewmag.com</span><span class="citation-popover-snippet">Sleep ReviewShedding Light on Dawn Simulationby C Care — Dawn simulators expose sleepers to a slowly increasing intensity of light for 30...</span></span></span>
+Research on dawn simulation and wake-up lights is mixed but generally encouraging. Studies and sleep specialists suggest that gradual light exposure can improve morning alertness and reduce the feeling of being abruptly jolted awake, although effects vary between individuals. They appear particularly helpful during dark winter mornings or for people who struggle with waking in darkness.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.allure.com/story/best-sunrise-alarm-clocks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: allure.com">[Allure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">allure.com</span><span class="citation-popover-snippet">These clocks can be highly beneficial, particularly during the darker winter months when natural light is scarce. When selecting a sunris...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://guysandstthomasspecialistcare.co.uk/news/light-therapy-and-sleep/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: guysandstthomasspecialistcare.co.uk">[Guy&#x27;s and St Thomas&#x27; Specialist Care]</a><span class="citation-popover" role="note"><span class="citation-popover-source">guysandstthomasspecialistcare.co.uk</span><span class="citation-popover-snippet">Guy&#x27;s and St Thomas&#x27; Specialist CareLight therapy and sleepIt is thought that by imitating a natural process, sunrise alarm clocks may he...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://sleepreviewmag.com/sleep-treatments/therapy-devices/light-therapy/light-dawn-simulation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleepreviewmag.com">[Sleep Review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleepreviewmag.com</span><span class="citation-popover-snippet">Sleep ReviewShedding Light on Dawn Simulationby C Care — Dawn simulators expose sleepers to a slowly increasing intensity of light for 30...</span></span></span>
 
-A sunrise alarm is most useful when: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.healthline.com/health/sunrise-alarm-clock-review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: healthline.com">[healthline.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">healthline.com</span><span class="citation-popover-title">sunrise alarm clock review</span><span class="citation-popover-snippet">It concluded that they may help, but the effects weren&#x27;t overwhelming. Researchers have found...Read more...</span></span></span>
+A sunrise alarm is most useful when:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.healthline.com/health/sunrise-alarm-clock-review" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: healthline.com">[healthline.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">healthline.com</span><span class="citation-popover-title">sunrise alarm clock review</span><span class="citation-popover-snippet">It concluded that they may help, but the effects weren&#x27;t overwhelming. Researchers have found...Read more...</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -330,7 +330,7 @@ A sunrise alarm is most useful when: <span class="citation-chip-wrap"><a class="
 
 </div>
 
-However, it should be viewed as a wake-up aid, not a cure for chronic sleep deprivation. Even the best sunrise lamp cannot compensate for consistently inadequate sleep. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.allure.com/story/best-sunrise-alarm-clocks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: allure.com">[Allure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">allure.com</span><span class="citation-popover-snippet">These clocks can be highly beneficial, particularly during the darker winter months when natural light is scarce. When selecting a sunris...</span></span></span>
+However, it should be viewed as a wake-up aid, not a cure for chronic sleep deprivation. Even the best sunrise lamp cannot compensate for consistently inadequate sleep.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.allure.com/story/best-sunrise-alarm-clocks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: allure.com">[Allure]</a><span class="citation-popover" role="note"><span class="citation-popover-source">allure.com</span><span class="citation-popover-snippet">These clocks can be highly beneficial, particularly during the darker winter months when natural light is scarce. When selecting a sunris...</span></span></span>
 
 ### Vibrating Alarms
 
@@ -338,7 +338,7 @@ Heavy sleepers, shift workers, and people with hearing loss often benefit from t
 
 These systems place a vibrating puck or pad beneath a pillow or mattress and wake the sleeper through vibration rather than sound alone.
 
-Research examining alarm technologies for deaf and hard-of-hearing sleepers found that bed shakers and low-[frequency]({{ 'frequency/' | relative_url }}) tactile alarms are among the most reliable available options. Studies of waking effectiveness have likewise found strong performance from vibrating alarms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10694-022-01265-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Nature Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer Nature LinkAlarm Technologies to Wake Sleeping People Who are Deaf...by E Smedberg · 2022 · Cited by 21 — The results show that...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://portal.research.lu.se/en/publications/alarm-technologies-to-wake-sleeping-people-who-are-deaf-or-hard-o/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: portal.research.lu.se">[Lund University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">portal.research.lu.se</span><span class="citation-popover-snippet">nd UniversityAlarm Technologies to Wake Sleeping People Who are...by E Smedberg · 2022 · Cited by 21 — The results show that low-frequ...</span></span></span>
+Research examining alarm technologies for deaf and hard-of-hearing sleepers found that bed shakers and low-[frequency]({{ 'frequency/' | relative_url }}) tactile alarms are among the most reliable available options. Studies of waking effectiveness have likewise found strong performance from vibrating alarms.<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10694-022-01265-8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer Nature Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Springer Nature LinkAlarm Technologies to Wake Sleeping People Who are Deaf...by E Smedberg · 2022 · Cited by 21 — The results show that...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://portal.research.lu.se/en/publications/alarm-technologies-to-wake-sleeping-people-who-are-deaf-or-hard-o/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: portal.research.lu.se">[Lund University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">portal.research.lu.se</span><span class="citation-popover-snippet">nd UniversityAlarm Technologies to Wake Sleeping People Who are...by E Smedberg · 2022 · Cited by 21 — The results show that low-frequ...</span></span></span>
 
 For some households, a vibrating alarm also reduces the chance of waking a partner with a loud audible alarm.
 
@@ -364,14 +364,14 @@ This matters because the ideal bedroom alarm should help you wake up at the righ
 
 One unexpected benefit of replacing the phone is reducing overnight clock-checking.
 
-Sleep clinics and NHS sleep guidance frequently advise people not to watch the clock during the night because it can increase anxiety and make it harder to fall back asleep. Seeing “03:17” often triggers mental arithmetic about how little sleep remains, creating a cycle of alertness and frustration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cuh.nhs.uk/patient-information/achieving-better-sleep-a-patients-guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cuh.nhs.uk">[Cambridge University Hospitals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cuh.nhs.uk</span><span class="citation-popover-snippet">Turn your clock away and set the alarm. Watching the clock can increase anxiety about sleep, therefore making it harder to...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.royalberkshire.nhs.uk/media/qowjobz5/sleep-hygiene_dec23.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalberkshire.nhs.uk">[Royal Berkshire NHS Foundation Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalberkshire.nhs.uk</span><span class="citation-popover-snippet">Royal Berkshire NHS Foundation TrustSleep hygieneRemove or turn your electronic clock away from you and try not to look at it during the...</span></span></span>
+Sleep clinics and NHS sleep guidance frequently advise people not to watch the clock during the night because it can increase anxiety and make it harder to fall back asleep. Seeing “03:17” often triggers mental arithmetic about how little sleep remains, creating a cycle of alertness and frustration.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cuh.nhs.uk/patient-information/achieving-better-sleep-a-patients-guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cuh.nhs.uk">[Cambridge University Hospitals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cuh.nhs.uk</span><span class="citation-popover-snippet">Turn your clock away and set the alarm. Watching the clock can increase anxiety about sleep, therefore making it harder to...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.royalberkshire.nhs.uk/media/qowjobz5/sleep-hygiene_dec23.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalberkshire.nhs.uk">[Royal Berkshire NHS Foundation Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalberkshire.nhs.uk</span><span class="citation-popover-snippet">Royal Berkshire NHS Foundation TrustSleep hygieneRemove or turn your electronic clock away from you and try not to look at it during the...</span></span></span>
 
 A practical setup is surprisingly simple:
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * Place the alarm across the room.
-* Turn the display away from the bed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.royalberkshire.nhs.uk/media/qowjobz5/sleep-hygiene_dec23.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalberkshire.nhs.uk">[royalberkshire.nhs.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalberkshire.nhs.uk</span><span class="citation-popover-snippet">Royal Berkshire NHS Foundation TrustSleep hygieneRemove or turn your electronic clock away from you and try not to look at it during the...</span></span></span>
+* Turn the display away from the bed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.royalberkshire.nhs.uk/media/qowjobz5/sleep-hygiene_dec23.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalberkshire.nhs.uk">[royalberkshire.nhs.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalberkshire.nhs.uk</span><span class="citation-popover-snippet">Royal Berkshire NHS Foundation TrustSleep hygieneRemove or turn your electronic clock away from you and try not to look at it during the...</span></span></span>
 * Use the alarm sound alone as the wake cue.
 * Avoid checking the time during overnight awakenings.
 
@@ -410,197 +410,197 @@ Rather than searching for a universally perfect alarm, match the device to the a
 
 SituationMost useful swapAverage sleeper who just wants the phone out of the roomSimple alarm clockDark winter morningsSunrise alarmHeavy sleeperLoud alarm or vibrating alarmHearing lossVibrating bed-shaker alarmPartner disturbed by alarmsVibrating alarm or gradual-light alarmNight-time clock watcherDisplay-off or turned-away alarm
 
-The important shift is behavioural rather than technological. Once the phone no longer needs to live beside the bed, the bedroom can return to being a place associated primarily with sleep. A dedicated alarm clock supports that change by handling the one function the phone genuinely performs well—waking you up—without bringing the rest of the internet into the room. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sleepfoundation.org/bedroom-environment/technology-in-the-bedroom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleepfoundation.org">[Sleep Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleepfoundation.org</span><span class="citation-popover-title">technology in the bedroom</span><span class="citation-popover-snippet">Sleep FoundationTechnology in the Bedroom11 Jul 2025 — Use a basic alarm clock: If you use your phone as an alarm, a basic alarm clock ca...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nhsinform.scot/mind-to-mind/sleeping-better/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhsinform.scot">[NHS inform]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhsinform.scot</span><span class="citation-popover-snippet">NHS informSleeping betterAvoid having phones, computers or TVs in the bedroom, as they can be a distraction and deprive you of sleep. Vid...</span></span></span>
+The important shift is behavioural rather than technological. Once the phone no longer needs to live beside the bed, the bedroom can return to being a place associated primarily with sleep. A dedicated alarm clock supports that change by handling the one function the phone genuinely performs well—waking you up—without bringing the rest of the internet into the room.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sleepfoundation.org/bedroom-environment/technology-in-the-bedroom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleepfoundation.org">[Sleep Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleepfoundation.org</span><span class="citation-popover-title">technology in the bedroom</span><span class="citation-popover-snippet">Sleep FoundationTechnology in the Bedroom11 Jul 2025 — Use a basic alarm clock: If you use your phone as an alarm, a basic alarm clock ca...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nhsinform.scot/mind-to-mind/sleeping-better/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nhsinform.scot">[NHS inform]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nhsinform.scot</span><span class="citation-popover-snippet">NHS informSleeping betterAvoid having phones, computers or TVs in the bedroom, as they can be a distraction and deprive you of sleep. Vid...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Alarm Excuse Is Solvable. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Alarm Excuse Is Solvable. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why We Sleep on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZlU3DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why We Sleep" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why We Sleep">Why We Sleep</a>
-        </h4>
-        <p class="fr-book-author">By Matthew Walker</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why We Sleep on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZlU3DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why We Sleep" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why We Sleep">Why We Sleep</a>
+</h4>
+<p class="fr-book-author">By Matthew Walker</p>
         
-        <p class="fr-book-desc">Explains why reducing sleep disruptions matters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why reducing sleep disruptions matters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Break+Up+with+Your+Phone+by+Catherine+Price&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Break Up with Your Phone on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rRVHDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Break Up with Your Phone" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Break+Up+with+Your+Phone+by+Catherine+Price&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Break Up with Your Phone">How to Break Up with Your Phone</a>
-        </h4>
-        <p class="fr-book-author">By Catherine Price</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Break+Up+with+Your+Phone+by+Catherine+Price&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Break Up with Your Phone on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rRVHDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Break Up with Your Phone" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Break+Up+with+Your+Phone+by+Catherine+Price&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Break Up with Your Phone">How to Break Up with Your Phone</a>
+</h4>
+<p class="fr-book-author">By Catherine Price</p>
         
-        <p class="fr-book-desc">Encourages alternatives to constant phone access.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Break+Up+with+Your+Phone+by+Catherine+Price&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages alternatives to constant phone access.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Break+Up+with+Your+Phone+by+Catherine+Price&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sleep+Solution+by+W.+Chris+Winter%2C+M.D.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sleep Solution on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SnuNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Sleep Solution" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Sleep+Solution+by+W.+Chris+Winter%2C+M.D.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sleep Solution">The Sleep Solution</a>
-        </h4>
-        <p class="fr-book-author">By W. Chris Winter, M.D.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sleep+Solution+by+W.+Chris+Winter%2C+M.D.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sleep Solution on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SnuNEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Sleep Solution" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Sleep+Solution+by+W.+Chris+Winter%2C+M.D.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sleep Solution">The Sleep Solution</a>
+</h4>
+<p class="fr-book-author">By W. Chris Winter, M.D.</p>
         
-        <p class="fr-book-desc">Addresses sleep environments and routines.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Sleep+Solution+by+W.+Chris+Winter%2C+M.D.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses sleep environments and routines.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Sleep+Solution+by+W.+Chris+Winter%2C+M.D.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Minimalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S4NbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Minimalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Minimalism">Digital Minimalism</a>
-        </h4>
-        <p class="fr-book-author">By Cal Newport</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Minimalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S4NbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Minimalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Minimalism">Digital Minimalism</a>
+</h4>
+<p class="fr-book-author">By Cal Newport</p>
         
-        <p class="fr-book-desc">Supports removing multifunction devices from sleep spaces.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports removing multifunction devices from sleep spaces.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+We+Sleep&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why We Sleep</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Break+Up+with+Your+Phone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Break Up with Your Phone</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Sleep+Solution&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Sleep Solution</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+We+Sleep&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why We Sleep</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Break+Up+with+Your+Phone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Break Up with Your Phone</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Sleep+Solution&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Sleep Solution</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sunrise Alarm Clocks, Wake Up Light with Sunrise Simulation, Dual Alarms, Snooze"><img src="https://i.ebayimg.com/images/g/9-sAAeSwU9BqC0z0/s-l225.jpg" alt="Listing image for Sunrise Alarm Clocks, Wake Up Light with Sunrise Simulation, Dual Alarms, Snooze" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">Sunrise Alarm Clocks, Wake Up Light with Sunrise Simulation, Dual Alarms, Snooze</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sunrise alarm clock">Search <span data-ebay-domain-label>eBay.co.uk</span>: sunrise alarm clock</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sunrise Alarm Clocks, Wake Up Light with Sunrise Simulation, Dual Alarms, Snooze"><img src="https://i.ebayimg.com/images/g/9-sAAeSwU9BqC0z0/s-l225.jpg" alt="Listing image for Sunrise Alarm Clocks, Wake Up Light with Sunrise Simulation, Dual Alarms, Snooze" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">Sunrise Alarm Clocks, Wake Up Light with Sunrise Simulation, Dual Alarms, Snooze</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sunrise alarm clock">Search<span data-ebay-domain-label>eBay.co.uk</span>: sunrise alarm clock</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lumie Bodyclock Starter 30 Wake Up Light Alarm Clock With Sunrise/Sunset Feature"><img src="https://i.ebayimg.com/images/g/xHYAAeSw6LhqKm4c/s-l225.jpg" alt="Listing image for Lumie Bodyclock Starter 30 Wake Up Light Alarm Clock With Sunrise/Sunset Feature" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">Lumie Bodyclock Starter 30 Wake Up Light Alarm Clock With Sunrise/Sunset Feature</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sunrise alarm clock">Search <span data-ebay-domain-label>eBay.co.uk</span>: sunrise alarm clock</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lumie Bodyclock Starter 30 Wake Up Light Alarm Clock With Sunrise/Sunset Feature"><img src="https://i.ebayimg.com/images/g/xHYAAeSw6LhqKm4c/s-l225.jpg" alt="Listing image for Lumie Bodyclock Starter 30 Wake Up Light Alarm Clock With Sunrise/Sunset Feature" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">Lumie Bodyclock Starter 30 Wake Up Light Alarm Clock With Sunrise/Sunset Feature</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sunrise alarm clock">Search<span data-ebay-domain-label>eBay.co.uk</span>: sunrise alarm clock</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sunrise Alarm Clock, Wake Up Light Alarm Clock with White Noise Machine, Night"><img src="https://i.ebayimg.com/images/g/-LMAAeSwUEFqJS65/s-l225.jpg" alt="Listing image for Sunrise Alarm Clock, Wake Up Light Alarm Clock with White Noise Machine, Night" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">Sunrise Alarm Clock, Wake Up Light Alarm Clock with White Noise Machine, Night</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sunrise alarm clock">Search <span data-ebay-domain-label>eBay.co.uk</span>: sunrise alarm clock</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sunrise Alarm Clock, Wake Up Light Alarm Clock with White Noise Machine, Night"><img src="https://i.ebayimg.com/images/g/-LMAAeSwUEFqJS65/s-l225.jpg" alt="Listing image for Sunrise Alarm Clock, Wake Up Light Alarm Clock with White Noise Machine, Night" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">Sunrise Alarm Clock, Wake Up Light Alarm Clock with White Noise Machine, Night</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sunrise alarm clock">Search<span data-ebay-domain-label>eBay.co.uk</span>: sunrise alarm clock</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lumie Sunrise Alarm Wake Up Light Digital Clock Alarm/Snooze, White Plastic"><img src="https://i.ebayimg.com/images/g/u90AAeSwvIJqKWW7/s-l225.jpg" alt="Listing image for Lumie Sunrise Alarm Wake Up Light Digital Clock Alarm/Snooze, White Plastic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">Lumie Sunrise Alarm Wake Up Light Digital Clock Alarm/Snooze, White Plastic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sunrise alarm clock">Search <span data-ebay-domain-label>eBay.co.uk</span>: sunrise alarm clock</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lumie Sunrise Alarm Wake Up Light Digital Clock Alarm/Snooze, White Plastic"><img src="https://i.ebayimg.com/images/g/u90AAeSwvIJqKWW7/s-l225.jpg" alt="Listing image for Lumie Sunrise Alarm Wake Up Light Digital Clock Alarm/Snooze, White Plastic" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">Lumie Sunrise Alarm Wake Up Light Digital Clock Alarm/Snooze, White Plastic</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for sunrise alarm clock">Search<span data-ebay-domain-label>eBay.co.uk</span>: sunrise alarm clock</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=sunrise+alarm+clock&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-alarm-excuse-is-solvable-sunrise-alarm-clock&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="sunrise alarm clock" data-ebay-reference="the-alarm-excuse-is-solvable-sunrise-alarm-clock" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -616,7 +616,7 @@ The important shift is behavioural rather than technological. Once the phone no 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -636,7 +636,7 @@ The important shift is behavioural rather than technological. Once the phone no 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -668,7 +668,7 @@ The important shift is behavioural rather than technological. Once the phone no 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -720,7 +720,7 @@ The important shift is behavioural rather than technological. Once the phone no 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -765,7 +765,7 @@ The important shift is behavioural rather than technological. Once the phone no 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -806,114 +806,114 @@ The important shift is behavioural rather than technological. Once the phone no 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: whittington.nhs.uk  
-   Link: <a href="https://www.whittington.nhs.uk/default.asp?c=46665&amp;print=1" target="_blank" rel="noopener noreferrer nofollow">https://www.whittington.nhs.uk/default.asp?c=46665&amp;print=1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Improving Sleep (print version)10 Sept 2025 — Try to switch off screens 1 to 2 hours before bedtime and take screens out o...</p></details>
+   Link:<a href="https://www.whittington.nhs.uk/default.asp?c=46665&amp;print=1" target="_blank" rel="noopener noreferrer nofollow">https://www.whittington.nhs.uk/default.asp?c=46665&amp;print=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Improving Sleep (print version)10 Sept 2025 — Try to switch off screens 1 to 2 hours before bedtime and take screens out o...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: oxfordhealth.nhs.uk  
-   Link: <a href="https://oxfordhealth.nhs.uk/camhs/self-care/sleep/difficulties/screens/" target="_blank" rel="noopener noreferrer nofollow">https://oxfordhealth.nhs.uk/camhs/self-care/sleep/difficulties/screens/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Oxford Health NHS Foundation TrustScreens | Oxford Health CAMHSThe simplest way to reduce exposure to artificial light is to turn off you...</p></details>
+   Link:<a href="https://oxfordhealth.nhs.uk/camhs/self-care/sleep/difficulties/screens/" target="_blank" rel="noopener noreferrer nofollow">https://oxfordhealth.nhs.uk/camhs/self-care/sleep/difficulties/screens/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oxford Health NHS Foundation TrustScreens | Oxford Health CAMHSThe simplest way to reduce exposure to artificial light is to turn off you...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: allure.com  
-   Link: <a href="https://www.allure.com/story/best-sunrise-alarm-clocks" target="_blank" rel="noopener noreferrer nofollow">https://www.allure.com/story/best-sunrise-alarm-clocks</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>These clocks can be highly beneficial, particularly during the darker winter months when natural light is scarce. When selecting a sunris...</p></details>
+   Link:<a href="https://www.allure.com/story/best-sunrise-alarm-clocks" target="_blank" rel="noopener noreferrer nofollow">https://www.allure.com/story/best-sunrise-alarm-clocks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These clocks can be highly beneficial, particularly during the darker winter months when natural light is scarce. When selecting a sunris...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s10694-022-01265-8" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10694-022-01265-8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Springer Nature LinkAlarm Technologies to Wake Sleeping People Who are Deaf...by E Smedberg · 2022 · Cited by 21 — The results show that...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1007/s10694-022-01265-8" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10694-022-01265-8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Springer Nature LinkAlarm Technologies to Wake Sleeping People Who are Deaf...by E Smedberg · 2022 · Cited by 21 — The results show that...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cuh.nhs.uk  
-   Link: <a href="https://www.cuh.nhs.uk/patient-information/achieving-better-sleep-a-patients-guide/" target="_blank" rel="noopener noreferrer nofollow">https://www.cuh.nhs.uk/patient-information/achieving-better-sleep-a-patients-guide/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Turn your clock away and set the alarm. Watching the clock can increase anxiety about sleep, therefore making it harder to...Read more...</p></details>
+   Link:<a href="https://www.cuh.nhs.uk/patient-information/achieving-better-sleep-a-patients-guide/" target="_blank" rel="noopener noreferrer nofollow">https://www.cuh.nhs.uk/patient-information/achieving-better-sleep-a-patients-guide/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Turn your clock away and set the alarm. Watching the clock can increase anxiety about sleep, therefore making it harder to...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: royalberkshire.nhs.uk  
-   Link: <a href="https://www.royalberkshire.nhs.uk/media/qowjobz5/sleep-hygiene_dec23.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.royalberkshire.nhs.uk/media/qowjobz5/sleep-hygiene_dec23.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Berkshire NHS Foundation TrustSleep hygieneRemove or turn your electronic clock away from you and try not to look at it during the...</p></details>
+   Link:<a href="https://www.royalberkshire.nhs.uk/media/qowjobz5/sleep-hygiene_dec23.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.royalberkshire.nhs.uk/media/qowjobz5/sleep-hygiene_dec23.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Berkshire NHS Foundation TrustSleep hygieneRemove or turn your electronic clock away from you and try not to look at it during the...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: southtees.nhs.uk  
-   Link: <a href="https://www.southtees.nhs.uk/staff/how-am-i/sleep-strategies-during-stressful-times/" target="_blank" rel="noopener noreferrer nofollow">https://www.southtees.nhs.uk/staff/how-am-i/sleep-strategies-during-stressful-times/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>South Tees NHS Foundation TrustSleep strategies during stressful timesMar 2, 2022 — If you still can&#x27;t sleep, try saying the word &#x27;the&#x27; e...</p></details>
+   Link:<a href="https://www.southtees.nhs.uk/staff/how-am-i/sleep-strategies-during-stressful-times/" target="_blank" rel="noopener noreferrer nofollow">https://www.southtees.nhs.uk/staff/how-am-i/sleep-strategies-during-stressful-times/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>South Tees NHS Foundation TrustSleep strategies during stressful timesMar 2, 2022 — If you still can&#x27;t sleep, try saying the word &#x27;the&#x27; e...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nhsinform.scot  
-   Link: <a href="https://www.nhsinform.scot/mind-to-mind/sleeping-better/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhsinform.scot/mind-to-mind/sleeping-better/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NHS informSleeping betterAvoid having phones, computers or TVs in the bedroom, as they can be a distraction and deprive you of sleep. Vid...</p></details>
+   Link:<a href="https://www.nhsinform.scot/mind-to-mind/sleeping-better/" target="_blank" rel="noopener noreferrer nofollow">https://www.nhsinform.scot/mind-to-mind/sleeping-better/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NHS informSleeping betterAvoid having phones, computers or TVs in the bedroom, as they can be a distraction and deprive you of sleep. Vid...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sleepfoundation.org  
    Title: technology in the bedroom  
-   Link: <a href="https://www.sleepfoundation.org/bedroom-environment/technology-in-the-bedroom" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/bedroom-environment/technology-in-the-bedroom</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep FoundationTechnology in the Bedroom11 Jul 2025 — Use a basic alarm clock: If you use your phone as an alarm, a basic alarm clock ca...</p></details>
+   Link:<a href="https://www.sleepfoundation.org/bedroom-environment/technology-in-the-bedroom" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/bedroom-environment/technology-in-the-bedroom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep FoundationTechnology in the Bedroom11 Jul 2025 — Use a basic alarm clock: If you use your phone as an alarm, a basic alarm clock ca...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: realsimple.com  
-   Link: <a href="https://www.realsimple.com/manual-alarm-clocks-vs-phone-11874808" target="_blank" rel="noopener noreferrer nofollow">https://www.realsimple.com/manual-alarm-clocks-vs-phone-11874808</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It explains that smartphones, often used right before bed and upon waking, emit blue light and constant notifications that overstimulate...</p></details>
+   Link:<a href="https://www.realsimple.com/manual-alarm-clocks-vs-phone-11874808" target="_blank" rel="noopener noreferrer nofollow">https://www.realsimple.com/manual-alarm-clocks-vs-phone-11874808</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It explains that smartphones, often used right before bed and upon waking, emit blue light and constant notifications that overstimulate...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: guysandstthomasspecialistcare.co.uk  
-   Link: <a href="https://guysandstthomasspecialistcare.co.uk/news/light-therapy-and-sleep/" target="_blank" rel="noopener noreferrer nofollow">https://guysandstthomasspecialistcare.co.uk/news/light-therapy-and-sleep/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Guy&#x27;s and St Thomas&#x27; Specialist CareLight therapy and sleepIt is thought that by imitating a natural process, sunrise alarm clocks may he...</p></details>
+   Link:<a href="https://guysandstthomasspecialistcare.co.uk/news/light-therapy-and-sleep/" target="_blank" rel="noopener noreferrer nofollow">https://guysandstthomasspecialistcare.co.uk/news/light-therapy-and-sleep/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guy&#x27;s and St Thomas&#x27; Specialist CareLight therapy and sleepIt is thought that by imitating a natural process, sunrise alarm clocks may he...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sleepreviewmag.com  
-   Link: <a href="https://sleepreviewmag.com/sleep-treatments/therapy-devices/light-therapy/light-dawn-simulation/" target="_blank" rel="noopener noreferrer nofollow">https://sleepreviewmag.com/sleep-treatments/therapy-devices/light-therapy/light-dawn-simulation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep ReviewShedding Light on Dawn Simulationby C Care — Dawn simulators expose sleepers to a slowly increasing intensity of light for 30...</p></details>
+   Link:<a href="https://sleepreviewmag.com/sleep-treatments/therapy-devices/light-therapy/light-dawn-simulation/" target="_blank" rel="noopener noreferrer nofollow">https://sleepreviewmag.com/sleep-treatments/therapy-devices/light-therapy/light-dawn-simulation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep ReviewShedding Light on Dawn Simulationby C Care — Dawn simulators expose sleepers to a slowly increasing intensity of light for 30...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: portal.research.lu.se  
-   Link: <a href="https://portal.research.lu.se/en/publications/alarm-technologies-to-wake-sleeping-people-who-are-deaf-or-hard-o/" target="_blank" rel="noopener noreferrer nofollow">https://portal.research.lu.se/en/publications/alarm-technologies-to-wake-sleeping-people-who-are-deaf-or-hard-o/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nd UniversityAlarm Technologies to Wake Sleeping People Who are...by E Smedberg · 2022 · Cited by 21 — The results show that low-frequ...</p></details>
+   Link:<a href="https://portal.research.lu.se/en/publications/alarm-technologies-to-wake-sleeping-people-who-are-deaf-or-hard-o/" target="_blank" rel="noopener noreferrer nofollow">https://portal.research.lu.se/en/publications/alarm-technologies-to-wake-sleeping-people-who-are-deaf-or-hard-o/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nd UniversityAlarm Technologies to Wake Sleeping People Who are...by E Smedberg · 2022 · Cited by 21 — The results show that low-frequ...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: vogue.com  
-   Link: <a href="https://www.vogue.com/article/best-alarm-clocks-health-benefits-unplugging-smartphone-better-sleep-rest" target="_blank" rel="noopener noreferrer nofollow">https://www.vogue.com/article/best-alarm-clocks-health-benefits-unplugging-smartphone-better-sleep-rest</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shelby Harris, a behavioral sleep-medicine specialist, highlights that blue light exposure from screens can impair sleep and overall heal...</p></details>
+   Link:<a href="https://www.vogue.com/article/best-alarm-clocks-health-benefits-unplugging-smartphone-better-sleep-rest" target="_blank" rel="noopener noreferrer nofollow">https://www.vogue.com/article/best-alarm-clocks-health-benefits-unplugging-smartphone-better-sleep-rest</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shelby Harris, a behavioral sleep-medicine specialist, highlights that blue light exposure from screens can impair sleep and overall heal...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: vuir.vu.edu.au  
-   Link: <a href="https://vuir.vu.edu.au/682/1/hardofhearing%26alarms.pdf" target="_blank" rel="noopener noreferrer nofollow">https://vuir.vu.edu.au/682/1/hardofhearing%26alarms.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>VU ResearchWaking effectiveness of alarms (auditory, visual and tactile) for...by D Bruck · 2007 · Cited by 6 — with the intermittent vi...</p></details>
+   Link:<a href="https://vuir.vu.edu.au/682/1/hardofhearing%26alarms.pdf" target="_blank" rel="noopener noreferrer nofollow">https://vuir.vu.edu.au/682/1/hardofhearing%26alarms.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>VU ResearchWaking effectiveness of alarms (auditory, visual and tactile) for...by D Bruck · 2007 · Cited by 6 — with the intermittent vi...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=iV9K54TE9qk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iV9K54TE9qk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RECLAIM YOUR MORNINGS: Get your time back...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=iV9K54TE9qk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=iV9K54TE9qk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RECLAIM YOUR MORNINGS: Get your time back...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: healthline.com  
    Title: sunrise alarm clock review  
-   Link: <a href="https://www.healthline.com/health/sunrise-alarm-clock-review" target="_blank" rel="noopener noreferrer nofollow">https://www.healthline.com/health/sunrise-alarm-clock-review</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It concluded that they may help, but the effects weren&#x27;t overwhelming. Researchers have found...Read more...</p></details>
+   Link:<a href="https://www.healthline.com/health/sunrise-alarm-clock-review" target="_blank" rel="noopener noreferrer nofollow">https://www.healthline.com/health/sunrise-alarm-clock-review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It concluded that they may help, but the effects weren&#x27;t overwhelming. Researchers have found...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Testing the Philips Smart Sleep Sunrise Alarm Clocks  
-   Link: <a href="https://www.youtube.com/watch?v=xhwujFMRGuc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xhwujFMRGuc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hatch Restore 3 Sunrise Alarm Clock Review - My Experience Using It...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xhwujFMRGuc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xhwujFMRGuc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hatch Restore 3 Sunrise Alarm Clock Review - My Experience Using It...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Can a clock replace your smartphone?  
-   Link: <a href="https://www.youtube.com/watch?v=sMry1Toos94" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sMry1Toos94</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Magic Alarm Clock That Stops Your Bedroom Doom Scrolling? (He Invented That Product)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sMry1Toos94" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sMry1Toos94</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Magic Alarm Clock That Stops Your Bedroom Doom Scrolling? (He Invented That Product)...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: RECLAIM YOUR MORNINGS: Get your time back!  
-   Link: <a href="https://www.youtube.com/watch?v=oyjozITm4Ws" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oyjozITm4Ws</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Testing the Philips SmartSleep Sunrise Alarm Clocks...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oyjozITm4Ws" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oyjozITm4Ws</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Testing the Philips SmartSleep Sunrise Alarm Clocks...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Hatch Restore 3 Sunrise Alarm Clock Review  
-   Link: <a href="https://www.youtube.com/watch?v=kfvFSkette4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kfvFSkette4</a>
+   Link:<a href="https://www.youtube.com/watch?v=kfvFSkette4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kfvFSkette4</a>

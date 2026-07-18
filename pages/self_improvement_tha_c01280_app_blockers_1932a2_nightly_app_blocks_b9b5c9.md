@@ -274,7 +274,7 @@ image: /assets/images/self_improvement_tha_c01280_app_blockers_1932a2_nightly_ap
 
 ## Introduction
 
-Nightly app blocks work best when they prevent the bedtime scroll before it begins, not when they try to stop it after thirty minutes of scrolling. For many people, the problem is not a conscious decision to sacrifice sleep. It is a sequence of small actions: checking one message, opening one social app, watching one video, then discovering that an hour has disappeared. Research on smartphone use, bedtime procrastination and digital self-control suggests that changing the [environment]({{ 'environment/' | relative_url }}) around this vulnerable time window is often more effective than relying on [willpower]({{ 'willpower/' | relative_url }}) alone. A scheduled evening block creates friction at the moment of temptation and protects the period between “I should start winding down” and “I need to be asleep”. PNAS <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/36795756/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Directing smartphone use through the self-nudge app one...by DJ Grüning · 2023 · Cited by 84 — In sum, one sec decreased users&#x27; ac...</span></span></span>
+Nightly app blocks work best when they prevent the bedtime scroll before it begins, not when they try to stop it after thirty minutes of scrolling. For many people, the problem is not a conscious decision to sacrifice sleep. It is a sequence of small actions: checking one message, opening one social app, watching one video, then discovering that an hour has disappeared. Research on smartphone use, bedtime procrastination and digital self-control suggests that changing the [environment]({{ 'environment/' | relative_url }}) around this vulnerable time window is often more effective than relying on [willpower]({{ 'willpower/' | relative_url }}) alone. A scheduled evening block creates friction at the moment of temptation and protects the period between “I should start winding down” and “I need to be asleep”. PNAS<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/36795756/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Directing smartphone use through the self-nudge app one...by DJ Grüning · 2023 · Cited by 84 — In sum, one sec decreased users&#x27; ac...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2_nightly_app_blocks_b9b5c9-Illustration-1-dark.svg" | relative_url }}" alt="Night Blocks illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2_nightly_app_blocks_b9b5c9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2_nightly_app_blocks_b9b5c9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Setting the wind-down window
@@ -283,7 +283,7 @@ A common mistake is scheduling a block at the exact moment sleep is supposed to 
 
 A more effective approach is to create a wind-down window that starts before bedtime. If the goal is to be asleep by 11:00 pm, a social media block might begin at 10:00 pm or 10:15 pm. The purpose is not merely to prevent screen exposure; it is to reserve time for the transition from wakefulness to sleep.
 
-Sleep organisations commonly recommend a dedicated wind-down period, often around 30 minutes or more, devoted to calmer activities and a consistent bedtime routine. Research and sleep-health guidance also link evening device use with longer sleep onset, poorer sleep quality and delayed bedtimes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sleepfoundation.org/sleep-hygiene" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleepfoundation.org">[Sleep Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleepfoundation.org</span><span class="citation-popover-title">sleep hygiene</span><span class="citation-popover-snippet">Sleep FoundationMastering Sleep Hygiene: Your Path to Quality Sleep7 Jul 2025 — Budget 30 Minutes For Winding Down: Take advantage of wha...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11059092/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[Sleep]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralThe Association Between Bedtime Procrastination, Sleep...by A Bozkurt · 2024 · Cited by 36 — This study investigated the r...</span></span></span>
+Sleep organisations commonly recommend a dedicated wind-down period, often around 30 minutes or more, devoted to calmer activities and a consistent bedtime routine. Research and sleep-health guidance also link evening device use with longer sleep onset, poorer sleep quality and delayed bedtimes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sleepfoundation.org/sleep-hygiene" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleepfoundation.org">[Sleep Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleepfoundation.org</span><span class="citation-popover-title">sleep hygiene</span><span class="citation-popover-snippet">Sleep FoundationMastering Sleep Hygiene: Your Path to Quality Sleep7 Jul 2025 — Budget 30 Minutes For Winding Down: Take advantage of wha...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11059092/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[Sleep]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralThe Association Between Bedtime Procrastination, Sleep...by A Bozkurt · 2024 · Cited by 36 — This study investigated the r...</span></span></span>
 
 For late-night scrolling specifically, the timing matters more than the severity of the block:
 
@@ -303,7 +303,7 @@ Night-time self-control is often weaker than daytime self-control. Fatigue, stre
 
 This is where scheduled app blocks have a specific advantage. The decision is made earlier, when [motivation]({{ 'motivation/' | relative_url }}) is stronger. Instead of negotiating with yourself at 11:15 pm, the boundary already exists.
 
-Evidence from the self-nudge app *one sec* illustrates the value of interrupting automatic behaviour. In a large field study, users opened targeted apps substantially less often over six weeks, with actual openings reduced by 57%. The intervention worked by inserting a brief pause and reflection point before access rather than relying on users to stop themselves after entering the app. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2213114120" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Directing smartphone use through the self-nudge app one...by DJ Grüning · 2023 · Cited by 84 — Second, over the course of 6 wk, user...</span></span></span>
+Evidence from the self-nudge app *one sec* illustrates the value of interrupting automatic behaviour. In a large field study, users opened targeted apps substantially less often over six weeks, with actual openings reduced by 57%. The intervention worked by inserting a brief pause and reflection point before access rather than relying on users to stop themselves after entering the app.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.pnas.org/doi/10.1073/pnas.2213114120" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Directing smartphone use through the self-nudge app one...by DJ Grüning · 2023 · Cited by 84 — Second, over the course of 6 wk, user...</span></span></span>
 
 The lesson for bedtime routines is straightforward: the first tap is often the most important moment to interrupt. Once someone is immersed in an infinite feed, the effort required to stop becomes much greater.
 
@@ -328,7 +328,7 @@ Examples include:
 
 </div>
 
-This approach aligns with findings from research on digital self-control tools. Users tend to stick with systems that [support]({{ 'support/' | relative_url }}) their actual goals rather than imposing blanket restrictions on every form of phone use. Personal relevance and flexibility matter because the same app can be useful in one context and distracting in another. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1902.00157" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Self-Control in Cyberspace: Applying Dual Systems Theory to a Review of Digital Self-Control ToolsFebruary 1, 2019...</span><span class="citation-popover-meta">Published: February 1, 2019</span></span></span>
+This approach aligns with findings from research on digital self-control tools. Users tend to stick with systems that [support]({{ 'support/' | relative_url }}) their actual goals rather than imposing blanket restrictions on every form of phone use. Personal relevance and flexibility matter because the same app can be useful in one context and distracting in another.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1902.00157" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Self-Control in Cyberspace: Applying Dual Systems Theory to a Review of Digital Self-Control ToolsFebruary 1, 2019...</span><span class="citation-popover-meta">Published: February 1, 2019</span></span></span>
 
 The objective is not to make the phone unusable. It is to remove the pathways most likely to lead into an hour of unplanned scrolling.
 
@@ -339,7 +339,7 @@ App blocks become much more effective when combined with physical distance.
 
 A blocked app remains psychologically present if the phone is still on the pillow beside you. Even unsuccessful attempts to open apps can keep attention focused on the device.
 
-Sleep researchers and clinicians frequently recommend reducing or eliminating phone use in bed. Studies examining restrictions on bedtime smartphone use have found improvements in sleep-related outcomes, including reduced pre-sleep arousal and better sleep quality. Other research suggests that limiting in-bed smartphone use can improve sleep quality by reducing the mental activation that keeps people awake. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0306460323002204" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Can restricting while-in-bed smartphone use improve sleep...by Z Tu · 2023 · Cited by 20 — Restricting while-in-bed smartph...</span></span></span>
+Sleep researchers and clinicians frequently recommend reducing or eliminating phone use in bed. Studies examining restrictions on bedtime smartphone use have found improvements in sleep-related outcomes, including reduced pre-sleep arousal and better sleep quality. Other research suggests that limiting in-bed smartphone use can improve sleep quality by reducing the mental activation that keeps people awake.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0306460323002204" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Can restricting while-in-bed smartphone use improve sleep...by Z Tu · 2023 · Cited by 20 — Restricting while-in-bed smartph...</span></span></span>
 
 Practical combinations include:
 
@@ -358,11 +358,11 @@ These measures matter because late-night scrolling is not only a screen problem.
 
 ## The real target is bedtime procrastination
 
-Many discussions of screens and sleep focus narrowly on blue light. While light exposure can influence alertness and sleep timing, researchers increasingly emphasise another factor: people often stay awake because the content is engaging, emotionally stimulating or endlessly available. Some recent reviews even argue that the behavioural effects of screen use may be more important than the light itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/staring-at-a-phone-before-bed-doesnt-interfere-with-your-sleep-8d6fw85gb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-title">The Times Staring at a phone before bed doesn&#x27;t interfere with your sleep</span><span class="citation-popover-snippet">Traditional advice suggests limiting screen time in the evening to avoid suppressing melatonin, the sleep-inducing hormone. However, the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/health/wellness/sleep-blue-light-screens-dbb796e7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">Sleep experts now suggest that the impact of screens depends on individual differences and the type of activity performed. Watching famil...</span></span></span>
+Many discussions of screens and sleep focus narrowly on blue light. While light exposure can influence alertness and sleep timing, researchers increasingly emphasise another factor: people often stay awake because the content is engaging, emotionally stimulating or endlessly available. Some recent reviews even argue that the behavioural effects of screen use may be more important than the light itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/staring-at-a-phone-before-bed-doesnt-interfere-with-your-sleep-8d6fw85gb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-title">The Times Staring at a phone before bed doesn&#x27;t interfere with your sleep</span><span class="citation-popover-snippet">Traditional advice suggests limiting screen time in the evening to avoid suppressing melatonin, the sleep-inducing hormone. However, the...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/health/wellness/sleep-blue-light-screens-dbb796e7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-snippet">Sleep experts now suggest that the impact of screens depends on individual differences and the type of activity performed. Watching famil...</span></span></span>
 
 This distinction matters when designing nightly app blocks.
 
-The goal is not simply reducing exposure to screens. The goal is preventing bedtime procrastination: delaying sleep despite intending to go to bed. Studies consistently find relationships between problematic smartphone use, bedtime procrastination and poorer sleep outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11059092/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralThe Association Between Bedtime Procrastination, Sleep...by A Bozkurt · 2024 · Cited by 36 — This study investigated the r...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11059092/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralThe Association Between Bedtime Procrastination, Sleep...by A Bozkurt · 2024 · Cited by 36 — This study investigated the r...</span></span></span>
+The goal is not simply reducing exposure to screens. The goal is preventing bedtime procrastination: delaying sleep despite intending to go to bed. Studies consistently find relationships between problematic smartphone use, bedtime procrastination and poorer sleep outcomes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11059092/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralThe Association Between Bedtime Procrastination, Sleep...by A Bozkurt · 2024 · Cited by 36 — This study investigated the r...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11059092/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralThe Association Between Bedtime Procrastination, Sleep...by A Bozkurt · 2024 · Cited by 36 — This study investigated the r...</span></span></span>
 
 A nightly block therefore succeeds when it removes the apps most associated with “just a few more minutes” behaviour:
 
@@ -399,269 +399,269 @@ This combination works because it addresses the entire late-night sequence. The 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9dgegVSYPtA" title="How to Stop Doomscrolling Without Deleting Social Media FINALLY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9dgegVSYPtA" target="_blank" rel="noopener noreferrer">How to Stop Doomscrolling Without Deleting Social Media FINALLY</a></p><p class="youtube-embed-meta">Channel: Natalies Outlet &middot; Views: 11.1K &middot; Uploaded: March 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9dgegVSYPtA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9dgegVSYPtA">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Stop the bedtime scroll before it starts. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Stop the bedtime scroll before it starts. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why We Sleep on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZlU3DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why We Sleep" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why We Sleep">Why We Sleep</a>
-        </h4>
-        <p class="fr-book-author">By Matthew Walker</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why We Sleep on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZlU3DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why We Sleep" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why We Sleep">Why We Sleep</a>
+</h4>
+<p class="fr-book-author">By Matthew Walker</p>
         
-        <p class="fr-book-desc">Strongly aligns with bedtime scrolling, sleep quality, and evening routines.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strongly aligns with bedtime scrolling, sleep quality, and evening routines.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Minimalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S4NbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Minimalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Minimalism">Digital Minimalism</a>
-        </h4>
-        <p class="fr-book-author">By Cal Newport</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Minimalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S4NbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Minimalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Minimalism">Digital Minimalism</a>
+</h4>
+<p class="fr-book-author">By Cal Newport</p>
         
-        <p class="fr-book-desc">Supports intentional limits on technology during vulnerable evening hours.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports intentional limits on technology during vulnerable evening hours.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sleep+Revolution+by+Arianna+Huffington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sleep Revolution on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hnMkCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Sleep Revolution" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Sleep+Revolution+by+Arianna+Huffington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sleep Revolution">The Sleep Revolution</a>
-        </h4>
-        <p class="fr-book-author">By Arianna Huffington</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sleep+Revolution+by+Arianna+Huffington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sleep Revolution on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hnMkCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Sleep Revolution" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Sleep+Revolution+by+Arianna+Huffington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sleep Revolution">The Sleep Revolution</a>
+</h4>
+<p class="fr-book-author">By Arianna Huffington</p>
         
-        <p class="fr-book-desc">Focuses on practical sleep habits and reducing behaviors that impair rest.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Sleep+Revolution+by+Arianna+Huffington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on practical sleep habits and reducing behaviors that impair rest.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Sleep+Revolution+by+Arianna+Huffington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Useful for building consistent wind-down routines and reducing bedtime triggers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Useful for building consistent wind-down routines and reducing bedtime triggers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+We+Sleep&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why We Sleep</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Minimalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Minimalism</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Sleep+Revolution&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Sleep Revolution</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+We+Sleep&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why We Sleep</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Minimalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Minimalism</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Sleep+Revolution&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Sleep Revolution</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bedside+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-bedside-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Felt Bedside Storage Organizer Bed Desk Bag Sofa TV Remote Control Bed Holder"><img src="{{ '/assets/images/marketplace-covers/9e5c15dc058ab051de48.jpg' | relative_url }}" alt="Listing image for Felt Bedside Storage Organizer Bed Desk Bag Sofa TV Remote Control Bed Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bedside+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-bedside-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Felt Bedside Storage Organizer Bed Desk Bag Sofa TV Remote Control Bed Holder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bedside+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-bedside-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bedside organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: bedside organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bedside+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-bedside-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bedside+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-bedside-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Felt Bedside Storage Organizer Bed Desk Bag Sofa TV Remote Control Bed Holder"><img src="{{ '/assets/images/marketplace-covers/9e5c15dc058ab051de48.jpg' | relative_url }}" alt="Listing image for Felt Bedside Storage Organizer Bed Desk Bag Sofa TV Remote Control Bed Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=bedside+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-bedside-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Felt Bedside Storage Organizer Bed Desk Bag Sofa TV Remote Control Bed Holder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bedside+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-bedside-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bedside organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: bedside organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=bedside+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-bedside-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bedside+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-bedside-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bedside Storage Caddy Hanging Bed Pocket Organiser for Books &amp; Remotes"><img src="{{ '/assets/images/marketplace-covers/2b6333b3fc6addf18678.jpg' | relative_url }}" alt="Listing image for Bedside Storage Caddy Hanging Bed Pocket Organiser for Books &amp; Remotes" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bedside+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-bedside-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bedside Storage Caddy Hanging Bed Pocket Organiser for Books &amp; Remotes</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bedside+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-bedside-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bedside organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: bedside organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bedside+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-bedside-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bedside+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-bedside-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bedside Storage Caddy Hanging Bed Pocket Organiser for Books &amp; Remotes"><img src="{{ '/assets/images/marketplace-covers/2b6333b3fc6addf18678.jpg' | relative_url }}" alt="Listing image for Bedside Storage Caddy Hanging Bed Pocket Organiser for Books &amp; Remotes" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=bedside+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-bedside-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bedside Storage Caddy Hanging Bed Pocket Organiser for Books &amp; Remotes</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bedside+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-bedside-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bedside organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: bedside organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=bedside+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-bedside-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bedside+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-bedside-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bedside Hanging Storage Bag Phone Remote Tissue Holder Organizer Pouch"><img src="{{ '/assets/images/marketplace-covers/aa626701502b3fb5e994.jpg' | relative_url }}" alt="Listing image for Bedside Hanging Storage Bag Phone Remote Tissue Holder Organizer Pouch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bedside+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-bedside-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bedside Hanging Storage Bag Phone Remote Tissue Holder Organizer Pouch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bedside+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-bedside-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bedside organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: bedside organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bedside+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-bedside-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bedside+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-bedside-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bedside Hanging Storage Bag Phone Remote Tissue Holder Organizer Pouch"><img src="{{ '/assets/images/marketplace-covers/aa626701502b3fb5e994.jpg' | relative_url }}" alt="Listing image for Bedside Hanging Storage Bag Phone Remote Tissue Holder Organizer Pouch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=bedside+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-bedside-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Bedside Hanging Storage Bag Phone Remote Tissue Holder Organizer Pouch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bedside+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-bedside-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bedside organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: bedside organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=bedside+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-bedside-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bedside+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-bedside-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hanging Storage Bag Multifunctional Bedside Organizer Bag with Metal Hooks"><img src="{{ '/assets/images/marketplace-covers/dd1398dfde02bf1d17e7.jpg' | relative_url }}" alt="Listing image for Hanging Storage Bag Multifunctional Bedside Organizer Bag with Metal Hooks" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bedside+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-bedside-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Hanging Storage Bag Multifunctional Bedside Organizer Bag with Metal Hooks</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bedside+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-bedside-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bedside organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: bedside organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=bedside+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-bedside-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=bedside+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-bedside-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=bedside+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-bedside-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hanging Storage Bag Multifunctional Bedside Organizer Bag with Metal Hooks"><img src="{{ '/assets/images/marketplace-covers/dd1398dfde02bf1d17e7.jpg' | relative_url }}" alt="Listing image for Hanging Storage Bag Multifunctional Bedside Organizer Bag with Metal Hooks" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=bedside+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-bedside-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Hanging Storage Bag Multifunctional Bedside Organizer Bag with Metal Hooks</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=bedside+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-bedside-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for bedside organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: bedside organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=bedside+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-bedside-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=bedside+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=night-blocks-stop-the-bedtime-scroll-before-it-starts-self-improvement-that-works-bedside-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -677,7 +677,7 @@ This combination works because it addresses the entire late-night sequence. The 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -697,7 +697,7 @@ This combination works because it addresses the entire late-night sequence. The 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -729,7 +729,7 @@ This combination works because it addresses the entire late-night sequence. The 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -759,7 +759,7 @@ This combination works because it addresses the entire late-night sequence. The 
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -817,168 +817,168 @@ This combination works because it addresses the entire late-night sequence. The 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pnas.org  
-   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2213114120" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2213114120</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Directing smartphone use through the self-nudge app one...by DJ Grüning · 2023 · Cited by 84 — Second, over the course of 6 wk, user...</p></details>
+   Link:<a href="https://www.pnas.org/doi/10.1073/pnas.2213114120" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2213114120</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directing smartphone use through the self-nudge app one...by DJ Grüning · 2023 · Cited by 84 — Second, over the course of 6 wk, user...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1902.00157" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1902.00157</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Control in Cyberspace: Applying Dual Systems Theory to a Review of Digital Self-Control ToolsFebruary 1, 2019...</p></details>
+   Link:<a href="https://arxiv.org/abs/1902.00157" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1902.00157</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Control in Cyberspace: Applying Dual Systems Theory to a Review of Digital Self-Control ToolsFebruary 1, 2019...</p></details>
    Published: February 1, 2019  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0306460323002204" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0306460323002204</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Can restricting while-in-bed smartphone use improve sleep...by Z Tu · 2023 · Cited by 20 — Restricting while-in-bed smartph...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0306460323002204" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0306460323002204</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can restricting while-in-bed smartphone use improve sleep...by Z Tu · 2023 · Cited by 20 — Restricting while-in-bed smartph...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2451958825002416" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2451958825002416</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>From nighttime and daytime smartphone use to negative...by D Babakhani · 2025 — A growing body of studies indicates that excessive smart...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2451958825002416" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2451958825002416</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From nighttime and daytime smartphone use to negative...by D Babakhani · 2025 — A growing body of studies indicates that excessive smart...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pnas.org  
-   Link: <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2213114120?af=R%2F" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/abs/10.1073/pnas.2213114120?af=R%2F</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Directing smartphone use through the self-nudge app one...In sum, one sec decreased users&#x27; actual opening of target apps by 57% after si...</p></details>
+   Link:<a href="https://www.pnas.org/doi/abs/10.1073/pnas.2213114120?af=R%2F" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/abs/10.1073/pnas.2213114120?af=R%2F</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directing smartphone use through the self-nudge app one...In sum, one sec decreased users&#x27; actual opening of target apps by 57% after si...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pnas.org  
-   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2216115120" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2216115120</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What can machine learning teach us about habit formation...by A Buyalskaya · 2023 · Cited by 65 — We introduce a machine learning method...</p></details>
+   Link:<a href="https://www.pnas.org/doi/10.1073/pnas.2216115120" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2216115120</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What can machine learning teach us about habit formation...by A Buyalskaya · 2023 · Cited by 65 — We introduce a machine learning method...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/36795756/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36795756/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Directing smartphone use through the self-nudge app one...by DJ Grüning · 2023 · Cited by 84 — In sum, one sec decreased users&#x27; ac...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/36795756/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36795756/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directing smartphone use through the self-nudge app one...by DJ Grüning · 2023 · Cited by 84 — In sum, one sec decreased users&#x27; ac...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11059092/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11059092/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralThe Association Between Bedtime Procrastination, Sleep...by A Bozkurt · 2024 · Cited by 36 — This study investigated the r...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11059092/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11059092/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralThe Association Between Bedtime Procrastination, Sleep...by A Bozkurt · 2024 · Cited by 36 — This study investigated the r...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sleepfoundation.org  
    Title: sleep hygiene  
-   Link: <a href="https://www.sleepfoundation.org/sleep-hygiene" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/sleep-hygiene</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep FoundationMastering Sleep Hygiene: Your Path to Quality Sleep7 Jul 2025 — Budget 30 Minutes For Winding Down: Take advantage of wha...</p></details>
+   Link:<a href="https://www.sleepfoundation.org/sleep-hygiene" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/sleep-hygiene</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep FoundationMastering Sleep Hygiene: Your Path to Quality Sleep7 Jul 2025 — Budget 30 Minutes For Winding Down: Take advantage of wha...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sleepfoundation.org  
    Title: how electronics affect sleep  
-   Link: <a href="https://www.sleepfoundation.org/how-sleep-works/how-electronics-affect-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/how-sleep-works/how-electronics-affect-sleep</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jul 10, 2025 — Numerous studies have established a link between using devices with screens before bed and increases in sleep latency, or...</p></details>
+   Link:<a href="https://www.sleepfoundation.org/how-sleep-works/how-electronics-affect-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/how-sleep-works/how-electronics-affect-sleep</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jul 10, 2025 — Numerous studies have established a link between using devices with screens before bed and increases in sleep latency, or...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8906383/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8906383/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralThe impact of bedtime technology use on sleep quality and...by SM AlShareef · 2022 · Cited by 68 — This large study streng...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8906383/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8906383/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralThe impact of bedtime technology use on sleep quality and...by SM AlShareef · 2022 · Cited by 68 — This large study streng...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: thetimes.co.uk  
    Title: The Times Staring at a phone before bed doesn't interfere with your sleep  
-   Link: <a href="https://www.thetimes.co.uk/article/staring-at-a-phone-before-bed-doesnt-interfere-with-your-sleep-8d6fw85gb" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/staring-at-a-phone-before-bed-doesnt-interfere-with-your-sleep-8d6fw85gb</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Traditional advice suggests limiting screen time in the evening to avoid suppressing melatonin, the sleep-inducing hormone. However, the...</p></details>
+   Link:<a href="https://www.thetimes.co.uk/article/staring-at-a-phone-before-bed-doesnt-interfere-with-your-sleep-8d6fw85gb" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/staring-at-a-phone-before-bed-doesnt-interfere-with-your-sleep-8d6fw85gb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Traditional advice suggests limiting screen time in the evening to avoid suppressing melatonin, the sleep-inducing hormone. However, the...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: wsj.com  
-   Link: <a href="https://www.wsj.com/health/wellness/sleep-blue-light-screens-dbb796e7" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/health/wellness/sleep-blue-light-screens-dbb796e7</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep experts now suggest that the impact of screens depends on individual differences and the type of activity performed. Watching famil...</p></details>
+   Link:<a href="https://www.wsj.com/health/wellness/sleep-blue-light-screens-dbb796e7" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/health/wellness/sleep-blue-light-screens-dbb796e7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep experts now suggest that the impact of screens depends on individual differences and the type of activity performed. Watching famil...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: sleepfoundation.org  
    Title: blue light  
-   Link: <a href="https://www.sleepfoundation.org/bedroom-environment/blue-light" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/bedroom-environment/blue-light</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What It Is and How It Affects Sleep11 Jul 2025 — Blue light is a portion of the visible light spectrum that can influence alertness, horm...</p></details>
+   Link:<a href="https://www.sleepfoundation.org/bedroom-environment/blue-light" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/bedroom-environment/blue-light</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What It Is and How It Affects Sleep11 Jul 2025 — Blue light is a portion of the visible light spectrum that can influence alertness, horm...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10604906/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10604906/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralRelationship between Problematic Smartphone Use, Sleep...by S Correa-Iriarte · 2023 · Cited by 57 — The purpose of this in...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10604906/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10604906/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralRelationship between Problematic Smartphone Use, Sleep...by S Correa-Iriarte · 2023 · Cited by 57 — The purpose of this in...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/40081281/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/40081281/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>randomised pilot trial for bedtime procrastinationby VM Hill · Cited by 4 — This pilot study aimed to examine (1) the acceptability and f...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/40081281/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/40081281/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>randomised pilot trial for bedtime procrastinationby VM Hill · Cited by 4 — This pilot study aimed to examine (1) the acceptability and f...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/37354745/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/37354745/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>randomized controlled trial of a behavioral intervention...by S Jeoung · 2023 · Cited by 29 — This study is a randomized controlled tria...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/37354745/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/37354745/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>randomized controlled trial of a behavioral intervention...by S Jeoung · 2023 · Cited by 29 — This study is a randomized controlled tria...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: sleepfoundation.org  
    Title: technology in the bedroom  
-   Link: <a href="https://www.sleepfoundation.org/bedroom-environment/technology-in-the-bedroom" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/bedroom-environment/technology-in-the-bedroom</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jul 11, 2025 — Looking at your phone or tablet can create light exposure and trigger your mind to a waking state that may prevent you fro...</p></details>
+   Link:<a href="https://www.sleepfoundation.org/bedroom-environment/technology-in-the-bedroom" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/bedroom-environment/technology-in-the-bedroom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jul 11, 2025 — Looking at your phone or tablet can create light exposure and trigger your mind to a waking state that may prevent you fro...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: sleepfoundation.org  
-   Link: <a href="https://www.sleepfoundation.org/children-and-sleep/how-blue-light-affects-kids-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/children-and-sleep/how-blue-light-affects-kids-sleep</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Blue Light Affects Kids&#x27; Sleep23 Jul 2025 — Set a technology curfew: Establish a nightly schedule that involves ceasing the use of el...</p></details>
+   Link:<a href="https://www.sleepfoundation.org/children-and-sleep/how-blue-light-affects-kids-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/children-and-sleep/how-blue-light-affects-kids-sleep</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Blue Light Affects Kids&#x27; Sleep23 Jul 2025 — Set a technology curfew: Establish a nightly schedule that involves ceasing the use of el...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: sleepfoundation.org  
-   Link: <a href="https://www.sleepfoundation.org/teens-and-sleep/screen-time-and-insomnia-for-teens" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/teens-and-sleep/screen-time-and-insomnia-for-teens</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>By delaying the release of melatonin, screen time lengthens the time it takes to fall asleep.Read more...</p></details>
+   Link:<a href="https://www.sleepfoundation.org/teens-and-sleep/screen-time-and-insomnia-for-teens" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/teens-and-sleep/screen-time-and-insomnia-for-teens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>By delaying the release of melatonin, screen time lengthens the time it takes to fall asleep.Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: sleepfoundation.org  
    Title: watching tv before sleep most popular bedtime routine  
-   Link: <a href="https://www.sleepfoundation.org/sleep-news/watching-tv-before-sleep-most-popular-bedtime-routine" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/sleep-news/watching-tv-before-sleep-most-popular-bedtime-routine</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Do We All Still Watch TV Before Bed?8 Jul 2022 — Watching television is by far the most popular bedtime ritual for US adults, cited a...</p></details>
+   Link:<a href="https://www.sleepfoundation.org/sleep-news/watching-tv-before-sleep-most-popular-bedtime-routine" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/sleep-news/watching-tv-before-sleep-most-popular-bedtime-routine</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Do We All Still Watch TV Before Bed?8 Jul 2022 — Watching television is by far the most popular bedtime ritual for US adults, cited a...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/339152901_Effect_of_restricting_bedtime_mobile_phone_use_on_sleep_arousal_mood_and_working_memory_A_randomized_pilot_trial" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/339152901_Effect_of_restricting_bedtime_mobile_phone_use_on_sleep_arousal_mood_and_working_memory_A_randomized_pilot_trial</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of restricting bedtime mobile phone use on sleep...10 Feb 2020 — Restricting mobile phone use close to bedtime reduced sleep late...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/339152901_Effect_of_restricting_bedtime_mobile_phone_use_on_sleep_arousal_mood_and_working_memory_A_randomized_pilot_trial" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/339152901_Effect_of_restricting_bedtime_mobile_phone_use_on_sleep_arousal_mood_and_working_memory_A_randomized_pilot_trial</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of restricting bedtime mobile phone use on sleep...10 Feb 2020 — Restricting mobile phone use close to bedtime reduced sleep late...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: thensf.org  
-   Link: <a href="https://www.thensf.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.thensf.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Sleep FoundationExercise regularly for better sleep. Aim for 30 minutes a day, 5 days a week. 3. Mealtimes. Eat your meals at co...</p></details>
+   Link:<a href="https://www.thensf.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.thensf.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Sleep FoundationExercise regularly for better sleep. Aim for 30 minutes a day, 5 days a week. 3. Mealtimes. Eat your meals at co...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: sleephealthfoundation.org.au  
-   Link: <a href="https://www.sleephealthfoundation.org.au/sleep-topics/technology-and-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.sleephealthfoundation.org.au/sleep-topics/technology-and-sleep</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Technology and SleepTechnology use in the evenings may delay bedtime and interfere with sleep. Using a bright screen for 1.5 hours or mor...</p></details>
+   Link:<a href="https://www.sleephealthfoundation.org.au/sleep-topics/technology-and-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.sleephealthfoundation.org.au/sleep-topics/technology-and-sleep</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Technology and SleepTechnology use in the evenings may delay bedtime and interfere with sleep. Using a bright screen for 1.5 hours or mor...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/PsychologicalTricks/comments/114kc1x/pt_breathing_intervention_before_socialmediaapps/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/PsychologicalTricks/comments/114kc1x/pt_breathing_intervention_before_socialmediaapps/</a>  
+   Link:<a href="https://www.reddit.com/r/PsychologicalTricks/comments/114kc1x/pt_breathing_intervention_before_socialmediaapps/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/PsychologicalTricks/comments/114kc1x/pt_breathing_intervention_before_socialmediaapps/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: nmhs.net  
-   Link: <a href="https://www.nmhs.net/Blog/Avoid-Screentime-90-Minutes-Before-Bed" target="_blank" rel="noopener noreferrer nofollow">https://www.nmhs.net/Blog/Avoid-Screentime-90-Minutes-Before-Bed</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scrolling on your phone in bed before drifting off may be a very difficult habit...Read more...</p></details>
+   Link:<a href="https://www.nmhs.net/Blog/Avoid-Screentime-90-Minutes-Before-Bed" target="_blank" rel="noopener noreferrer nofollow">https://www.nmhs.net/Blog/Avoid-Screentime-90-Minutes-Before-Bed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scrolling on your phone in bed before drifting off may be a very difficult habit...Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: However, those under 30 years of age were  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3836340/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3836340/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep and Technology Use of Americans - PMC - NIHby M Gradisar · 2013 · Cited by 783 — Nine of 10 Americans reported using a technologica...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3836340/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3836340/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep and Technology Use of Americans - PMC - NIHby M Gradisar · 2013 · Cited by 783 — Nine of 10 Americans reported using a technologica...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: hcahoustonhealthcare.com  
    Title: screen time before bed how tech affects sleep habits  
-   Link: <a href="https://www.hcahoustonhealthcare.com/healthy-living/blog/screen-time-before-bed-how-tech-affects-sleep-habits" target="_blank" rel="noopener noreferrer nofollow">https://www.hcahoustonhealthcare.com/healthy-living/blog/screen-time-before-bed-how-tech-affects-sleep-habits</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Screen time before bed: How tech affects sleep habits2 Mar 2025 — Screen time before bed is common. But experts agree it can prevent you...</p></details>
+   Link:<a href="https://www.hcahoustonhealthcare.com/healthy-living/blog/screen-time-before-bed-how-tech-affects-sleep-habits" target="_blank" rel="noopener noreferrer nofollow">https://www.hcahoustonhealthcare.com/healthy-living/blog/screen-time-before-bed-how-tech-affects-sleep-habits</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Screen time before bed: How tech affects sleep habits2 Mar 2025 — Screen time before bed is common. But experts agree it can prevent you...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: sutterhealth.org  
    Title: screens and your sleep the impact of nighttime use  
-   Link: <a href="https://www.sutterhealth.org/health/screens-and-your-sleep-the-impact-of-nighttime-use" target="_blank" rel="noopener noreferrer nofollow">https://www.sutterhealth.org/health/screens-and-your-sleep-the-impact-of-nighttime-use</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Screens Affect Your SleepMar 2, 2026 — Studies show that two or more hours of screen time in the evening can seriously disrupt the me...</p></details>
+   Link:<a href="https://www.sutterhealth.org/health/screens-and-your-sleep-the-impact-of-nighttime-use" target="_blank" rel="noopener noreferrer nofollow">https://www.sutterhealth.org/health/screens-and-your-sleep-the-impact-of-nighttime-use</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Screens Affect Your SleepMar 2, 2026 — Studies show that two or more hours of screen time in the evening can seriously disrupt the me...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DVq6L2qGtHt/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVq6L2qGtHt/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Do you find yourself scrolling through your phone before...Power down screens: Avoid screens for at least 30-60 minutes before bed...</p></details>
+   Link:<a href="https://www.instagram.com/p/DVq6L2qGtHt/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVq6L2qGtHt/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Do you find yourself scrolling through your phone before...Power down screens: Avoid screens for at least 30-60 minutes before bed...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/368573395_Directing_smartphone_use_through_the_self-nudge_app_one_sec" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/368573395_Directing_smartphone_use_through_the_self-nudge_app_one_sec</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Directing smartphone use through the self-nudge app one...In sum, one sec decreased users&#x27; actual opening of target apps by 57% after si...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/368573395_Directing_smartphone_use_through_the_self-nudge_app_one_sec" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/368573395_Directing_smartphone_use_through_the_self-nudge_app_one_sec</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directing smartphone use through the self-nudge app one...In sum, one sec decreased users&#x27; actual opening of target apps by 57% after si...</p></details>

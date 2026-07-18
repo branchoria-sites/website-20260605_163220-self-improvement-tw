@@ -505,24 +505,24 @@ image: /assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f-ov
 The [Behaviour Change]({{ 'behaviour-change/' | relative_url }}) Technique Taxonomy, often shortened to BCT Taxonomy or BCTTv1, is a practical way to translate self-improvement advice into testable ingredients. Instead of saying “be more disciplined”, it asks what is actually being used: goal setting, action planning, prompts, self-monitoring, feedback, [social support]({{ 'social-support/' | relative_url }}), rewards, environmental restructuring, or something else. That shift matters because everyday change is easier to improve when it can be named, observed and adjusted.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f-overview.webp" | relative_url }}" alt="Overview image for Techniques" loading="eager" decoding="sync" fetchpriority="high">
-For non-specialists, the taxonomy is best understood as a labelled parts list for behaviour change. Its first major version organised 93 behaviour change techniques into 16 groups, giving researchers and practitioners a shared language for describing what an intervention contains. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8911 — &quot;BCT taxonomy v1,&quot; an extensive taxonomy...</span></span></span> Used well, it helps people separate the active ingredient from the slogan. Used badly, it can become a long menu of impressive-sounding techniques with no clear diagnosis of the behaviour problem.
+For non-specialists, the taxonomy is best understood as a labelled parts list for behaviour change. Its first major version organised 93 behaviour change techniques into 16 groups, giving researchers and practitioners a shared language for describing what an intervention contains.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8911 — &quot;BCT taxonomy v1,&quot; an extensive taxonomy...</span></span></span> Used well, it helps people separate the active ingredient from the slogan. Used badly, it can become a long menu of impressive-sounding techniques with no clear diagnosis of the behaviour problem.
 
 ## Why techniques matter
 
 Most self-improvement advice is packaged as a principle: build habits, get motivated, stay accountable, become consistent. Those ideas may be useful, but they are too broad to test on their own. The taxonomy pushes the question one level lower: what exactly is being changed in the person’s situation, skill, attention, reward, plan or [feedback]({{ 'feedback/' | relative_url }}) loop?
 
-That is why BCTTv1 became influential. The original taxonomy was developed because behaviour-change interventions were often described too vaguely for others to replicate or evaluate. If a study simply says it used “counselling”, “education” or “[support]({{ 'support/' | relative_url }})”, a reader cannot tell whether the actual intervention involved setting behavioural goals, practising skills, reviewing progress, adding prompts, changing the [environment]({{ 'environment/' | relative_url }}), or all of these at once. The taxonomy was designed to make that content explicit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openaccess.city.ac.uk/id/eprint/3293/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openaccess.city.ac.uk">[City Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openaccess.city.ac.uk</span><span class="citation-popover-snippet">City Research OnlineThe Behavior Change Technique Taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8903 — Objectives: The objective o...</span></span></span>
+That is why BCTTv1 became influential. The original taxonomy was developed because behaviour-change interventions were often described too vaguely for others to replicate or evaluate. If a study simply says it used “counselling”, “education” or “[support]({{ 'support/' | relative_url }})”, a reader cannot tell whether the actual intervention involved setting behavioural goals, practising skills, reviewing progress, adding prompts, changing the [environment]({{ 'environment/' | relative_url }}), or all of these at once. The taxonomy was designed to make that content explicit.<span class="citation-chip-wrap"><a class="citation-chip" href="https://openaccess.city.ac.uk/id/eprint/3293/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openaccess.city.ac.uk">[City Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openaccess.city.ac.uk</span><span class="citation-popover-snippet">City Research OnlineThe Behavior Change Technique Taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8903 — Objectives: The objective o...</span></span></span>
 
 For self improvement, this changes the quality of the question. “Why can’t I stick to this?” becomes “Which ingredient is missing?” A person trying to exercise after work may not need more inspiration; they may need an action plan, a cue, reduced friction, social support, or feedback that makes progress visible. A person trying to spend less at night may not need a new identity; they may need to remove saved card details, set a spending rule, monitor purchases, or create a competing routine.
 
-This also makes self-help claims more honest. A book, app, course or coach can be asked: which behaviour change techniques are being used, and why those ones? NICE guidance on individual behaviour-change approaches explicitly names groups such as goals and planning, feedback and monitoring, and social support as relevant intervention components, rather than treating behaviour change as a matter of persuasion alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nice.org.uk/guidance/ph49" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nice.org.uk">[NICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nice.org.uk</span><span class="citation-popover-snippet">Open source on nice.org.uk.</span></span></span>
+This also makes self-help claims more honest. A book, app, course or coach can be asked: which behaviour change techniques are being used, and why those ones? NICE guidance on individual behaviour-change approaches explicitly names groups such as goals and planning, feedback and monitoring, and social support as relevant intervention components, rather than treating behaviour change as a matter of persuasion alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nice.org.uk/guidance/ph49" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nice.org.uk">[NICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nice.org.uk</span><span class="citation-popover-snippet">Open source on nice.org.uk.</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f-Illustration-1-dark.svg" | relative_url }}" alt="Techniques illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Examples from the taxonomy
 
 The taxonomy is large, but non-specialists do not need to memorise 93 labels. The useful starting point is to recognise common families of techniques and notice how they differ in real life.
 
-**Goals and planning.** This family includes setting a behavioural goal, setting an outcome goal, action planning, problem solving, reviewing goals and related techniques. The difference between a vague wish and an action plan is concrete. “Get healthier” is an aspiration; “walk for 20 minutes after lunch on Monday, Wednesday and Friday” is closer to action planning because it specifies what will happen and when. The taxonomy’s wording matters here because action planning is not merely wanting an outcome; it involves planning the performance of the behaviour in context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalwellbeing.org">[digitalwellbeing.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalwellbeing.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Goals and planning.** This family includes setting a behavioural goal, setting an outcome goal, action planning, problem solving, reviewing goals and related techniques. The difference between a vague wish and an action plan is concrete. “Get healthier” is an aspiration; “walk for 20 minutes after lunch on Monday, Wednesday and Friday” is closer to action planning because it specifies what will happen and when. The taxonomy’s wording matters here because action planning is not merely wanting an outcome; it involves planning the performance of the behaviour in context.<span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalwellbeing.org">[digitalwellbeing.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalwellbeing.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 **Feedback and monitoring.** Self-monitoring of behaviour, feedback on behaviour, self-monitoring of outcomes and biofeedback all live in this zone. A sleep diary, a step count, a budgeting spreadsheet or a habit tracker is not automatically transformative, but it can make invisible patterns visible. The strongest use is not surveillance for its own sake; it is information that helps the person adjust the next attempt.
 
@@ -534,7 +534,7 @@ The taxonomy is large, but non-specialists do not need to memorise 93 labels. Th
 
 **Environmental restructuring.** This is one of the most practically useful ideas for self improvement. It means changing the physical or social environment so the desired behaviour becomes easier or the unwanted behaviour becomes harder. Examples include keeping fruit visible, blocking distracting websites during work hours, charging the phone outside the bedroom, or choosing a route home that does not pass the shop where impulse spending usually happens.
 
-The point is not to collect techniques. It is to identify the smallest plausible ingredient that changes what happens next. That is why the official BCT training site presents the taxonomy as a way to familiarise users with labels, definitions and examples, and to apply those labels more reliably. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bct-taxonomy.com/about" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bct-taxonomy.com">[bct-taxonomy.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bct-taxonomy.com</span><span class="citation-popover-snippet">Behaviour Change Technique TaxonomyThus BCTTv1 offers a generally reliable method for specifying, interpreting and implementing the activ...</span></span></span>
+The point is not to collect techniques. It is to identify the smallest plausible ingredient that changes what happens next. That is why the official BCT training site presents the taxonomy as a way to familiarise users with labels, definitions and examples, and to apply those labels more reliably.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bct-taxonomy.com/about" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bct-taxonomy.com">[bct-taxonomy.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bct-taxonomy.com</span><span class="citation-popover-snippet">Behaviour Change Technique TaxonomyThus BCTTv1 offers a generally reliable method for specifying, interpreting and implementing the activ...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/44YPG97nt_c" title="BCT workshop 2021 Session 2: The Development of the BCTTv1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=44YPG97nt_c" target="_blank" rel="noopener noreferrer">BCT workshop 2021 Session 2: The Development of the BCTTv1</a></p><p class="youtube-embed-meta">Channel: UCL Centre for Behaviour Change &middot; Views: 1.1K &middot; Uploaded: September 2021 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=44YPG97nt_c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=44YPG97nt_c">Open on YouTube</a></p></div></div></div>
 
@@ -542,11 +542,11 @@ The point is not to collect techniques. It is to identify the smallest plausible
 
 The taxonomy itself is not a claim that all 93 techniques work equally well. It is a classification system. Its value is that it makes research and practice more comparable: once intervention content is described in the same language, researchers can ask which ingredients appear in more effective programmes.
 
-Evidence from healthy eating and physical activity research has repeatedly pointed towards self-regulatory techniques such as goal setting, self-monitoring, feedback and review of goals as important candidates. A review summary of Michie and colleagues’ 2009 meta-regression reported support for self-monitoring of behaviour alongside other techniques in interventions promoting physical activity and healthy eating, while also noting methodological cautions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK77075/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span> A later meta-review of self-regulatory techniques found that commonly reported components included self-monitoring, feedback on performance, goal setting and review of goals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Evidence from healthy eating and physical activity research has repeatedly pointed towards self-regulatory techniques such as goal setting, self-monitoring, feedback and review of goals as important candidates. A review summary of Michie and colleagues’ 2009 meta-regression reported support for self-monitoring of behaviour alongside other techniques in interventions promoting physical activity and healthy eating, while also noting methodological cautions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK77075/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span> A later meta-review of self-regulatory techniques found that commonly reported components included self-monitoring, feedback on performance, goal setting and review of goals.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Action planning is another useful example because it is simple enough for non-specialists to understand and specific enough to study. A 2022 review described action planning as a brief behaviour change technique used to improve physical activity and diet behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bmjopen.bmj.com/content/12/8/e058229" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmjopen.bmj.com">[BMJ Open]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmjopen.bmj.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In everyday terms, that means moving from “I should exercise more” to “after I close my laptop at 5.30 pm, I will put on my trainers and walk the same 15-minute route before dinner.”
+Action planning is another useful example because it is simple enough for non-specialists to understand and specific enough to study. A 2022 review described action planning as a brief behaviour change technique used to improve physical activity and diet behaviour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bmjopen.bmj.com/content/12/8/e058229" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmjopen.bmj.com">[BMJ Open]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmjopen.bmj.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In everyday terms, that means moving from “I should exercise more” to “after I close my laptop at 5.30 pm, I will put on my trainers and walk the same 15-minute route before dinner.”
 
-The evidence is not perfectly tidy. Techniques do not operate in isolation from the person, context, behaviour or delivery method. One review of interventions for older adults found that some self-regulatory techniques associated with success in younger adults were not necessarily associated with better physical activity or self-efficacy in older adults. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.manchester.ac.uk/en/publications/which-behaviour-change-techniques-are-most-effective-at-increasin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.manchester.ac.uk">[Research Explorer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.manchester.ac.uk</span><span class="citation-popover-title">which behaviour change techniques are most effective at increasin</span><span class="citation-popover-snippet">which behaviour change techniques are most effective at increasin</span></span></span> This is a useful warning for self improvement: a technique is not a universal button. It is an ingredient that needs to match the behaviour problem.
+The evidence is not perfectly tidy. Techniques do not operate in isolation from the person, context, behaviour or delivery method. One review of interventions for older adults found that some self-regulatory techniques associated with success in younger adults were not necessarily associated with better physical activity or self-efficacy in older adults.<span class="citation-chip-wrap"><a class="citation-chip" href="https://research.manchester.ac.uk/en/publications/which-behaviour-change-techniques-are-most-effective-at-increasin" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.manchester.ac.uk">[Research Explorer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.manchester.ac.uk</span><span class="citation-popover-title">which behaviour change techniques are most effective at increasin</span><span class="citation-popover-snippet">which behaviour change techniques are most effective at increasin</span></span></span> This is a useful warning for self improvement: a technique is not a universal button. It is an ingredient that needs to match the behaviour problem.
 
 A good non-specialist reading of the evidence is therefore cautious but practical. Techniques such as goal setting, self-monitoring, feedback, action planning, prompts and social support are worth knowing because they recur across evidence-based interventions. But the taxonomy does not say “use all of these” or “this one always works”. It says: name the ingredient, apply it deliberately, observe whether behaviour changes, and revise.
 
@@ -568,7 +568,7 @@ A better approach is to start with a behavioural diagnosis. Ask what is blocking
 
 </div>
 
-This is where the taxonomy fits naturally with the Behaviour Change Wheel and COM-B model, which frame behaviour as depending on capability, opportunity and [motivation]({{ 'motivation/' | relative_url }}). The Behaviour Change Wheel site describes a systematic route from understanding the target behaviour to choosing intervention functions and then specific behaviour change techniques. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.behaviourchangewheel.com/about-wheel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behaviourchangewheel.com">[Behaviour Change Wheel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behaviourchangewheel.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> For self improvement, the plain version is: do not pick a technique because it sounds clever; pick it because it addresses the reason the behaviour is not happening.
+This is where the taxonomy fits naturally with the Behaviour Change Wheel and COM-B model, which frame behaviour as depending on capability, opportunity and [motivation]({{ 'motivation/' | relative_url }}). The Behaviour Change Wheel site describes a systematic route from understanding the target behaviour to choosing intervention functions and then specific behaviour change techniques.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.behaviourchangewheel.com/about-wheel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behaviourchangewheel.com">[Behaviour Change Wheel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behaviourchangewheel.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> For self improvement, the plain version is: do not pick a technique because it sounds clever; pick it because it addresses the reason the behaviour is not happening.
 
 A concrete example shows the difference. Suppose someone wants to read before bed but keeps scrolling. A weak plan says: “Be more disciplined.” A taxonomy-informed plan might combine three ingredients: environmental restructuring by charging the phone outside the bedroom, a prompt by placing the book on the pillow, and self-monitoring by marking each successful night on a calendar. If that still fails because the book feels too demanding when tired, the next adjustment might be graded tasks: two pages count as success.
 
@@ -578,11 +578,11 @@ The same logic applies to unwanted behaviours. Someone trying to reduce impulse 
 
 ## What non-specialists should not overclaim
 
-The taxonomy is powerful, but it has limits. First, it describes intervention content; it does not, by itself, explain the psychological mechanism. The original BCTTv1 paper explicitly treated the taxonomy as a methodological tool for specifying content, not as a theory that automatically links each technique to a causal pathway. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dhi.ac.uk/san/waysofbeing/data/health-jones-michie-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dhi.ac.uk">[DHI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dhi.ac.uk</span><span class="citation-popover-title">DHIThe Behavior Change Technique Taxonomy (v1) of 93</span><span class="citation-popover-snippet">DHIThe Behavior Change Technique Taxonomy (v1) of 93</span></span></span>
+The taxonomy is powerful, but it has limits. First, it describes intervention content; it does not, by itself, explain the psychological mechanism. The original BCTTv1 paper explicitly treated the taxonomy as a methodological tool for specifying content, not as a theory that automatically links each technique to a causal pathway.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dhi.ac.uk/san/waysofbeing/data/health-jones-michie-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dhi.ac.uk">[DHI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dhi.ac.uk</span><span class="citation-popover-title">DHIThe Behavior Change Technique Taxonomy (v1) of 93</span><span class="citation-popover-snippet">DHIThe Behavior Change Technique Taxonomy (v1) of 93</span></span></span>
 
-That gap has partly been addressed by later work linking behaviour change techniques to mechanisms of action. The Theory and Techniques Tool, for example, presents evidence-informed links between BCTs and mechanisms of action using literature synthesis and expert consensus. <span class="citation-chip-wrap"><a class="citation-chip" href="https://theoryandtechniquetool.humanbehaviourchange.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theoryandtechniquetool.humanbehaviourchange.org">[Theory and Techniques Tool]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theoryandtechniquetool.humanbehaviourchange.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> For a non-specialist, this means the taxonomy can tell you what you are using, while mechanism tools can help you think about why it might work.
+That gap has partly been addressed by later work linking behaviour change techniques to mechanisms of action. The Theory and Techniques Tool, for example, presents evidence-informed links between BCTs and mechanisms of action using literature synthesis and expert consensus.<span class="citation-chip-wrap"><a class="citation-chip" href="https://theoryandtechniquetool.humanbehaviourchange.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theoryandtechniquetool.humanbehaviourchange.org">[Theory and Techniques Tool]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theoryandtechniquetool.humanbehaviourchange.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> For a non-specialist, this means the taxonomy can tell you what you are using, while mechanism tools can help you think about why it might work.
 
-Second, identifying techniques reliably takes training. In one reliability study, trained coders identified many BCTs across intervention descriptions and achieved good agreement for a substantial proportion of techniques, but the work also shows that coding is a skill rather than a casual reading exercise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK327611/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span> Another study specifically evaluated training because reliable and valid application of BCTTv1 is not automatic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s13142-014-0290-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Open source on springer.com.</span></span></span>
+Second, identifying techniques reliably takes training. In one reliability study, trained coders identified many BCTs across intervention descriptions and achieved good agreement for a substantial proportion of techniques, but the work also shows that coding is a skill rather than a casual reading exercise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncbi.nlm.nih.gov/books/NBK327611/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span> Another study specifically evaluated training because reliable and valid application of BCTTv1 is not automatic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1007/s13142-014-0290-z" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Open source on springer.com.</span></span></span>
 
 Third, self-improvement settings are messy. A technique that works in a structured programme may be weaker when self-delivered through a phone note, app or casual promise. The taxonomy allows BCTs to be delivered by an interventionist or self-delivered, but delivery quality still matters. A prompt that is ignored, a goal that is unrealistic, a reward that feels childish, or self-monitoring that produces shame rather than learning may not help.
 
@@ -608,269 +608,269 @@ This is the practical payoff of the taxonomy for [self improvement that works]({
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TJXUkSPNihc" title="BCT workshop 2021 Session 1: The Behaviour Change Technique Taxonomy (BCTTv1)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TJXUkSPNihc" target="_blank" rel="noopener noreferrer">BCT workshop 2021 Session 1: The Behaviour Change Technique Taxonomy (BCTTv1)</a></p><p class="youtube-embed-meta">Channel: UCL Centre for Behaviour Change &middot; Views: 6.9K &middot; Uploaded: September 2021 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TJXUkSPNihc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TJXUkSPNihc">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Are the Active Ingredients of Change?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Are the Active Ingredients of Change?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Translates behaviour-change principles into identifiable techniques.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Translates behaviour-change principles into identifiable techniques.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
-        </h4>
-        <p class="fr-book-author">By B. J. Fogg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
+</h4>
+<p class="fr-book-author">By B. J. Fogg</p>
         
-        <p class="fr-book-desc">Closely aligns with behaviour change mechanisms and intervention design.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Closely aligns with behaviour change mechanisms and intervention design.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Carol S. Dweck</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
-        <p class="fr-book-desc">Addresses beliefs and learning approaches that support improvement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
+</h4>
+<p class="fr-book-author">By Carol S. Dweck</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
+<p class="fr-book-desc">Addresses beliefs and learning approaches that support improvement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
-        </h4>
-        <p class="fr-book-author">By Charles Duhigg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
+</h4>
+<p class="fr-book-author">By Charles Duhigg</p>
         
-        <p class="fr-book-desc">Explains how behavioural patterns form and change.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how behavioural patterns form and change.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Metal Tin Retro Sign Motivational Quotes Plaque Vintage Wall Home Décor 20x30 cm"><img src="{{ '/assets/images/marketplace-covers/a59032d1abc67685ff2e.jpg' | relative_url }}" alt="Listing image for Metal Tin Retro Sign Motivational Quotes Plaque Vintage Wall Home Décor 20x30 cm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Metal Tin Retro Sign Motivational Quotes Plaque Vintage Wall Home Décor 20x30 cm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivation wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivation wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Metal Tin Retro Sign Motivational Quotes Plaque Vintage Wall Home Décor 20x30 cm"><img src="{{ '/assets/images/marketplace-covers/a59032d1abc67685ff2e.jpg' | relative_url }}" alt="Listing image for Metal Tin Retro Sign Motivational Quotes Plaque Vintage Wall Home Décor 20x30 cm" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Metal Tin Retro Sign Motivational Quotes Plaque Vintage Wall Home Décor 20x30 cm</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivation wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivation wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Door sign Motivation Believe wall art - Inspirational - Believe"><img src="{{ '/assets/images/marketplace-covers/4b71aef576e2e7d39c10.jpg' | relative_url }}" alt="Listing image for Door sign Motivation Believe wall art - Inspirational - Believe" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Door sign Motivation Believe wall art - Inspirational - Believe</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivation wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivation wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Door sign Motivation Believe wall art - Inspirational - Believe"><img src="{{ '/assets/images/marketplace-covers/4b71aef576e2e7d39c10.jpg' | relative_url }}" alt="Listing image for Door sign Motivation Believe wall art - Inspirational - Believe" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Door sign Motivation Believe wall art - Inspirational - Believe</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivation wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivation wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Always Remember You Are Braver Smarter Quote Metal Wall Sign Plaque Motivational"><img src="{{ '/assets/images/marketplace-covers/cebd065b81dcca9ed53e.jpg' | relative_url }}" alt="Listing image for Always Remember You Are Braver Smarter Quote Metal Wall Sign Plaque Motivational" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Always Remember You Are Braver Smarter Quote Metal Wall Sign Plaque Motivational</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivation wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivation wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Always Remember You Are Braver Smarter Quote Metal Wall Sign Plaque Motivational"><img src="{{ '/assets/images/marketplace-covers/cebd065b81dcca9ed53e.jpg' | relative_url }}" alt="Listing image for Always Remember You Are Braver Smarter Quote Metal Wall Sign Plaque Motivational" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Always Remember You Are Braver Smarter Quote Metal Wall Sign Plaque Motivational</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivation wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivation wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Watch Your Thoughts Motivational Quote Vintage Metal Wall Sign Plaque Home decor"><img src="{{ '/assets/images/marketplace-covers/52187ef8dec8406613eb.jpg' | relative_url }}" alt="Listing image for Watch Your Thoughts Motivational Quote Vintage Metal Wall Sign Plaque Home decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Watch Your Thoughts Motivational Quote Vintage Metal Wall Sign Plaque Home decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivation wall sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivation wall sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Watch Your Thoughts Motivational Quote Vintage Metal Wall Sign Plaque Home decor"><img src="{{ '/assets/images/marketplace-covers/52187ef8dec8406613eb.jpg' | relative_url }}" alt="Listing image for Watch Your Thoughts Motivational Quote Vintage Metal Wall Sign Plaque Home decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Watch Your Thoughts Motivational Quote Vintage Metal Wall Sign Plaque Home decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivation wall sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivation wall sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivation+wall+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=techniques-what-are-the-active-ingredients-of-change-self-improvement-that-works-motivation-wall-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -886,7 +886,7 @@ This is the practical payoff of the taxonomy for [self improvement that works]({
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -906,7 +906,7 @@ This is the practical payoff of the taxonomy for [self improvement that works]({
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -938,7 +938,7 @@ This is the practical payoff of the taxonomy for [self improvement that works]({
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -968,7 +968,7 @@ This is the practical payoff of the taxonomy for [self improvement that works]({
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -1026,169 +1026,169 @@ This is the practical payoff of the taxonomy for [self improvement that works]({
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: bct-taxonomy.com  
-   Link: <a href="https://www.bct-taxonomy.com/about" target="_blank" rel="noopener noreferrer nofollow">https://www.bct-taxonomy.com/about</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour Change Technique TaxonomyThus BCTTv1 offers a generally reliable method for specifying, interpreting and implementing the activ...</p></details>
+   Link:<a href="https://www.bct-taxonomy.com/about" target="_blank" rel="noopener noreferrer nofollow">https://www.bct-taxonomy.com/about</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour Change Technique TaxonomyThus BCTTv1 offers a generally reliable method for specifying, interpreting and implementing the activ...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nice.org.uk  
-   Link: <a href="https://www.nice.org.uk/guidance/ph49" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/ph49</a>  
+   Link:<a href="https://www.nice.org.uk/guidance/ph49" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/ph49</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nice.org.uk  
-   Link: <a href="https://www.nice.org.uk/guidance/ph49/chapter/recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/ph49/chapter/recommendations</a>  
+   Link:<a href="https://www.nice.org.uk/guidance/ph49/chapter/recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/ph49/chapter/recommendations</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: digitalwellbeing.org  
-   Link: <a href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf</a>  
+   Link:<a href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: bct-taxonomy.com  
-   Link: <a href="https://www.bct-taxonomy.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.bct-taxonomy.com/</a>  
+   Link:<a href="https://www.bct-taxonomy.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.bct-taxonomy.com/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK77075/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK77075/</a>  
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK77075/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK77075/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: bmjopen.bmj.com  
-   Link: <a href="https://bmjopen.bmj.com/content/12/8/e058229" target="_blank" rel="noopener noreferrer nofollow">https://bmjopen.bmj.com/content/12/8/e058229</a>  
+   Link:<a href="https://bmjopen.bmj.com/content/12/8/e058229" target="_blank" rel="noopener noreferrer nofollow">https://bmjopen.bmj.com/content/12/8/e058229</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: dhi.ac.uk  
    Title: DHIThe Behavior Change Technique Taxonomy (v1) of 93  
-   Link: <a href="https://www.dhi.ac.uk/san/waysofbeing/data/health-jones-michie-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dhi.ac.uk/san/waysofbeing/data/health-jones-michie-2013.pdf</a>  
+   Link:<a href="https://www.dhi.ac.uk/san/waysofbeing/data/health-jones-michie-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dhi.ac.uk/san/waysofbeing/data/health-jones-michie-2013.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK327611/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK327611/</a>  
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK327611/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK327611/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1007/s13142-014-0290-z" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s13142-014-0290-z</a>  
+   Link:<a href="https://link.springer.com/article/10.1007/s13142-014-0290-z" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s13142-014-0290-z</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: bmjopen.bmj.com  
-   Link: <a href="https://bmjopen.bmj.com/content/10/9/e036500" target="_blank" rel="noopener noreferrer nofollow">https://bmjopen.bmj.com/content/10/9/e036500</a>  
+   Link:<a href="https://bmjopen.bmj.com/content/10/9/e036500" target="_blank" rel="noopener noreferrer nofollow">https://bmjopen.bmj.com/content/10/9/e036500</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: bct-taxonomy.com  
-   Link: <a href="https://www.bct-taxonomy.com/pdf/StarterPack.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bct-taxonomy.com/pdf/StarterPack.pdf</a>  
+   Link:<a href="https://www.bct-taxonomy.com/pdf/StarterPack.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bct-taxonomy.com/pdf/StarterPack.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1186/s13012-020-01015-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s13012-020-01015-w</a>  
+   Link:<a href="https://link.springer.com/article/10.1186/s13012-020-01015-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s13012-020-01015-w</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1186/s13012-015-0248-7" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s13012-015-0248-7</a>  
+   Link:<a href="https://link.springer.com/article/10.1186/s13012" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s13012</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1186/s12966-023-01555-6" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12966-023-01555-6</a>  
+   Link:<a href="https://link.springer.com/article/10.1186/s12966-023-01555-6" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12966-023-01555-6</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1186/s12966-017-0494-y" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12966-017-0494-y</a>  
+   Link:<a href="https://link.springer.com/article/10.1186/s12966-017-0494-y" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12966-017-0494-y</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1186/s12966-020-01001-x" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12966-020-01001-x</a>  
+   Link:<a href="https://link.springer.com/article/10.1186/s12966-020-01001-x" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12966-020-01001-x</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23512568/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8911 — &quot;BCT taxonomy v1,&quot; an extensive taxonomy...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23512568/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8911 — &quot;BCT taxonomy v1,&quot; an extensive taxonomy...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: openaccess.city.ac.uk  
-   Link: <a href="https://openaccess.city.ac.uk/id/eprint/3293/" target="_blank" rel="noopener noreferrer nofollow">https://openaccess.city.ac.uk/id/eprint/3293/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>City Research OnlineThe Behavior Change Technique Taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8903 — Objectives: The objective o...</p></details>
+   Link:<a href="https://openaccess.city.ac.uk/id/eprint/3293/" target="_blank" rel="noopener noreferrer nofollow">https://openaccess.city.ac.uk/id/eprint/3293/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>City Research OnlineThe Behavior Change Technique Taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8903 — Objectives: The objective o...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: research.manchester.ac.uk  
    Title: which behaviour change techniques are most effective at increasin  
-   Link: <a href="https://research.manchester.ac.uk/en/publications/which-behaviour-change-techniques-are-most-effective-at-increasin" target="_blank" rel="noopener noreferrer nofollow">https://research.manchester.ac.uk/en/publications/which-behaviour-change-techniques-are-most-effective-at-increasin</a>  
+   Link:<a href="https://research.manchester.ac.uk/en/publications/which-behaviour-change-techniques-are-most-effective-at-increasin" target="_blank" rel="noopener noreferrer nofollow">https://research.manchester.ac.uk/en/publications/which-behaviour-change-techniques-are-most-effective-at-increasin</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: behaviourchangewheel.com  
-   Link: <a href="https://www.behaviourchangewheel.com/about-wheel" target="_blank" rel="noopener noreferrer nofollow">https://www.behaviourchangewheel.com/about-wheel</a>  
+   Link:<a href="https://www.behaviourchangewheel.com/about-wheel" target="_blank" rel="noopener noreferrer nofollow">https://www.behaviourchangewheel.com/about-wheel</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: theoryandtechniquetool.humanbehaviourchange.org  
-   Link: <a href="https://theoryandtechniquetool.humanbehaviourchange.org/" target="_blank" rel="noopener noreferrer nofollow">https://theoryandtechniquetool.humanbehaviourchange.org/</a>  
+   Link:<a href="https://theoryandtechniquetool.humanbehaviourchange.org/" target="_blank" rel="noopener noreferrer nofollow">https://theoryandtechniquetool.humanbehaviourchange.org/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: sciencedirect.com  
    Title: Behavior Change Technique  
-   Link: <a href="https://www.sciencedirect.com/topics/psychology/behavior-change-technique" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/behavior-change-technique</a>  
+   Link:<a href="https://www.sciencedirect.com/topics/psychology/behavior-change-technique" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/behavior-change-technique</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: springermedizin.de  
-   Link: <a href="https://www.springermedizin.de/which-behavior-change-techniques-are-associated-with-changes-in-/9175042" target="_blank" rel="noopener noreferrer nofollow">https://www.springermedizin.de/which-behavior-change-techniques-are-associated-with-changes-in-/9175042</a>  
+   Link:<a href="https://www.springermedizin.de/which-behavior-change-techniques-are-associated-with-changes-in-/9175042" target="_blank" rel="noopener noreferrer nofollow">https://www.springermedizin.de/which-behavior-change-techniques-are-associated-with-changes-in-/9175042</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: play.google.com  
-   Link: <a href="https://play.google.com/store/apps/details?hl=en_US&amp;id=com.BCTTaxonomy" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_US&amp;id=com.BCTTaxonomy</a>  
+   Link:<a href="https://play.google.com/store/apps/details?hl=en_US&amp;id=com.BCTTaxonomy" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_US&amp;id=com.BCTTaxonomy</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: play.google.com  
-   Link: <a href="https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.BCTTaxonomy" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.BCTTaxonomy</a>  
+   Link:<a href="https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.BCTTaxonomy" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.BCTTaxonomy</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: humanbehaviourchange.org  
-   Link: <a href="https://www.humanbehaviourchange.org/training" target="_blank" rel="noopener noreferrer nofollow">https://www.humanbehaviourchange.org/training</a>  
+   Link:<a href="https://www.humanbehaviourchange.org/training" target="_blank" rel="noopener noreferrer nofollow">https://www.humanbehaviourchange.org/training</a>  
 
 ### Additional References
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=TJXUkSPNihc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TJXUkSPNihc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BCT workshop 2021 Session 3: Uses of the BCTTv1...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TJXUkSPNihc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TJXUkSPNihc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BCT workshop 2021 Session 3: Uses of the BCTTv1...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=44YPG97nt_c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=44YPG97nt_c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>15-minute Introduction to the Behaviour Change Wheel...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=44YPG97nt_c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=44YPG97nt_c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>15-minute Introduction to the Behaviour Change Wheel...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=L7YfgDozRAU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=L7YfgDozRAU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BCT workshop 2021 Session 2: The Development of the BCTTv1...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=L7YfgDozRAU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=L7YfgDozRAU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BCT workshop 2021 Session 2: The Development of the BCTTv1...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/361828493_Behaviour_change_techniques_in_cardiovascular_disease_smartphone_apps_to_improve_physical_activity_and_sedentary_behaviour_Systematic_review_and_meta-regression" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/361828493_Behaviour_change_techniques_in_cardiovascular_disease_smartphone_apps_to_improve_physical_activity_and_sedentary_behaviour_Systematic_review_and_meta-regression</a>  
+   Link:<a href="https://www.researchgate.net/publication/361828493_Behaviour_change_techniques_in_cardiovascular_disease_smartphone_apps_to_improve_physical_activity_and_sedentary_behaviour_Systematic_review_and_meta-regression" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/361828493_Behaviour_change_techniques_in_cardiovascular_disease_smartphone_apps_to_improve_physical_activity_and_sedentary_behaviour_Systematic_review_and_meta-regression</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/338793396_Self-regulatory_behavior_change_techniques_in_interventions_to_promote_healthy_eating_physical_activity_or_weight_loss_A_meta-review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/338793396_Self-regulatory_behavior_change_techniques_in_interventions_to_promote_healthy_eating_physical_activity_or_weight_loss_A_meta-review</a>  
+   Link:<a href="https://www.researchgate.net/publication/338793396_Self-regulatory_behavior_change_techniques_in_interventions_to_promote_healthy_eating_physical_activity_or_weight_loss_A_meta-review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/338793396_Self-regulatory_behavior_change_techniques_in_interventions_to_promote_healthy_eating_physical_activity_or_weight_loss_A_meta-review</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/321440716_Unique_Effects_of_Setting_Goals_on_Behavior_Change_Systematic_Review_and_Meta-Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/321440716_Unique_Effects_of_Setting_Goals_on_Behavior_Change_Systematic_Review_and_Meta-Analysis</a>  
+   Link:<a href="https://www.researchgate.net/publication/321440716_Unique_Effects_of_Setting_Goals_on_Behavior_Change_Systematic_Review_and_Meta-Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/321440716_Unique_Effects_of_Setting_Goals_on_Behavior_Change_Systematic_Review_and_Meta-Analysis</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/367325681_Behaviour_change_techniques_taxonomy_v1_Feedback_to_inform_the_development_of_an_ontology" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/367325681_Behaviour_change_techniques_taxonomy_v1_Feedback_to_inform_the_development_of_an_ontology</a>  
+   Link:<a href="https://www.researchgate.net/publication/367325681_Behaviour_change_techniques_taxonomy_v1_Feedback_to_inform_the_development_of_an_ontology" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/367325681_Behaviour_change_techniques_taxonomy_v1_Feedback_to_inform_the_development_of_an_ontology</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: phwwhocc.co.uk  
-   Link: <a href="https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf</a>  
+   Link:<a href="https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/21027165/Reliability_of_Identification_of_Behavior_Change_Techniques_in_Intervention_Descriptions" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/21027165/Reliability_of_Identification_of_Behavior_Change_Techniques_in_Intervention_Descriptions</a>  
+   Link:<a href="https://www.academia.edu/21027165/Reliability_of_Identification_of_Behavior_Change_Techniques_in_Intervention_Descriptions" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/21027165/Reliability_of_Identification_of_Behavior_Change_Techniques_in_Intervention_Descriptions</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: iresp.net  
-   Link: <a href="https://www.iresp.net/wp-content/uploads/2019/01/Michie-Workshop-France-2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iresp.net/wp-content/uploads/2019/01/Michie-Workshop-France-2016.pdf</a>
+   Link:<a href="https://www.iresp.net/wp-content/uploads/2019/01/Michie-Workshop-France-2016.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iresp.net/wp-content/uploads/2019/01/Michie-Workshop-France-2016.pdf</a>

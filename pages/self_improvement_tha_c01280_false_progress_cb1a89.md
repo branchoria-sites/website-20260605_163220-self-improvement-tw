@@ -505,7 +505,7 @@ image: /assets/images/self_improvement_tha_c01280_false_progress_cb1a89-overview
 Self-improvement theatre is the performance of change without the friction of change. It is what happens when reading, planning, organising, tracking apps, morning routines, productivity videos and identity language create a convincing sense of progress while ordinary behaviour stays much the same. The problem is not that learning or planning are useless. Both can help when they lead quickly into specific action, [feedback]({{ 'feedback/' | relative_url }}) and adjustment. The risk is that they can also become a safer substitute for the thing that would actually test the goal: writing the page, making the call, going for the walk, apologising, sleeping earlier, practising the skill, or changing the [environment]({{ 'environment/' | relative_url }}) that keeps pulling behaviour back to default.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_false_progress_cb1a89-overview.webp" | relative_url }}" alt="Overview image for False Progress" loading="eager" decoding="sync" fetchpriority="high">
-This matters because [self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}) is usually observable. It changes what a person does under real conditions, not just what they understand, intend or admire. Behaviour-change research repeatedly points towards active ingredients such as action planning, [goal setting]({{ 'goal-setting/' | relative_url }}), self-monitoring, prompts, feedback, problem-solving and graded tasks, all of which become meaningful only when they touch actual conduct. The gap between “I am working on myself” and “my daily pattern is changing” is where false progress lives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK567039/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This matters because [self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}) is usually observable. It changes what a person does under real conditions, not just what they understand, intend or admire. Behaviour-change research repeatedly points towards active ingredients such as action planning, [goal setting]({{ 'goal-setting/' | relative_url }}), self-monitoring, prompts, feedback, problem-solving and graded tasks, all of which become meaningful only when they touch actual conduct. The gap between “I am working on myself” and “my daily pattern is changing” is where false progress lives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK567039/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## The feeling of progress
 
@@ -524,11 +524,11 @@ There is also a measurement problem. Real behaviour has awkward evidence. Did th
 
 Planning becomes avoidance when it protects a person from the discomfort that the plan is supposed to solve. The core mechanism is simple: the real task carries some aversive feeling, while the planning task carries a more tolerable feeling. Planning a diet is less exposing than feeling hungry at 9 pm. Designing a study timetable is less frustrating than struggling through a hard problem. Creating a business plan is less vulnerable than contacting the first customer.
 
-This fits a major line of procrastination research: delay is often not just poor time management, but short-term mood regulation. Sirois and Pychyl’s work frames procrastination as giving priority to the present self’s mood over the future self’s interests; people avoid tasks partly because easier or more pleasant alternatives repair mood in the short term. That helps explain why “productive” avoidance is so sticky. It does not look like giving up. It looks like preparing responsibly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eprints.whiterose.ac.uk/id/eprint/91793/1/Compass%20Paper%20revision%20FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.whiterose.ac.uk">[White Rose Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.whiterose.ac.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This fits a major line of procrastination research: delay is often not just poor time management, but short-term mood regulation. Sirois and Pychyl’s work frames procrastination as giving priority to the present self’s mood over the future self’s interests; people avoid tasks partly because easier or more pleasant alternatives repair mood in the short term. That helps explain why “productive” avoidance is so sticky. It does not look like giving up. It looks like preparing responsibly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://eprints.whiterose.ac.uk/id/eprint/91793/1/Compass%20Paper%20revision%20FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.whiterose.ac.uk">[White Rose Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.whiterose.ac.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Self-improvement planning is especially good at disguising avoidance because it borrows the language of discipline. A person can say, truthfully, “I am getting organised.” But the useful question is: organised for what action, by when, and how will the action be checked? If those questions remain vague, planning has become a holding pattern.
 
-The planning fallacy adds a second trap. Classic work by Buehler, Griffin and Ross found that people often predict future task completion from an optimistic inside view, focusing on the story of how the task should unfold while neglecting relevant past evidence about how long similar tasks actually took. In [self improvement]({{ 'self-improvement-that-works/' | relative_url }}), this can make new plans feel more credible than they are. The person thinks, “This week will be different because the system is better,” without using base-rate evidence from previous abandoned systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://web.mit.edu/curhan/www/docs/Articles/biases/67_J_Personality_and_Social_Psychology_366%2C_1994.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: web.mit.edu">[Massachusetts Institute of Technology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">web.mit.edu</span><span class="citation-popover-snippet">Massachusetts Institute of Technology</span></span></span>
+The planning fallacy adds a second trap. Classic work by Buehler, Griffin and Ross found that people often predict future task completion from an optimistic inside view, focusing on the story of how the task should unfold while neglecting relevant past evidence about how long similar tasks actually took. In [self improvement]({{ 'self-improvement-that-works/' | relative_url }}), this can make new plans feel more credible than they are. The person thinks, “This week will be different because the system is better,” without using base-rate evidence from previous abandoned systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://web.mit.edu/curhan/www/docs/Articles/biases/67_J_Personality_and_Social_Psychology_366%2C_1994.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: web.mit.edu">[Massachusetts Institute of Technology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">web.mit.edu</span><span class="citation-popover-snippet">Massachusetts Institute of Technology</span></span></span>
 
 A better plan is not the one that feels most complete. It is the one that has made contact with reality soonest. A two-minute test often beats a two-hour redesign. For example:
 
@@ -547,11 +547,11 @@ These are not small because ambition is bad. They are small because they produce
 
 ## When self-help helps, and when it becomes theatre
 
-A fair critique of false progress should not dismiss self-help, books, worksheets or digital tools outright. Self-guided interventions can work in some contexts. For example, a systematic review and meta-analysis of self-help interventions for children and adolescents with common mental health difficulties found a moderate positive effect compared with control groups, while also warning that results varied and should be interpreted cautiously. Older clinical literature on self-help books similarly suggests that some self-help materials can change problematic behaviours, especially when paired with support and compliance with the actual exercises. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/30775782/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A fair critique of false progress should not dismiss self-help, books, worksheets or digital tools outright. Self-guided interventions can work in some contexts. For example, a systematic review and meta-analysis of self-help interventions for children and adolescents with common mental health difficulties found a moderate positive effect compared with control groups, while also warning that results varied and should be interpreted cautiously. Older clinical literature on self-help books similarly suggests that some self-help materials can change problematic behaviours, especially when paired with support and compliance with the actual exercises.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/30775782/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The dividing line is whether the material becomes an input to behaviour or a replacement for behaviour. A book is useful if it produces a changed cue, a changed response, a practised skill, a hard conversation, a completed exposure, a tracked behaviour, or a revised environment. It becomes theatre when the reader collects insight as a substitute for practice.
 
-Digital tools create the same tension. A 2024 systematic review of digital behaviour-change interventions for habit formation found that common techniques included prompts and cues, goal setting, self-monitoring, feedback and [social support]({{ 'social-support/' | relative_url }}). Those are potentially useful because they connect intention to repeated behaviour. But another review of self-determination theory in behaviour-change technologies warned that designers may optimise engagement with the technology itself rather than the target behaviour. In plain English: the app can become the habit. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-title">Journal of Medical Internet Research</span><span class="citation-popover-snippet">Journal of Medical Internet Research</span></span></span>
+Digital tools create the same tension. A 2024 systematic review of digital behaviour-change interventions for habit formation found that common techniques included prompts and cues, goal setting, self-monitoring, feedback and [social support]({{ 'social-support/' | relative_url }}). Those are potentially useful because they connect intention to repeated behaviour. But another review of self-determination theory in behaviour-change technologies warned that designers may optimise engagement with the technology itself rather than the target behaviour. In plain English: the app can become the habit.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-title">Journal of Medical Internet Research</span><span class="citation-popover-snippet">Journal of Medical Internet Research</span></span></span>
 
 That distinction is visible in everyday use. Logging meals can support better eating if the data changes shopping, portioning, timing or meal choices. Logging meals becomes theatre if the person records everything but never reviews patterns or alters the food environment. A habit streak can support consistency if it nudges the next repetition. It becomes theatre if protecting the streak matters more than the behaviour’s purpose. A journal can help if it clarifies triggers and commitments. It becomes theatre if the same reflections repeat for months without a changed response.
 
@@ -564,11 +564,11 @@ The cure for self-improvement theatre is not cynicism. It is better evidence. Re
 
 A useful test is the “calendar test”. If someone says a method is working, the calendar should show it. Not as a vague theme, but as concrete instances: three walks, two writing sessions, one difficult phone call, five nights with the phone out of the bedroom, four packed lunches, one appointment booked. The calendar does not capture everything important, but it exposes whether the goal has entered time.
 
-The “friction test” asks whether the environment has changed. Many intentions fail because the old surroundings keep making the old behaviour easy. A real self-improvement method often changes friction: snacks are no longer on the desk, the alarm is across the room, the app is blocked during writing hours, gym clothes are by the door, money moves automatically into savings, the first step is made visible. This is why behaviour-change taxonomies give attention to prompts, cues, self-monitoring, feedback and problem-solving rather than inspiration alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK567039/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The “friction test” asks whether the environment has changed. Many intentions fail because the old surroundings keep making the old behaviour easy. A real self-improvement method often changes friction: snacks are no longer on the desk, the alarm is across the room, the app is blocked during writing hours, gym clothes are by the door, money moves automatically into savings, the first step is made visible. This is why behaviour-change taxonomies give attention to prompts, cues, self-monitoring, feedback and problem-solving rather than inspiration alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK567039/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The “bad-day test” may be the most revealing. A plan that only works when life is calm is still fragile. Real improvement usually includes a minimum viable version for tired days: one paragraph instead of none, ten minutes of walking instead of an abandoned workout, a simple meal instead of takeaway, a short repair message instead of a perfect apology drafted forever. This is not lowering standards permanently. It is protecting continuity when motivation drops.
 
-The “review test” asks whether tracking changes decisions. Self-monitoring is not magic by itself. It matters because it creates feedback. If a person tracks sleep, spending, studying or exercise but never asks what pattern the data reveals, tracking has become decoration. In behaviour-change terms, monitoring should reveal discrepancy between current behaviour and the goal, then lead to changed strategy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK567039/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The “review test” asks whether tracking changes decisions. Self-monitoring is not magic by itself. It matters because it creates feedback. If a person tracks sleep, spending, studying or exercise but never asks what pattern the data reveals, tracking has become decoration. In behaviour-change terms, monitoring should reveal discrepancy between current behaviour and the goal, then lead to changed strategy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK567039/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The “transfer test” asks whether improvement shows up outside the self-improvement setting. Someone may feel disciplined in a productivity app but still avoid the one task that matters. Someone may speak fluently about emotional maturity but still respond defensively in conflict. Someone may know the science of habits but still leave every cue unchanged. Real change transfers from the study of improvement into the ordinary scene where the old pattern used to run.
 
@@ -582,7 +582,7 @@ This is why self-improvement theatre often appears around goals that matter. Peo
 
 There is a social reward too. Self-improvement has become highly displayable: routines, bookshelves, apps, journals, supplements, desk setups, challenge screenshots, before-and-after intentions. Some displays are harmless and motivating. The risk is that the visible symbols of effort become easier to maintain than the invisible repetitions that produce change. A person can look like someone transforming while carefully avoiding the repeated, unglamorous moments where transformation would be tested.
 
-The antidote is not shame. Shame can worsen avoidance by making the task feel even more aversive. Research on procrastination suggests that negative feelings around delay can feed further delay, while changing the expected emotional payoff of procrastination may matter for future behaviour. A more useful stance is sober curiosity: what did the theatre protect me from, and what is the smallest real test I am willing to run next? <span class="citation-chip-wrap"><a class="citation-chip" href="https://eprints.whiterose.ac.uk/id/eprint/91793/1/Compass%20Paper%20revision%20FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.whiterose.ac.uk">[White Rose Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.whiterose.ac.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The antidote is not shame. Shame can worsen avoidance by making the task feel even more aversive. Research on procrastination suggests that negative feelings around delay can feed further delay, while changing the expected emotional payoff of procrastination may matter for future behaviour. A more useful stance is sober curiosity: what did the theatre protect me from, and what is the smallest real test I am willing to run next?<span class="citation-chip-wrap"><a class="citation-chip" href="https://eprints.whiterose.ac.uk/id/eprint/91793/1/Compass%20Paper%20revision%20FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eprints.whiterose.ac.uk">[White Rose Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eprints.whiterose.ac.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## How to turn preparation into progress
 
@@ -592,7 +592,7 @@ A practical rule is to put an “action tax” on self-improvement consumption. 
 
 Another useful rule is to separate design time from doing time. Design time asks, “What behaviour do I want, what cue will trigger it, what might block it, and how will I know it happened?” Doing time asks only, “What is the next rep?” Many people keep redesigning during doing time because redesigning feels safer than confronting the task. A fixed tiny start can break the loop: open the document, put on shoes, begin the timer, wash one plate, write the first sentence.
 
-The strongest plans also include adjustment. The [Behaviour Change]({{ 'behaviour-change/' | relative_url }}) Technique framework includes reviewing behaviour goals, action planning, problem-solving, self-monitoring and noticing discrepancies between current behaviour and the goal. That matters because real life will expose flaws in any plan. A failed attempt is not proof that the person lacks discipline; it is information about cue, friction, timing, difficulty, support or reward. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK567039/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The strongest plans also include adjustment. The [Behaviour Change]({{ 'behaviour-change/' | relative_url }}) Technique framework includes reviewing behaviour goals, action planning, problem-solving, self-monitoring and noticing discrepancies between current behaviour and the goal. That matters because real life will expose flaws in any plan. A failed attempt is not proof that the person lacks discipline; it is information about cue, friction, timing, difficulty, support or reward.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK567039/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 A simple weekly review can keep self improvement honest:
 
@@ -619,194 +619,194 @@ Self-improvement theatre asks, “Do I feel like someone who is improving?” Se
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MkgnlM9OPjQ" title="Psychology of People Who Dream Big But Fake Progress" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MkgnlM9OPjQ" target="_blank" rel="noopener noreferrer">Psychology of People Who Dream Big But Fake Progress</a></p><p class="youtube-embed-meta">Channel: Quiet Minds &middot; Views: 26 &middot; Uploaded: May 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MkgnlM9OPjQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MkgnlM9OPjQ">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Self Improvement Feels Productive but Fails. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Self Improvement Feels Productive but Fails. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Focuses on measurable behavior change rather than intentions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Focuses on measurable behavior change rather than intentions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+War+of+Art+by+Steven+Pressfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The War of Art on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sR3hAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The War of Art" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+War+of+Art+by+Steven+Pressfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The War of Art">The War of Art</a>
-        </h4>
-        <p class="fr-book-author">By Steven Pressfield</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+War+of+Art+by+Steven+Pressfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The War of Art on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sR3hAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The War of Art" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+War+of+Art+by+Steven+Pressfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The War of Art">The War of Art</a>
+</h4>
+<p class="fr-book-author">By Steven Pressfield</p>
         
-        <p class="fr-book-desc">Targets procrastination and action avoidance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+War+of+Art+by+Steven+Pressfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Targets procrastination and action avoidance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+War+of+Art+by+Steven+Pressfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B_L8CAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
-        </h4>
-        <p class="fr-book-author">By Cal Newport</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B_L8CAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
+</h4>
+<p class="fr-book-author">By Cal Newport</p>
         
-        <p class="fr-book-desc">Emphasizes focused execution over productivity theater.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Emphasizes focused execution over productivity theater.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Carol S. Dweck</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
-        <p class="fr-book-desc">Addresses beliefs and learning approaches that support improvement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
+</h4>
+<p class="fr-book-author">By Carol S. Dweck</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
+<p class="fr-book-desc">Addresses beliefs and learning approaches that support improvement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+War+of+Art&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The War of Art</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Work&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Work</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+War+of+Art&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The War of Art</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Deep+Work&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Deep Work</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A5 Leather Habit Tracker Journal Refillable Undated Notebook - Raven"><img src="https://i.ebayimg.com/images/g/2VQAAeSw7PJof5NW/s-l225.jpg" alt="Listing image for A5 Leather Habit Tracker Journal Refillable Undated Notebook - Raven" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">A5 Leather Habit Tracker Journal Refillable Undated Notebook - Raven</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A5 Leather Habit Tracker Journal Refillable Undated Notebook - Raven"><img src="https://i.ebayimg.com/images/g/2VQAAeSw7PJof5NW/s-l225.jpg" alt="Listing image for A5 Leather Habit Tracker Journal Refillable Undated Notebook - Raven" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">A5 Leather Habit Tracker Journal Refillable Undated Notebook - Raven</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Yearly Habit Tracker 10 Pack - A5 Inserts for Binder / Journal / Diary"><img src="https://i.ebayimg.com/images/g/-agAAeSw5bBqDMPx/s-l225.jpg" alt="Listing image for Yearly Habit Tracker 10 Pack - A5 Inserts for Binder / Journal / Diary" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">Yearly Habit Tracker 10 Pack - A5 Inserts for Binder / Journal / Diary</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Yearly Habit Tracker 10 Pack - A5 Inserts for Binder / Journal / Diary"><img src="https://i.ebayimg.com/images/g/-agAAeSw5bBqDMPx/s-l225.jpg" alt="Listing image for Yearly Habit Tracker 10 Pack - A5 Inserts for Binder / Journal / Diary" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">Yearly Habit Tracker 10 Pack - A5 Inserts for Binder / Journal / Diary</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wellness Journal 90 Day Fitness Planner Gratitude Mood Habit Tracker A5"><img src="https://i.ebayimg.com/images/g/g14AAeSwTpVp7~9B/s-l225.jpg" alt="Listing image for Wellness Journal 90 Day Fitness Planner Gratitude Mood Habit Tracker A5" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">Wellness Journal 90 Day Fitness Planner Gratitude Mood Habit Tracker A5</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wellness Journal 90 Day Fitness Planner Gratitude Mood Habit Tracker A5"><img src="https://i.ebayimg.com/images/g/g14AAeSwTpVp7~9B/s-l225.jpg" alt="Listing image for Wellness Journal 90 Day Fitness Planner Gratitude Mood Habit Tracker A5" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">Wellness Journal 90 Day Fitness Planner Gratitude Mood Habit Tracker A5</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Journal: Habit Tracker Log Book, Habit Tracker Planner"><img src="https://i.ebayimg.com/images/g/LKQAAOSw~nNnS0A~/s-l225.jpg" alt="Listing image for Habit Tracker Journal: Habit Tracker Log Book, Habit Tracker Planner" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Journal: Habit Tracker Log Book, Habit Tracker Planner</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Journal: Habit Tracker Log Book, Habit Tracker Planner"><img src="https://i.ebayimg.com/images/g/LKQAAOSw~nNnS0A~/s-l225.jpg" alt="Listing image for Habit Tracker Journal: Habit Tracker Log Book, Habit Tracker Planner" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Journal: Habit Tracker Log Book, Habit Tracker Planner</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker journal">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker journal</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+journal&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-self-improvement-feels-productive-but-fails-habit-tracker-journal&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker journal" data-ebay-reference="when-self-improvement-feels-productive-but-fails-habit-tracker-journal" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -822,7 +822,7 @@ Self-improvement theatre asks, “Do I feel like someone who is improving?” Se
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -842,7 +842,7 @@ Self-improvement theatre asks, “Do I feel like someone who is improving?” Se
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -874,7 +874,7 @@ Self-improvement theatre asks, “Do I feel like someone who is improving?” Se
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -926,7 +926,7 @@ Self-improvement theatre asks, “Do I feel like someone who is improving?” Se
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -971,7 +971,7 @@ Self-improvement theatre asks, “Do I feel like someone who is improving?” Se
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -1012,88 +1012,88 @@ Self-improvement theatre asks, “Do I feel like someone who is improving?” Se
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK567039/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK567039/</a>  
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK567039/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK567039/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: jmir.org  
    Title: Journal of Medical Internet Research  
-   Link: <a href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e54375/</a>  
+   Link:<a href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e54375/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: web.mit.edu  
    Title: Massachusetts Institute of Technology  
-   Link: <a href="https://web.mit.edu/curhan/www/docs/Articles/biases/67_J_Personality_and_Social_Psychology_366%2C_1994.pdf" target="_blank" rel="noopener noreferrer nofollow">https://web.mit.edu/curhan/www/docs/Articles/biases/67_J_Personality_and_Social_Psychology_366%2C_1994.pdf</a>  
+   Link:<a href="https://web.mit.edu/curhan/www/docs/Articles/biases/67_J_Personality_and_Social_Psychology_366%2C_1994.pdf" target="_blank" rel="noopener noreferrer nofollow">https://web.mit.edu/curhan/www/docs/Articles/biases/67_J_Personality_and_Social_Psychology_366%2C_1994.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: formative.jmir.org  
-   Link: <a href="https://formative.jmir.org/2023/1/e50573" target="_blank" rel="noopener noreferrer nofollow">https://formative.jmir.org/2023/1/e50573</a>  
+   Link:<a href="https://formative.jmir.org/2023/1/e50573" target="_blank" rel="noopener noreferrer nofollow">https://formative.jmir.org/2023/1/e50573</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: eprints.whiterose.ac.uk  
-   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/91793/1/Compass%20Paper%20revision%20FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/91793/1/Compass%20Paper%20revision%20FINAL.pdf</a>  
+   Link:<a href="https://eprints.whiterose.ac.uk/id/eprint/91793/1/Compass%20Paper%20revision%20FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/91793/1/Compass%20Paper%20revision%20FINAL.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/30775782/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/30775782/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/30775782/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/30775782/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/17395062/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/17395062/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/17395062/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/17395062/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Planning fallacy  
-   Link: <a href="https://en.wikipedia.org/wiki/Planning_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Planning_fallacy</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Planning_fallacy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Planning_fallacy</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sk.sagepub.com  
    Title: planning fallacy  
-   Link: <a href="https://sk.sagepub.com/ency/edvol/download/socialpsychology/chpt/planning-fallacy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sk.sagepub.com/ency/edvol/download/socialpsychology/chpt/planning-fallacy.pdf</a>  
+   Link:<a href="https://sk.sagepub.com/ency/edvol/download/socialpsychology/chpt/planning-fallacy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sk.sagepub.com/ency/edvol/download/socialpsychology/chpt/planning-fallacy.pdf</a>  
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: The Self-Improvement Trap: Why Trying to Fix Yourself Makes Everything Worse  
-   Link: <a href="https://www.youtube.com/watch?v=Lo7dtGrbxf8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Lo7dtGrbxf8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology of People Who Dream Big But Fake Progress...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Lo7dtGrbxf8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Lo7dtGrbxf8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology of People Who Dream Big But Fake Progress...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Psychology of People Who Dream Big But Fake Progress  
-   Link: <a href="https://www.youtube.com/watch?v=MkgnlM9OPjQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MkgnlM9OPjQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Self-Help Trap - What 20+ Years of “Optimizing” Has Taught Me...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MkgnlM9OPjQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MkgnlM9OPjQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Self-Help Trap - What 20+ Years of “Optimizing” Has Taught Me...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/389169432_Behavior_Change_Support_Systems_for_Self-Treating_Procrastination_Systematic_Search_in_App_Stores_and_Analysis_of_Motivational_Design_Archetypes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389169432_Behavior_Change_Support_Systems_for_Self-Treating_Procrastination_Systematic_Search_in_App_Stores_and_Analysis_of_Motivational_Design_Archetypes</a>  
+   Link:<a href="https://www.researchgate.net/publication/389169432_Behavior_Change_Support_Systems_for_Self-Treating_Procrastination_Systematic_Search_in_App_Stores_and_Analysis_of_Motivational_Design_Archetypes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389169432_Behavior_Change_Support_Systems_for_Self-Treating_Procrastination_Systematic_Search_in_App_Stores_and_Analysis_of_Motivational_Design_Archetypes</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/251449615_The_Planning_Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/251449615_The_Planning_Fallacy</a>  
+   Link:<a href="https://www.researchgate.net/publication/251449615_The_Planning_Fallacy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/251449615_The_Planning_Fallacy</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/381407301_The_effectiveness_of_self-guided_interventions_in_adults_with_depressive_symptoms_a_systematic_review_and_meta-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/381407301_The_effectiveness_of_self-guided_interventions_in_adults_with_depressive_symptoms_a_systematic_review_and_meta-analysis</a>  
+   Link:<a href="https://www.researchgate.net/publication/381407301_The_effectiveness_of_self-guided_interventions_in_adults_with_depressive_symptoms_a_systematic_review_and_meta-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/381407301_The_effectiveness_of_self-guided_interventions_in_adults_with_depressive_symptoms_a_systematic_review_and_meta-analysis</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/310506836_Behavior_Change_Techniques" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/310506836_Behavior_Change_Techniques</a>  
+   Link:<a href="https://www.researchgate.net/publication/310506836_Behavior_Change_Techniques" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/310506836_Behavior_Change_Techniques</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2788777944712613/posts/4475877269335997/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2788777944712613/posts/4475877269335997/</a>  
+   Link:<a href="https://www.facebook.com/groups/2788777944712613/posts/4475877269335997/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2788777944712613/posts/4475877269335997/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/Goal-Setting-and-Action-Planning-for-Health-Change-Bailey/9e7ffac24e8b84289e9abcf71c69271746264c3c" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Goal-Setting-and-Action-Planning-for-Health-Change-Bailey/9e7ffac24e8b84289e9abcf71c69271746264c3c</a>  
+   Link:<a href="https://www.semanticscholar.org/paper/Goal-Setting-and-Action-Planning-for-Health-Change-Bailey/9e7ffac24e8b84289e9abcf71c69271746264c3c" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Goal-Setting-and-Action-Planning-for-Health-Change-Bailey/9e7ffac24e8b84289e9abcf71c69271746264c3c</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: scilit.com  
-   Link: <a href="https://www.scilit.com/publications/f4303d2ef5c9c3054918bf71f5d046d7" target="_blank" rel="noopener noreferrer nofollow">https://www.scilit.com/publications/f4303d2ef5c9c3054918bf71f5d046d7</a>  
+   Link:<a href="https://www.scilit.com/publications/f4303d2ef5c9c3054918bf71f5d046d7" target="_blank" rel="noopener noreferrer nofollow">https://www.scilit.com/publications/f4303d2ef5c9c3054918bf71f5d046d7</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/15577534_Goal_Setting_as_a_Strategy_for_Health_Behavior_Change" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/15577534_Goal_Setting_as_a_Strategy_for_Health_Behavior_Change</a>
+   Link:<a href="https://www.researchgate.net/publication/15577534_Goal_Setting_as_a_Strategy_for_Health_Behavior_Change" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/15577534_Goal_Setting_as_a_Strategy_for_Health_Behavior_Change</a>

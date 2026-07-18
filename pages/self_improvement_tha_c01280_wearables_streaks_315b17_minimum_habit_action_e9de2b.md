@@ -277,7 +277,7 @@ image: /assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_minim
 A habit does not survive difficult days because of [motivation]({{ 'motivation/' | relative_url }}). It survives because there is a version of the behaviour small enough to perform when motivation disappears. The most effective long-term routines often have a realistic minimum: a short walk instead of a workout, one sentence instead of a writing session, or five minutes of study instead of an hour.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_minimum_habit_action_e9de2b-Illustration-1-dark.svg" | relative_url }}" alt="Minimums illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_minimum_habit_action_e9de2b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_minimum_habit_action_e9de2b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This idea matters because habits are most vulnerable during illness, travel, deadlines, family [emergencies]({{ 'emergencies/' | relative_url }}) and periods of [low energy]({{ 'low-energy/' | relative_url }}). Missing occasional days is normal, but repeatedly stopping and restarting can weaken the cues and routines that make habits automatic. Research on habit formation suggests that habits develop through repeated performance in stable contexts, often over many weeks or months rather than a few days. Protecting repetition, even at a very small scale, helps preserve that process. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 97 — Four studies reported the...</span></span></span>
+This idea matters because habits are most vulnerable during illness, travel, deadlines, family [emergencies]({{ 'emergencies/' | relative_url }}) and periods of [low energy]({{ 'low-energy/' | relative_url }}). Missing occasional days is normal, but repeatedly stopping and restarting can weaken the cues and routines that make habits automatic. Research on habit formation suggests that habits develop through repeated performance in stable contexts, often over many weeks or months rather than a few days. Protecting repetition, even at a very small scale, helps preserve that process.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 97 — Four studies reported the...</span></span></span>
 
 Within a system of [wearables]({{ 'wearables/' | relative_url }}), streaks and visible feedback, minimum actions act as a safety net. They keep the streak attached to the behaviour rather than allowing one difficult day to become a week-long lapse.
 
@@ -285,7 +285,7 @@ Within a system of [wearables]({{ 'wearables/' | relative_url }}), streaks and v
 
 Many people set goals but never define the smallest version that still counts. As a result, the habit becomes binary: either complete the full routine or fail. That works on good days and collapses on bad ones.
 
-A minimum action creates a lower boundary. The purpose is not to maximise performance. The purpose is to keep the behaviour alive. Behaviour researchers and habit practitioners have repeatedly emphasised that making a behaviour easier often produces more consistency than relying on motivation. BJ Fogg's Tiny Habits approach is built around making actions so small that they remain feasible even when enthusiasm is low. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mariashriver.com">[Maria Shriver]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mariashriver.com</span><span class="citation-popover-snippet">Maria ShriverStanford Researcher BJ Fogg on the &#x27;Tiny Habits&#x27; That Lead to...When it comes to change, behavior scientist BJ Fogg believe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://tinyhabits.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tinyhabits.com">[Tiny Habits]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tinyhabits.com</span><span class="citation-popover-snippet">Tiny Habits: BJ FoggChange your life for good with the Tiny Habits method—where simple changes lead to real, life-changing results. It&#x27;s...</span></span></span>
+A minimum action creates a lower boundary. The purpose is not to maximise performance. The purpose is to keep the behaviour alive. Behaviour researchers and habit practitioners have repeatedly emphasised that making a behaviour easier often produces more consistency than relying on motivation. BJ Fogg's Tiny Habits approach is built around making actions so small that they remain feasible even when enthusiasm is low.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mariashriver.com">[Maria Shriver]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mariashriver.com</span><span class="citation-popover-snippet">Maria ShriverStanford Researcher BJ Fogg on the &#x27;Tiny Habits&#x27; That Lead to...When it comes to change, behavior scientist BJ Fogg believe...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://tinyhabits.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tinyhabits.com">[Tiny Habits]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tinyhabits.com</span><span class="citation-popover-snippet">Tiny Habits: BJ FoggChange your life for good with the Tiny Habits method—where simple changes lead to real, life-changing results. It&#x27;s...</span></span></span>
 
 This changes the question from:
 
@@ -297,7 +297,7 @@ to:
 
 The difference seems minor, but it addresses a common failure pattern. People often abandon habits not because they dislike them, but because the required effort becomes incompatible with temporary life circumstances. A realistic floor allows the habit to adapt without disappearing.
 
-Visible tracking systems reinforce this effect. A wearable, habit tracker or streak counter provides immediate feedback that the behaviour still happened. The signal becomes: "the routine survived today", not "the routine was perfect today". <span class="citation-chip-wrap"><a class="citation-chip" href="https://jamesclear.com/habit-tracker" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamesclear.com">[James Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamesclear.com</span><span class="citation-popover-title">James Clear The Ultimate Habit Tracker Guide: Why and How to Track</span><span class="citation-popover-snippet">The most basic format is to get a calendar and cross off each day you stick with your...Read more...</span></span></span>
+Visible tracking systems reinforce this effect. A wearable, habit tracker or streak counter provides immediate feedback that the behaviour still happened. The signal becomes: "the routine survived today", not "the routine was perfect today".<span class="citation-chip-wrap"><a class="citation-chip" href="https://jamesclear.com/habit-tracker" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamesclear.com">[James Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamesclear.com</span><span class="citation-popover-title">James Clear The Ultimate Habit Tracker Guide: Why and How to Track</span><span class="citation-popover-snippet">The most basic format is to get a calendar and cross off each day you stick with your...Read more...</span></span></span>
 
 ## The Mechanism: Identity Before Performance
 
@@ -305,11 +305,11 @@ Small minimum actions work because they preserve [identity]({{ 'identity/' | rel
 
 Someone who normally runs 8 kilometres but walks for ten minutes during a stressful week is still acting like a person who moves regularly. A writer who produces one paragraph during a difficult month is still maintaining the identity of a writer.
 
-Habit researchers describe habits as behaviours that become increasingly automatic through repetition in consistent contexts. When the behaviour disappears entirely, the cue-behaviour relationship receives less reinforcement. A tiny action keeps that relationship active. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2101.01637" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Theory-based Habit Modeling for Enhancing Behavior Prediction</span><span class="citation-popover-snippet">arXiv Theory-based Habit Modeling for Enhancing Behavior Prediction</span></span></span>
+Habit researchers describe habits as behaviours that become increasingly automatic through repetition in consistent contexts. When the behaviour disappears entirely, the cue-behaviour relationship receives less reinforcement. A tiny action keeps that relationship active.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2101.01637" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Theory-based Habit Modeling for Enhancing Behavior Prediction</span><span class="citation-popover-snippet">arXiv Theory-based Habit Modeling for Enhancing Behavior Prediction</span></span></span>
 
 This is why many habit-building systems emphasise starting extremely small. The smallest version is not merely a beginner strategy. It is also a maintenance strategy.
 
-The psychological benefit is equally important. Completing a minimum action produces evidence that the habit remains part of everyday life. Missing a full workout may feel like failure. Completing a five-minute version feels like continuity. Over time, continuity usually matters more than occasional bursts of intensity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologytoday.com/us/blog/staying-sane-inside-insanity/202007/the-magic-tiny-habits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">the magic tiny habits</span><span class="citation-popover-snippet">Psychology TodayThe Magic of Tiny Habits28 Jul 2020 — These little starter steps create a momentum that blooms into consistent, durable...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[James]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 97 — Four studies reported the...</span></span></span>
+The psychological benefit is equally important. Completing a minimum action produces evidence that the habit remains part of everyday life. Missing a full workout may feel like failure. Completing a five-minute version feels like continuity. Over time, continuity usually matters more than occasional bursts of intensity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologytoday.com/us/blog/staying-sane-inside-insanity/202007/the-magic-tiny-habits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[Psychology Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">the magic tiny habits</span><span class="citation-popover-snippet">Psychology TodayThe Magic of Tiny Habits28 Jul 2020 — These little starter steps create a momentum that blooms into consistent, durable...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[James]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed CentralTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 97 — Four studies reported the...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7itvByUOxo8" title="Tiny Habits Will Change Your Life" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7itvByUOxo8" target="_blank" rel="noopener noreferrer">Tiny Habits Will Change Your Life</a></p><p class="youtube-embed-meta">Channel: Tim Hill &middot; Views: 21.3K &middot; Uploaded: September 2024 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7itvByUOxo8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7itvByUOxo8">Open on YouTube</a></p></div></div></div>
 
@@ -349,7 +349,7 @@ Useful minimums include:
 
 </div>
 
-These actions preserve familiarity with the work. Many people continue beyond the minimum once they begin, but continuation is optional. The minimum counts even if it remains small. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jamesclear.com/habit-tracker" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamesclear.com">[James Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamesclear.com</span><span class="citation-popover-title">James Clear The Ultimate Habit Tracker Guide: Why and How to Track</span><span class="citation-popover-snippet">The most basic format is to get a calendar and cross off each day you stick with your...Read more...</span></span></span>
+These actions preserve familiarity with the work. Many people continue beyond the minimum once they begin, but continuation is optional. The minimum counts even if it remains small.<span class="citation-chip-wrap"><a class="citation-chip" href="https://jamesclear.com/habit-tracker" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamesclear.com">[James Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamesclear.com</span><span class="citation-popover-title">James Clear The Ultimate Habit Tracker Guide: Why and How to Track</span><span class="citation-popover-snippet">The most basic format is to get a calendar and cross off each day you stick with your...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_minimum_habit_action_e9de2b-Illustration-2-dark.svg" | relative_url }}" alt="Minimums illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_minimum_habit_action_e9de2b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_wearables_streaks_315b17_minimum_habit_action_e9de2b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Learning
@@ -371,7 +371,7 @@ The goal is not measurable progress on that particular day. The goal is preventi
 
 ## How Small Is Too Small?
 
-A common criticism is that tiny habits become meaningless. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologytoday.com/us/blog/staying-sane-inside-insanity/202007/the-magic-tiny-habits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[psychologytoday.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">the magic tiny habits</span><span class="citation-popover-snippet">Psychology TodayThe Magic of Tiny Habits28 Jul 2020 — These little starter steps create a momentum that blooms into consistent, durable...</span></span></span>
+A common criticism is that tiny habits become meaningless.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.psychologytoday.com/us/blog/staying-sane-inside-insanity/202007/the-magic-tiny-habits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychologytoday.com">[psychologytoday.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychologytoday.com</span><span class="citation-popover-title">the magic tiny habits</span><span class="citation-popover-snippet">Psychology TodayThe Magic of Tiny Habits28 Jul 2020 — These little starter steps create a momentum that blooms into consistent, durable...</span></span></span>
 
 This concern is valid when the minimum no longer reflects the behaviour's purpose. Reading one word is not really reading. Opening a fitness app without moving is not exercise. The minimum must still express the core action.
 
@@ -423,7 +423,7 @@ The purpose of a minimum action is survival, not permanent downsizing. It should
 
 Visible feedback systems become more effective when they acknowledge maintenance as well as achievement.
 
-A calendar filled with uninterrupted marks, a wearable showing daily movement, or a streak tracker recording consistent practice can provide evidence that the habit is still present. Research on self-monitoring and progress tracking suggests that [visible records]({{ 'visible-records/' | relative_url }}) of behaviour can strengthen goal pursuit and consistency. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jamesclear.com/habit-tracker" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamesclear.com">[James Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamesclear.com</span><span class="citation-popover-title">James Clear The Ultimate Habit Tracker Guide: Why and How to Track</span><span class="citation-popover-snippet">The most basic format is to get a calendar and cross off each day you stick with your...Read more...</span></span></span>
+A calendar filled with uninterrupted marks, a wearable showing daily movement, or a streak tracker recording consistent practice can provide evidence that the habit is still present. Research on self-monitoring and progress tracking suggests that [visible records]({{ 'visible-records/' | relative_url }}) of behaviour can strengthen goal pursuit and consistency.<span class="citation-chip-wrap"><a class="citation-chip" href="https://jamesclear.com/habit-tracker" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamesclear.com">[James Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamesclear.com</span><span class="citation-popover-title">James Clear The Ultimate Habit Tracker Guide: Why and How to Track</span><span class="citation-popover-snippet">The most basic format is to get a calendar and cross off each day you stick with your...Read more...</span></span></span>
 
 The most useful interpretation of those signals is not perfection. It is resilience.
 
@@ -432,269 +432,269 @@ When life becomes complicated, the smallest version that still counts can be eno
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ijInaXZy0pU" title="TINY HABITS by B.J. Fogg – Animated Book Summary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ijInaXZy0pU" target="_blank" rel="noopener noreferrer">TINY HABITS by B.J. Fogg – Animated Book Summary</a></p><p class="youtube-embed-meta">Channel: Upgraded Mentality &middot; Views: 34.7K &middot; Uploaded: September 2020 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ijInaXZy0pU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ijInaXZy0pU">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Smallest Version That Still Counts. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Smallest Version That Still Counts. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Explains small actions, habit consistency and identity-based behaviour change.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Explains small actions, habit consistency and identity-based behaviour change.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
-        </h4>
-        <p class="fr-book-author">By B. J. Fogg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
+</h4>
+<p class="fr-book-author">By B. J. Fogg</p>
         
-        <p class="fr-book-desc">Built around making behaviours small enough to perform consistently.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Built around making behaviours small enough to perform consistently.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rrlPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Power of Habit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
-        </h4>
-        <p class="fr-book-author">By Charles Duhigg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rrlPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Power of Habit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
+</h4>
+<p class="fr-book-author">By Charles Duhigg</p>
         
-        <p class="fr-book-desc">Provides foundational understanding of habit loops and repetition.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides foundational understanding of habit loops and repetition.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mini+Habits+by+Stephen+Guise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mini Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4UopCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mini Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mini+Habits+by+Stephen+Guise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mini Habits">Mini Habits</a>
-        </h4>
-        <p class="fr-book-author">By Stephen Guise</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mini+Habits+by+Stephen+Guise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mini Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4UopCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mini Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mini+Habits+by+Stephen+Guise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mini Habits">Mini Habits</a>
+</h4>
+<p class="fr-book-author">By Stephen Guise</p>
         
-        <p class="fr-book-desc">Directly advocates very small minimum habit requirements.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mini+Habits+by+Stephen+Guise&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly advocates very small minimum habit requirements.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mini+Habits+by+Stephen+Guise&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Power+of+Habit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Power of Habit</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Power+of+Habit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Power of Habit</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Undated Calendar The Motivational Journal Features Space for 20..."><img src="{{ '/assets/images/marketplace-covers/74cc77b1c46199d403d5.jpg' | relative_url }}" alt="Listing image for Habit Tracker Undated Calendar The Motivational Journal Features Space for 20..." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Undated Calendar The Motivational Journal Features Space for 20...</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Undated Calendar The Motivational Journal Features Space for 20..."><img src="{{ '/assets/images/marketplace-covers/74cc77b1c46199d403d5.jpg' | relative_url }}" alt="Listing image for Habit Tracker Undated Calendar The Motivational Journal Features Space for 20..." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Undated Calendar The Motivational Journal Features Space for 20...</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar 12‑Month Undated Daily Weekly Monthly Goal Planner A4"><img src="{{ '/assets/images/marketplace-covers/7954881b4b2556a6a539.jpg' | relative_url }}" alt="Listing image for Habit Tracker Calendar 12‑Month Undated Daily Weekly Monthly Goal Planner A4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar 12‑Month Undated Daily Weekly Monthly Goal Planner A4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar 12‑Month Undated Daily Weekly Monthly Goal Planner A4"><img src="{{ '/assets/images/marketplace-covers/7954881b4b2556a6a539.jpg' | relative_url }}" alt="Listing image for Habit Tracker Calendar 12‑Month Undated Daily Weekly Monthly Goal Planner A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar 12‑Month Undated Daily Weekly Monthly Goal Planner A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar, 24 Undated Monthly A4 Habit Tracker Pad, Wire-Bound D..."><img src="{{ '/assets/images/marketplace-covers/2781fd9e9858633c2124.jpg' | relative_url }}" alt="Listing image for Habit Tracker Calendar, 24 Undated Monthly A4 Habit Tracker Pad, Wire-Bound D..." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar, 24 Undated Monthly A4 Habit Tracker Pad, Wire-Bound D...</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar, 24 Undated Monthly A4 Habit Tracker Pad, Wire-Bound D..."><img src="{{ '/assets/images/marketplace-covers/2781fd9e9858633c2124.jpg' | relative_url }}" alt="Listing image for Habit Tracker Calendar, 24 Undated Monthly A4 Habit Tracker Pad, Wire-Bound D..." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar, 24 Undated Monthly A4 Habit Tracker Pad, Wire-Bound D...</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Floral Habit Tracker Calendar|Monthly Daily Habit Planner|Spiral Desk Organizer"><img src="{{ '/assets/images/marketplace-covers/4490bc55c38326362da3.jpg' | relative_url }}" alt="Listing image for Floral Habit Tracker Calendar|Monthly Daily Habit Planner|Spiral Desk Organizer" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Floral Habit Tracker Calendar|Monthly Daily Habit Planner|Spiral Desk Organizer</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Floral Habit Tracker Calendar|Monthly Daily Habit Planner|Spiral Desk Organizer"><img src="{{ '/assets/images/marketplace-covers/4490bc55c38326362da3.jpg' | relative_url }}" alt="Listing image for Floral Habit Tracker Calendar|Monthly Daily Habit Planner|Spiral Desk Organizer" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Floral Habit Tracker Calendar|Monthly Daily Habit Planner|Spiral Desk Organizer</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker calendar">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker calendar</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+calendar&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=minimums-1cfcfe-the-smallest-version-that-still-counts-self-improvement-that-works-habit-tracker-calendar&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -710,7 +710,7 @@ When life becomes complicated, the smallest version that still counts can be eno
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -730,7 +730,7 @@ When life becomes complicated, the smallest version that still counts can be eno
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -762,7 +762,7 @@ When life becomes complicated, the smallest version that still counts can be eno
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -792,7 +792,7 @@ When life becomes complicated, the smallest version that still counts can be eno
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -850,185 +850,185 @@ When life becomes complicated, the smallest version that still counts can be eno
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
    Title: arXiv Theory-based Habit Modeling for Enhancing Behavior Prediction  
-   Link: <a href="https://arxiv.org/abs/2101.01637" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2101.01637</a>  
+   Link:<a href="https://arxiv.org/abs/2101.01637" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2101.01637</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: everyday.app  
    Title: daily habits survive missed days  
-   Link: <a href="https://everyday.app/blog/daily-habits-survive-missed-days/" target="_blank" rel="noopener noreferrer nofollow">https://everyday.app/blog/daily-habits-survive-missed-days/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Daily Habits That Survive When You Miss A Day12 Feb 2026 — Learn how to build daily habits that survive missed days using mini habits, fl...</p></details>
+   Link:<a href="https://everyday.app/blog/daily-habits-survive-missed-days/" target="_blank" rel="noopener noreferrer nofollow">https://everyday.app/blog/daily-habits-survive-missed-days/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Daily Habits That Survive When You Miss A Day12 Feb 2026 — Learn how to build daily habits that survive missed days using mini habits, fl...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: youtube.com  
    Title: TINY HABITS by B.J. Fogg – Animated Book  
-   Link: <a href="https://www.youtube.com/watch?v=ijInaXZy0pU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ijInaXZy0pU</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioral scientist BJ Fogg on building lasting habits...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ijInaXZy0pU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ijInaXZy0pU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioral scientist BJ Fogg on building lasting habits...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
    Title: Atomic Habits Chapter 13: How to Stop Procrastinating with the Two-Minute Rule  
-   Link: <a href="https://www.youtube.com/watch?v=Q8atUEtqVhc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q8atUEtqVhc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>James Clear on building atomic habits that last | Sunrise...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Q8atUEtqVhc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Q8atUEtqVhc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>James Clear on building atomic habits that last | Sunrise...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: James Clear on building atomic habits that last | Sunrise  
-   Link: <a href="https://www.youtube.com/watch?v=RGxFbic6oYA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RGxFbic6oYA</a>  
+   Link:<a href="https://www.youtube.com/watch?v=RGxFbic6oYA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RGxFbic6oYA</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 97 — Four studies reported the...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed CentralTime to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 97 — Four studies reported the...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: mariashriver.com  
-   Link: <a href="https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/" target="_blank" rel="noopener noreferrer nofollow">https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Maria ShriverStanford Researcher BJ Fogg on the &#x27;Tiny Habits&#x27; That Lead to...When it comes to change, behavior scientist BJ Fogg believe...</p></details>
+   Link:<a href="https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/" target="_blank" rel="noopener noreferrer nofollow">https://mariashriver.com/stanford-researcher-bj-fogg-on-the-tiny-habits-that-lead-to-big-breakthroughs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Maria ShriverStanford Researcher BJ Fogg on the &#x27;Tiny Habits&#x27; That Lead to...When it comes to change, behavior scientist BJ Fogg believe...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: tinyhabits.com  
-   Link: <a href="https://tinyhabits.com/" target="_blank" rel="noopener noreferrer nofollow">https://tinyhabits.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: BJ FoggChange your life for good with the Tiny Habits method—where simple changes lead to real, life-changing results. It&#x27;s...</p></details>
+   Link:<a href="https://tinyhabits.com/" target="_blank" rel="noopener noreferrer nofollow">https://tinyhabits.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: BJ FoggChange your life for good with the Tiny Habits method—where simple changes lead to real, life-changing results. It&#x27;s...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: jamesclear.com  
    Title: James Clear The Ultimate Habit Tracker Guide: Why and How to Track  
-   Link: <a href="https://jamesclear.com/habit-tracker" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/habit-tracker</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The most basic format is to get a calendar and cross off each day you stick with your...Read more...</p></details>
+   Link:<a href="https://jamesclear.com/habit-tracker" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/habit-tracker</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The most basic format is to get a calendar and cross off each day you stick with your...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: psychologytoday.com  
    Title: the magic tiny habits  
-   Link: <a href="https://www.psychologytoday.com/us/blog/staying-sane-inside-insanity/202007/the-magic-tiny-habits" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/blog/staying-sane-inside-insanity/202007/the-magic-tiny-habits</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology TodayThe Magic of Tiny Habits28 Jul 2020 — These little starter steps create a momentum that blooms into consistent, durable...</p></details>
+   Link:<a href="https://www.psychologytoday.com/us/blog/staying-sane-inside-insanity/202007/the-magic-tiny-habits" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologytoday.com/us/blog/staying-sane-inside-insanity/202007/the-magic-tiny-habits</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology TodayThe Magic of Tiny Habits28 Jul 2020 — These little starter steps create a momentum that blooms into consistent, durable...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: jamesclear.com  
-   Link: <a href="https://jamesclear.com/small-habits" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/small-habits</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>James ClearI&#x27;m Using These 3 Simple Steps to Actually Stick with Good...I&#x27;ve been using this simple 3-step strategy to stick with a dail...</p></details>
+   Link:<a href="https://jamesclear.com/small-habits" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/small-habits</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>James ClearI&#x27;m Using These 3 Simple Steps to Actually Stick with Good...I&#x27;ve been using this simple 3-step strategy to stick with a dail...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: jamesclear.com  
-   Link: <a href="https://jamesclear.com/how-to-stop-procrastinating" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/how-to-stop-procrastinating</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>James ClearHow to Stop Procrastinating by Using the &quot;2-Minute Rule&quot;The Two-Minute Rule states “When you start a new habit, it should take...</p></details>
+   Link:<a href="https://jamesclear.com/how-to-stop-procrastinating" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/how-to-stop-procrastinating</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>James ClearHow to Stop Procrastinating by Using the &quot;2-Minute Rule&quot;The Two-Minute Rule states “When you start a new habit, it should take...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: jamesclear.com  
-   Link: <a href="https://jamesclear.com/habit-guide" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/habit-guide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>James ClearHow to Build New Habits: This is Your Strategy GuideUnderstanding how to build new habits is essential for making progress. Re...</p></details>
+   Link:<a href="https://jamesclear.com/habit-guide" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/habit-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>James ClearHow to Build New Habits: This is Your Strategy GuideUnderstanding how to build new habits is essential for making progress. Re...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nehrlich.com  
    Title: tiny habits by bj fogg  
-   Link: <a href="https://www.nehrlich.com/blog/2020/03/03/tiny-habits-by-bj-fogg/" target="_blank" rel="noopener noreferrer nofollow">https://www.nehrlich.com/blog/2020/03/03/tiny-habits-by-bj-fogg/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits, by BJ Fogg3 Mar 2020 — Fogg suggests troubleshooting first the prompt, then ability, then motivation. If the prompt isn&#x27;t cl...</p></details>
+   Link:<a href="https://www.nehrlich.com/blog/2020/03/03/tiny-habits-by-bj-fogg/" target="_blank" rel="noopener noreferrer nofollow">https://www.nehrlich.com/blog/2020/03/03/tiny-habits-by-bj-fogg/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits, by BJ Fogg3 Mar 2020 — Fogg suggests troubleshooting first the prompt, then ability, then motivation. If the prompt isn&#x27;t cl...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: jamesclear.com  
-   Link: <a href="https://jamesclear.com/habit-stacking" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/habit-stacking</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rather than... James Clear writes about habits, decision making, and continuous improvement.Read more...</p></details>
+   Link:<a href="https://jamesclear.com/habit-stacking" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/habit-stacking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rather than... James Clear writes about habits, decision making, and continuous improvement.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: jamesclear.com  
-   Link: <a href="https://jamesclear.com/atomic-habits" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/atomic-habits</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ll changes that will transform your habits and deliver amazing results...</p></details>
+   Link:<a href="https://jamesclear.com/atomic-habits" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/atomic-habits</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ll changes that will transform your habits and deliver amazing results...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: jamesclear.com  
-   Link: <a href="https://jamesclear.com/master-one-thing" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/master-one-thing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Research has found that implementation intentions do not work if you try to improve multiple habits at the same time.Read more...</p></details>
+   Link:<a href="https://jamesclear.com/master-one-thing" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/master-one-thing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Research has found that implementation intentions do not work if you try to improve multiple habits at the same time.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: jamesclear.com  
-   Link: <a href="https://jamesclear.com/new-habit" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/new-habit</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>omes automatic — [66 days](&amp;#123;&amp;#123; &#x27;66-days/&#x27; | relative_url &amp;#125;&amp;#125;) to be exact...Read more...</p></details>
+   Link:<a href="https://jamesclear.com/new-habit" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/new-habit</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>omes automatic — [66 days](&amp;#123;&amp;#123; &#x27;66-days/&#x27; | relative_url &amp;#125;&amp;#125;) to be exact...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: James (2022 film)  
-   Link: <a href="https://en.wikipedia.org/wiki/James_%282022_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/James_%282022_film%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>James (2022 film)James is a 2022 Indian Kannada-language action thriller film directed by Chethan Kumar and produced by Kishore Pathik...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/James_%282022_film%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/James_%282022_film%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>James (2022 film)James is a 2022 Indian Kannada-language action thriller film directed by Chethan Kumar and produced by Kishore Pathik...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Atomic Habits: How to Get 1% Better Every Day  
-   Link: <a href="https://www.youtube.com/watch?v=U_nzqnXWvSo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=U_nzqnXWvSo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>James ClearJames Clear is an author and speaker focused on habits, decision-making, and continuous improvement. His work has appeared in...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=U_nzqnXWvSo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=U_nzqnXWvSo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>James ClearJames Clear is an author and speaker focused on habits, decision-making, and continuous improvement. His work has appeared in...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=7itvByUOxo8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7itvByUOxo8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits Will Change Your LifeIt shows how you can achieve life-changing results by starting small really small tiny in fact like putt...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7itvByUOxo8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7itvByUOxo8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits Will Change Your LifeIt shows how you can achieve life-changing results by starting small really small tiny in fact like putt...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=S_8e-6ZHKLs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S_8e-6ZHKLs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TINY HABITS by BJ Fogg | Core MessageForget big change, start with a tiny habit: BJ Fogg at TEDxFremont. TEDx Talks &amp;middot; 2.3M views...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=S_8e-6ZHKLs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S_8e-6ZHKLs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TINY HABITS by BJ Fogg | Core MessageForget big change, start with a tiny habit: BJ Fogg at TEDxFremont. TEDx Talks &amp;middot; 2.3M views...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: sobrief.com  
    Title: Tiny Habits by B.J  
-   Link: <a href="https://sobrief.com/books/tiny-habits" target="_blank" rel="noopener noreferrer nofollow">https://sobrief.com/books/tiny-habits</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg | Summary, Audio, Quotes, FAQ22 Jan 2025 — This approach, called Tiny Habits, allows you to bypass the unreliable nature of motivati...</p></details>
+   Link:<a href="https://sobrief.com/books/tiny-habits" target="_blank" rel="noopener noreferrer nofollow">https://sobrief.com/books/tiny-habits</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fogg | Summary, Audio, Quotes, FAQ22 Jan 2025 — This approach, called Tiny Habits, allows you to bypass the unreliable nature of motivati...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: bodybrainalliance.com  
    Title: tiny habits a behavior change experts perspective  
-   Link: <a href="https://bodybrainalliance.com/tiny-habits-a-behavior-change-experts-perspective/" target="_blank" rel="noopener noreferrer nofollow">https://bodybrainalliance.com/tiny-habits-a-behavior-change-experts-perspective/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: A Behavior Change Expert&#x27;s Perspective29 May 2023 — Are Tiny Habits actually helping you reach your goals? Read to find out...</p></details>
+   Link:<a href="https://bodybrainalliance.com/tiny-habits-a-behavior-change-experts-perspective/" target="_blank" rel="noopener noreferrer nofollow">https://bodybrainalliance.com/tiny-habits-a-behavior-change-experts-perspective/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tiny Habits: A Behavior Change Expert&#x27;s Perspective29 May 2023 — Are Tiny Habits actually helping you reach your goals? Read to find out...</p></details>
    Published: May 2023  
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Time to Form a Habit: A Systematic Review and...4 Dec 2024 — 21 Habit formation typically requires repeated exposure over time, wi...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Time to Form a Habit: A Systematic Review and...4 Dec 2024 — 21 Habit formation typically requires repeated exposure over time, wi...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Small changes, big impact: A mini review of habit formation...27 Apr 2025 — This mini-review explores the science of habit formation, em...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Small changes, big impact: A mini review of habit formation...27 Apr 2025 — This mini-review explores the science of habit formation, em...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: prev.shop  
-   Link: <a href="https://prev.shop/blogs/plant-revolution/habits-and-how-to-develop-them" target="_blank" rel="noopener noreferrer nofollow">https://prev.shop/blogs/plant-revolution/habits-and-how-to-develop-them</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HABITS AND HOW TO DEVELOP THEMFogg focuses on creating a roadmap for behavior change by starting with small, manageable measures and buil...</p></details>
+   Link:<a href="https://prev.shop/blogs/plant-revolution/habits-and-how-to-develop-them" target="_blank" rel="noopener noreferrer nofollow">https://prev.shop/blogs/plant-revolution/habits-and-how-to-develop-them</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HABITS AND HOW TO DEVELOP THEMFogg focuses on creating a roadmap for behavior change by starting with small, manageable measures and buil...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/tinyhabitsatomichabitspersonalgrowth/posts/1531636477571482/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/tinyhabitsatomichabitspersonalgrowth/posts/1531636477571482/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit formation processes beyond usual suspectsJames Clear, one of the world&#x27;s leading experts on habit formation, reveals practical stra...</p></details>
+   Link:<a href="https://www.facebook.com/groups/tinyhabitsatomichabitspersonalgrowth/posts/1531636477571482/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/tinyhabitsatomichabitspersonalgrowth/posts/1531636477571482/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Habit formation processes beyond usual suspectsJames Clear, one of the world&#x27;s leading experts on habit formation, reveals practical stra...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: oneyoufeed.net  
-   Link: <a href="https://www.oneyoufeed.net/why-[willpower" target="_blank" rel="noopener noreferrer nofollow">https://www.oneyoufeed.net/why-[willpower</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Willpower Isn&#x27;t Enough: The Tiny Habits Method...23 Dec 2025 — Eric and Dr. BJ Fogg discuss why willpower isn&#x27;t enough as they explo...</p></details>
+   Link:<a href="https://www.oneyoufeed.net/why-[willpower" target="_blank" rel="noopener noreferrer nofollow">https://www.oneyoufeed.net/why-[willpower</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Willpower Isn&#x27;t Enough: The Tiny Habits Method...23 Dec 2025 — Eric and Dr. BJ Fogg discuss why willpower isn&#x27;t enough as they explo...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/benjamincrudo_most-people-try-to-change-habits-by-pushing-activity-7387150549122555904-Kc_Z" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/benjamincrudo_most-people-try-to-change-habits-by-pushing-activity-7387150549122555904-Kc_Z</a>  
+   Link:<a href="https://www.linkedin.com/posts/benjamincrudo_most-people-try-to-change-habits-by-pushing-activity-7387150549122555904-Kc_Z" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/benjamincrudo_most-people-try-to-change-habits-by-pushing-activity-7387150549122555904-Kc_Z</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/soniastic_the-power-of-systems-over-goals-james-clear-activity-7307400370916311041-G36R" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/soniastic_the-power-of-systems-over-goals-james-clear-activity-7307400370916311041-G36R</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of Systems Over Goals | Sonia TiwariThe Power of Systems Over Goals James Clear famously said in his book Atomic Habits - “You...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/soniastic_the-power-of-systems-over-goals-james-clear-activity-7307400370916311041-G36R" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/soniastic_the-power-of-systems-over-goals-james-clear-activity-7307400370916311041-G36R</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Power of Systems Over Goals | Sonia TiwariThe Power of Systems Over Goals James Clear famously said in his book Atomic Habits - “You...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/figure/Fogg-behavior-model-Tiny-Habits-The-Small-Changes-That-Change-Everything-BJ-Fogg_fig2_341381122" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Fogg-behavior-model-Tiny-Habits-The-Small-Changes-That-Change-Everything-BJ-Fogg_fig2_341381122</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2) recognises these elements and highlights the importance of using prompts appropriately to help remind and encourage people to...Read...</p></details>
+   Link:<a href="https://www.researchgate.net/figure/Fogg-behavior-model-Tiny-Habits-The-Small-Changes-That-Change-Everything-BJ-Fogg_fig2_341381122" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Fogg-behavior-model-Tiny-Habits-The-Small-Changes-That-Change-Everything-BJ-Fogg_fig2_341381122</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2) recognises these elements and highlights the importance of using prompts appropriately to help remind and encourage people to...Read...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/illumination/the-2-minute-rule-the-simple-habit-that-helped-me-beat-procrastination-b0a24422c6b8" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/illumination/the-2-minute-rule-the-simple-habit-that-helped-me-beat-procrastination-b0a24422c6b8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to the point that you can step right over it rather than attempting to scale...Read more...</p></details>
+   Link:<a href="https://medium.com/illumination/the-2-minute-rule-the-simple-habit-that-helped-me-beat-procrastination-b0a24422c6b8" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/illumination/the-2-minute-rule-the-simple-habit-that-helped-me-beat-procrastination-b0a24422c6b8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to the point that you can step right over it rather than attempting to scale...Read more...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: coachpedropinto.com  
    Title: habit formation science backed strategies for leaders  
-   Link: <a href="https://coachpedropinto.com/habit-formation-science-backed-strategies-for-leaders/" target="_blank" rel="noopener noreferrer nofollow">https://coachpedropinto.com/habit-formation-science-backed-strategies-for-leaders/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit Formation: Science-Backed Strategies For Leaders...4 Jun 2025 — Research from the British Psychological Society found that executi...</p></details>
+   Link:<a href="https://coachpedropinto.com/habit-formation-science-backed-strategies-for-leaders/" target="_blank" rel="noopener noreferrer nofollow">https://coachpedropinto.com/habit-formation-science-backed-strategies-for-leaders/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Habit Formation: Science-Backed Strategies For Leaders...4 Jun 2025 — Research from the British Psychological Society found that executi...</p></details>

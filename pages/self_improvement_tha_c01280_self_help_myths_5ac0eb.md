@@ -502,29 +502,29 @@ image: /assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb-overvie
 
 ## Introduction
 
-The self-help industry keeps selling a seductive idea: that change can be dramatic, fast and mostly internal. Buy the book, attend the seminar, repeat the mantra, reset your identity, and a new life should begin. The more reliable evidence points in a less glamorous direction. [Self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}) usually depends on specific behaviours, repeated in stable contexts, supported by feedback, planning, [environment]({{ 'environment/' | relative_url }}) design and enough time for the behaviour to become easier. Behaviour-change researchers have even built taxonomies to describe these “active ingredients” more precisely, rather than treating inspiration as a method in itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dhi.ac.uk/san/waysofbeing/data/health-jones-michie-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dhi.ac.uk">[DHI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dhi.ac.uk</span><span class="citation-popover-title">DHIThe Behavior Change Technique Taxonomy (v1) of 93</span><span class="citation-popover-snippet">July 10, 2013 — by W Hardeman · 2013 · Cited by 8918 — Objectives The objective of this study is to develop an extensive, consensually ag...</span><span class="citation-popover-meta">Published: July 10, 2013</span></span></span>
+The self-help industry keeps selling a seductive idea: that change can be dramatic, fast and mostly internal. Buy the book, attend the seminar, repeat the mantra, reset your identity, and a new life should begin. The more reliable evidence points in a less glamorous direction. [Self improvement that works]({{ 'self-improvement-that-works/' | relative_url }}) usually depends on specific behaviours, repeated in stable contexts, supported by feedback, planning, [environment]({{ 'environment/' | relative_url }}) design and enough time for the behaviour to become easier. Behaviour-change researchers have even built taxonomies to describe these “active ingredients” more precisely, rather than treating inspiration as a method in itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dhi.ac.uk/san/waysofbeing/data/health-jones-michie-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dhi.ac.uk">[DHI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dhi.ac.uk</span><span class="citation-popover-title">DHIThe Behavior Change Technique Taxonomy (v1) of 93</span><span class="citation-popover-snippet">July 10, 2013 — by W Hardeman · 2013 · Cited by 8918 — Objectives The objective of this study is to develop an extensive, consensually ag...</span><span class="citation-popover-meta">Published: July 10, 2013</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb-overview.webp" | relative_url }}" alt="Overview image for Self Help Myths" loading="eager" decoding="sync" fetchpriority="high">
 That does not mean every self-help book, coach or course is worthless. Many contain useful prompts, stories or practical tools. The problem is the recurring sales pattern: old claims are repackaged as personal breakthroughs, modest [techniques]({{ 'techniques/' | relative_url }}) are marketed as transformations, and hard, slow change is made to look like a failure of attitude. The myths below matter because they make ordinary difficulty feel like personal inadequacy.
 
 ## Why self-help myths are so easy to sell
 
-Self-help has always mixed practical advice with the values of its era. Samuel Smiles’s 1859 book *Self-Help* tied progress to character, thrift, perseverance and independence; later success manuals shifted towards persuasion, positivity, productivity, wealth, confidence and workplace usefulness. The genre has repeatedly promised readers that the right inner posture can help them adapt to the social and economic pressures around them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://infed.org/dir/welcome/samuel-smiles-self-help-with-illustrations-of-character-and-conduct/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: infed.org">[infed.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">infed.org</span><span class="citation-popover-title">Arguing for the importance of character, thrift and perseverance, the book also</span><span class="citation-popover-snippet">Samuel Smiles: Self help with illustrations of character...Samuel Smiles&#x27;s Self-Help is said to have reflected the spirit of its age...</span></span></span>
+Self-help has always mixed practical advice with the values of its era. Samuel Smiles’s 1859 book *Self-Help* tied progress to character, thrift, perseverance and independence; later success manuals shifted towards persuasion, positivity, productivity, wealth, confidence and workplace usefulness. The genre has repeatedly promised readers that the right inner posture can help them adapt to the social and economic pressures around them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://infed.org/dir/welcome/samuel-smiles-self-help-with-illustrations-of-character-and-conduct/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: infed.org">[infed.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">infed.org</span><span class="citation-popover-title">Arguing for the importance of character, thrift and perseverance, the book also</span><span class="citation-popover-snippet">Samuel Smiles: Self help with illustrations of character...Samuel Smiles&#x27;s Self-Help is said to have reflected the spirit of its age...</span></span></span>
 
 That historical pattern is important. Self-help advice rarely arrives as neutral science. It often arrives as a story about what kind of person the age [rewards]({{ 'rewards/' | relative_url }}): the disciplined Victorian striver, the charming corporate networker, the relentlessly positive entrepreneur, the optimised digital worker. The advice can be useful, but the packaging often turns [social pressures]({{ 'social-pressure/' | relative_url }}) into personal projects.
 
-The market incentives push in the same direction. Personal development is now a large commercial category spanning books, coaching, digital learning, motivational events, corporate training and wellness products. Grand View Research estimated the global personal development market at USD 48.4 billion in 2024 and projected further growth to 2030. That scale does not prove the industry is fraudulent, but it does explain why simple, repeatable promises travel faster than cautious evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.grandviewresearch.com/industry-analysis/personal-development-market" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grandviewresearch.com">[Grand View Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grandviewresearch.com</span><span class="citation-popover-title">personal development market</span><span class="citation-popover-snippet">personal development market</span></span></span>
+The market incentives push in the same direction. Personal development is now a large commercial category spanning books, coaching, digital learning, motivational events, corporate training and wellness products. Grand View Research estimated the global personal development market at USD 48.4 billion in 2024 and projected further growth to 2030. That scale does not prove the industry is fraudulent, but it does explain why simple, repeatable promises travel faster than cautious evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.grandviewresearch.com/industry-analysis/personal-development-market" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grandviewresearch.com">[Grand View Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grandviewresearch.com</span><span class="citation-popover-title">personal development market</span><span class="citation-popover-snippet">personal development market</span></span></span>
 
 A careful reader should therefore separate three things: the emotional lift of an idea, the practical behaviour it asks for, and the evidence that the behaviour actually changes outcomes. Much self-help succeeds at the first, varies widely on the second, and is weakest on the third.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb-Illustration-1-dark.svg" | relative_url }}" alt="Self Help Myths illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The overnight transformation myth
 
-The most marketable self-help story is the conversion narrative: one event, one book, one decision or one mental shift changes everything. It is appealing because it turns change into a clear before-and-after scene. It also fits the business model of motivational events, viral talks and dramatic testimonials. Tony Robbins’s official event marketing, for example, promises tools, strategies and “immediate impact”, while large seminars are built around high-energy emotional experiences and public breakthroughs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tonyrobbins.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tonyrobbins.com">[Tony Robbins]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tonyrobbins.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The most marketable self-help story is the conversion narrative: one event, one book, one decision or one mental shift changes everything. It is appealing because it turns change into a clear before-and-after scene. It also fits the business model of motivational events, viral talks and dramatic testimonials. Tony Robbins’s official event marketing, for example, promises tools, strategies and “immediate impact”, while large seminars are built around high-energy emotional experiences and public breakthroughs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tonyrobbins.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tonyrobbins.com">[Tony Robbins]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tonyrobbins.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The evidence for lasting personal change is less cinematic. Behaviour-change research tends to find that durable improvement is made from smaller mechanisms: specifying a goal, planning when and where to act, monitoring behaviour, receiving feedback, reviewing progress and adjusting the environment. A major taxonomy of behaviour-change techniques identifies 93 distinct techniques, including goal setting, prompts, feedback, rewards, [social support]({{ 'social-support/' | relative_url }}) and self-monitoring. The useful lesson is not that change is impossible; it is that “transformation” is usually a bundle of repeatable practices, not a single revelation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dhi.ac.uk/san/waysofbeing/data/health-jones-michie-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dhi.ac.uk">[DHI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dhi.ac.uk</span><span class="citation-popover-title">DHIThe Behavior Change Technique Taxonomy (v1) of 93</span><span class="citation-popover-snippet">July 10, 2013 — by W Hardeman · 2013 · Cited by 8918 — Objectives The objective of this study is to develop an extensive, consensually ag...</span><span class="citation-popover-meta">Published: July 10, 2013</span></span></span>
+The evidence for lasting personal change is less cinematic. Behaviour-change research tends to find that durable improvement is made from smaller mechanisms: specifying a goal, planning when and where to act, monitoring behaviour, receiving feedback, reviewing progress and adjusting the environment. A major taxonomy of behaviour-change techniques identifies 93 distinct techniques, including goal setting, prompts, feedback, rewards, [social support]({{ 'social-support/' | relative_url }}) and self-monitoring. The useful lesson is not that change is impossible; it is that “transformation” is usually a bundle of repeatable practices, not a single revelation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dhi.ac.uk/san/waysofbeing/data/health-jones-michie-2013.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dhi.ac.uk">[DHI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dhi.ac.uk</span><span class="citation-popover-title">DHIThe Behavior Change Technique Taxonomy (v1) of 93</span><span class="citation-popover-snippet">July 10, 2013 — by W Hardeman · 2013 · Cited by 8918 — Objectives The objective of this study is to develop an extensive, consensually ag...</span><span class="citation-popover-meta">Published: July 10, 2013</span></span></span>
 
-The overnight myth also hides the problem of follow-through. A person can leave a seminar or finish a book feeling clearer, braver and more hopeful, then return to the same calendar, kitchen, phone, job stress, sleep debt and social environment. Without changed cues and routines, the old behaviour is still the easiest behaviour. That is why implementation intentions — “if situation Y happens, then I will do X” plans — have stronger evidence than vague intention alone. A meta-analysis of 94 independent tests found implementation intentions had a positive medium-to-large effect on goal attainment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://kops.uni-konstanz.de/entities/publication/2e749bfb-8533-437c-8203-7e788c910c5f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-konstanz.de">[Kops]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-konstanz.de</span><span class="citation-popover-title">Kops Implementation intentions and goal achievement</span><span class="citation-popover-snippet">Kops Implementation intentions and goal achievement</span></span></span>
+The overnight myth also hides the problem of follow-through. A person can leave a seminar or finish a book feeling clearer, braver and more hopeful, then return to the same calendar, kitchen, phone, job stress, sleep debt and social environment. Without changed cues and routines, the old behaviour is still the easiest behaviour. That is why implementation intentions — “if situation Y happens, then I will do X” plans — have stronger evidence than vague intention alone. A meta-analysis of 94 independent tests found implementation intentions had a positive medium-to-large effect on goal attainment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://kops.uni-konstanz.de/entities/publication/2e749bfb-8533-437c-8203-7e788c910c5f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uni-konstanz.de">[Kops]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uni-konstanz.de</span><span class="citation-popover-title">Kops Implementation intentions and goal achievement</span><span class="citation-popover-snippet">Kops Implementation intentions and goal achievement</span></span></span>
 
 The honest version is less glamorous but more useful: breakthroughs can start change, but systems sustain it. A powerful weekend may help someone decide to exercise, apologise, study or quit a bad habit. The result depends on what happens next Monday morning.
 
@@ -534,13 +534,13 @@ The honest version is less glamorous but more useful: breakthroughs can start ch
 
 Few self-help myths are as sticky as the idea that a habit takes 21 days to form. It survives because it is short enough to sell as a challenge, long enough to feel serious, and tidy enough to print on a workbook. The problem is that it is not a general law of habit formation.
 
-The claim is usually traced back to Maxwell Maltz, a plastic surgeon whose 1960 book *Psycho-Cybernetics* discussed patients taking about three weeks to adjust psychologically to changes such as a new appearance after surgery. That observation was later simplified into a universal rule about habits, even though adjustment to a changed self-image is not the same as making a repeated behaviour automatic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jamesclear.com/new-habit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamesclear.com">[James Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamesclear.com</span><span class="citation-popover-title">James Clear How Long Does it Take to Form a Habit? Backed by Science</span><span class="citation-popover-snippet">James Clear How Long Does it Take to Form a Habit? Backed by Science</span></span></span>
+The claim is usually traced back to Maxwell Maltz, a plastic surgeon whose 1960 book *Psycho-Cybernetics* discussed patients taking about three weeks to adjust psychologically to changes such as a new appearance after surgery. That observation was later simplified into a universal rule about habits, even though adjustment to a changed self-image is not the same as making a repeated behaviour automatic.<span class="citation-chip-wrap"><a class="citation-chip" href="https://jamesclear.com/new-habit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jamesclear.com">[James Clear]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jamesclear.com</span><span class="citation-popover-title">James Clear How Long Does it Take to Form a Habit? Backed by Science</span><span class="citation-popover-snippet">James Clear How Long Does it Take to Form a Habit? Backed by Science</span></span></span>
 
-Modern habit research gives a messier and more helpful picture. Phillippa Lally and colleagues studied people forming everyday health-related habits in real-world conditions. Their 2010 paper found that [automaticity]({{ 'automaticity/' | relative_url }}) rose gradually and then tended to plateau; the commonly cited estimate was an average of 66 days, with wide variation across people and behaviours. UCL’s summary of the research reported the same average, while later habit-formation explainers emphasise that the timescale can vary substantially. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Modelling habit formation in the real world</span><span class="citation-popover-snippet">Online Library Modelling habit formation in the real world</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[University College London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-title">how long does it take form habit</span><span class="citation-popover-snippet">how long does it take form habit</span></span></span>
+Modern habit research gives a messier and more helpful picture. Phillippa Lally and colleagues studied people forming everyday health-related habits in real-world conditions. Their 2010 paper found that [automaticity]({{ 'automaticity/' | relative_url }}) rose gradually and then tended to plateau; the commonly cited estimate was an average of 66 days, with wide variation across people and behaviours. UCL’s summary of the research reported the same average, while later habit-formation explainers emphasise that the timescale can vary substantially.<span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Modelling habit formation in the real world</span><span class="citation-popover-snippet">Online Library Modelling habit formation in the real world</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[University College London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-title">how long does it take form habit</span><span class="citation-popover-snippet">how long does it take form habit</span></span></span>
 
 That variation matters more than the average. Drinking water with lunch, walking after dinner, meditating before work and writing for an hour each morning are not equivalent behaviours. They differ in effort, context, reward, complexity and friction. A habit that fits naturally into an existing routine may become automatic faster than one that fights against sleep, commute patterns, childcare, pain, anxiety or social pressure.
 
-The practical correction is simple: stop using 21 days as a pass-fail test. A better question is whether the behaviour is becoming easier, more cued by context and less dependent on mood. Missing a day does not reset the clock to zero; Lally’s work is often summarised as showing gradual automaticity rather than a perfect streak requirement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Modelling habit formation in the real world</span><span class="citation-popover-snippet">Online Library Modelling habit formation in the real world</span></span></span>
+The practical correction is simple: stop using 21 days as a pass-fail test. A better question is whether the behaviour is becoming easier, more cued by context and less dependent on mood. Missing a day does not reset the clock to zero; Lally’s work is often summarised as showing gradual automaticity rather than a perfect streak requirement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Modelling habit formation in the real world</span><span class="citation-popover-snippet">Online Library Modelling habit formation in the real world</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb-Illustration-2-dark.svg" | relative_url }}" alt="Self Help Myths illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_self_help_myths_5ac0eb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Motivation as marketing
@@ -549,9 +549,9 @@ Motivation sells because it feels like the missing ingredient. When people are s
 
 The self-help marketplace often turns motivation into a product: keynote energy, slogans, countdown rules, confidence rituals, identity declarations and high-arousal events. Some of these can help people begin. The danger is that the emotional state becomes confused with the behavioural system. Feeling ready is not the same as having a plan for Tuesday afternoon when attention is low and the cue to relapse is present.
 
-Research on goal pursuit offers a useful contrast. Positive fantasies alone can reduce useful effort when they let people mentally enjoy success without confronting obstacles. Gabriele Oettingen’s work on mental contrasting asks people to imagine a desired future and then compare it with the present obstacle that stands in the way. In that framework, optimism becomes useful when it is paired with reality testing and action planning, not when it floats above difficulty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.socmot.uni-konstanz.de/sites/default/files/00_Oettingen_Hoenig_Gollitzer_Goal_Attain.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: socmot.uni-konstanz.de">[Social Psychology and Motivation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">socmot.uni-konstanz.de</span><span class="citation-popover-title">Social Psychology and Motivation E!ective self-regulation of goal attainment</span><span class="citation-popover-snippet">Social Psychology and Motivation E!ective self-regulation of goal attainment</span></span></span>
+Research on goal pursuit offers a useful contrast. Positive fantasies alone can reduce useful effort when they let people mentally enjoy success without confronting obstacles. Gabriele Oettingen’s work on mental contrasting asks people to imagine a desired future and then compare it with the present obstacle that stands in the way. In that framework, optimism becomes useful when it is paired with reality testing and action planning, not when it floats above difficulty.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.socmot.uni-konstanz.de/sites/default/files/00_Oettingen_Hoenig_Gollitzer_Goal_Attain.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: socmot.uni-konstanz.de">[Social Psychology and Motivation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">socmot.uni-konstanz.de</span><span class="citation-popover-title">Social Psychology and Motivation E!ective self-regulation of goal attainment</span><span class="citation-popover-snippet">Social Psychology and Motivation E!ective self-regulation of goal attainment</span></span></span>
 
-This is where much self-help marketing overreaches. It borrows the emotional language of empowerment but underplays the dull work that makes empowerment real: reducing friction, arranging cues, practising in context, tracking the behaviour and getting feedback. In interventions for healthy eating and physical activity, meta-analytic work has supported combinations such as self-monitoring, goal setting, contextualised action goals, feedback and review of goals. These are not as thrilling as a stage breakthrough, but they are closer to the mechanics of change. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK77075/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This is where much self-help marketing overreaches. It borrows the emotional language of empowerment but underplays the dull work that makes empowerment real: reducing friction, arranging cues, practising in context, tracking the behaviour and getting feedback. In interventions for healthy eating and physical activity, meta-analytic work has supported combinations such as self-monitoring, goal setting, contextualised action goals, feedback and review of goals. These are not as thrilling as a stage breakthrough, but they are closer to the mechanics of change.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK77075/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Motivation is best treated as a starter, not a strategy. It can help someone choose a goal, imagine a better future or take the first action. It should not be expected to carry the whole project.
 
@@ -561,7 +561,7 @@ Motivation is best treated as a starter, not a strategy. It can help someone cho
 
 Quick-fix self-help often appears compassionate: you can change, you have agency, you are not trapped. That message can be valuable. But when the promise is inflated, the blame quietly returns to the reader. If a course says transformation is available now, failure to transform can feel like proof that the reader did not believe hard enough, commit fully enough or “want it” badly enough.
 
-This is one reason critics of positive-thinking culture have been so persistent. Barbara Ehrenreich’s critique of compulsory optimism argued that positive thinking can become coercive when it treats distress, doubt or structural difficulty as personal attitude problems. Whether one accepts all of Ehrenreich’s argument or not, the warning is relevant to self-help: an idea that begins as encouragement can become a way to individualise problems that also have material, medical, social or economic causes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/2016/03/28/smarter-faster-better-the-secrets-of-being-productive-in-life-and-business" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This is one reason critics of positive-thinking culture have been so persistent. Barbara Ehrenreich’s critique of compulsory optimism argued that positive thinking can become coercive when it treats distress, doubt or structural difficulty as personal attitude problems. Whether one accepts all of Ehrenreich’s argument or not, the warning is relevant to self-help: an idea that begins as encouragement can become a way to individualise problems that also have material, medical, social or economic causes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/2016/03/28/smarter-faster-better-the-secrets-of-being-productive-in-life-and-business" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The most harmful version shows up when complex mental health, trauma, poverty, burnout or illness are treated as mindset defects. A book or seminar may offer useful reframing, but reframing is not a substitute for safe housing, clinical care, fair work conditions, medication where appropriate, social support, rest or practical help. Responsible self improvement recognises agency without pretending that agency operates in a vacuum.
 
@@ -591,194 +591,194 @@ The promises most worth doubting are not the hopeful ones, but the ones that rem
 A better promise would sound more modest: change is possible, but it is usually slower, more specific and more environmental than the industry likes to admit. The first sign of a trustworthy method is not how inspired it makes you feel. It is whether it helps you do the next useful thing again tomorrow.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Which Self Help Promises Should You Doubt?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Which Self Help Promises Should You Doubt?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Evidence-oriented alternative to exaggerated self-help promises.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Evidence-oriented alternative to exaggerated self-help promises.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains biases behind many self-help claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains biases behind many self-help claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Carol S. Dweck</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
-        <p class="fr-book-desc">Addresses beliefs about improvement with research grounding.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
+</h4>
+<p class="fr-book-author">By Carol S. Dweck</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
+<p class="fr-book-desc">Addresses beliefs about improvement with research grounding.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
-        </h4>
-        <p class="fr-book-author">By Charles Duhigg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
+</h4>
+<p class="fr-book-author">By Charles Duhigg</p>
         
-        <p class="fr-book-desc">Focuses on actual behaviour change mechanisms.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on actual behaviour change mechanisms.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="which-self-help-promises-should-you-doubt-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="https://i.ebayimg.com/images/g/RngAAeSwppdoomKF/s-l225.jpg" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="which-self-help-promises-should-you-doubt-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="which-self-help-promises-should-you-doubt-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="which-self-help-promises-should-you-doubt-motivational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="which-self-help-promises-should-you-doubt-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5"><img src="https://i.ebayimg.com/images/g/RngAAeSwppdoomKF/s-l225.jpg" alt="Listing image for Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="which-self-help-promises-should-you-doubt-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">Motivational Quote Poster Wall Art Gym Office Bedroom Home Decor A4 A3 A5</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="which-self-help-promises-should-you-doubt-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="which-self-help-promises-should-you-doubt-motivational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="which-self-help-promises-should-you-doubt-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Inspirational Quotes Poster Prints - Motivational Posters - Funny Wall Home Art"><img src="https://i.ebayimg.com/images/g/zZ0AAOSwkf5jBMhm/s-l225.jpg" alt="Listing image for Inspirational Quotes Poster Prints - Motivational Posters - Funny Wall Home Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="which-self-help-promises-should-you-doubt-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">Inspirational Quotes Poster Prints - Motivational Posters - Funny Wall Home Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="which-self-help-promises-should-you-doubt-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="which-self-help-promises-should-you-doubt-motivational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="which-self-help-promises-should-you-doubt-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Inspirational Quotes Poster Prints - Motivational Posters - Funny Wall Home Art"><img src="https://i.ebayimg.com/images/g/zZ0AAOSwkf5jBMhm/s-l225.jpg" alt="Listing image for Inspirational Quotes Poster Prints - Motivational Posters - Funny Wall Home Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="which-self-help-promises-should-you-doubt-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">Inspirational Quotes Poster Prints - Motivational Posters - Funny Wall Home Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="which-self-help-promises-should-you-doubt-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="which-self-help-promises-should-you-doubt-motivational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="which-self-help-promises-should-you-doubt-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office"><img src="https://i.ebayimg.com/images/g/JPsAAeSwYqhpFjp3/s-l225.jpg" alt="Listing image for Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="which-self-help-promises-should-you-doubt-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="which-self-help-promises-should-you-doubt-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="which-self-help-promises-should-you-doubt-motivational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="which-self-help-promises-should-you-doubt-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office"><img src="https://i.ebayimg.com/images/g/JPsAAeSwYqhpFjp3/s-l225.jpg" alt="Listing image for Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="which-self-help-promises-should-you-doubt-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">Motivational Poster A3 A4 A5 Inspiring Wall Art Print for Home and Office</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="which-self-help-promises-should-you-doubt-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="which-self-help-promises-should-you-doubt-motivational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="which-self-help-promises-should-you-doubt-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gym Motivational Posters Workout Wall Art Inspirational Exercise Poster Prints"><img src="https://i.ebayimg.com/images/g/BDQAAOSwa7Zn1vig/s-l225.jpg" alt="Listing image for Gym Motivational Posters Workout Wall Art Inspirational Exercise Poster Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="which-self-help-promises-should-you-doubt-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">Gym Motivational Posters Workout Wall Art Inspirational Exercise Poster Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="which-self-help-promises-should-you-doubt-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="which-self-help-promises-should-you-doubt-motivational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="which-self-help-promises-should-you-doubt-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="which-self-help-promises-should-you-doubt-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Gym Motivational Posters Workout Wall Art Inspirational Exercise Poster Prints"><img src="https://i.ebayimg.com/images/g/BDQAAOSwa7Zn1vig/s-l225.jpg" alt="Listing image for Gym Motivational Posters Workout Wall Art Inspirational Exercise Poster Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="which-self-help-promises-should-you-doubt-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">Gym Motivational Posters Workout Wall Art Inspirational Exercise Poster Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="which-self-help-promises-should-you-doubt-motivational-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="which-self-help-promises-should-you-doubt-motivational-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-self-help-promises-should-you-doubt-motivational-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational poster" data-ebay-reference="which-self-help-promises-should-you-doubt-motivational-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -794,7 +794,7 @@ A better promise would sound more modest: change is possible, but it is usually 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -814,7 +814,7 @@ A better promise would sound more modest: change is possible, but it is usually 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -846,7 +846,7 @@ A better promise would sound more modest: change is possible, but it is usually 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -898,7 +898,7 @@ A better promise would sound more modest: change is possible, but it is usually 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -943,7 +943,7 @@ A better promise would sound more modest: change is possible, but it is usually 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -984,187 +984,187 @@ A better promise would sound more modest: change is possible, but it is usually 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: dhi.ac.uk  
    Title: DHIThe Behavior Change Technique Taxonomy (v1) of 93  
-   Link: <a href="https://www.dhi.ac.uk/san/waysofbeing/data/health-jones-michie-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dhi.ac.uk/san/waysofbeing/data/health-jones-michie-2013.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>July 10, 2013 — by W Hardeman · 2013 · Cited by 8918 — Objectives The objective of this study is to develop an extensive, consensually ag...</p></details>
+   Link:<a href="https://www.dhi.ac.uk/san/waysofbeing/data/health-jones-michie-2013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dhi.ac.uk/san/waysofbeing/data/health-jones-michie-2013.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 10, 2013 — by W Hardeman · 2013 · Cited by 8918 — Objectives The objective of this study is to develop an extensive, consensually ag...</p></details>
    Published: July 10, 2013  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: infed.org  
    Title: Arguing for the importance of character, thrift and perseverance, the book also  
-   Link: <a href="https://infed.org/dir/welcome/samuel-smiles-self-help-with-illustrations-of-character-and-conduct/" target="_blank" rel="noopener noreferrer nofollow">https://infed.org/dir/welcome/samuel-smiles-self-help-with-illustrations-of-character-and-conduct/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Samuel Smiles: Self help with illustrations of character...Samuel Smiles&#x27;s Self-Help is said to have reflected the spirit of its age...</p></details>
+   Link:<a href="https://infed.org/dir/welcome/samuel-smiles-self-help-with-illustrations-of-character-and-conduct/" target="_blank" rel="noopener noreferrer nofollow">https://infed.org/dir/welcome/samuel-smiles-self-help-with-illustrations-of-character-and-conduct/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Samuel Smiles: Self help with illustrations of character...Samuel Smiles&#x27;s Self-Help is said to have reflected the spirit of its age...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: onlinelibrary.wiley.com  
    Title: Online Library Modelling habit formation in the real world  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674</a>  
+   Link:<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ncbi.nlm.nih.gov  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK77075/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK77075/</a>  
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK77075/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK77075/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: esmarildad.medium.com  
    Title: the self help hoax why you remain stuck 6cf6d33f07cd  
-   Link: <a href="https://esmarildad.medium.com/the-self-help-hoax-why-you-remain-stuck-6cf6d33f07cd" target="_blank" rel="noopener noreferrer nofollow">https://esmarildad.medium.com/the-self-help-hoax-why-you-remain-stuck-6cf6d33f07cd</a>  
+   Link:<a href="https://esmarildad.medium.com/the-self-help-hoax-why-you-remain-stuck-6cf6d33f07cd" target="_blank" rel="noopener noreferrer nofollow">https://esmarildad.medium.com/the-self-help-hoax-why-you-remain-stuck-6cf6d33f07cd</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: booksmyrefuge.medium.com  
    Title: the dark reality behind the self help industry 0dd3acd31dd5  
-   Link: <a href="https://booksmyrefuge.medium.com/the-dark-reality-behind-the-self-help-industry-0dd3acd31dd5" target="_blank" rel="noopener noreferrer nofollow">https://booksmyrefuge.medium.com/the-dark-reality-behind-the-self-help-industry-0dd3acd31dd5</a>  
+   Link:<a href="https://booksmyrefuge.medium.com/the-dark-reality-behind-the-self-help-industry-0dd3acd31dd5" target="_blank" rel="noopener noreferrer nofollow">https://booksmyrefuge.medium.com/the-dark-reality-behind-the-self-help-industry-0dd3acd31dd5</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/swlh/when-a-skeptical-behavioural-scientist-goes-to-a-tony-robbins-event-e122062798f4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/swlh/when-a-skeptical-behavioural-scientist-goes-to-a-tony-robbins-event-e122062798f4</a>  
+   Link:<a href="https://medium.com/swlh/when-a-skeptical-behavioural-scientist-goes-to-a-tony-robbins-event-e122062798f4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/swlh/when-a-skeptical-behavioural-scientist-goes-to-a-tony-robbins-event-e122062798f4</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40claticivg/why-the-66-day-habit-installation-rule-is-a-myth-and-what-you-should-do-instead-e607bf5e6e5d" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40claticivg/why-the-66-day-habit-installation-rule-is-a-myth-and-what-you-should-do-instead-e607bf5e6e5d</a>  
+   Link:<a href="https://medium.com/%40claticivg/why-the-66-day-habit-installation-rule-is-a-myth-and-what-you-should-do-instead-e607bf5e6e5d" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40claticivg/why-the-66-day-habit-installation-rule-is-a-myth-and-what-you-should-do-instead-e607bf5e6e5d</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: medium.com  
    Title: the myth 21 days to change habits 1983c419faf7  
-   Link: <a href="https://medium.com/change-your-mind/the-myth-21-days-to-change-habits-1983c419faf7" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/change-your-mind/the-myth-21-days-to-change-habits-1983c419faf7</a>  
+   Link:<a href="https://medium.com/change-your-mind/the-myth-21-days-to-change-habits-1983c419faf7" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/change-your-mind/the-myth-21-days-to-change-habits-1983c419faf7</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: newyorker.com  
-   Link: <a href="https://www.newyorker.com/magazine/2016/03/28/smarter-faster-better-the-secrets-of-being-productive-in-life-and-business" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2016/03/28/smarter-faster-better-the-secrets-of-being-productive-in-life-and-business</a>  
+   Link:<a href="https://www.newyorker.com/magazine/2016/03/28/smarter-faster-better-the-secrets-of-being-productive-in-life-and-business" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2016/03/28/smarter-faster-better-the-secrets-of-being-productive-in-life-and-business</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: grandviewresearch.com  
    Title: personal development market  
-   Link: <a href="https://www.grandviewresearch.com/industry-analysis/personal-development-market" target="_blank" rel="noopener noreferrer nofollow">https://www.grandviewresearch.com/industry-analysis/personal-development-market</a>  
+   Link:<a href="https://www.grandviewresearch.com/industry-analysis/personal-development-market" target="_blank" rel="noopener noreferrer nofollow">https://www.grandviewresearch.com/industry-analysis/personal-development-market</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: tonyrobbins.com  
-   Link: <a href="https://www.tonyrobbins.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.tonyrobbins.com/</a>  
+   Link:<a href="https://www.tonyrobbins.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.tonyrobbins.com/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: tonyrobbins.com  
-   Link: <a href="https://www.tonyrobbins.com/events-calendar" target="_blank" rel="noopener noreferrer nofollow">https://www.tonyrobbins.com/events-calendar</a>  
+   Link:<a href="https://www.tonyrobbins.com/events-calendar" target="_blank" rel="noopener noreferrer nofollow">https://www.tonyrobbins.com/events-calendar</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: jamesclear.com  
    Title: James Clear How Long Does it Take to Form a Habit? Backed by Science  
-   Link: <a href="https://jamesclear.com/new-habit" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/new-habit</a>  
+   Link:<a href="https://jamesclear.com/new-habit" target="_blank" rel="noopener noreferrer nofollow">https://jamesclear.com/new-habit</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ucl.ac.uk  
    Title: how long does it take form habit  
-   Link: <a href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow">https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit</a>  
+   Link:<a href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow">https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: socmot.uni-konstanz.de  
    Title: Social Psychology and Motivation E!ective self-regulation of goal attainment  
-   Link: <a href="https://www.socmot.uni-konstanz.de/sites/default/files/00_Oettingen_Hoenig_Gollitzer_Goal_Attain.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.socmot.uni-konstanz.de/sites/default/files/00_Oettingen_Hoenig_Gollitzer_Goal_Attain.pdf</a>  
+   Link:<a href="https://www.socmot.uni-konstanz.de/sites/default/files/00_Oettingen_Hoenig_Gollitzer_Goal_Attain.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.socmot.uni-konstanz.de/sites/default/files/00_Oettingen_Hoenig_Gollitzer_Goal_Attain.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: newyorker.com  
    Title: The New Yorker Power Lines  
-   Link: <a href="https://www.newyorker.com/magazine/2010/09/13/power-lines-2" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2010/09/13/power-lines-2</a>  
+   Link:<a href="https://www.newyorker.com/magazine/2010/09/13/power-lines-2" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2010/09/13/power-lines-2</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: newyorker.com  
-   Link: <a href="https://www.newyorker.com/culture/the-new-yorker-interview/barbara-ehrenreich-is-not-an-optimist-but-she-has-hope-for-the-future" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/the-new-yorker-interview/barbara-ehrenreich-is-not-an-optimist-but-she-has-hope-for-the-future</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ehrenreich discusses solidarity, societal resilience, and her critique of the professional-managerial class&#x27;s (P.M.C.) role in perpetuati...</p></details>
+   Link:<a href="https://www.newyorker.com/culture/the-new-yorker-interview/barbara-ehrenreich-is-not-an-optimist-but-she-has-hope-for-the-future" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/culture/the-new-yorker-interview/barbara-ehrenreich-is-not-an-optimist-but-she-has-hope-for-the-future</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ehrenreich discusses solidarity, societal resilience, and her critique of the professional-managerial class&#x27;s (P.M.C.) role in perpetuati...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
    Title: Gabriele OETTINGEN  
-   Link: <a href="https://www.researchgate.net/profile/Gabriele-Oettingen/2" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Gabriele-Oettingen/2</a>  
+   Link:<a href="https://www.researchgate.net/profile/Gabriele-Oettingen/2" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Gabriele-Oettingen/2</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: dev.mrarch.com  
    Title: tony robbins controversy  
-   Link: <a href="https://dev.mrarch.com/story/9TW/384/xOknqZ/tony_robbins_controversy" target="_blank" rel="noopener noreferrer nofollow">https://dev.mrarch.com/story/9TW/384/xOknqZ/tony_robbins_controversy</a>  
+   Link:<a href="https://dev.mrarch.com/story/9TW/384/xOknqZ/tony_robbins_controversy" target="_blank" rel="noopener noreferrer nofollow">https://dev.mrarch.com/story/9TW/384/xOknqZ/tony_robbins_controversy</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: lessfoolish.substack.com  
    Title: tony robbins a less foolish review  
-   Link: <a href="https://lessfoolish.substack.com/p/tony-robbins-a-less-foolish-review" target="_blank" rel="noopener noreferrer nofollow">https://lessfoolish.substack.com/p/tony-robbins-a-less-foolish-review</a>  
+   Link:<a href="https://lessfoolish.substack.com/p/tony-robbins-a-less-foolish-review" target="_blank" rel="noopener noreferrer nofollow">https://lessfoolish.substack.com/p/tony-robbins-a-less-foolish-review</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: as.nyu.edu  
    Title: gabriele oettingen  
-   Link: <a href="https://as.nyu.edu/faculty/gabriele-oettingen.html" target="_blank" rel="noopener noreferrer nofollow">https://as.nyu.edu/faculty/gabriele-oettingen.html</a>  
+   Link:<a href="https://as.nyu.edu/faculty/gabriele-oettingen.html" target="_blank" rel="noopener noreferrer nofollow">https://as.nyu.edu/faculty/gabriele-oettingen.html</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: gminsights.com  
    Title: personal development market  
-   Link: <a href="https://www.gminsights.com/industry-analysis/personal-development-market" target="_blank" rel="noopener noreferrer nofollow">https://www.gminsights.com/industry-analysis/personal-development-market</a>  
+   Link:<a href="https://www.gminsights.com/industry-analysis/personal-development-market" target="_blank" rel="noopener noreferrer nofollow">https://www.gminsights.com/industry-analysis/personal-development-market</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: journal.aleftrust.org  
-   Link: <a href="https://www.journal.aleftrust.org/index.php/cstp/article/view/26/34" target="_blank" rel="noopener noreferrer nofollow">https://www.journal.aleftrust.org/index.php/cstp/article/view/26/34</a>  
+   Link:<a href="https://www.journal.aleftrust.org/index.php/cstp/article/view/26/34" target="_blank" rel="noopener noreferrer nofollow">https://www.journal.aleftrust.org/index.php/cstp/article/view/26/34</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: tonyrobbins.com  
-   Link: <a href="https://www.tonyrobbins.com/events/unleash-the-power-within" target="_blank" rel="noopener noreferrer nofollow">https://www.tonyrobbins.com/events/unleash-the-power-within</a>  
+   Link:<a href="https://www.tonyrobbins.com/events/unleash-the-power-within" target="_blank" rel="noopener noreferrer nofollow">https://www.tonyrobbins.com/events/unleash-the-power-within</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: bookbrowse.com  
-   Link: <a href="https://www.bookbrowse.com/bb_briefs/detail/index.cfm/ezine_preview_number/4247/brightsided" target="_blank" rel="noopener noreferrer nofollow">https://www.bookbrowse.com/bb_briefs/detail/index.cfm/ezine_preview_number/4247/brightsided</a>  
+   Link:<a href="https://www.bookbrowse.com/bb_briefs/detail/index.cfm/ezine_preview_number/4247/brightsided" target="_blank" rel="noopener noreferrer nofollow">https://www.bookbrowse.com/bb_briefs/detail/index.cfm/ezine_preview_number/4247/brightsided</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: jasonconnell.co  
-   Link: <a href="https://jasonconnell.co/tony/" target="_blank" rel="noopener noreferrer nofollow">https://jasonconnell.co/tony/</a>  
+   Link:<a href="https://jasonconnell.co/tony/" target="_blank" rel="noopener noreferrer nofollow">https://jasonconnell.co/tony/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/4048406" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/4048406</a>  
+   Link:<a href="https://www.jstor.org/stable/4048406" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/4048406</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: trustpilot.com  
-   Link: <a href="https://www.trustpilot.com/review/tonyrobbins.com?page=4" target="_blank" rel="noopener noreferrer nofollow">https://www.trustpilot.com/review/tonyrobbins.com?page=4</a>  
+   Link:<a href="https://www.trustpilot.com/review/tonyrobbins.com?page=4" target="_blank" rel="noopener noreferrer nofollow">https://www.trustpilot.com/review/tonyrobbins.com?page=4</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: mentalsymmetry.com  
-   Link: <a href="https://www.mentalsymmetry.com/robbins.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.mentalsymmetry.com/robbins.htm</a>  
+   Link:<a href="https://www.mentalsymmetry.com/robbins.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.mentalsymmetry.com/robbins.htm</a>  
 
 ### Additional References
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: The Dangerous Myth of Self-Improvement  
-   Link: <a href="https://www.youtube.com/watch?v=vPWnNG5FQvo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vPWnNG5FQvo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Toxic World of Self Help: Hustle Culture, Toxic Positivity, Addiction, and Fake Gurus...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vPWnNG5FQvo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vPWnNG5FQvo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Toxic World of Self Help: Hustle Culture, Toxic Positivity, Addiction, and Fake Gurus...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: ore.exeter.ac.uk  
-   Link: <a href="https://ore.exeter.ac.uk/ndownloader/files/56708903" target="_blank" rel="noopener noreferrer nofollow">https://ore.exeter.ac.uk/ndownloader/files/56708903</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of ExeterMichie, Abraham et al (2009) Effective techniquesby S Michie · Cited by 2889 — In conclusion, our analyses offer clea...</p></details>
+   Link:<a href="https://ore.exeter.ac.uk/ndownloader/files/56708903" target="_blank" rel="noopener noreferrer nofollow">https://ore.exeter.ac.uk/ndownloader/files/56708903</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of ExeterMichie, Abraham et al (2009) Effective techniquesby S Michie · Cited by 2889 — In conclusion, our analyses offer clea...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes</a>  
+   Link:<a href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/338793396_Self-regulatory_behavior_change_techniques_in_interventions_to_promote_healthy_eating_physical_activity_or_weight_loss_A_meta-review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/338793396_Self-regulatory_behavior_change_techniques_in_interventions_to_promote_healthy_eating_physical_activity_or_weight_loss_A_meta-review</a>  
+   Link:<a href="https://www.researchgate.net/publication/338793396_Self-regulatory_behavior_change_techniques_in_interventions_to_promote_healthy_eating_physical_activity_or_weight_loss_A_meta-review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/338793396_Self-regulatory_behavior_change_techniques_in_interventions_to_promote_healthy_eating_physical_activity_or_weight_loss_A_meta-review</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/355380169_Understanding_attendees%27_transformative_experiences_following_Tony_Robbins%27s_Unleash_the_Power_Within_seminars" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/355380169_Understanding_attendees%27_transformative_experiences_following_Tony_Robbins%27s_Unleash_the_Power_Within_seminars</a>  
+   Link:<a href="https://www.researchgate.net/publication/355380169_Understanding_attendees%27_transformative_experiences_following_Tony_Robbins%27s_Unleash_the_Power_Within_seminars" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/355380169_Understanding_attendees%27_transformative_experiences_following_Tony_Robbins%27s_Unleash_the_Power_Within_seminars</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: assistpt.com  
-   Link: <a href="https://assistpt.com/21-days-to-break-a-habit-myth/" target="_blank" rel="noopener noreferrer nofollow">https://assistpt.com/21-days-to-break-a-habit-myth/</a>  
+   Link:<a href="https://assistpt.com/21-days-to-break-a-habit-myth/" target="_blank" rel="noopener noreferrer nofollow">https://assistpt.com/21-days-to-break-a-habit-myth/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants</a>  
+   Link:<a href="https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/392171846_Un-Help_Why_Your_Pain_Is_Profitable_An_Epistemic_Critique_of_the_Self-Help_Industry" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392171846_Un-Help_Why_Your_Pain_Is_Profitable_An_Epistemic_Critique_of_the_Self-Help_Industry</a>  
+   Link:<a href="https://www.researchgate.net/publication/392171846_Un-Help_Why_Your_Pain_Is_Profitable_An_Epistemic_Critique_of_the_Self-Help_Industry" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392171846_Un-Help_Why_Your_Pain_Is_Profitable_An_Epistemic_Critique_of_the_Self-Help_Industry</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: uploads-ssl.webflow.com  
-   Link: <a href="https://uploads-ssl.webflow.com/59faaf5b01b9500001e95457/5bc55b08a8a9d854aace2c9f_Duckworth%2C%20A.%20L.%2C%20Kirby%2C%20T.%20A.%2C%20Gollwitzer%2C%20A.%2C%20%26%20Oettingen%2C%20G.%202013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://uploads-ssl.webflow.com/59faaf5b01b9500001e95457/5bc55b08a8a9d854aace2c9f_Duckworth%2C%20A.%20L.%2C%20Kirby%2C%20T.%20A.%2C%20Gollwitzer%2C%20A.%2C%20%26%20Oettingen%2C%20G.%202013.pdf</a>  
+   Link:<a href="https://uploads-ssl.webflow.com/59faaf5b01b9500001e95457/5bc55b08a8a9d854aace2c9f_Duckworth%2C%20A.%20L.%2C%20Kirby%2C%20T.%20A.%2C%20Gollwitzer%2C%20A.%2C%20%26%20Oettingen%2C%20G.%202013.pdf" target="_blank" rel="noopener noreferrer nofollow">https://uploads-ssl.webflow.com/59faaf5b01b9500001e95457/5bc55b08a8a9d854aace2c9f_Duckworth%2C%20A.%20L.%2C%20Kirby%2C%20T.%20A.%2C%20Gollwitzer%2C%20A.%2C%20%26%20Oettingen%2C%20G.%202013.pdf</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/5226990_A_Taxonomy_of_Behavior_Change_Techniques_Used_in_Interventions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/5226990_A_Taxonomy_of_Behavior_Change_Techniques_Used_in_Interventions</a>
+   Link:<a href="https://www.researchgate.net/publication/5226990_A_Taxonomy_of_Behavior_Change_Techniques_Used_in_Interventions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/5226990_A_Taxonomy_of_Behavior_Change_Techniques_Used_in_Interventions</a>

@@ -271,13 +271,13 @@ image: /assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_delay_rul
 A delay rule is a simple if-then plan that inserts time between an urge and an action. Its purpose is not to eliminate temptation. It is to prevent a fast, emotionally driven choice from becoming an automatic behaviour before your longer-term goals have a chance to enter the decision. For impulse spending and late-night scrolling, this matters because both behaviours often thrive on immediacy. The purchase feels urgent now. The next video seems harmless now. The cost arrives later.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_delay_rules_impulses_73e03e-Illustration-1-dark.svg" | relative_url }}" alt="Delay Rules illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_delay_rules_impulses_73e03e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_delay_rules_impulses_73e03e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research on implementation intentions suggests that pre-decided if-then responses can help people follow through on goals by linking a specific cue to a specific action. The delay rule is one practical version of that principle: “If I feel the urge, then I will wait.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — One effective strategy to reduce this intention–behavior gap is the formation of implementation in...</span></span></span>
+Research on implementation intentions suggests that pre-decided if-then responses can help people follow through on goals by linking a specific cue to a specific action. The delay rule is one practical version of that principle: “If I feel the urge, then I will wait.”<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — One effective strategy to reduce this intention–behavior gap is the formation of implementation in...</span></span></span>
 
 ## Can a Pause Beat an Impulse?
 
 The power of a delay rule comes from changing the decision moment itself.
 
-Impulse buying and excessive scrolling often occur when attention is narrowed to the immediate reward. Studies of consumer behaviour consistently find that time pressure, urgency cues, and emotionally charged environments increase impulsive purchasing. When people feel rushed, they are more likely to rely on quick emotional reactions rather than deliberate evaluation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/org/science/article/pii/S0309056620000076" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">If-then plans help regulate automatic peer influence on...by JL Thürmer · 2020 · Cited by 84 — In Study 1, the role of implementation in...</span></span></span>
+Impulse buying and excessive scrolling often occur when attention is narrowed to the immediate reward. Studies of consumer behaviour consistently find that time pressure, urgency cues, and emotionally charged environments increase impulsive purchasing. When people feel rushed, they are more likely to rely on quick emotional reactions rather than deliberate evaluation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/org/science/article/pii/S0309056620000076" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">If-then plans help regulate automatic peer influence on...by JL Thürmer · 2020 · Cited by 84 — In Study 1, the role of implementation in...</span></span></span>
 
 A delay rule works because it removes the urgency. Instead of deciding whether to buy or continue scrolling right now, the person follows a pre-made instruction:
 
@@ -299,9 +299,9 @@ The most useful way to think about a delay rule is as a transfer of control from
 
 Without a rule, every temptation becomes a fresh debate. With a rule, the debate is postponed.
 
-Consider an online purchase. Many digital shopping environments are designed to encourage fast decisions through scarcity messages, countdown timers, flash sales, personalised recommendations, and one-click purchasing. Research shows that time-related promotional [techniques]({{ 'techniques/' | relative_url }}) can intensify impulsive buying by increasing emotional arousal and reducing deliberation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/org/science/article/pii/S0309056620000076" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">If-then plans help regulate automatic peer influence on...by JL Thürmer · 2020 · Cited by 84 — In Study 1, the role of implementation in...</span></span></span>
+Consider an online purchase. Many digital shopping environments are designed to encourage fast decisions through scarcity messages, countdown timers, flash sales, personalised recommendations, and one-click purchasing. Research shows that time-related promotional [techniques]({{ 'techniques/' | relative_url }}) can intensify impulsive buying by increasing emotional arousal and reducing deliberation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/org/science/article/pii/S0309056620000076" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">If-then plans help regulate automatic peer influence on...by JL Thürmer · 2020 · Cited by 84 — In Study 1, the role of implementation in...</span></span></span>
 
-A delay rule interrupts that process: <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40blake-winters/the-48-hour-buy-later-rule-one-tiny-delay-that-kills-impulse-buys-without-feeling-deprived-ce8a3f1d2d9c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[medium.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">The 48-Hour Buy-Later Rule: One Tiny Delay That Kills...This is the simplest anti-impulse system I know: Pause → Prove → Purchase...</span></span></span>
+A delay rule interrupts that process:<span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/%40blake-winters/the-48-hour-buy-later-rule-one-tiny-delay-that-kills-impulse-buys-without-feeling-deprived-ce8a3f1d2d9c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[medium.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">The 48-Hour Buy-Later Rule: One Tiny Delay That Kills...This is the simplest anti-impulse system I know: Pause → Prove → Purchase...</span></span></span>
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -310,7 +310,7 @@ A delay rule interrupts that process: <span class="citation-chip-wrap"><a class=
 
 </div>
 
-The same mechanism applies to late-night scrolling. Bedtime procrastination research has repeatedly linked problematic smartphone use with delayed sleep and poorer sleep outcomes. People often continue using devices despite intending to sleep because the immediate reward of stimulation outweighs the distant reward of rest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — One effective strategy to reduce this intention–behavior gap is the formation of implementation in...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — One effective strategy to reduce this intention–behavior gap is the formation of implementation in...</span></span></span>
+The same mechanism applies to late-night scrolling. Bedtime procrastination research has repeatedly linked problematic smartphone use with delayed sleep and poorer sleep outcomes. People often continue using devices despite intending to sleep because the immediate reward of stimulation outweighs the distant reward of rest.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — One effective strategy to reduce this intention–behavior gap is the formation of implementation in...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — One effective strategy to reduce this intention–behavior gap is the formation of implementation in...</span></span></span>
 
 A delay rule shifts the sequence:
 
@@ -338,14 +338,14 @@ For larger purchases, some people extend the delay:
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
 * 24 hours for small discretionary purchases
-* 72 hours for medium purchases <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/write-a-catalyst/the-24-hour-rule-to-stop-impulse-spending-forever-598c52740052" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[medium.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">the 24 hour rule to stop impulse spending forever 598c52740052</span><span class="citation-popover-snippet">The 24-Hour Rule To Stop Impulse Spending ForeverA 2023 global consumer behavior study showed that over 60% of impulse purchases were reg...</span></span></span>
+* 72 hours for medium purchases<span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/write-a-catalyst/the-24-hour-rule-to-stop-impulse-spending-forever-598c52740052" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[medium.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">the 24 hour rule to stop impulse spending forever 598c52740052</span><span class="citation-popover-snippet">The 24-Hour Rule To Stop Impulse Spending ForeverA 2023 global consumer behavior study showed that over 60% of impulse purchases were reg...</span></span></span>
 * Seven days for expensive purchases
 
 </div>
 
 The exact number matters less than having a clear rule. The important feature is that the waiting period is predetermined.
 
-Many people report that simply adding items to a basket and leaving them there dramatically reduces later purchasing. Community discussions among frugal consumers frequently describe this effect: a substantial proportion of desired items lose their appeal after a day or two of waiting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/Frugal/comments/1nt6am7/life_pro_tip_the_24hour_rule_saved_me_from_6700/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Life Pro Tip: The &quot;24-Hour Rule&quot; saved me from...September 29, 2025 — Last January, I decided to implement a simple rule: I must w...</span><span class="citation-popover-meta">Published: September 29, 2025</span></span></span>
+Many people report that simply adding items to a basket and leaving them there dramatically reduces later purchasing. Community discussions among frugal consumers frequently describe this effect: a substantial proportion of desired items lose their appeal after a day or two of waiting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/Frugal/comments/1nt6am7/life_pro_tip_the_24hour_rule_saved_me_from_6700/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Life Pro Tip: The &quot;24-Hour Rule&quot; saved me from...September 29, 2025 — Last January, I decided to implement a simple rule: I must w...</span><span class="citation-popover-meta">Published: September 29, 2025</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_delay_rules_impulses_73e03e-Illustration-2-dark.svg" | relative_url }}" alt="Delay Rules illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_delay_rules_impulses_73e03e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_if_then_plans_58a9d0_delay_rules_impulses_73e03e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### For late-night scrolling
@@ -360,7 +360,7 @@ Examples include:
 
 These rules work because scrolling often depends on continuous engagement. Small interruptions can be surprisingly effective when the habit relies on automatic repetition.
 
-Research on bedtime procrastination highlights that behaviour occurring after a person intends to sleep is often less about conscious choice and more about difficulty disengaging from stimulation. Interrupting that sequence can therefore have outsized effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — One effective strategy to reduce this intention–behavior gap is the formation of implementation in...</span></span></span>
+Research on bedtime procrastination highlights that behaviour occurring after a person intends to sleep is often less about conscious choice and more about difficulty disengaging from stimulation. Interrupting that sequence can therefore have outsized effects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — One effective strategy to reduce this intention–behavior gap is the formation of implementation in...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xv1fbTgjIGc" title="The Secret Psychology Behind Impulse Buying" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xv1fbTgjIGc" target="_blank" rel="noopener noreferrer">The Secret Psychology Behind Impulse Buying</a></p><p class="youtube-embed-meta">Channel: The Chill Historian &middot; Views: 1.5K &middot; Uploaded: September 2025 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xv1fbTgjIGc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xv1fbTgjIGc">Open on YouTube</a></p></div></div></div>
 
@@ -394,7 +394,7 @@ For scrolling, friction might include:
 
 </div>
 
-These measures make the delay easier to follow because they increase the effort required to act immediately. Behavioural research repeatedly finds that small increases in effort can significantly influence choices, especially when people are already tired, distracted, or mentally depleted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.realsimple.com/experts-explain-why-supermarket-checkout-aisles-are-so-tempting-11931783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: realsimple.com">[Real Simple]</a><span class="citation-popover" role="note"><span class="citation-popover-source">realsimple.com</span><span class="citation-popover-snippet">According to behavioral experts, several psychological mechanisms play a role. Shoppers often experience decision fatigue by the time the...</span></span></span>
+These measures make the delay easier to follow because they increase the effort required to act immediately. Behavioural research repeatedly finds that small increases in effort can significantly influence choices, especially when people are already tired, distracted, or mentally depleted.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.realsimple.com/experts-explain-why-supermarket-checkout-aisles-are-so-tempting-11931783" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: realsimple.com">[Real Simple]</a><span class="citation-popover" role="note"><span class="citation-popover-source">realsimple.com</span><span class="citation-popover-snippet">According to behavioral experts, several psychological mechanisms play a role. Shoppers often experience decision fatigue by the time the...</span></span></span>
 
 The strongest if-then plans often combine both elements:
 
@@ -419,7 +419,7 @@ The message is different:
 
 That distinction matters psychologically. The person retains choice while reducing impulsivity.
 
-This is especially useful for late-night scrolling, where attempts at total abstinence can create resistance or rebound behaviour. Sleep researchers frequently note that bedtime procrastination is often tied to a desire for autonomy, relaxation, or personal time rather than simple ignorance about sleep. <span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofindia.indiatimes.com/etimes/wellness/revenge-bedtime-procrastination-why-you-stay-up-late-even-when-youre-exhausted-and-how-to-win-over-this-habit/photostory/128981096.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofindia.indiatimes.com">[The Times of India]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofindia.indiatimes.com</span><span class="citation-popover-snippet">Revenge bedtime procrastination refers to the common behavior of delaying sleep to gain a sense of personal freedom lost during the day...</span></span></span>
+This is especially useful for late-night scrolling, where attempts at total abstinence can create resistance or rebound behaviour. Sleep researchers frequently note that bedtime procrastination is often tied to a desire for autonomy, relaxation, or personal time rather than simple ignorance about sleep.<span class="citation-chip-wrap"><a class="citation-chip" href="https://timesofindia.indiatimes.com/etimes/wellness/revenge-bedtime-procrastination-why-you-stay-up-late-even-when-youre-exhausted-and-how-to-win-over-this-habit/photostory/128981096.cms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timesofindia.indiatimes.com">[The Times of India]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timesofindia.indiatimes.com</span><span class="citation-popover-snippet">Revenge bedtime procrastination refers to the common behavior of delaying sleep to gain a sense of personal freedom lost during the day...</span></span></span>
 
 A delay rule respects that desire while still protecting the goal. It does not demand perfect self-control. It only demands a pause.
 
@@ -428,253 +428,253 @@ Within an if-then planning system, that pause is often enough. The temptation re
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zawiK8eltMc" title="How to Stop Impulse Spending (Without Shame or Deprivation)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zawiK8eltMc" target="_blank" rel="noopener noreferrer">How to Stop Impulse Spending (Without Shame or Deprivation)</a></p><p class="youtube-embed-meta">Channel: Inspired Budget &middot; Views: 213 &middot; Uploaded: February 2026 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zawiK8eltMc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zawiK8eltMc">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can a Pause Beat an Impulse?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can a Pause Beat an Impulse?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Covers delaying impulses through environment design, friction, and preplanned responses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Covers delaying impulses through environment design, friction, and preplanned responses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
-        </h4>
-        <p class="fr-book-author">By B. J. Fogg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
+</h4>
+<p class="fr-book-author">By B. J. Fogg</p>
         
-        <p class="fr-book-desc">Focuses on designing responses to triggers and making better actions easier than impulsive ones.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on designing responses to triggers and making better actions easier than impulsive ones.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Willpower+by+Roy+F.+Baumeister&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Willpower on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HpJ1bH3RLAsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Willpower" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Willpower+by+Roy+F.+Baumeister&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Willpower">Willpower</a>
-        </h4>
-        <p class="fr-book-author">By Roy F. Baumeister, John Tierney</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Willpower+by+Roy+F.+Baumeister&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Willpower on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HpJ1bH3RLAsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Willpower" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Willpower+by+Roy+F.+Baumeister&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Willpower">Willpower</a>
+</h4>
+<p class="fr-book-author">By Roy F. Baumeister, John Tierney</p>
         
-        <p class="fr-book-desc">Directly addresses impulse control, delayed gratification, and decision-making.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Willpower+by+Roy+F.+Baumeister&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses impulse control, delayed gratification, and decision-making.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Willpower+by+Roy+F.+Baumeister&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
-        </h4>
-        <p class="fr-book-author">By Charles Duhigg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
+</h4>
+<p class="fr-book-author">By Charles Duhigg</p>
         
-        <p class="fr-book-desc">Explains cue-routine-reward loops that drive impulse actions and how to interrupt them.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cue-routine-reward loops that drive impulse actions and how to interrupt them.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Willpower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Willpower</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Willpower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Willpower</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=can+pause+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-can-pause-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for No Mom, I Can’t Pause My Game Neon Style Poster Unframed 30x40cm"><img src="{{ '/assets/images/marketplace-covers/ad276656b2b198651554.jpg' | relative_url }}" alt="Listing image for No Mom, I Can’t Pause My Game Neon Style Poster Unframed 30x40cm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=can+pause+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-can-pause-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">No Mom, I Can’t Pause My Game Neon Style Poster Unframed 30x40cm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=can+pause+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-can-pause-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for can pause poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: can pause poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=can+pause+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-can-pause-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=can+pause+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-can-pause-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for No Mom, I Can’t Pause My Game Neon Style Poster Unframed 30x40cm"><img src="{{ '/assets/images/marketplace-covers/ad276656b2b198651554.jpg' | relative_url }}" alt="Listing image for No Mom, I Can’t Pause My Game Neon Style Poster Unframed 30x40cm" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=can+pause+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-can-pause-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">No Mom, I Can’t Pause My Game Neon Style Poster Unframed 30x40cm</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=can+pause+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-can-pause-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for can pause poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: can pause poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=can+pause+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-can-pause-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=can+pause+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-can-pause-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for You Can Not Pause A Game Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f0751c0e4543813428a8.jpg' | relative_url }}" alt="Listing image for You Can Not Pause A Game Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=can+pause+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-can-pause-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">You Can Not Pause A Game Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=can+pause+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-can-pause-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for can pause poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: can pause poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=can+pause+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-can-pause-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=can+pause+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-can-pause-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for You Can Not Pause A Game Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f0751c0e4543813428a8.jpg' | relative_url }}" alt="Listing image for You Can Not Pause A Game Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=can+pause+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-can-pause-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">You Can Not Pause A Game Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=can+pause+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-can-pause-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for can pause poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: can pause poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=can+pause+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-can-pause-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=can+pause+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-can-pause-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Can t pause a game Framed Wall Art Poster Canvas Print Picture"><span>eBay</span></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=can+pause+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-can-pause-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Can t pause a game Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=can+pause+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-can-pause-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for can pause poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: can pause poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=can+pause+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-can-pause-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=can+pause+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-can-pause-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.ebay.co.uk/sch/i.html?_nkw=can+pause+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-can-pause-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Can t pause a game Framed Wall Art Poster Canvas Print Picture"><span>eBay</span></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=can+pause+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-can-pause-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Can t pause a game Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=can+pause+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-can-pause-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for can pause poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: can pause poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=can+pause+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-can-pause-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=can+pause+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delay-rules-can-a-pause-beat-an-impulse-self-improvement-that-works-can-pause-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -690,7 +690,7 @@ Within an if-then planning system, that pause is often enough. The temptation re
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -710,7 +710,7 @@ Within an if-then planning system, that pause is often enough. The temptation re
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -742,7 +742,7 @@ Within an if-then planning system, that pause is often enough. The temptation re
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -772,7 +772,7 @@ Within an if-then planning system, that pause is often enough. The temptation re
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -830,183 +830,183 @@ Within an if-then planning system, that pause is often enough. The temptation re
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCPromoting the translation of intentions into action by  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by F Wieber · 2015 · Cited by 215 — One effective strategy to reduce this intention–behavior gap is the formation of implementation in...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by F Wieber · 2015 · Cited by 215 — One effective strategy to reduce this intention–behavior gap is the formation of implementation in...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/org/science/article/pii/S0309056620000076" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S0309056620000076</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>If-then plans help regulate automatic peer influence on...by JL Thürmer · 2020 · Cited by 84 — In Study 1, the role of implementation in...</p></details>
+   Link:<a href="https://www.sciencedirect.com/org/science/article/pii/S0309056620000076" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S0309056620000076</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>If-then plans help regulate automatic peer influence on...by JL Thürmer · 2020 · Cited by 84 — In Study 1, the role of implementation in...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2405844023103938" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2405844023103938</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Relationship between time pressure and consumers...by B Sun · 2023 · Cited by 102 — The results suggest that time pressure...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2405844023103938" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2405844023103938</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Relationship between time pressure and consumers...by B Sun · 2023 · Cited by 102 — The results suggest that time pressure...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Online promotion effects under time limitation  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167923623000386" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0167923623000386</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This study fills the gap in the...Read more...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0167923623000386" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0167923623000386</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This study fills the gap in the...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11481336/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11481336/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>technical and situational cues affect impulse buying...by Y Xue · 2024 · Cited by 20 — This paper explores how technical cues and situat...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11481336/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11481336/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>technical and situational cues affect impulse buying...by Y Xue · 2024 · Cited by 20 — This paper explores how technical cues and situat...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11059092/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11059092/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Association Between Bedtime Procrastination, Sleep...by A Bozkurt · 2024 · Cited by 33 — This study investigated the relationship...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11059092/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11059092/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Association Between Bedtime Procrastination, Sleep...by A Bozkurt · 2024 · Cited by 33 — This study investigated the relationship...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10604906/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10604906/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>between Problematic Smartphone Use, Sleep...by S Correa-Iriarte · 2023 · Cited by 57 — The purpose of this investigation was to study th...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10604906/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10604906/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>between Problematic Smartphone Use, Sleep...by S Correa-Iriarte · 2023 · Cited by 57 — The purpose of this investigation was to study th...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0306460320306821" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0306460320306821</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of smartphone addiction on sleep quality among...by MX Zhang · 2020 · Cited by 341 — The current study tested the effects of sma...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0306460320306821" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0306460320306821</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of smartphone addiction on sleep quality among...by MX Zhang · 2020 · Cited by 341 — The current study tested the effects of sma...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Frugal/comments/1nt6am7/life_pro_tip_the_24hour_rule_saved_me_from_6700/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Frugal/comments/1nt6am7/life_pro_tip_the_24hour_rule_saved_me_from_6700/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Life Pro Tip: The &quot;24-Hour Rule&quot; saved me from...September 29, 2025 — Last January, I decided to implement a simple rule: I must w...</p></details>
+   Link:<a href="https://www.reddit.com/r/Frugal/comments/1nt6am7/life_pro_tip_the_24hour_rule_saved_me_from_6700/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Frugal/comments/1nt6am7/life_pro_tip_the_24hour_rule_saved_me_from_6700/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Life Pro Tip: The &quot;24-Hour Rule&quot; saved me from...September 29, 2025 — Last January, I decided to implement a simple rule: I must w...</p></details>
    Published: September 29, 2025  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7460337/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7460337/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An Exploratory Study on Sleep Procrastination: Bedtime vs...by P Magalhães · 2020 · Cited by 75 — The main goal of this study is to e...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7460337/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7460337/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An Exploratory Study on Sleep Procrastination: Bedtime vs...by P Magalhães · 2020 · Cited by 75 — The main goal of this study is to e...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S138994572500231X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S138994572500231X</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Failing to plan: Bedtime planning, bedtime procrastination...by Z Pu · 2025 · Cited by 10 — This study aimed to characterize bedtime pla...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S138994572500231X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S138994572500231X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Failing to plan: Bedtime planning, bedtime procrastination...by Z Pu · 2025 · Cited by 10 — This study aimed to characterize bedtime pla...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40blake-winters/the-48-hour-buy-later-rule-one-tiny-delay-that-kills-impulse-buys-without-feeling-deprived-ce8a3f1d2d9c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40blake-winters/the-48-hour-buy-later-rule-one-tiny-delay-that-kills-impulse-buys-without-feeling-deprived-ce8a3f1d2d9c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 48-Hour Buy-Later Rule: One Tiny Delay That Kills...This is the simplest anti-impulse system I know: Pause → Prove → Purchase...</p></details>
+   Link:<a href="https://medium.com/%40blake-winters/the-48-hour-buy-later-rule-one-tiny-delay-that-kills-impulse-buys-without-feeling-deprived-ce8a3f1d2d9c" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40blake-winters/the-48-hour-buy-later-rule-one-tiny-delay-that-kills-impulse-buys-without-feeling-deprived-ce8a3f1d2d9c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 48-Hour Buy-Later Rule: One Tiny Delay That Kills...This is the simplest anti-impulse system I know: Pause → Prove → Purchase...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: medium.com  
    Title: the 24 hour rule to stop impulse spending forever 598c52740052  
-   Link: <a href="https://medium.com/write-a-catalyst/the-24-hour-rule-to-stop-impulse-spending-forever-598c52740052" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/write-a-catalyst/the-24-hour-rule-to-stop-impulse-spending-forever-598c52740052</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 24-Hour Rule To Stop Impulse Spending ForeverA 2023 global consumer behavior study showed that over 60% of impulse purchases were reg...</p></details>
+   Link:<a href="https://medium.com/write-a-catalyst/the-24-hour-rule-to-stop-impulse-spending-forever-598c52740052" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/write-a-catalyst/the-24-hour-rule-to-stop-impulse-spending-forever-598c52740052</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 24-Hour Rule To Stop Impulse Spending ForeverA 2023 global consumer behavior study showed that over 60% of impulse purchases were reg...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0969698923002850" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0969698923002850</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Impulse buying tendency in live-stream commerceby Y Qu · 2023 · Cited by 204 — This research examines the mediating role of viewing frequ...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0969698923002850" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0969698923002850</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Impulse buying tendency in live-stream commerceby Y Qu · 2023 · Cited by 204 — This research examines the mediating role of viewing frequ...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2405844024117744" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2405844024117744</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A comprehensive study on factors influencing online...by TTA Ngo · 2024 · Cited by 132 — This research analyzes the influence of product...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2405844024117744" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2405844024117744</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A comprehensive study on factors influencing online...by TTA Ngo · 2024 · Cited by 132 — This research analyzes the influence of product...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0306460323003015" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0306460323003015</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This two-wave study...Read more...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0306460323003015" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0306460323003015</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This two-wave study...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2451958823000702" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2451958823000702</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rationality and impulse buying: Is your emotion a part of...by YY Lee · 2023 · Cited by 61 — This study examines normative evaluation in...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2451958823000702" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2451958823000702</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rationality and impulse buying: Is your emotion a part of...by YY Lee · 2023 · Cited by 61 — This study examines normative evaluation in...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: money.com  
    Title: It requires you to wait a full day before buying non-essential items. The pause  
-   Link: <a href="https://money.com/24-hour-rule-impulse-spending-retirees/" target="_blank" rel="noopener noreferrer nofollow">https://money.com/24-hour-rule-impulse-spending-retirees/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The &#x27;24-Hour Rule&#x27; That Helps Retirees Make Their Money LastApr 16, 2026 — The 24-hour rule initiates guardrails on impulse spending...</p></details>
+   Link:<a href="https://money.com/24-hour-rule-impulse-spending-retirees/" target="_blank" rel="noopener noreferrer nofollow">https://money.com/24-hour-rule-impulse-spending-retirees/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The &#x27;24-Hour Rule&#x27; That Helps Retirees Make Their Money LastApr 16, 2026 — The 24-hour rule initiates guardrails on impulse spending...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: realsimple.com  
-   Link: <a href="https://www.realsimple.com/experts-explain-why-supermarket-checkout-aisles-are-so-tempting-11931783" target="_blank" rel="noopener noreferrer nofollow">https://www.realsimple.com/experts-explain-why-supermarket-checkout-aisles-are-so-tempting-11931783</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>According to behavioral experts, several psychological mechanisms play a role. Shoppers often experience decision fatigue by the time the...</p></details>
+   Link:<a href="https://www.realsimple.com/experts-explain-why-supermarket-checkout-aisles-are-so-tempting-11931783" target="_blank" rel="noopener noreferrer nofollow">https://www.realsimple.com/experts-explain-why-supermarket-checkout-aisles-are-so-tempting-11931783</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>According to behavioral experts, several psychological mechanisms play a role. Shoppers often experience decision fatigue by the time the...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: timesofindia.indiatimes.com  
-   Link: <a href="https://timesofindia.indiatimes.com/etimes/wellness/revenge-bedtime-procrastination-why-you-stay-up-late-even-when-youre-exhausted-and-how-to-win-over-this-habit/photostory/128981096.cms" target="_blank" rel="noopener noreferrer nofollow">https://timesofindia.indiatimes.com/etimes/wellness/revenge-bedtime-procrastination-why-you-stay-up-late-even-when-youre-exhausted-and-how-to-win-over-this-habit/photostory/128981096.cms</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Revenge bedtime procrastination refers to the common behavior of delaying sleep to gain a sense of personal freedom lost during the day...</p></details>
+   Link:<a href="https://timesofindia.indiatimes.com/etimes/wellness/revenge-bedtime-procrastination-why-you-stay-up-late-even-when-youre-exhausted-and-how-to-win-over-this-habit/photostory/128981096.cms" target="_blank" rel="noopener noreferrer nofollow">https://timesofindia.indiatimes.com/etimes/wellness/revenge-bedtime-procrastination-why-you-stay-up-late-even-when-youre-exhausted-and-how-to-win-over-this-habit/photostory/128981096.cms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Revenge bedtime procrastination refers to the common behavior of delaying sleep to gain a sense of personal freedom lost during the day...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Bedtime" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bedtime</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BedtimeBedtime is a parenting ritual to help children feel more secure and become accustomed to a more rigid schedule of sleep than th...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Bedtime" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bedtime</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BedtimeBedtime is a parenting ritual to help children feel more secure and become accustomed to a more rigid schedule of sleep than th...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Bedtime procrastination  
-   Link: <a href="https://en.wikipedia.org/wiki/Bedtime_procrastination" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bedtime_procrastination</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bedtime procrastinationThe results show that off-time work-related smartphone use may provoke bedtime procrastination. The negative im...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Bedtime_procrastination" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bedtime_procrastination</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bedtime procrastinationThe results show that off-time work-related smartphone use may provoke bedtime procrastination. The negative im...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: sleepfoundation.org  
    Title: revenge bedtime procrastination  
-   Link: <a href="https://www.sleepfoundation.org/sleep-hygiene/revenge-bedtime-procrastination" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/sleep-hygiene/revenge-bedtime-procrastination</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jul 15, 2025 — Revenge bedtime procrastination is staying up late even when you know you need sleep. Learn why it happens and how to stop it...</p></details>
+   Link:<a href="https://www.sleepfoundation.org/sleep-hygiene/revenge-bedtime-procrastination" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/sleep-hygiene/revenge-bedtime-procrastination</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jul 15, 2025 — Revenge bedtime procrastination is staying up late even when you know you need sleep. Learn why it happens and how to stop it...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: invespcro.com  
    Title: impulse buying  
-   Link: <a href="https://www.invespcro.com/blog/impulse-buying/" target="_blank" rel="noopener noreferrer nofollow">https://www.invespcro.com/blog/impulse-buying/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The State of Impulse Buying (Statistics &amp; Trends 2025)Learn what is impulse buying, who impulse buyers are, what triggers their spending...</p></details>
+   Link:<a href="https://www.invespcro.com/blog/impulse-buying/" target="_blank" rel="noopener noreferrer nofollow">https://www.invespcro.com/blog/impulse-buying/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The State of Impulse Buying (Statistics &amp; Trends 2025)Learn what is impulse buying, who impulse buyers are, what triggers their spending...</p></details>
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/396143931_The_Cost_of_Midnight_Scrolling_Smartphone-_Induced_Bedtime_Procrastination_as_a_Predictor_of_Daytime_Sleepiness_and_Life_Satisfaction" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396143931_The_Cost_of_Midnight_Scrolling_Smartphone-_Induced_Bedtime_Procrastination_as_a_Predictor_of_Daytime_Sleepiness_and_Life_Satisfaction</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Induced Bedtime Procrastination as a Predictor of Daytime...3 Oct 2025 — This study examined the level of smartphone-induced bedtime pro...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/396143931_The_Cost_of_Midnight_Scrolling_Smartphone-_Induced_Bedtime_Procrastination_as_a_Predictor_of_Daytime_Sleepiness_and_Life_Satisfaction" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396143931_The_Cost_of_Midnight_Scrolling_Smartphone-_Induced_Bedtime_Procrastination_as_a_Predictor_of_Daytime_Sleepiness_and_Life_Satisfaction</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Induced Bedtime Procrastination as a Predictor of Daytime...3 Oct 2025 — This study examined the level of smartphone-induced bedtime pro...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/big-problems/reducing-online-impulse-buying-for-smarter-purchases" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/big-problems/reducing-online-impulse-buying-for-smarter-purchases</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reducing Online Impulse Buying for Smarter PurchasesImpulse buying refers to the unplanned and spontaneous decision to buy a product or s...</p></details>
+   Link:<a href="https://thedecisionlab.com/big-problems/reducing-online-impulse-buying-for-smarter-purchases" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/big-problems/reducing-online-impulse-buying-for-smarter-purchases</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reducing Online Impulse Buying for Smarter PurchasesImpulse buying refers to the unplanned and spontaneous decision to buy a product or s...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: emerald.com  
-   Link: <a href="https://www.emerald.com/ijrdm/article/53/2/182/1244732/Understanding-impulse-buying-in-interest-based-e" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/ijrdm/article/53/2/182/1244732/Understanding-impulse-buying-in-interest-based-e</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding impulse buying in interest-based e-commerceThis study expands the stream of impulse buying research in retailing by proposi...</p></details>
+   Link:<a href="https://www.emerald.com/ijrdm/article/53/2/182/1244732/Understanding-impulse-buying-in-interest-based-e" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/ijrdm/article/53/2/182/1244732/Understanding-impulse-buying-in-interest-based-e</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding impulse buying in interest-based e-commerceThis study expands the stream of impulse buying research in retailing by proposi...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: ouci.dntb.gov.ua  
-   Link: <a href="https://ouci.dntb.gov.ua/en/works/4YB1ey6l/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/4YB1ey6l/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>dntb.gov.uaIf-then plans help regulate automatic peer influence on...PurposeThis study aims to take a dual-process perspective and argue...</p></details>
+   Link:<a href="https://ouci.dntb.gov.ua/en/works/4YB1ey6l/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/en/works/4YB1ey6l/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>dntb.gov.uaIf-then plans help regulate automatic peer influence on...PurposeThis study aims to take a dual-process perspective and argue...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: hrmars.com  
-   Link: <a href="https://hrmars.com/papers_submitted/26641/the-cost-of-midnight-scrolling-smartphone-induced-bedtime-procrastination-as-a-predictor-of-daytime-sleepiness-and-life-satisfaction.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hrmars.com/papers_submitted/26641/the-cost-of-midnight-scrolling-smartphone-induced-bedtime-procrastination-as-a-predictor-of-daytime-sleepiness-and-life-satisfaction.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Problematic smartphone use before bedtime has become a growing concern due to its adverse consequences on the daily functioning of...Rea...</p></details>
+   Link:<a href="https://hrmars.com/papers_submitted/26641/the-cost-of-midnight-scrolling-smartphone-induced-bedtime-procrastination-as-a-predictor-of-daytime-sleepiness-and-life-satisfaction.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hrmars.com/papers_submitted/26641/the-cost-of-midnight-scrolling-smartphone-induced-bedtime-procrastination-as-a-predictor-of-daytime-sleepiness-and-life-satisfaction.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Problematic smartphone use before bedtime has become a growing concern due to its adverse consequences on the daily functioning of...Rea...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: journal.uitm.edu.my  
-   Link: <a href="https://journal.uitm.edu.my/ojs/index.php/IJ/article/download/3477/1627/12106" target="_blank" rel="noopener noreferrer nofollow">https://journal.uitm.edu.my/ojs/index.php/IJ/article/download/3477/1627/12106</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FACTORS AFFECTING ONLINE IMPULSE...This research aims to examine the relationship between shopping environment, website quality, promoti...</p></details>
+   Link:<a href="https://journal.uitm.edu.my/ojs/index.php/IJ/article/download/3477/1627/12106" target="_blank" rel="noopener noreferrer nofollow">https://journal.uitm.edu.my/ojs/index.php/IJ/article/download/3477/1627/12106</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FACTORS AFFECTING ONLINE IMPULSE...This research aims to examine the relationship between shopping environment, website quality, promoti...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: jmsr-online.com  
-   Link: <a href="https://jmsr-online.com/article/understanding-the-psychology-of-impulse-buying-in-e-commerce-a-behavioral-review-314/" target="_blank" rel="noopener noreferrer nofollow">https://jmsr-online.com/article/understanding-the-psychology-of-impulse-buying-in-e-commerce-a-behavioral-review-314/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Psychology of Impulse Buying in E-...by R Chaudhary · 2025 · Cited by 11 — Online impulse buying has psychological roo...</p></details>
+   Link:<a href="https://jmsr-online.com/article/understanding-the-psychology-of-impulse-buying-in-e-commerce-a-behavioral-review-314/" target="_blank" rel="noopener noreferrer nofollow">https://jmsr-online.com/article/understanding-the-psychology-of-impulse-buying-in-e-commerce-a-behavioral-review-314/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Psychology of Impulse Buying in E-...by R Chaudhary · 2025 · Cited by 11 — Online impulse buying has psychological roo...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: researchgate.net  
    Title: 342606016 If then plans help regulate automatic peer influence on impulse buying  
-   Link: <a href="https://www.researchgate.net/publication/342606016_If-then_plans_help_regulate_automatic_peer_influence_on_impulse_buying" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342606016_If-then_plans_help_regulate_automatic_peer_influence_on_impulse_buying</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>If-then plans help regulate automatic peer influence on...4 Jul 2020 — This study aims to take a dual-process perspective and argues tha...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/342606016_If-then_plans_help_regulate_automatic_peer_influence_on_impulse_buying" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342606016_If-then_plans_help_regulate_automatic_peer_influence_on_impulse_buying</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>If-then plans help regulate automatic peer influence on...4 Jul 2020 — This study aims to take a dual-process perspective and argues tha...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: whistl.app  
-   Link: <a href="https://www.whistl.app/psychology-of-impulse-buying-2026.html" target="_blank" rel="noopener noreferrer nofollow">https://www.whistl.app/psychology-of-impulse-buying-2026.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learn the neuroscience behind spending urges and 12 science-backed strategies to resist them...</p></details>
+   Link:<a href="https://www.whistl.app/psychology-of-impulse-buying-2026.html" target="_blank" rel="noopener noreferrer nofollow">https://www.whistl.app/psychology-of-impulse-buying-2026.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Learn the neuroscience behind spending urges and 12 science-backed strategies to resist them...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: jier.org  
-   Link: <a href="https://jier.org/index.php/journal/article/download/3500/2793/6232" target="_blank" rel="noopener noreferrer nofollow">https://jier.org/index.php/journal/article/download/3500/2793/6232</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>eptable phenomenon, this consumer behavior is prevalent on a global scale.Read more...</p></details>
+   Link:<a href="https://jier.org/index.php/journal/article/download/3500/2793/6232" target="_blank" rel="noopener noreferrer nofollow">https://jier.org/index.php/journal/article/download/3500/2793/6232</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>eptable phenomenon, this consumer behavior is prevalent on a global scale.Read more...</p></details>

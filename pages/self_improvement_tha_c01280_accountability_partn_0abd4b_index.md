@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /self-improvement-tha-c01280/
 description: Focused pages that expand on Accountability.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: self_improvement_tha_c01280_accountability_partn_0abd4b
 parent_title: Accountability
@@ -16,7 +16,7 @@ parent_permalink: /accountability/
 
 # Explore Topics in Accountability
 
-The following pages expand on the main **[Accountability]({{ '/accountability/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Accountability]({{ '/accountability/' | relative_url }})** page and cover its key branches in.
 
 - [If then plans]({{ '/if-then-plans-cdbb5b/' | relative_url }})
 - [Retrieval groups]({{ '/retrieval-groups/' | relative_url }})

@@ -505,7 +505,7 @@ image: /assets/images/self_improvement_tha_c01280_app_blockers_1932a2-overview-s
 App [blockers]({{ 'blockers/' | relative_url }}) help when they turn a vague intention — “I should stop checking this” — into a boundary that is already in place when attention is weakest. They are not magic discipline apps, and they do not solve every cause of overuse. Their practical value is narrower and more useful: they add friction at the exact moment when a distracting app, site or feed would otherwise be opened automatically.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2-overview.webp" | relative_url }}" alt="Overview image for App Blockers" loading="eager" decoding="sync" fetchpriority="high">
-The evidence is strongest for app blockers as part of behaviour design, not as a moral cure for distraction. Studies of digital self-control tools suggest that blocking, delays, scheduling and usage [feedback]({{ 'feedback/' | relative_url }}) can reduce unwanted use, especially when the person has chosen the target apps and the block fits a real routine. The main risk is either too little friction, which is easy to ignore, or too much prohibition, which feels punitive and gets abandoned. The best version is a planned, adjustable barrier that protects a specific time, place or activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.2213114120" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Directing smartphone use through the self-nudge app one...by DJ Grüning · 2023 · Cited by 93 — The intervention effect of the app is...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S1071581922000957" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The Goldilocks level of support: Using user reviews, ratings...by U Lyngs · 2022 · Cited by 55 — We analyse ratings &amp; revie...</span></span></span>
+The evidence is strongest for app blockers as part of behaviour design, not as a moral cure for distraction. Studies of digital self-control tools suggest that blocking, delays, scheduling and usage [feedback]({{ 'feedback/' | relative_url }}) can reduce unwanted use, especially when the person has chosen the target apps and the block fits a real routine. The main risk is either too little friction, which is easy to ignore, or too much prohibition, which feels punitive and gets abandoned. The best version is a planned, adjustable barrier that protects a specific time, place or activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.2213114120" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Directing smartphone use through the self-nudge app one...by DJ Grüning · 2023 · Cited by 93 — The intervention effect of the app is...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S1071581922000957" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The Goldilocks level of support: Using user reviews, ratings...by U Lyngs · 2022 · Cited by 55 — We analyse ratings &amp; revie...</span></span></span>
 
 ## Friction beats willpower at the moment of temptation
 
@@ -513,20 +513,20 @@ Most people do not open distracting apps after a careful cost-benefit analysis. 
 
 This is why “digital friction” is often more realistic than pure prohibition. Friction can mean a full block, but it can also mean a delay, a breathing prompt, a password held by someone else, a scheduled lockout, a greyscale mode, or moving an app off the home screen. The point is not to make technology unusable. It is to make the unwanted action less automatic than the intended action.
 
-A clear example comes from research on the “one sec” app, a self-nudge tool that inserts a short delay before selected apps open. In a large field study, the app reduced actual openings of target apps by 57% after six consecutive weeks. The intervention combined delay, a breathing cue and a prompt to reconsider the intended app use, so the effect should not be attributed to delay alone; still, it shows the practical power of interrupting the first tap rather than relying on later regret. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.2213114120" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Directing smartphone use through the self-nudge app one...by DJ Grüning · 2023 · Cited by 93 — The intervention effect of the app is...</span></span></span>
+A clear example comes from research on the “one sec” app, a self-nudge tool that inserts a short delay before selected apps open. In a large field study, the app reduced actual openings of target apps by 57% after six consecutive weeks. The intervention combined delay, a breathing cue and a prompt to reconsider the intended app use, so the effect should not be attributed to delay alone; still, it shows the practical power of interrupting the first tap rather than relying on later regret.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pnas.org/doi/10.1073/pnas.2213114120" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pnas.org">[PNAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pnas.org</span><span class="citation-popover-snippet">Directing smartphone use through the self-nudge app one...by DJ Grüning · 2023 · Cited by 93 — The intervention effect of the app is...</span></span></span>
 
-The same logic appears in broader reviews of digital self-control tools. Researchers have found that these tools use several mechanisms: blocking access, setting goals, showing usage data, adding [reminders]({{ 'reminders/' | relative_url }}), rewarding restraint, or making distraction socially visible. The evidence base is still uneven, but interventions that change the action [environment]({{ 'environment/' | relative_url }}) tend to be more promising than tools that merely increase awareness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1902.00157" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/10.1111/jcal.12581" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryDigital self‐control interventions for distracting media...13 Aug 2021 — These interventions use different approache...</span></span></span>
+The same logic appears in broader reviews of digital self-control tools. Researchers have found that these tools use several mechanisms: blocking access, setting goals, showing usage data, adding [reminders]({{ 'reminders/' | relative_url }}), rewarding restraint, or making distraction socially visible. The evidence base is still uneven, but interventions that change the action [environment]({{ 'environment/' | relative_url }}) tend to be more promising than tools that merely increase awareness.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1902.00157" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/10.1111/jcal.12581" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-snippet">Wiley Online LibraryDigital self‐control interventions for distracting media...13 Aug 2021 — These interventions use different approache...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2-Illustration-1-dark.svg" | relative_url }}" alt="App Blockers illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Friction versus prohibition
 
 A useful app blocker does not have to be the harshest one. In fact, the design problem is finding the right amount of resistance for the behaviour being changed. A five-second pause may be enough for compulsive app opening. A locked work-session block may be better for writing, study or deep work. A full mobile-internet block may be appropriate for a short reset, but too disruptive for ordinary weeks.
 
-Research on user reviews of 334 digital self-control tools described this as a “Goldilocks” problem: users want [support]({{ 'support/' | relative_url }}) that is strong enough to change behaviour but not so coercive that it feels hostile or unusable. The same study found that users want tools to match their personal definitions of distraction, because the same app can be useful in one context and harmful in another. WhatsApp may be necessary for family logistics at 6 pm, but a distraction during an exam revision session. YouTube may be education at 3 pm and sleep sabotage at midnight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1071581922000957" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The Goldilocks level of support: Using user reviews, ratings...by U Lyngs · 2022 · Cited by 55 — We analyse ratings &amp; revie...</span></span></span>
+Research on user reviews of 334 digital self-control tools described this as a “Goldilocks” problem: users want [support]({{ 'support/' | relative_url }}) that is strong enough to change behaviour but not so coercive that it feels hostile or unusable. The same study found that users want tools to match their personal definitions of distraction, because the same app can be useful in one context and harmful in another. WhatsApp may be necessary for family logistics at 6 pm, but a distraction during an exam revision session. YouTube may be education at 3 pm and sleep sabotage at midnight.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1071581922000957" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The Goldilocks level of support: Using user reviews, ratings...by U Lyngs · 2022 · Cited by 55 — We analyse ratings &amp; revie...</span></span></span>
 
 That distinction matters because prohibition can create brittle systems. If every block feels like a fight, the user learns to hunt for loopholes: another browser, another device, deleting the extension, changing the time, overriding a limit, or moving the habit to a different app. Friction works better when it preserves enough agency to feel self-chosen while still making the impulsive path inconvenient.
 
-Apple and Google’s built-in tools illustrate the tradeoff. Apple’s Screen Time includes Downtime and App Limits, and Apple notes that Screen Time limits can be ignored by default unless stronger settings are used. Android’s Digital Wellbeing includes app timers, usage dashboards, Bedtime mode and Focus mode, with some devices also supporting a PIN for app time limits. These are useful first-line tools, but their default softness means they often work best for awareness and light friction rather than hard commitment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://play.google.com/store/apps/details?hl=en&amp;id=com.google.android.apps.wellbeing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: play.google.com">[Google Play]</a><span class="citation-popover" role="note"><span class="citation-popover-source">play.google.com</span><span class="citation-popover-title">Play Digital Wellbeing</span><span class="citation-popover-snippet">Play Digital Wellbeing</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://support.apple.com/en-us/108806" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.apple.com">[Apple Support]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.apple.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://support.google.com/android/answer/9346420?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.google.com">[Google Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.google.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Apple and Google’s built-in tools illustrate the tradeoff. Apple’s Screen Time includes Downtime and App Limits, and Apple notes that Screen Time limits can be ignored by default unless stronger settings are used. Android’s Digital Wellbeing includes app timers, usage dashboards, Bedtime mode and Focus mode, with some devices also supporting a PIN for app time limits. These are useful first-line tools, but their default softness means they often work best for awareness and light friction rather than hard commitment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://play.google.com/store/apps/details?hl=en&amp;id=com.google.android.apps.wellbeing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: play.google.com">[Google Play]</a><span class="citation-popover" role="note"><span class="citation-popover-source">play.google.com</span><span class="citation-popover-title">Play Digital Wellbeing</span><span class="citation-popover-snippet">Play Digital Wellbeing</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://support.apple.com/en-us/108806" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.apple.com">[Apple Support]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.apple.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://support.google.com/android/answer/9346420?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.google.com">[Google Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.google.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 A practical way to choose the level of friction is to match it to the failure pattern:
 
@@ -549,7 +549,7 @@ Scheduling is where app blockers become most useful for self improvement that wo
 
 The best schedule starts with one recurring danger zone. That might be social media before work, news during lunch, YouTube after 10 pm, shopping apps on payday, or messaging apps during a study block. A narrow scheduled block is often better than an all-day ban because it answers a specific behavioural question: “What do I want this time to be for?”
 
-A workplace study of distraction-blocking software gives a useful anchor. Participants spent five days in a baseline condition and five days using software that blocked online distractions. With blocking software, they rated their productivity higher and reported being able to focus for longer; the people who benefited most were those most distracted by social media. Interviews also found a behavioural [substitution]({{ 'substitution/' | relative_url }}) effect: some people shifted from online distractions to physical breaks, such as leaving the office. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.microsoft.com/en-us/research/publication/how-blocking-distractions-affects-workplace-focus-and-productivity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: microsoft.com">[Microsoft]</a><span class="citation-popover" role="note"><span class="citation-popover-source">microsoft.com</span><span class="citation-popover-title">how blocking distractions affects workplace focus and productivity</span><span class="citation-popover-snippet">how blocking distractions affects workplace focus and productivity</span></span></span>
+A workplace study of distraction-blocking software gives a useful anchor. Participants spent five days in a baseline condition and five days using software that blocked online distractions. With blocking software, they rated their productivity higher and reported being able to focus for longer; the people who benefited most were those most distracted by social media. Interviews also found a behavioural [substitution]({{ 'substitution/' | relative_url }}) effect: some people shifted from online distractions to physical breaks, such as leaving the office.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.microsoft.com/en-us/research/publication/how-blocking-distractions-affects-workplace-focus-and-productivity/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: microsoft.com">[Microsoft]</a><span class="citation-popover" role="note"><span class="citation-popover-source">microsoft.com</span><span class="citation-popover-title">how blocking distractions affects workplace focus and productivity</span><span class="citation-popover-snippet">how blocking distractions affects workplace focus and productivity</span></span></span>
 
 That last point is important. A good block should not simply remove a coping mechanism. It should make room for a better one. If a person uses social media to recover from demanding work, a scheduled blocker needs a replacement break: stand up, make tea, walk outside, stretch, message one person intentionally, or do nothing for three minutes. Otherwise the blocker may feel like deprivation rather than support.
 
@@ -568,15 +568,15 @@ For implementation, the strongest schedules tend to be concrete:
 <img src="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2-Illustration-2-dark.svg" | relative_url }}" alt="App Blockers illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_app_blockers_1932a2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the evidence can and cannot promise
 
-The evidence for app blockers is promising but not uniform. Reviews of digital self-control interventions have repeatedly noted that the field includes many commercial tools but fewer rigorous long-term trials. Some studies show meaningful reductions in use, while others suggest that awareness-only tools are weak and that effectiveness depends heavily on design, context and the user’s own motivation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dl.acm.org/doi/10.1145/3571810" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dl.acm.org">[ACM Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dl.acm.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10498313/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The evidence for app blockers is promising but not uniform. Reviews of digital self-control interventions have repeatedly noted that the field includes many commercial tools but fewer rigorous long-term trials. Some studies show meaningful reductions in use, while others suggest that awareness-only tools are weak and that effectiveness depends heavily on design, context and the user’s own motivation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dl.acm.org/doi/10.1145/3571810" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dl.acm.org">[ACM Digital Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dl.acm.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10498313/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 One reason the evidence is mixed is that “screen time” is not one behaviour. Blocking TikTok during revision, limiting work email after dinner, preventing gambling-site access, delaying Instagram, and removing mobile internet for two weeks are different interventions. They target different cues, rewards and harms. A single headline about app blockers “working” or “not working” usually hides this variation.
 
-A striking recent experiment found that blocking mobile internet on smartphones for two weeks reduced smartphone use and improved subjective wellbeing, mental health and sustained attention. Participants could still make calls and send texts, and they could use the internet on other devices, so the intervention specifically reduced constant phone-based internet access rather than removing the internet from life altogether. However, adherence was a challenge: not everyone who agreed to the intervention fully maintained the block. <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/pnasnexus/article/4/2/pgaf017/8016017" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/36795756/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Afterward, participants also reported</span><span class="citation-popover-snippet">Directing smartphone use through the self-nudge app one...by DJ Grüning · 2023 · Cited by 93 — In sum, one sec decreased users&#x27; ac...</span></span></span>
+A striking recent experiment found that blocking mobile internet on smartphones for two weeks reduced smartphone use and improved subjective wellbeing, mental health and sustained attention. Participants could still make calls and send texts, and they could use the internet on other devices, so the intervention specifically reduced constant phone-based internet access rather than removing the internet from life altogether. However, adherence was a challenge: not everyone who agreed to the intervention fully maintained the block.<span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/pnasnexus/article/4/2/pgaf017/8016017" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/36795756/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Afterward, participants also reported</span><span class="citation-popover-snippet">Directing smartphone use through the self-nudge app one...by DJ Grüning · 2023 · Cited by 93 — In sum, one sec decreased users&#x27; ac...</span></span></span>
 
 That makes the practical lesson more modest than “delete the internet”. The lesson is that constant access has costs for some people, and stronger friction can reveal what life feels like when the phone is no longer the default portal for every impulse. But the same study also shows that strong blocks are hard to sustain. For everyday self improvement, a durable scheduled boundary may beat an impressive but short-lived digital detox.
 
-There is also evidence that soft commitment devices can reduce use. In an experimental study of 629 participants, people tended to spend more time on phones and social media than they predicted or wanted, and those who adopted limits significantly reduced phone and Facebook use. This fits a common lived experience: the problem is not always ignorance. Many people already know what they want; they need a system that makes the chosen limit easier to keep. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1071581922000957" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The Goldilocks level of support: Using user reviews, ratings...by U Lyngs · 2022 · Cited by 55 — We analyse ratings &amp; revie...</span></span></span>
+There is also evidence that soft commitment devices can reduce use. In an experimental study of 629 participants, people tended to spend more time on phones and social media than they predicted or wanted, and those who adopted limits significantly reduced phone and Facebook use. This fits a common lived experience: the problem is not always ignorance. Many people already know what they want; they need a system that makes the chosen limit easier to keep.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1071581922000957" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">The Goldilocks level of support: Using user reviews, ratings...by U Lyngs · 2022 · Cited by 55 — We analyse ratings &amp; revie...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1We3iNJoTVY" title="A Health Coach’s Guide to Managing Client Screen Time &amp; Mental Wellbeing | HCA Talks Health" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1We3iNJoTVY" target="_blank" rel="noopener noreferrer">A Health Coach’s Guide to Managing Client Screen Time &amp; Mental Wellbeing | HCA Talks Health</a></p><p class="youtube-embed-meta">Channel: Health Coaches Academy &middot; Views: 69 &middot; Uploaded: April 2026 &middot; Length: 29 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1We3iNJoTVY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1We3iNJoTVY">Open on YouTube</a></p></div></div></div>
 
@@ -626,269 +626,269 @@ The best test is behavioural, not aesthetic. A blocker is helping if the desired
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v5Zc8cwr1Pw" title="The Most Powerful App To Block Digital Distractions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v5Zc8cwr1Pw" target="_blank" rel="noopener noreferrer">The Most Powerful App To Block Digital Distractions</a></p><p class="youtube-embed-meta">Channel: Irfan Bhanji &middot; Views: 4.9K &middot; Uploaded: March 2025 &middot; Length: 3 minutes 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v5Zc8cwr1Pw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v5Zc8cwr1Pw">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Do App Blockers Actually Help?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Do App Blockers Actually Help?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Indistractable on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_KjNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Indistractable" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Indistractable">Indistractable</a>
-        </h4>
-        <p class="fr-book-author">By Nir Eyal</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Indistractable on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_KjNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Indistractable" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Indistractable">Indistractable</a>
+</h4>
+<p class="fr-book-author">By Nir Eyal</p>
         
-        <p class="fr-book-desc">Directly addresses controlling digital interruptions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses controlling digital interruptions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Covers friction, environment design, and behavior systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Covers friction, environment design, and behavior systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Minimalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S4NbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Minimalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Minimalism">Digital Minimalism</a>
-        </h4>
-        <p class="fr-book-author">By Cal Newport</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Minimalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S4NbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Minimalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Minimalism">Digital Minimalism</a>
+</h4>
+<p class="fr-book-author">By Cal Newport</p>
         
-        <p class="fr-book-desc">Explores reducing digital distractions intentionally.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores reducing digital distractions intentionally.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Carol S. Dweck</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
-        <p class="fr-book-desc">Addresses beliefs and learning approaches that support improvement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
+</h4>
+<p class="fr-book-author">By Carol S. Dweck</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
+<p class="fr-book-desc">Addresses beliefs and learning approaches that support improvement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Indistractable&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Indistractable</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Minimalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Minimalism</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Indistractable&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Indistractable</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Minimalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Minimalism</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RIBBLEAS Organiser Desk Organizer with Drawer Minimalist Pen Holder Office Desk"><img src="{{ '/assets/images/marketplace-covers/1ee939884c2f686456eb.jpg' | relative_url }}" alt="Listing image for RIBBLEAS Organiser Desk Organizer with Drawer Minimalist Pen Holder Office Desk" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">RIBBLEAS Organiser Desk Organizer with Drawer Minimalist Pen Holder Office Desk</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RIBBLEAS Organiser Desk Organizer with Drawer Minimalist Pen Holder Office Desk"><img src="{{ '/assets/images/marketplace-covers/1ee939884c2f686456eb.jpg' | relative_url }}" alt="Listing image for RIBBLEAS Organiser Desk Organizer with Drawer Minimalist Pen Holder Office Desk" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">RIBBLEAS Organiser Desk Organizer with Drawer Minimalist Pen Holder Office Desk</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage For Office"><img src="{{ '/assets/images/marketplace-covers/4099560f2fd851fe1c13.jpg' | relative_url }}" alt="Listing image for Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage For Office" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage For Office</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage For Office"><img src="{{ '/assets/images/marketplace-covers/4099560f2fd851fe1c13.jpg' | relative_url }}" alt="Listing image for Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage For Office" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Metal Mesh Desk Organiser Stationery Pen Pencil Holder Tidy Storage For Office</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mesh Pen Pot Pencil Holder Desk Stationery Organiser Office Home Storage"><img src="{{ '/assets/images/marketplace-covers/60a4dbd611649d82c998.jpg' | relative_url }}" alt="Listing image for Mesh Pen Pot Pencil Holder Desk Stationery Organiser Office Home Storage" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Mesh Pen Pot Pencil Holder Desk Stationery Organiser Office Home Storage</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mesh Pen Pot Pencil Holder Desk Stationery Organiser Office Home Storage"><img src="{{ '/assets/images/marketplace-covers/60a4dbd611649d82c998.jpg' | relative_url }}" alt="Listing image for Mesh Pen Pot Pencil Holder Desk Stationery Organiser Office Home Storage" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Mesh Pen Pot Pencil Holder Desk Stationery Organiser Office Home Storage</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver"><img src="{{ '/assets/images/marketplace-covers/8ef2fda3ba43e1e28efb.jpg' | relative_url }}" alt="Listing image for 4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver"><img src="{{ '/assets/images/marketplace-covers/8ef2fda3ba43e1e28efb.jpg' | relative_url }}" alt="Listing image for 4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-blockers-do-app-blockers-actually-help-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -904,7 +904,7 @@ The best test is behavioural, not aesthetic. A blocker is helping if the desired
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -924,7 +924,7 @@ The best test is behavioural, not aesthetic. A blocker is helping if the desired
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -956,7 +956,7 @@ The best test is behavioural, not aesthetic. A blocker is helping if the desired
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -986,7 +986,7 @@ The best test is behavioural, not aesthetic. A blocker is helping if the desired
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -1044,248 +1044,248 @@ The best test is behavioural, not aesthetic. A blocker is helping if the desired
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pnas.org  
-   Link: <a href="https://www.pnas.org/doi/10.1073/pnas.2213114120" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2213114120</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Directing smartphone use through the self-nudge app one...by DJ Grüning · 2023 · Cited by 93 — The intervention effect of the app is...</p></details>
+   Link:<a href="https://www.pnas.org/doi/10.1073/pnas.2213114120" target="_blank" rel="noopener noreferrer nofollow">https://www.pnas.org/doi/10.1073/pnas.2213114120</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directing smartphone use through the self-nudge app one...by DJ Grüning · 2023 · Cited by 93 — The intervention effect of the app is...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1071581922000957" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1071581922000957</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Goldilocks level of support: Using user reviews, ratings...by U Lyngs · 2022 · Cited by 55 — We analyse ratings &amp; revie...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1071581922000957" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1071581922000957</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Goldilocks level of support: Using user reviews, ratings...by U Lyngs · 2022 · Cited by 55 — We analyse ratings &amp; revie...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: onlinelibrary.wiley.com  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1111/jcal.12581" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/jcal.12581</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryDigital self‐control interventions for distracting media...13 Aug 2021 — These interventions use different approache...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/10.1111/jcal.12581" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/jcal.12581</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryDigital self‐control interventions for distracting media...13 Aug 2021 — These interventions use different approache...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1902.00157" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1902.00157</a>  
+   Link:<a href="https://arxiv.org/abs/1902.00157" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1902.00157</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: support.apple.com  
-   Link: <a href="https://support.apple.com/en-us/108806" target="_blank" rel="noopener noreferrer nofollow">https://support.apple.com/en-us/108806</a>  
+   Link:<a href="https://support.apple.com/en-us/108806" target="_blank" rel="noopener noreferrer nofollow">https://support.apple.com/en-us/108806</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: support.google.com  
-   Link: <a href="https://support.google.com/android/answer/9346420?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/android/answer/9346420?hl=en</a>  
+   Link:<a href="https://support.google.com/android/answer/9346420?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/android/answer/9346420?hl=en</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: support.apple.com  
-   Link: <a href="https://support.apple.com/guide/iphone/set-schedules-with-screen-time-iphb0c7313c9/ios" target="_blank" rel="noopener noreferrer nofollow">https://support.apple.com/guide/iphone/set-schedules-with-screen-time-iphb0c7313c9/ios</a>  
+   Link:<a href="https://support.apple.com/guide/iphone/set-schedules-with-screen-time-iphb0c7313c9/ios" target="_blank" rel="noopener noreferrer nofollow">https://support.apple.com/guide/iphone/set-schedules-with-screen-time-iphb0c7313c9/ios</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: play.google.com  
    Title: Play Digital Wellbeing  
-   Link: <a href="https://play.google.com/store/apps/details?hl=en&amp;id=com.google.android.apps.wellbeing" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en&amp;id=com.google.android.apps.wellbeing</a>  
+   Link:<a href="https://play.google.com/store/apps/details?hl=en&amp;id=com.google.android.apps.wellbeing" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en&amp;id=com.google.android.apps.wellbeing</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: microsoft.com  
    Title: how blocking distractions affects workplace focus and productivity  
-   Link: <a href="https://www.microsoft.com/en-us/research/publication/how-blocking-distractions-affects-workplace-focus-and-productivity/" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/publication/how-blocking-distractions-affects-workplace-focus-and-productivity/</a>  
+   Link:<a href="https://www.microsoft.com/en-us/research/publication/how-blocking-distractions-affects-workplace-focus-and-productivity/" target="_blank" rel="noopener noreferrer nofollow">https://www.microsoft.com/en-us/research/publication/how-blocking-distractions-affects-workplace-focus-and-productivity/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: dl.acm.org  
-   Link: <a href="https://dl.acm.org/doi/10.1145/3571810" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/3571810</a>  
+   Link:<a href="https://dl.acm.org/doi/10.1145/3571810" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/3571810</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/pnasnexus/article/4/2/pgaf017/8016017" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/pnasnexus/article/4/2/pgaf017/8016017</a>  
+   Link:<a href="https://academic.oup.com/pnasnexus/article/4/2/pgaf017/8016017" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/pnasnexus/article/4/2/pgaf017/8016017</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0014292121002269" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0014292121002269</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0014292121002269" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0014292121002269</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: apps.apple.com  
-   Link: <a href="https://apps.apple.com/us/app/freedom-control-screen-time/id1269788228" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/us/app/freedom-control-screen-time/id1269788228</a>  
+   Link:<a href="https://apps.apple.com/us/app/freedom-control-screen-time/id1269788228" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/us/app/freedom-control-screen-time/id1269788228</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: apps.apple.com  
-   Link: <a href="https://apps.apple.com/us/app/freedom-screen-time-control/id1269788228" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/us/app/freedom-screen-time-control/id1269788228</a>  
+   Link:<a href="https://apps.apple.com/us/app/freedom-screen-time-control/id1269788228" target="_blank" rel="noopener noreferrer nofollow">https://apps.apple.com/us/app/freedom-screen-time-control/id1269788228</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: discussions.apple.com  
-   Link: <a href="https://discussions.apple.com/thread/255507853" target="_blank" rel="noopener noreferrer nofollow">https://discussions.apple.com/thread/255507853</a>  
+   Link:<a href="https://discussions.apple.com/thread/255507853" target="_blank" rel="noopener noreferrer nofollow">https://discussions.apple.com/thread/255507853</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: support.apple.com  
-   Link: <a href="https://support.apple.com/guide/iphone/get-started-with-screen-time-iphbfa595995/ios" target="_blank" rel="noopener noreferrer nofollow">https://support.apple.com/guide/iphone/get-started-with-screen-time-iphbfa595995/ios</a>  
+   Link:<a href="https://support.apple.com/guide/iphone/get-started-with-screen-time-iphbfa595995/ios" target="_blank" rel="noopener noreferrer nofollow">https://support.apple.com/guide/iphone/get-started-with-screen-time-iphbfa595995/ios</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: discussions.apple.com  
-   Link: <a href="https://discussions.apple.com/thread/254579041" target="_blank" rel="noopener noreferrer nofollow">https://discussions.apple.com/thread/254579041</a>  
+   Link:<a href="https://discussions.apple.com/thread/254579041" target="_blank" rel="noopener noreferrer nofollow">https://discussions.apple.com/thread/254579041</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: play.google.com  
-   Link: <a href="https://play.google.com/store/apps/details?hl=en_US&amp;id=com.stayfocused" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_US&amp;id=com.stayfocused</a>  
+   Link:<a href="https://play.google.com/store/apps/details?hl=en_US&amp;id=com.stayfocused" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_US&amp;id=com.stayfocused</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: chromewebstore.google.com  
-   Link: <a href="https://chromewebstore.google.com/detail/self-control-block-sites/ncaaipdfhdijmfdfmeoagmogddhkfdec?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://chromewebstore.google.com/detail/self-control-block-sites/ncaaipdfhdijmfdfmeoagmogddhkfdec?hl=en</a>  
+   Link:<a href="https://chromewebstore.google.com/detail/self-control-block-sites/ncaaipdfhdijmfdfmeoagmogddhkfdec?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://chromewebstore.google.com/detail/self-control-block-sites/ncaaipdfhdijmfdfmeoagmogddhkfdec?hl=en</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: play.google.com  
-   Link: <a href="https://play.google.com/store/apps/details?hl=en&amp;id=cz.mobilesoft.appblock" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en&amp;id=cz.mobilesoft.appblock</a>  
+   Link:<a href="https://play.google.com/store/apps/details?hl=en&amp;id=cz.mobilesoft.appblock" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en&amp;id=cz.mobilesoft.appblock</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: chromewebstore.google.com  
-   Link: <a href="https://chromewebstore.google.com/detail/stayfocusd-%E2%80%93-website-bloc/laankejkbhbdhmipfmgcngdelahlfoji" target="_blank" rel="noopener noreferrer nofollow">https://chromewebstore.google.com/detail/stayfocusd-%E2%80%93-website-bloc/laankejkbhbdhmipfmgcngdelahlfoji</a>  
+   Link:<a href="https://chromewebstore.google.com/detail/stayfocusd-%E2%80%93-website-bloc/laankejkbhbdhmipfmgcngdelahlfoji" target="_blank" rel="noopener noreferrer nofollow">https://chromewebstore.google.com/detail/stayfocusd-%E2%80%93-website-bloc/laankejkbhbdhmipfmgcngdelahlfoji</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: play.google.com  
-   Link: <a href="https://play.google.com/store/apps/details?hl=en&amp;id=com.stayfocused" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en&amp;id=com.stayfocused</a>  
+   Link:<a href="https://play.google.com/store/apps/details?hl=en&amp;id=com.stayfocused" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en&amp;id=com.stayfocused</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2214782921000324" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2214782921000324</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2214782921000324" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2214782921000324</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S245195882600103X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S245195882600103X</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S245195882600103X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S245195882600103X</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2352853221000286" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352853221000286</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2352853221000286" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352853221000286</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1386505625002059" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1386505625002059</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1386505625002059" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1386505625002059</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: dl.acm.org  
-   Link: <a href="https://dl.acm.org/doi/full/10.1145/3571810" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/full/10.1145/3571810</a>  
+   Link:<a href="https://dl.acm.org/doi/full/10.1145/3571810" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/full/10.1145/3571810</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: dl.acm.org  
-   Link: <a href="https://dl.acm.org/doi/10.1145/3613904.3642946" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/3613904.3642946</a>  
+   Link:<a href="https://dl.acm.org/doi/10.1145/3613904.3642946" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/3613904.3642946</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: dl.acm.org  
-   Link: <a href="https://dl.acm.org/doi/10.1145/3123024.3124558" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/3123024.3124558</a>  
+   Link:<a href="https://dl.acm.org/doi/10.1145/3123024.3124558" target="_blank" rel="noopener noreferrer nofollow">https://dl.acm.org/doi/10.1145/3123024.3124558</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
    Title: we often blame stress or burnout for lack of focus but what if the real issue is  
-   Link: <a href="https://www.facebook.com/jimkwikofficial/posts/we-often-blame-stress-or-burnout-for-lack-of-focus-but-what-if-the-real-issue-is/1262263855256667/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/jimkwikofficial/posts/we-often-blame-stress-or-burnout-for-lack-of-focus-but-what-if-the-real-issue-is/1262263855256667/</a>  
+   Link:<a href="https://www.facebook.com/jimkwikofficial/posts/we-often-blame-stress-or-burnout-for-lack-of-focus-but-what-if-the-real-issue-is/1262263855256667/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/jimkwikofficial/posts/we-often-blame-stress-or-burnout-for-lack-of-focus-but-what-if-the-real-issue-is/1262263855256667/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/payetteforward/posts/2829326190710183/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/payetteforward/posts/2829326190710183/</a>  
+   Link:<a href="https://www.facebook.com/groups/payetteforward/posts/2829326190710183/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/payetteforward/posts/2829326190710183/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
    Title: how to set a daily time limit for unproductive apps on iphone or ipad  
-   Link: <a href="https://www.facebook.com/iDownloadBlog/posts/how-to-set-a-daily-time-limit-for-unproductive-apps-on-iphone-or-ipad/960588076686960/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/iDownloadBlog/posts/how-to-set-a-daily-time-limit-for-unproductive-apps-on-iphone-or-ipad/960588076686960/</a>  
+   Link:<a href="https://www.facebook.com/iDownloadBlog/posts/how-to-set-a-daily-time-limit-for-unproductive-apps-on-iphone-or-ipad/960588076686960/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/iDownloadBlog/posts/how-to-set-a-daily-time-limit-for-unproductive-apps-on-iphone-or-ipad/960588076686960/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: instagram.com  
    Title: DVjzy5b Et QK  
-   Link: <a href="https://www.instagram.com/reel/DVjzy5bEtQK/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVjzy5bEtQK/</a>  
+   Link:<a href="https://www.instagram.com/reel/DVjzy5bEtQK/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVjzy5bEtQK/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: instagram.com  
    Title: DS2ZV02l Hzq  
-   Link: <a href="https://www.instagram.com/p/DS2ZV02lHzq/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DS2ZV02lHzq/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/p/DS2ZV02lHzq/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DS2ZV02lHzq/?hl=en</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: one-sec.app  
-   Link: <a href="https://one-sec.app/" target="_blank" rel="noopener noreferrer nofollow">https://one-sec.app/</a>  
+   Link:<a href="https://one-sec.app/" target="_blank" rel="noopener noreferrer nofollow">https://one-sec.app/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: one-sec.app  
    Title: friction will change your behavior  
-   Link: <a href="https://one-sec.app/blog/friction-will-change-your-behavior/" target="_blank" rel="noopener noreferrer nofollow">https://one-sec.app/blog/friction-will-change-your-behavior/</a>  
+   Link:<a href="https://one-sec.app/blog/friction-will-change-your-behavior/" target="_blank" rel="noopener noreferrer nofollow">https://one-sec.app/blog/friction-will-change-your-behavior/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: onlinelibrary.wiley.com  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/jcal.12581" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1111/jcal.12581</a>  
+   Link:<a href="https://onlinelibrary.wiley.com/doi/full/10.1111/jcal.12581" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1111/jcal.12581</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: youtube.com  
    Title: Stop Mindless Scrolling: The Power of Digital Friction  
-   Link: <a href="https://www.youtube.com/watch?v=_IARhO52I0Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_IARhO52I0Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I&#x27;m Unplugging From Screens... While My AI Takes Notes...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_IARhO52I0Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_IARhO52I0Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I&#x27;m Unplugging From Screens... While My AI Takes Notes...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Ub3Fabnr58o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ub3Fabnr58o</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Health Coach&#x27;s Guide to Managing Client Screen Time &amp; Mental Wellbeing...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ub3Fabnr58o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ub3Fabnr58o</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Health Coach&#x27;s Guide to Managing Client Screen Time &amp; Mental Wellbeing...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: youtube.com  
    Title: A Health Coach's Guide to Managing Client Screen Time & Mental Wellbeing  
-   Link: <a href="https://www.youtube.com/watch?v=1We3iNJoTVY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1We3iNJoTVY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Powerful App To Block Digital Distractions...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1We3iNJoTVY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1We3iNJoTVY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Most Powerful App To Block Digital Distractions...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: youtube.com  
    Title: The Most Powerful App To Block Digital Distractions  
-   Link: <a href="https://www.youtube.com/watch?v=v5Zc8cwr1Pw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v5Zc8cwr1Pw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Password Locker with Max Gazeroglu...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=v5Zc8cwr1Pw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v5Zc8cwr1Pw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Password Locker with Max Gazeroglu...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
    Title: Password Locker with Max Gazeroglu  
-   Link: <a href="https://www.youtube.com/watch?v=HWYOC7zwvgs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HWYOC7zwvgs</a>  
+   Link:<a href="https://www.youtube.com/watch?v=HWYOC7zwvgs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HWYOC7zwvgs</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Afterward, participants also reported  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/36795756/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36795756/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Directing smartphone use through the self-nudge app one...by DJ Grüning · 2023 · Cited by 93 — In sum, one sec decreased users&#x27; ac...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/36795756/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36795756/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Directing smartphone use through the self-nudge app one...by DJ Grüning · 2023 · Cited by 93 — In sum, one sec decreased users&#x27; ac...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10498313/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10498313/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10498313/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10498313/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/39967678/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/39967678/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/39967678/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/39967678/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: inria.hal.science  
-   Link: <a href="https://inria.hal.science/hal-04215514/document" target="_blank" rel="noopener noreferrer nofollow">https://inria.hal.science/hal-04215514/document</a>  
+   Link:<a href="https://inria.hal.science/hal-04215514/document" target="_blank" rel="noopener noreferrer nofollow">https://inria.hal.science/hal-04215514/document</a>  
 
 ### Additional References
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/353906557_Digital_self-control_interventions_for_distracting_media_multitasking_-_A_systematic_review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/353906557_Digital_self-control_interventions_for_distracting_media_multitasking_-_A_systematic_review</a>  
+   Link:<a href="https://www.researchgate.net/publication/353906557_Digital_self-control_interventions_for_distracting_media_multitasking_-_A_systematic_review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/353906557_Digital_self-control_interventions_for_distracting_media_multitasking_-_A_systematic_review</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/389106770_Blocking_mobile_internet_on_smartphones_improves_sustained_attention_mental_health_and_subjective_well-being" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389106770_Blocking_mobile_internet_on_smartphones_improves_sustained_attention_mental_health_and_subjective_well-being</a>  
+   Link:<a href="https://www.researchgate.net/publication/389106770_Blocking_mobile_internet_on_smartphones_improves_sustained_attention_mental_health_and_subjective_well-being" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389106770_Blocking_mobile_internet_on_smartphones_improves_sustained_attention_mental_health_and_subjective_well-being</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/389215642_Smartphone_screen_time_reduction_improves_mental_health_a_randomized_controlled_trial" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389215642_Smartphone_screen_time_reduction_improves_mental_health_a_randomized_controlled_trial</a>  
+   Link:<a href="https://www.researchgate.net/publication/389215642_Smartphone_screen_time_reduction_improves_mental_health_a_randomized_controlled_trial" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/389215642_Smartphone_screen_time_reduction_improves_mental_health_a_randomized_controlled_trial</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/398782642_Digital_detox_and_the_%27app-blocking_app%27_abstinence_as_a_desire-regenerating_force" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398782642_Digital_detox_and_the_%27app-blocking_app%27_abstinence_as_a_desire-regenerating_force</a>  
+   Link:<a href="https://www.researchgate.net/publication/398782642_Digital_detox_and_the_%27app-blocking_app%27_abstinence_as_a_desire-regenerating_force" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/398782642_Digital_detox_and_the_%27app-blocking_app%27_abstinence_as_a_desire-regenerating_force</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: raz-lab.org  
-   Link: <a href="https://raz-lab.org/wp-content/uploads/2021/01/ten-steps.pdf" target="_blank" rel="noopener noreferrer nofollow">https://raz-lab.org/wp-content/uploads/2021/01/ten-steps.pdf</a>  
+   Link:<a href="https://raz-lab.org/wp-content/uploads/2021/01/ten-steps.pdf" target="_blank" rel="noopener noreferrer nofollow">https://raz-lab.org/wp-content/uploads/2021/01/ten-steps.pdf</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/365589107_Achieving_Digital_Wellbeing_Through_Digital_Self-Control_Tools_A_Systematic_Review_and_Meta-Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/365589107_Achieving_Digital_Wellbeing_Through_Digital_Self-Control_Tools_A_Systematic_Review_and_Meta-Analysis</a>  
+   Link:<a href="https://www.researchgate.net/publication/365589107_Achieving_Digital_Wellbeing_Through_Digital_Self-Control_Tools_A_Systematic_Review_and_Meta-Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/365589107_Achieving_Digital_Wellbeing_Through_Digital_Self-Control_Tools_A_Systematic_Review_and_Meta-Analysis</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: hbs.edu  
-   Link: <a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=62971" target="_blank" rel="noopener noreferrer nofollow">https://www.hbs.edu/faculty/Pages/item.aspx?num=62971</a>  
+   Link:<a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=62971" target="_blank" rel="noopener noreferrer nofollow">https://www.hbs.edu/faculty/Pages/item.aspx?num=62971</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: refubium.fu-berlin.de  
-   Link: <a href="https://refubium.fu-berlin.de/bitstream/handle/fub188/46428/Applied%20Psych%20Health%20Well%20-%202025%20-%20Brockmeier%20-%20Effects%20of%20an%20intervention%20targeting%20social%20media%20app%20use%20on%20well%E2%80%90being.pdf" target="_blank" rel="noopener noreferrer nofollow">https://refubium.fu-berlin.de/bitstream/handle/fub188/46428/Applied%20Psych%20Health%20Well%20-%202025%20-%20Brockmeier%20-%20Effects%20of%20an%20intervention%20targeting%20social%20media%20app%20use%20on%20well%E2%80%90being.pdf</a>  
+   Link:<a href="https://refubium.fu-berlin.de/bitstream/handle/fub188/46428/Applied%20Psych%20Health%20Well%20-%202025%20-%20Brockmeier%20-%20Effects%20of%20an%20intervention%20targeting%20social%20media%20app%20use%20on%20well%E2%80%90being.pdf" target="_blank" rel="noopener noreferrer nofollow">https://refubium.fu-berlin.de/bitstream/handle/fub188/46428/Applied%20Psych%20Health%20Well%20-%202025%20-%20Brockmeier%20-%20Effects%20of%20an%20intervention%20targeting%20social%20media%20app%20use%20on%20well%E2%80%90being.pdf</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: blocksite.co  
-   Link: <a href="https://blocksite.co/" target="_blank" rel="noopener noreferrer nofollow">https://blocksite.co/</a>  
+   Link:<a href="https://blocksite.co/" target="_blank" rel="noopener noreferrer nofollow">https://blocksite.co/</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: freedom.to  
-   Link: <a href="https://freedom.to/" target="_blank" rel="noopener noreferrer nofollow">https://freedom.to/</a>
+   Link:<a href="https://freedom.to/" target="_blank" rel="noopener noreferrer nofollow">https://freedom.to/</a>

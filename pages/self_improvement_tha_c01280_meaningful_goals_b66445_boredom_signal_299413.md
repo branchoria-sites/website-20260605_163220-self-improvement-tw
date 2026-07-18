@@ -271,17 +271,17 @@ image: /assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_boredo
 Boredom is often treated as a verdict: a feeling that supposedly proves a goal is wrong, progress has stalled, or [motivation]({{ 'motivation/' | relative_url }}) has disappeared. In practice, boredom is usually a signal, not a judgment. It tells you that something about your current engagement needs attention, but it does not automatically mean the larger goal has lost its value.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_boredom_signal_299413-Illustration-1-dark.svg" | relative_url }}" alt="Boredom Signal illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_boredom_signal_299413-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_boredom_signal_299413-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters because most meaningful forms of self-improvement contain long stretches of repetition. Fitness routines, professional development, learning a language, [saving]({{ 'saving/' | relative_url }}) money, writing, and relationship habits all spend far more time in ordinary maintenance than in exciting breakthroughs. People frequently abandon worthwhile goals because they misinterpret a predictable emotional state as evidence that the goal itself is flawed. Research on boredom increasingly suggests that boredom functions as information: a prompt to examine attention, challenge, [meaning]({{ 'meaning/' | relative_url }}), or method before deciding that the destination is no longer worth pursuing. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1364661323000463" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review In search of boredom: beyond a functional accountby J Danckert · 2023 · Cited by 73 — We propose that boredom is an a...</span></span></span>
+This distinction matters because most meaningful forms of self-improvement contain long stretches of repetition. Fitness routines, professional development, learning a language, [saving]({{ 'saving/' | relative_url }}) money, writing, and relationship habits all spend far more time in ordinary maintenance than in exciting breakthroughs. People frequently abandon worthwhile goals because they misinterpret a predictable emotional state as evidence that the goal itself is flawed. Research on boredom increasingly suggests that boredom functions as information: a prompt to examine attention, challenge, [meaning]({{ 'meaning/' | relative_url }}), or method before deciding that the destination is no longer worth pursuing. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1364661323000463" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review In search of boredom: beyond a functional accountby J Danckert · 2023 · Cited by 73 — We propose that boredom is an a...</span></span></span>
 
 ## What Is Boredom Really Telling You?
 
-Psychologists increasingly describe boredom as a functional emotion rather than a useless annoyance. Functional emotions evolved to direct behaviour. Fear warns about danger. Hunger signals a need for nourishment. Boredom appears to signal that current engagement is not working well and that some form of adjustment may be needed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4217586/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCOn the Function of Boredom</span><span class="citation-popover-snippet">Discrete emotions predict changes in cognition, judgment, experience, behavior, and physiology: A meta...Read more...</span></span></span>
+Psychologists increasingly describe boredom as a functional emotion rather than a useless annoyance. Functional emotions evolved to direct behaviour. Fear warns about danger. Hunger signals a need for nourishment. Boredom appears to signal that current engagement is not working well and that some form of adjustment may be needed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4217586/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCOn the Function of Boredom</span><span class="citation-popover-snippet">Discrete emotions predict changes in cognition, judgment, experience, behavior, and physiology: A meta...Read more...</span></span></span>
 
 The critical mistake is assuming that the adjustment must be a complete change of goal.
 
-A person training for a marathon may feel bored by another routine run. A student may feel bored reviewing flashcards. Someone trying to improve finances may feel bored by another month of budgeting. In each case, boredom is real, but it does not necessarily indicate that running, studying, or financial stability have stopped mattering. It may simply indicate that the current mode of engagement has become stale, too easy, too predictable, or disconnected from its purpose. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1364661323000463" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review In search of boredom: beyond a functional accountby J Danckert · 2023 · Cited by 73 — We propose that boredom is an a...</span></span></span>
+A person training for a marathon may feel bored by another routine run. A student may feel bored reviewing flashcards. Someone trying to improve finances may feel bored by another month of budgeting. In each case, boredom is real, but it does not necessarily indicate that running, studying, or financial stability have stopped mattering. It may simply indicate that the current mode of engagement has become stale, too easy, too predictable, or disconnected from its purpose.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1364661323000463" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review In search of boredom: beyond a functional accountby J Danckert · 2023 · Cited by 73 — We propose that boredom is an a...</span></span></span>
 
-Researchers James Danckert and colleagues have argued that boredom can be understood as a signal that we have drifted away from an optimal level of cognitive engagement. Rather than proving that a goal is meaningless, boredom may indicate that the way we are pursuing it no longer matches our need for challenge, attention, or involvement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1364661323000463" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review In search of boredom: beyond a functional accountby J Danckert · 2023 · Cited by 73 — We propose that boredom is an a...</span></span></span>
+Researchers James Danckert and colleagues have argued that boredom can be understood as a signal that we have drifted away from an optimal level of cognitive engagement. Rather than proving that a goal is meaningless, boredom may indicate that the way we are pursuing it no longer matches our need for challenge, attention, or involvement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1364661323000463" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review In search of boredom: beyond a functional accountby J Danckert · 2023 · Cited by 73 — We propose that boredom is an a...</span></span></span>
 
 ## Why Boredom Appears in the Middle of Worthwhile Goals
 
@@ -293,7 +293,7 @@ The workout becomes familiar. The project becomes procedural. The learning proce
 
 In reality, the disappearance of novelty is often evidence that a behaviour is becoming normal. The task has moved from exploration to consolidation.
 
-Research on boredom suggests that boredom creates a motivation for change. However, the desire for change does not automatically identify the correct target of change. The feeling may be pushing you to alter the activity, increase challenge, reconnect with purpose, or refresh the [environment]({{ 'environment/' | relative_url }}). It is not necessarily instructing you to abandon the broader objective. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.futurity.org/boredom-motivation-experience-3295012-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: futurity.org">[futurity]</a><span class="citation-popover" role="note"><span class="citation-popover-source">futurity.org</span><span class="citation-popover-title">How boredom can be good for you</span><span class="citation-popover-snippet">How boredom can be good for you - Futurity15 Sept 2025 — “This study challenges the idea that people are always driven to seek pl...</span></span></span> This is one reason [meaningful goals]({{ 'meaning/' | relative_url }}) survive boredom better than purely novelty-driven goals. When a person has a reason that extends beyond immediate enjoyment, they can evaluate boredom more carefully instead of treating it as decisive evidence.
+Research on boredom suggests that boredom creates a motivation for change. However, the desire for change does not automatically identify the correct target of change. The feeling may be pushing you to alter the activity, increase challenge, reconnect with purpose, or refresh the [environment]({{ 'environment/' | relative_url }}). It is not necessarily instructing you to abandon the broader objective. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.futurity.org/boredom-motivation-experience-3295012-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: futurity.org">[futurity]</a><span class="citation-popover" role="note"><span class="citation-popover-source">futurity.org</span><span class="citation-popover-title">How boredom can be good for you</span><span class="citation-popover-snippet">How boredom can be good for you - Futurity15 Sept 2025 — “This study challenges the idea that people are always driven to seek pl...</span></span></span> This is one reason [meaningful goals]({{ 'meaning/' | relative_url }}) survive boredom better than purely novelty-driven goals. When a person has a reason that extends beyond immediate enjoyment, they can evaluate boredom more carefully instead of treating it as decisive evidence.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LKPwKFigF8U" title="Why Boredom is Good For You" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LKPwKFigF8U" target="_blank" rel="noopener noreferrer">Why Boredom is Good For You</a></p><p class="youtube-embed-meta">Channel: Veritasium &middot; Views: 7.3M &middot; Uploaded: September 2018 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LKPwKFigF8U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LKPwKFigF8U">Open on YouTube</a></p></div></div></div>
 
@@ -305,19 +305,19 @@ Several possibilities exist.
 
 **The task has become too easy.**
 
-When challenge falls below skill level, attention drifts. Repetition may no longer require enough engagement to feel stimulating. In this case, boredom points towards increasing difficulty, complexity, or standards rather than abandoning the goal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1364661323000463" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review In search of boredom: beyond a functional accountby J Danckert · 2023 · Cited by 73 — We propose that boredom is an a...</span></span></span>
+When challenge falls below skill level, attention drifts. Repetition may no longer require enough engagement to feel stimulating. In this case, boredom points towards increasing difficulty, complexity, or standards rather than abandoning the goal.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1364661323000463" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review In search of boredom: beyond a functional accountby J Danckert · 2023 · Cited by 73 — We propose that boredom is an a...</span></span></span>
 
 **The task has become too difficult.**
 
-People often assume boredom comes only from under-stimulation. Research suggests that excessive difficulty can also produce boredom because attention cannot engage effectively. A goal may still be valuable while the current approach is overwhelming. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1364661323000463" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review In search of boredom: beyond a functional accountby J Danckert · 2023 · Cited by 73 — We propose that boredom is an a...</span></span></span>
+People often assume boredom comes only from under-stimulation. Research suggests that excessive difficulty can also produce boredom because attention cannot engage effectively. A goal may still be valuable while the current approach is overwhelming.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1364661323000463" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review In search of boredom: beyond a functional accountby J Danckert · 2023 · Cited by 73 — We propose that boredom is an a...</span></span></span>
 
 **The connection to meaning has faded.**
 
-A person may continue performing actions while losing sight of why they matter. In this situation, boredom is not rejecting the goal itself. It is signalling a weakening link between daily behaviour and personal purpose. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/02699931.2025.2568554" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: The motivational consequences of boredomby C Mlynski · 2025 · Cited by 1 — Researchers focusing on t...</span></span></span>
+A person may continue performing actions while losing sight of why they matter. In this situation, boredom is not rejecting the goal itself. It is signalling a weakening link between daily behaviour and personal purpose.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/02699931.2025.2568554" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineFull article: The motivational consequences of boredomby C Mlynski · 2025 · Cited by 1 — Researchers focusing on t...</span></span></span>
 
 **The goal was never personally endorsed.**
 
-Sometimes boredom exposes a deeper problem. Goals pursued mainly for approval, status, guilt, or external pressure often become difficult to sustain once excitement fades. Self-Determination Theory distinguishes between autonomous motivation, where people genuinely endorse a goal, and controlled motivation, where behaviour is driven primarily by pressure. Boredom can reveal that a goal belongs more to other people's expectations than to your own values. <span class="citation-chip-wrap"><a class="citation-chip" href="https://selfdeterminationtheory.org/wp-content/uploads/2020/04/2020_RyanDeci_CEP_PrePrint.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: selfdeterminationtheory.org">[Self Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">selfdeterminationtheory.org</span><span class="citation-popover-title">2020 RyanDeci CEP PrePrint</span><span class="citation-popover-snippet">Self Determination TheoryIntrinsic and extrinsic motivation from a self-determination...by RM Ryan · Cited by 10296 — Self-determination...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/research-practice/conduct-research/self-determination-theory.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationSelf-determination theory: A quarter century of human...2 Mar 2025 — SDT describes factors that help o...</span></span></span>
+Sometimes boredom exposes a deeper problem. Goals pursued mainly for approval, status, guilt, or external pressure often become difficult to sustain once excitement fades. Self-Determination Theory distinguishes between autonomous motivation, where people genuinely endorse a goal, and controlled motivation, where behaviour is driven primarily by pressure. Boredom can reveal that a goal belongs more to other people's expectations than to your own values.<span class="citation-chip-wrap"><a class="citation-chip" href="https://selfdeterminationtheory.org/wp-content/uploads/2020/04/2020_RyanDeci_CEP_PrePrint.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: selfdeterminationtheory.org">[Self Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">selfdeterminationtheory.org</span><span class="citation-popover-title">2020 RyanDeci CEP PrePrint</span><span class="citation-popover-snippet">Self Determination TheoryIntrinsic and extrinsic motivation from a self-determination...by RM Ryan · Cited by 10296 — Self-determination...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/research-practice/conduct-research/self-determination-theory.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">American Psychological AssociationSelf-determination theory: A quarter century of human...2 Mar 2025 — SDT describes factors that help o...</span></span></span>
 
 The challenge is that these situations feel similar in the moment. The emotional experience alone cannot tell you which explanation is correct. Reflection is required.
 
@@ -356,12 +356,12 @@ Variation prevents routine from becoming mentally invisible. The core commitment
 
 ### Raise the standard
 
-When boredom comes from mastery, additional challenge often helps. New constraints, higher quality expectations, or more ambitious targets can move an activity back into an engaging range. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1364661323000463" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review In search of boredom: beyond a functional accountby J Danckert · 2023 · Cited by 73 — We propose that boredom is an a...</span></span></span>
+When boredom comes from mastery, additional challenge often helps. New constraints, higher quality expectations, or more ambitious targets can move an activity back into an engaging range.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1364661323000463" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review In search of boredom: beyond a functional accountby J Danckert · 2023 · Cited by 73 — We propose that boredom is an a...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_boredom_signal_299413-Illustration-3-dark.svg" | relative_url }}" alt="Boredom Signal illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_boredom_signal_299413-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_meaningful_goals_b66445_boredom_signal_299413-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Reconnect with the reason
 
-Research on purpose-driven motivation shows that people persist longer on tedious but important tasks when they can connect those tasks to a larger purpose. Revisiting the reason behind the goal can restore significance without requiring constant excitement. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/25379249/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">the function of boredom2013 Aug 15;3(3):459-472. doi: 10.3390/bs3030459. eCollection 2013 Sep. Authors. Shane W Bench, Heather C Lench...</span></span></span>
+Research on purpose-driven motivation shows that people persist longer on tedious but important tasks when they can connect those tasks to a larger purpose. Revisiting the reason behind the goal can restore significance without requiring constant excitement. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/25379249/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">the function of boredom2013 Aug 15;3(3):459-472. doi: 10.3390/bs3030459. eCollection 2013 Sep. Authors. Shane W Bench, Heather C Lench...</span></span></span>
 
 ## The Risk of Treating Every Bored Feeling as a Command
 
@@ -369,7 +369,7 @@ One of the hidden dangers of self-improvement is becoming overly responsive to e
 
 If boredom always triggers a new project, a new routine, a new [identity]({{ 'identity/' | relative_url }}), or a new goal, then novelty becomes the real objective. Progress stalls because every worthwhile pursuit eventually enters a repetitive phase.
 
-Research suggests boredom motivates movement towards alternatives. That motivational force can be useful, but it can also create a cycle of perpetual switching. The skill is not eliminating boredom. The skill is interpreting it correctly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4643833/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by DS Yeager · 2014 · Cited by 871 — This research proposed that promoting a prosocial, self-transcendent purpose could improve academ...</span></span></span>
+Research suggests boredom motivates movement towards alternatives. That motivational force can be useful, but it can also create a cycle of perpetual switching. The skill is not eliminating boredom. The skill is interpreting it correctly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4643833/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by DS Yeager · 2014 · Cited by 871 — This research proposed that promoting a prosocial, self-transcendent purpose could improve academ...</span></span></span>
 
 A person who treats boredom as a signal asks, "What needs adjustment?"
 
@@ -389,197 +389,197 @@ The key difference is sequence.
 
 First investigate the signal. Then evaluate the goal.
 
-People who reverse that order often abandon worthwhile ambitions during a temporary dull phase. People who examine boredom carefully gain more information. Sometimes they discover a better method. Sometimes they discover a better goal. Either way, boredom has served its proper role: not as a judge delivering a final sentence, but as information helping them make a better decision. <span class="citation-chip-wrap"><a class="citation-chip" href="https://psychwire.com/free-resources/q-and-a/16loq2a/the-science-of-boredom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychwire.com">[Psychwire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychwire.com</span><span class="citation-popover-snippet">Q&amp;A with John Eastwood on boredomWhen bored, we are thrown out of engagement with the world. Boredom signals we have lost our ag...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1364661323000463" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review In search of boredom: beyond a functional accountby J Danckert · 2023 · Cited by 73 — We propose that boredom is an a...</span></span></span>
+People who reverse that order often abandon worthwhile ambitions during a temporary dull phase. People who examine boredom carefully gain more information. Sometimes they discover a better method. Sometimes they discover a better goal. Either way, boredom has served its proper role: not as a judge delivering a final sentence, but as information helping them make a better decision.<span class="citation-chip-wrap"><a class="citation-chip" href="https://psychwire.com/free-resources/q-and-a/16loq2a/the-science-of-boredom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psychwire.com">[Psychwire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psychwire.com</span><span class="citation-popover-snippet">Q&amp;A with John Eastwood on boredomWhen bored, we are thrown out of engagement with the world. Boredom signals we have lost our ag...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1364661323000463" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Review In search of boredom: beyond a functional accountby J Danckert · 2023 · Cited by 73 — We propose that boredom is an a...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Is Boredom Really Telling You?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Is Boredom Really Telling You?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Drive+by+Daniel+H.+Pink&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0H_DIkg0I4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Drive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Drive+by+Daniel+H.+Pink&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drive">Drive</a>
-        </h4>
-        <p class="fr-book-author">By Daniel H. Pink</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Drive+by+Daniel+H.+Pink&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=E0H_DIkg0I4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Drive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Drive+by+Daniel+H.+Pink&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drive">Drive</a>
+</h4>
+<p class="fr-book-author">By Daniel H. Pink</p>
         
-        <p class="fr-book-desc">Explains how motivation changes when tasks become repetitive.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Drive+by+Daniel+H.+Pink&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how motivation changes when tasks become repetitive.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Drive+by+Daniel+H.+Pink&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Grit+by+Angela+Duckworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Grit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SQYeDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Grit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Grit+by+Angela+Duckworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Grit">Grit</a>
-        </h4>
-        <p class="fr-book-author">By Angela Duckworth</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Grit+by+Angela+Duckworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Grit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SQYeDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Grit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Grit+by+Angela+Duckworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Grit">Grit</a>
+</h4>
+<p class="fr-book-author">By Angela Duckworth</p>
         
-        <p class="fr-book-desc">Addresses perseverance through long, unglamorous periods.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Grit+by+Angela+Duckworth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses perseverance through long, unglamorous periods.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Grit+by+Angela+Duckworth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Provides systems for sustaining repetition.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Provides systems for sustaining repetition.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practice+by+Seth+Godin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qtHZDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Practice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Practice+by+Seth+Godin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practice">The Practice</a>
-        </h4>
-        <p class="fr-book-author">By Seth Godin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practice+by+Seth+Godin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practice on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qtHZDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Practice" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Practice+by+Seth+Godin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practice">The Practice</a>
+</h4>
+<p class="fr-book-author">By Seth Godin</p>
         
-        <p class="fr-book-desc">Focuses on showing up consistently despite boredom.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Practice+by+Seth+Godin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on showing up consistently despite boredom.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Practice+by+Seth+Godin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Drive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drive</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Grit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Grit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Drive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drive</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Grit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Grit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-boredom-really-telling-you-motivational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational wall art" data-ebay-reference="what-is-boredom-really-telling-you-motivational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Set of 3 Family Quotes Prints /Stylish Home Decor / Family Wall Art Print Poster"><img src="https://i.ebayimg.com/images/g/XxYAAeSwp2Jp9vs3/s-l225.jpg" alt="Listing image for Set of 3 Family Quotes Prints /Stylish Home Decor / Family Wall Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-boredom-really-telling-you-motivational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational wall art" data-ebay-reference="what-is-boredom-really-telling-you-motivational-wall-art" target="_blank" rel="sponsored noopener noreferrer">Set of 3 Family Quotes Prints /Stylish Home Decor / Family Wall Art Print Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-boredom-really-telling-you-motivational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational wall art" data-ebay-reference="what-is-boredom-really-telling-you-motivational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-boredom-really-telling-you-motivational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational wall art" data-ebay-reference="what-is-boredom-really-telling-you-motivational-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-boredom-really-telling-you-motivational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational wall art" data-ebay-reference="what-is-boredom-really-telling-you-motivational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Set of 3 Family Quotes Prints /Stylish Home Decor / Family Wall Art Print Poster"><img src="https://i.ebayimg.com/images/g/XxYAAeSwp2Jp9vs3/s-l225.jpg" alt="Listing image for Set of 3 Family Quotes Prints /Stylish Home Decor / Family Wall Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-boredom-really-telling-you-motivational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational wall art" data-ebay-reference="what-is-boredom-really-telling-you-motivational-wall-art" target="_blank" rel="sponsored noopener noreferrer">Set of 3 Family Quotes Prints /Stylish Home Decor / Family Wall Art Print Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-boredom-really-telling-you-motivational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational wall art" data-ebay-reference="what-is-boredom-really-telling-you-motivational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-boredom-really-telling-you-motivational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational wall art" data-ebay-reference="what-is-boredom-really-telling-you-motivational-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-boredom-really-telling-you-motivational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational wall art" data-ebay-reference="what-is-boredom-really-telling-you-motivational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Genius Quote Posters Motivational Inspirational Sayings A3 A4 A5 Wall Art Prints"><img src="https://i.ebayimg.com/images/g/tE0AAOSwY~piB-RD/s-l225.jpg" alt="Listing image for Genius Quote Posters Motivational Inspirational Sayings A3 A4 A5 Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-boredom-really-telling-you-motivational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational wall art" data-ebay-reference="what-is-boredom-really-telling-you-motivational-wall-art" target="_blank" rel="sponsored noopener noreferrer">Genius Quote Posters Motivational Inspirational Sayings A3 A4 A5 Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-boredom-really-telling-you-motivational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational wall art" data-ebay-reference="what-is-boredom-really-telling-you-motivational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-boredom-really-telling-you-motivational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational wall art" data-ebay-reference="what-is-boredom-really-telling-you-motivational-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-boredom-really-telling-you-motivational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational wall art" data-ebay-reference="what-is-boredom-really-telling-you-motivational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Genius Quote Posters Motivational Inspirational Sayings A3 A4 A5 Wall Art Prints"><img src="https://i.ebayimg.com/images/g/tE0AAOSwY~piB-RD/s-l225.jpg" alt="Listing image for Genius Quote Posters Motivational Inspirational Sayings A3 A4 A5 Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-boredom-really-telling-you-motivational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational wall art" data-ebay-reference="what-is-boredom-really-telling-you-motivational-wall-art" target="_blank" rel="sponsored noopener noreferrer">Genius Quote Posters Motivational Inspirational Sayings A3 A4 A5 Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-boredom-really-telling-you-motivational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational wall art" data-ebay-reference="what-is-boredom-really-telling-you-motivational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-boredom-really-telling-you-motivational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational wall art" data-ebay-reference="what-is-boredom-really-telling-you-motivational-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-boredom-really-telling-you-motivational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational wall art" data-ebay-reference="what-is-boredom-really-telling-you-motivational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rocky Canvas Print Hope Quote Canvas Wall Art Picture Print"><img src="https://i.ebayimg.com/images/g/29sAAOSwUshdZ6t9/s-l225.jpg" alt="Listing image for Rocky Canvas Print Hope Quote Canvas Wall Art Picture Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-boredom-really-telling-you-motivational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational wall art" data-ebay-reference="what-is-boredom-really-telling-you-motivational-wall-art" target="_blank" rel="sponsored noopener noreferrer">Rocky Canvas Print Hope Quote Canvas Wall Art Picture Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-boredom-really-telling-you-motivational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational wall art" data-ebay-reference="what-is-boredom-really-telling-you-motivational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-boredom-really-telling-you-motivational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational wall art" data-ebay-reference="what-is-boredom-really-telling-you-motivational-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-boredom-really-telling-you-motivational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational wall art" data-ebay-reference="what-is-boredom-really-telling-you-motivational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rocky Canvas Print Hope Quote Canvas Wall Art Picture Print"><img src="https://i.ebayimg.com/images/g/29sAAOSwUshdZ6t9/s-l225.jpg" alt="Listing image for Rocky Canvas Print Hope Quote Canvas Wall Art Picture Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-boredom-really-telling-you-motivational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational wall art" data-ebay-reference="what-is-boredom-really-telling-you-motivational-wall-art" target="_blank" rel="sponsored noopener noreferrer">Rocky Canvas Print Hope Quote Canvas Wall Art Picture Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-boredom-really-telling-you-motivational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational wall art" data-ebay-reference="what-is-boredom-really-telling-you-motivational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-boredom-really-telling-you-motivational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational wall art" data-ebay-reference="what-is-boredom-really-telling-you-motivational-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-boredom-really-telling-you-motivational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational wall art" data-ebay-reference="what-is-boredom-really-telling-you-motivational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Monopoly Motivational Inspirational Quote Art Wall Art Print Picture Home Decor"><img src="https://i.ebayimg.com/images/g/s0sAAOSwUdRnNIvs/s-l225.jpg" alt="Listing image for Monopoly Motivational Inspirational Quote Art Wall Art Print Picture Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-boredom-really-telling-you-motivational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational wall art" data-ebay-reference="what-is-boredom-really-telling-you-motivational-wall-art" target="_blank" rel="sponsored noopener noreferrer">Monopoly Motivational Inspirational Quote Art Wall Art Print Picture Home Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-boredom-really-telling-you-motivational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational wall art" data-ebay-reference="what-is-boredom-really-telling-you-motivational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: motivational wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-boredom-really-telling-you-motivational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational wall art" data-ebay-reference="what-is-boredom-really-telling-you-motivational-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-boredom-really-telling-you-motivational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational wall art" data-ebay-reference="what-is-boredom-really-telling-you-motivational-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-boredom-really-telling-you-motivational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational wall art" data-ebay-reference="what-is-boredom-really-telling-you-motivational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Monopoly Motivational Inspirational Quote Art Wall Art Print Picture Home Decor"><img src="https://i.ebayimg.com/images/g/s0sAAOSwUdRnNIvs/s-l225.jpg" alt="Listing image for Monopoly Motivational Inspirational Quote Art Wall Art Print Picture Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-boredom-really-telling-you-motivational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational wall art" data-ebay-reference="what-is-boredom-really-telling-you-motivational-wall-art" target="_blank" rel="sponsored noopener noreferrer">Monopoly Motivational Inspirational Quote Art Wall Art Print Picture Home Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-boredom-really-telling-you-motivational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational wall art" data-ebay-reference="what-is-boredom-really-telling-you-motivational-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for motivational wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: motivational wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-boredom-really-telling-you-motivational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational wall art" data-ebay-reference="what-is-boredom-really-telling-you-motivational-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=motivational+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-boredom-really-telling-you-motivational-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="motivational wall art" data-ebay-reference="what-is-boredom-really-telling-you-motivational-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -595,7 +595,7 @@ People who reverse that order often abandon worthwhile ambitions during a tempor
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -615,7 +615,7 @@ People who reverse that order often abandon worthwhile ambitions during a tempor
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -647,7 +647,7 @@ People who reverse that order often abandon worthwhile ambitions during a tempor
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -699,7 +699,7 @@ People who reverse that order often abandon worthwhile ambitions during a tempor
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -744,7 +744,7 @@ People who reverse that order often abandon worthwhile ambitions during a tempor
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -785,112 +785,112 @@ People who reverse that order often abandon worthwhile ambitions during a tempor
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCOn the Function of Boredom  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4217586/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4217586/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Discrete emotions predict changes in cognition, judgment, experience, behavior, and physiology: A meta...Read more...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4217586/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4217586/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Discrete emotions predict changes in cognition, judgment, experience, behavior, and physiology: A meta...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1364661323000463" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1364661323000463</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Review In search of boredom: beyond a functional accountby J Danckert · 2023 · Cited by 73 — We propose that boredom is an a...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S1364661323000463" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1364661323000463</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Review In search of boredom: beyond a functional accountby J Danckert · 2023 · Cited by 73 — We propose that boredom is an a...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: psychwire.com  
-   Link: <a href="https://psychwire.com/free-resources/q-and-a/16loq2a/the-science-of-boredom" target="_blank" rel="noopener noreferrer nofollow">https://psychwire.com/free-resources/q-and-a/16loq2a/the-science-of-boredom</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Q&amp;A with John Eastwood on boredomWhen bored, we are thrown out of engagement with the world. Boredom signals we have lost our ag...</p></details>
+   Link:<a href="https://psychwire.com/free-resources/q-and-a/16loq2a/the-science-of-boredom" target="_blank" rel="noopener noreferrer nofollow">https://psychwire.com/free-resources/q-and-a/16loq2a/the-science-of-boredom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Q&amp;A with John Eastwood on boredomWhen bored, we are thrown out of engagement with the world. Boredom signals we have lost our ag...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: futurity.org  
    Title: How boredom can be good for you  
-   Link: <a href="https://www.futurity.org/boredom-motivation-experience-3295012-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.futurity.org/boredom-motivation-experience-3295012-2/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How boredom can be good for you - Futurity15 Sept 2025 — “This study challenges the idea that people are always driven to seek pl...</p></details>
+   Link:<a href="https://www.futurity.org/boredom-motivation-experience-3295012-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.futurity.org/boredom-motivation-experience-3295012-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How boredom can be good for you - Futurity15 Sept 2025 — “This study challenges the idea that people are always driven to seek pl...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4643833/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4643833/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by DS Yeager · 2014 · Cited by 871 — This research proposed that promoting a prosocial, self-transcendent purpose could improve academ...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4643833/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4643833/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by DS Yeager · 2014 · Cited by 871 — This research proposed that promoting a prosocial, self-transcendent purpose could improve academ...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/25379249/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/25379249/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the function of boredom2013 Aug 15;3(3):459-472. doi: 10.3390/bs3030459. eCollection 2013 Sep. Authors. Shane W Bench, Heather C Lench...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/25379249/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/25379249/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the function of boredom2013 Aug 15;3(3):459-472. doi: 10.3390/bs3030459. eCollection 2013 Sep. Authors. Shane W Bench, Heather C Lench...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/02699931.2025.2568554" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/02699931.2025.2568554</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: The motivational consequences of boredomby C Mlynski · 2025 · Cited by 1 — Researchers focusing on t...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/02699931.2025.2568554" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/02699931.2025.2568554</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineFull article: The motivational consequences of boredomby C Mlynski · 2025 · Cited by 1 — Researchers focusing on t...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: selfdeterminationtheory.org  
    Title: 2020 RyanDeci CEP PrePrint  
-   Link: <a href="https://selfdeterminationtheory.org/wp-content/uploads/2020/04/2020_RyanDeci_CEP_PrePrint.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2020/04/2020_RyanDeci_CEP_PrePrint.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self Determination TheoryIntrinsic and extrinsic motivation from a self-determination...by RM Ryan · Cited by 10296 — Self-determination...</p></details>
+   Link:<a href="https://selfdeterminationtheory.org/wp-content/uploads/2020/04/2020_RyanDeci_CEP_PrePrint.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2020/04/2020_RyanDeci_CEP_PrePrint.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self Determination TheoryIntrinsic and extrinsic motivation from a self-determination...by RM Ryan · Cited by 10296 — Self-determination...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: apa.org  
-   Link: <a href="https://www.apa.org/research-practice/conduct-research/self-determination-theory.html" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/research-practice/conduct-research/self-determination-theory.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationSelf-determination theory: A quarter century of human...2 Mar 2025 — SDT describes factors that help o...</p></details>
+   Link:<a href="https://www.apa.org/research-practice/conduct-research/self-determination-theory.html" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/research-practice/conduct-research/self-determination-theory.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Psychological AssociationSelf-determination theory: A quarter century of human...2 Mar 2025 — SDT describes factors that help o...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/25222648/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/25222648/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>but important: a self-transcendent purpose for learning...by DS Yeager · 2014 · Cited by 871 — This research proposed that promoting a p...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/25222648/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/25222648/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>but important: a self-transcendent purpose for learning...by DS Yeager · 2014 · Cited by 871 — This research proposed that promoting a p...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/317690916_Self-Determination_Theory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/317690916_Self-Determination_Theory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Self-Determination TheoryPDF | Self-determination theory (SDT) is a broad theory of human personality and motivation concerned with...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/317690916_Self-Determination_Theory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/317690916_Self-Determination_Theory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Self-Determination TheoryPDF | Self-determination theory (SDT) is a broad theory of human personality and motivation concerned with...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/324019674_Boredom_as_a_Seeking_State_Boredom_Prompts_the_Pursuit_of_Novel_Even_Negative_Experiences" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/324019674_Boredom_as_a_Seeking_State_Boredom_Prompts_the_Pursuit_of_Novel_Even_Negative_Experiences</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Boredom Prompts the Pursuit of Novel (Even Negative)...On the Function of Boredom. August 2013 · Behavioral Sciences. Shane Bench · Heat...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/324019674_Boredom_as_a_Seeking_State_Boredom_Prompts_the_Pursuit_of_Novel_Even_Negative_Experiences" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/324019674_Boredom_as_a_Seeking_State_Boredom_Prompts_the_Pursuit_of_Novel_Even_Negative_Experiences</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boredom Prompts the Pursuit of Novel (Even Negative)...On the Function of Boredom. August 2013 · Behavioral Sciences. Shane Bench · Heat...</p></details>
    Published: August 2013  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: studentexperiencenetwork.org  
-   Link: <a href="https://studentexperiencenetwork.org/research_library/boring-but-important-a-self-transcendent-purpose-for-learning-fosters-academic-self-regulation/" target="_blank" rel="noopener noreferrer nofollow">https://studentexperiencenetwork.org/research_library/boring-but-important-a-self-transcendent-purpose-for-learning-fosters-academic-self-regulation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Student Experience Research NetworkBoring but important: A self-transcendent purpose for...The first study revealed that students with m...</p></details>
+   Link:<a href="https://studentexperiencenetwork.org/research_library/boring-but-important-a-self-transcendent-purpose-for-learning-fosters-academic-self-regulation/" target="_blank" rel="noopener noreferrer nofollow">https://studentexperiencenetwork.org/research_library/boring-but-important-a-self-transcendent-purpose-for-learning-fosters-academic-self-regulation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Student Experience Research NetworkBoring but important: A self-transcendent purpose for...The first study revealed that students with m...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/1912999/The_unengaged_mind_Defining_boredom_in_terms_of_attention" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/1912999/The_unengaged_mind_Defining_boredom_in_terms_of_attention</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The unengaged mind: Defining boredom in terms of attentionOur central goal is to provide a definition of boredom in terms of the underlyi...</p></details>
+   Link:<a href="https://www.academia.edu/1912999/The_unengaged_mind_Defining_boredom_in_terms_of_attention" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/1912999/The_unengaged_mind_Defining_boredom_in_terms_of_attention</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The unengaged mind: Defining boredom in terms of attentionOur central goal is to provide a definition of boredom in terms of the underlyi...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cornerstonecounselling.com  
-   Link: <a href="https://cornerstonecounselling.com/blog/psychology-of-boredom/" target="_blank" rel="noopener noreferrer nofollow">https://cornerstonecounselling.com/blog/psychology-of-boredom/</a>  
+   Link:<a href="https://cornerstonecounselling.com/blog/psychology-of-boredom/" target="_blank" rel="noopener noreferrer nofollow">https://cornerstonecounselling.com/blog/psychology-of-boredom/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: according to the psychologist john eastwood boredom is the unfulfilled desire fo  
-   Link: <a href="https://www.facebook.com/postcardcabins/posts/according-to-the-psychologist-john-eastwood-boredom-is-the-unfulfilled-desire-fo/4063954207047064/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/postcardcabins/posts/according-to-the-psychologist-john-eastwood-boredom-is-the-unfulfilled-desire-fo/4063954207047064/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>According to the psychologist John Eastwood, boredom is “...28 Jul 2021 — The scientists believe that when we&#x27;re bored, we tend to start...</p></details>
+   Link:<a href="https://www.facebook.com/postcardcabins/posts/according-to-the-psychologist-john-eastwood-boredom-is-the-unfulfilled-desire-fo/4063954207047064/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/postcardcabins/posts/according-to-the-psychologist-john-eastwood-boredom-is-the-unfulfilled-desire-fo/4063954207047064/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>According to the psychologist John Eastwood, boredom is “...28 Jul 2021 — The scientists believe that when we&#x27;re bored, we tend to start...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: urmc.rochester.edu  
    Title: University of Rochester Medicine Self-Determination Theory of Motivation  
-   Link: <a href="https://www.urmc.rochester.edu/community-health/patient-care/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.urmc.rochester.edu/community-health/patient-care/self-determination-theory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Rochester MedicineSelf-Determination Theory of Motivation - URMC.Rochester.eduSelf-determination theory suggests that all h...</p></details>
+   Link:<a href="https://www.urmc.rochester.edu/community-health/patient-care/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.urmc.rochester.edu/community-health/patient-care/self-determination-theory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of Rochester MedicineSelf-Determination Theory of Motivation - URMC.Rochester.eduSelf-determination theory suggests that all h...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
    Title: 230801476 The Unengaged Mind Defining Boredom in Terms of Attention  
-   Link: <a href="https://www.researchgate.net/publication/230801476_The_Unengaged_Mind_Defining_Boredom_in_Terms_of_Attention" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/230801476_The_Unengaged_Mind_Defining_Boredom_in_Terms_of_Attention</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Unengaged Mind: Defining Boredom in Terms...10 May 2026 — Our central goal is to provide a definition of boredom in terms of t...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/230801476_The_Unengaged_Mind_Defining_Boredom_in_Terms_of_Attention" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/230801476_The_Unengaged_Mind_Defining_Boredom_in_Terms_of_Attention</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Unengaged Mind: Defining Boredom in Terms...10 May 2026 — Our central goal is to provide a definition of boredom in terms of t...</p></details>
    Published: May 2026  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/Boring-but-important%3A-a-self-transcendent-purpose-Yeager-Henderson/88a9311fc9c29b1924442a8aa7168f0c6864fb81" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Boring-but-important%3A-a-self-transcendent-purpose-Yeager-Henderson/88a9311fc9c29b1924442a8aa7168f0c6864fb81</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>se could improve academic self-regulation on such tasks and found that those with...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/Boring-but-important%3A-a-self-transcendent-purpose-Yeager-Henderson/88a9311fc9c29b1924442a8aa7168f0c6864fb81" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Boring-but-important%3A-a-self-transcendent-purpose-Yeager-Henderson/88a9311fc9c29b1924442a8aa7168f0c6864fb81</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>se could improve academic self-regulation on such tasks and found that those with...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: theguardian.com  
    Title: The Guardian Constantly scrolling on your phone?  
-   Link: <a href="https://www.theguardian.com/wellness/2025/feb/07/boredom-explainer-good-or-bad" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/wellness/2025/feb/07/boredom-explainer-good-or-bad</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why we can&#x27;t stand feeling boredPeople have an aversion to boredom and often resort to mindless activities, such as scrolling on their ph...</p></details>
+   Link:<a href="https://www.theguardian.com/wellness/2025/feb/07/boredom-explainer-good-or-bad" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/wellness/2025/feb/07/boredom-explainer-good-or-bad</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why we can&#x27;t stand feeling boredPeople have an aversion to boredom and often resort to mindless activities, such as scrolling on their ph...</p></details>

@@ -277,7 +277,7 @@ image: /assets/images/self_improvement_tha_c01280_willpower_backup_643acf_habit_
 The central idea behind habit formation is simple: if a useful behaviour depends on feeling motivated every time, it is fragile. If the behaviour becomes a habit, repetition carries more of the workload. In the context of [self improvement]({{ 'self-improvement-that-works/' | relative_url }}), this is one of the most practical ways to treat [willpower]({{ 'willpower/' | relative_url }}) as a backup rather than an engine. Instead of repeatedly deciding whether to act, you create conditions in which the action becomes the normal response to a familiar situation.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_habit_repetition_cue_a30656-Illustration-1-dark.svg" | relative_url }}" alt="Habit Repetition illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_habit_repetition_cue_a30656-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_habit_repetition_cue_a30656-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research on habit formation consistently finds that habits develop when behaviours are repeated in stable contexts. Over time, cues in the [environment]({{ 'environment/' | relative_url }}) become linked to specific actions, reducing the need for conscious deliberation. The goal is not to eliminate choice entirely but to reduce the number of moments that require [motivation]({{ 'motivation/' | relative_url }}), negotiation or self-control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 875 — Decades of psychological resea...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26361052/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Psychology of Habitby W Wood · 2016 · Cited by 1867 — As the proverbial creatures of habit, people tend to repeat the same behavior...</span></span></span>
+Research on habit formation consistently finds that habits develop when behaviours are repeated in stable contexts. Over time, cues in the [environment]({{ 'environment/' | relative_url }}) become linked to specific actions, reducing the need for conscious deliberation. The goal is not to eliminate choice entirely but to reduce the number of moments that require [motivation]({{ 'motivation/' | relative_url }}), negotiation or self-control.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 875 — Decades of psychological resea...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26361052/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Psychology of Habitby W Wood · 2016 · Cited by 1867 — As the proverbial creatures of habit, people tend to repeat the same behavior...</span></span></span>
 
 ## How Cues Become Linked to Actions
 
@@ -295,7 +295,7 @@ A context cue can be almost anything:
 
 </div>
 
-When the same behaviour repeatedly follows the same cue, the brain gradually learns the association. Eventually the cue itself begins to trigger the behaviour automatically. Researchers Wendy Wood and colleagues describe habits as responses activated by contextual cues that have accompanied previous performance of the behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26361052/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Psychology of Habitby W Wood · 2016 · Cited by 1867 — As the proverbial creatures of habit, people tend to repeat the same behavior...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1111/j.1467-8721.2006.00435.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Habits—A Repeat Performance</span><span class="citation-popover-snippet">Neal, Wendy...Abstract. Habits are response dispositions that are activated automatically by the context cues that co-occurred with resp...</span></span></span>
+When the same behaviour repeatedly follows the same cue, the brain gradually learns the association. Eventually the cue itself begins to trigger the behaviour automatically. Researchers Wendy Wood and colleagues describe habits as responses activated by contextual cues that have accompanied previous performance of the behaviour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26361052/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Psychology of Habitby W Wood · 2016 · Cited by 1867 — As the proverbial creatures of habit, people tend to repeat the same behavior...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://journals.sagepub.com/doi/10.1111/j.1467-8721.2006.00435.x" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-title">Sage Journals Habits—A Repeat Performance</span><span class="citation-popover-snippet">Neal, Wendy...Abstract. Habits are response dispositions that are activated automatically by the context cues that co-occurred with resp...</span></span></span>
 
 Consider two people trying to establish a reading habit:
 
@@ -306,13 +306,13 @@ Both may read the same total amount during the first week. However, Person B is 
 
 This distinction helps explain why motivation-based routines often collapse during stressful periods. Motivation changes from day to day. A stable cue remains available even when enthusiasm disappears.
 
-Research on everyday behaviour suggests that a large share of what people do occurs in repeated contexts and follows familiar patterns. Habit systems take advantage of that tendency rather than fighting it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Neal.Wood_.Quinn_.2006_Habits_a_repeat_performance.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dornsife.usc.edu">[USC Dornsife]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dornsife.usc.edu</span><span class="citation-popover-snippet">USC DornsifeHabits—A Repeat Performanceby DT Neal · Cited by 972 — In experience-sampling diary studies using both student and community...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.01556/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHabits, Quick and Easy: Perceived Complexity Moderates...by K McCloskey · 2019 · Cited by 67 — Habits are behaviors that are pe...</span></span></span>
+Research on everyday behaviour suggests that a large share of what people do occurs in repeated contexts and follows familiar patterns. Habit systems take advantage of that tendency rather than fighting it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Neal.Wood_.Quinn_.2006_Habits_a_repeat_performance.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dornsife.usc.edu">[USC Dornsife]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dornsife.usc.edu</span><span class="citation-popover-snippet">USC DornsifeHabits—A Repeat Performanceby DT Neal · Cited by 972 — In experience-sampling diary studies using both student and community...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.01556/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHabits, Quick and Easy: Perceived Complexity Moderates...by K McCloskey · 2019 · Cited by 67 — Habits are behaviors that are pe...</span></span></span>
 
 ### Automaticity Is the Real Target
 
 A common misunderstanding is that habit formation is mainly about [frequency]({{ 'frequency/' | relative_url }}). Frequency helps, but the real outcome is [automaticity]({{ 'automaticity/' | relative_url }}): the extent to which an action starts happening with less conscious effort.
 
-Habit researchers often distinguish between performing a behaviour frequently and performing it automatically. A person can force themselves to exercise for weeks while still feeling as if they are making a fresh decision every time. A stronger habit develops when the behaviour begins to feel like the obvious or default response to a cue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ehps.net/ehp/index.php/contents/article/download/ehp.v14.i2.p32/1012" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ehps.net">[EHPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ehps.net</span><span class="citation-popover-snippet">Habit as automaticity, not frequencyby B Gardner · 2012 · Cited by 260 — Empirical work has demonstrated that, because habits are tri...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/abs/10.1080/17437199.2011.603640" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlinePromoting habit formation: Health Psychology Reviewby P Lally · 2013 · Cited by 1243 — Habits are automatic behavi...</span></span></span>
+Habit researchers often distinguish between performing a behaviour frequently and performing it automatically. A person can force themselves to exercise for weeks while still feeling as if they are making a fresh decision every time. A stronger habit develops when the behaviour begins to feel like the obvious or default response to a cue.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ehps.net/ehp/index.php/contents/article/download/ehp.v14.i2.p32/1012" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ehps.net">[EHPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ehps.net</span><span class="citation-popover-snippet">Habit as automaticity, not frequencyby B Gardner · 2012 · Cited by 260 — Empirical work has demonstrated that, because habits are tri...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/abs/10.1080/17437199.2011.603640" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlinePromoting habit formation: Health Psychology Reviewby P Lally · 2013 · Cited by 1243 — Habits are automatic behavi...</span></span></span>
 
 That shift is important because automatic behaviours place fewer demands on attention and self-control. The behaviour does not become effortless in every respect, but getting started requires less mental friction.
 
@@ -322,7 +322,7 @@ That shift is important because automatic behaviours place fewer demands on atte
 
 Popular advice often claims that habits take a fixed number of days to form. The evidence does not support a single universal timeline.
 
-One influential study by Phillippa Lally and colleagues tracked people as they repeated new health-related behaviours in daily life. Habit strength increased gradually, and the average time to reach a high level of automaticity was around 66 days. However, the range was extremely wide. Some habits developed much faster, while others took many months. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Modelling habit formation in the real world</span><span class="citation-popover-snippet">Wiley Online LibraryModelling habit formation in the real world - Lally - 2010by P Lally · 2010 · Cited by 3636 — The aim of the present...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[University College London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-title">how long does it take form habit</span><span class="citation-popover-snippet">University College LondonHow long does it take to form a habit?4 Aug 2009 — It takes an average 66 days to form a new habit, according to...</span></span></span>
+One influential study by Phillippa Lally and colleagues tracked people as they repeated new health-related behaviours in daily life. Habit strength increased gradually, and the average time to reach a high level of automaticity was around 66 days. However, the range was extremely wide. Some habits developed much faster, while others took many months.<span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Modelling habit formation in the real world</span><span class="citation-popover-snippet">Wiley Online LibraryModelling habit formation in the real world - Lally - 2010by P Lally · 2010 · Cited by 3636 — The aim of the present...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucl.ac.uk">[University College London]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucl.ac.uk</span><span class="citation-popover-title">how long does it take form habit</span><span class="citation-popover-snippet">University College LondonHow long does it take to form a habit?4 Aug 2009 — It takes an average 66 days to form a new habit, according to...</span></span></span>
 
 The practical lesson is not that everyone needs exactly 66 days. It is that habit formation follows a gradual curve rather than a sudden transformation.
 
@@ -330,13 +330,13 @@ Several factors influence how quickly repetition becomes automatic:
 
 **Behaviour complexity.** Drinking a glass of water after breakfast is easier to automate than completing a demanding workout.
 
-**Context stability.** Repeating an action in the same situation strengthens cue-action links more efficiently than performing it under constantly changing conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.01556/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHabits, Quick and Easy: Perceived Complexity Moderates...by K McCloskey · 2019 · Cited by 67 — Habits are behaviors that are pe...</span></span></span>
+**Context stability.** Repeating an action in the same situation strengthens cue-action links more efficiently than performing it under constantly changing conditions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.01556/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersHabits, Quick and Easy: Perceived Complexity Moderates...by K McCloskey · 2019 · Cited by 67 — Habits are behaviors that are pe...</span></span></span>
 
 **Frequency of repetition.** Behaviours performed more often create more learning opportunities.
 
 **Environmental support.** Easy access to the required tools, locations or materials reduces friction and increases consistency.
 
-Importantly, missing a single repetition does not appear to erase progress. The habit-building process is generally more resilient than many people assume. What matters most is returning to the pattern rather than interpreting an interruption as failure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Modelling habit formation in the real world</span><span class="citation-popover-snippet">Wiley Online LibraryModelling habit formation in the real world - Lally - 2010by P Lally · 2010 · Cited by 3636 — The aim of the present...</span></span></span>
+Importantly, missing a single repetition does not appear to erase progress. The habit-building process is generally more resilient than many people assume. What matters most is returning to the pattern rather than interpreting an interruption as failure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: onlinelibrary.wiley.com">[Wiley Online Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">onlinelibrary.wiley.com</span><span class="citation-popover-title">Online Library Modelling habit formation in the real world</span><span class="citation-popover-snippet">Wiley Online LibraryModelling habit formation in the real world - Lally - 2010by P Lally · 2010 · Cited by 3636 — The aim of the present...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_habit_repetition_cue_a30656-Illustration-2-dark.svg" | relative_url }}" alt="Habit Repetition illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_habit_repetition_cue_a30656-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_habit_repetition_cue_a30656-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why Some Habits Feel Stuck
@@ -386,7 +386,7 @@ Examples include:
 
 </div>
 
-This approach works because the existing routine supplies a stable cue. Recent discussions of habit-stacking build on this principle: the old habit acts as an anchor for the new one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/wellness/2026/04/26/habit-stacking/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-snippet">Popularized by authors BJ Fogg and James Clear, and widely used by behavioral therapists, habit-stacking involves &quot;stacking&quot; small, speci...</span></span></span>
+This approach works because the existing routine supplies a stable cue. Recent discussions of habit-stacking build on this principle: the old habit acts as an anchor for the new one.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/wellness/2026/04/26/habit-stacking/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-snippet">Popularized by authors BJ Fogg and James Clear, and widely used by behavioral therapists, habit-stacking involves &quot;stacking&quot; small, speci...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_habit_repetition_cue_a30656-Illustration-3-dark.svg" | relative_url }}" alt="Habit Repetition illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_habit_repetition_cue_a30656-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_habit_repetition_cue_a30656-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Reduce Friction Before It Appears
@@ -414,167 +414,167 @@ When a behaviour is driven mainly by motivation, performance rises and falls wit
 
 This does not mean habits eliminate the need for willpower. Difficult days still occur. Unexpected disruptions still happen. However, the number of situations requiring heroic self-control becomes smaller. The person who studies after sitting at the same desk each evening, walks after lunch every day, or saves money automatically each payday has transferred part of the work from motivation to repetition.
 
-That transfer is precisely why habits fit the broader principle that self improvement works best when willpower serves as a backup system. The more useful behaviour can be tied to [stable cues]({{ 'stable-cues/' | relative_url }}) and repeated under consistent conditions, the less progress depends on winning the same motivational argument over and over again. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 875 — Decades of psychological resea...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26361052/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Psychology of Habitby W Wood · 2016 · Cited by 1867 — As the proverbial creatures of habit, people tend to repeat the same behavior...</span></span></span>
+That transfer is precisely why habits fit the broader principle that self improvement works best when willpower serves as a backup system. The more useful behaviour can be tied to [stable cues]({{ 'stable-cues/' | relative_url }}) and repeated under consistent conditions, the less progress depends on winning the same motivational argument over and over again.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 875 — Decades of psychological resea...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26361052/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Psychology of Habitby W Wood · 2016 · Cited by 1867 — As the proverbial creatures of habit, people tend to repeat the same behavior...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/i4-CnaZllMo" title="Introduction to Good Habits, Bad Habits with Wendy Wood" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=i4-CnaZllMo" target="_blank" rel="noopener noreferrer">Introduction to Good Habits, Bad Habits with Wendy Wood</a></p><p class="youtube-embed-meta">Channel: The Next Big Idea Podcast &middot; Views: 4.8K &middot; Uploaded: February 2022 &middot; Length: 1 minute 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=i4-CnaZllMo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=i4-CnaZllMo">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Let Repetition Carry the Habit. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Let Repetition Carry the Habit. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Covers cues, repetition, environment design and automatic behaviour in practical detail.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Covers cues, repetition, environment design and automatic behaviour in practical detail.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
-        </h4>
-        <p class="fr-book-author">By B. J. Fogg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
+</h4>
+<p class="fr-book-author">By B. J. Fogg</p>
         
-        <p class="fr-book-desc">Shows how repetition in stable contexts creates lasting habits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how repetition in stable contexts creates lasting habits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Better+Than+Before+by+Gretchen+Rubin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Better Than Before on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zk-TEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Better Than Before" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Better+Than+Before+by+Gretchen+Rubin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Better Than Before">Better Than Before</a>
-        </h4>
-        <p class="fr-book-author">By Gretchen Rubin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Better+Than+Before+by+Gretchen+Rubin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Better Than Before on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zk-TEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Better Than Before" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Better+Than+Before+by+Gretchen+Rubin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Better Than Before">Better Than Before</a>
+</h4>
+<p class="fr-book-author">By Gretchen Rubin</p>
         
-        <p class="fr-book-desc">Explores how everyday routines become sustainable behavioural patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Better+Than+Before+by+Gretchen+Rubin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how everyday routines become sustainable behavioural patterns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Better+Than+Before+by+Gretchen+Rubin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
-        </h4>
-        <p class="fr-book-author">By Charles Duhigg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
+</h4>
+<p class="fr-book-author">By Charles Duhigg</p>
         
-        <p class="fr-book-desc">Introduces the cue-routine-reward framework central to habit formation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces the cue-routine-reward framework central to habit formation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Better+Than+Before&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Better Than Before</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Better+Than+Before&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Better Than Before</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+device&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-repetition-carry-the-habit-habit-tracker-device&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker device" data-ebay-reference="let-repetition-carry-the-habit-habit-tracker-device" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pavlok 3 Silent Alarm Wearable Habit Tracker Device"><img src="https://i.ebayimg.com/images/g/n4wAAeSwQIJqJ9bn/s-l225.jpg" alt="Listing image for Pavlok 3 Silent Alarm Wearable Habit Tracker Device" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+device&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-repetition-carry-the-habit-habit-tracker-device&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker device" data-ebay-reference="let-repetition-carry-the-habit-habit-tracker-device" target="_blank" rel="sponsored noopener noreferrer">Pavlok 3 Silent Alarm Wearable Habit Tracker Device</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+device&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-repetition-carry-the-habit-habit-tracker-device&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker device" data-ebay-reference="let-repetition-carry-the-habit-habit-tracker-device" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker device">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker device</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+device&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-repetition-carry-the-habit-habit-tracker-device&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker device" data-ebay-reference="let-repetition-carry-the-habit-habit-tracker-device" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+device&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-repetition-carry-the-habit-habit-tracker-device&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker device" data-ebay-reference="let-repetition-carry-the-habit-habit-tracker-device" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pavlok 3 Silent Alarm Wearable Habit Tracker Device"><img src="https://i.ebayimg.com/images/g/n4wAAeSwQIJqJ9bn/s-l225.jpg" alt="Listing image for Pavlok 3 Silent Alarm Wearable Habit Tracker Device" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+device&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-repetition-carry-the-habit-habit-tracker-device&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker device" data-ebay-reference="let-repetition-carry-the-habit-habit-tracker-device" target="_blank" rel="sponsored noopener noreferrer">Pavlok 3 Silent Alarm Wearable Habit Tracker Device</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+device&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-repetition-carry-the-habit-habit-tracker-device&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker device" data-ebay-reference="let-repetition-carry-the-habit-habit-tracker-device" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker device">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker device</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+device&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-repetition-carry-the-habit-habit-tracker-device&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker device" data-ebay-reference="let-repetition-carry-the-habit-habit-tracker-device" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+device&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-repetition-carry-the-habit-habit-tracker-device&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker device" data-ebay-reference="let-repetition-carry-the-habit-habit-tracker-device" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 15.6&#x27;&#x27; Touch Screen Digital Calendar &amp; Planner for Modern Family Organization"><img src="https://i.ebayimg.com/images/g/CSgAAeSwIKhqJd~8/s-l225.jpg" alt="Listing image for 15.6&#x27;&#x27; Touch Screen Digital Calendar &amp; Planner for Modern Family Organization" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+device&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-repetition-carry-the-habit-habit-tracker-device&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker device" data-ebay-reference="let-repetition-carry-the-habit-habit-tracker-device" target="_blank" rel="sponsored noopener noreferrer">15.6&#x27;&#x27; Touch Screen Digital Calendar &amp; Planner for Modern Family Organization</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+device&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-repetition-carry-the-habit-habit-tracker-device&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker device" data-ebay-reference="let-repetition-carry-the-habit-habit-tracker-device" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker device">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker device</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+device&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-repetition-carry-the-habit-habit-tracker-device&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker device" data-ebay-reference="let-repetition-carry-the-habit-habit-tracker-device" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+device&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-repetition-carry-the-habit-habit-tracker-device&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker device" data-ebay-reference="let-repetition-carry-the-habit-habit-tracker-device" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+device&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-repetition-carry-the-habit-habit-tracker-device&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker device" data-ebay-reference="let-repetition-carry-the-habit-habit-tracker-device" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 15.6&#x27;&#x27; Touch Screen Digital Calendar &amp; Planner for Modern Family Organization"><img src="https://i.ebayimg.com/images/g/CSgAAeSwIKhqJd~8/s-l225.jpg" alt="Listing image for 15.6&#x27;&#x27; Touch Screen Digital Calendar &amp; Planner for Modern Family Organization" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+device&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-repetition-carry-the-habit-habit-tracker-device&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker device" data-ebay-reference="let-repetition-carry-the-habit-habit-tracker-device" target="_blank" rel="sponsored noopener noreferrer">15.6&#x27;&#x27; Touch Screen Digital Calendar &amp; Planner for Modern Family Organization</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+device&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-repetition-carry-the-habit-habit-tracker-device&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker device" data-ebay-reference="let-repetition-carry-the-habit-habit-tracker-device" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker device">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker device</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+device&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-repetition-carry-the-habit-habit-tracker-device&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker device" data-ebay-reference="let-repetition-carry-the-habit-habit-tracker-device" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+device&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=let-repetition-carry-the-habit-habit-tracker-device&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker device" data-ebay-reference="let-repetition-carry-the-habit-habit-tracker-device" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -590,7 +590,7 @@ That transfer is precisely why habits fit the broader principle that self improv
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -610,7 +610,7 @@ That transfer is precisely why habits fit the broader principle that self improv
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -642,7 +642,7 @@ That transfer is precisely why habits fit the broader principle that self improv
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -694,7 +694,7 @@ That transfer is precisely why habits fit the broader principle that self improv
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -739,7 +739,7 @@ That transfer is precisely why habits fit the broader principle that self improv
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -780,155 +780,155 @@ That transfer is precisely why habits fit the broader principle that self improv
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 875 — Decades of psychological resea...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Making health habitual: the psychology of &#x27;habit-formation&#x27; and...by B Gardner · 2012 · Cited by 875 — Decades of psychological resea...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: dornsife.usc.edu  
-   Link: <a href="https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Neal.Wood_.Quinn_.2006_Habits_a_repeat_performance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Neal.Wood_.Quinn_.2006_Habits_a_repeat_performance.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>USC DornsifeHabits—A Repeat Performanceby DT Neal · Cited by 972 — In experience-sampling diary studies using both student and community...</p></details>
+   Link:<a href="https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Neal.Wood_.Quinn_.2006_Habits_a_repeat_performance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/Neal.Wood_.Quinn_.2006_Habits_a_repeat_performance.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USC DornsifeHabits—A Repeat Performanceby DT Neal · Cited by 972 — In experience-sampling diary studies using both student and community...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ehps.net  
-   Link: <a href="https://www.ehps.net/ehp/index.php/contents/article/download/ehp.v14.i2.p32/1012" target="_blank" rel="noopener noreferrer nofollow">https://www.ehps.net/ehp/index.php/contents/article/download/ehp.v14.i2.p32/1012</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit as automaticity, not frequencyby B Gardner · 2012 · Cited by 260 — Empirical work has demonstrated that, because habits are tri...</p></details>
+   Link:<a href="https://www.ehps.net/ehp/index.php/contents/article/download/ehp.v14.i2.p32/1012" target="_blank" rel="noopener noreferrer nofollow">https://www.ehps.net/ehp/index.php/contents/article/download/ehp.v14.i2.p32/1012</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Habit as automaticity, not frequencyby B Gardner · 2012 · Cited by 260 — Empirical work has demonstrated that, because habits are tri...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: onlinelibrary.wiley.com  
    Title: Online Library Modelling habit formation in the real world  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryModelling habit formation in the real world - Lally - 2010by P Lally · 2010 · Cited by 3636 — The aim of the present...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/full/10.1002/ejsp.674</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryModelling habit formation in the real world - Lally - 2010by P Lally · 2010 · Cited by 3636 — The aim of the present...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: onlinelibrary.wiley.com  
    Title: Online Library Modelling habit formation in the real world  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryModelling habit formation in the real world - Lally - 2010by P Lally · 2010 · Cited by 3493 — To investigate the proc...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1002/ejsp.674</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wiley Online LibraryModelling habit formation in the real world - Lally - 2010by P Lally · 2010 · Cited by 3493 — To investigate the proc...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: dornsife.usc.edu  
-   Link: <a href="https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/wood.neal_.2007psychrev_a_new_look_at_habits_and_the_interface_between_habits_and_goals.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/wood.neal_.2007psychrev_a_new_look_at_habits_and_the_interface_between_habits_and_goals.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Slow-learning, conservative memory...Read more...</p></details>
+   Link:<a href="https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/wood.neal_.2007psychrev_a_new_look_at_habits_and_the_interface_between_habits_and_goals.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2023/10/wood.neal_.2007psychrev_a_new_look_at_habits_and_the_interface_between_habits_and_goals.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Slow-learning, conservative memory...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: dornsife.usc.edu  
    Title: neal.wood.labrecque.lally.2012  
-   Link: <a href="https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2024/01/neal.wood_.labrecque.lally_.2012.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2024/01/neal.wood_.labrecque.lally_.2012.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Perceived and actual triggers...by DT Neal · 2011 · Cited by 669 — This consensus aside, it remains unclear how goals and context cues i...</p></details>
+   Link:<a href="https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2024/01/neal.wood_.labrecque.lally_.2012.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dornsife.usc.edu/wendy-wood/wp-content/uploads/sites/183/2024/01/neal.wood_.labrecque.lally_.2012.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Perceived and actual triggers...by DT Neal · 2011 · Cited by 669 — This consensus aside, it remains unclear how goals and context cues i...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26361052/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26361052/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology of Habitby W Wood · 2016 · Cited by 1867 — As the proverbial creatures of habit, people tend to repeat the same behavior...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26361052/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26361052/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Psychology of Habitby W Wood · 2016 · Cited by 1867 — As the proverbial creatures of habit, people tend to repeat the same behavior...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/abs/10.1080/17437199.2011.603640" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/17437199.2011.603640</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlinePromoting habit formation: Health Psychology Reviewby P Lally · 2013 · Cited by 1243 — Habits are automatic behavi...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/abs/10.1080/17437199.2011.603640" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/abs/10.1080/17437199.2011.603640</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlinePromoting habit formation: Health Psychology Reviewby P Lally · 2013 · Cited by 1243 — Habits are automatic behavi...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals Habits—A Repeat Performance  
-   Link: <a href="https://journals.sagepub.com/doi/10.1111/j.1467-8721.2006.00435.x" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1111/j.1467-8721.2006.00435.x</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Neal, Wendy...Abstract. Habits are response dispositions that are activated automatically by the context cues that co-occurred with resp...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1111/j.1467-8721.2006.00435.x" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1111/j.1467-8721.2006.00435.x</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Neal, Wendy...Abstract. Habits are response dispositions that are activated automatically by the context cues that co-occurred with resp...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: journals.sagepub.com  
    Title: Sage Journals Habits—A Repeat Performance  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.1111/j.1467-8721.2006.00435.x" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1111/j.1467-8721.2006.00435.x</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Neal, Wendy...by DT Neal · 2006 · Cited by 983 — Abstract. Habits are response dispositions that are activated automatically by the cont...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.1111/j.1467-8721.2006.00435.x" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1111/j.1467-8721.2006.00435.x</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Neal, Wendy...by DT Neal · 2006 · Cited by 983 — Abstract. Habits are response dispositions that are activated automatically by the cont...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.01556/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.01556/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersHabits, Quick and Easy: Perceived Complexity Moderates...by K McCloskey · 2019 · Cited by 67 — Habits are behaviors that are pe...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.01556/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.01556/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersHabits, Quick and Easy: Perceived Complexity Moderates...by K McCloskey · 2019 · Cited by 67 — Habits are behaviors that are pe...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ucl.ac.uk  
    Title: how long does it take form habit  
-   Link: <a href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow">https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>University College LondonHow long does it take to form a habit?4 Aug 2009 — It takes an average 66 days to form a new habit, according to...</p></details>
+   Link:<a href="https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit" target="_blank" rel="noopener noreferrer nofollow">https://www.ucl.ac.uk/news/2009/aug/how-long-does-it-take-form-habit</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University College LondonHow long does it take to form a habit?4 Aug 2009 — It takes an average 66 days to form a new habit, according to...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersContext Stability in Habit Building Increases Automaticity...by M Stojanovic · 2022 · Cited by 25 — In this paper, we investiga...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersContext Stability in Habit Building Increases Automaticity...by M Stojanovic · 2022 · Cited by 25 — In this paper, we investiga...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: washingtonpost.com  
-   Link: <a href="https://www.washingtonpost.com/wellness/2026/04/26/habit-stacking/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/wellness/2026/04/26/habit-stacking/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Popularized by authors BJ Fogg and James Clear, and widely used by behavioral therapists, habit-stacking involves &quot;stacking&quot; small, speci...</p></details>
+   Link:<a href="https://www.washingtonpost.com/wellness/2026/04/26/habit-stacking/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/wellness/2026/04/26/habit-stacking/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Popularized by authors BJ Fogg and James Clear, and widely used by behavioral therapists, habit-stacking involves &quot;stacking&quot; small, speci...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Automaticity" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Automaticity</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Automaticity - WikipediaThe “66-day rule” for habit formation comes from a 2009 study...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Automaticity" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Automaticity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Automaticity - WikipediaThe “66-day rule” for habit formation comes from a 2009 study...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/21749245/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/21749245/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of habit formation: a qualitative studyby P Lally · 2011 · Cited by 367 — Results showed that [behaviour change](&amp;#123;&amp;#123; &#x27;behaviour-change/&#x27; | relative_url &amp;#125;&amp;#125;) was initially experienced...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/21749245/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/21749245/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of habit formation: a qualitative studyby P Lally · 2011 · Cited by 367 — Results showed that [behaviour change](&amp;#123;&amp;#123; &#x27;behaviour-change/&#x27; | relative_url &amp;#125;&amp;#125;) was initially experienced...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: thebump.com  
-   Link: <a href="https://www.thebump.com/b/phillippa-baby-name" target="_blank" rel="noopener noreferrer nofollow">https://www.thebump.com/b/phillippa-baby-name</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Baby Name Meaning, Origin and PopularityAn equivalent of the masculine name Philip, Phillippa is a feminine Greek name meaning &quot;friend of...</p></details>
+   Link:<a href="https://www.thebump.com/b/phillippa-baby-name" target="_blank" rel="noopener noreferrer nofollow">https://www.thebump.com/b/phillippa-baby-name</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Baby Name Meaning, Origin and PopularityAn equivalent of the masculine name Philip, Phillippa is a feminine Greek name meaning &quot;friend of...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: filippa-k.com  
-   Link: <a href="https://www.filippa-k.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.filippa-k.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FILIPPA K | Effortless Scandinavian MinimalismAt FILIPPA K, we stand for effortless style, simplicity, and quality, crafting timeless, hi...</p></details>
+   Link:<a href="https://www.filippa-k.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.filippa-k.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FILIPPA K | Effortless Scandinavian MinimalismAt FILIPPA K, we stand for effortless style, simplicity, and quality, crafting timeless, hi...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
    Title: 32898894 How are habits formed Modeling habit formation in the real world  
-   Link: <a href="https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Modeling habit formation in the real world | Request PDFThese students reached their peak automaticity after about 56 days (or 8 weeks)...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/32898894_How_are_habits_formed_Modeling_habit_formation_in_the_real_world</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Modeling habit formation in the real world | Request PDFThese students reached their peak automaticity after about 56 days (or 8 weeks)...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: surrey.ac.uk  
    Title: does it really take 66 days form habit we asked expert dr pippa lally  
-   Link: <a href="https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally" target="_blank" rel="noopener noreferrer nofollow">https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>University of SurreyDoes it really take 66 days to form a habit?21 Jan 2026 — In 2010, Dr Pippa Lally, with colleagues at UCL, published...</p></details>
+   Link:<a href="https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally" target="_blank" rel="noopener noreferrer nofollow">https://www.surrey.ac.uk/news/does-it-really-take-66-days-form-habit-we-asked-expert-dr-pippa-lally</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University of SurreyDoes it really take 66 days to form a habit?21 Jan 2026 — In 2010, Dr Pippa Lally, with colleagues at UCL, published...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: philippalondon.com  
-   Link: <a href="https://www.philippalondon.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.philippalondon.com/</a>  
+   Link:<a href="https://www.philippalondon.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.philippalondon.com/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: researchgate.net  
    Title: 10974303 Habits in Everyday Life Thought Emotion and Action  
-   Link: <a href="https://www.researchgate.net/publication/10974303_Habits_in_Everyday_Life_Thought_Emotion_and_Action" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/10974303_Habits_in_Everyday_Life_Thought_Emotion_and_Action</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Habits in Everyday Life: Thought, Emotion, and Action9 Oct 2025 — A major portion of our daily activities is driven by habits, with appro...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/10974303_Habits_in_Everyday_Life_Thought_Emotion_and_Action" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/10974303_Habits_in_Everyday_Life_Thought_Emotion_and_Action</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Habits in Everyday Life: Thought, Emotion, and Action9 Oct 2025 — A major portion of our daily activities is driven by habits, with appro...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>cue contexts will promote habit strength and facilitate enduring behavior change.Read more...</p></details>
+   Link:<a href="https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/books/handbook-of-behavior-change/changing-behavior-using-habit-theory/5F222BC3AF6ADD9A8307BBB726D43F5C</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cue contexts will promote habit strength and facilitate enduring behavior change.Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: scienceofselfhelp.org  
-   Link: <a href="https://scienceofselfhelp.org/articles-1/phillippa-lally-and-the-number-of-days-to-form-a" target="_blank" rel="noopener noreferrer nofollow">https://scienceofselfhelp.org/articles-1/phillippa-lally-and-the-number-of-days-to-form-a</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit26 Jul 2013 — The study suggests that some tasks take less time and some tasks more time before they are considered a habit, but the...</p></details>
+   Link:<a href="https://scienceofselfhelp.org/articles-1/phillippa-lally-and-the-number-of-days-to-form-a" target="_blank" rel="noopener noreferrer nofollow">https://scienceofselfhelp.org/articles-1/phillippa-lally-and-the-number-of-days-to-form-a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Habit26 Jul 2013 — The study suggests that some tasks take less time and some tasks more time before they are considered a habit, but the...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: studocu.vn  
    Title: Modelling Habit Formation: Insights from Eur  
-   Link: <a href="https://www.studocu.vn/vn/document/truong-dai-hoc-ngoai-ngu-dai-hoc-da-nang/ngon-ngu-anh/modelling-habit-formation-insights-from-eur-j-soc-psychol-40-2010/157504686" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.vn/vn/document/truong-dai-hoc-ngoai-ngu-dai-hoc-da-nang/ngon-ngu-anh/modelling-habit-formation-insights-from-eur-j-soc-psychol-40-2010/157504686</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>J. Soc....This research article explores the process of habit formation through a study involving 96 participants who tracked their dail...</p></details>
+   Link:<a href="https://www.studocu.vn/vn/document/truong-dai-hoc-ngoai-ngu-dai-hoc-da-nang/ngon-ngu-anh/modelling-habit-formation-insights-from-eur-j-soc-psychol-40-2010/157504686" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.vn/vn/document/truong-dai-hoc-ngoai-ngu-dai-hoc-da-nang/ngon-ngu-anh/modelling-habit-formation-insights-from-eur-j-soc-psychol-40-2010/157504686</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>J. Soc....This research article explores the process of habit formation through a study involving 96 participants who tracked their dail...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: studocu.vn  
    Title: Modelling Habit Formation: Insights from Eur  
-   Link: <a href="https://www.studocu.vn/vn/document/hoc-vien-ngoai-giao-viet-nam/van-hoa-viet-nam-va-hoi-nhap-quoc-te/modelling-habit-formation-insights-from-eur-j-soc-psychol-40-2010/147722239" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.vn/vn/document/hoc-vien-ngoai-giao-viet-nam/van-hoa-viet-nam-va-hoi-nhap-quoc-te/modelling-habit-formation-insights-from-eur-j-soc-psychol-40-2010/147722239</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>J. Soc....The findings indicate that habits develop through consistent repetition in stable contexts, with automaticity increasing over...</p></details>
+   Link:<a href="https://www.studocu.vn/vn/document/hoc-vien-ngoai-giao-viet-nam/van-hoa-viet-nam-va-hoi-nhap-quoc-te/modelling-habit-formation-insights-from-eur-j-soc-psychol-40-2010/147722239" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.vn/vn/document/hoc-vien-ngoai-giao-viet-nam/van-hoa-viet-nam-va-hoi-nhap-quoc-te/modelling-habit-formation-insights-from-eur-j-soc-psychol-40-2010/147722239</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>J. Soc....The findings indicate that habits develop through consistent repetition in stable contexts, with automaticity increasing over...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: aftertone.io  
    Title: Habit Formation: It Takes 66 Days, Not 21  
-   Link: <a href="https://www.aftertone.io/science/habit-formation-timeline-66-days-not-21" target="_blank" rel="noopener noreferrer nofollow">https://www.aftertone.io/science/habit-formation-timeline-66-days-not-21</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lally and colleagues tracked 96 adults forming real habits over 84 days and found the median time to automaticity was 66 days...</p></details>
+   Link:<a href="https://www.aftertone.io/science/habit-formation-timeline-66-days-not-21" target="_blank" rel="noopener noreferrer nofollow">https://www.aftertone.io/science/habit-formation-timeline-66-days-not-21</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lally and colleagues tracked 96 adults forming real habits over 84 days and found the median time to automaticity was 66 days...</p></details>

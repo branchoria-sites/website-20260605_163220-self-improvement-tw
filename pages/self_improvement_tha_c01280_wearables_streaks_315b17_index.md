@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /self-improvement-tha-c01280-wearables/
 description: Focused pages that expand on Wearables.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: self_improvement_tha_c01280_wearables_streaks_315b17
 parent_title: Wearables
@@ -16,7 +16,7 @@ parent_permalink: /wearables/
 
 # Explore Topics in Wearables
 
-The following pages expand on the main **[Wearables]({{ '/wearables/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Wearables]({{ '/wearables/' | relative_url }})** page and cover its key branches in.
 
 - [Activity Rings]({{ '/activity-rings/' | relative_url }})
 - [Streaks]({{ '/streaks/' | relative_url }})

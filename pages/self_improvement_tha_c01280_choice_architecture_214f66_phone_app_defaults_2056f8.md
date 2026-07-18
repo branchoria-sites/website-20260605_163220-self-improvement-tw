@@ -271,7 +271,7 @@ image: /assets/images/self_improvement_tha_c01280_choice_architecture_214f66_pho
 Phone distraction is often treated as a self-control problem: resist the urge, ignore the notification, close the app. In practice, the more reliable solution is usually architectural rather than motivational. By the time a tempting app is visible, a notification has arrived, or a bored moment appears, attention is already under pressure. The strongest phone [defaults]({{ 'defaults/' | relative_url }}) therefore act before distraction begins.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_phone_app_defaults_2056f8-Illustration-1-dark.svg" | relative_url }}" alt="App defaults illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_phone_app_defaults_2056f8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_phone_app_defaults_2056f8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This is the logic behind scheduled focus modes, notification filtering, charging locations, app timers and blocked work-hour access. These settings shift decisions from the moment of temptation to a calmer moment of planning. Research consistently finds that notifications and smartphone interruptions impair attention and increase task-switching costs, while tools that suppress or batch interruptions can improve sustained focus for many users. ERIC <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0277220" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">effects of smartphone notifications on cognitive control...by JD Upshaw · 2022 · Cited by 40 — The current study examined the effects of...</span></span></span>
+This is the logic behind scheduled focus modes, notification filtering, charging locations, app timers and blocked work-hour access. These settings shift decisions from the moment of temptation to a calmer moment of planning. Research consistently finds that notifications and smartphone interruptions impair attention and increase task-switching costs, while tools that suppress or batch interruptions can improve sustained focus for many users. ERIC<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0277220" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">effects of smartphone notifications on cognitive control...by JD Upshaw · 2022 · Cited by 40 — The current study examined the effects of...</span></span></span>
 
 Within choice architecture, the goal is not to make distraction impossible. It is to make the preferred behaviour the default path and the distracting behaviour the exception.
 
@@ -281,7 +281,7 @@ Many digital self-improvement strategies fail because they depend on making a go
 
 A common example is social media. Someone intends to check a message, sees a notification, opens an app, encounters a recommendation feed and loses twenty minutes. The critical choice was not whether to scroll endlessly. The critical choice happened earlier, when the phone was configured to deliver interruptions instantly and place the app one tap away.
 
-Research on smartphone notifications repeatedly finds measurable attention costs. Notifications can disrupt ongoing cognitive processing, increase the time required to complete tasks and impair performance on attention-demanding activities. ERIC <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0277220" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">effects of smartphone notifications on cognitive control...by JD Upshaw · 2022 · Cited by 40 — The current study examined the effects of...</span></span></span> The mechanism is broader than the few seconds spent looking at a screen. Researchers studying interruptions often describe a phenomenon called attention residue: after [attention shifts]({{ 'attention-shift/' | relative_url }}), part of the mind remains attached to the interruption, making it harder to fully re-engage with the original task. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0749597816304630" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Consistent with the research on attention residue.Read more...</span></span></span>
+Research on smartphone notifications repeatedly finds measurable attention costs. Notifications can disrupt ongoing cognitive processing, increase the time required to complete tasks and impair performance on attention-demanding activities. ERIC<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0277220" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">effects of smartphone notifications on cognitive control...by JD Upshaw · 2022 · Cited by 40 — The current study examined the effects of...</span></span></span> The mechanism is broader than the few seconds spent looking at a screen. Researchers studying interruptions often describe a phenomenon called attention residue: after [attention shifts]({{ 'attention-shift/' | relative_url }}), part of the mind remains attached to the interruption, making it harder to fully re-engage with the original task.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0749597816304630" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Consistent with the research on attention residue.Read more...</span></span></span>
 
 This is why phone defaults matter. They remove many interruptions before the brain has to recover from them.
 
@@ -298,7 +298,7 @@ The second approach eliminates hundreds of small decisions. Instead of repeatedl
 
 The most useful [blockers]({{ 'blockers/' | relative_url }}) are often the least dramatic. They do not permanently remove apps. They simply make distraction unavailable during periods when attention is valuable.
 
-Both Android and iPhone now include built-in systems for this. Android's Focus Mode can automatically pause selected apps and suppress their notifications on a schedule. <span class="citation-chip-wrap"><a class="citation-chip" href="https://support.google.com/android/answer/9346420?hl=en-GB" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.google.com">[Google Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.google.com</span><span class="citation-popover-snippet">· Tap Digital Wellbeing and parental controls and then · Choose which apps you want to pause. When Focus mode is on, you can&#x27;t...Read more...</span></span></span>
+Both Android and iPhone now include built-in systems for this. Android's Focus Mode can automatically pause selected apps and suppress their notifications on a schedule.<span class="citation-chip-wrap"><a class="citation-chip" href="https://support.google.com/android/answer/9346420?hl=en-GB" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.google.com">[Google Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.google.com</span><span class="citation-popover-snippet">· Tap Digital Wellbeing and parental controls and then · Choose which apps you want to pause. When Focus mode is on, you can&#x27;t...Read more...</span></span></span>
 
 The key design principle is timing. A blocker that activates only after someone has already opened a distracting app is weaker than one that activates automatically before work begins.
 
@@ -313,7 +313,7 @@ Effective work-hour defaults typically include:
 
 </div>
 
-These settings matter because interruption management is not merely about screen time. Research suggests that notifications help create habitual checking behaviour, encouraging people to reach for their phones even when there is no clear reason to do so. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/15213269.2024.2334025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineBeyond the Buzz: Investigating the Effects of a Notification...by CA Dekker · 2025 · Cited by 42 — Receiving noti...</span></span></span>
+These settings matter because interruption management is not merely about screen time. Research suggests that notifications help create habitual checking behaviour, encouraging people to reach for their phones even when there is no clear reason to do so.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/15213269.2024.2334025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineBeyond the Buzz: Investigating the Effects of a Notification...by CA Dekker · 2025 · Cited by 42 — Receiving noti...</span></span></span>
 
 A useful question is not "How strong is my self-control?" but "What happens automatically at 09:00 on a busy Tuesday?" If the answer is that distracting apps become unavailable and notifications are filtered, the default is working.
 
@@ -324,7 +324,7 @@ People frequently focus on app timers while leaving dozens of notification chann
 
 From an attention perspective, the order is often backwards.
 
-Many distractions begin with an external trigger rather than an internal desire. A notification appears, attention shifts, curiosity activates and a checking sequence begins. Research examining smartphone notifications has repeatedly found that alerts themselves contribute to distraction and reduced attention performance. ERIC <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0277220" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">effects of smartphone notifications on cognitive control...by JD Upshaw · 2022 · Cited by 40 — The current study examined the effects of...</span></span></span>
+Many distractions begin with an external trigger rather than an internal desire. A notification appears, attention shifts, curiosity activates and a checking sequence begins. Research examining smartphone notifications has repeatedly found that alerts themselves contribute to distraction and reduced attention performance. ERIC<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0277220" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.plos.org">[PLOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.plos.org</span><span class="citation-popover-snippet">effects of smartphone notifications on cognitive control...by JD Upshaw · 2022 · Cited by 40 — The current study examined the effects of...</span></span></span>
 
 For that reason, notification defaults usually deliver a larger benefit than simply measuring screen time.
 
@@ -339,7 +339,7 @@ High-value changes include:
 
 </div>
 
-Evidence suggests that batching notifications can reduce cognitive load and attention residue by reducing the [frequency]({{ 'frequency/' | relative_url }}) of interruptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0749597816304630" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Consistent with the research on attention residue.Read more...</span></span></span>
+Evidence suggests that batching notifications can reduce cognitive load and attention residue by reducing the [frequency]({{ 'frequency/' | relative_url }}) of interruptions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0749597816304630" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Consistent with the research on attention residue.Read more...</span></span></span>
 
 A practical rule is simple: if a notification does not require action within the next few hours, it rarely needs to appear immediately.
 
@@ -351,13 +351,13 @@ The physical location of a phone is itself a default.
 
 Many people think of distraction as a software problem, yet some of the strongest interventions are environmental. A phone on the desk, in the hand or beside the bed offers continuous opportunities for checking. A phone across the room introduces friction.
 
-The bedroom provides a particularly clear example. Studies examining smartphone use in bed have found associations with poorer sleep outcomes and greater disruption of sleep-related measures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed Central“Leave your smartphone out of bed”: quantitative analysis of...by S Kheirinejad · 2022 · Cited by 80 — Our findings indica...</span></span></span>
+The bedroom provides a particularly clear example. Studies examining smartphone use in bed have found associations with poorer sleep outcomes and greater disruption of sleep-related measures.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMed Central“Leave your smartphone out of bed”: quantitative analysis of...by S Kheirinejad · 2022 · Cited by 80 — Our findings indica...</span></span></span>
 
 The important behavioural effect is not only what happens at night. A phone charged outside the bedroom also changes the first minutes of the morning.
 
 Instead of waking directly into messages, news feeds and social media, the user must physically choose to retrieve the device. That small delay restores a moment of intentionality before digital inputs begin.
 
-Among people interested in digital minimalism, charging phones outside the bedroom is frequently reported as one of the most effective environmental changes because it removes both bedtime scrolling and automatic morning checking. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/digitalminimalism/comments/1mnzp17/have_you_tried_leaving_your_phone_outside_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Have you tried leaving your phone outside the bedroom?...I’ve been considering the idea of keeping your phone outside the bedroom...</span></span></span>
+Among people interested in digital minimalism, charging phones outside the bedroom is frequently reported as one of the most effective environmental changes because it removes both bedtime scrolling and automatic morning checking.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/digitalminimalism/comments/1mnzp17/have_you_tried_leaving_your_phone_outside_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Have you tried leaving your phone outside the bedroom?...I’ve been considering the idea of keeping your phone outside the bedroom...</span></span></span>
 
 In choice architecture terms, the bedroom setup determines the default morning behaviour before conscious decision-making is fully awake.
 
@@ -381,7 +381,7 @@ The most durable phone defaults usually include clear exit routes:
 
 This balance matters because distraction management is not the same as prohibition. The objective is to reduce impulsive behaviour, not eliminate flexibility.
 
-Research on digital wellbeing tools also suggests caution against assuming every intervention works equally well for everyone. Some users benefit substantially from notification suppression, while others see smaller effects. The strongest evidence supports reducing interruptions and increasing user control, but the optimal configuration remains individual. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/digital-wellbeing-android-ios-facebook-instagram" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">digital wellbeing android ios facebook instagram</span><span class="citation-popover-snippet">Despite the lack of scientific evidence proving that reducing screen time directly benefits mental health, these platforms hope to addres...</span></span></span>
+Research on digital wellbeing tools also suggests caution against assuming every intervention works equally well for everyone. Some users benefit substantially from notification suppression, while others see smaller effects. The strongest evidence supports reducing interruptions and increasing user control, but the optimal configuration remains individual.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/digital-wellbeing-android-ios-facebook-instagram" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">digital wellbeing android ios facebook instagram</span><span class="citation-popover-snippet">Despite the lack of scientific evidence proving that reducing screen time directly benefits mental health, these platforms hope to addres...</span></span></span>
 
 A useful default therefore has two properties at once: it is strong enough to protect attention when [motivation]({{ 'motivation/' | relative_url }}) is low, and easy enough to override when circumstances genuinely require it.
 
@@ -394,269 +394,269 @@ Phone and app defaults work best when they intervene before temptation arrives. 
 This approach reflects a broader lesson from effective self-improvement: the most reliable systems do not demand repeated acts of resistance. They redesign the starting conditions. When the easiest action already supports the intended behaviour, attention is conserved for work, relationships and decisions that actually require it.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Set the blocker before the scroll begins. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Set the blocker before the scroll begins. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Minimalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S4NbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Minimalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Minimalism">Digital Minimalism</a>
-        </h4>
-        <p class="fr-book-author">By Cal Newport</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Minimalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S4NbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Minimalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Minimalism">Digital Minimalism</a>
+</h4>
+<p class="fr-book-author">By Cal Newport</p>
         
-        <p class="fr-book-desc">Focuses on redesigning technology defaults, notifications, and digital environments.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on redesigning technology defaults, notifications, and digital environments.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Indistractable on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_KjNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Indistractable" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Indistractable">Indistractable</a>
-        </h4>
-        <p class="fr-book-author">By Nir Eyal</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Indistractable on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_KjNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Indistractable" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Indistractable">Indistractable</a>
+</h4>
+<p class="fr-book-author">By Nir Eyal</p>
         
-        <p class="fr-book-desc">Addresses smartphone interruptions and attention management.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses smartphone interruptions and attention management.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Explains environment design and making desired actions the default.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Explains environment design and making desired actions the default.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B_L8CAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
-        </h4>
-        <p class="fr-book-author">By Cal Newport</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Deep Work on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B_L8CAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Deep Work" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Deep Work">Deep Work</a>
+</h4>
+<p class="fr-book-author">By Cal Newport</p>
         
-        <p class="fr-book-desc">Supports the use of focus systems and reduced digital interruption.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports the use of focus systems and reduced digital interruption.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Deep+Work+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Minimalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Minimalism</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Indistractable&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Indistractable</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Minimalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Minimalism</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Indistractable&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Indistractable</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-desk-organizer-tray&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desk Organiser Metal Mesh Magazine File Document Letter Tray Pen Pencil Holder"><img src="{{ '/assets/images/marketplace-covers/de7cf710c321ccbc99b7.jpg' | relative_url }}" alt="Listing image for Desk Organiser Metal Mesh Magazine File Document Letter Tray Pen Pencil Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-desk-organizer-tray&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desk Organiser Metal Mesh Magazine File Document Letter Tray Pen Pencil Holder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-desk-organizer-tray&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer tray">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer tray</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-desk-organizer-tray&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-desk-organizer-tray&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Desk Organiser Metal Mesh Magazine File Document Letter Tray Pen Pencil Holder"><img src="{{ '/assets/images/marketplace-covers/de7cf710c321ccbc99b7.jpg' | relative_url }}" alt="Listing image for Desk Organiser Metal Mesh Magazine File Document Letter Tray Pen Pencil Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-desk-organizer-tray&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Desk Organiser Metal Mesh Magazine File Document Letter Tray Pen Pencil Holder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-desk-organizer-tray&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer tray">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk organizer tray</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-desk-organizer-tray&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-desk-organizer-tray&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3 Tier Stackable Desk Black A4 Letter Tray Filing Document Organiser Form Paper"><img src="{{ '/assets/images/marketplace-covers/9da155b7e4d20a6f7c46.jpg' | relative_url }}" alt="Listing image for 3 Tier Stackable Desk Black A4 Letter Tray Filing Document Organiser Form Paper" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-desk-organizer-tray&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">3 Tier Stackable Desk Black A4 Letter Tray Filing Document Organiser Form Paper</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-desk-organizer-tray&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer tray">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer tray</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-desk-organizer-tray&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-desk-organizer-tray&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3 Tier Stackable Desk Black A4 Letter Tray Filing Document Organiser Form Paper"><img src="{{ '/assets/images/marketplace-covers/9da155b7e4d20a6f7c46.jpg' | relative_url }}" alt="Listing image for 3 Tier Stackable Desk Black A4 Letter Tray Filing Document Organiser Form Paper" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-desk-organizer-tray&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">3 Tier Stackable Desk Black A4 Letter Tray Filing Document Organiser Form Paper</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-desk-organizer-tray&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer tray">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk organizer tray</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-desk-organizer-tray&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-desk-organizer-tray&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Under Desk Cable Management Tray No-Drill Metal Wire Organizer Clamp"><img src="{{ '/assets/images/marketplace-covers/b0939b52c4acac83f8f2.jpg' | relative_url }}" alt="Listing image for Under Desk Cable Management Tray No-Drill Metal Wire Organizer Clamp" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-desk-organizer-tray&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Under Desk Cable Management Tray No-Drill Metal Wire Organizer Clamp</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-desk-organizer-tray&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer tray">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer tray</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-desk-organizer-tray&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-desk-organizer-tray&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Under Desk Cable Management Tray No-Drill Metal Wire Organizer Clamp"><img src="{{ '/assets/images/marketplace-covers/b0939b52c4acac83f8f2.jpg' | relative_url }}" alt="Listing image for Under Desk Cable Management Tray No-Drill Metal Wire Organizer Clamp" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-desk-organizer-tray&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Under Desk Cable Management Tray No-Drill Metal Wire Organizer Clamp</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-desk-organizer-tray&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer tray">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk organizer tray</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-desk-organizer-tray&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-desk-organizer-tray&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4-Tier Letter Tray Organiser, Paper Filing Tray for Office Desk, File Holder"><img src="{{ '/assets/images/marketplace-covers/fcb7cbf12bcaa61369a9.jpg' | relative_url }}" alt="Listing image for 4-Tier Letter Tray Organiser, Paper Filing Tray for Office Desk, File Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-desk-organizer-tray&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">4-Tier Letter Tray Organiser, Paper Filing Tray for Office Desk, File Holder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-desk-organizer-tray&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer tray">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer tray</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-desk-organizer-tray&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-desk-organizer-tray&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-desk-organizer-tray&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4-Tier Letter Tray Organiser, Paper Filing Tray for Office Desk, File Holder"><img src="{{ '/assets/images/marketplace-covers/fcb7cbf12bcaa61369a9.jpg' | relative_url }}" alt="Listing image for 4-Tier Letter Tray Organiser, Paper Filing Tray for Office Desk, File Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-desk-organizer-tray&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">4-Tier Letter Tray Organiser, Paper Filing Tray for Office Desk, File Holder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-desk-organizer-tray&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer tray">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk organizer tray</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-desk-organizer-tray&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer+tray&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=app-defaults-set-the-blocker-before-the-scroll-begins-self-improvement-that-works-desk-organizer-tray&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -672,7 +672,7 @@ This approach reflects a broader lesson from effective self-improvement: the mos
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -692,7 +692,7 @@ This approach reflects a broader lesson from effective self-improvement: the mos
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -724,7 +724,7 @@ This approach reflects a broader lesson from effective self-improvement: the mos
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -754,7 +754,7 @@ This approach reflects a broader lesson from effective self-improvement: the mos
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -812,102 +812,102 @@ This approach reflects a broader lesson from effective self-improvement: the mos
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: journals.plos.org  
-   Link: <a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0277220" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0277220</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>effects of smartphone notifications on cognitive control...by JD Upshaw · 2022 · Cited by 40 — The current study examined the effects of...</p></details>
+   Link:<a href="https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0277220" target="_blank" rel="noopener noreferrer nofollow">https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0277220</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>effects of smartphone notifications on cognitive control...by JD Upshaw · 2022 · Cited by 40 — The current study examined the effects of...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0749597816304630" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0749597816304630</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Consistent with the research on attention residue.Read more...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0749597816304630" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0749597816304630</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Consistent with the research on attention residue.Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0747563219302596?via%3Dihub=" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0747563219302596?via%3Dihub=</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Batching smartphone notifications can improve well-beingBy randomly interrupting people in an ongoing activity, smartphone n...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0747563219302596?via%3Dihub=" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0747563219302596?via%3Dihub=</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Batching smartphone notifications can improve well-beingBy randomly interrupting people in an ongoing activity, smartphone n...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: [support](&#123;&#123; 'support/' | relative_url &#125;&#125;). google.com  
-   Link: <a href="https://support.google.com/android/answer/9346420?hl=en-GB" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/android/answer/9346420?hl=en-GB</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>· Tap Digital Wellbeing and parental controls and then · Choose which apps you want to pause. When Focus mode is on, you can&#x27;t...Read more...</p></details>
+   Link:<a href="https://support.google.com/android/answer/9346420?hl=en-GB" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/android/answer/9346420?hl=en-GB</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>· Tap Digital Wellbeing and parental controls and then · Choose which apps you want to pause. When Focus mode is on, you can&#x27;t...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/digitalminimalism/comments/1mnzp17/have_you_tried_leaving_your_phone_outside_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/digitalminimalism/comments/1mnzp17/have_you_tried_leaving_your_phone_outside_the/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Have you tried leaving your phone outside the bedroom?...I’ve been considering the idea of keeping your phone outside the bedroom...</p></details>
+   Link:<a href="https://www.reddit.com/r/digitalminimalism/comments/1mnzp17/have_you_tried_leaving_your_phone_outside_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/digitalminimalism/comments/1mnzp17/have_you_tried_leaving_your_phone_outside_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Have you tried leaving your phone outside the bedroom?...I’ve been considering the idea of keeping your phone outside the bedroom...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: wired.com  
    Title: digital wellbeing android ios facebook instagram  
-   Link: <a href="https://www.wired.com/story/digital-wellbeing-android-ios-facebook-instagram" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/digital-wellbeing-android-ios-facebook-instagram</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite the lack of scientific evidence proving that reducing screen time directly benefits mental health, these platforms hope to addres...</p></details>
+   Link:<a href="https://www.wired.com/story/digital-wellbeing-android-ios-facebook-instagram" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/digital-wellbeing-android-ios-facebook-instagram</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Despite the lack of scientific evidence proving that reducing screen time directly benefits mental health, these platforms hope to addres...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0747563226000233" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0747563226000233</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How social media notifications disrupt cognitive processingby H Fournier · 2026 — Cell phone notifications harm attention: An exploration...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0747563226000233" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0747563226000233</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How social media notifications disrupt cognitive processingby H Fournier · 2026 — Cell phone notifications harm attention: An exploration...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/15213269.2024.2334025" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/15213269.2024.2334025</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineBeyond the Buzz: Investigating the Effects of a Notification...by CA Dekker · 2025 · Cited by 42 — Receiving noti...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/15213269.2024.2334025" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/15213269.2024.2334025</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineBeyond the Buzz: Investigating the Effects of a Notification...by CA Dekker · 2025 · Cited by 42 — Receiving noti...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed Central“Leave your smartphone out of bed”: quantitative analysis of...by S Kheirinejad · 2022 · Cited by 80 — Our findings indica...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed Central“Leave your smartphone out of bed”: quantitative analysis of...by S Kheirinejad · 2022 · Cited by 80 — Our findings indica...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/291618379_Silence_Your_Phones_Smartphone_Notifications_Increase_Inattention_and_Hyperactivity_Symptoms" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/291618379_Silence_Your_Phones_Smartphone_Notifications_Increase_Inattention_and_Hyperactivity_Symptoms</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“Silence Your Phones”: Smartphone Notifications Increase...7 May 2016 — Using both correlational and experimental methods, we explored w...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/291618379_Silence_Your_Phones_Smartphone_Notifications_Increase_Inattention_and_Hyperactivity_Symptoms" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/291618379_Silence_Your_Phones_Smartphone_Notifications_Increase_Inattention_and_Hyperactivity_Symptoms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“Silence Your Phones”: Smartphone Notifications Increase...7 May 2016 — Using both correlational and experimental methods, we explored w...</p></details>
    Published: May 2016  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: drkristygoodwin.com  
-   Link: <a href="https://drkristygoodwin.com/are-you-suffering-from-attention-residue/" target="_blank" rel="noopener noreferrer nofollow">https://drkristygoodwin.com/are-you-suffering-from-attention-residue/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Are You Suffering from &#x27;Attention Residue&#x27;?Research suggests that batching, not banning notifications is the most effective strategy to d...</p></details>
+   Link:<a href="https://drkristygoodwin.com/are-you-suffering-from-attention-residue/" target="_blank" rel="noopener noreferrer nofollow">https://drkristygoodwin.com/are-you-suffering-from-attention-residue/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Are You Suffering from &#x27;Attention Residue&#x27;?Research suggests that batching, not banning notifications is the most effective strategy to d...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: johnryanbydesign.co.uk  
-   Link: <a href="https://johnryanbydesign.co.uk/understanding-beds/how-to-stop-your-smartphone-or-iphone-from-disrupting-your-sleep/" target="_blank" rel="noopener noreferrer nofollow">https://johnryanbydesign.co.uk/understanding-beds/how-to-stop-your-smartphone-or-iphone-from-disrupting-your-sleep/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Stop Your Smartphone or iPhone from Disrupting...Charging your phone outside the bedroom can prevent nocturnal distractions &amp; not...</p></details>
+   Link:<a href="https://johnryanbydesign.co.uk/understanding-beds/how-to-stop-your-smartphone-or-iphone-from-disrupting-your-sleep/" target="_blank" rel="noopener noreferrer nofollow">https://johnryanbydesign.co.uk/understanding-beds/how-to-stop-your-smartphone-or-iphone-from-disrupting-your-sleep/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Stop Your Smartphone or iPhone from Disrupting...Charging your phone outside the bedroom can prevent nocturnal distractions &amp; not...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: tomsguide.com  
-   Link: <a href="https://www.tomsguide.com/wellness/sleep/stop-doing-this-one-thing-the-second-you-wake-up-to-end-morning-grogginess-for-good-say-experts" target="_blank" rel="noopener noreferrer nofollow">https://www.tomsguide.com/wellness/sleep/stop-doing-this-one-thing-the-second-you-wake-up-to-end-morning-grogginess-for-good-say-experts</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nearly half of Americans check their phones within 10 minutes of waking, a habit that spikes and then crashes dopamine, increases stress...</p></details>
+   Link:<a href="https://www.tomsguide.com/wellness/sleep/stop-doing-this-one-thing-the-second-you-wake-up-to-end-morning-grogginess-for-good-say-experts" target="_blank" rel="noopener noreferrer nofollow">https://www.tomsguide.com/wellness/sleep/stop-doing-this-one-thing-the-second-you-wake-up-to-end-morning-grogginess-for-good-say-experts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nearly half of Americans check their phones within 10 minutes of waking, a habit that spikes and then crashes dopamine, increases stress...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theses.liacs.nl  
-   Link: <a href="https://theses.liacs.nl/pdf/2019-2020-SalvodelliF.pdf" target="_blank" rel="noopener noreferrer nofollow">https://theses.liacs.nl/pdf/2019-2020-SalvodelliF.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Notifications&#x27; Distractions During a Full-attention...by F Savoldelli — The following research question is central in the present resear...</p></details>
+   Link:<a href="https://theses.liacs.nl/pdf/2019-2020-SalvodelliF.pdf" target="_blank" rel="noopener noreferrer nofollow">https://theses.liacs.nl/pdf/2019-2020-SalvodelliF.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Notifications&#x27; Distractions During a Full-attention...by F Savoldelli — The following research question is central in the present resear...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: headspace.com  
-   Link: <a href="https://www.headspace.com/articles/5-reasons-to-kick-your-phone-out-of-the-bedroom" target="_blank" rel="noopener noreferrer nofollow">https://www.headspace.com/articles/5-reasons-to-kick-your-phone-out-of-the-bedroom</a>  
+   Link:<a href="https://www.headspace.com/articles/5-reasons-to-kick-your-phone-out-of-the-bedroom" target="_blank" rel="noopener noreferrer nofollow">https://www.headspace.com/articles/5-reasons-to-kick-your-phone-out-of-the-bedroom</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/drfatmazohraatrous_deepwork-focus-productivity-activity-7436343358010122240-aXcT" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/drfatmazohraatrous_deepwork-focus-productivity-activity-7436343358010122240-aXcT</a>  
+   Link:<a href="https://www.linkedin.com/posts/drfatmazohraatrous_deepwork-focus-productivity-activity-7436343358010122240-aXcT" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/drfatmazohraatrous_deepwork-focus-productivity-activity-7436343358010122240-aXcT</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: psypost.org  
    Title: new psychology research reveals the cognitive cost of smartphone notifications  
-   Link: <a href="https://www.psypost.org/new-psychology-research-reveals-the-cognitive-cost-of-smartphone-notifications/" target="_blank" rel="noopener noreferrer nofollow">https://www.psypost.org/new-psychology-research-reveals-the-cognitive-cost-of-smartphone-notifications/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New psychology research reveals the cognitive cost of...18 Mar 2026 — A recent study in Computers in Human Behavior provides evidence th...</p></details>
+   Link:<a href="https://www.psypost.org/new-psychology-research-reveals-the-cognitive-cost-of-smartphone-notifications/" target="_blank" rel="noopener noreferrer nofollow">https://www.psypost.org/new-psychology-research-reveals-the-cognitive-cost-of-smartphone-notifications/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New psychology research reveals the cognitive cost of...18 Mar 2026 — A recent study in Computers in Human Behavior provides evidence th...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: theguardian.com  
    Title: apple ios12 screen time apps how much spent phone digital wellbeing  
-   Link: <a href="https://www.theguardian.com/technology/2018/jun/04/apple-ios12-screen-time-apps-how-much-spent-phone-digital-wellbeing" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2018/jun/04/apple-ios12-screen-time-apps-how-much-spent-phone-digital-wellbeing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apple&#x27;s new &#x27;digital wellbeing&#x27; tools aim to help reduce...4 Jun 2018 — A new app called Screen Time will offer iPhone and iPad users a...</p></details>
+   Link:<a href="https://www.theguardian.com/technology/2018/jun/04/apple-ios12-screen-time-apps-how-much-spent-phone-digital-wellbeing" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2018/jun/04/apple-ios12-screen-time-apps-how-much-spent-phone-digital-wellbeing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Apple&#x27;s new &#x27;digital wellbeing&#x27; tools aim to help reduce...4 Jun 2018 — A new app called Screen Time will offer iPhone and iPad users a...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: elgazette.com  
    Title: It's essentially about how the brain works. Leroy's findings make  
-   Link: <a href="https://www.elgazette.com/smartphones-and-focus-in-learning-friend-foe-or-false-ally/" target="_blank" rel="noopener noreferrer nofollow">https://www.elgazette.com/smartphones-and-focus-in-learning-friend-foe-or-false-ally/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Smartphones and focus in learning: Friend, foe, or false ally?4 Feb 2026 — Attention residue reminds us that distraction isn&#x27;t just about...</p></details>
+   Link:<a href="https://www.elgazette.com/smartphones-and-focus-in-learning-friend-foe-or-false-ally/" target="_blank" rel="noopener noreferrer nofollow">https://www.elgazette.com/smartphones-and-focus-in-learning-friend-foe-or-false-ally/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Smartphones and focus in learning: Friend, foe, or false ally?4 Feb 2026 — Attention residue reminds us that distraction isn&#x27;t just about...</p></details>

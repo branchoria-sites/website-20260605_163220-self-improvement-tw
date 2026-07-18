@@ -277,7 +277,7 @@ image: /assets/images/self_improvement_tha_c01280_phone_out_bedroom_20e47b_kitch
 A phone-free bedroom becomes much easier when the phone has somewhere else to live. For many people, a kitchen charging station is the simplest answer. It creates a clear boundary between the part of the evening when the phone is still useful and the part when sleep becomes the priority.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_phone_out_bedroom_20e47b_kitchen_charging_sta_33fe0e-Illustration-1-dark.svg" | relative_url }}" alt="Charging Spot illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_phone_out_bedroom_20e47b_kitchen_charging_sta_33fe0e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_phone_out_bedroom_20e47b_kitchen_charging_sta_33fe0e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The value of a kitchen charging spot is not that kitchens are special. It is that a fixed charging location outside the bedroom removes the device before bedtime negotiations begin. Instead of repeatedly deciding whether to scroll, check messages or look at notifications, the decision is made once: the phone goes on charge in its designated place. Research on bedtime phone restriction suggests that reducing phone use before sleep can improve sleep quality, increase sleep duration and reduce the mental activation that often delays sleep. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/32040492/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Effect of restricting bedtime mobile phone use on sleep...10 Feb 2020 — Conclusions: Restricting mobile phone use close to bedtim...</span></span></span>
+The value of a kitchen charging spot is not that kitchens are special. It is that a fixed charging location outside the bedroom removes the device before bedtime negotiations begin. Instead of repeatedly deciding whether to scroll, check messages or look at notifications, the decision is made once: the phone goes on charge in its designated place. Research on bedtime phone restriction suggests that reducing phone use before sleep can improve sleep quality, increase sleep duration and reduce the mental activation that often delays sleep.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/32040492/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Effect of restricting bedtime mobile phone use on sleep...10 Feb 2020 — Conclusions: Restricting mobile phone use close to bedtim...</span></span></span>
 
 ## Where Should Your Phone Sleep?
 
@@ -296,7 +296,7 @@ Other workable options include:
 
 </div>
 
-The common feature is distance. The phone should be far enough away that using it requires getting out of bed and leaving the bedroom. Sleep researchers and sleep-health organisations frequently recommend removing devices from the sleeping [environment]({{ 'environment/' | relative_url }}) or placing them outside the room to reduce both temptation and sleep disruption. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sleepfoundation.org/bedroom-environment/technology-in-the-bedroom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleepfoundation.org">[Sleep Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleepfoundation.org</span><span class="citation-popover-title">Sleep Foundation Technology in the Bedroom</span><span class="citation-popover-snippet">Sleep FoundationTechnology in the BedroomNovember 4, 2020 — 11 Jul 2025 — As best as possible, avoid using electronics for an hour or mor...</span><span class="citation-popover-meta">Published: November 4, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://sleepeducation.org/screen-time-and-sleep-what-new-studies-reveal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleepeducation.org">[Sleep Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleepeducation.org</span><span class="citation-popover-title">screen time and sleep what new studies reveal</span><span class="citation-popover-snippet">Screen time and sleep: What new studies reveal22 Sept 2025 — Turn off devices early. Power down electronics at least 30 to 60 minutes bef...</span></span></span>
+The common feature is distance. The phone should be far enough away that using it requires getting out of bed and leaving the bedroom. Sleep researchers and sleep-health organisations frequently recommend removing devices from the sleeping [environment]({{ 'environment/' | relative_url }}) or placing them outside the room to reduce both temptation and sleep disruption.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sleepfoundation.org/bedroom-environment/technology-in-the-bedroom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleepfoundation.org">[Sleep Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleepfoundation.org</span><span class="citation-popover-title">Sleep Foundation Technology in the Bedroom</span><span class="citation-popover-snippet">Sleep FoundationTechnology in the BedroomNovember 4, 2020 — 11 Jul 2025 — As best as possible, avoid using electronics for an hour or mor...</span><span class="citation-popover-meta">Published: November 4, 2020</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://sleepeducation.org/screen-time-and-sleep-what-new-studies-reveal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sleepeducation.org">[Sleep Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sleepeducation.org</span><span class="citation-popover-title">screen time and sleep what new studies reveal</span><span class="citation-popover-snippet">Screen time and sleep: What new studies reveal22 Sept 2025 — Turn off devices early. Power down electronics at least 30 to 60 minutes bef...</span></span></span>
 
 A kitchen location has an additional advantage: it separates the phone from other bedroom cues. When the device is not visible from the bed, there is no illuminated screen, no charging cable acting as an invitation, and no notifications appearing within arm's reach.
 
@@ -310,7 +310,7 @@ The distinction matters because bedtime phone use is often driven by convenience
 
 Behavioural scientists sometimes call this friction. A small increase in effort can produce a large reduction in an unwanted habit because it interrupts automatic behaviour.
 
-This matters because evidence increasingly suggests that the issue is not only screen light. Studies have found that smartphone use in bed is associated with longer sleep latency, more awake time and measurable physiological changes such as higher average heart rate and altered heart-rate variability. The phone functions as a source of stimulation, attention and cognitive activity, not merely illumination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7010281/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Effect of restricting bedtime mobile phone use on sleep</span><span class="citation-popover-snippet">by J He · 2020 · Cited by 146 — This study aimed to assess the effects of restricting mobile phone use before bedtime on sleep, pre-sl...</span></span></span> PubMed A kitchen charging station creates a practical barrier against exactly those late-night interactions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/32040492/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Effect of restricting bedtime mobile phone use on sleep...10 Feb 2020 — Conclusions: Restricting mobile phone use close to bedtim...</span></span></span>
+This matters because evidence increasingly suggests that the issue is not only screen light. Studies have found that smartphone use in bed is associated with longer sleep latency, more awake time and measurable physiological changes such as higher average heart rate and altered heart-rate variability. The phone functions as a source of stimulation, attention and cognitive activity, not merely illumination.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7010281/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PubMed Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Central Effect of restricting bedtime mobile phone use on sleep</span><span class="citation-popover-snippet">by J He · 2020 · Cited by 146 — This study aimed to assess the effects of restricting mobile phone use before bedtime on sleep, pre-sl...</span></span></span> PubMed A kitchen charging station creates a practical barrier against exactly those late-night interactions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubmed.ncbi.nlm.nih.gov/32040492/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[pubmed.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Effect of restricting bedtime mobile phone use on sleep...10 Feb 2020 — Conclusions: Restricting mobile phone use close to bedtim...</span></span></span>
 
 ## How to Make the Charging Habit Automatic
 
@@ -447,199 +447,199 @@ Repeated exceptions quietly turn the old behaviour back into the default.
 
 The kitchen charging station is not a productivity hack and it is not a test of [willpower]({{ 'willpower/' | relative_url }}). Its value comes from creating a visible boundary between daytime connectivity and nighttime recovery.
 
-Research on bedtime phone restriction consistently suggests benefits for sleep quality, sleep duration and pre-sleep arousal, while studies of in-bed smartphone use point to measurable sleep disruption. At the same time, some recent research argues that stimulating content and habitual engagement may matter more than screen light alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/staring-at-a-phone-before-bed-doesnt-interfere-with-your-sleep-8d6fw85gb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-snippet">Traditional advice suggests limiting screen time in the evening to avoid suppressing melatonin, the sleep-inducing hormone. However, the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/32040492/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Effect of restricting bedtime mobile phone use on sleep...10 Feb 2020 — Conclusions: Restricting mobile phone use close to bedtim...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0306460323002204" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Can restricting while-in-bed smartphone use improve sleep...by Z Tu · 2023 · Cited by 20 — Restricting while-in-bed smartphone use can i...</span></span></span>
+Research on bedtime phone restriction consistently suggests benefits for sleep quality, sleep duration and pre-sleep arousal, while studies of in-bed smartphone use point to measurable sleep disruption. At the same time, some recent research argues that stimulating content and habitual engagement may matter more than screen light alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thetimes.co.uk/article/staring-at-a-phone-before-bed-doesnt-interfere-with-your-sleep-8d6fw85gb" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.co.uk">[The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.co.uk</span><span class="citation-popover-snippet">Traditional advice suggests limiting screen time in the evening to avoid suppressing melatonin, the sleep-inducing hormone. However, the...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/32040492/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Effect of restricting bedtime mobile phone use on sleep...10 Feb 2020 — Conclusions: Restricting mobile phone use close to bedtim...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0306460323002204" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Can restricting while-in-bed smartphone use improve sleep...by Z Tu · 2023 · Cited by 20 — Restricting while-in-bed smartphone use can i...</span></span></span>
 
 That distinction makes the kitchen charging station especially practical. It does not require winning a debate about blue light, notifications or social media. It simply removes the phone from the place where sleep is supposed to happen, making the desired behaviour easier than the alternative.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where Should Your Phone Sleep?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where Should Your Phone Sleep?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Environment design and cue placement are central themes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Environment design and cue placement are central themes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Minimalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S4NbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Minimalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Minimalism">Digital Minimalism</a>
-        </h4>
-        <p class="fr-book-author">By Cal Newport</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Minimalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S4NbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Minimalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Minimalism">Digital Minimalism</a>
+</h4>
+<p class="fr-book-author">By Cal Newport</p>
         
-        <p class="fr-book-desc">Supports creating physical boundaries around technology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports creating physical boundaries around technology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Break+Up+with+Your+Phone+by+Catherine+Price&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Break Up with Your Phone on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rRVHDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Break Up with Your Phone" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Break+Up+with+Your+Phone+by+Catherine+Price&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Break Up with Your Phone">How to Break Up with Your Phone</a>
-        </h4>
-        <p class="fr-book-author">By Catherine Price</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Break+Up+with+Your+Phone+by+Catherine+Price&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Break Up with Your Phone on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rRVHDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Break Up with Your Phone" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Break+Up+with+Your+Phone+by+Catherine+Price&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Break Up with Your Phone">How to Break Up with Your Phone</a>
+</h4>
+<p class="fr-book-author">By Catherine Price</p>
         
-        <p class="fr-book-desc">Encourages moving phones out of default living spaces.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Break+Up+with+Your+Phone+by+Catherine+Price&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages moving phones out of default living spaces.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Break+Up+with+Your+Phone+by+Catherine+Price&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
-        </h4>
-        <p class="fr-book-author">By Charles Duhigg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
+</h4>
+<p class="fr-book-author">By Charles Duhigg</p>
         
-        <p class="fr-book-desc">Explains how routines become automatic.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how routines become automatic.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Minimalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Minimalism</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Break+Up+with+Your+Phone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Break Up with Your Phone</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Minimalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Minimalism</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Break+Up+with+Your+Phone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Break Up with Your Phone</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=multi+device+charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-multi-device-charging-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="multi device charging station" data-ebay-reference="where-should-your-phone-sleep-multi-device-charging-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 8 Port USB PD QC Charging Station Dock Multi Device Fast Charger UK Hub"><img src="https://i.ebayimg.com/images/g/qUYAAeSwm7Zpil02/s-l225.jpg" alt="Listing image for 8 Port USB PD QC Charging Station Dock Multi Device Fast Charger UK Hub" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=multi+device+charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-multi-device-charging-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="multi device charging station" data-ebay-reference="where-should-your-phone-sleep-multi-device-charging-station" target="_blank" rel="sponsored noopener noreferrer">8 Port USB PD QC Charging Station Dock Multi Device Fast Charger UK Hub</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=multi+device+charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-multi-device-charging-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="multi device charging station" data-ebay-reference="where-should-your-phone-sleep-multi-device-charging-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for multi device charging station">Search <span data-ebay-domain-label>eBay.co.uk</span>: multi device charging station</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=multi+device+charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-multi-device-charging-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="multi device charging station" data-ebay-reference="where-should-your-phone-sleep-multi-device-charging-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=multi+device+charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-multi-device-charging-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="multi device charging station" data-ebay-reference="where-should-your-phone-sleep-multi-device-charging-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 8 Port USB PD QC Charging Station Dock Multi Device Fast Charger UK Hub"><img src="https://i.ebayimg.com/images/g/qUYAAeSwm7Zpil02/s-l225.jpg" alt="Listing image for 8 Port USB PD QC Charging Station Dock Multi Device Fast Charger UK Hub" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=multi+device+charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-multi-device-charging-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="multi device charging station" data-ebay-reference="where-should-your-phone-sleep-multi-device-charging-station" target="_blank" rel="sponsored noopener noreferrer">8 Port USB PD QC Charging Station Dock Multi Device Fast Charger UK Hub</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=multi+device+charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-multi-device-charging-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="multi device charging station" data-ebay-reference="where-should-your-phone-sleep-multi-device-charging-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for multi device charging station">Search<span data-ebay-domain-label>eBay.co.uk</span>: multi device charging station</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=multi+device+charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-multi-device-charging-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="multi device charging station" data-ebay-reference="where-should-your-phone-sleep-multi-device-charging-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=multi+device+charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-multi-device-charging-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="multi device charging station" data-ebay-reference="where-should-your-phone-sleep-multi-device-charging-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Multi 10 Port USB C Charging Station Fast Charger 3A UK Plug for Phones Devices"><img src="https://i.ebayimg.com/images/g/AdQAAeSwds1pngyh/s-l225.jpg" alt="Listing image for Multi 10 Port USB C Charging Station Fast Charger 3A UK Plug for Phones Devices" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=multi+device+charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-multi-device-charging-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="multi device charging station" data-ebay-reference="where-should-your-phone-sleep-multi-device-charging-station" target="_blank" rel="sponsored noopener noreferrer">Multi 10 Port USB C Charging Station Fast Charger 3A UK Plug for Phones Devices</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=multi+device+charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-multi-device-charging-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="multi device charging station" data-ebay-reference="where-should-your-phone-sleep-multi-device-charging-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for multi device charging station">Search <span data-ebay-domain-label>eBay.co.uk</span>: multi device charging station</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=multi+device+charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-multi-device-charging-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="multi device charging station" data-ebay-reference="where-should-your-phone-sleep-multi-device-charging-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=multi+device+charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-multi-device-charging-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="multi device charging station" data-ebay-reference="where-should-your-phone-sleep-multi-device-charging-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Multi 10 Port USB C Charging Station Fast Charger 3A UK Plug for Phones Devices"><img src="https://i.ebayimg.com/images/g/AdQAAeSwds1pngyh/s-l225.jpg" alt="Listing image for Multi 10 Port USB C Charging Station Fast Charger 3A UK Plug for Phones Devices" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=multi+device+charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-multi-device-charging-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="multi device charging station" data-ebay-reference="where-should-your-phone-sleep-multi-device-charging-station" target="_blank" rel="sponsored noopener noreferrer">Multi 10 Port USB C Charging Station Fast Charger 3A UK Plug for Phones Devices</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=multi+device+charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-multi-device-charging-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="multi device charging station" data-ebay-reference="where-should-your-phone-sleep-multi-device-charging-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for multi device charging station">Search<span data-ebay-domain-label>eBay.co.uk</span>: multi device charging station</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=multi+device+charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-multi-device-charging-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="multi device charging station" data-ebay-reference="where-should-your-phone-sleep-multi-device-charging-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=multi+device+charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-multi-device-charging-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="multi device charging station" data-ebay-reference="where-should-your-phone-sleep-multi-device-charging-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 360W 15 Port USB C PD Charging Station Dock Multi Device Fast Charger UK"><img src="https://i.ebayimg.com/images/g/vLIAAeSw1u1pil7a/s-l225.jpg" alt="Listing image for 360W 15 Port USB C PD Charging Station Dock Multi Device Fast Charger UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=multi+device+charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-multi-device-charging-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="multi device charging station" data-ebay-reference="where-should-your-phone-sleep-multi-device-charging-station" target="_blank" rel="sponsored noopener noreferrer">360W 15 Port USB C PD Charging Station Dock Multi Device Fast Charger UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=multi+device+charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-multi-device-charging-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="multi device charging station" data-ebay-reference="where-should-your-phone-sleep-multi-device-charging-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for multi device charging station">Search <span data-ebay-domain-label>eBay.co.uk</span>: multi device charging station</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=multi+device+charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-multi-device-charging-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="multi device charging station" data-ebay-reference="where-should-your-phone-sleep-multi-device-charging-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=multi+device+charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-multi-device-charging-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="multi device charging station" data-ebay-reference="where-should-your-phone-sleep-multi-device-charging-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 360W 15 Port USB C PD Charging Station Dock Multi Device Fast Charger UK"><img src="https://i.ebayimg.com/images/g/vLIAAeSw1u1pil7a/s-l225.jpg" alt="Listing image for 360W 15 Port USB C PD Charging Station Dock Multi Device Fast Charger UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=multi+device+charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-multi-device-charging-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="multi device charging station" data-ebay-reference="where-should-your-phone-sleep-multi-device-charging-station" target="_blank" rel="sponsored noopener noreferrer">360W 15 Port USB C PD Charging Station Dock Multi Device Fast Charger UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=multi+device+charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-multi-device-charging-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="multi device charging station" data-ebay-reference="where-should-your-phone-sleep-multi-device-charging-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for multi device charging station">Search<span data-ebay-domain-label>eBay.co.uk</span>: multi device charging station</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=multi+device+charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-multi-device-charging-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="multi device charging station" data-ebay-reference="where-should-your-phone-sleep-multi-device-charging-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=multi+device+charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-multi-device-charging-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="multi device charging station" data-ebay-reference="where-should-your-phone-sleep-multi-device-charging-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6 Port USB C Charging Station Fast Charger 3A Multi Device Hub"><img src="https://i.ebayimg.com/images/g/SscAAeSwFLlqHZ4K/s-l225.jpg" alt="Listing image for 6 Port USB C Charging Station Fast Charger 3A Multi Device Hub" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=multi+device+charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-multi-device-charging-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="multi device charging station" data-ebay-reference="where-should-your-phone-sleep-multi-device-charging-station" target="_blank" rel="sponsored noopener noreferrer">6 Port USB C Charging Station Fast Charger 3A Multi Device Hub</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=multi+device+charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-multi-device-charging-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="multi device charging station" data-ebay-reference="where-should-your-phone-sleep-multi-device-charging-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for multi device charging station">Search <span data-ebay-domain-label>eBay.co.uk</span>: multi device charging station</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=multi+device+charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-multi-device-charging-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="multi device charging station" data-ebay-reference="where-should-your-phone-sleep-multi-device-charging-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=multi+device+charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-multi-device-charging-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="multi device charging station" data-ebay-reference="where-should-your-phone-sleep-multi-device-charging-station" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=multi+device+charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-multi-device-charging-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="multi device charging station" data-ebay-reference="where-should-your-phone-sleep-multi-device-charging-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6 Port USB C Charging Station Fast Charger 3A Multi Device Hub"><img src="https://i.ebayimg.com/images/g/SscAAeSwFLlqHZ4K/s-l225.jpg" alt="Listing image for 6 Port USB C Charging Station Fast Charger 3A Multi Device Hub" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=multi+device+charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-multi-device-charging-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="multi device charging station" data-ebay-reference="where-should-your-phone-sleep-multi-device-charging-station" target="_blank" rel="sponsored noopener noreferrer">6 Port USB C Charging Station Fast Charger 3A Multi Device Hub</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=multi+device+charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-multi-device-charging-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="multi device charging station" data-ebay-reference="where-should-your-phone-sleep-multi-device-charging-station" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for multi device charging station">Search<span data-ebay-domain-label>eBay.co.uk</span>: multi device charging station</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=multi+device+charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-multi-device-charging-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="multi device charging station" data-ebay-reference="where-should-your-phone-sleep-multi-device-charging-station" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=multi+device+charging+station&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-should-your-phone-sleep-multi-device-charging-station&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="multi device charging station" data-ebay-reference="where-should-your-phone-sleep-multi-device-charging-station" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -655,7 +655,7 @@ That distinction makes the kitchen charging station especially practical. It doe
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -675,7 +675,7 @@ That distinction makes the kitchen charging station especially practical. It doe
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -707,7 +707,7 @@ That distinction makes the kitchen charging station especially practical. It doe
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -759,7 +759,7 @@ That distinction makes the kitchen charging station especially practical. It doe
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -804,7 +804,7 @@ That distinction makes the kitchen charging station especially practical. It doe
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -845,153 +845,153 @@ That distinction makes the kitchen charging station especially practical. It doe
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0306460323002204" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0306460323002204</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Can restricting while-in-bed smartphone use improve sleep...by Z Tu · 2023 · Cited by 20 — Restricting while-in-bed smartphone use can i...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0306460323002204" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0306460323002204</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can restricting while-in-bed smartphone use improve sleep...by Z Tu · 2023 · Cited by 20 — Restricting while-in-bed smartphone use can i...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: time.com  
-   Link: <a href="https://time.com/7335087/doom-scroll-phone-night-melatonin/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/7335087/doom-scroll-phone-night-melatonin/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Surveying over 1,000 Canadian adults, researchers found that overall sleep health was similar between nightly screen users and non-users...</p></details>
+   Link:<a href="https://time.com/7335087/doom-scroll-phone-night-melatonin/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/7335087/doom-scroll-phone-night-melatonin/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Surveying over 1,000 Canadian adults, researchers found that overall sleep health was similar between nightly screen users and non-users...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: techtimes.com  
-   Link: <a href="https://www.techtimes.com/articles/314413/20260202/smart-rings-2026-sleep-tracking-hrv-analysis-fitness-metrics-without-watch.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.techtimes.com/articles/314413/20260202/smart-rings-2026-sleep-tracking-hrv-analysis-fitness-metrics-without-watch.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Smart Rings 2026: Sleep Tracking, HRV Analysis &amp; Fitness Metrics...February 2, 2026 — Research shows the Oura Ring achieves 85% accuracy...</p></details>
+   Link:<a href="https://www.techtimes.com/articles/314413/20260202/smart-rings-2026-sleep-tracking-hrv-analysis-fitness-metrics-without-watch.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.techtimes.com/articles/314413/20260202/smart-rings-2026-sleep-tracking-hrv-analysis-fitness-metrics-without-watch.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Smart Rings 2026: Sleep Tracking, HRV Analysis &amp; Fitness Metrics...February 2, 2026 — Research shows the Oura Ring achieves 85% accuracy...</p></details>
    Published: February 2, 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165178123003219" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0165178123003219</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Can limiting bedtime smartphone use improve next-day...by Z Tu · 2023 · Cited by 6 — The results generally supported our hypothesis, hig...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0165178123003219" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0165178123003219</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can limiting bedtime smartphone use improve next-day...by Z Tu · 2023 · Cited by 6 — The results generally supported our hypothesis, hig...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/am/pii/S1556407X23000413" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/am/pii/S1556407X23000413</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Doty --Sleep App Survey -- 1by TJ Doty · 2023 · Cited by 9 — Key Points. •. Most sleep apps available to consumers are designed to enhanc...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/am/pii/S1556407X23000413" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/am/pii/S1556407X23000413</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Doty --Sleep App Survey -- 1by TJ Doty · 2023 · Cited by 9 — Key Points. •. Most sleep apps available to consumers are designed to enhanc...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sciencedirect.com  
    Title: Poor sleep has been linked to a rang  
-   Link: <a href="https://www.sciencedirect.com/org/science/article/pii/S1438887125002079" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S1438887125002079</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Impact of Mobile Phone Usage on Sleep Quality Among...by JS Izquierdo-Condoy · 2025 · Cited by 29 — Prolonged screen exposure and late-n...</p></details>
+   Link:<a href="https://www.sciencedirect.com/org/science/article/pii/S1438887125002079" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/org/science/article/pii/S1438887125002079</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Impact of Mobile Phone Usage on Sleep Quality Among...by JS Izquierdo-Condoy · 2025 · Cited by 29 — Prolonged screen exposure and late-n...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1087079224000376" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1087079224000376</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A bidirectional model of sleep and technology useby S Bauducco · 2024 · Cited by 99 — Social media use did not alter heart rate nor heart...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S1087079224000376" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1087079224000376</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A bidirectional model of sleep and technology useby S Bauducco · 2024 · Cited by 99 — Social media use did not alter heart rate nor heart...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/32040492/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/32040492/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of restricting bedtime mobile phone use on sleep...10 Feb 2020 — Conclusions: Restricting mobile phone use close to bedtim...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/32040492/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/32040492/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of restricting bedtime mobile phone use on sleep...10 Feb 2020 — Conclusions: Restricting mobile phone use close to bedtim...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: Pub Med Central Effect of restricting bedtime mobile phone use on sleep  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7010281/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7010281/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by J He · 2020 · Cited by 146 — This study aimed to assess the effects of restricting mobile phone use before bedtime on sleep, pre-sl...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7010281/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7010281/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by J He · 2020 · Cited by 146 — This study aimed to assess the effects of restricting mobile phone use before bedtime on sleep, pre-sl...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sleepfoundation.org  
    Title: Sleep Foundation Technology in the Bedroom  
-   Link: <a href="https://www.sleepfoundation.org/bedroom-environment/technology-in-the-bedroom" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/bedroom-environment/technology-in-the-bedroom</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep FoundationTechnology in the BedroomNovember 4, 2020 — 11 Jul 2025 — As best as possible, avoid using electronics for an hour or mor...</p></details>
+   Link:<a href="https://www.sleepfoundation.org/bedroom-environment/technology-in-the-bedroom" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/bedroom-environment/technology-in-the-bedroom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sleep FoundationTechnology in the BedroomNovember 4, 2020 — 11 Jul 2025 — As best as possible, avoid using electronics for an hour or mor...</p></details>
    Published: November 4, 2020  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sleepeducation.org  
    Title: screen time and sleep what new studies reveal  
-   Link: <a href="https://sleepeducation.org/screen-time-and-sleep-what-new-studies-reveal/" target="_blank" rel="noopener noreferrer nofollow">https://sleepeducation.org/screen-time-and-sleep-what-new-studies-reveal/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Screen time and sleep: What new studies reveal22 Sept 2025 — Turn off devices early. Power down electronics at least 30 to 60 minutes bef...</p></details>
+   Link:<a href="https://sleepeducation.org/screen-time-and-sleep-what-new-studies-reveal/" target="_blank" rel="noopener noreferrer nofollow">https://sleepeducation.org/screen-time-and-sleep-what-new-studies-reveal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Screen time and sleep: What new studies reveal22 Sept 2025 — Turn off devices early. Power down electronics at least 30 to 60 minutes bef...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed Central“Leave your smartphone out of bed”: quantitative analysis of...by S Kheirinejad · 2022 · Cited by 75 — Our findings indica...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9643910/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PubMed Central“Leave your smartphone out of bed”: quantitative analysis of...by S Kheirinejad · 2022 · Cited by 75 — Our findings indica...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/36405389/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36405389/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>analysis of smartphone use effect on sleep...Our findings indicate that smartphone use in bed has significant adverse effects on sleep l...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/36405389/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36405389/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>analysis of smartphone use effect on sleep...Our findings indicate that smartphone use in bed has significant adverse effects on sleep l...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: thetimes.co.uk  
-   Link: <a href="https://www.thetimes.co.uk/article/staring-at-a-phone-before-bed-doesnt-interfere-with-your-sleep-8d6fw85gb" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/staring-at-a-phone-before-bed-doesnt-interfere-with-your-sleep-8d6fw85gb</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Traditional advice suggests limiting screen time in the evening to avoid suppressing melatonin, the sleep-inducing hormone. However, the...</p></details>
+   Link:<a href="https://www.thetimes.co.uk/article/staring-at-a-phone-before-bed-doesnt-interfere-with-your-sleep-8d6fw85gb" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/staring-at-a-phone-before-bed-doesnt-interfere-with-your-sleep-8d6fw85gb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Traditional advice suggests limiting screen time in the evening to avoid suppressing melatonin, the sleep-inducing hormone. However, the...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: It warrants continued scholarly attention as  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26688552/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26688552/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>mobile phone use and sleep in adultsby L Exelmans · 2016 · Cited by 692 — Conclusion: Findings suggest that bedtime mobile phone use is n...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26688552/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26688552/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mobile phone use and sleep in adultsby L Exelmans · 2016 · Cited by 692 — Conclusion: Findings suggest that bedtime mobile phone use is n...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8906383/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8906383/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>impact of bedtime technology use on sleep quality and...by SM AlShareef · 2022 · Cited by 72 — This large study strengthens the limited...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8906383/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8906383/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>impact of bedtime technology use on sleep quality and...by SM AlShareef · 2022 · Cited by 72 — This large study strengthens the limited...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9823534/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9823534/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govWearable-Measured Sleep and Resting Heart Rate Variability as an...This study explores whether wearable-measured sleep and restin...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9823534/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9823534/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nih.govWearable-Measured Sleep and Resting Heart Rate Variability as an...This study explores whether wearable-measured sleep and restin...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: sleepfoundation.org  
    Title: how electronics affect sleep  
-   Link: <a href="https://www.sleepfoundation.org/how-sleep-works/how-electronics-affect-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/how-sleep-works/how-electronics-affect-sleep</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Jul 2025 — Studies have shown these devices can interfere with sleep by suppressing the production of melatonin.Read more...</p></details>
+   Link:<a href="https://www.sleepfoundation.org/how-sleep-works/how-electronics-affect-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.sleepfoundation.org/how-sleep-works/how-electronics-affect-sleep</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Jul 2025 — Studies have shown these devices can interfere with sleep by suppressing the production of melatonin.Read more...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/339152901_Effect_of_restricting_bedtime_mobile_phone_use_on_sleep_arousal_mood_and_working_memory_A_randomized_pilot_trial" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/339152901_Effect_of_restricting_bedtime_mobile_phone_use_on_sleep_arousal_mood_and_working_memory_A_randomized_pilot_trial</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of restricting bedtime mobile phone use on sleep...10 Feb 2020 — Restricting mobile phone use close to bedtime reduced sleep late...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/339152901_Effect_of_restricting_bedtime_mobile_phone_use_on_sleep_arousal_mood_and_working_memory_A_randomized_pilot_trial" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/339152901_Effect_of_restricting_bedtime_mobile_phone_use_on_sleep_arousal_mood_and_working_memory_A_randomized_pilot_trial</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of restricting bedtime mobile phone use on sleep...10 Feb 2020 — Restricting mobile phone use close to bedtime reduced sleep late...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/365257943_Leave_your_smartphone_out_of_bed_quantitative_analysis_of_smartphone_use_effect_on_sleep_quality" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/365257943_Leave_your_smartphone_out_of_bed_quantitative_analysis_of_smartphone_use_effect_on_sleep_quality</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) “Leave your smartphone out of bed”: quantitative...9 Nov 2022 — Our findings indicate that smartphone use in bed has significant a...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/365257943_Leave_your_smartphone_out_of_bed_quantitative_analysis_of_smartphone_use_effect_on_sleep_quality" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/365257943_Leave_your_smartphone_out_of_bed_quantitative_analysis_of_smartphone_use_effect_on_sleep_quality</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) “Leave your smartphone out of bed”: quantitative...9 Nov 2022 — Our findings indicate that smartphone use in bed has significant a...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/384696146_Restriction_of_Mobile_Phone_Usage_at_Bed_Time_Effect_on_Sleep_Quality_Mood_and_Cognitive_Function" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/384696146_Restriction_of_Mobile_Phone_Usage_at_Bed_Time_Effect_on_Sleep_Quality_Mood_and_Cognitive_Function</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Restriction of Mobile Phone Usage at Bed Time1 Oct 2024 — This study aimed to evaluate whether restricting mobile phone use at bedt...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/384696146_Restriction_of_Mobile_Phone_Usage_at_Bed_Time_Effect_on_Sleep_Quality_Mood_and_Cognitive_Function" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/384696146_Restriction_of_Mobile_Phone_Usage_at_Bed_Time_Effect_on_Sleep_Quality_Mood_and_Cognitive_Function</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Restriction of Mobile Phone Usage at Bed Time1 Oct 2024 — This study aimed to evaluate whether restricting mobile phone use at bedt...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: sleephealthfoundation.org.au  
-   Link: <a href="https://www.sleephealthfoundation.org.au/sleep-topics/technology-and-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.sleephealthfoundation.org.au/sleep-topics/technology-and-sleep</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Technology and SleepThis is a fact sheet about Technology and Sleep. The use of tech in the evenings &amp; before bed may delay bedtime &amp; int...</p></details>
+   Link:<a href="https://www.sleephealthfoundation.org.au/sleep-topics/technology-and-sleep" target="_blank" rel="noopener noreferrer nofollow">https://www.sleephealthfoundation.org.au/sleep-topics/technology-and-sleep</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Technology and SleepThis is a fact sheet about Technology and Sleep. The use of tech in the evenings &amp; before bed may delay bedtime &amp; int...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: pure.uva.nl  
-   Link: <a href="https://pure.uva.nl/ws/files/228870909/Beyond_screentime.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.uva.nl/ws/files/228870909/Beyond_screentime.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>screentimeThe current study addressed these limitations by conducting a seven-day study assessing smartphone use and sleep with a combina...</p></details>
+   Link:<a href="https://pure.uva.nl/ws/files/228870909/Beyond_screentime.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.uva.nl/ws/files/228870909/Beyond_screentime.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>screentimeThe current study addressed these limitations by conducting a seven-day study assessing smartphone use and sleep with a combina...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: collinsdictionary.com  
-   Link: <a href="https://www.collinsdictionary.com/dictionary/english/in" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/in</a>  
+   Link:<a href="https://www.collinsdictionary.com/dictionary/english/in" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/in</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: centralive.health  
-   Link: <a href="https://centralive.health/publication/" target="_blank" rel="noopener noreferrer nofollow">https://centralive.health/publication/</a>  
+   Link:<a href="https://centralive.health/publication/" target="_blank" rel="noopener noreferrer nofollow">https://centralive.health/publication/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cureus.com  
-   Link: <a href="https://www.cureus.com/articles/313319-impact-of-smartphone-usage-on-sleep-in-adolescents-a-clinically-oriented-review" target="_blank" rel="noopener noreferrer nofollow">https://www.cureus.com/articles/313319-impact-of-smartphone-usage-on-sleep-in-adolescents-a-clinically-oriented-review</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Impact of Smartphone Usage on Sleep in Adolescents5 Jan 2025 — In particular, bedtime smartphone use is predictive of later rising time...</p></details>
+   Link:<a href="https://www.cureus.com/articles/313319-impact-of-smartphone-usage-on-sleep-in-adolescents-a-clinically-oriented-review" target="_blank" rel="noopener noreferrer nofollow">https://www.cureus.com/articles/313319-impact-of-smartphone-usage-on-sleep-in-adolescents-a-clinically-oriented-review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Impact of Smartphone Usage on Sleep in Adolescents5 Jan 2025 — In particular, bedtime smartphone use is predictive of later rising time...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: wareable.com  
    Title: Oura Ring study reveals how sleep quality affects cognitive  
-   Link: <a href="https://www.wareable.com/health-and-wellbeing/oura-ring-study-reveals-sleep-quality-cognitive-performance-link" target="_blank" rel="noopener noreferrer nofollow">https://www.wareable.com/health-and-wellbeing/oura-ring-study-reveals-sleep-quality-cognitive-performance-link</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 31, 2025 — A newly published study harnessing data from the Oura Ring has shown the impact of sleep quality on cognitive performance...</p></details>
+   Link:<a href="https://www.wareable.com/health-and-wellbeing/oura-ring-study-reveals-sleep-quality-cognitive-performance-link" target="_blank" rel="noopener noreferrer nofollow">https://www.wareable.com/health-and-wellbeing/oura-ring-study-reveals-sleep-quality-cognitive-performance-link</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 31, 2025 — A newly published study harnessing data from the Oura Ring has shown the impact of sleep quality on cognitive performance...</p></details>
    Published: January 31, 2025  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: health.clevelandclinic.org  
-   Link: <a href="https://health.clevelandclinic.org/put-the-phone-away-3-reasons-why-looking-at-it-before-bed-is-a-bad-habit" target="_blank" rel="noopener noreferrer nofollow">https://health.clevelandclinic.org/put-the-phone-away-3-reasons-why-looking-at-it-before-bed-is-a-bad-habit</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cleveland Clinic3 Reasons to Ditch Your Phone Before Bed20 May 2022 — Generally, however, tucking your devices away for the night an hour...</p></details>
+   Link:<a href="https://health.clevelandclinic.org/put-the-phone-away-3-reasons-why-looking-at-it-before-bed-is-a-bad-habit" target="_blank" rel="noopener noreferrer nofollow">https://health.clevelandclinic.org/put-the-phone-away-3-reasons-why-looking-at-it-before-bed-is-a-bad-habit</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cleveland Clinic3 Reasons to Ditch Your Phone Before Bed20 May 2022 — Generally, however, tucking your devices away for the night an hour...</p></details>
    Published: May 2022

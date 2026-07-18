@@ -274,25 +274,25 @@ image: /assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_ex
 
 ## Introduction
 
-External incentives are not automatically the enemy of intrinsic [motivation]({{ 'motivation/' | relative_url }}). The real risk is not that [rewards]({{ 'rewards/' | relative_url }}) exist, but that they change how people interpret their own behaviour. In self-improvement, rewards can help people start difficult actions and persist through periods when benefits are delayed. However, when rewards become the dominant reason for acting, an activity that once felt meaningful, enjoyable or self-chosen can begin to feel controlled. This is the central concern behind the overjustification effect and related research on motivation. The practical challenge is designing incentives that support a person's own reasons for acting rather than replacing them. Evidence suggests that rewards are most effective when they reinforce autonomy, competence and connection, while expected rewards that feel controlling are the most likely to undermine intrinsic interest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10589297/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A meta-analytic review of experiments examining the effects of...by EL Deci · 1999 · Cited by 13068 — As predicted, engagement-con...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://book.all-means-all.education/ama-2025-en/chapter/self-determination/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: book.all-means-all.education">[Self Determination]</a><span class="citation-popover" role="note"><span class="citation-popover-source">book.all-means-all.education</span><span class="citation-popover-snippet">all-means-all.educationSelf-Determination in Learningby K Buttigieg · 2025 — According to SDT, there are three basic psychological needs...</span></span></span>
+External incentives are not automatically the enemy of intrinsic [motivation]({{ 'motivation/' | relative_url }}). The real risk is not that [rewards]({{ 'rewards/' | relative_url }}) exist, but that they change how people interpret their own behaviour. In self-improvement, rewards can help people start difficult actions and persist through periods when benefits are delayed. However, when rewards become the dominant reason for acting, an activity that once felt meaningful, enjoyable or self-chosen can begin to feel controlled. This is the central concern behind the overjustification effect and related research on motivation. The practical challenge is designing incentives that support a person's own reasons for acting rather than replacing them. Evidence suggests that rewards are most effective when they reinforce autonomy, competence and connection, while expected rewards that feel controlling are the most likely to undermine intrinsic interest.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10589297/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A meta-analytic review of experiments examining the effects of...by EL Deci · 1999 · Cited by 13068 — As predicted, engagement-con...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://book.all-means-all.education/ama-2025-en/chapter/self-determination/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: book.all-means-all.education">[Self Determination]</a><span class="citation-popover" role="note"><span class="citation-popover-source">book.all-means-all.education</span><span class="citation-popover-snippet">all-means-all.educationSelf-Determination in Learningby K Buttigieg · 2025 — According to SDT, there are three basic psychological needs...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_external_incentives_84553a-Illustration-1-dark.svg" | relative_url }}" alt="Intrinsic Risk illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_external_incentives_84553a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_external_incentives_84553a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Expected Tangible Rewards and the Overjustification Risk
 
-The classic warning comes from research on the overjustification effect. This phenomenon occurs when people receive an expected external reward for an activity they already find interesting. Over time, they may begin to attribute their behaviour to the reward rather than to their own interest. When the reward disappears, motivation can fall below its original level. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Overjustification_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Overjustification effect</span><span class="citation-popover-snippet">Overjustification effect</span></span></span>
+The classic warning comes from research on the overjustification effect. This phenomenon occurs when people receive an expected external reward for an activity they already find interesting. Over time, they may begin to attribute their behaviour to the reward rather than to their own interest. When the reward disappears, motivation can fall below its original level.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Overjustification_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Overjustification effect</span><span class="citation-popover-snippet">Overjustification effect</span></span></span>
 
-A landmark meta-analysis by Edward Deci, Richard Ryan and Richard Koestner reviewed 128 experiments examining extrinsic rewards and intrinsic motivation. The researchers found that several forms of expected tangible reward significantly reduced measures of intrinsic motivation, particularly when rewards were contingent on simply engaging in, completing or performing an activity. Expected rewards and tangible rewards showed the most consistent undermining effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10589297/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A meta-analytic review of experiments examining the effects of...by EL Deci · 1999 · Cited by 13068 — As predicted, engagement-con...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://book.all-means-all.education/ama-2025-en/chapter/self-determination/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: book.all-means-all.education">[Self Determination]</a><span class="citation-popover" role="note"><span class="citation-popover-source">book.all-means-all.education</span><span class="citation-popover-snippet">all-means-all.educationSelf-Determination in Learningby K Buttigieg · 2025 — According to SDT, there are three basic psychological needs...</span></span></span>
+A landmark meta-analysis by Edward Deci, Richard Ryan and Richard Koestner reviewed 128 experiments examining extrinsic rewards and intrinsic motivation. The researchers found that several forms of expected tangible reward significantly reduced measures of intrinsic motivation, particularly when rewards were contingent on simply engaging in, completing or performing an activity. Expected rewards and tangible rewards showed the most consistent undermining effects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10589297/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A meta-analytic review of experiments examining the effects of...by EL Deci · 1999 · Cited by 13068 — As predicted, engagement-con...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://book.all-means-all.education/ama-2025-en/chapter/self-determination/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: book.all-means-all.education">[Self Determination]</a><span class="citation-popover" role="note"><span class="citation-popover-source">book.all-means-all.education</span><span class="citation-popover-snippet">all-means-all.educationSelf-Determination in Learningby K Buttigieg · 2025 — According to SDT, there are three basic psychological needs...</span></span></span>
 
 The key point is often misunderstood. The evidence does not show that all rewards are harmful. Instead, the greatest risk appears when:
 
 * The activity is already enjoyable or meaningful.
 * The reward is expected in advance.
 * The reward becomes the main focus of attention.
-* People feel they are acting to satisfy an external demand rather than a personal choice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10589297/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A meta-analytic review of experiments examining the effects of...by EL Deci · 1999 · Cited by 13068 — As predicted, engagement-con...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://book.all-means-all.education/ama-2025-en/chapter/self-determination/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: book.all-means-all.education">[Self Determination]</a><span class="citation-popover" role="note"><span class="citation-popover-source">book.all-means-all.education</span><span class="citation-popover-snippet">all-means-all.educationSelf-Determination in Learningby K Buttigieg · 2025 — According to SDT, there are three basic psychological needs...</span></span></span>
+* People feel they are acting to satisfy an external demand rather than a personal choice.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10589297/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A meta-analytic review of experiments examining the effects of...by EL Deci · 1999 · Cited by 13068 — As predicted, engagement-con...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://book.all-means-all.education/ama-2025-en/chapter/self-determination/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: book.all-means-all.education">[Self Determination]</a><span class="citation-popover" role="note"><span class="citation-popover-source">book.all-means-all.education</span><span class="citation-popover-snippet">all-means-all.educationSelf-Determination in Learningby K Buttigieg · 2025 — According to SDT, there are three basic psychological needs...</span></span></span>
 
 Consider someone who enjoys writing. A small reward for completing a daily writing session may initially increase consistency. But if [attention shifts]({{ 'attention-shift/' | relative_url }}) from the satisfaction of writing to earning the reward, the activity can start to feel transactional. The reward has not merely added motivation; it has altered the perceived reason for acting.
 
-This risk is less pronounced when the target behaviour is not intrinsically attractive in the first place. Many self-improvement activities—such as filing tax paperwork, organising documents or attending administrative appointments—are rarely pursued for pure [enjoyment]({{ 'enjoyment/' | relative_url }}). In these cases, incentives often provide a useful push without displacing a strong intrinsic motive because little intrinsic interest existed to undermine. The overjustification concern is most relevant when the activity already contains genuine enjoyment, curiosity, mastery or personal [meaning]({{ 'meaning/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10589297/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A meta-analytic review of experiments examining the effects of...by EL Deci · 1999 · Cited by 13068 — As predicted, engagement-con...</span></span></span>
+This risk is less pronounced when the target behaviour is not intrinsically attractive in the first place. Many self-improvement activities—such as filing tax paperwork, organising documents or attending administrative appointments—are rarely pursued for pure [enjoyment]({{ 'enjoyment/' | relative_url }}). In these cases, incentives often provide a useful push without displacing a strong intrinsic motive because little intrinsic interest existed to undermine. The overjustification concern is most relevant when the activity already contains genuine enjoyment, curiosity, mastery or personal [meaning]({{ 'meaning/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10589297/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A meta-analytic review of experiments examining the effects of...by EL Deci · 1999 · Cited by 13068 — As predicted, engagement-con...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v2eRnhBvI_I" title="“Cultivating Intrinsic Motivation and Creativity in the Classroom” | Beth Hennessey | TEDxSausalito" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v2eRnhBvI_I" target="_blank" rel="noopener noreferrer">“Cultivating Intrinsic Motivation and Creativity in the Classroom” | Beth Hennessey | TEDxSausalito</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 155.2K &middot; Uploaded: November 2016 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v2eRnhBvI_I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v2eRnhBvI_I">Open on YouTube</a></p></div></div></div>
 
@@ -302,11 +302,11 @@ Research associated with Self-Determination Theory helps explain why rewards som
 
 * **Autonomy**: feeling that actions are self-directed.
 * **Competence**: feeling effective and capable.
-* **Relatedness**: feeling connected to others and to something larger than oneself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10589297/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A meta-analytic review of experiments examining the effects of...by EL Deci · 1999 · Cited by 13068 — As predicted, engagement-con...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0361476X20300254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">Autonomy concerns a sense of initiative and ownership</span><span class="citation-popover-snippet">Intrinsic and extrinsic motivation from a self-determination...by RM Ryan · 2020 · Cited by 10296 — Three needs are seen as...</span></span></span>
+* **Relatedness**: feeling connected to others and to something larger than oneself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10589297/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A meta-analytic review of experiments examining the effects of...by EL Deci · 1999 · Cited by 13068 — As predicted, engagement-con...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S0361476X20300254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">Autonomy concerns a sense of initiative and ownership</span><span class="citation-popover-snippet">Intrinsic and extrinsic motivation from a self-determination...by RM Ryan · 2020 · Cited by 10296 — Three needs are seen as...</span></span></span>
 
 Rewards can [support]({{ 'support/' | relative_url }}) these needs or frustrate them.
 
-A reward that communicates competence may strengthen motivation. For example, recognition that highlights skill development, progress or mastery can reinforce the feeling that effort is producing growth. In contrast, a reward that feels like a mechanism of control can reduce autonomy. When people feel they are acting because someone else is pulling the strings, intrinsic motivation tends to weaken. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0361476X20300254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">Autonomy concerns a sense of initiative and ownership</span><span class="citation-popover-snippet">Intrinsic and extrinsic motivation from a self-determination...by RM Ryan · 2020 · Cited by 10296 — Three needs are seen as...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://book.all-means-all.education/ama-2025-en/chapter/self-determination/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: book.all-means-all.education">[Self Determination]</a><span class="citation-popover" role="note"><span class="citation-popover-source">book.all-means-all.education</span><span class="citation-popover-snippet">all-means-all.educationSelf-Determination in Learningby K Buttigieg · 2025 — According to SDT, there are three basic psychological needs...</span></span></span>
+A reward that communicates competence may strengthen motivation. For example, recognition that highlights skill development, progress or mastery can reinforce the feeling that effort is producing growth. In contrast, a reward that feels like a mechanism of control can reduce autonomy. When people feel they are acting because someone else is pulling the strings, intrinsic motivation tends to weaken.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0361476X20300254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">Autonomy concerns a sense of initiative and ownership</span><span class="citation-popover-snippet">Intrinsic and extrinsic motivation from a self-determination...by RM Ryan · 2020 · Cited by 10296 — Three needs are seen as...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://book.all-means-all.education/ama-2025-en/chapter/self-determination/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: book.all-means-all.education">[Self Determination]</a><span class="citation-popover" role="note"><span class="citation-popover-source">book.all-means-all.education</span><span class="citation-popover-snippet">all-means-all.educationSelf-Determination in Learningby K Buttigieg · 2025 — According to SDT, there are three basic psychological needs...</span></span></span>
 
 This distinction is sometimes described as the difference between **informational rewards** and **controlling rewards**.
 
@@ -324,7 +324,7 @@ Controlling rewards send messages such as:
 
 * “Do this to get paid.”
 * “Do this or lose the reward.”
-* “Keep performing or the incentive disappears.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Self-determination_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Self Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Self-determination theory - WikipediaSelf-determination theory (SDT) is a macro theory of human motivation and personality regarding i...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://open.ncl.ac.uk/theories/20/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.ncl.ac.uk">[Self Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.ncl.ac.uk</span><span class="citation-popover-snippet">TheoryHubSelf-Determination Theory: A review14 Mar 2026 — The fifth mini theory, Basic psychological needs theory (Deci &amp; Ryan, 2000), id...</span></span></span>
+* “Keep performing or the incentive disappears.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Self-determination_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Self Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Self-determination theory - WikipediaSelf-determination theory (SDT) is a macro theory of human motivation and personality regarding i...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://open.ncl.ac.uk/theories/20/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.ncl.ac.uk">[Self Determination Theory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.ncl.ac.uk</span><span class="citation-popover-snippet">TheoryHubSelf-Determination Theory: A review14 Mar 2026 — The fifth mini theory, Basic psychological needs theory (Deci &amp; Ryan, 2000), id...</span></span></span>
 
 The same external incentive can therefore have different effects depending on how it is framed and experienced.
 
@@ -337,13 +337,13 @@ The most durable self-improvement systems often use incentives as scaffolding ra
 
 Autonomy does not mean acting without structure. It means feeling ownership over the action. Rewards tend to be safer when they acknowledge a person's goals instead of attempting to override them.
 
-For example, a person learning a language may decide to set aside money for a future trip and add a small amount to that fund after each week of consistent study. The reward is connected to a self-chosen aspiration. The incentive reinforces an existing value rather than replacing it. This preserves the sense that “I am doing this because I want the outcome,” not because someone else is paying me to continue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0361476X20300254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">Autonomy concerns a sense of initiative and ownership</span><span class="citation-popover-snippet">Intrinsic and extrinsic motivation from a self-determination...by RM Ryan · 2020 · Cited by 10296 — Three needs are seen as...</span></span></span>
+For example, a person learning a language may decide to set aside money for a future trip and add a small amount to that fund after each week of consistent study. The reward is connected to a self-chosen aspiration. The incentive reinforces an existing value rather than replacing it. This preserves the sense that “I am doing this because I want the outcome,” not because someone else is paying me to continue.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0361476X20300254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">Autonomy concerns a sense of initiative and ownership</span><span class="citation-popover-snippet">Intrinsic and extrinsic motivation from a self-determination...by RM Ryan · 2020 · Cited by 10296 — Three needs are seen as...</span></span></span>
 
 ### Supporting Competence
 
 Competence-focused rewards emphasise improvement and mastery.
 
-Progress charts, skill milestones, personal bests and constructive recognition often work better than arbitrary prizes because they direct attention back to growing capability. In self-improvement, the experience of becoming better at something can itself become rewarding. A system that repeatedly highlights progress helps people notice this internal reward. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0361476X20300254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">Autonomy concerns a sense of initiative and ownership</span><span class="citation-popover-snippet">Intrinsic and extrinsic motivation from a self-determination...by RM Ryan · 2020 · Cited by 10296 — Three needs are seen as...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S240584401935604X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Competence, autonomy, and relatedness in the classroomby CKJ Wang · 2019 · Cited by 383 — The theory posits that intrinsic motivation is...</span></span></span>
+Progress charts, skill milestones, personal bests and constructive recognition often work better than arbitrary prizes because they direct attention back to growing capability. In self-improvement, the experience of becoming better at something can itself become rewarding. A system that repeatedly highlights progress helps people notice this internal reward.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0361476X20300254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">Autonomy concerns a sense of initiative and ownership</span><span class="citation-popover-snippet">Intrinsic and extrinsic motivation from a self-determination...by RM Ryan · 2020 · Cited by 10296 — Three needs are seen as...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S240584401935604X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Competence, autonomy, and relatedness in the classroomby CKJ Wang · 2019 · Cited by 383 — The theory posits that intrinsic motivation is...</span></span></span>
 
 A runner who receives [feedback]({{ 'feedback/' | relative_url }}) showing improved endurance, pace or consistency is being reminded of competence. The feedback strengthens the connection between effort and growth. This is fundamentally different from paying the runner simply for showing up.
 
@@ -353,7 +353,7 @@ A runner who receives [feedback]({{ 'feedback/' | relative_url }}) showing impro
 
 Motivation also becomes more resilient when rewards strengthen social connection.
 
-Encouragement from a training group, recognition from peers, shared celebrations of milestones or accountability partnerships can satisfy the need for relatedness. These incentives often feel less controlling because they communicate belonging rather than external pressure. PubMed <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ukcoaching.org/ukc-club/resources/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ukcoaching.org">[UK Coaching]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ukcoaching.org</span><span class="citation-popover-snippet">Self-Determination TheorySelf-Determination Theory emphasises that people are most motivated and fulfilled when their basic needs for aut...</span></span></span>
+Encouragement from a training group, recognition from peers, shared celebrations of milestones or accountability partnerships can satisfy the need for relatedness. These incentives often feel less controlling because they communicate belonging rather than external pressure. PubMed<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ukcoaching.org/ukc-club/resources/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ukcoaching.org">[UK Coaching]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ukcoaching.org</span><span class="citation-popover-snippet">Self-Determination TheorySelf-Determination Theory emphasises that people are most motivated and fulfilled when their basic needs for aut...</span></span></span>
 
 People frequently continue difficult habits not because of prizes but because they identify with a community that values the behaviour.
 
@@ -365,15 +365,15 @@ The practical goal is not to eliminate rewards. It is to prevent rewards from be
 
 Several design principles emerge from the evidence.
 
-**Keep the reward secondary.** The behaviour should remain the central story. A reward can acknowledge progress, but it should not become the main attraction. If people spend more time thinking about the incentive than the activity, motivational crowding becomes more likely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Self-determination_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Self determination theory</span><span class="citation-popover-snippet">Self-determination theory - WikipediaSelf-determination theory (SDT) is a macro theory of human motivation and personality regarding i...</span></span></span>
+**Keep the reward secondary.** The behaviour should remain the central story. A reward can acknowledge progress, but it should not become the main attraction. If people spend more time thinking about the incentive than the activity, motivational crowding becomes more likely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Self-determination_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Self determination theory</span><span class="citation-popover-snippet">Self-determination theory - WikipediaSelf-determination theory (SDT) is a macro theory of human motivation and personality regarding i...</span></span></span>
 
-**Connect rewards to personal values.** Incentives work better when they reinforce reasons the person already endorses. A reward tied to health, mastery, creativity or meaningful goals supports internalisation rather than replacing it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/1745691620966789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsA Meta-Analysis From Self-Determination Theoryby JL Howard · 2021 · Cited by 1597 — Student outcomes are influenced by diffe...</span></span></span>
+**Connect rewards to personal values.** Incentives work better when they reinforce reasons the person already endorses. A reward tied to health, mastery, creativity or meaningful goals supports internalisation rather than replacing it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.1177/1745691620966789" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsA Meta-Analysis From Self-Determination Theoryby JL Howard · 2021 · Cited by 1597 — Student outcomes are influenced by diffe...</span></span></span>
 
-**Emphasise progress and learning.** Feedback about improvement generally supports competence more effectively than simple payment for compliance. Recognition of growth directs attention toward capability rather than external control. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.structural-learning.com/post/overjustification-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: structural-learning.com">[Structural Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">structural-learning.com</span><span class="citation-popover-snippet">Structural LearningThe Overjustification Effect: When Rewards Undermine4 Apr 2024 — Deci&#x27;s (1985) self-determination theory says rewards...</span></span></span>
+**Emphasise progress and learning.** Feedback about improvement generally supports competence more effectively than simple payment for compliance. Recognition of growth directs attention toward capability rather than external control.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.structural-learning.com/post/overjustification-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: structural-learning.com">[Structural Learning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">structural-learning.com</span><span class="citation-popover-snippet">Structural LearningThe Overjustification Effect: When Rewards Undermine4 Apr 2024 — Deci&#x27;s (1985) self-determination theory says rewards...</span></span></span>
 
-**Use incentives as temporary scaffolding.** External rewards can be especially useful during the early stages of habit formation when the activity has not yet become rewarding on its own. As intrinsic satisfaction grows, the external incentive can often be reduced. This prevents long-term dependence on the reward while preserving behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2402.00121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Designing for Sustained Motivation: A Review of Self-Determination Theory in Behaviour Change TechnologiesJanuary 31, 2024...</span><span class="citation-popover-meta">Published: January 31, 2024</span></span></span>
+**Use incentives as temporary scaffolding.** External rewards can be especially useful during the early stages of habit formation when the activity has not yet become rewarding on its own. As intrinsic satisfaction grows, the external incentive can often be reduced. This prevents long-term dependence on the reward while preserving behaviour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2402.00121" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Designing for Sustained Motivation: A Review of Self-Determination Theory in Behaviour Change TechnologiesJanuary 31, 2024...</span><span class="citation-popover-meta">Published: January 31, 2024</span></span></span>
 
-**Avoid turning meaningful activities into transactions.** Activities already rich in curiosity, enjoyment or personal identity are the most vulnerable to overjustification. The stronger the existing intrinsic motivation, the more carefully rewards should be used. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10589297/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A meta-analytic review of experiments examining the effects of...by EL Deci · 1999 · Cited by 13068 — As predicted, engagement-con...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Self" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">SelfIn philosophy, the self is an individual&#x27;s own being, knowledge, and values, and the relationship between these attributes. The fi...</span></span></span>
+**Avoid turning meaningful activities into transactions.** Activities already rich in curiosity, enjoyment or personal identity are the most vulnerable to overjustification. The stronger the existing intrinsic motivation, the more carefully rewards should be used.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10589297/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A meta-analytic review of experiments examining the effects of...by EL Deci · 1999 · Cited by 13068 — As predicted, engagement-con...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Self" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">SelfIn philosophy, the self is an individual&#x27;s own being, knowledge, and values, and the relationship between these attributes. The fi...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_external_incentives_84553a-Illustration-3-dark.svg" | relative_url }}" alt="Intrinsic Risk illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_external_incentives_84553a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_rewards_reinforcemen_89c68c_external_incentives_84553a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Most Useful Question to Ask
@@ -382,197 +382,197 @@ When designing a reward, the crucial question is not “Will this increase behav
 
 If the incentive teaches, “I do this because I value it, I am getting better at it, and it fits who I want to become,” it can strengthen long-term motivation. If it teaches, “I do this only because I am paid, praised or pressured,” it risks weakening the very motivation that makes self-improvement sustainable.
 
-The evidence suggests that external incentives are most effective when they point people back toward autonomy, competence and relatedness. In that role, rewards act less like bribes and more like signposts, helping behaviour survive long enough for its deeper benefits to become self-reinforcing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10589297/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A meta-analytic review of experiments examining the effects of...by EL Deci · 1999 · Cited by 13068 — As predicted, engagement-con...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/social-sciences/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Self-Determination Theory - an overviewSDT (Ryan and Deci, 2000) emphasizes the satisfaction of basic human needs for autonomy, competenc...</span></span></span>
+The evidence suggests that external incentives are most effective when they point people back toward autonomy, competence and relatedness. In that role, rewards act less like bribes and more like signposts, helping behaviour survive long enough for its deeper benefits to become self-reinforcing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/10589297/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">A meta-analytic review of experiments examining the effects of...by EL Deci · 1999 · Cited by 13068 — As predicted, engagement-con...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/social-sciences/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Self-Determination Theory - an overviewSDT (Ryan and Deci, 2000) emphasizes the satisfaction of basic human needs for autonomy, competenc...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Rewards Start to Spoil Motivation. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Rewards Start to Spoil Motivation. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Drive+by+Daniel+H.+Pink&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=pYc-DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Drive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Drive+by+Daniel+H.+Pink&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drive">Drive</a>
-        </h4>
-        <p class="fr-book-author">By Daniel H. Pink</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Drive+by+Daniel+H.+Pink&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Drive on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=pYc-DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Drive" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Drive+by+Daniel+H.+Pink&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Drive">Drive</a>
+</h4>
+<p class="fr-book-author">By Daniel H. Pink</p>
         
-        <p class="fr-book-desc">Directly examines when rewards help and when they damage intrinsic motivation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Drive+by+Daniel+H.+Pink&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines when rewards help and when they damage intrinsic motivation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Drive+by+Daniel+H.+Pink&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Punished+by+Rewards+by+Alfie+Kohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Punished by Rewards on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4bWoQgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Punished by Rewards" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Punished+by+Rewards+by+Alfie+Kohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Punished by Rewards">Punished by Rewards</a>
-        </h4>
-        <p class="fr-book-author">By Alfie Kohn</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Punished+by+Rewards+by+Alfie+Kohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Punished by Rewards on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4bWoQgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Punished by Rewards" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Punished+by+Rewards+by+Alfie+Kohn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Punished by Rewards">Punished by Rewards</a>
+</h4>
+<p class="fr-book-author">By Alfie Kohn</p>
         
-        <p class="fr-book-desc">Specifically critiques overreliance on external rewards and incentives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Punished+by+Rewards+by+Alfie+Kohn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Specifically critiques overreliance on external rewards and incentives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Punished+by+Rewards+by+Alfie+Kohn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+We+Do+What+We+Do+by+Edward+L.+Deci&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why We Do What We Do on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OoVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why We Do What We Do" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+We+Do+What+We+Do+by+Edward+L.+Deci&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why We Do What We Do">Why We Do What We Do</a>
-        </h4>
-        <p class="fr-book-author">By Edward L. Deci, Richard Flaste</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+We+Do+What+We+Do+by+Edward+L.+Deci&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why We Do What We Do on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OoVPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Why We Do What We Do" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+We+Do+What+We+Do+by+Edward+L.+Deci&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why We Do What We Do">Why We Do What We Do</a>
+</h4>
+<p class="fr-book-author">By Edward L. Deci, Richard Flaste</p>
         
-        <p class="fr-book-desc">Explains self-determination theory and autonomy-supportive motivation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+We+Do+What+We+Do+by+Edward+L.+Deci&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains self-determination theory and autonomy-supportive motivation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+We+Do+What+We+Do+by+Edward+L.+Deci&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Discusses reinforcement, habit formation, and sustainable behaviour change.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Discusses reinforcement, habit formation, and sustainable behaviour change.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Drive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drive</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Punished+by+Rewards&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Punished by Rewards</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+We+Do+What+We+Do&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why We Do What We Do</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Drive&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Drive</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Punished+by+Rewards&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Punished by Rewards</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Why+We+Do+What+We+Do&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Why We Do What We Do</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rewards-start-to-spoil-motivation-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-rewards-start-to-spoil-motivation-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Superhero Mission Board – Reusable A2 Dry Erase Habit Tracker"><img src="https://i.ebayimg.com/images/g/XZ8AAeSwsrlqIctB/s-l225.jpg" alt="Listing image for Superhero Mission Board – Reusable A2 Dry Erase Habit Tracker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rewards-start-to-spoil-motivation-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-rewards-start-to-spoil-motivation-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Superhero Mission Board – Reusable A2 Dry Erase Habit Tracker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rewards-start-to-spoil-motivation-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-rewards-start-to-spoil-motivation-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rewards-start-to-spoil-motivation-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-rewards-start-to-spoil-motivation-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rewards-start-to-spoil-motivation-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-rewards-start-to-spoil-motivation-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Superhero Mission Board – Reusable A2 Dry Erase Habit Tracker"><img src="https://i.ebayimg.com/images/g/XZ8AAeSwsrlqIctB/s-l225.jpg" alt="Listing image for Superhero Mission Board – Reusable A2 Dry Erase Habit Tracker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rewards-start-to-spoil-motivation-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-rewards-start-to-spoil-motivation-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Superhero Mission Board – Reusable A2 Dry Erase Habit Tracker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rewards-start-to-spoil-motivation-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-rewards-start-to-spoil-motivation-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rewards-start-to-spoil-motivation-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-rewards-start-to-spoil-motivation-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rewards-start-to-spoil-motivation-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-rewards-start-to-spoil-motivation-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2026 Habit Tracker Calendar – Premium Daily Habit Tracker Journal and Goal Board"><img src="https://i.ebayimg.com/images/g/OiYAAeSwK4VqHk0N/s-l225.jpg" alt="Listing image for 2026 Habit Tracker Calendar – Premium Daily Habit Tracker Journal and Goal Board" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rewards-start-to-spoil-motivation-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-rewards-start-to-spoil-motivation-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">2026 Habit Tracker Calendar – Premium Daily Habit Tracker Journal and Goal Board</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rewards-start-to-spoil-motivation-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-rewards-start-to-spoil-motivation-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rewards-start-to-spoil-motivation-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-rewards-start-to-spoil-motivation-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rewards-start-to-spoil-motivation-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-rewards-start-to-spoil-motivation-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2026 Habit Tracker Calendar – Premium Daily Habit Tracker Journal and Goal Board"><img src="https://i.ebayimg.com/images/g/OiYAAeSwK4VqHk0N/s-l225.jpg" alt="Listing image for 2026 Habit Tracker Calendar – Premium Daily Habit Tracker Journal and Goal Board" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rewards-start-to-spoil-motivation-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-rewards-start-to-spoil-motivation-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">2026 Habit Tracker Calendar – Premium Daily Habit Tracker Journal and Goal Board</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rewards-start-to-spoil-motivation-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-rewards-start-to-spoil-motivation-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rewards-start-to-spoil-motivation-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-rewards-start-to-spoil-motivation-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rewards-start-to-spoil-motivation-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-rewards-start-to-spoil-motivation-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Journal Workout Motivation Fridge Calendar Dry Erase 13” X 17” ..."><img src="https://i.ebayimg.com/images/g/shQAAeSw4ABqEFiK/s-l225.jpg" alt="Listing image for Habit Tracker Journal Workout Motivation Fridge Calendar Dry Erase 13” X 17” ..." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rewards-start-to-spoil-motivation-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-rewards-start-to-spoil-motivation-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Journal Workout Motivation Fridge Calendar Dry Erase 13” X 17” ...</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rewards-start-to-spoil-motivation-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-rewards-start-to-spoil-motivation-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rewards-start-to-spoil-motivation-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-rewards-start-to-spoil-motivation-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rewards-start-to-spoil-motivation-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-rewards-start-to-spoil-motivation-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Journal Workout Motivation Fridge Calendar Dry Erase 13” X 17” ..."><img src="https://i.ebayimg.com/images/g/shQAAeSw4ABqEFiK/s-l225.jpg" alt="Listing image for Habit Tracker Journal Workout Motivation Fridge Calendar Dry Erase 13” X 17” ..." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rewards-start-to-spoil-motivation-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-rewards-start-to-spoil-motivation-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Journal Workout Motivation Fridge Calendar Dry Erase 13” X 17” ...</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rewards-start-to-spoil-motivation-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-rewards-start-to-spoil-motivation-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rewards-start-to-spoil-motivation-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-rewards-start-to-spoil-motivation-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rewards-start-to-spoil-motivation-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-rewards-start-to-spoil-motivation-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Luxury Undated Goal Planner for Productivity, Life &amp; Gratitude with Vision Board"><img src="https://i.ebayimg.com/images/g/1roAAeSwZ9FpXwDg/s-l225.jpg" alt="Listing image for Luxury Undated Goal Planner for Productivity, Life &amp; Gratitude with Vision Board" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rewards-start-to-spoil-motivation-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-rewards-start-to-spoil-motivation-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Luxury Undated Goal Planner for Productivity, Life &amp; Gratitude with Vision Board</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rewards-start-to-spoil-motivation-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-rewards-start-to-spoil-motivation-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rewards-start-to-spoil-motivation-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-rewards-start-to-spoil-motivation-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rewards-start-to-spoil-motivation-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-rewards-start-to-spoil-motivation-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rewards-start-to-spoil-motivation-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-rewards-start-to-spoil-motivation-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Luxury Undated Goal Planner for Productivity, Life &amp; Gratitude with Vision Board"><img src="https://i.ebayimg.com/images/g/1roAAeSwZ9FpXwDg/s-l225.jpg" alt="Listing image for Luxury Undated Goal Planner for Productivity, Life &amp; Gratitude with Vision Board" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rewards-start-to-spoil-motivation-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-rewards-start-to-spoil-motivation-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Luxury Undated Goal Planner for Productivity, Life &amp; Gratitude with Vision Board</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rewards-start-to-spoil-motivation-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-rewards-start-to-spoil-motivation-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rewards-start-to-spoil-motivation-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-rewards-start-to-spoil-motivation-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-rewards-start-to-spoil-motivation-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="when-rewards-start-to-spoil-motivation-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -588,7 +588,7 @@ The evidence suggests that external incentives are most effective when they poin
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -608,7 +608,7 @@ The evidence suggests that external incentives are most effective when they poin
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -640,7 +640,7 @@ The evidence suggests that external incentives are most effective when they poin
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -692,7 +692,7 @@ The evidence suggests that external incentives are most effective when they poin
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -737,7 +737,7 @@ The evidence suggests that external incentives are most effective when they poin
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -778,192 +778,192 @@ The evidence suggests that external incentives are most effective when they poin
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Overjustification effect  
-   Link: <a href="https://en.wikipedia.org/wiki/Overjustification_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Overjustification_effect</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Overjustification_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Overjustification_effect</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
    Title: Autonomy concerns a sense of initiative and ownership  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0361476X20300254" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0361476X20300254</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Intrinsic and extrinsic motivation from a self-determination...by RM Ryan · 2020 · Cited by 10296 — Three needs are seen as...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0361476X20300254" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0361476X20300254</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Intrinsic and extrinsic motivation from a self-determination...by RM Ryan · 2020 · Cited by 10296 — Three needs are seen as...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: structural-learning.com  
-   Link: <a href="https://www.structural-learning.com/post/overjustification-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/overjustification-effect</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Structural LearningThe Overjustification Effect: When Rewards Undermine4 Apr 2024 — Deci&#x27;s (1985) self-determination theory says rewards...</p></details>
+   Link:<a href="https://www.structural-learning.com/post/overjustification-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.structural-learning.com/post/overjustification-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Structural LearningThe Overjustification Effect: When Rewards Undermine4 Apr 2024 — Deci&#x27;s (1985) self-determination theory says rewards...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S240584401935604X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S240584401935604X</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Competence, autonomy, and relatedness in the classroomby CKJ Wang · 2019 · Cited by 383 — The theory posits that intrinsic motivation is...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S240584401935604X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S240584401935604X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Competence, autonomy, and relatedness in the classroomby CKJ Wang · 2019 · Cited by 383 — The theory posits that intrinsic motivation is...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2402.00121" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2402.00121</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Designing for Sustained Motivation: A Review of Self-Determination Theory in [Behaviour Change](&amp;#123;&amp;#123; &#x27;behaviour-change/&#x27; | relative_url &amp;#125;&amp;#125;) TechnologiesJanuary 31, 2024...</p></details>
+   Link:<a href="https://arxiv.org/abs/2402.00121" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2402.00121</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Designing for Sustained Motivation: A Review of Self-Determination Theory in [Behaviour Change](&amp;#123;&amp;#123; &#x27;behaviour-change/&#x27; | relative_url &amp;#125;&amp;#125;) TechnologiesJanuary 31, 2024...</p></details>
    Published: January 31, 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Self determination theory  
-   Link: <a href="https://en.wikipedia.org/wiki/Self-determination_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Self-determination_theory</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-determination theory - WikipediaSelf-determination theory (SDT) is a macro theory of human motivation and personality regarding i...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Self-determination_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Self-determination_theory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-determination theory - WikipediaSelf-determination theory (SDT) is a macro theory of human motivation and personality regarding i...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Self" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Self</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SelfIn philosophy, the self is an individual&#x27;s own being, knowledge, and values, and the relationship between these attributes. The fi...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Self" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Self</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SelfIn philosophy, the self is an individual&#x27;s own being, knowledge, and values, and the relationship between these attributes. The fi...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/topics/social-sciences/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/social-sciences/self-determination-theory</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory - an overviewSDT (Ryan and Deci, 2000) emphasizes the satisfaction of basic human needs for autonomy, competenc...</p></details>
+   Link:<a href="https://www.sciencedirect.com/topics/social-sciences/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/social-sciences/self-determination-theory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory - an overviewSDT (Ryan and Deci, 2000) emphasizes the satisfaction of basic human needs for autonomy, competenc...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/10589297/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/10589297/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A meta-analytic review of experiments examining the effects of...by EL Deci · 1999 · Cited by 13068 — As predicted, engagement-con...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/10589297/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/10589297/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A meta-analytic review of experiments examining the effects of...by EL Deci · 1999 · Cited by 13068 — As predicted, engagement-con...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: selfdeterminationtheory.org  
    Title: 2000 RyanDeci SDT  
-   Link: <a href="https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deci. (1975) interpreted these results in terms of rewards...Read more...</p></details>
+   Link:<a href="https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deci. (1975) interpreted these results in terms of rewards...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/11392867/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-determination theory and the facilitation of intrinsic...The findings have led to the postulate of three innate psychological...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/11392867/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/11392867/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-determination theory and the facilitation of intrinsic...The findings have led to the postulate of three innate psychological...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: selfdeterminationtheory.org  
-   Link: <a href="https://selfdeterminationtheory.org/wp-content/uploads/2014/04/1999_DeciKoestnerRyan_Meta.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2014/04/1999_DeciKoestnerRyan_Meta.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self Determination Theoryundermine intrinsic motivationTheir meta-analysis included studies of verbal as well as tangible rewards and exp...</p></details>
+   Link:<a href="https://selfdeterminationtheory.org/wp-content/uploads/2014/04/1999_DeciKoestnerRyan_Meta.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2014/04/1999_DeciKoestnerRyan_Meta.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self Determination Theoryundermine intrinsic motivationTheir meta-analysis included studies of verbal as well as tangible rewards and exp...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: selfdeterminationtheory.org  
-   Link: <a href="https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2022_RyanDeci_SDT_Encyclopedia.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2022_RyanDeci_SDT_Encyclopedia.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self Determination TheorySelf-Determination Theoryby RM Ryan · 2022 · Cited by 24906 — SDT explains that external events such as rewards...</p></details>
+   Link:<a href="https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2022_RyanDeci_SDT_Encyclopedia.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2022_RyanDeci_SDT_Encyclopedia.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self Determination TheorySelf-Determination Theoryby RM Ryan · 2022 · Cited by 24906 — SDT explains that external events such as rewards...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ukcoaching.org  
-   Link: <a href="https://www.ukcoaching.org/ukc-club/resources/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://www.ukcoaching.org/ukc-club/resources/self-determination-theory/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination TheorySelf-Determination Theory emphasises that people are most motivated and fulfilled when their basic needs for aut...</p></details>
+   Link:<a href="https://www.ukcoaching.org/ukc-club/resources/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://www.ukcoaching.org/ukc-club/resources/self-determination-theory/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination TheorySelf-Determination Theory emphasises that people are most motivated and fulfilled when their basic needs for aut...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: open.ncl.ac.uk  
    Title: self determination theory  
-   Link: <a href="https://open.ncl.ac.uk/theories/20/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://open.ncl.ac.uk/theories/20/self-determination-theory/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TheoryHubSelf-Determination Theory: A review14 Mar 2026 — The fifth mini theory, Basic psychological needs theory (Deci &amp; Ryan, 2000), id...</p></details>
+   Link:<a href="https://open.ncl.ac.uk/theories/20/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://open.ncl.ac.uk/theories/20/self-determination-theory/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TheoryHubSelf-Determination Theory: A review14 Mar 2026 — The fifth mini theory, Basic psychological needs theory (Deci &amp; Ryan, 2000), id...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.1177/1745691620966789" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/1745691620966789</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsA Meta-Analysis From Self-Determination Theoryby JL Howard · 2021 · Cited by 1597 — Student outcomes are influenced by diffe...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.1177/1745691620966789" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.1177/1745691620966789</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsA Meta-Analysis From Self-Determination Theoryby JL Howard · 2021 · Cited by 1597 — Student outcomes are influenced by diffe...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/self" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/self</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarythe set of someone&#x27;s characteristics, such as personality and ability, that are not physical and...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/self" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/self</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionarythe set of someone&#x27;s characteristics, such as personality and ability, that are not physical and...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: selfdeterminationtheory.org  
-   Link: <a href="https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2023_RyanDuineveldDiDomenicoEtAl_Meta-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2023_RyanDuineveldDiDomenicoEtAl_Meta-1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>meta-analytic findings within self-determination theoryby RM Ryan · 2022 · Cited by 478 — The effects of extrinsic rewards in intrinsic m...</p></details>
+   Link:<a href="https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2023_RyanDuineveldDiDomenicoEtAl_Meta-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://selfdeterminationtheory.org/wp-content/uploads/2023/01/2023_RyanDuineveldDiDomenicoEtAl_Meta-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>meta-analytic findings within self-determination theoryby RM Ryan · 2022 · Cited by 478 — The effects of extrinsic rewards in intrinsic m...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: book.all-means-all.education  
    Title: self determination  
-   Link: <a href="https://book.all-means-all.education/ama-2025-en/chapter/self-determination/" target="_blank" rel="noopener noreferrer nofollow">https://book.all-means-all.education/ama-2025-en/chapter/self-determination/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>all-means-all.educationSelf-Determination in Learningby K Buttigieg · 2025 — According to SDT, there are three basic psychological needs...</p></details>
+   Link:<a href="https://book.all-means-all.education/ama-2025-en/chapter/self-determination/" target="_blank" rel="noopener noreferrer nofollow">https://book.all-means-all.education/ama-2025-en/chapter/self-determination/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>all-means-all.educationSelf-Determination in Learningby K Buttigieg · 2025 — According to SDT, there are three basic psychological needs...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: get-alfred.ai  
    Title: self determination theory  
-   Link: <a href="https://get-alfred.ai/blog/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow">https://get-alfred.ai/blog/self-determination-theory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory: Why Autonomy, Mastery, and...Feb 19, 2026 — Adding external rewards to inherently interesting work can reduce...</p></details>
+   Link:<a href="https://get-alfred.ai/blog/self-determination-theory" target="_blank" rel="noopener noreferrer nofollow">https://get-alfred.ai/blog/self-determination-theory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory: Why Autonomy, Mastery, and...Feb 19, 2026 — Adding external rewards to inherently interesting work can reduce...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: yukaichou.com  
    Title: self determination theory guide to ryan and decis motivation framework  
-   Link: <a href="https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/" target="_blank" rel="noopener noreferrer nofollow">https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ryan, proposing that people are driven by three innate psychological needs (autonomy, competence, and relatedness) and that...Read more...</p></details>
+   Link:<a href="https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/" target="_blank" rel="noopener noreferrer nofollow">https://yukaichou.com/gamification-analysis/self-determination-theory-guide-to-ryan-and-decis-motivation-framework/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ryan, proposing that people are driven by three innate psychological needs (autonomy, competence, and relatedness) and that...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: simplypsychology.org  
    Title: self determination theory  
-   Link: <a href="https://www.simplypsychology.org/self-determination-theory.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/self-determination-theory.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory Of Motivation1 Apr 2026 — The term self-determination refers to a person&#x27;s own ability to manage themselves, to...</p></details>
+   Link:<a href="https://www.simplypsychology.org/self-determination-theory.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/self-determination-theory.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory Of Motivation1 Apr 2026 — The term self-determination refers to a person&#x27;s own ability to manage themselves, to...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=_juPDoa3GBY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_juPDoa3GBY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory ExplainedSelf-determination Theory argues that we do what we do because we are motivated by three basic needs t...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_juPDoa3GBY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_juPDoa3GBY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory ExplainedSelf-determination Theory argues that we do what we do because we are motivated by three basic needs t...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: suebehaviouraldesign.com  
    Title: self determination theory explained  
-   Link: <a href="https://www.suebehaviouraldesign.com/en/blog/self-determination-theory-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.suebehaviouraldesign.com/en/blog/self-determination-theory-explained/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory explained: autonomy...1 Mar 2026 — Self-Determination Theory (SDT) by Deci and Ryan identifies three basic ps...</p></details>
+   Link:<a href="https://www.suebehaviouraldesign.com/en/blog/self-determination-theory-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.suebehaviouraldesign.com/en/blog/self-determination-theory-explained/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Determination Theory explained: autonomy...1 Mar 2026 — Self-Determination Theory (SDT) by Deci and Ryan identifies three basic ps...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: positivepsychology.com  
    Title: self determination theory  
-   Link: <a href="https://positivepsychology.com/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://positivepsychology.com/self-determination-theory/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and How It Explains Motivation21 Jun 2018 — Deci and Ryan&#x27;s Self-Determination Theory (SDT) identifies autonomy, relatedness, and compete...</p></details>
+   Link:<a href="https://positivepsychology.com/self-determination-theory/" target="_blank" rel="noopener noreferrer nofollow">https://positivepsychology.com/self-determination-theory/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and How It Explains Motivation21 Jun 2018 — Deci and Ryan&#x27;s Self-Determination Theory (SDT) identifies autonomy, relatedness, and compete...</p></details>
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/232453941_The_effects_of_extrinsic_rewards_in_intrinsic_motivation_A_meta-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232453941_The_effects_of_extrinsic_rewards_in_intrinsic_motivation_A_meta-analysis</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The effects of extrinsic rewards in intrinsic motivationSome studies have shown that contingently applied extrinsic rewards decreas...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/232453941_The_effects_of_extrinsic_rewards_in_intrinsic_motivation_A_meta-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232453941_The_effects_of_extrinsic_rewards_in_intrinsic_motivation_A_meta-analysis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The effects of extrinsic rewards in intrinsic motivationSome studies have shown that contingently applied extrinsic rewards decreas...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: tipsforteachers.co.uk  
-   Link: <a href="https://tipsforteachers.co.uk/research-extrinsic-rewards-and-intrinsic-motivation-in-education/" target="_blank" rel="noopener noreferrer nofollow">https://tipsforteachers.co.uk/research-extrinsic-rewards-and-intrinsic-motivation-in-education/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Extrinsic Rewards and Intrinsic Motivation in EducationThe authors provide evidence from their own meta-analysis that tangible rewards ha...</p></details>
+   Link:<a href="https://tipsforteachers.co.uk/research-extrinsic-rewards-and-intrinsic-motivation-in-education/" target="_blank" rel="noopener noreferrer nofollow">https://tipsforteachers.co.uk/research-extrinsic-rewards-and-intrinsic-motivation-in-education/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Extrinsic Rewards and Intrinsic Motivation in EducationThe authors provide evidence from their own meta-analysis that tangible rewards ha...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/12712628_A_Meta-Analytic_Review_of_Experiments_Examining_the_Effects_of_Extrinsic_Rewards_on_Intrinsic_Motivation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/12712628_A_Meta-Analytic_Review_of_Experiments_Examining_the_Effects_of_Extrinsic_Rewards_on_Intrinsic_Motivation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A Meta-Analytic Review of Experiments Examining...As predicted, engagement-contingent, completion-contingent, and performance-cont...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/12712628_A_Meta-Analytic_Review_of_Experiments_Examining_the_Effects_of_Extrinsic_Rewards_on_Intrinsic_Motivation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/12712628_A_Meta-Analytic_Review_of_Experiments_Examining_the_Effects_of_Extrinsic_Rewards_on_Intrinsic_Motivation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A Meta-Analytic Review of Experiments Examining...As predicted, engagement-contingent, completion-contingent, and performance-cont...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/biases/overjustification-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/overjustification-effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Overjustification EffectThe overjustification effect describes our tendency to become less intrinsically motivated to partake in an activ...</p></details>
+   Link:<a href="https://thedecisionlab.com/biases/overjustification-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/biases/overjustification-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Overjustification EffectThe overjustification effect describes our tendency to become less intrinsically motivated to partake in an activ...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: rccs.org.uk  
-   Link: <a href="https://www.rccs.org.uk/post/autonomy-competence-and-relatedness-understanding-the-three-universal-needs-of-self-determination" target="_blank" rel="noopener noreferrer nofollow">https://www.rccs.org.uk/post/autonomy-competence-and-relatedness-understanding-the-three-universal-needs-of-self-determination</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomy Competence and Relatedness – RCCS6 Feb 2026 — Explore autonomy competence and relatedness – the core human needs that drive moti...</p></details>
+   Link:<a href="https://www.rccs.org.uk/post/autonomy-competence-and-relatedness-understanding-the-three-universal-needs-of-self-determination" target="_blank" rel="noopener noreferrer nofollow">https://www.rccs.org.uk/post/autonomy-competence-and-relatedness-understanding-the-three-universal-needs-of-self-determination</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Autonomy Competence and Relatedness – RCCS6 Feb 2026 — Explore autonomy competence and relatedness – the core human needs that drive moti...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/self" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/self</a>  
+   Link:<a href="https://www.merriam-webster.com/dictionary/self" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/self</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: utupub.fi  
    Title: When do extrinsic rewards undermine intrinsic motivation?  
-   Link: <a href="https://www.utupub.fi/handle/10024/173853?show=full" target="_blank" rel="noopener noreferrer nofollow">https://www.utupub.fi/handle/10024/173853?show=full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>13 Jan 2023 — Hence, the effect of rewards on intrinsic motivation remains highly debated. Drawing on cognitive evaluation theory (Deci &amp;...</p></details>
+   Link:<a href="https://www.utupub.fi/handle/10024/173853?show=full" target="_blank" rel="noopener noreferrer nofollow">https://www.utupub.fi/handle/10024/173853?show=full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>13 Jan 2023 — Hence, the effect of rewards on intrinsic motivation remains highly debated. Drawing on cognitive evaluation theory (Deci &amp;...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: selfthebrand.com  
    Title: Join a vibrant community embracing individuality  
-   Link: <a href="https://selfthebrand.com/" target="_blank" rel="noopener noreferrer nofollow">https://selfthebrand.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self the brand: Luxury &amp; confidence for your everyday life...Self: luxurious yet accessible, empowering rebellious girls with comfy, eff...</p></details>
+   Link:<a href="https://selfthebrand.com/" target="_blank" rel="noopener noreferrer nofollow">https://selfthebrand.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self the brand: Luxury &amp; confidence for your everyday life...Self: luxurious yet accessible, empowering rebellious girls with comfy, eff...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: sciencedatabase.strategian.com  
-   Link: <a href="https://sciencedatabase.strategian.com/?p=8141" target="_blank" rel="noopener noreferrer nofollow">https://sciencedatabase.strategian.com/?p=8141</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>meta-analytic review of experiments examining the effects of...Oct 2, 2022 — A meta-analysis of 128 studies examined the effects of extr...</p></details>
+   Link:<a href="https://sciencedatabase.strategian.com/?p=8141" target="_blank" rel="noopener noreferrer nofollow">https://sciencedatabase.strategian.com/?p=8141</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>meta-analytic review of experiments examining the effects of...Oct 2, 2022 — A meta-analysis of 128 studies examined the effects of extr...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: stial.ie  
    Title: Ryan and Deci 2020 self determination theory  
-   Link: <a href="https://stial.ie/resources/Ryan%20and%20Deci%202020%20self%20determination%20theory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stial.ie/resources/Ryan%20and%20Deci%202020%20self%20determination%20theory.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>pdfby RM Ryan · 2020 · Cited by 9946 — Self-determination theory (SDT) is a broad framework for understanding factors that facilitate or...</p></details>
+   Link:<a href="https://stial.ie/resources/Ryan%20and%20Deci%202020%20self%20determination%20theory.pdf" target="_blank" rel="noopener noreferrer nofollow">https://stial.ie/resources/Ryan%20and%20Deci%202020%20self%20determination%20theory.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pdfby RM Ryan · 2020 · Cited by 9946 — Self-determination theory (SDT) is a broad framework for understanding factors that facilitate or...</p></details>

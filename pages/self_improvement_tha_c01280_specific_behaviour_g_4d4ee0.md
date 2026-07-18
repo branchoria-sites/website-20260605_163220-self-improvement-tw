@@ -502,7 +502,7 @@ image: /assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0-ov
 
 ## Introduction
 
-Specific behaviour goals beat vague intentions because they turn [self improvement]({{ 'self-improvement-that-works/' | relative_url }}) into something a person can actually do, observe and adjust. “Get healthier”, “be more disciplined” or “read more” may express a real desire, but they leave the next action undefined. A stronger goal names the behaviour, the setting, the frequency and the minimum standard: “walk for ten minutes after lunch on weekdays” or “read five pages after brushing my teeth”. That shift matters because goal-setting research has repeatedly found that specific, difficult goals outperform vague “do your best” aims, while behaviour-change research treats goal setting, planning and monitoring as practical [techniques]({{ 'techniques/' | relative_url }}) rather than motivational decoration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://med.stanford.edu/content/dam/sm/s-spire/documents/PD.locke-and-latham-retrospective_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: med.stanford.edu">[Stanford Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">med.stanford.edu</span><span class="citation-popover-snippet">Stanford Medicine...</span></span></span>
+Specific behaviour goals beat vague intentions because they turn [self improvement]({{ 'self-improvement-that-works/' | relative_url }}) into something a person can actually do, observe and adjust. “Get healthier”, “be more disciplined” or “read more” may express a real desire, but they leave the next action undefined. A stronger goal names the behaviour, the setting, the frequency and the minimum standard: “walk for ten minutes after lunch on weekdays” or “read five pages after brushing my teeth”. That shift matters because goal-setting research has repeatedly found that specific, difficult goals outperform vague “do your best” aims, while behaviour-change research treats goal setting, planning and monitoring as practical [techniques]({{ 'techniques/' | relative_url }}) rather than motivational decoration.<span class="citation-chip-wrap"><a class="citation-chip" href="https://med.stanford.edu/content/dam/sm/s-spire/documents/PD.locke-and-latham-retrospective_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: med.stanford.edu">[Stanford Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">med.stanford.edu</span><span class="citation-popover-snippet">Stanford Medicine...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0-overview.webp" | relative_url }}" alt="Overview image for Goal Setting" loading="eager" decoding="sync" fetchpriority="high">
 The point is not to make life rigid. It is to remove ambiguity at the moment when ambiguity usually wins. A specific behaviour goal tells the mind what counts, gives the day a cue, and creates evidence that can be reviewed. When the behaviour happens, the person can repeat it. When it fails, the person can diagnose the problem: the goal was too large, the cue was weak, the timing was wrong, or the [environment]({{ 'environment/' | relative_url }}) made the action harder than expected.
@@ -511,7 +511,7 @@ The point is not to make life rigid. It is to remove ambiguity at the moment whe
 
 A vague intention usually describes a hoped-for [identity]({{ 'identity/' | relative_url }}), mood or outcome. “I want to be productive” describes a state. “I will work on the report for 25 minutes before checking messages” describes a behaviour. That difference sounds small, but it changes the whole problem. A wish leaves every practical decision until the moment of action: when to start, what to do first, how much is enough, what to do if interrupted, and how to judge whether the day was a success.
 
-Locke and Latham’s goal-setting theory is the classic evidence base for this distinction. In their review of goal-setting research, they report that specific, difficult goals consistently produced higher performance than instructions to “do your best”. They explain the weakness of “do your best” goals clearly: because they have no external reference point, people define success for themselves and tolerate a wide range of performance levels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://med.stanford.edu/content/dam/sm/s-spire/documents/PD.locke-and-latham-retrospective_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: med.stanford.edu">[Stanford Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">med.stanford.edu</span><span class="citation-popover-snippet">Stanford Medicine...</span></span></span>
+Locke and Latham’s goal-setting theory is the classic evidence base for this distinction. In their review of goal-setting research, they report that specific, difficult goals consistently produced higher performance than instructions to “do your best”. They explain the weakness of “do your best” goals clearly: because they have no external reference point, people define success for themselves and tolerate a wide range of performance levels.<span class="citation-chip-wrap"><a class="citation-chip" href="https://med.stanford.edu/content/dam/sm/s-spire/documents/PD.locke-and-latham-retrospective_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: med.stanford.edu">[Stanford Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">med.stanford.edu</span><span class="citation-popover-snippet">Stanford Medicine...</span></span></span>
 
 For everyday self improvement, that means “study more” is not just less precise than “complete ten practice questions before dinner”; it is easier to reinterpret. A person can browse notes for ten minutes and still feel they have honoured the vague goal. The behaviour goal is harder to fudge. It defines the action, the quantity and the point at which the person can stop negotiating.
 
@@ -519,18 +519,18 @@ A practical conversion looks like this:
 
 Vague intentionSpecific behaviour goal“I need to get fit.”“I will walk briskly for 20 minutes after work on Monday, Wednesday and Friday.”“I should eat better.”“I will add one portion of vegetables to lunch on weekdays.”“I want to be less distracted.”“I will put my phone in another room for the first 30 minutes of deep work.”“I should save money.”“I will transfer £40 to savings every payday before discretionary spending.”“I want to read more.”“I will read five pages after brushing my teeth each night.”
 
-The better version is not merely more detailed. It is easier to begin, easier to notice, easier to repeat and easier to repair. Behaviour-change researchers make a similar distinction when they classify intervention ingredients. The [Behaviour Change]({{ 'behaviour-change/' | relative_url }}) Technique Taxonomy identifies 93 distinct techniques, including goal setting, action planning, self-monitoring and feedback, so that interventions can be described by their active components rather than vague labels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8637 — &quot;BCT taxonomy v1,&quot; an extensive taxonomy...</span></span></span>
+The better version is not merely more detailed. It is easier to begin, easier to notice, easier to repeat and easier to repair. Behaviour-change researchers make a similar distinction when they classify intervention ingredients. The [Behaviour Change]({{ 'behaviour-change/' | relative_url }}) Technique Taxonomy identifies 93 distinct techniques, including goal setting, action planning, self-monitoring and feedback, so that interventions can be described by their active components rather than vague labels.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8637 — &quot;BCT taxonomy v1,&quot; an extensive taxonomy...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0-Illustration-1-dark.svg" | relative_url }}" alt="Goal Setting illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why vague goals fail so often
 
 Vague goals feel attractive because they preserve possibility. “Be healthier” can contain a new diet, a [gym routine]({{ 'gym-routine/' | relative_url }}), better sleep, less alcohol and a calmer mind all at once. It lets a person imagine a better life without yet choosing the next uncomfortable behaviour. That emotional comfort is also the trap. If the goal has no minimum action, almost anything can count as progress; if it has no context, every lapse can feel like a character flaw rather than a design problem.
 
-Specific goals work partly by narrowing attention. Goal-setting theory argues that goals influence performance through direction, effort, persistence and strategy. A clear goal points attention towards relevant actions, encourages effort, supports persistence and prompts a search for better ways to perform the task. A vague goal is weak on all four: it does not say what matters, how much effort is enough, when to continue, or what strategy should change after failure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://home.ubalt.edu/tmitch/642/articles%20syllabus/locke%20latham%20new%20dir%20gs%20curr%20dir%20psy%20sci%202006.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: home.ubalt.edu">[home.ubalt.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">home.ubalt.edu</span><span class="citation-popover-snippet">New Directions in Goal-Setting TheoryNovember 21, 2006 — by EA Locke · Cited by 4049 — There are four mechanisms or mediators of the rela...</span><span class="citation-popover-meta">Published: November 21, 2006</span></span></span>
+Specific goals work partly by narrowing attention. Goal-setting theory argues that goals influence performance through direction, effort, persistence and strategy. A clear goal points attention towards relevant actions, encourages effort, supports persistence and prompts a search for better ways to perform the task. A vague goal is weak on all four: it does not say what matters, how much effort is enough, when to continue, or what strategy should change after failure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://home.ubalt.edu/tmitch/642/articles%20syllabus/locke%20latham%20new%20dir%20gs%20curr%20dir%20psy%20sci%202006.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: home.ubalt.edu">[home.ubalt.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">home.ubalt.edu</span><span class="citation-popover-snippet">New Directions in Goal-Setting TheoryNovember 21, 2006 — by EA Locke · Cited by 4049 — There are four mechanisms or mediators of the rela...</span><span class="citation-popover-meta">Published: November 21, 2006</span></span></span>
 
 That is why “try harder” is usually poor self-improvement advice. Trying harder may help for a day, but it does not specify the next move. A person who wants to sleep better can “try harder” and still scroll at midnight because the actual behavioural choice has not been designed. A stronger goal might be: “At 10.15 pm, I will charge my phone in the kitchen and put a book on my pillow.” Now the goal contains a cue, a behaviour and a replacement path.
 
-There is also a measurement problem. Behaviour that is not defined cannot be tracked honestly. In a meta-analysis of 141 papers and 384 effect sizes, goal setting showed a small positive unique effect on behaviour change across a range of behaviours, and it appeared more effective when goals were difficult, public or group-based. That does not mean every goal must be shared, but it does show why defined targets are easier to evaluate than private impressions such as “I was pretty good this week”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.manchester.ac.uk/en/publications/unique-effects-of-setting-goals-on-behavior-change-systematic-rev/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.manchester.ac.uk">[Research Explorer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.manchester.ac.uk</span><span class="citation-popover-snippet">Unique Effects of Setting Goals on Behavior Change: Systematic Review and Meta-Analysis - Research Explorer The University of Manchester...</span></span></span>
+There is also a measurement problem. Behaviour that is not defined cannot be tracked honestly. In a meta-analysis of 141 papers and 384 effect sizes, goal setting showed a small positive unique effect on behaviour change across a range of behaviours, and it appeared more effective when goals were difficult, public or group-based. That does not mean every goal must be shared, but it does show why defined targets are easier to evaluate than private impressions such as “I was pretty good this week”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://research.manchester.ac.uk/en/publications/unique-effects-of-setting-goals-on-behavior-change-systematic-rev/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.manchester.ac.uk">[Research Explorer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.manchester.ac.uk</span><span class="citation-popover-snippet">Unique Effects of Setting Goals on Behavior Change: Systematic Review and Meta-Analysis - Research Explorer The University of Manchester...</span></span></span>
 
 ## Choosing frequency and context
 
@@ -538,7 +538,7 @@ A behaviour goal needs a frequency, but frequency should serve reliability rathe
 
 A useful formula is: behaviour, context, frequency and minimum standard. For example: “After lunch on weekdays, I will walk outside for at least ten minutes.” The behaviour is walking; the context is after lunch; the frequency is weekdays; the minimum standard is ten minutes. This makes the goal clear enough to perform and small enough to survive low-motivation days.
 
-Context matters because many self-improvement failures are not failures of desire. They are failures of retrieval. The person remembers the goal too late, in the wrong place, or only after the easier alternative has already started. Implementation intentions address this by linking a situation to a response: “If situation X occurs, then I will do Y.” Research on if-then planning describes how specifying when, where and how to act can help translate goal intentions into action. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Division of Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-title">Division of Cancer Control Implementation Intentions Peter M</span><span class="citation-popover-snippet">Gollwitzer New York...February 19, 2008 — by PM Gollwitzer · Cited by 136 — The mental links created by implementation intentions facili...</span><span class="citation-popover-meta">Published: February 19, 2008</span></span></span>
+Context matters because many self-improvement failures are not failures of desire. They are failures of retrieval. The person remembers the goal too late, in the wrong place, or only after the easier alternative has already started. Implementation intentions address this by linking a situation to a response: “If situation X occurs, then I will do Y.” Research on if-then planning describes how specifying when, where and how to act can help translate goal intentions into action.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cancercontrol.cancer.gov">[Division of Cancer Control]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cancercontrol.cancer.gov</span><span class="citation-popover-title">Division of Cancer Control Implementation Intentions Peter M</span><span class="citation-popover-snippet">Gollwitzer New York...February 19, 2008 — by PM Gollwitzer · Cited by 136 — The mental links created by implementation intentions facili...</span><span class="citation-popover-meta">Published: February 19, 2008</span></span></span>
 
 The best context is often an existing routine, not an empty calendar slot. “After I make coffee, I will review my task list for three minutes” is stronger than “I will plan my day in the morning” because the coffee acts as a cue. “After I brush my teeth, I will read five pages” is stronger than “I will read at night” because it attaches the new behaviour to an existing sequence. The cue does not guarantee success, but it reduces the number of decisions required.
 
@@ -546,19 +546,19 @@ The best context is often an existing routine, not an empty calendar slot. “Af
 
 ## Making goals hard but doable
 
-Specific behaviour goals should not be so easy that they are meaningless. A goal that never stretches attention or effort may create the illusion of progress without changing much. The goal-setting literature has long emphasised that, when people have the ability and commitment required, harder goals can lead to higher performance than easy ones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://med.stanford.edu/content/dam/sm/s-spire/documents/PD.locke-and-latham-retrospective_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: med.stanford.edu">[Stanford Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">med.stanford.edu</span><span class="citation-popover-snippet">Stanford Medicine...</span></span></span>
+Specific behaviour goals should not be so easy that they are meaningless. A goal that never stretches attention or effort may create the illusion of progress without changing much. The goal-setting literature has long emphasised that, when people have the ability and commitment required, harder goals can lead to higher performance than easy ones.<span class="citation-chip-wrap"><a class="citation-chip" href="https://med.stanford.edu/content/dam/sm/s-spire/documents/PD.locke-and-latham-retrospective_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: med.stanford.edu">[Stanford Medicine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">med.stanford.edu</span><span class="citation-popover-snippet">Stanford Medicine...</span></span></span>
 
 But “hard” is not the same as punishing. A useful goal sits near the edge of current capacity. It should be demanding enough to matter, but realistic enough that success is plausible on an ordinary week. For a sedentary person, “run five kilometres every morning” may be specific but poorly matched. “Walk for ten minutes after lunch on weekdays” may be a better first goal because it builds continuity before intensity.
 
-This is where popular SMART-goal advice can be both helpful and limiting. The acronym usually points people towards goals that are specific, measurable, achievable, relevant and time-bound, which can prevent vague aspiration. However, researchers in exercise and physical activity have warned against treating SMART goals as a one-size-fits-all formula, especially for people who are new to a complex behaviour or insufficiently active. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6796229/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
+This is where popular SMART-goal advice can be both helpful and limiting. The acronym usually points people towards goals that are specific, measurable, achievable, relevant and time-bound, which can prevent vague aspiration. However, researchers in exercise and physical activity have warned against treating SMART goals as a one-size-fits-all formula, especially for people who are new to a complex behaviour or insufficiently active.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6796229/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Open source on nih.gov.</span></span></span>
 
-The important distinction is between a performance goal and a learning goal. A performance goal says, “Hit this number.” A learning goal says, “Learn and practise the process that makes the number possible.” For a beginner, “go to the gym three times this week and learn how to use three machines safely” may be better than “lift a specific weight by Friday”. Locke and Latham themselves note that specific, difficult performance goals can be less useful on new, complex tasks because they can create tunnel vision around the result rather than the skills needed to reach it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lyondellbasell.com/4aeca6/globalassets/sustainability/lifebeats/advancing-health/life/goals/newdirectioningoalsetting_locke-et-al..pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lyondellbasell.com">[LyondellBasell]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lyondellbasell.com</span><span class="citation-popover-title">Lyondell Baselluntitled</span><span class="citation-popover-snippet">Lyondell Baselluntitled</span></span></span>
+The important distinction is between a performance goal and a learning goal. A performance goal says, “Hit this number.” A learning goal says, “Learn and practise the process that makes the number possible.” For a beginner, “go to the gym three times this week and learn how to use three machines safely” may be better than “lift a specific weight by Friday”. Locke and Latham themselves note that specific, difficult performance goals can be less useful on new, complex tasks because they can create tunnel vision around the result rather than the skills needed to reach it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lyondellbasell.com/4aeca6/globalassets/sustainability/lifebeats/advancing-health/life/goals/newdirectioningoalsetting_locke-et-al..pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lyondellbasell.com">[LyondellBasell]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lyondellbasell.com</span><span class="citation-popover-title">Lyondell Baselluntitled</span><span class="citation-popover-snippet">Lyondell Baselluntitled</span></span></span>
 
 ## How a goal becomes adjustable
 
 A vague goal often collapses after failure because it gives no diagnostic information. “I failed to be disciplined” is too broad to fix. A specific behaviour goal turns failure into data. If the goal was “write for 25 minutes before checking messages at 9 am” and it failed three days in a row, the person can ask narrower questions: Was 9 am unrealistic? Were messages too accessible? Was the writing task unclear? Was 25 minutes too large for the first step?
 
-This is why good behaviour goals should be reviewed, not merely admired. Research on physical activity apps found that popular apps often included goal specificity and timeframes, but much less often included action planning, appropriate goal difficulty or goal re-evaluation. In one content analysis of 40 popular apps, 95% included specific goals and 67.5% included a timeframe, but only 47.5% included action planning, 25% included goal difficulty, and none included goal re-evaluation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6637833/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Implementation of the goal-setting components in popular physical activity apps: Review and content analysis - PMC...</span></span></span>
+This is why good behaviour goals should be reviewed, not merely admired. Research on physical activity apps found that popular apps often included goal specificity and timeframes, but much less often included action planning, appropriate goal difficulty or goal re-evaluation. In one content analysis of 40 popular apps, 95% included specific goals and 67.5% included a timeframe, but only 47.5% included action planning, 25% included goal difficulty, and none included goal re-evaluation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6637833/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Implementation of the goal-setting components in popular physical activity apps: Review and content analysis - PMC...</span></span></span>
 
 That finding is useful beyond fitness apps. A goal can look precise while still being incomplete. “10,000 steps a day” is specific, but if it ignores a person’s current activity level, schedule, pain, weather, caring responsibilities or motivation, it may function more as a judgement than a [support]({{ 'support/' | relative_url }}). A better system includes a review loop: keep the behaviour if it works, shrink it if it repeatedly fails, move it if the timing is bad, and raise the standard only when the current version is stable.
 
@@ -616,178 +616,178 @@ The final advantage of specific behaviour goals is that they change the emotiona
 <img src="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0-Illustration-3-dark.svg" | relative_url }}" alt="Goal Setting illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_specific_behaviour_g_4d4ee0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Vague Goals Fail So Often. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Vague Goals Fail So Often. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Directly addresses turning intentions into specific repeatable behaviours.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Directly addresses turning intentions into specific repeatable behaviours.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
-        </h4>
-        <p class="fr-book-author">By B. J. Fogg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
+</h4>
+<p class="fr-book-author">By B. J. Fogg</p>
         
-        <p class="fr-book-desc">Focuses on converting goals into tiny actions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on converting goals into tiny actions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Carol S. Dweck</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
-        <p class="fr-book-desc">Addresses beliefs and learning approaches that support improvement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
+</h4>
+<p class="fr-book-author">By Carol S. Dweck</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
+<p class="fr-book-desc">Addresses beliefs and learning approaches that support improvement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
-        </h4>
-        <p class="fr-book-author">By Charles Duhigg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
+</h4>
+<p class="fr-book-author">By Charles Duhigg</p>
         
-        <p class="fr-book-desc">Explains how behaviour patterns form and can be redesigned.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how behaviour patterns form and can be redesigned.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-    </div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=goals+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-setting-why-vague-goals-fail-so-often-self-improvement-that-works-goals-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE NFL GOALS FOR LIFE SIGNED POSTER, CLINTON JAMES, WILLIE HALL (NO COA)"><img src="{{ '/assets/images/marketplace-covers/50d9eb742d5227b14a94.jpg' | relative_url }}" alt="Listing image for VINTAGE NFL GOALS FOR LIFE SIGNED POSTER, CLINTON JAMES, WILLIE HALL (NO COA)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goals+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-setting-why-vague-goals-fail-so-often-self-improvement-that-works-goals-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE NFL GOALS FOR LIFE SIGNED POSTER, CLINTON JAMES, WILLIE HALL (NO COA)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=goals+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-setting-why-vague-goals-fail-so-often-self-improvement-that-works-goals-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goals poster">Search <span data-ebay-domain-label>eBay.com</span>: goals poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goals+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-setting-why-vague-goals-fail-so-often-self-improvement-that-works-goals-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=goals+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-setting-why-vague-goals-fail-so-often-self-improvement-that-works-goals-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE NFL GOALS FOR LIFE SIGNED POSTER, CLINTON JAMES, WILLIE HALL (NO COA)"><img src="{{ '/assets/images/marketplace-covers/50d9eb742d5227b14a94.jpg' | relative_url }}" alt="Listing image for VINTAGE NFL GOALS FOR LIFE SIGNED POSTER, CLINTON JAMES, WILLIE HALL (NO COA)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=goals+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-setting-why-vague-goals-fail-so-often-self-improvement-that-works-goals-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">VINTAGE NFL GOALS FOR LIFE SIGNED POSTER, CLINTON JAMES, WILLIE HALL (NO COA)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=goals+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-setting-why-vague-goals-fail-so-often-self-improvement-that-works-goals-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goals poster">Search<span data-ebay-domain-label>eBay.com</span>: goals poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=goals+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-setting-why-vague-goals-fail-so-often-self-improvement-that-works-goals-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=goals+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-setting-why-vague-goals-fail-so-often-self-improvement-that-works-goals-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SET GOALS AND GO Vision of Success Mindset Monopoly Motivation POSTER/CANVAS ed1"><img src="{{ '/assets/images/marketplace-covers/aff891e7b60d4d8b754c.jpg' | relative_url }}" alt="Listing image for SET GOALS AND GO Vision of Success Mindset Monopoly Motivation POSTER/CANVAS ed1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goals+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-setting-why-vague-goals-fail-so-often-self-improvement-that-works-goals-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SET GOALS AND GO Vision of Success Mindset Monopoly Motivation POSTER/CANVAS ed1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=goals+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-setting-why-vague-goals-fail-so-often-self-improvement-that-works-goals-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goals poster">Search <span data-ebay-domain-label>eBay.com</span>: goals poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goals+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-setting-why-vague-goals-fail-so-often-self-improvement-that-works-goals-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=goals+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-setting-why-vague-goals-fail-so-often-self-improvement-that-works-goals-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SET GOALS AND GO Vision of Success Mindset Monopoly Motivation POSTER/CANVAS ed1"><img src="{{ '/assets/images/marketplace-covers/aff891e7b60d4d8b754c.jpg' | relative_url }}" alt="Listing image for SET GOALS AND GO Vision of Success Mindset Monopoly Motivation POSTER/CANVAS ed1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=goals+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-setting-why-vague-goals-fail-so-often-self-improvement-that-works-goals-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SET GOALS AND GO Vision of Success Mindset Monopoly Motivation POSTER/CANVAS ed1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=goals+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-setting-why-vague-goals-fail-so-often-self-improvement-that-works-goals-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goals poster">Search<span data-ebay-domain-label>eBay.com</span>: goals poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=goals+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-setting-why-vague-goals-fail-so-often-self-improvement-that-works-goals-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=goals+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-setting-why-vague-goals-fail-so-often-self-improvement-that-works-goals-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Relationship Goals (2026) Movie Poster"><img src="{{ '/assets/images/marketplace-covers/2873b15bd75217f80fb2.jpg' | relative_url }}" alt="Listing image for Relationship Goals (2026) Movie Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goals+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-setting-why-vague-goals-fail-so-often-self-improvement-that-works-goals-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Relationship Goals (2026) Movie Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=goals+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-setting-why-vague-goals-fail-so-often-self-improvement-that-works-goals-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goals poster">Search <span data-ebay-domain-label>eBay.com</span>: goals poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goals+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-setting-why-vague-goals-fail-so-often-self-improvement-that-works-goals-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=goals+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-setting-why-vague-goals-fail-so-often-self-improvement-that-works-goals-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Relationship Goals (2026) Movie Poster"><img src="{{ '/assets/images/marketplace-covers/2873b15bd75217f80fb2.jpg' | relative_url }}" alt="Listing image for Relationship Goals (2026) Movie Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=goals+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-setting-why-vague-goals-fail-so-often-self-improvement-that-works-goals-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Relationship Goals (2026) Movie Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=goals+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-setting-why-vague-goals-fail-so-often-self-improvement-that-works-goals-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goals poster">Search<span data-ebay-domain-label>eBay.com</span>: goals poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=goals+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-setting-why-vague-goals-fail-so-often-self-improvement-that-works-goals-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=goals+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-setting-why-vague-goals-fail-so-often-self-improvement-that-works-goals-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Arnold Schwarzenegger Motivational Poster – Goals Achievers Gym Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/51eb6d84c6257f62d589.jpg' | relative_url }}" alt="Listing image for Arnold Schwarzenegger Motivational Poster – Goals Achievers Gym Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goals+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-setting-why-vague-goals-fail-so-often-self-improvement-that-works-goals-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Arnold Schwarzenegger Motivational Poster – Goals Achievers Gym Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=goals+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-setting-why-vague-goals-fail-so-often-self-improvement-that-works-goals-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goals poster">Search <span data-ebay-domain-label>eBay.com</span>: goals poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=goals+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-setting-why-vague-goals-fail-so-often-self-improvement-that-works-goals-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=goals+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-setting-why-vague-goals-fail-so-often-self-improvement-that-works-goals-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=goals+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-setting-why-vague-goals-fail-so-often-self-improvement-that-works-goals-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Arnold Schwarzenegger Motivational Poster – Goals Achievers Gym Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/51eb6d84c6257f62d589.jpg' | relative_url }}" alt="Listing image for Arnold Schwarzenegger Motivational Poster – Goals Achievers Gym Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=goals+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-setting-why-vague-goals-fail-so-often-self-improvement-that-works-goals-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Arnold Schwarzenegger Motivational Poster – Goals Achievers Gym Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=goals+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-setting-why-vague-goals-fail-so-often-self-improvement-that-works-goals-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for goals poster">Search<span data-ebay-domain-label>eBay.com</span>: goals poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=goals+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-setting-why-vague-goals-fail-so-often-self-improvement-that-works-goals-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=goals+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goal-setting-why-vague-goals-fail-so-often-self-improvement-that-works-goals-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -803,7 +803,7 @@ The final advantage of specific behaviour goals is that they change the emotiona
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -823,7 +823,7 @@ The final advantage of specific behaviour goals is that they change the emotiona
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -855,7 +855,7 @@ The final advantage of specific behaviour goals is that they change the emotiona
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -885,7 +885,7 @@ The final advantage of specific behaviour goals is that they change the emotiona
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -943,108 +943,108 @@ The final advantage of specific behaviour goals is that they change the emotiona
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: med.stanford.edu  
-   Link: <a href="https://med.stanford.edu/content/dam/sm/s-spire/documents/PD.locke-and-latham-retrospective_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://med.stanford.edu/content/dam/sm/s-spire/documents/PD.locke-and-latham-retrospective_Paper.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Medicine...</p></details>
+   Link:<a href="https://med.stanford.edu/content/dam/sm/s-spire/documents/PD.locke-and-latham-retrospective_Paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://med.stanford.edu/content/dam/sm/s-spire/documents/PD.locke-and-latham-retrospective_Paper.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Medicine...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: research.manchester.ac.uk  
    Title: Research Explorer  
-   Link: <a href="https://research.manchester.ac.uk/en/publications/unique-effects-of-setting-goals-on-behavior-change-systematic-rev/" target="_blank" rel="noopener noreferrer nofollow">https://research.manchester.ac.uk/en/publications/unique-effects-of-setting-goals-on-behavior-change-systematic-rev/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unique Effects of Setting Goals on Behavior Change: Systematic Review and Meta-Analysis - Research Explorer The University of Manchester...</p></details>
+   Link:<a href="https://research.manchester.ac.uk/en/publications/unique-effects-of-setting-goals-on-behavior-change-systematic-rev/" target="_blank" rel="noopener noreferrer nofollow">https://research.manchester.ac.uk/en/publications/unique-effects-of-setting-goals-on-behavior-change-systematic-rev/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unique Effects of Setting Goals on Behavior Change: Systematic Review and Meta-Analysis - Research Explorer The University of Manchester...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: home.ubalt.edu  
-   Link: <a href="https://home.ubalt.edu/tmitch/642/articles%20syllabus/locke%20latham%20new%20dir%20gs%20curr%20dir%20psy%20sci%202006.pdf" target="_blank" rel="noopener noreferrer nofollow">https://home.ubalt.edu/tmitch/642/articles%20syllabus/locke%20latham%20new%20dir%20gs%20curr%20dir%20psy%20sci%202006.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>New Directions in Goal-Setting TheoryNovember 21, 2006 — by EA Locke · Cited by 4049 — There are four mechanisms or mediators of the rela...</p></details>
+   Link:<a href="https://home.ubalt.edu/tmitch/642/articles%20syllabus/locke%20latham%20new%20dir%20gs%20curr%20dir%20psy%20sci%202006.pdf" target="_blank" rel="noopener noreferrer nofollow">https://home.ubalt.edu/tmitch/642/articles%20syllabus/locke%20latham%20new%20dir%20gs%20curr%20dir%20psy%20sci%202006.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Directions in Goal-Setting TheoryNovember 21, 2006 — by EA Locke · Cited by 4049 — There are four mechanisms or mediators of the rela...</p></details>
    Published: November 21, 2006  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cancercontrol.cancer.gov  
    Title: Division of Cancer Control Implementation Intentions Peter M  
-   Link: <a href="https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gollwitzer New York...February 19, 2008 — by PM Gollwitzer · Cited by 136 — The mental links created by implementation intentions facili...</p></details>
+   Link:<a href="https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gollwitzer New York...February 19, 2008 — by PM Gollwitzer · Cited by 136 — The mental links created by implementation intentions facili...</p></details>
    Published: February 19, 2008  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6796229/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6796229/</a>  
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6796229/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6796229/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: lyondellbasell.com  
    Title: Lyondell Baselluntitled  
-   Link: <a href="https://www.lyondellbasell.com/4aeca6/globalassets/sustainability/lifebeats/advancing-health/life/goals/newdirectioningoalsetting_locke-et-al..pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lyondellbasell.com/4aeca6/globalassets/sustainability/lifebeats/advancing-health/life/goals/newdirectioningoalsetting_locke-et-al..pdf</a>  
+   Link:<a href="https://www.lyondellbasell.com/4aeca6/globalassets/sustainability/lifebeats/advancing-health/life/goals/newdirectioningoalsetting_locke-et-al..pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.lyondellbasell.com/4aeca6/globalassets/sustainability/lifebeats/advancing-health/life/goals/newdirectioningoalsetting_locke-et-al..pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6637833/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6637833/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation of the goal-setting components in popular physical activity apps: Review and content analysis - PMC...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6637833/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6637833/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation of the goal-setting components in popular physical activity apps: Review and content analysis - PMC...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23512568/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8637 — &quot;BCT taxonomy v1,&quot; an extensive taxonomy...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23512568/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8637 — &quot;BCT taxonomy v1,&quot; an extensive taxonomy...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38560998/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38560998/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/38560998/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38560998/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: get-alfred.ai  
    Title: implementation intentions  
-   Link: <a href="https://get-alfred.ai/blog/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://get-alfred.ai/blog/implementation-intentions</a>  
+   Link:<a href="https://get-alfred.ai/blog/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://get-alfred.ai/blog/implementation-intentions</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: thriva.co  
    Title: implementation intentions  
-   Link: <a href="https://thriva.co/hub/behaviour-change/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://thriva.co/hub/behaviour-change/implementation-intentions</a>  
+   Link:<a href="https://thriva.co/hub/behaviour-change/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://thriva.co/hub/behaviour-change/implementation-intentions</a>  
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Stop letting your goals fizzle out! Why implementation intentions unlock success  
-   Link: <a href="https://www.youtube.com/watch?v=8PrpkJOGsms" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8PrpkJOGsms</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Set Goals You&#x27;ll Actually Keep (The Science-Backed System to Achieve Anything)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8PrpkJOGsms" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8PrpkJOGsms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Set Goals You&#x27;ll Actually Keep (The Science-Backed System to Achieve Anything)...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=TwiBZqq9gro" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TwiBZqq9gro</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What are the Key Principles of Locke and Latham&#x27;s Goal Setting Theory?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TwiBZqq9gro" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TwiBZqq9gro</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What are the Key Principles of Locke and Latham&#x27;s Goal Setting Theory?...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: What are the Key Principles of Locke and Latham's Goal Setting Theory?  
-   Link: <a href="https://www.youtube.com/watch?v=Iyi4ngN3O9I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Iyi4ngN3O9I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Best Way to Start a New Habit- Mastering Atomic Habits...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Iyi4ngN3O9I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Iyi4ngN3O9I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Best Way to Start a New Habit- Mastering Atomic Habits...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: samhsa.gov  
-   Link: <a href="https://www.samhsa.gov/sites/default/files/nc-smart-goals-fact-sheet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.samhsa.gov/sites/default/files/nc-smart-goals-fact-sheet.pdf</a>  
+   Link:<a href="https://www.samhsa.gov/sites/default/files/nc-smart-goals-fact-sheet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.samhsa.gov/sites/default/files/nc-smart-goals-fact-sheet.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: The Best Way to Start a New Habit- Mastering Atomic Habits  
-   Link: <a href="https://www.youtube.com/watch?v=sEOkCxoEoGU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sEOkCxoEoGU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Breakthrough: How to Turn Vague Intentions into Progress...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sEOkCxoEoGU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sEOkCxoEoGU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Breakthrough: How to Turn Vague Intentions into Progress...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes</a>  
+   Link:<a href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: eclass.uth.gr  
-   Link: <a href="https://eclass.uth.gr/modules/document/file.php/PE_P_160/2022%20goal%20setting%2C%20imagery%2C%20attention%20Yannis%20Theodorakis/2020%20The%20effectiveness%20of%20multi%20component%20goal%20setting%20interventions%20for%20changing%20physical%20activity%20behaviour%20a%20systematic%20review%20and%20meta%20analysis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eclass.uth.gr/modules/document/file.php/PE_P_160/2022%20goal%20setting%2C%20imagery%2C%20attention%20Yannis%20Theodorakis/2020%20The%20effectiveness%20of%20multi%20component%20goal%20setting%20interventions%20for%20changing%20physical%20activity%20behaviour%20a%20systematic%20review%20and%20meta%20analysis.pdf</a>  
+   Link:<a href="https://eclass.uth.gr/modules/document/file.php/PE_P_160/2022%20goal%20setting%2C%20imagery%2C%20attention%20Yannis%20Theodorakis/2020%20The%20effectiveness%20of%20multi%20component%20goal%20setting%20interventions%20for%20changing%20physical%20activity%20behaviour%20a%20systematic%20review%20and%20meta%20analysis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eclass.uth.gr/modules/document/file.php/PE_P_160/2022%20goal%20setting%2C%20imagery%2C%20attention%20Yannis%20Theodorakis/2020%20The%20effectiveness%20of%20multi%20component%20goal%20setting%20interventions%20for%20changing%20physical%20activity%20behaviour%20a%20systematic%20review%20and%20meta%20analysis.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions</a>  
+   Link:<a href="https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/236064731_The_Behavior_Change_Technique_Taxonomy_v1_of_93_Hierarchically_Clustered_Techniques_Building_an_International_Consensus_for_the_Reporting_of_Behavior_Change_Interventions</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/379497574_What_Effect_Do_Goal_Setting_Interventions_Have_on_Physical_Activity_and_Psychological_Outcomes_in_Insufficiently_Active_Adults_A_Systematic_Review_and_Meta-Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/379497574_What_Effect_Do_Goal_Setting_Interventions_Have_on_Physical_Activity_and_Psychological_Outcomes_in_Insufficiently_Active_Adults_A_Systematic_Review_and_Meta-Analysis</a>  
+   Link:<a href="https://www.researchgate.net/publication/379497574_What_Effect_Do_Goal_Setting_Interventions_Have_on_Physical_Activity_and_Psychological_Outcomes_in_Insufficiently_Active_Adults_A_Systematic_Review_and_Meta-Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/379497574_What_Effect_Do_Goal_Setting_Interventions_Have_on_Physical_Activity_and_Psychological_Outcomes_in_Insufficiently_Active_Adults_A_Systematic_Review_and_Meta-Analysis</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: elgaronline.com  
-   Link: <a href="https://www.elgaronline.com/monochap/book/9781800377943/book-part-9781800377943-13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.elgaronline.com/monochap/book/9781800377943/book-part-9781800377943-13.pdf</a>
+   Link:<a href="https://www.elgaronline.com/monochap/book/9781800377943/book-part-9781800377943-13.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.elgaronline.com/monochap/book/9781800377943/book-part-9781800377943-13.pdf</a>

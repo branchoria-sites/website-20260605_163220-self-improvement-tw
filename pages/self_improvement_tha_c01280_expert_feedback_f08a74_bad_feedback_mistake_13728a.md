@@ -274,21 +274,21 @@ image: /assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_bad_fee
 
 ## Introduction
 
-[Feedback]({{ 'feedback/' | relative_url }}) is often presented as one of the most powerful tools in self-improvement. That is broadly true, but only when the feedback helps a person understand what to change next. Poor feedback can do the opposite. It can increase defensiveness, reduce confidence, narrow attention in unhelpful ways, and even worsen performance. Research on feedback interventions has repeatedly found that feedback is not automatically beneficial. In a landmark meta-analysis covering hundreds of studies, more than one-third of feedback interventions reduced performance rather than improving it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/232458848_The_Effects_of_Feedback_Interventions_on_Performance_A_Historical_Review_a_Meta-Analysis_and_a_Preliminary_Feedback_Intervention_Theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) The Effects of Feedback Interventions on PerformanceA meta-analysis (607 effect sizes; 23, 663 observations) suggests t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cris.huji.ac.il/en/publications/the-effects-of-feedback-interventions-on-performance-a-historical/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cris.huji.ac.il">[The Hebrew University of Jerusalem]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cris.huji.ac.il</span><span class="citation-popover-snippet">The Hebrew University of JerusalemThe effects of feedback interventions on performanceA meta-analysis (607 effect sizes; 23,663 observati...</span></span></span>
+[Feedback]({{ 'feedback/' | relative_url }}) is often presented as one of the most powerful tools in self-improvement. That is broadly true, but only when the feedback helps a person understand what to change next. Poor feedback can do the opposite. It can increase defensiveness, reduce confidence, narrow attention in unhelpful ways, and even worsen performance. Research on feedback interventions has repeatedly found that feedback is not automatically beneficial. In a landmark meta-analysis covering hundreds of studies, more than one-third of feedback interventions reduced performance rather than improving it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/232458848_The_Effects_of_Feedback_Interventions_on_Performance_A_Historical_Review_a_Meta-Analysis_and_a_Preliminary_Feedback_Intervention_Theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) The Effects of Feedback Interventions on PerformanceA meta-analysis (607 effect sizes; 23, 663 observations) suggests t...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://cris.huji.ac.il/en/publications/the-effects-of-feedback-interventions-on-performance-a-historical/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cris.huji.ac.il">[The Hebrew University of Jerusalem]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cris.huji.ac.il</span><span class="citation-popover-snippet">The Hebrew University of JerusalemThe effects of feedback interventions on performanceA meta-analysis (607 effect sizes; 23,663 observati...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_bad_feedback_mistake_13728a-Illustration-1-dark.svg" | relative_url }}" alt="Bad feedback illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_bad_feedback_mistake_13728a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_bad_feedback_mistake_13728a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For people seeking help from coaches, therapists, mentors, managers, teachers or knowledgeable friends, the key question is not whether feedback is positive or negative. The more important question is whether it directs attention towards a specific task, behaviour and next action. The mistakes that make feedback harmful are surprisingly consistent across different settings.
 
 ## Why Feedback Can Reduce Performance
 
-The common assumption is that more feedback must be better. Evidence suggests otherwise. Feedback can improve results, but it can also distract people from the work itself. According to Feedback Intervention Theory, performance tends to worsen when [attention shifts]({{ 'attention-shift/' | relative_url }}) away from the task and towards concerns about the self, status, ego or [identity]({{ 'identity/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://edcentral.uk/reading-list/454-the-effects-of-feedback-interventions-on-performance-a-historical-review-a-meta-analysis-and-a-preliminary-feedback-intervention-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edcentral.uk">[EdCentral]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edcentral.uk</span><span class="citation-popover-snippet">The effects of feedback interventions on performance: a...The results suggest that intervention effectiveness decreases as the...</span></span></span> ResearchGate Imagine two forms of feedback after a failed attempt to build a new habit: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/232458848_The_Effects_of_Feedback_Interventions_on_Performance_A_Historical_Review_a_Meta-Analysis_and_a_Preliminary_Feedback_Intervention_Theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) The Effects of Feedback Interventions on PerformanceA meta-analysis (607 effect sizes; 23, 663 observations) suggests t...</span></span></span>
+The common assumption is that more feedback must be better. Evidence suggests otherwise. Feedback can improve results, but it can also distract people from the work itself. According to Feedback Intervention Theory, performance tends to worsen when [attention shifts]({{ 'attention-shift/' | relative_url }}) away from the task and towards concerns about the self, status, ego or [identity]({{ 'identity/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://edcentral.uk/reading-list/454-the-effects-of-feedback-interventions-on-performance-a-historical-review-a-meta-analysis-and-a-preliminary-feedback-intervention-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edcentral.uk">[EdCentral]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edcentral.uk</span><span class="citation-popover-snippet">The effects of feedback interventions on performance: a...The results suggest that intervention effectiveness decreases as the...</span></span></span> ResearchGate Imagine two forms of feedback after a failed attempt to build a new habit:<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/232458848_The_Effects_of_Feedback_Interventions_on_Performance_A_Historical_Review_a_Meta-Analysis_and_a_Preliminary_Feedback_Intervention_Theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[researchgate.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">ResearchGate(PDF) The Effects of Feedback Interventions on PerformanceA meta-analysis (607 effect sizes; 23, 663 observations) suggests t...</span></span></span>
 
 * “Your plan did not include a trigger for when to start.”
 * “You clearly lack discipline.”
 
 The first statement focuses on a process problem. The second focuses on the person. The process-focused comment creates a practical question: what trigger should be added? The personal comment creates a psychological question: what is wrong with me?
 
-Research by Avraham Kluger and Angelo DeNisi found that interventions became less effective when they pushed attention towards self-evaluation instead of task improvement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://edcentral.uk/reading-list/454-the-effects-of-feedback-interventions-on-performance-a-historical-review-a-meta-analysis-and-a-preliminary-feedback-intervention-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edcentral.uk">[EdCentral]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edcentral.uk</span><span class="citation-popover-snippet">The effects of feedback interventions on performance: a...The results suggest that intervention effectiveness decreases as the...</span></span></span>
+Research by Avraham Kluger and Angelo DeNisi found that interventions became less effective when they pushed attention towards self-evaluation instead of task improvement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://edcentral.uk/reading-list/454-the-effects-of-feedback-interventions-on-performance-a-historical-review-a-meta-analysis-and-a-preliminary-feedback-intervention-theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edcentral.uk">[EdCentral]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edcentral.uk</span><span class="citation-popover-snippet">The effects of feedback interventions on performance: a...The results suggest that intervention effectiveness decreases as the...</span></span></span>
 
 This helps explain why some well-intentioned advice backfires. People often leave a conversation feeling judged rather than informed. They may become preoccupied with proving themselves, protecting their reputation or avoiding future criticism instead of improving the underlying behaviour.
 
@@ -326,7 +326,7 @@ Research reviews by John Hattie and Helen Timperley describe effective feedback 
 
 1. Where am I going?
 2. How am I going?
-3. Where should I go next? Sage Journals <span class="citation-chip-wrap"><a class="citation-chip" href="https://ctl.dukekunshan.edu.cn/resources/teaching-guides/feedback-for-learning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctl.dukekunshan.edu.cn">[2ctl.dukekunshan.edu.cn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctl.dukekunshan.edu.cn</span><span class="citation-popover-title">feedback for learning</span><span class="citation-popover-snippet">Effective feedback for learning is timely, specific, and encourages reflection and growth. Hattie &amp; Timperley (2007) proposed the Three F...</span></span></span>
+3. Where should I go next? Sage Journals<span class="citation-chip-wrap"><a class="citation-chip" href="https://ctl.dukekunshan.edu.cn/resources/teaching-guides/feedback-for-learning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctl.dukekunshan.edu.cn">[2ctl.dukekunshan.edu.cn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctl.dukekunshan.edu.cn</span><span class="citation-popover-title">feedback for learning</span><span class="citation-popover-snippet">Effective feedback for learning is timely, specific, and encourages reflection and growth. Hattie &amp; Timperley (2007) proposed the Three F...</span></span></span>
 
 </div>
 
@@ -381,7 +381,7 @@ A poor coach might say:
 
 That feedback is also negative, but it offers no diagnostic value.
 
-Evidence from learning and performance research suggests that feedback works best when it provides information that can guide adjustment. Feedback that merely communicates approval or disapproval is far less reliable. Sage Journals <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6987456/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by B Wisniewski · 2020 · Cited by 2019 — From this, Hattie and Timperley (2007) argued that feedback can have different perspectives...</span></span></span>
+Evidence from learning and performance research suggests that feedback works best when it provides information that can guide adjustment. Feedback that merely communicates approval or disapproval is far less reliable. Sage Journals<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6987456/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by B Wisniewski · 2020 · Cited by 2019 — From this, Hattie and Timperley (2007) argued that feedback can have different perspectives...</span></span></span>
 
 This distinction matters because many people mistakenly seek emotional certainty from feedback. They want to know whether they are doing well or badly. Effective feedback instead helps them understand what to do next.
 
@@ -478,7 +478,7 @@ Examples include:
 * Schedule exercise before work rather than after.
 * Use a checklist before submitting tasks.
 
-A next experiment transforms feedback from evaluation into learning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ctl.dukekunshan.edu.cn/resources/teaching-guides/feedback-for-learning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctl.dukekunshan.edu.cn">[ctl.dukekunshan.edu.cn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctl.dukekunshan.edu.cn</span><span class="citation-popover-title">feedback for learning</span><span class="citation-popover-snippet">Effective feedback for learning is timely, specific, and encourages reflection and growth. Hattie &amp; Timperley (2007) proposed the Three F...</span></span></span>
+A next experiment transforms feedback from evaluation into learning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ctl.dukekunshan.edu.cn/resources/teaching-guides/feedback-for-learning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ctl.dukekunshan.edu.cn">[ctl.dukekunshan.edu.cn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ctl.dukekunshan.edu.cn</span><span class="citation-popover-title">feedback for learning</span><span class="citation-popover-snippet">Effective feedback for learning is timely, specific, and encourages reflection and growth. Hattie &amp; Timperley (2007) proposed the Three F...</span></span></span>
 
 ## The Practical Test of Good Feedback
 
@@ -488,272 +488,272 @@ Ask whether it changes what you will do next.
 
 Good feedback narrows uncertainty. It clarifies the target, identifies the gap and suggests a practical adjustment. Poor feedback leaves a person feeling judged, confused or overwhelmed.
 
-In self-improvement, the goal is not to collect opinions. The goal is to obtain information that improves the next attempt. Research consistently shows that feedback is most effective when it stays close to behaviour, process and future action, and least effective when it becomes a verdict on the person receiving it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cris.huji.ac.il/en/publications/the-effects-of-feedback-interventions-on-performance-a-historical/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cris.huji.ac.il">[The Hebrew University of Jerusalem]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cris.huji.ac.il</span><span class="citation-popover-snippet">The Hebrew University of JerusalemThe effects of feedback interventions on performanceA meta-analysis (607 effect sizes; 23,663 observati...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.3102/003465430298487" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe Power of Feedback - John Hattie, Helen Timperley, 2007by J Hattie · 2007 · Cited by 28705 — This article provides a conc...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6987456/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by B Wisniewski · 2020 · Cited by 2019 — From this, Hattie and Timperley (2007) argued that feedback can have different perspectives...</span></span></span>
+In self-improvement, the goal is not to collect opinions. The goal is to obtain information that improves the next attempt. Research consistently shows that feedback is most effective when it stays close to behaviour, process and future action, and least effective when it becomes a verdict on the person receiving it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cris.huji.ac.il/en/publications/the-effects-of-feedback-interventions-on-performance-a-historical/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cris.huji.ac.il">[The Hebrew University of Jerusalem]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cris.huji.ac.il</span><span class="citation-popover-snippet">The Hebrew University of JerusalemThe effects of feedback interventions on performanceA meta-analysis (607 effect sizes; 23,663 observati...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/abs/10.3102/003465430298487" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsThe Power of Feedback - John Hattie, Helen Timperley, 2007by J Hattie · 2007 · Cited by 28705 — This article provides a conc...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6987456/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by B Wisniewski · 2020 · Cited by 2019 — From this, Hattie and Timperley (2007) argued that feedback can have different perspectives...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Feedback Helps Less Than It Hurts. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Feedback Helps Less Than It Hurts. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Crucial+Conversations+by+Kerry+Patterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crucial Conversations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PibJN5XVQRkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Crucial Conversations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Crucial+Conversations+by+Kerry+Patterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crucial Conversations">Crucial Conversations</a>
-        </h4>
-        <p class="fr-book-author">By Kerry Patterson, Joseph Grenny et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Crucial+Conversations+by+Kerry+Patterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crucial Conversations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PibJN5XVQRkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Crucial Conversations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Crucial+Conversations+by+Kerry+Patterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crucial Conversations">Crucial Conversations</a>
+</h4>
+<p class="fr-book-author">By Kerry Patterson, Joseph Grenny et al.</p>
         
-        <p class="fr-book-desc">Covers delivering difficult messages without triggering defensiveness.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Crucial+Conversations+by+Kerry+Patterson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers delivering difficult messages without triggering defensiveness.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Crucial+Conversations+by+Kerry+Patterson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Carol S. Dweck</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
-        <p class="fr-book-desc">Helps readers interpret criticism productively.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
+</h4>
+<p class="fr-book-author">By Carol S. Dweck</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
+<p class="fr-book-desc">Helps readers interpret criticism productively.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thanks+for+the+Feedback+by+Douglas+Stone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thanks for the Feedback on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VQjUrQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Thanks for the Feedback" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thanks+for+the+Feedback+by+Douglas+Stone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thanks for the Feedback">Thanks for the Feedback</a>
-        </h4>
-        <p class="fr-book-author">By Douglas Stone, Sheila Heen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thanks+for+the+Feedback+by+Douglas+Stone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thanks for the Feedback on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VQjUrQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Thanks for the Feedback" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thanks+for+the+Feedback+by+Douglas+Stone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thanks for the Feedback">Thanks for the Feedback</a>
+</h4>
+<p class="fr-book-author">By Douglas Stone, Sheila Heen</p>
         
-        <p class="fr-book-desc">Directly examines why feedback succeeds or fails.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thanks+for+the+Feedback+by+Douglas+Stone&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly examines why feedback succeeds or fails.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thanks+for+the+Feedback+by+Douglas+Stone&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dare+to+Lead+by+Bren%C3%A9+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dare to Lead on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dare+to+Lead+by+Bren%C3%A9+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dare to Lead">Dare to Lead</a>
-        </h4>
-        <p class="fr-book-author">By Brené Brown</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dare+to+Lead+by+Bren%C3%A9+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dare to Lead on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dare+to+Lead+by+Bren%C3%A9+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dare to Lead">Dare to Lead</a>
+</h4>
+<p class="fr-book-author">By Brené Brown</p>
         
-        <p class="fr-book-desc">Discusses vulnerability, coaching, and effective feedback cultures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dare+to+Lead+by+Bren%C3%A9+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses vulnerability, coaching, and effective feedback cultures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dare+to+Lead+by+Bren%C3%A9+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Crucial+Conversations&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crucial Conversations</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thanks+for+the+Feedback&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thanks for the Feedback</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Crucial+Conversations&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Crucial Conversations</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Thanks+for+the+Feedback&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thanks for the Feedback</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meeting+room+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-meeting-room-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HR Meeting Room Sign Mirror Polished Stainless Steel 458x60mm with fixings"><img src="{{ '/assets/images/marketplace-covers/9abb4168c95c308a0532.jpg' | relative_url }}" alt="Listing image for HR Meeting Room Sign Mirror Polished Stainless Steel 458x60mm with fixings" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meeting+room+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-meeting-room-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">HR Meeting Room Sign Mirror Polished Stainless Steel 458x60mm with fixings</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meeting+room+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-meeting-room-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meeting room sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: meeting room sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meeting+room+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-meeting-room-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meeting+room+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-meeting-room-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HR Meeting Room Sign Mirror Polished Stainless Steel 458x60mm with fixings"><img src="{{ '/assets/images/marketplace-covers/9abb4168c95c308a0532.jpg' | relative_url }}" alt="Listing image for HR Meeting Room Sign Mirror Polished Stainless Steel 458x60mm with fixings" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meeting+room+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-meeting-room-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">HR Meeting Room Sign Mirror Polished Stainless Steel 458x60mm with fixings</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meeting+room+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-meeting-room-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meeting room sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: meeting room sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meeting+room+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-meeting-room-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meeting+room+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-meeting-room-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Office Door Sign, Meeting Room Available In Use, Silver, Black Letters, 1 Pcs"><img src="{{ '/assets/images/marketplace-covers/983c8ecfab72bf8e9baf.jpg' | relative_url }}" alt="Listing image for Office Door Sign, Meeting Room Available In Use, Silver, Black Letters, 1 Pcs" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meeting+room+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-meeting-room-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Office Door Sign, Meeting Room Available In Use, Silver, Black Letters, 1 Pcs</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meeting+room+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-meeting-room-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meeting room sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: meeting room sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meeting+room+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-meeting-room-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meeting+room+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-meeting-room-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Office Door Sign, Meeting Room Available In Use, Silver, Black Letters, 1 Pcs"><img src="{{ '/assets/images/marketplace-covers/983c8ecfab72bf8e9baf.jpg' | relative_url }}" alt="Listing image for Office Door Sign, Meeting Room Available In Use, Silver, Black Letters, 1 Pcs" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meeting+room+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-meeting-room-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Office Door Sign, Meeting Room Available In Use, Silver, Black Letters, 1 Pcs</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meeting+room+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-meeting-room-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meeting room sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: meeting room sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meeting+room+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-meeting-room-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meeting+room+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-meeting-room-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Office Door Sign Sticker or Acrylic Plaque, Staff Only / Private etc, 2 Sizes"><img src="{{ '/assets/images/marketplace-covers/f6335328231e9e88fae3.jpg' | relative_url }}" alt="Listing image for Office Door Sign Sticker or Acrylic Plaque, Staff Only / Private etc, 2 Sizes" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meeting+room+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-meeting-room-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Office Door Sign Sticker or Acrylic Plaque, Staff Only / Private etc, 2 Sizes</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meeting+room+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-meeting-room-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meeting room sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: meeting room sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meeting+room+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-meeting-room-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meeting+room+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-meeting-room-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Office Door Sign Sticker or Acrylic Plaque, Staff Only / Private etc, 2 Sizes"><img src="{{ '/assets/images/marketplace-covers/f6335328231e9e88fae3.jpg' | relative_url }}" alt="Listing image for Office Door Sign Sticker or Acrylic Plaque, Staff Only / Private etc, 2 Sizes" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meeting+room+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-meeting-room-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Office Door Sign Sticker or Acrylic Plaque, Staff Only / Private etc, 2 Sizes</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meeting+room+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-meeting-room-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meeting room sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: meeting room sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meeting+room+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-meeting-room-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meeting+room+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-meeting-room-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Meeting Room Door Sign Silver Aluminium 203 x 51mm Self Adhesive Office Business"><img src="{{ '/assets/images/marketplace-covers/97d735755b5def5c5443.jpg' | relative_url }}" alt="Listing image for Meeting Room Door Sign Silver Aluminium 203 x 51mm Self Adhesive Office Business" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meeting+room+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-meeting-room-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Meeting Room Door Sign Silver Aluminium 203 x 51mm Self Adhesive Office Business</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meeting+room+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-meeting-room-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meeting room sign">Search <span data-ebay-domain-label>eBay.co.uk</span>: meeting room sign</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meeting+room+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-meeting-room-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=meeting+room+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-meeting-room-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meeting+room+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-meeting-room-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Meeting Room Door Sign Silver Aluminium 203 x 51mm Self Adhesive Office Business"><img src="{{ '/assets/images/marketplace-covers/97d735755b5def5c5443.jpg' | relative_url }}" alt="Listing image for Meeting Room Door Sign Silver Aluminium 203 x 51mm Self Adhesive Office Business" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meeting+room+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-meeting-room-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Meeting Room Door Sign Silver Aluminium 203 x 51mm Self Adhesive Office Business</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meeting+room+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-meeting-room-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meeting room sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: meeting room sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meeting+room+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-meeting-room-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=meeting+room+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bad-feedback-when-feedback-helps-less-than-it-hurts-self-improvement-that-works-meeting-room-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -769,7 +769,7 @@ In self-improvement, the goal is not to collect opinions. The goal is to obtain 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -789,7 +789,7 @@ In self-improvement, the goal is not to collect opinions. The goal is to obtain 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -821,7 +821,7 @@ In self-improvement, the goal is not to collect opinions. The goal is to obtain 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -851,7 +851,7 @@ In self-improvement, the goal is not to collect opinions. The goal is to obtain 
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -909,146 +909,146 @@ In self-improvement, the goal is not to collect opinions. The goal is to obtain 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/232458848_The_Effects_of_Feedback_Interventions_on_Performance_A_Historical_Review_a_Meta-Analysis_and_a_Preliminary_Feedback_Intervention_Theory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232458848_The_Effects_of_Feedback_Interventions_on_Performance_A_Historical_Review_a_Meta-Analysis_and_a_Preliminary_Feedback_Intervention_Theory</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) The Effects of Feedback Interventions on PerformanceA meta-analysis (607 effect sizes; 23, 663 observations) suggests t...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/232458848_The_Effects_of_Feedback_Interventions_on_Performance_A_Historical_Review_a_Meta-Analysis_and_a_Preliminary_Feedback_Intervention_Theory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232458848_The_Effects_of_Feedback_Interventions_on_Performance_A_Historical_Review_a_Meta-Analysis_and_a_Preliminary_Feedback_Intervention_Theory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) The Effects of Feedback Interventions on PerformanceA meta-analysis (607 effect sizes; 23, 663 observations) suggests t...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: edcentral.uk  
-   Link: <a href="https://edcentral.uk/reading-list/454-the-effects-of-feedback-interventions-on-performance-a-historical-review-a-meta-analysis-and-a-preliminary-feedback-intervention-theory" target="_blank" rel="noopener noreferrer nofollow">https://edcentral.uk/reading-list/454-the-effects-of-feedback-interventions-on-performance-a-historical-review-a-meta-analysis-and-a-preliminary-feedback-intervention-theory</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The effects of feedback interventions on performance: a...The results suggest that intervention effectiveness decreases as the...</p></details>
+   Link:<a href="https://edcentral.uk/reading-list/454-the-effects-of-feedback-interventions-on-performance-a-historical-review-a-meta-analysis-and-a-preliminary-feedback-intervention-theory" target="_blank" rel="noopener noreferrer nofollow">https://edcentral.uk/reading-list/454-the-effects-of-feedback-interventions-on-performance-a-historical-review-a-meta-analysis-and-a-preliminary-feedback-intervention-theory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The effects of feedback interventions on performance: a...The results suggest that intervention effectiveness decreases as the...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ctl.dukekunshan.edu.cn  
    Title: feedback for learning  
-   Link: <a href="https://ctl.dukekunshan.edu.cn/resources/teaching-guides/feedback-for-learning" target="_blank" rel="noopener noreferrer nofollow">https://ctl.dukekunshan.edu.cn/resources/teaching-guides/feedback-for-learning</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effective feedback for learning is timely, specific, and encourages reflection and growth. Hattie &amp; Timperley (2007) proposed the Three F...</p></details>
+   Link:<a href="https://ctl.dukekunshan.edu.cn/resources/teaching-guides/feedback-for-learning" target="_blank" rel="noopener noreferrer nofollow">https://ctl.dukekunshan.edu.cn/resources/teaching-guides/feedback-for-learning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effective feedback for learning is timely, specific, and encourages reflection and growth. Hattie &amp; Timperley (2007) proposed the Three F...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6987456/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6987456/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Wisniewski · 2020 · Cited by 2019 — From this, Hattie and Timperley (2007) argued that feedback can have different perspectives...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6987456/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6987456/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by B Wisniewski · 2020 · Cited by 2019 — From this, Hattie and Timperley (2007) argued that feedback can have different perspectives...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
    Title: Can 360-degree appraisals be improved?  
-   Link: <a href="https://www.researchgate.net/publication/294610550_Feedback_effectiveness_Can_360-degree_appraisals_be_improved" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/294610550_Feedback_effectiveness_Can_360-degree_appraisals_be_improved</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FeedbackFor example, Kluger and DeNisi (1996) conducted a meta-analysis of feedback interventions generally, defined as &quot;actions taken by...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/294610550_Feedback_effectiveness_Can_360-degree_appraisals_be_improved" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/294610550_Feedback_effectiveness_Can_360-degree_appraisals_be_improved</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FeedbackFor example, Kluger and DeNisi (1996) conducted a meta-analysis of feedback interventions generally, defined as &quot;actions taken by...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/337061836_Organizational_Responses_to_Performance_Feedback_A_Meta-Analytic_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/337061836_Organizational_Responses_to_Performance_Feedback_A_Meta-Analytic_Review</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>anizational Responses to Performance FeedbackWe conducted a meta-analytic review of 113 empirical studies to statistically evaluate ho...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/337061836_Organizational_Responses_to_Performance_Feedback_A_Meta-Analytic_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/337061836_Organizational_Responses_to_Performance_Feedback_A_Meta-Analytic_Review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>anizational Responses to Performance FeedbackWe conducted a meta-analytic review of 113 empirical studies to statistically evaluate ho...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cris.huji.ac.il  
-   Link: <a href="https://cris.huji.ac.il/en/publications/the-effects-of-feedback-interventions-on-performance-a-historical/" target="_blank" rel="noopener noreferrer nofollow">https://cris.huji.ac.il/en/publications/the-effects-of-feedback-interventions-on-performance-a-historical/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hebrew University of JerusalemThe effects of feedback interventions on performanceA meta-analysis (607 effect sizes; 23,663 observati...</p></details>
+   Link:<a href="https://cris.huji.ac.il/en/publications/the-effects-of-feedback-interventions-on-performance-a-historical/" target="_blank" rel="noopener noreferrer nofollow">https://cris.huji.ac.il/en/publications/the-effects-of-feedback-interventions-on-performance-a-historical/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Hebrew University of JerusalemThe effects of feedback interventions on performanceA meta-analysis (607 effect sizes; 23,663 observati...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: mrbartonmaths.com  
    Title: The effects of feedback interventions  
-   Link: <a href="https://www.mrbartonmaths.com/resourcesnew/8.%20Research/Marking%20and%20Feedback/The%20effects%20of%20feedback%20interventions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mrbartonmaths.com/resourcesnew/8.%20Research/Marking%20and%20Feedback/The%20effects%20of%20feedback%20interventions.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>mr barton mathsThe Effects of Feedback Interventions on Performanceby A DeNisi · 1996 · Cited by 10422 — A meta-analysis (607 effect size...</p></details>
+   Link:<a href="https://www.mrbartonmaths.com/resourcesnew/8.%20Research/Marking%20and%20Feedback/The%20effects%20of%20feedback%20interventions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.mrbartonmaths.com/resourcesnew/8.%20Research/Marking%20and%20Feedback/The%20effects%20of%20feedback%20interventions.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mr barton mathsThe Effects of Feedback Interventions on Performanceby A DeNisi · 1996 · Cited by 10422 — A meta-analysis (607 effect size...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/abs/10.3102/003465430298487" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.3102/003465430298487</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsThe Power of Feedback - John Hattie, Helen Timperley, 2007by J Hattie · 2007 · Cited by 28705 — This article provides a conc...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/abs/10.3102/003465430298487" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/abs/10.3102/003465430298487</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsThe Power of Feedback - John Hattie, Helen Timperley, 2007by J Hattie · 2007 · Cited by 28705 — This article provides a conc...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/feedback" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/feedback</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English [meaning](&amp;#123;&amp;#123; &#x27;meaning/&#x27; | relative_url &amp;#125;&amp;#125;) - Cambridge Dictionary7 days ago — information about something such as a new product or someone&#x27;s work, that provides a...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/feedback" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/feedback</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English [meaning](&amp;#123;&amp;#123; &#x27;meaning/&#x27; | relative_url &amp;#125;&amp;#125;) - Cambridge Dictionary7 days ago — information about something such as a new product or someone&#x27;s work, that provides a...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/us/dictionary/english/feedback" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/feedback</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>definition in the Cambridge English Dictionaryinformation about something such as a new product or someone&#x27;s work, that provides an ide...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/us/dictionary/english/feedback" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/us/dictionary/english/feedback</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>definition in the Cambridge English Dictionaryinformation about something such as a new product or someone&#x27;s work, that provides an ide...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.3102/003465430298487" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.3102/003465430298487</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Power of Feedback - John Hattie, Helen Timperley, 2007...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.3102/003465430298487" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.3102/003465430298487</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Power of Feedback - John Hattie, Helen Timperley, 2007...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: methods.sagepub.com  
    Title: feedback intervention theory  
-   Link: <a href="https://methods.sagepub.com/ency/edvol/sage-encyclopedia-of-educational-research-measurement-evaluation/chpt/feedback-intervention-theory" target="_blank" rel="noopener noreferrer nofollow">https://methods.sagepub.com/ency/edvol/sage-encyclopedia-of-educational-research-measurement-evaluation/chpt/feedback-intervention-theory</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Intervention Theory... meta-analysis indicated that, in almost one third of the cases, feedback had a negative effect on subsequent perfo...</p></details>
+   Link:<a href="https://methods.sagepub.com/ency/edvol/sage-encyclopedia-of-educational-research-measurement-evaluation/chpt/feedback-intervention-theory" target="_blank" rel="noopener noreferrer nofollow">https://methods.sagepub.com/ency/edvol/sage-encyclopedia-of-educational-research-measurement-evaluation/chpt/feedback-intervention-theory</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Intervention Theory... meta-analysis indicated that, in almost one third of the cases, feedback had a negative effect on subsequent perfo...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4170834/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4170834/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby SJ Hysong · 2009 · Cited by 397 — This meta-analytic study tested whether Feedback Intervention Theory, a framework from indu...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4170834/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4170834/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby SJ Hysong · 2009 · Cited by 397 — This meta-analytic study tested whether Feedback Intervention Theory, a framework from indu...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: scribd.com  
    Title: The Power of Feedback  
-   Link: <a href="https://www.scribd.com/document/142398477/The-Power-of-Feedback-Hattie-and-Timperley" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/142398477/The-Power-of-Feedback-Hattie-and-Timperley</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hattie and Timperley | PDFThe Power of Feedback - Hattie and Timperley - Free download as PDF File (.pdf), Text File (.txt) or read onlin...</p></details>
+   Link:<a href="https://www.scribd.com/document/142398477/The-Power-of-Feedback-Hattie-and-Timperley" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/142398477/The-Power-of-Feedback-Hattie-and-Timperley</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hattie and Timperley | PDFThe Power of Feedback - Hattie and Timperley - Free download as PDF File (.pdf), Text File (.txt) or read onlin...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/702759844/The-Effects-of-Feedback-Interventions" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/702759844/The-Effects-of-Feedback-Interventions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>, and a Preliminary Feedback Intervention TheoryRead more...</p></details>
+   Link:<a href="https://www.scribd.com/document/702759844/The-Effects-of-Feedback-Interventions" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/702759844/The-Effects-of-Feedback-Interventions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>, and a Preliminary Feedback Intervention TheoryRead more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: theory-database.hbcptools.org  
-   Link: <a href="https://theory-database.hbcptools.org/theory/17" target="_blank" rel="noopener noreferrer nofollow">https://theory-database.hbcptools.org/theory/17</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>N., &amp; DeNisi, A. (1996). The effects of feedback interventions on performance: A historical review, a meta-analysis, and a preliminary fe...</p></details>
+   Link:<a href="https://theory-database.hbcptools.org/theory/17" target="_blank" rel="noopener noreferrer nofollow">https://theory-database.hbcptools.org/theory/17</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>N., &amp; DeNisi, A. (1996). The effects of feedback interventions on performance: A historical review, a meta-analysis, and a preliminary fe...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pluto.huji.ac.il  
-   Link: <a href="https://pluto.huji.ac.il/~mskluger/KeyPubs.html" target="_blank" rel="noopener noreferrer nofollow">https://pluto.huji.ac.il/~mskluger/KeyPubs.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>N Kluger -- Key publicationsAvraham N Kluger... The Effects of Feedback Interventions on Performance: Historical Review, a. Meta-Analysi...</p></details>
+   Link:<a href="https://pluto.huji.ac.il/~mskluger/KeyPubs.html" target="_blank" rel="noopener noreferrer nofollow">https://pluto.huji.ac.il/~mskluger/KeyPubs.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>N Kluger -- Key publicationsAvraham N Kluger... The Effects of Feedback Interventions on Performance: Historical Review, a. Meta-Analysi...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: dixieching.wordpress.com  
-   Link: <a href="https://dixieching.wordpress.com/2011/01/13/the-effects-of-feedback-interventions-on-performance-a-historical-review-a-meta-analysis-and-a-preliminary-feedback-intervention-theory-kluger-denisi-1996/" target="_blank" rel="noopener noreferrer nofollow">https://dixieching.wordpress.com/2011/01/13/the-effects-of-feedback-interventions-on-performance-a-historical-review-a-meta-analysis-and-a-preliminary-feedback-intervention-theory-kluger-denisi-1996/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of Feedback Interventions on Performance: A...13 Jan 2011 — The effects of feedback interventions on performance: A historical r...</p></details>
+   Link:<a href="https://dixieching.wordpress.com/2011/01/13/the-effects-of-feedback-interventions-on-performance-a-historical-review-a-meta-analysis-and-a-preliminary-feedback-intervention-theory-kluger-denisi-1996/" target="_blank" rel="noopener noreferrer nofollow">https://dixieching.wordpress.com/2011/01/13/the-effects-of-feedback-interventions-on-performance-a-historical-review-a-meta-analysis-and-a-preliminary-feedback-intervention-theory-kluger-denisi-1996/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of Feedback Interventions on Performance: A...13 Jan 2011 — The effects of feedback interventions on performance: A historical r...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/feedback" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/feedback</a>  
+   Link:<a href="https://www.merriam-webster.com/dictionary/feedback" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/feedback</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: bera.ac.uk  
-   Link: <a href="https://www.bera.ac.uk/blog/how-to-optimise-the-use-of-hattie-and-timperleys-feedback-levels-for-student-learning" target="_blank" rel="noopener noreferrer nofollow">https://www.bera.ac.uk/blog/how-to-optimise-the-use-of-hattie-and-timperleys-feedback-levels-for-student-learning</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to optimise the use of Hattie and Timperley&#x27;s feedback...7 Dec 2023 — This blog post outlines how the four levels are useful for the...</p></details>
+   Link:<a href="https://www.bera.ac.uk/blog/how-to-optimise-the-use-of-hattie-and-timperleys-feedback-levels-for-student-learning" target="_blank" rel="noopener noreferrer nofollow">https://www.bera.ac.uk/blog/how-to-optimise-the-use-of-hattie-and-timperleys-feedback-levels-for-student-learning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to optimise the use of Hattie and Timperley&#x27;s feedback...7 Dec 2023 — This blog post outlines how the four levels are useful for the...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: coppa.es  
-   Link: <a href="https://www.coppa.es/gestor/uploads/programas/inpractice_2020_2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.coppa.es/gestor/uploads/programas/inpractice_2020_2.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In a recent review of PM literature, DeNisi and Murphy (2017) highlight the body...Read more...</p></details>
+   Link:<a href="https://www.coppa.es/gestor/uploads/programas/inpractice_2020_2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.coppa.es/gestor/uploads/programas/inpractice_2020_2.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In a recent review of PM literature, DeNisi and Murphy (2017) highlight the body...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: tipsforteachers.co.uk  
-   Link: <a href="https://tipsforteachers.co.uk/research-the-effects-of-feedback-interventions-on-performance/" target="_blank" rel="noopener noreferrer nofollow">https://tipsforteachers.co.uk/research-the-effects-of-feedback-interventions-on-performance/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This suggests that the assumption that feedback always helps is incorrect. The...Read more...</p></details>
+   Link:<a href="https://tipsforteachers.co.uk/research-the-effects-of-feedback-interventions-on-performance/" target="_blank" rel="noopener noreferrer nofollow">https://tipsforteachers.co.uk/research-the-effects-of-feedback-interventions-on-performance/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This suggests that the assumption that feedback always helps is incorrect. The...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: visible-learning.org  
    Title: john hattie helen timperley visible learning and feedback  
-   Link: <a href="https://visible-learning.org/2013/02/john-hattie-helen-timperley-visible-learning-and-feedback/" target="_blank" rel="noopener noreferrer nofollow">https://visible-learning.org/2013/02/john-hattie-helen-timperley-visible-learning-and-feedback/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>John Hattie &amp; Helen Timperley8 Feb 2013 — Hattie and Timperley demonstrate how feedback can be used to enhance teachers effectiveness in...</p></details>
+   Link:<a href="https://visible-learning.org/2013/02/john-hattie-helen-timperley-visible-learning-and-feedback/" target="_blank" rel="noopener noreferrer nofollow">https://visible-learning.org/2013/02/john-hattie-helen-timperley-visible-learning-and-feedback/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John Hattie &amp; Helen Timperley8 Feb 2013 — Hattie and Timperley demonstrate how feedback can be used to enhance teachers effectiveness in...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: publications.aaahq.org  
    Title: Who Are You to Tell Me That The Moderating Effect  
-   Link: <a href="https://publications.aaahq.org/jmar/article/29/2/33/604/Who-Are-You-to-Tell-Me-That-The-Moderating-Effect" target="_blank" rel="noopener noreferrer nofollow">https://publications.aaahq.org/jmar/article/29/2/33/604/Who-Are-You-to-Tell-Me-That-The-Moderating-Effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Moderating Effect...1 Jun 2017 — The effects of feedback interventions on performance: A historical review, a meta-analysis, and a p...</p></details>
+   Link:<a href="https://publications.aaahq.org/jmar/article/29/2/33/604/Who-Are-You-to-Tell-Me-That-The-Moderating-Effect" target="_blank" rel="noopener noreferrer nofollow">https://publications.aaahq.org/jmar/article/29/2/33/604/Who-Are-You-to-Tell-Me-That-The-Moderating-Effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Moderating Effect...1 Jun 2017 — The effects of feedback interventions on performance: A historical review, a meta-analysis, and a p...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: Identity Crisis: Why Defining Yourself by Your Career Is a Problem  
-   Link: <a href="https://www.youtube.com/watch?v=L5lsYI0Q8zw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=L5lsYI0Q8zw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why feedback reduces performance Kluger DeNisi psychology Exponential Talent | Dr Avraham Kluger Feedback What works and new frontiers Hu...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=L5lsYI0Q8zw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=L5lsYI0Q8zw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why feedback reduces performance Kluger DeNisi psychology Exponential Talent | Dr Avraham Kluger Feedback What works and new frontiers Hu...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: feedbackfruits.com  
-   Link: <a href="https://feedbackfruits.com/blog/feedback-the-key-to-better-teaching-and-learning" target="_blank" rel="noopener noreferrer nofollow">https://feedbackfruits.com/blog/feedback-the-key-to-better-teaching-and-learning</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>d learning, and the mediators for effective feedback...</p></details>
+   Link:<a href="https://feedbackfruits.com/blog/feedback-the-key-to-better-teaching-and-learning" target="_blank" rel="noopener noreferrer nofollow">https://feedbackfruits.com/blog/feedback-the-key-to-better-teaching-and-learning</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>d learning, and the mediators for effective feedback...</p></details>

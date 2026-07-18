@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /self-improvement-tha-c01280-behaviour/
 description: Focused pages that expand on Techniques.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: self_improvement_tha_c01280_behaviour_change_tax_24790f
 parent_title: Techniques
@@ -16,7 +16,7 @@ parent_permalink: /techniques/
 
 # Explore Topics in Techniques
 
-The following pages expand on the main **[Techniques]({{ '/techniques/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Techniques]({{ '/techniques/' | relative_url }})** page and cover its key branches in.
 
 - [Restructure]({{ '/restructure/' | relative_url }})
 - [Missing Ingredient]({{ '/missing-ingredient/' | relative_url }})

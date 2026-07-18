@@ -268,7 +268,7 @@ image: /assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_se
 
 ## Introduction
 
-Most self-help advice sounds bigger than it is. A book may promise discipline, consistency, confidence or motivation, but those words do not tell you what is actually supposed to change. The [Behaviour Change]({{ 'behaviour-change/' | relative_url }}) Technique Taxonomy offers a more practical question: what techniques are being used underneath the promise? Instead of evaluating slogans, you look for identifiable ingredients such as goal setting, action planning, self-monitoring, prompts, feedback, [social support]({{ 'social-support/' | relative_url }}) or environmental restructuring. The taxonomy was created to make behaviour-change interventions describable and testable rather than vague. It organises 93 distinct behaviour change techniques into a shared framework that researchers and practitioners can identify and compare. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8845 — &quot;BCT taxonomy v1,&quot; an extensive taxonomy...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://openaccess.city.ac.uk/3293/1/Michie%20et%20al%20Annals%20of%20Behavioral%20Medicine%202013%20-%20BCT%20Taxonomy%20v1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openaccess.city.ac.uk">[City Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openaccess.city.ac.uk</span><span class="citation-popover-title">Michie et al Annals of Behavioral Medicine 2013 BCT Taxonomy v1</span><span class="citation-popover-snippet">City Research OnlineMichie et al Annals of Behavioral Medicine 2013by S Michie · 2013 · Cited by 8746 — The Behavior Change Technique Tax...</span></span></span>
+Most self-help advice sounds bigger than it is. A book may promise discipline, consistency, confidence or motivation, but those words do not tell you what is actually supposed to change. The [Behaviour Change]({{ 'behaviour-change/' | relative_url }}) Technique Taxonomy offers a more practical question: what techniques are being used underneath the promise? Instead of evaluating slogans, you look for identifiable ingredients such as goal setting, action planning, self-monitoring, prompts, feedback, [social support]({{ 'social-support/' | relative_url }}) or environmental restructuring. The taxonomy was created to make behaviour-change interventions describable and testable rather than vague. It organises 93 distinct behaviour change techniques into a shared framework that researchers and practitioners can identify and compare.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8845 — &quot;BCT taxonomy v1,&quot; an extensive taxonomy...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://openaccess.city.ac.uk/3293/1/Michie%20et%20al%20Annals%20of%20Behavioral%20Medicine%202013%20-%20BCT%20Taxonomy%20v1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openaccess.city.ac.uk">[City Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openaccess.city.ac.uk</span><span class="citation-popover-title">Michie et al Annals of Behavioral Medicine 2013 BCT Taxonomy v1</span><span class="citation-popover-snippet">City Research OnlineMichie et al Annals of Behavioral Medicine 2013by S Michie · 2013 · Cited by 8746 — The Behavior Change Technique Tax...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_self_help_claim_chec_e280d6-Illustration-1-dark.svg" | relative_url }}" alt="Claim Check illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_self_help_claim_chec_e280d6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_behaviour_change_tax_24790f_self_help_claim_chec_e280d6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For readers of self-help material, this creates a useful habit. Rather than asking whether a book sounds inspiring, you can ask what it is asking you to do, how that mechanism is expected to work, and whether the active ingredients match the behaviour you are trying to change.
@@ -291,7 +291,7 @@ Many self-help products rely on language that feels concrete but is actually dif
 
 None of these statements identifies a technique. They describe outcomes, identities or aspirations.
 
-The taxonomy encourages a different reading. When a programme says “get serious about your goals”, does it actually include behavioural [goal setting]({{ 'goal-setting/' | relative_url }})? Does it ask you to specify when, where and how a behaviour will occur through action planning? Does it include regular review of progress? These are distinct techniques rather than interchangeable ideas. The taxonomy explicitly separates goal setting, action planning, self-monitoring, [feedback]({{ 'feedback/' | relative_url }}) and many other components because each represents a different mechanism of change. <span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalwellbeing.org">[digitalwellbeing.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalwellbeing.org</span><span class="citation-popover-snippet">i BCT Taxonomy (v1): 93 hierarchically-clustered techniquesNote: evidence of action planning does not necessarily imply goal setting...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bct-taxonomy.com/about" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bct-taxonomy.com">[BCT Taxonomy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bct-taxonomy.com</span><span class="citation-popover-snippet">Behaviour Change Technique TaxonomyA cross-domain, hierarchically structured taxonomy of 93 distinct BCTs with labels, definitions and ex...</span></span></span>
+The taxonomy encourages a different reading. When a programme says “get serious about your goals”, does it actually include behavioural [goal setting]({{ 'goal-setting/' | relative_url }})? Does it ask you to specify when, where and how a behaviour will occur through action planning? Does it include regular review of progress? These are distinct techniques rather than interchangeable ideas. The taxonomy explicitly separates goal setting, action planning, self-monitoring, [feedback]({{ 'feedback/' | relative_url }}) and many other components because each represents a different mechanism of change.<span class="citation-chip-wrap"><a class="citation-chip" href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: digitalwellbeing.org">[digitalwellbeing.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">digitalwellbeing.org</span><span class="citation-popover-snippet">i BCT Taxonomy (v1): 93 hierarchically-clustered techniquesNote: evidence of action planning does not necessarily imply goal setting...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bct-taxonomy.com/about" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bct-taxonomy.com">[BCT Taxonomy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bct-taxonomy.com</span><span class="citation-popover-snippet">Behaviour Change Technique TaxonomyA cross-domain, hierarchically structured taxonomy of 93 distinct BCTs with labels, definitions and ex...</span></span></span>
 
 For example, a productivity app may advertise accountability. Looking through the taxonomy lens reveals that accountability could mean several different things:
 
@@ -299,7 +299,7 @@ For example, a productivity app may advertise accountability. Looking through th
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Monitoring of behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nice.org.uk/guidance/ng183/chapter/Recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nice.org.uk">[nice.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nice.org.uk</span><span class="citation-popover-snippet">Behaviour change: digital and mobile health interventions7 Oct 2020 — These include: goals and planning, feedback and monitoring, and soc...</span></span></span>
+* Monitoring of behaviour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nice.org.uk/guidance/ng183/chapter/Recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nice.org.uk">[nice.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nice.org.uk</span><span class="citation-popover-snippet">Behaviour change: digital and mobile health interventions7 Oct 2020 — These include: goals and planning, feedback and monitoring, and soc...</span></span></span>
 * Feedback on performance.
 * Commitment devices.
 * Public reporting of progress.
@@ -329,7 +329,7 @@ A coach might present a proprietary “success system” that consists largely o
 
 Those elements may still be useful. The point is not that repackaging is deceptive. The point is that readers can recognise the underlying ingredients and evaluate them independently of the marketing.
 
-The taxonomy was originally developed because interventions were often described too vaguely for researchers to know what they contained. If an intervention is labelled simply as “coaching”, “education” or “support”, different readers may imagine completely different methods. The taxonomy attempts to make those methods visible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://openaccess.city.ac.uk/3293/1/Michie%20et%20al%20Annals%20of%20Behavioral%20Medicine%202013%20-%20BCT%20Taxonomy%20v1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openaccess.city.ac.uk">[City Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openaccess.city.ac.uk</span><span class="citation-popover-title">Michie et al Annals of Behavioral Medicine 2013 BCT Taxonomy v1</span><span class="citation-popover-snippet">City Research OnlineMichie et al Annals of Behavioral Medicine 2013by S Michie · 2013 · Cited by 8746 — The Behavior Change Technique Tax...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/abm/article/46/1/81/4563254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicBehavior Change Technique Taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8845 — An extensive taxonomy of 93 consensuall...</span></span></span>
+The taxonomy was originally developed because interventions were often described too vaguely for researchers to know what they contained. If an intervention is labelled simply as “coaching”, “education” or “support”, different readers may imagine completely different methods. The taxonomy attempts to make those methods visible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://openaccess.city.ac.uk/3293/1/Michie%20et%20al%20Annals%20of%20Behavioral%20Medicine%202013%20-%20BCT%20Taxonomy%20v1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: openaccess.city.ac.uk">[City Research Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">openaccess.city.ac.uk</span><span class="citation-popover-title">Michie et al Annals of Behavioral Medicine 2013 BCT Taxonomy v1</span><span class="citation-popover-snippet">City Research OnlineMichie et al Annals of Behavioral Medicine 2013by S Michie · 2013 · Cited by 8746 — The Behavior Change Technique Tax...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://academic.oup.com/abm/article/46/1/81/4563254" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicBehavior Change Technique Taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8845 — An extensive taxonomy of 93 consensuall...</span></span></span>
 
 When reading self-help claims, it can help to ask three questions:
 
@@ -337,7 +337,7 @@ When reading self-help claims, it can help to ask three questions:
 
 * What behaviour is being targeted?
 * Which specific techniques are being used?
-* How are those techniques expected to influence behaviour? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.more-life.co.uk/research-and-studies/behaviour-change-techniques/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: more-life.co.uk">[more-life.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">more-life.co.uk</span><span class="citation-popover-title">behaviour change techniques</span><span class="citation-popover-snippet">Research 2025: Behaviour Change TechniquesNICE recommends identifying combinations of behaviour change techniques and modes of delivery t...</span></span></span>
+* How are those techniques expected to influence behaviour?<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.more-life.co.uk/research-and-studies/behaviour-change-techniques/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: more-life.co.uk">[more-life.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">more-life.co.uk</span><span class="citation-popover-title">behaviour change techniques</span><span class="citation-popover-snippet">Research 2025: Behaviour Change TechniquesNICE recommends identifying combinations of behaviour change techniques and modes of delivery t...</span></span></span>
 
 </div>
 
@@ -352,7 +352,7 @@ Many self-help resources spend substantial time explaining why a behaviour matte
 
 Imagine a reader who wants to exercise regularly. A book might provide dozens of pages about the benefits of exercise and the importance of commitment. But if it never helps the reader create an action plan, establish prompts, monitor behaviour or solve practical barriers, important active ingredients may be missing.
 
-Research and guidance in behaviour change repeatedly highlight clusters such as goals and planning, feedback and monitoring, and social support as important intervention components. NICE guidance specifically discusses these categories rather than treating behaviour change as a matter of information alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nice.org.uk/guidance/ph49" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nice.org.uk">[NICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nice.org.uk</span><span class="citation-popover-snippet">Behaviour change: individual approaches &#124; Guidance2 Jan 2014 — This guideline covers changing health-damaging behaviours among people...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nice.org.uk/guidance/ng183/chapter/Recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nice.org.uk">[NICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nice.org.uk</span><span class="citation-popover-snippet">Behaviour change: digital and mobile health interventions7 Oct 2020 — These include: goals and planning, feedback and monitoring, and soc...</span></span></span>
+Research and guidance in behaviour change repeatedly highlight clusters such as goals and planning, feedback and monitoring, and social support as important intervention components. NICE guidance specifically discusses these categories rather than treating behaviour change as a matter of information alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nice.org.uk/guidance/ph49" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nice.org.uk">[NICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nice.org.uk</span><span class="citation-popover-snippet">Behaviour change: individual approaches &#124; Guidance2 Jan 2014 — This guideline covers changing health-damaging behaviours among people...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nice.org.uk/guidance/ng183/chapter/Recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nice.org.uk">[NICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nice.org.uk</span><span class="citation-popover-snippet">Behaviour change: digital and mobile health interventions7 Oct 2020 — These include: goals and planning, feedback and monitoring, and soc...</span></span></span>
 
 This does not mean every successful intervention requires every technique. It means readers should be cautious when a programme offers mainly explanation and inspiration while providing few mechanisms for turning intentions into action.
 
@@ -370,7 +370,7 @@ Consider someone who repeatedly forgets to practise a desired behaviour. A combi
 
 Now consider a programme that includes affirmations, journalling, goal setting, visualisation, public commitments, rewards, [reminders]({{ 'reminders/' | relative_url }}), daily challenges, habit tracking and several other components without a clear rationale. The intervention may look sophisticated, but the reader can no longer tell which ingredients matter.
 
-The taxonomy helps separate purposeful combinations from technique clutter because each component can be identified and justified. Researchers increasingly use taxonomies and related frameworks to specify intervention content precisely for this reason. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bmjopen.bmj.com/content/10/9/e036500" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmjopen.bmj.com">[BMJ Open]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmjopen.bmj.com</span><span class="citation-popover-snippet">BMJ OpenUsing the behaviour change technique taxonomy v1...by C Scott · 2020 · Cited by 31 — The aim of this study was to identify which...</span></span></span>
+The taxonomy helps separate purposeful combinations from technique clutter because each component can be identified and justified. Researchers increasingly use taxonomies and related frameworks to specify intervention content precisely for this reason.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bmjopen.bmj.com/content/10/9/e036500" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmjopen.bmj.com">[BMJ Open]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmjopen.bmj.com</span><span class="citation-popover-snippet">BMJ OpenUsing the behaviour change technique taxonomy v1...by C Scott · 2020 · Cited by 31 — The aim of this study was to identify which...</span></span></span>
 
 The question becomes: what problem is each technique solving?
 
@@ -395,199 +395,199 @@ The biggest benefit of the taxonomy is not that it tells you which book to buy o
 
 Instead of asking whether a message feels motivating, you ask what behavioural ingredients it contains. Instead of treating success as proof that a philosophy is correct, you look for the techniques that may have contributed to the outcome. Instead of accepting broad promises about discipline or consistency, you examine whether the intervention includes planning, monitoring, feedback, support, prompts or environmental changes that can realistically influence behaviour.
 
-A named technique is not automatically effective, and no taxonomy can guarantee success. But a named technique is easier to inspect, test and improve than a slogan. That shift—from promises to mechanisms—is one of the most practical ways the Behaviour Change Technique Taxonomy can help readers navigate the crowded world of self-improvement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8845 — &quot;BCT taxonomy v1,&quot; an extensive taxonomy...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bct-taxonomy.com/pdf/StarterPack.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bct-taxonomy.com">[BCT Taxonomy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bct-taxonomy.com</span><span class="citation-popover-snippet">Starter Packby S Michie¹ — Examples of BCTs are: &#x27;Prompts/cues&#x27;, &#x27;Information about health consequences&#x27;, &#x27;Incentive&#x27;, &#x27;Goal setting &#x27;, &#x27;...</span></span></span>
+A named technique is not automatically effective, and no taxonomy can guarantee success. But a named technique is easier to inspect, test and improve than a slogan. That shift—from promises to mechanisms—is one of the most practical ways the Behaviour Change Technique Taxonomy can help readers navigate the crowded world of self-improvement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8845 — &quot;BCT taxonomy v1,&quot; an extensive taxonomy...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bct-taxonomy.com/pdf/StarterPack.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bct-taxonomy.com">[BCT Taxonomy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bct-taxonomy.com</span><span class="citation-popover-snippet">Starter Packby S Michie¹ — Examples of BCTs are: &#x27;Prompts/cues&#x27;, &#x27;Information about health consequences&#x27;, &#x27;Incentive&#x27;, &#x27;Goal setting &#x27;, &#x27;...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2-KvaIsb0fM" title="Dr. Susan Michie, The Behaviour Change Wheel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2-KvaIsb0fM" target="_blank" rel="noopener noreferrer">Dr. Susan Michie, The Behaviour Change Wheel</a></p><p class="youtube-embed-meta">Channel: Knowlege Translation &middot; Views: 11.7K &middot; Uploaded: January 2019 &middot; Length: 1 hour 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2-KvaIsb0fM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2-KvaIsb0fM">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What is the self help advice really doing?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What is the self help advice really doing?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Contains clear, testable behaviour-change techniques beneath the motivational language.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Contains clear, testable behaviour-change techniques beneath the motivational language.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
-        </h4>
-        <p class="fr-book-author">By B. J. Fogg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
+</h4>
+<p class="fr-book-author">By B. J. Fogg</p>
         
-        <p class="fr-book-desc">Makes behavioural mechanisms explicit and actionable.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Makes behavioural mechanisms explicit and actionable.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nudge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Wf1AEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Nudge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nudge">Nudge</a>
-        </h4>
-        <p class="fr-book-author">By Richard H. Thaler, Cass R. Sunstein</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nudge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Wf1AEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Nudge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nudge">Nudge</a>
+</h4>
+<p class="fr-book-author">By Richard H. Thaler, Cass R. Sunstein</p>
         
-        <p class="fr-book-desc">Shows how identifiable interventions drive outcomes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how identifiable interventions drive outcomes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
-        </h4>
-        <p class="fr-book-author">By Charles Duhigg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
+</h4>
+<p class="fr-book-author">By Charles Duhigg</p>
         
-        <p class="fr-book-desc">Useful for analysing the mechanisms behind self-help claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for analysing the mechanisms behind self-help claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Nudge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nudge</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Nudge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nudge</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-self-help-advice-really-doing-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-is-the-self-help-advice-really-doing-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Superhero Mission Board – Reusable A2 Dry Erase Habit Tracker"><img src="https://i.ebayimg.com/images/g/XZ8AAeSwsrlqIctB/s-l225.jpg" alt="Listing image for Superhero Mission Board – Reusable A2 Dry Erase Habit Tracker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-self-help-advice-really-doing-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-is-the-self-help-advice-really-doing-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Superhero Mission Board – Reusable A2 Dry Erase Habit Tracker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-self-help-advice-really-doing-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-is-the-self-help-advice-really-doing-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-self-help-advice-really-doing-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-is-the-self-help-advice-really-doing-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-self-help-advice-really-doing-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-is-the-self-help-advice-really-doing-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Superhero Mission Board – Reusable A2 Dry Erase Habit Tracker"><img src="https://i.ebayimg.com/images/g/XZ8AAeSwsrlqIctB/s-l225.jpg" alt="Listing image for Superhero Mission Board – Reusable A2 Dry Erase Habit Tracker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-self-help-advice-really-doing-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-is-the-self-help-advice-really-doing-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Superhero Mission Board – Reusable A2 Dry Erase Habit Tracker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-self-help-advice-really-doing-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-is-the-self-help-advice-really-doing-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-self-help-advice-really-doing-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-is-the-self-help-advice-really-doing-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-self-help-advice-really-doing-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-is-the-self-help-advice-really-doing-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2026 Faith-Based Daily Planner: Vision Board &amp; Habit Tracker in Ultra Violet"><img src="https://i.ebayimg.com/images/g/sE0AAeSwSBNpjUl~/s-l225.jpg" alt="Listing image for 2026 Faith-Based Daily Planner: Vision Board &amp; Habit Tracker in Ultra Violet" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-self-help-advice-really-doing-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-is-the-self-help-advice-really-doing-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">2026 Faith-Based Daily Planner: Vision Board &amp; Habit Tracker in Ultra Violet</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-self-help-advice-really-doing-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-is-the-self-help-advice-really-doing-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-self-help-advice-really-doing-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-is-the-self-help-advice-really-doing-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-self-help-advice-really-doing-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-is-the-self-help-advice-really-doing-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2026 Faith-Based Daily Planner: Vision Board &amp; Habit Tracker in Ultra Violet"><img src="https://i.ebayimg.com/images/g/sE0AAeSwSBNpjUl~/s-l225.jpg" alt="Listing image for 2026 Faith-Based Daily Planner: Vision Board &amp; Habit Tracker in Ultra Violet" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-self-help-advice-really-doing-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-is-the-self-help-advice-really-doing-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">2026 Faith-Based Daily Planner: Vision Board &amp; Habit Tracker in Ultra Violet</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-self-help-advice-really-doing-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-is-the-self-help-advice-really-doing-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-self-help-advice-really-doing-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-is-the-self-help-advice-really-doing-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-self-help-advice-really-doing-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-is-the-self-help-advice-really-doing-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Luxury Undated Goal Planner for Productivity, Life &amp; Gratitude with Vision Board"><img src="https://i.ebayimg.com/images/g/1roAAeSwZ9FpXwDg/s-l225.jpg" alt="Listing image for Luxury Undated Goal Planner for Productivity, Life &amp; Gratitude with Vision Board" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-self-help-advice-really-doing-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-is-the-self-help-advice-really-doing-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Luxury Undated Goal Planner for Productivity, Life &amp; Gratitude with Vision Board</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-self-help-advice-really-doing-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-is-the-self-help-advice-really-doing-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-self-help-advice-really-doing-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-is-the-self-help-advice-really-doing-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-self-help-advice-really-doing-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-is-the-self-help-advice-really-doing-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Luxury Undated Goal Planner for Productivity, Life &amp; Gratitude with Vision Board"><img src="https://i.ebayimg.com/images/g/1roAAeSwZ9FpXwDg/s-l225.jpg" alt="Listing image for Luxury Undated Goal Planner for Productivity, Life &amp; Gratitude with Vision Board" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-self-help-advice-really-doing-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-is-the-self-help-advice-really-doing-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">Luxury Undated Goal Planner for Productivity, Life &amp; Gratitude with Vision Board</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-self-help-advice-really-doing-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-is-the-self-help-advice-really-doing-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-self-help-advice-really-doing-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-is-the-self-help-advice-really-doing-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-self-help-advice-really-doing-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-is-the-self-help-advice-really-doing-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2026 Habit Tracker Calendar – Premium Daily Habit Tracker Journal and Goal Board"><img src="https://i.ebayimg.com/images/g/OiYAAeSwK4VqHk0N/s-l225.jpg" alt="Listing image for 2026 Habit Tracker Calendar – Premium Daily Habit Tracker Journal and Goal Board" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-self-help-advice-really-doing-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-is-the-self-help-advice-really-doing-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">2026 Habit Tracker Calendar – Premium Daily Habit Tracker Journal and Goal Board</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-self-help-advice-really-doing-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-is-the-self-help-advice-really-doing-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-self-help-advice-really-doing-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-is-the-self-help-advice-really-doing-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-self-help-advice-really-doing-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-is-the-self-help-advice-really-doing-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-self-help-advice-really-doing-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-is-the-self-help-advice-really-doing-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2026 Habit Tracker Calendar – Premium Daily Habit Tracker Journal and Goal Board"><img src="https://i.ebayimg.com/images/g/OiYAAeSwK4VqHk0N/s-l225.jpg" alt="Listing image for 2026 Habit Tracker Calendar – Premium Daily Habit Tracker Journal and Goal Board" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-self-help-advice-really-doing-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-is-the-self-help-advice-really-doing-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">2026 Habit Tracker Calendar – Premium Daily Habit Tracker Journal and Goal Board</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-self-help-advice-really-doing-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-is-the-self-help-advice-really-doing-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker board">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker board</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-self-help-advice-really-doing-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-is-the-self-help-advice-really-doing-habit-tracker-board" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker+board&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-is-the-self-help-advice-really-doing-habit-tracker-board&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker board" data-ebay-reference="what-is-the-self-help-advice-really-doing-habit-tracker-board" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -603,7 +603,7 @@ A named technique is not automatically effective, and no taxonomy can guarantee 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -623,7 +623,7 @@ A named technique is not automatically effective, and no taxonomy can guarantee 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -655,7 +655,7 @@ A named technique is not automatically effective, and no taxonomy can guarantee 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -707,7 +707,7 @@ A named technique is not automatically effective, and no taxonomy can guarantee 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -752,7 +752,7 @@ A named technique is not automatically effective, and no taxonomy can guarantee 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -793,154 +793,154 @@ A named technique is not automatically effective, and no taxonomy can guarantee 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: bct-taxonomy.com  
-   Link: <a href="https://www.bct-taxonomy.com/about" target="_blank" rel="noopener noreferrer nofollow">https://www.bct-taxonomy.com/about</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour Change Technique TaxonomyA cross-domain, hierarchically structured taxonomy of 93 distinct BCTs with labels, definitions and ex...</p></details>
+   Link:<a href="https://www.bct-taxonomy.com/about" target="_blank" rel="noopener noreferrer nofollow">https://www.bct-taxonomy.com/about</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour Change Technique TaxonomyA cross-domain, hierarchically structured taxonomy of 93 distinct BCTs with labels, definitions and ex...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: digitalwellbeing.org  
-   Link: <a href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>i BCT Taxonomy (v1): 93 hierarchically-clustered techniquesNote: evidence of action planning does not necessarily imply goal setting...</p></details>
+   Link:<a href="https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://digitalwellbeing.org/wp-content/uploads/2016/11/BCTTv1_PDF_version.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>i BCT Taxonomy (v1): 93 hierarchically-clustered techniquesNote: evidence of action planning does not necessarily imply goal setting...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: bct-taxonomy.com  
-   Link: <a href="https://www.bct-taxonomy.com/pdf/StarterPack.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bct-taxonomy.com/pdf/StarterPack.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Starter Packby S Michie¹ — Examples of BCTs are: &#x27;Prompts/cues&#x27;, &#x27;Information about health consequences&#x27;, &#x27;Incentive&#x27;, &#x27;Goal setting &#x27;, &#x27;...</p></details>
+   Link:<a href="https://www.bct-taxonomy.com/pdf/StarterPack.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bct-taxonomy.com/pdf/StarterPack.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Starter Packby S Michie¹ — Examples of BCTs are: &#x27;Prompts/cues&#x27;, &#x27;Information about health consequences&#x27;, &#x27;Incentive&#x27;, &#x27;Goal setting &#x27;, &#x27;...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/abm/article/46/1/81/4563254" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/abm/article/46/1/81/4563254</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicBehavior Change Technique Taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8845 — An extensive taxonomy of 93 consensuall...</p></details>
+   Link:<a href="https://academic.oup.com/abm/article/46/1/81/4563254" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/abm/article/46/1/81/4563254</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicBehavior Change Technique Taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8845 — An extensive taxonomy of 93 consensuall...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nice.org.uk  
-   Link: <a href="https://www.nice.org.uk/guidance/ph49" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/ph49</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour change: individual approaches | Guidance2 Jan 2014 — This guideline covers changing health-damaging behaviours among people...</p></details>
+   Link:<a href="https://www.nice.org.uk/guidance/ph49" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/ph49</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour change: individual approaches | Guidance2 Jan 2014 — This guideline covers changing health-damaging behaviours among people...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nice.org.uk  
-   Link: <a href="https://www.nice.org.uk/guidance/ng183/chapter/Recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/ng183/chapter/Recommendations</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour change: digital and mobile health interventions7 Oct 2020 — These include: goals and planning, feedback and monitoring, and soc...</p></details>
+   Link:<a href="https://www.nice.org.uk/guidance/ng183/chapter/Recommendations" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/ng183/chapter/Recommendations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour change: digital and mobile health interventions7 Oct 2020 — These include: goals and planning, feedback and monitoring, and soc...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: wellcomeopenresearch.org  
-   Link: <a href="https://wellcomeopenresearch.org/articles/8-308" target="_blank" rel="noopener noreferrer nofollow">https://wellcomeopenresearch.org/articles/8-308</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Behaviour Change Technique Ontology:...by MM Marques · 2024 · Cited by 254 — The Behaviour Change Technique Taxonomy v1 (BCTTv1) spec...</p></details>
+   Link:<a href="https://wellcomeopenresearch.org/articles/8-308" target="_blank" rel="noopener noreferrer nofollow">https://wellcomeopenresearch.org/articles/8-308</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Behaviour Change Technique Ontology:...by MM Marques · 2024 · Cited by 254 — The Behaviour Change Technique Taxonomy v1 (BCTTv1) spec...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: bmjopen.bmj.com  
-   Link: <a href="https://bmjopen.bmj.com/content/10/9/e036500" target="_blank" rel="noopener noreferrer nofollow">https://bmjopen.bmj.com/content/10/9/e036500</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BMJ OpenUsing the behaviour change technique taxonomy v1...by C Scott · 2020 · Cited by 31 — The aim of this study was to identify which...</p></details>
+   Link:<a href="https://bmjopen.bmj.com/content/10/9/e036500" target="_blank" rel="noopener noreferrer nofollow">https://bmjopen.bmj.com/content/10/9/e036500</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BMJ OpenUsing the behaviour change technique taxonomy v1...by C Scott · 2020 · Cited by 31 — The aim of this study was to identify which...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: wellcomeopenresearch.org  
-   Link: <a href="https://wellcomeopenresearch.org/articles/7-211" target="_blank" rel="noopener noreferrer nofollow">https://wellcomeopenresearch.org/articles/7-211</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour change techniques taxonomy v1:...by E Corker · 2023 · Cited by 43 — The BCTTv1 provides a list of 93 clearly labelled and defin...</p></details>
+   Link:<a href="https://wellcomeopenresearch.org/articles/7-211" target="_blank" rel="noopener noreferrer nofollow">https://wellcomeopenresearch.org/articles/7-211</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour change techniques taxonomy v1:...by E Corker · 2023 · Cited by 43 — The BCTTv1 provides a list of 93 clearly labelled and defin...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/abm/article-abstract/46/1/81/4563254" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/abm/article-abstract/46/1/81/4563254</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Change Technique Taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8845 — The objective of this study is to develop an extensive, cons...</p></details>
+   Link:<a href="https://academic.oup.com/abm/article-abstract/46/1/81/4563254" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/abm/article-abstract/46/1/81/4563254</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Change Technique Taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8845 — The objective of this study is to develop an extensive, cons...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23512568/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8845 — &quot;BCT taxonomy v1,&quot; an extensive taxonomy...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/23512568/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/23512568/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8845 — &quot;BCT taxonomy v1,&quot; an extensive taxonomy...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: openaccess.city.ac.uk  
    Title: Michie et al Annals of Behavioral Medicine 2013 BCT Taxonomy v1  
-   Link: <a href="https://openaccess.city.ac.uk/3293/1/Michie%20et%20al%20Annals%20of%20Behavioral%20Medicine%202013%20-%20BCT%20Taxonomy%20v1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://openaccess.city.ac.uk/3293/1/Michie%20et%20al%20Annals%20of%20Behavioral%20Medicine%202013%20-%20BCT%20Taxonomy%20v1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>City Research OnlineMichie et al Annals of Behavioral Medicine 2013by S Michie · 2013 · Cited by 8746 — The Behavior Change Technique Tax...</p></details>
+   Link:<a href="https://openaccess.city.ac.uk/3293/1/Michie%20et%20al%20Annals%20of%20Behavioral%20Medicine%202013%20-%20BCT%20Taxonomy%20v1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://openaccess.city.ac.uk/3293/1/Michie%20et%20al%20Annals%20of%20Behavioral%20Medicine%202013%20-%20BCT%20Taxonomy%20v1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>City Research OnlineMichie et al Annals of Behavioral Medicine 2013by S Michie · 2013 · Cited by 8746 — The Behavior Change Technique Tax...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: openaccess.city.ac.uk  
-   Link: <a href="https://openaccess.city.ac.uk/id/eprint/3293/" target="_blank" rel="noopener noreferrer nofollow">https://openaccess.city.ac.uk/id/eprint/3293/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>City Research OnlineThe Behavior Change Technique Taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8903 — Objectives: The objective o...</p></details>
+   Link:<a href="https://openaccess.city.ac.uk/id/eprint/3293/" target="_blank" rel="noopener noreferrer nofollow">https://openaccess.city.ac.uk/id/eprint/3293/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>City Research OnlineThe Behavior Change Technique Taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8903 — Objectives: The objective o...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Nice" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nice</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NiceNice is the second-largest French city on the Mediterranean coast and second-largest city in the Provence-Alpes-Côte d&#x27;Azur region...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Nice" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nice</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NiceNice is the second-largest French city on the Mediterranean coast and second-largest city in the Provence-Alpes-Côte d&#x27;Azur region...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Behavior" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Behavior</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BehaviorBehavior (American English) or behaviour (British English) is the range of actions of organisms, individuals, systems or artif...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Behavior" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Behavior</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BehaviorBehavior (American English) or behaviour (British English) is the range of actions of organisms, individuals, systems or artif...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/405190916/behaviour-control-theory-taxonomy" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/405190916/behaviour-control-theory-taxonomy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BCT Taxonomy v1: 93 Techniques OverviewThe document describes a taxonomy of 93 behavior change techniques organized into groupings and te...</p></details>
+   Link:<a href="https://www.scribd.com/document/405190916/behaviour-control-theory-taxonomy" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/405190916/behaviour-control-theory-taxonomy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BCT Taxonomy v1: 93 Techniques OverviewThe document describes a taxonomy of 93 behavior change techniques organized into groupings and te...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: more-life.co.uk  
    Title: behaviour change techniques  
-   Link: <a href="https://www.more-life.co.uk/research-and-studies/behaviour-change-techniques/" target="_blank" rel="noopener noreferrer nofollow">https://www.more-life.co.uk/research-and-studies/behaviour-change-techniques/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Research 2025: Behaviour Change TechniquesNICE recommends identifying combinations of behaviour change techniques and modes of delivery t...</p></details>
+   Link:<a href="https://www.more-life.co.uk/research-and-studies/behaviour-change-techniques/" target="_blank" rel="noopener noreferrer nofollow">https://www.more-life.co.uk/research-and-studies/behaviour-change-techniques/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Research 2025: Behaviour Change TechniquesNICE recommends identifying combinations of behaviour change techniques and modes of delivery t...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/topics/psychology/behavior-change-technique" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/behavior-change-technique</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior Change Technique - an overviewA refined taxonomy of behavior change techniques to help people change their physical activity and...</p></details>
+   Link:<a href="https://www.sciencedirect.com/topics/psychology/behavior-change-technique" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/behavior-change-technique</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior Change Technique - an overviewA refined taxonomy of behavior change techniques to help people change their physical activity and...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/behavior" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/behavior</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English [meaning](&amp;#123;&amp;#123; &#x27;meaning/&#x27; | relative_url &amp;#125;&amp;#125;) - Cambridge Dictionary...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/behavior" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/behavior</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English [meaning](&amp;#123;&amp;#123; &#x27;meaning/&#x27; | relative_url &amp;#125;&amp;#125;) - Cambridge Dictionary...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/263504602_The_Behaviour_Change_Technique_Taxonomy_BCTTv1_of_93_hierarchically-clustered_techniques_testing_reliability_of_the_taxonomy_in_specifying_the_content_of_behaviour_change_interventions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/263504602_The_Behaviour_Change_Technique_Taxonomy_BCTTv1_of_93_hierarchically-clustered_techniques_testing_reliability_of_the_taxonomy_in_specifying_the_content_of_behaviour_change_interventions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Behaviour Change Technique Taxonomy (BCTTv1) of...18 Jan 2016 — This work produced the 93-item hierarchically-structured BCT Taxonom...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/263504602_The_Behaviour_Change_Technique_Taxonomy_BCTTv1_of_93_hierarchically-clustered_techniques_testing_reliability_of_the_taxonomy_in_specifying_the_content_of_behaviour_change_interventions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/263504602_The_Behaviour_Change_Technique_Taxonomy_BCTTv1_of_93_hierarchically-clustered_techniques_testing_reliability_of_the_taxonomy_in_specifying_the_content_of_behaviour_change_interventions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Behaviour Change Technique Taxonomy (BCTTv1) of...18 Jan 2016 — This work produced the 93-item hierarchically-structured BCT Taxonom...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/behavior" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/behavior</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BEHAVIOR Definition &amp; Meaning1. The way in which someone conducts oneself or behaves (see behave sense 1). We were grateful for the graci...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/behavior" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/behavior</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BEHAVIOR Definition &amp; Meaning1. The way in which someone conducts oneself or behaves (see behave sense 1). We were grateful for the graci...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: en.wiktionary.org  
-   Link: <a href="https://en.wiktionary.org/wiki/nice" target="_blank" rel="noopener noreferrer nofollow">https://en.wiktionary.org/wiki/nice</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>also: Nice, NICE, -nice, and niče. Contents. 1 English. 1.1 Alternative forms; 1.2 Pronunciation; 1.3 Etymology 1. 1.3.1 Adjective. 1.3.1...</p></details>
+   Link:<a href="https://en.wiktionary.org/wiki/nice" target="_blank" rel="noopener noreferrer nofollow">https://en.wiktionary.org/wiki/nice</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>also: Nice, NICE, -nice, and niče. Contents. 1 English. 1.1 Alternative forms; 1.2 Pronunciation; 1.3 Etymology 1. 1.3.1 Adjective. 1.3.1...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: discovery.ucl.ac.uk  
-   Link: <a href="https://discovery.ucl.ac.uk/1400691/" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/1400691/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior Change Technique Taxonomy (v1) of 93...The Behavior Change Technique Taxonomy (v1) of 93 Hierarchically Clustered Techniques: B...</p></details>
+   Link:<a href="https://discovery.ucl.ac.uk/1400691/" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/1400691/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior Change Technique Taxonomy (v1) of 93...The Behavior Change Technique Taxonomy (v1) of 93 Hierarchically Clustered Techniques: B...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/organisations/national-institute-for-clinical-excellence" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/organisations/national-institute-for-clinical-excellence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Institute for Health and Care ExcellenceThe National Institute for Health and Care Excellence (NICE) provides national guidance and advic...</p></details>
+   Link:<a href="https://www.gov.uk/government/organisations/national-institute-for-clinical-excellence" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/organisations/national-institute-for-clinical-excellence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Institute for Health and Care ExcellenceThe National Institute for Health and Care Excellence (NICE) provides national guidance and advic...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: tripadvisor.co.uk  
-   Link: <a href="https://www.tripadvisor.co.uk/Tourism-g187234-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur-Vacations.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.co.uk/Tourism-g187234-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur-Vacations.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nice, France: All You Need to Know Before You Go (2026)The deep blue waters of the Cote d&#x27;Azur are the dramatic backdrop for elegant Nice...</p></details>
+   Link:<a href="https://www.tripadvisor.co.uk/Tourism-g187234-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur-Vacations.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.co.uk/Tourism-g187234-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur-Vacations.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nice, France: All You Need to Know Before You Go (2026)The deep blue waters of the Cote d&#x27;Azur are the dramatic backdrop for elegant Nice...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: scribd.com  
    Title: NIC E Guidance on Individual Behaviour Change | PDFBehaviour change techniques  
-   Link: <a href="https://www.scribd.com/document/738350834/Behaviour-Change-Individual-Approaches-PDF-1996366337989" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/738350834/Behaviour-Change-Individual-Approaches-PDF-1996366337989</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Recommendations were made to include goals and planning and feedback and monitoring techniques in behaviour change interventions.Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/738350834/Behaviour-Change-Individual-Approaches-PDF-1996366337989" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/738350834/Behaviour-Change-Individual-Approaches-PDF-1996366337989</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Recommendations were made to include goals and planning and feedback and monitoring techniques in behaviour change interventions.Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: scribbr.co.uk  
-   Link: <a href="https://www.scribbr.co.uk/uk-vs-us/behavior-or-behaviour/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/uk-vs-us/behavior-or-behaviour/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour or Behavior | Meaning, Spelling &amp; Examples - Scribbr16 Jan 2023 — In UK English, “behaviour” (with a “u”) is standard...</p></details>
+   Link:<a href="https://www.scribbr.co.uk/uk-vs-us/behavior-or-behaviour/" target="_blank" rel="noopener noreferrer nofollow">https://www.scribbr.co.uk/uk-vs-us/behavior-or-behaviour/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour or Behavior | Meaning, Spelling &amp; Examples - Scribbr16 Jan 2023 — In UK English, “behaviour” (with a “u”) is standard...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: revistas.innovacionumh.es  
    Title: esthe Behaviour Change Techniques Taxonomy v1 (BCTTv1)Michie et al  
-   Link: <a href="https://revistas.innovacionumh.es/index.php/psicologiasalud/en/article/view/882/1227" target="_blank" rel="noopener noreferrer nofollow">https://revistas.innovacionumh.es/index.php/psicologiasalud/en/article/view/882/1227</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(2013)&#x27;s paper presents an important step in improving reporting: a taxonomy of 93 behaviour change techniques (BCTs), each with a label...</p></details>
+   Link:<a href="https://revistas.innovacionumh.es/index.php/psicologiasalud/en/article/view/882/1227" target="_blank" rel="noopener noreferrer nofollow">https://revistas.innovacionumh.es/index.php/psicologiasalud/en/article/view/882/1227</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(2013)&#x27;s paper presents an important step in improving reporting: a taxonomy of 93 behaviour change techniques (BCTs), each with a label...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: research-portal.uea.ac.uk  
    Title: the behavior change technique taxonomy v1 of 93 hierarchically cl  
-   Link: <a href="https://research-portal.uea.ac.uk/en/publications/the-behavior-change-technique-taxonomy-v1-of-93-hierarchically-cl" target="_blank" rel="noopener noreferrer nofollow">https://research-portal.uea.ac.uk/en/publications/the-behavior-change-technique-taxonomy-v1-of-93-hierarchically-cl</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8667 — Conclusions: &quot;BCT taxonomy v1,&quot; an extensive taxono...</p></details>
+   Link:<a href="https://research-portal.uea.ac.uk/en/publications/the-behavior-change-technique-taxonomy-v1-of-93-hierarchically-cl" target="_blank" rel="noopener noreferrer nofollow">https://research-portal.uea.ac.uk/en/publications/the-behavior-change-technique-taxonomy-v1-of-93-hierarchically-cl</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>behavior change technique taxonomy (v1) of 93...by S Michie · 2013 · Cited by 8667 — Conclusions: &quot;BCT taxonomy v1,&quot; an extensive taxono...</p></details>

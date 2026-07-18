@@ -268,7 +268,7 @@ image: /assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_ap
 
 ## Introduction
 
-Many people install self-improvement apps with genuine intentions. They want to exercise more, sleep better, study consistently, meditate regularly, save money or build healthier routines. Yet a large proportion stop using these tools within weeks or months. Research on digital behaviour-change interventions suggests that abandonment is rarely explained by laziness alone. More often, it reflects a mismatch between the app, the person's circumstances and the realities of long-term [behaviour change]({{ 'behaviour-change/' | relative_url }}). Studies of health and lifestyle apps consistently find that users leave because of poor fit, weak [feedback]({{ 'feedback/' | relative_url }}), excessive effort, changing goals, technical frustrations or a simple failure to see meaningful progress. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8872344/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCUser Engagement and Abandonment of m Health</span><span class="citation-popover-snippet">Engagement and Abandonment of mHealth - PMC - NIHby AS Mustafa · 2022 · Cited by 150 — Another primary reason is lack of motivation to su...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jmir.org/2024/1/e56897/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">When and Why Adults Abandon Lifestyle Behavior...by PG Kidman · 2024 · Cited by 39 — In total, 22 unique reasons for abandonment wer...</span></span></span>
+Many people install self-improvement apps with genuine intentions. They want to exercise more, sleep better, study consistently, meditate regularly, save money or build healthier routines. Yet a large proportion stop using these tools within weeks or months. Research on digital behaviour-change interventions suggests that abandonment is rarely explained by laziness alone. More often, it reflects a mismatch between the app, the person's circumstances and the realities of long-term [behaviour change]({{ 'behaviour-change/' | relative_url }}). Studies of health and lifestyle apps consistently find that users leave because of poor fit, weak [feedback]({{ 'feedback/' | relative_url }}), excessive effort, changing goals, technical frustrations or a simple failure to see meaningful progress.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8872344/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCUser Engagement and Abandonment of m Health</span><span class="citation-popover-snippet">Engagement and Abandonment of mHealth - PMC - NIHby AS Mustafa · 2022 · Cited by 150 — Another primary reason is lack of motivation to su...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jmir.org/2024/1/e56897/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">When and Why Adults Abandon Lifestyle Behavior...by PG Kidman · 2024 · Cited by 39 — In total, 22 unique reasons for abandonment wer...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_app_abandonment_reas_3f9ecb-Illustration-1-dark.svg" | relative_url }}" alt="Abandonment illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_app_abandonment_reas_3f9ecb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_app_abandonment_reas_3f9ecb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Understanding why people abandon self-improvement apps matters because sustained behaviour change depends less on downloading the right tool and more on whether the tool continues to [support]({{ 'support/' | relative_url }}) useful action after the initial excitement fades.
@@ -277,11 +277,11 @@ Understanding why people abandon self-improvement apps matters because sustained
 
 One of the most reliable patterns in behaviour-change technology is an early burst of engagement followed by a steep decline. People often begin with high motivation, especially after a life event, a New Year's resolution or a moment of frustration with their current habits. During this phase, almost any app can feel useful because motivation is temporarily doing most of the work.
 
-The challenge begins when motivation naturally fluctuates. Long-term behaviour change requires support during ordinary days rather than during moments of peak enthusiasm. Reviews of app abandonment repeatedly find that users stop engaging when the app no longer feels relevant, rewarding or worth the effort required to maintain it. Researchers examining lifestyle and mental-health apps identified a wide range of abandonment reasons, including poor user experience, weak content, time costs and changing personal needs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jmir.org/2022/4/e35120/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">Challenges in Participant Engagement and Retention...by S Amagai · 2022 · Cited by 363 — However, many studies using mHealth apps are ha...</span></span></span>
+The challenge begins when motivation naturally fluctuates. Long-term behaviour change requires support during ordinary days rather than during moments of peak enthusiasm. Reviews of app abandonment repeatedly find that users stop engaging when the app no longer feels relevant, rewarding or worth the effort required to maintain it. Researchers examining lifestyle and mental-health apps identified a wide range of abandonment reasons, including poor user experience, weak content, time costs and changing personal needs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jmir.org/2022/4/e35120/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">Challenges in Participant Engagement and Retention...by S Amagai · 2022 · Cited by 363 — However, many studies using mHealth apps are ha...</span></span></span>
 
 This helps explain a common misunderstanding. People often assume they abandoned an app because they lacked discipline. In reality, an app that works only when motivation is already high may not be providing much behavioural support at all.
 
-Research on engagement with mobile health applications also shows that sustaining participation is a widespread challenge, not an unusual personal failure. High attrition rates appear across many app categories and study designs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8872344/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCUser Engagement and Abandonment of m Health</span><span class="citation-popover-snippet">Engagement and Abandonment of mHealth - PMC - NIHby AS Mustafa · 2022 · Cited by 150 — Another primary reason is lack of motivation to su...</span></span></span>
+Research on engagement with mobile health applications also shows that sustaining participation is a widespread challenge, not an unusual personal failure. High attrition rates appear across many app categories and study designs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8872344/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCUser Engagement and Abandonment of m Health</span><span class="citation-popover-snippet">Engagement and Abandonment of mHealth - PMC - NIHby AS Mustafa · 2022 · Cited by 150 — Another primary reason is lack of motivation to su...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EjwjkIR2-c4" title="Why Self-Improvement Can Make You Worse." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EjwjkIR2-c4" target="_blank" rel="noopener noreferrer">Why Self-Improvement Can Make You Worse.</a></p><p class="youtube-embed-meta">Channel: muchelleb &middot; Views: 10.2K &middot; Uploaded: April 2026 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EjwjkIR2-c4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EjwjkIR2-c4">Open on YouTube</a></p></div></div></div>
 
@@ -291,7 +291,7 @@ Many self-improvement apps are excellent at collecting data and much less effect
 
 Tracking steps, calories, study sessions, mood ratings or hours slept can create awareness. Awareness is useful, but awareness alone rarely changes behaviour for long. When an app repeatedly asks users to record information without providing insight, guidance or adaptation, logging activity starts to feel like unpaid administrative work.
 
-Evidence reviews examining behaviour-change techniques associated with engagement consistently identify self-monitoring and feedback as a pair rather than as independent features. Users are more likely to stay engaged when tracking is connected to meaningful feedback, goals, rewards, prompts or [social support]({{ 'social-support/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8872344/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCUser Engagement and Abandonment of m Health</span><span class="citation-popover-snippet">Engagement and Abandonment of mHealth - PMC - NIHby AS Mustafa · 2022 · Cited by 150 — Another primary reason is lack of motivation to su...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1227443/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersPotential associations between behavior change...by M Milne-Ives · 2023 · Cited by 75 — Six BCTs were repeatedly associated wit...</span></span></span>
+Evidence reviews examining behaviour-change techniques associated with engagement consistently identify self-monitoring and feedback as a pair rather than as independent features. Users are more likely to stay engaged when tracking is connected to meaningful feedback, goals, rewards, prompts or [social support]({{ 'social-support/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8872344/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCUser Engagement and Abandonment of m Health</span><span class="citation-popover-snippet">Engagement and Abandonment of mHealth - PMC - NIHby AS Mustafa · 2022 · Cited by 150 — Another primary reason is lack of motivation to su...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1227443/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersPotential associations between behavior change...by M Milne-Ives · 2023 · Cited by 75 — Six BCTs were repeatedly associated wit...</span></span></span>
 
 A practical example is the difference between:
 
@@ -314,7 +314,7 @@ Another reason for abandonment is that some apps increase the amount of work req
 
 Behaviour-change tools are supposed to reduce friction. Yet many require constant logging, repeated check-ins, extensive customisation or frequent responses to notifications. Over time, the effort needed to maintain the system can become greater than the effort needed to perform the target behaviour itself.
 
-Researchers studying app abandonment have identified time costs and usability burdens as recurring reasons people stop using apps. Technical problems and functional frustrations further increase these costs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://mhealth.jmir.org/2019/12/e15707/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mhealth.jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mhealth.jmir.org</span><span class="citation-popover-snippet">JMIR mHealth and uHealthAdults&#x27; Preferences for Behavior Change Techniques and...by A DeSmet · 2019 · Cited by 38 — Apps should provide...</span></span></span>
+Researchers studying app abandonment have identified time costs and usability burdens as recurring reasons people stop using apps. Technical problems and functional frustrations further increase these costs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://mhealth.jmir.org/2019/12/e15707/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mhealth.jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mhealth.jmir.org</span><span class="citation-popover-snippet">JMIR mHealth and uHealthAdults&#x27; Preferences for Behavior Change Techniques and...by A DeSmet · 2019 · Cited by 38 — Apps should provide...</span></span></span>
 
 This creates a paradox. A habit-tracking app may begin as a tool for building a habit but eventually become another obligation competing for attention.
 
@@ -327,9 +327,9 @@ Many self-improvement apps rely heavily on [reminders]({{ 'reminders/' | relativ
 
 However, behavioural effects often weaken through familiarity. Notifications that initially felt helpful can become background noise. Streak systems can also create an all-or-nothing mindset. Missing one day may feel like failure, causing some users to disengage completely rather than resume imperfectly.
 
-Research into engagement with behaviour-change technologies suggests that prompts and rewards can support engagement, but they work best alongside other mechanisms such as feedback, goal-setting and social support. They are rarely sufficient on their own. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1227443/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersPotential associations between behavior change...by M Milne-Ives · 2023 · Cited by 75 — Six BCTs were repeatedly associated wit...</span></span></span>
+Research into engagement with behaviour-change technologies suggests that prompts and rewards can support engagement, but they work best alongside other mechanisms such as feedback, goal-setting and social support. They are rarely sufficient on their own.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1227443/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersPotential associations between behavior change...by M Milne-Ives · 2023 · Cited by 75 — Six BCTs were repeatedly associated wit...</span></span></span>
 
-Emerging research on personalised digital nudges also points to a similar pattern: interventions may produce strong early effects that gradually weaken as users adapt to them. Initial motivation can be sustained for a period, but novelty alone does not guarantee long-term engagement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2602.23688" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Does Personalized Nudging Wear Off? A Longitudinal Study of AI Self-Modeling for Behavioral EngagementFebruary 27, 2026...</span><span class="citation-popover-meta">Published: February 27, 2026</span></span></span>
+Emerging research on personalised digital nudges also points to a similar pattern: interventions may produce strong early effects that gradually weaken as users adapt to them. Initial motivation can be sustained for a period, but novelty alone does not guarantee long-term engagement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2602.23688" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Does Personalized Nudging Wear Off? A Longitudinal Study of AI Self-Modeling for Behavioral EngagementFebruary 27, 2026...</span><span class="citation-popover-meta">Published: February 27, 2026</span></span></span>
 
 ## Choosing tools that fit ordinary life
 
@@ -337,7 +337,7 @@ A common mistake is choosing an app that fits an ideal version of life rather th
 
 An app may assume uninterrupted routines, abundant free time, stable schedules or high daily commitment. Real lives contain illness, travel, deadlines, family responsibilities and unexpected disruptions. When an app cannot accommodate these realities, users often conclude that they have failed when the design itself may be the problem.
 
-Recent analyses of abandonment highlight the importance of evolving needs and goals. People change. Their priorities change. A tool that was useful during one phase of life may become irrelevant later. Abandonment is not always evidence that the app failed; sometimes the user's needs simply moved elsewhere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jmir.org/2019/11/e14645/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">User Engagement and Attrition in an App-Based Physical...by S Edney · 2019 · Cited by 127 — Attrition was defined as occurring once the...</span></span></span>
+Recent analyses of abandonment highlight the importance of evolving needs and goals. People change. Their priorities change. A tool that was useful during one phase of life may become irrelevant later. Abandonment is not always evidence that the app failed; sometimes the user's needs simply moved elsewhere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.jmir.org/2019/11/e14645/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">User Engagement and Attrition in an App-Based Physical...by S Edney · 2019 · Cited by 127 — Attrition was defined as occurring once the...</span></span></span>
 
 The strongest behaviour-change tools tend to be flexible enough to accommodate inconsistency. They allow missed days, changing goals and varying levels of engagement without turning normal life interruptions into apparent failure.
 
@@ -349,7 +349,7 @@ Many self-improvement apps promise personalisation but deliver standardised advi
 
 Users frequently receive generic targets, generic reminders and generic recommendations regardless of their experience, [environment]({{ 'environment/' | relative_url }}) or constraints. This can create a growing sense that the app does not understand the problem it claims to solve.
 
-Research on user engagement repeatedly points to the value of tailoring, relevant feedback and support matched to user circumstances. Users also express preferences for features that connect self-monitoring to feedback, coaching and social support rather than simple data collection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mhealth.jmir.org/2019/12/e15707/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mhealth.jmir.org">[JMIR mHealth and uHealth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mhealth.jmir.org</span><span class="citation-popover-snippet">JMIR mHealth and uHealthAdults&#x27; Preferences for Behavior Change Techniques and...by A DeSmet · 2019 · Cited by 38 — Apps should provide...</span></span></span>
+Research on user engagement repeatedly points to the value of tailoring, relevant feedback and support matched to user circumstances. Users also express preferences for features that connect self-monitoring to feedback, coaching and social support rather than simple data collection.<span class="citation-chip-wrap"><a class="citation-chip" href="https://mhealth.jmir.org/2019/12/e15707/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mhealth.jmir.org">[JMIR mHealth and uHealth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mhealth.jmir.org</span><span class="citation-popover-snippet">JMIR mHealth and uHealthAdults&#x27; Preferences for Behavior Change Techniques and...by A DeSmet · 2019 · Cited by 38 — Apps should provide...</span></span></span>
 
 When recommendations feel unrealistic or disconnected from everyday experience, engagement tends to decline. The user stops seeing the app as a useful partner and starts seeing it as a source of generic advice.
 
@@ -359,7 +359,7 @@ One of the most important findings from research on app engagement is that aband
 
 Some users stop using an app because they have internalised the habit. A person who used a walking app for three months may continue walking without needing reminders. Someone who tracked spending carefully may eventually understand their finances well enough to stop logging every purchase.
 
-Researchers therefore distinguish between app engagement and behaviour change. Continued app use is sometimes valuable, but the ultimate goal is usually the behaviour itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8872344/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCUser Engagement and Abandonment of m Health</span><span class="citation-popover-snippet">Engagement and Abandonment of mHealth - PMC - NIHby AS Mustafa · 2022 · Cited by 150 — Another primary reason is lack of motivation to su...</span></span></span>
+Researchers therefore distinguish between app engagement and behaviour change. Continued app use is sometimes valuable, but the ultimate goal is usually the behaviour itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8872344/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCUser Engagement and Abandonment of m Health</span><span class="citation-popover-snippet">Engagement and Abandonment of mHealth - PMC - NIHby AS Mustafa · 2022 · Cited by 150 — Another primary reason is lack of motivation to su...</span></span></span>
 
 The more useful question is not whether an app keeps users forever. It is whether it helps people build behaviours that survive when the app is no longer needed.
 
@@ -368,194 +368,194 @@ For self-improvement that works, the lesson is straightforward: people rarely ab
 <img src="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_app_abandonment_reas_3f9ecb-Illustration-3-dark.svg" | relative_url }}" alt="Abandonment illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_app_abandonment_reas_3f9ecb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_app_abandonment_reas_3f9ecb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why do self improvement apps get abandoned?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why do self improvement apps get abandoned?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Explains why motivation fades and how systems sustain behavior beyond initial enthusiasm.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Explains why motivation fades and how systems sustain behavior beyond initial enthusiasm.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
-        </h4>
-        <p class="fr-book-author">By B. J. Fogg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
+</h4>
+<p class="fr-book-author">By B. J. Fogg</p>
         
-        <p class="fr-book-desc">Focuses on making behaviors easy enough to survive engagement drop-offs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on making behaviors easy enough to survive engagement drop-offs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
-        </h4>
-        <p class="fr-book-author">By Charles Duhigg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
+</h4>
+<p class="fr-book-author">By Charles Duhigg</p>
         
-        <p class="fr-book-desc">Helps readers understand habit loops and why routines are abandoned.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand habit loops and why routines are abandoned.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Hooked%3A+How+to+Build+Habit-Forming+Products+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hooked: How to Build Habit-Forming Products on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hooked%3A+How+to+Build+Habit-Forming+Products+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hooked: How to Build Habit-Forming Products">Hooked: How to Build Habit-Forming Products</a>
-        </h4>
-        <p class="fr-book-author">By Nir Eyal</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Hooked%3A+How+to+Build+Habit-Forming+Products+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hooked: How to Build Habit-Forming Products on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hooked%3A+How+to+Build+Habit-Forming+Products+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hooked: How to Build Habit-Forming Products">Hooked: How to Build Habit-Forming Products</a>
+</h4>
+<p class="fr-book-author">By Nir Eyal</p>
         
-        <p class="fr-book-desc">Examines product engagement and retention, directly related to app abandonment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hooked%3A+How+to+Build+Habit-Forming+Products+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines product engagement and retention, directly related to app abandonment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hooked%3A+How+to+Build+Habit-Forming+Products+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Power+of+Habit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Power of Habit</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Power+of+Habit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Power of Habit</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+smartwatch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-fitness-smartwatch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness smartwatch" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-fitness-smartwatch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smart Watch Women For iPhone Android Fitness Tracker W/ SpO2 Heart Rate Monitor"><img src="https://i.ebayimg.com/images/g/K1EAAeSwAHhpiT53/s-l225.jpg" alt="Listing image for Smart Watch Women For iPhone Android Fitness Tracker W/ SpO2 Heart Rate Monitor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+smartwatch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-fitness-smartwatch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness smartwatch" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-fitness-smartwatch" target="_blank" rel="sponsored noopener noreferrer">Smart Watch Women For iPhone Android Fitness Tracker W/ SpO2 Heart Rate Monitor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+smartwatch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-fitness-smartwatch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness smartwatch" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-fitness-smartwatch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness smartwatch">Search <span data-ebay-domain-label>eBay.co.uk</span>: fitness smartwatch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+smartwatch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-fitness-smartwatch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness smartwatch" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-fitness-smartwatch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+smartwatch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-fitness-smartwatch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness smartwatch" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-fitness-smartwatch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smart Watch Women For iPhone Android Fitness Tracker W/ SpO2 Heart Rate Monitor"><img src="https://i.ebayimg.com/images/g/K1EAAeSwAHhpiT53/s-l225.jpg" alt="Listing image for Smart Watch Women For iPhone Android Fitness Tracker W/ SpO2 Heart Rate Monitor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+smartwatch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-fitness-smartwatch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness smartwatch" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-fitness-smartwatch" target="_blank" rel="sponsored noopener noreferrer">Smart Watch Women For iPhone Android Fitness Tracker W/ SpO2 Heart Rate Monitor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+smartwatch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-fitness-smartwatch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness smartwatch" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-fitness-smartwatch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness smartwatch">Search<span data-ebay-domain-label>eBay.co.uk</span>: fitness smartwatch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+smartwatch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-fitness-smartwatch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness smartwatch" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-fitness-smartwatch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+smartwatch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-fitness-smartwatch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness smartwatch" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-fitness-smartwatch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smart Watch Bluetooth Calling 1.85” Fitness Tracker IP68 Heart Rate Android iOS"><img src="https://i.ebayimg.com/images/g/FD0AAeSwXzNqKlfM/s-l225.jpg" alt="Listing image for Smart Watch Bluetooth Calling 1.85” Fitness Tracker IP68 Heart Rate Android iOS" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+smartwatch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-fitness-smartwatch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness smartwatch" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-fitness-smartwatch" target="_blank" rel="sponsored noopener noreferrer">Smart Watch Bluetooth Calling 1.85” Fitness Tracker IP68 Heart Rate Android iOS</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+smartwatch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-fitness-smartwatch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness smartwatch" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-fitness-smartwatch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness smartwatch">Search <span data-ebay-domain-label>eBay.co.uk</span>: fitness smartwatch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+smartwatch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-fitness-smartwatch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness smartwatch" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-fitness-smartwatch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+smartwatch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-fitness-smartwatch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness smartwatch" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-fitness-smartwatch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smart Watch Bluetooth Calling 1.85” Fitness Tracker IP68 Heart Rate Android iOS"><img src="https://i.ebayimg.com/images/g/FD0AAeSwXzNqKlfM/s-l225.jpg" alt="Listing image for Smart Watch Bluetooth Calling 1.85” Fitness Tracker IP68 Heart Rate Android iOS" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+smartwatch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-fitness-smartwatch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness smartwatch" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-fitness-smartwatch" target="_blank" rel="sponsored noopener noreferrer">Smart Watch Bluetooth Calling 1.85” Fitness Tracker IP68 Heart Rate Android iOS</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+smartwatch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-fitness-smartwatch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness smartwatch" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-fitness-smartwatch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness smartwatch">Search<span data-ebay-domain-label>eBay.co.uk</span>: fitness smartwatch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+smartwatch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-fitness-smartwatch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness smartwatch" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-fitness-smartwatch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+smartwatch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-fitness-smartwatch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness smartwatch" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-fitness-smartwatch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Women’s Alexa Smartwatch Fitness Tracker Bluetooth Call Heart Rate Sleep Monitor"><img src="https://i.ebayimg.com/images/g/ERYAAeSwfLxqCF0-/s-l225.jpg" alt="Listing image for Women’s Alexa Smartwatch Fitness Tracker Bluetooth Call Heart Rate Sleep Monitor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+smartwatch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-fitness-smartwatch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness smartwatch" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-fitness-smartwatch" target="_blank" rel="sponsored noopener noreferrer">Women’s Alexa Smartwatch Fitness Tracker Bluetooth Call Heart Rate Sleep Monitor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+smartwatch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-fitness-smartwatch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness smartwatch" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-fitness-smartwatch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness smartwatch">Search <span data-ebay-domain-label>eBay.co.uk</span>: fitness smartwatch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+smartwatch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-fitness-smartwatch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness smartwatch" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-fitness-smartwatch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+smartwatch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-fitness-smartwatch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness smartwatch" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-fitness-smartwatch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Women’s Alexa Smartwatch Fitness Tracker Bluetooth Call Heart Rate Sleep Monitor"><img src="https://i.ebayimg.com/images/g/ERYAAeSwfLxqCF0-/s-l225.jpg" alt="Listing image for Women’s Alexa Smartwatch Fitness Tracker Bluetooth Call Heart Rate Sleep Monitor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+smartwatch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-fitness-smartwatch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness smartwatch" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-fitness-smartwatch" target="_blank" rel="sponsored noopener noreferrer">Women’s Alexa Smartwatch Fitness Tracker Bluetooth Call Heart Rate Sleep Monitor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+smartwatch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-fitness-smartwatch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness smartwatch" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-fitness-smartwatch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness smartwatch">Search<span data-ebay-domain-label>eBay.co.uk</span>: fitness smartwatch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+smartwatch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-fitness-smartwatch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness smartwatch" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-fitness-smartwatch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+smartwatch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-fitness-smartwatch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness smartwatch" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-fitness-smartwatch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bluetooth Smart Watch Call Fitness Tracker Men Women Heart Rate Blood Pressure"><img src="https://i.ebayimg.com/images/g/eSgAAeSwNF1pv1fB/s-l225.jpg" alt="Listing image for Bluetooth Smart Watch Call Fitness Tracker Men Women Heart Rate Blood Pressure" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+smartwatch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-fitness-smartwatch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness smartwatch" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-fitness-smartwatch" target="_blank" rel="sponsored noopener noreferrer">Bluetooth Smart Watch Call Fitness Tracker Men Women Heart Rate Blood Pressure</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+smartwatch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-fitness-smartwatch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness smartwatch" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-fitness-smartwatch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness smartwatch">Search <span data-ebay-domain-label>eBay.co.uk</span>: fitness smartwatch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+smartwatch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-fitness-smartwatch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness smartwatch" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-fitness-smartwatch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+smartwatch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-fitness-smartwatch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness smartwatch" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-fitness-smartwatch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+smartwatch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-fitness-smartwatch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness smartwatch" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-fitness-smartwatch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bluetooth Smart Watch Call Fitness Tracker Men Women Heart Rate Blood Pressure"><img src="https://i.ebayimg.com/images/g/eSgAAeSwNF1pv1fB/s-l225.jpg" alt="Listing image for Bluetooth Smart Watch Call Fitness Tracker Men Women Heart Rate Blood Pressure" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+smartwatch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-fitness-smartwatch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness smartwatch" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-fitness-smartwatch" target="_blank" rel="sponsored noopener noreferrer">Bluetooth Smart Watch Call Fitness Tracker Men Women Heart Rate Blood Pressure</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+smartwatch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-fitness-smartwatch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness smartwatch" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-fitness-smartwatch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness smartwatch">Search<span data-ebay-domain-label>eBay.co.uk</span>: fitness smartwatch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+smartwatch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-fitness-smartwatch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness smartwatch" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-fitness-smartwatch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+smartwatch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-do-self-improvement-apps-get-abandoned-fitness-smartwatch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness smartwatch" data-ebay-reference="why-do-self-improvement-apps-get-abandoned-fitness-smartwatch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -571,7 +571,7 @@ For self-improvement that works, the lesson is straightforward: people rarely ab
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -591,7 +591,7 @@ For self-improvement that works, the lesson is straightforward: people rarely ab
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -623,7 +623,7 @@ For self-improvement that works, the lesson is straightforward: people rarely ab
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -675,7 +675,7 @@ For self-improvement that works, the lesson is straightforward: people rarely ab
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -720,7 +720,7 @@ For self-improvement that works, the lesson is straightforward: people rarely ab
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -761,114 +761,114 @@ For self-improvement that works, the lesson is straightforward: people rarely ab
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11694054/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11694054/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When and Why Adults Abandon Lifestyle Behavior and Mental...by PG Kidman · 2024 · Cited by 39 — We explored the abandonment of apps u...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11694054/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11694054/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When and Why Adults Abandon Lifestyle Behavior and Mental...by PG Kidman · 2024 · Cited by 39 — We explored the abandonment of apps u...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: jmir.org  
-   Link: <a href="https://www.jmir.org/2024/1/e56897/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e56897/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When and Why Adults Abandon Lifestyle Behavior...by PG Kidman · 2024 · Cited by 39 — In total, 22 unique reasons for abandonment wer...</p></details>
+   Link:<a href="https://www.jmir.org/2024/1/e56897/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e56897/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When and Why Adults Abandon Lifestyle Behavior...by PG Kidman · 2024 · Cited by 39 — In total, 22 unique reasons for abandonment wer...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCUser Engagement and Abandonment of m Health  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8872344/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8872344/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Engagement and Abandonment of mHealth - PMC - NIHby AS Mustafa · 2022 · Cited by 150 — Another primary reason is lack of motivation to su...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8872344/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8872344/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Engagement and Abandonment of mHealth - PMC - NIHby AS Mustafa · 2022 · Cited by 150 — Another primary reason is lack of motivation to su...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9092233/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9092233/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Challenges in Participant Engagement and Retention Using...by S Amagai · 2022 · Cited by 367 — However, many studies using mHealth ap...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9092233/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9092233/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Challenges in Participant Engagement and Retention Using...by S Amagai · 2022 · Cited by 367 — However, many studies using mHealth ap...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: jmir.org  
-   Link: <a href="https://www.jmir.org/2022/4/e35120/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2022/4/e35120/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Challenges in Participant Engagement and Retention...by S Amagai · 2022 · Cited by 363 — However, many studies using mHealth apps are ha...</p></details>
+   Link:<a href="https://www.jmir.org/2022/4/e35120/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2022/4/e35120/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Challenges in Participant Engagement and Retention...by S Amagai · 2022 · Cited by 363 — However, many studies using mHealth apps are ha...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10545861/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10545861/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Potential associations between behavior change techniques...by M Milne-Ives · 2023 · Cited by 75 — Six BCTs were repeatedly associate...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10545861/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10545861/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Potential associations between behavior change techniques...by M Milne-Ives · 2023 · Cited by 75 — Six BCTs were repeatedly associate...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: mhealth.jmir.org  
-   Link: <a href="https://mhealth.jmir.org/2019/12/e15707/" target="_blank" rel="noopener noreferrer nofollow">https://mhealth.jmir.org/2019/12/e15707/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JMIR mHealth and uHealthAdults&#x27; Preferences for Behavior Change Techniques and...by A DeSmet · 2019 · Cited by 38 — Apps should provide...</p></details>
+   Link:<a href="https://mhealth.jmir.org/2019/12/e15707/" target="_blank" rel="noopener noreferrer nofollow">https://mhealth.jmir.org/2019/12/e15707/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JMIR mHealth and uHealthAdults&#x27; Preferences for Behavior Change Techniques and...by A DeSmet · 2019 · Cited by 38 — Apps should provide...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2602.23688" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2602.23688</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Does Personalized Nudging Wear Off? A Longitudinal Study of AI Self-Modeling for Behavioral EngagementFebruary 27, 2026...</p></details>
+   Link:<a href="https://arxiv.org/abs/2602.23688" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2602.23688</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Does Personalized Nudging Wear Off? A Longitudinal Study of AI Self-Modeling for Behavioral EngagementFebruary 27, 2026...</p></details>
    Published: February 27, 2026  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: jmir.org  
-   Link: <a href="https://www.jmir.org/2019/11/e14645/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2019/11/e14645/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>User Engagement and Attrition in an App-Based Physical...by S Edney · 2019 · Cited by 127 — Attrition was defined as occurring once the...</p></details>
+   Link:<a href="https://www.jmir.org/2019/11/e14645/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2019/11/e14645/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>User Engagement and Attrition in an App-Based Physical...by S Edney · 2019 · Cited by 127 — Attrition was defined as occurring once the...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: user.com  
-   Link: <a href="https://user.com/" target="_blank" rel="noopener noreferrer nofollow">https://user.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Marketing Automation PlatformUser.com is a marketing automation platform that helps companies streamline processes and grow their busines...</p></details>
+   Link:<a href="https://user.com/" target="_blank" rel="noopener noreferrer nofollow">https://user.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Marketing Automation PlatformUser.com is a marketing automation platform that helps companies streamline processes and grow their busines...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1227443/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1227443/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersPotential associations between behavior change...by M Milne-Ives · 2023 · Cited by 75 — Six BCTs were repeatedly associated wit...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1227443/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1227443/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersPotential associations between behavior change...by M Milne-Ives · 2023 · Cited by 75 — Six BCTs were repeatedly associated wit...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: vocabulary.com  
-   Link: <a href="https://www.vocabulary.com/dictionary/user" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/dictionary/user</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, [Meaning](&amp;#123;&amp;#123; &#x27;meaning/&#x27; | relative_url &amp;#125;&amp;#125;) &amp; SynonymsA user is someone who employs or uses a particular thing, like a user of nicotine or a user of an internet...</p></details>
+   Link:<a href="https://www.vocabulary.com/dictionary/user" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/dictionary/user</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, [Meaning](&amp;#123;&amp;#123; &#x27;meaning/&#x27; | relative_url &amp;#125;&amp;#125;) &amp; SynonymsA user is someone who employs or uses a particular thing, like a user of nicotine or a user of an internet...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/big-problems/improving-well-being-apps" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/big-problems/improving-well-being-apps</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Improving Well-Being AppsChallenge #1: Users Abandon Apps Too Quickly for Long-Term Behavior Change. High customer churn is a problem for...</p></details>
+   Link:<a href="https://thedecisionlab.com/big-problems/improving-well-being-apps" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/big-problems/improving-well-being-apps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Improving Well-Being AppsChallenge #1: Users Abandon Apps Too Quickly for Long-Term Behavior Change. High customer churn is a problem for...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: eprints.whiterose.ac.uk  
-   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/215742/1/Long-term%20participant%20retention%20and%20engagement%20patterns%20in%20an%20app%20and%20wearable-based%20multinational%20remote%20digital%20depression.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/215742/1/Long-term%20participant%20retention%20and%20engagement%20patterns%20in%20an%20app%20and%20wearable-based%20multinational%20remote%20digital%20depression.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>whiterose.ac.ukLong-term participant retention and engagement patterns...by Y Zhang · 2023 · Cited by 59 — We report findings on long-te...</p></details>
+   Link:<a href="https://eprints.whiterose.ac.uk/id/eprint/215742/1/Long-term%20participant%20retention%20and%20engagement%20patterns%20in%20an%20app%20and%20wearable-based%20multinational%20remote%20digital%20depression.pdf" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/215742/1/Long-term%20participant%20retention%20and%20engagement%20patterns%20in%20an%20app%20and%20wearable-based%20multinational%20remote%20digital%20depression.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>whiterose.ac.ukLong-term participant retention and engagement patterns...by Y Zhang · 2023 · Cited by 59 — We report findings on long-te...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/EnglishLearning/comments/1e4mukw/whats_this_user_mean/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/EnglishLearning/comments/1e4mukw/whats_this_user_mean/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s this &quot;user&quot; mean?: r/EnglishLearningA user is a person who manipulates other people to get things out of them. You&#x27;re using the p...</p></details>
+   Link:<a href="https://www.reddit.com/r/EnglishLearning/comments/1e4mukw/whats_this_user_mean/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/EnglishLearning/comments/1e4mukw/whats_this_user_mean/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s this &quot;user&quot; mean?: r/EnglishLearningA user is a person who manipulates other people to get things out of them. You&#x27;re using the p...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/mental-health-app-retention-crisis-scott-jqt9c" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/mental-health-app-retention-crisis-scott-jqt9c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Digital Mental Health Can&#x27;t Keep Its UsersMental health apps are failing their users, and fast. Roughly 97% of people abandon them wi...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/mental-health-app-retention-crisis-scott-jqt9c" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/mental-health-app-retention-crisis-scott-jqt9c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Digital Mental Health Can&#x27;t Keep Its UsersMental health apps are failing their users, and fast. Roughly 97% of people abandon them wi...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/mobile-health-app-engagement-crisis-scott-6xryc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/mobile-health-app-engagement-crisis-scott-6xryc</a>  
+   Link:<a href="https://www.linkedin.com/pulse/mobile-health-app-engagement-crisis-scott-6xryc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/mobile-health-app-engagement-crisis-scott-6xryc</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/user" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/user</a>  
+   Link:<a href="https://www.merriam-webster.com/dictionary/user" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/user</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: collinsdictionary.com  
-   Link: <a href="https://www.collinsdictionary.com/us/dictionary/english/user" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/us/dictionary/english/user</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USER definition in American EnglishA user is a person or thing that uses something such as a place, facility, product, or machine. Beach...</p></details>
+   Link:<a href="https://www.collinsdictionary.com/us/dictionary/english/user" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/us/dictionary/english/user</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USER definition in American EnglishA user is a person or thing that uses something such as a place, facility, product, or machine. Beach...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: termsfeed.com  
-   Link: <a href="https://www.termsfeed.com/dictionary/user-definition/" target="_blank" rel="noopener noreferrer nofollow">https://www.termsfeed.com/dictionary/user-definition/</a>  
+   Link:<a href="https://www.termsfeed.com/dictionary/user-definition/" target="_blank" rel="noopener noreferrer nofollow">https://www.termsfeed.com/dictionary/user-definition/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: mobihealthnews.com  
-   Link: <a href="https://www.mobihealthnews.com/news/mobile-app-based-health-studies-hampered-low-participant-engagement-retention-rates" target="_blank" rel="noopener noreferrer nofollow">https://www.mobihealthnews.com/news/mobile-app-based-health-studies-hampered-low-participant-engagement-retention-rates</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mobile app-based health studies hampered by low...Apr 29, 2022 — Studies using mobile health applications are hampered by significantly...</p></details>
+   Link:<a href="https://www.mobihealthnews.com/news/mobile-app-based-health-studies-hampered-low-participant-engagement-retention-rates" target="_blank" rel="noopener noreferrer nofollow">https://www.mobihealthnews.com/news/mobile-app-based-health-studies-hampered-low-participant-engagement-retention-rates</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mobile app-based health studies hampered by low...Apr 29, 2022 — Studies using mobile health applications are hampered by significantly...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: fit-minded.com  
    Title: why women abandon health apps by february and why the data keeps being ignored  
-   Link: <a href="https://fit-minded.com/why-women-abandon-health-apps-by-february-and-why-the-data-keeps-being-ignored/" target="_blank" rel="noopener noreferrer nofollow">https://fit-minded.com/why-women-abandon-health-apps-by-february-and-why-the-data-keeps-being-ignored/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Women Abandon Health Apps by February and Why...Jan 13, 2026 — Digital health retention often drops after January because rigid enga...</p></details>
+   Link:<a href="https://fit-minded.com/why-women-abandon-health-apps-by-february-and-why-the-data-keeps-being-ignored/" target="_blank" rel="noopener noreferrer nofollow">https://fit-minded.com/why-women-abandon-health-apps-by-february-and-why-the-data-keeps-being-ignored/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why Women Abandon Health Apps by February and Why...Jan 13, 2026 — Digital health retention often drops after January because rigid enga...</p></details>

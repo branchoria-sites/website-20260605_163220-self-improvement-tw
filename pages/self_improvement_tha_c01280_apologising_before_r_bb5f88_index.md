@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /self-improvement-tha-c01280/
 description: Focused pages that expand on Apologies.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: self_improvement_tha_c01280_apologising_before_r_bb5f88
 parent_title: Apologies
@@ -16,7 +16,7 @@ parent_permalink: /apologies/
 
 # Explore Topics in Apologies
 
-The following pages expand on the main **[Apologies]({{ '/apologies/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Apologies]({{ '/apologies/' | relative_url }})** page and cover its key branches in.
 
 - [Behaviour Change]({{ '/behaviour-change/' | relative_url }})
 - [Timing]({{ '/timing/' | relative_url }})

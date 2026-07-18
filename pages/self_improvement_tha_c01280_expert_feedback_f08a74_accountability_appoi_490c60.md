@@ -271,7 +271,7 @@ image: /assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_account
 Many people know what they intend to do. They want to exercise, write, study, save money, attend therapy, reduce alcohol consumption, or complete an important project. The difficulty is not forming the intention but converting it into repeated action. Accountability appointments help bridge that gap by changing what happens between one decision and the next. Instead of asking, “Did I feel motivated?”, they create a recurring moment when someone must show what actually happened.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_accountability_appoi_490c60-Illustration-1-dark.svg" | relative_url }}" alt="Accountability illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_accountability_appoi_490c60-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_expert_feedback_f08a74_accountability_appoi_490c60-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This is why accountability often works better than intention alone. The value is not that another person magically supplies motivation. The value is that a future review creates an expectation of evidence. Goals become observable. Plans become actions that can be checked. Missed actions become data rather than excuses. Research on [behaviour change]({{ 'behaviour-change/' | relative_url }}) repeatedly finds that self-monitoring, feedback, goal review, action planning, and [social support]({{ 'social-support/' | relative_url }}) are among the most reliable components of effective interventions. Accountability appointments combine these elements into a single recurring process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-regulatory behavior change techniques in interventions to...by B Spring · 2020 · Cited by 115 — The most commonly reported BCTs...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10498822/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Effective Behavior Change Techniques in Digital Health...by JL Mair · 2023 · Cited by 158 — Overall, there was good evidence to sugge...</span></span></span>
+This is why accountability often works better than intention alone. The value is not that another person magically supplies motivation. The value is that a future review creates an expectation of evidence. Goals become observable. Plans become actions that can be checked. Missed actions become data rather than excuses. Research on [behaviour change]({{ 'behaviour-change/' | relative_url }}) repeatedly finds that self-monitoring, feedback, goal review, action planning, and [social support]({{ 'social-support/' | relative_url }}) are among the most reliable components of effective interventions. Accountability appointments combine these elements into a single recurring process.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-regulatory behavior change techniques in interventions to...by B Spring · 2020 · Cited by 115 — The most commonly reported BCTs...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10498822/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Effective Behavior Change Techniques in Digital Health...by JL Mair · 2023 · Cited by 158 — Overall, there was good evidence to sugge...</span></span></span>
 
 Within coaching, therapy, mentoring, and other forms of expert [support]({{ 'support/' | relative_url }}), accountability works best when it helps a person build self-regulation rather than permanent dependence. The appointment is not the intervention by itself. The intervention is the evidence-based review cycle that the appointment makes possible.
 
@@ -279,14 +279,14 @@ Within coaching, therapy, mentoring, and other forms of expert [support]({{ 'sup
 
 Intentions are private. Evidence is public, even if the audience is only one coach, therapist, supervisor, or accountability partner.
 
-Behaviour-change research has long recognised an “intention–action gap”: people frequently want to do something yet fail to follow through. One reason is that daily life introduces distractions, competing priorities, emotional discomfort, and forgotten plans. [Techniques]({{ 'techniques/' | relative_url }}) such as implementation intentions—specific “if–then” plans describing when, where, and how an action will occur—improve goal attainment because they translate vague wishes into concrete behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7571594/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-Regulation Mechanisms in Health Behaviour Changeby EA Hennessy · 2020 · Cited by 242 — Self-regulation is one primary mechanism i...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) Implementation Intentions and Goal AchievementThis review analyzes whether realization of goal intentions is facilitated by forming...</span></span></span>
+Behaviour-change research has long recognised an “intention–action gap”: people frequently want to do something yet fail to follow through. One reason is that daily life introduces distractions, competing priorities, emotional discomfort, and forgotten plans. [Techniques]({{ 'techniques/' | relative_url }}) such as implementation intentions—specific “if–then” plans describing when, where, and how an action will occur—improve goal attainment because they translate vague wishes into concrete behaviour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7571594/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-Regulation Mechanisms in Health Behaviour Changeby EA Hennessy · 2020 · Cited by 242 — Self-regulation is one primary mechanism i...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) Implementation Intentions and Goal AchievementThis review analyzes whether realization of goal intentions is facilitated by forming...</span></span></span>
 
 Accountability appointments add another layer. They create a future point where those plans will be reviewed. The question shifts from:
 
 * “Will I try to exercise more?”
 * to “What evidence will I bring next Tuesday showing that I exercised?”
 
-That shift matters because behaviour becomes measurable. Research examining adherence and behaviour change has argued that accountability is a distinct factor influencing whether people continue with desired actions over time. Accountability is not simply social pressure; it is the expectation that behaviour can be observed, discussed, and evaluated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — In 29 experimental studies with 1,636 participants, implementation intentions proved effective acr...</span></span></span>
+That shift matters because behaviour becomes measurable. Research examining adherence and behaviour change has argued that accountability is a distinct factor influencing whether people continue with desired actions over time. Accountability is not simply social pressure; it is the expectation that behaviour can be observed, discussed, and evaluated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCPromoting the translation of intentions into action by</span><span class="citation-popover-snippet">by F Wieber · 2015 · Cited by 215 — In 29 experimental studies with 1,636 participants, implementation intentions proved effective acr...</span></span></span>
 
 The psychological effect is subtle but powerful. A person who knows that a coach will ask for evidence often makes different decisions during the week. The appointment influences behaviour before it occurs, not merely after.
 
@@ -306,7 +306,7 @@ The most effective accountability appointments usually follow a simple structure
 
 </div>
 
-This cycle aligns closely with behaviour-change techniques repeatedly identified in systematic reviews: [goal setting]({{ 'goal-setting/' | relative_url }}), self-monitoring, feedback on behaviour, review of goals, and problem solving. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5536091/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Accountability: a missing construct in models of adherence...by E Oussedik · 2017 · Cited by 88 — Defining accountability and incorpo...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12649445/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">of Behaviour Change Techniques in Promoting...by S Peng · 2025 · Cited by 2 — This umbrella review examined the application of behaviour...</span></span></span>
+This cycle aligns closely with behaviour-change techniques repeatedly identified in systematic reviews: [goal setting]({{ 'goal-setting/' | relative_url }}), self-monitoring, feedback on behaviour, review of goals, and problem solving.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5536091/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Accountability: a missing construct in models of adherence...by E Oussedik · 2017 · Cited by 88 — Defining accountability and incorpo...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12649445/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">of Behaviour Change Techniques in Promoting...by S Peng · 2025 · Cited by 2 — This umbrella review examined the application of behaviour...</span></span></span>
 
 Several practical changes occur when reviews become regular.
 
@@ -318,7 +318,7 @@ Several practical changes occur when reviews become regular.
 
 **Attention shifts towards behaviour rather than identity.** The discussion centres on what was done, what was measured, and what will change next.
 
-This is one reason coaching and therapeutic support can be effective even when sessions are infrequent. The real work often occurs between appointments, while the review process helps maintain attention on observable behaviour. Health and wellness coaching research consistently describes accountability, self-monitoring, and reflection as central components of successful coaching interventions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11130595/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCSupporting Sustainable Health Behavior Change</span><span class="citation-popover-snippet">NIHby JA Matthews · 2024 · Cited by 81 — Behavior change is the foundation for effective lifestyle prescriptions, yet such change i...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3268700/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by LE Burke · 2011 · Cited by 1808 — This article presents a systematic review of the literature on three components of self-monitorin...</span></span></span>
+This is one reason coaching and therapeutic support can be effective even when sessions are infrequent. The real work often occurs between appointments, while the review process helps maintain attention on observable behaviour. Health and wellness coaching research consistently describes accountability, self-monitoring, and reflection as central components of successful coaching interventions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11130595/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCSupporting Sustainable Health Behavior Change</span><span class="citation-popover-snippet">NIHby JA Matthews · 2024 · Cited by 81 — Behavior change is the foundation for effective lifestyle prescriptions, yet such change i...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3268700/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by LE Burke · 2011 · Cited by 1808 — This article presents a systematic review of the literature on three components of self-monitorin...</span></span></span>
 
 ## How to Track Evidence Between Sessions
 
@@ -349,7 +349,7 @@ Examples include:
 
 The aim is not surveillance. The aim is creating a factual record that reduces reliance on memory.
 
-Research across health, weight management, physical activity, and digital behaviour-change interventions repeatedly identifies self-monitoring as one of the most consistently useful techniques associated with improved outcomes and engagement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">Digital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 83 — The results show that the most applied behavior...</span></span></span> [3PMC 3PMC]
+Research across health, weight management, physical activity, and digital behaviour-change interventions repeatedly identifies self-monitoring as one of the most consistently useful techniques associated with improved outcomes and engagement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jmir.org">[JMIR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jmir.org</span><span class="citation-popover-snippet">Digital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 83 — The results show that the most applied behavior...</span></span></span> [3PMC 3PMC]
 
 ### Record behaviour close to the moment
 
@@ -357,7 +357,7 @@ Evidence is strongest when captured immediately or shortly after action.
 
 A workout logged three minutes after completion is more reliable than a weekly reconstruction from memory. A spending record entered at the point of purchase is more useful than trying to remember transactions later.
 
-This is one reason [digital tools]({{ 'digital-tools/' | relative_url }}) can help. Their value is not technological sophistication but their ability to reduce the delay between behaviour and recording. Reviews of behaviour-change technologies frequently identify self-monitoring and feedback as core mechanisms behind effectiveness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10765525/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCImpact of feedback generation and presentation on self</span><span class="citation-popover-snippet">by RA Krukowski · 2024 · Cited by 43 — This systematic review aimed to evaluate whether feedback increases intervention effectiveness...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10545861/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Potential associations between behavior change techniques...by M Milne-Ives · 2023 · Cited by 74 — Six BCTs were repeatedly associate...</span></span></span>
+This is one reason [digital tools]({{ 'digital-tools/' | relative_url }}) can help. Their value is not technological sophistication but their ability to reduce the delay between behaviour and recording. Reviews of behaviour-change technologies frequently identify self-monitoring and feedback as core mechanisms behind effectiveness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10765525/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCImpact of feedback generation and presentation on self</span><span class="citation-popover-snippet">by RA Krukowski · 2024 · Cited by 43 — This systematic review aimed to evaluate whether feedback increases intervention effectiveness...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10545861/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Potential associations between behavior change techniques...by M Milne-Ives · 2023 · Cited by 74 — Six BCTs were repeatedly associate...</span></span></span>
 
 ### Bring evidence, not explanations
 
@@ -437,7 +437,7 @@ This mirrors how successful organisations move from intensive supervision toward
 
 One common mistake is abandoning both accountability and measurement simultaneously.
 
-Maintaining some form of self-monitoring preserves awareness and allows early detection of relapse. Reviews of self-regulation mechanisms consistently identify monitoring and feedback loops as important elements of sustained behaviour change. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12259960/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">review and meta analysis of standalone digital...by SA Lee · 2025 · Cited by 9 — Additionally, the examination of behavior change techni...</span></span></span>
+Maintaining some form of self-monitoring preserves awareness and allows early detection of relapse. Reviews of self-regulation mechanisms consistently identify monitoring and feedback loops as important elements of sustained behaviour change.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12259960/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">review and meta analysis of standalone digital...by SA Lee · 2025 · Cited by 9 — Additionally, the examination of behavior change techni...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PZqNn17OXOE" title="How an Accountability Partner Can Help You Transform! | Dr. David Hawkins" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PZqNn17OXOE" target="_blank" rel="noopener noreferrer">How an Accountability Partner Can Help You Transform! | Dr. David Hawkins</a></p><p class="youtube-embed-meta">Channel: Dr. David Hawkins &middot; Views: 1.6K &middot; Uploaded: January 2023 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PZqNn17OXOE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PZqNn17OXOE">Open on YouTube</a></p></div></div></div>
 
@@ -450,7 +450,7 @@ Implementation intentions are particularly useful here. Rather than hoping setba
 * “If I miss two workouts, then I will schedule the next session before leaving work.”
 * “If I skip a week of writing, then I will restart with fifteen minutes rather than waiting for a free day.”
 
-Research on implementation intentions shows that such pre-specified responses help translate goals into action when obstacles arise. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29191800/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Intention and Reminder Effects on...30 Nov 2017 — The aim of this experiment was to manipulate the effects of implementation intentions...</span></span></span>
+Research on implementation intentions shows that such pre-specified responses help translate goals into action when obstacles arise. PMC<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/29191800/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Intention and Reminder Effects on...30 Nov 2017 — The aim of this experiment was to manipulate the effects of implementation intentions...</span></span></span>
 
 ## The Most Common Mistake: Reviewing Motivation Instead of Behaviour
 
@@ -471,181 +471,181 @@ A more productive conversation asks:
 
 This approach treats behaviour change as a process of experimentation rather than self-judgement.
 
-When accountability works, it does not transform human nature. It simply shortens the distance between intention and observation. Regular appointments create a recurring requirement to produce evidence, and that requirement often succeeds where motivation alone fails. By combining planning, self-monitoring, feedback, and review into a single cycle, accountability appointments turn private goals into actions that can be seen, measured, and improved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-regulatory behavior change techniques in interventions to...by B Spring · 2020 · Cited by 115 — The most commonly reported BCTs...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10498822/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Effective Behavior Change Techniques in Digital Health...by JL Mair · 2023 · Cited by 158 — Overall, there was good evidence to sugge...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7571594/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-Regulation Mechanisms in Health Behaviour Changeby EA Hennessy · 2020 · Cited by 242 — Self-regulation is one primary mechanism i...</span></span></span>
+When accountability works, it does not transform human nature. It simply shortens the distance between intention and observation. Regular appointments create a recurring requirement to produce evidence, and that requirement often succeeds where motivation alone fails. By combining planning, self-monitoring, feedback, and review into a single cycle, accountability appointments turn private goals into actions that can be seen, measured, and improved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-regulatory behavior change techniques in interventions to...by B Spring · 2020 · Cited by 115 — The most commonly reported BCTs...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10498822/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Effective Behavior Change Techniques in Digital Health...by JL Mair · 2023 · Cited by 158 — Overall, there was good evidence to sugge...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7571594/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Self-Regulation Mechanisms in Health Behaviour Changeby EA Hennessy · 2020 · Cited by 242 — Self-regulation is one primary mechanism i...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Accountability Works Better Than Intention. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Accountability Works Better Than Intention. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coaching+Habit+by+Michael+Bungay+Stanier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coaching Habit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EGFPDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Coaching Habit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Coaching+Habit+by+Michael+Bungay+Stanier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coaching Habit">The Coaching Habit</a>
-        </h4>
-        <p class="fr-book-author">By Michael Bungay Stanier</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Coaching+Habit+by+Michael+Bungay+Stanier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Coaching Habit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EGFPDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Coaching Habit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Coaching+Habit+by+Michael+Bungay+Stanier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Coaching Habit">The Coaching Habit</a>
+</h4>
+<p class="fr-book-author">By Michael Bungay Stanier</p>
         
-        <p class="fr-book-desc">Focuses on regular conversations, review, and accountability.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Coaching+Habit+by+Michael+Bungay+Stanier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on regular conversations, review, and accountability.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Coaching+Habit+by+Michael+Bungay+Stanier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Highlights tracking, accountability, and systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Highlights tracking, accountability, and systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Carol S. Dweck</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
-        <p class="fr-book-desc">Frames feedback as a tool for growth rather than judgment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
+</h4>
+<p class="fr-book-author">By Carol S. Dweck</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
+<p class="fr-book-desc">Frames feedback as a tool for growth rather than judgment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
-        </h4>
-        <p class="fr-book-author">By B. J. Fogg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
+</h4>
+<p class="fr-book-author">By B. J. Fogg</p>
         
-        <p class="fr-book-desc">Supports sustainable behavior through structured follow-through.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports sustainable behavior through structured follow-through.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coaching+Habit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coaching Habit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Coaching+Habit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Coaching Habit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mindset&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mindset</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-    </div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-16bfec-why-accountability-works-better-than-intention-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-16bfec-why-accountability-works-better-than-intention-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-16bfec-why-accountability-works-better-than-intention-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-16bfec-why-accountability-works-better-than-intention-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-16bfec-why-accountability-works-better-than-intention-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-16bfec-why-accountability-works-better-than-intention-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-16bfec-why-accountability-works-better-than-intention-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-16bfec-why-accountability-works-better-than-intention-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-16bfec-why-accountability-works-better-than-intention-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-16bfec-why-accountability-works-better-than-intention-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-16bfec-why-accountability-works-better-than-intention-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-16bfec-why-accountability-works-better-than-intention-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-16bfec-why-accountability-works-better-than-intention-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-16bfec-why-accountability-works-better-than-intention-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-16bfec-why-accountability-works-better-than-intention-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-16bfec-why-accountability-works-better-than-intention-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-16bfec-why-accountability-works-better-than-intention-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-16bfec-why-accountability-works-better-than-intention-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-16bfec-why-accountability-works-better-than-intention-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-16bfec-why-accountability-works-better-than-intention-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-16bfec-why-accountability-works-better-than-intention-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-16bfec-why-accountability-works-better-than-intention-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-16bfec-why-accountability-works-better-than-intention-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-16bfec-why-accountability-works-better-than-intention-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-16bfec-why-accountability-works-better-than-intention-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-16bfec-why-accountability-works-better-than-intention-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-16bfec-why-accountability-works-better-than-intention-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-16bfec-why-accountability-works-better-than-intention-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-16bfec-why-accountability-works-better-than-intention-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-16bfec-why-accountability-works-better-than-intention-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-16bfec-why-accountability-works-better-than-intention-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-16bfec-why-accountability-works-better-than-intention-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-16bfec-why-accountability-works-better-than-intention-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=accountability-16bfec-why-accountability-works-better-than-intention-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -661,7 +661,7 @@ When accountability works, it does not transform human nature. It simply shorten
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -681,7 +681,7 @@ When accountability works, it does not transform human nature. It simply shorten
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -713,7 +713,7 @@ When accountability works, it does not transform human nature. It simply shorten
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -743,7 +743,7 @@ When accountability works, it does not transform human nature. It simply shorten
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -801,165 +801,165 @@ When accountability works, it does not transform human nature. It simply shorten
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-regulatory behavior change techniques in interventions to...by B Spring · 2020 · Cited by 115 — The most commonly reported BCTs...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-regulatory behavior change techniques in interventions to...by B Spring · 2020 · Cited by 115 — The most commonly reported BCTs...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10498822/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10498822/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effective Behavior Change Techniques in Digital Health...by JL Mair · 2023 · Cited by 158 — Overall, there was good evidence to sugge...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10498822/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10498822/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Effective Behavior Change Techniques in Digital Health...by JL Mair · 2023 · Cited by 158 — Overall, there was good evidence to sugge...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7571594/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7571594/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Regulation Mechanisms in Health Behaviour Changeby EA Hennessy · 2020 · Cited by 242 — Self-regulation is one primary mechanism i...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7571594/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7571594/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-Regulation Mechanisms in Health Behaviour Changeby EA Hennessy · 2020 · Cited by 242 — Self-regulation is one primary mechanism i...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCPromoting the translation of intentions into action by  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by F Wieber · 2015 · Cited by 215 — In 29 experimental studies with 1,636 participants, implementation intentions proved effective acr...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4500900/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by F Wieber · 2015 · Cited by 215 — In 29 experimental studies with 1,636 participants, implementation intentions proved effective acr...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Implementation Intentions and Goal AchievementThis review analyzes whether realization of goal intentions is facilitated by forming...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/37367696_Implementation_Intentions_and_Goal_Achievement_A_Meta-Analysis_of_Effects_and_Processes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Implementation Intentions and Goal AchievementThis review analyzes whether realization of goal intentions is facilitated by forming...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5536091/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5536091/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Accountability: a missing construct in models of adherence...by E Oussedik · 2017 · Cited by 88 — Defining accountability and incorpo...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5536091/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5536091/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Accountability: a missing construct in models of adherence...by E Oussedik · 2017 · Cited by 88 — Defining accountability and incorpo...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12649445/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12649445/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of Behaviour Change Techniques in Promoting...by S Peng · 2025 · Cited by 2 — This umbrella review examined the application of behaviour...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12649445/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12649445/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Behaviour Change Techniques in Promoting...by S Peng · 2025 · Cited by 2 — This umbrella review examined the application of behaviour...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCSupporting Sustainable Health Behavior Change  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11130595/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11130595/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby JA Matthews · 2024 · Cited by 81 — Behavior change is the foundation for effective lifestyle prescriptions, yet such change i...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11130595/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11130595/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby JA Matthews · 2024 · Cited by 81 — Behavior change is the foundation for effective lifestyle prescriptions, yet such change i...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3268700/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3268700/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by LE Burke · 2011 · Cited by 1808 — This article presents a systematic review of the literature on three components of self-monitorin...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3268700/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3268700/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by LE Burke · 2011 · Cited by 1808 — This article presents a systematic review of the literature on three components of self-monitorin...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCImpact of feedback generation and presentation on self  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10765525/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10765525/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by RA Krukowski · 2024 · Cited by 43 — This systematic review aimed to evaluate whether feedback increases intervention effectiveness...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10765525/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10765525/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by RA Krukowski · 2024 · Cited by 43 — This systematic review aimed to evaluate whether feedback increases intervention effectiveness...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10545861/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10545861/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Potential associations between behavior change techniques...by M Milne-Ives · 2023 · Cited by 74 — Six BCTs were repeatedly associate...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10545861/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10545861/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Potential associations between behavior change techniques...by M Milne-Ives · 2023 · Cited by 74 — Six BCTs were repeatedly associate...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: jmir.org  
-   Link: <a href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e54375/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 83 — The results show that the most applied behavior...</p></details>
+   Link:<a href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e54375/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 83 — The results show that the most applied behavior...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12259960/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12259960/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>review and meta analysis of standalone digital...by SA Lee · 2025 · Cited by 9 — Additionally, the examination of behavior change techni...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12259960/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12259960/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>review and meta analysis of standalone digital...by SA Lee · 2025 · Cited by 9 — Additionally, the examination of behavior change techni...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
    Title: (PDF) Changing Physician Behavior With Implementation Intentions  
-   Link: <a href="https://www.researchgate.net/publication/299395724_Changing_Physician_Behavior_With_Implementation_Intentions_Closing_the_Gap_Between_Intentions_and_Actions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/299395724_Changing_Physician_Behavior_With_Implementation_Intentions_Closing_the_Gap_Between_Intentions_and_Actions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>August 6, 2025 — Implementation intentions are “if–then” plans that specify an anticipated future situation and a planned response—“ If I...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/299395724_Changing_Physician_Behavior_With_Implementation_Intentions_Closing_the_Gap_Between_Intentions_and_Actions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/299395724_Changing_Physician_Behavior_With_Implementation_Intentions_Closing_the_Gap_Between_Intentions_and_Actions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 6, 2025 — Implementation intentions are “if–then” plans that specify an anticipated future situation and a planned response—“ If I...</p></details>
    Published: August 6, 2025  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/232586066_Implementation_Intentions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232586066_Implementation_Intentions</a>  
+   Link:<a href="https://www.researchgate.net/publication/232586066_Implementation_Intentions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/232586066_Implementation_Intentions</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/391239208_A_Systematic_Review_and_Meta-Analysis_of_Research_on_Goals_for_Behavior_Change" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391239208_A_Systematic_Review_and_Meta-Analysis_of_Research_on_Goals_for_Behavior_Change</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 6, 2025 — PDF | On Apr 25, 2025, Jun Zhu and others published A Systematic Review and Meta-Analysis of Research on Goals for Behavior...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/391239208_A_Systematic_Review_and_Meta-Analysis_of_Research_on_Goals_for_Behavior_Change" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391239208_A_Systematic_Review_and_Meta-Analysis_of_Research_on_Goals_for_Behavior_Change</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 6, 2025 — PDF | On Apr 25, 2025, Jun Zhu and others published A Systematic Review and Meta-Analysis of Research on Goals for Behavior...</p></details>
    Published: May 6, 2025  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/321440716_Unique_Effects_of_Setting_Goals_on_Behavior_Change_Systematic_Review_and_Meta-Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/321440716_Unique_Effects_of_Setting_Goals_on_Behavior_Change_Systematic_Review_and_Meta-Analysis</a>  
+   Link:<a href="https://www.researchgate.net/publication/321440716_Unique_Effects_of_Setting_Goals_on_Behavior_Change_Systematic_Review_and_Meta-Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/321440716_Unique_Effects_of_Setting_Goals_on_Behavior_Change_Systematic_Review_and_Meta-Analysis</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/247282549_How_can_implementation_intentions_as_a_behaviour_change_intervention_be_improved" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/247282549_How_can_implementation_intentions_as_a_behaviour_change_intervention_be_improved</a>  
+   Link:<a href="https://www.researchgate.net/publication/247282549_How_can_implementation_intentions_as_a_behaviour_change_intervention_be_improved" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/247282549_How_can_implementation_intentions_as_a_behaviour_change_intervention_be_improved</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/377155498_Impact_of_feedback_generation_and_presentation_on_self-monitoring_behaviors_dietary_intake_physical_activity_and_weight_a_systematic_review_and_meta-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377155498_Impact_of_feedback_generation_and_presentation_on_self-monitoring_behaviors_dietary_intake_physical_activity_and_weight_a_systematic_review_and_meta-analysis</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Impact of feedback generation and presentation on self...12 Mar 2026 — This systematic review aimed to evaluate whether feedback increas...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/377155498_Impact_of_feedback_generation_and_presentation_on_self-monitoring_behaviors_dietary_intake_physical_activity_and_weight_a_systematic_review_and_meta-analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/377155498_Impact_of_feedback_generation_and_presentation_on_self-monitoring_behaviors_dietary_intake_physical_activity_and_weight_a_systematic_review_and_meta-analysis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Impact of feedback generation and presentation on self...12 Mar 2026 — This systematic review aimed to evaluate whether feedback increas...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/29191800/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29191800/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Intention and Reminder Effects on...30 Nov 2017 — The aim of this experiment was to manipulate the effects of implementation intentions...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/29191800/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/29191800/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Intention and Reminder Effects on...30 Nov 2017 — The aim of this experiment was to manipulate the effects of implementation intentions...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/36945683/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36945683/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Change Techniques Improve Adherence to...by CL Peiris · 2023 · Cited by 20 — This systematic review aims to determine which intervention...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/36945683/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/36945683/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Change Techniques Improve Adherence to...by CL Peiris · 2023 · Cited by 20 — This systematic review aims to determine which intervention...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cancercontrol.cancer.gov  
-   Link: <a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer ControlImplementation IntentionsImplementation intentions are formed for the purpose of enhancing the translation of goal intentio...</p></details>
+   Link:<a href="https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions" target="_blank" rel="noopener noreferrer nofollow">https://cancercontrol.cancer.gov/brp/research/constructs/implementation-intentions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cancer ControlImplementation IntentionsImplementation intentions are formed for the purpose of enhancing the translation of goal intentio...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: strongerbyscience.com  
-   Link: <a href="https://www.strongerbyscience.com/goal-setting/" target="_blank" rel="noopener noreferrer nofollow">https://www.strongerbyscience.com/goal-setting/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An Evidence-Based Approach to Goal Setting and Behavior ChangeImplementation intention is defined as “an if–then plan that specifies when...</p></details>
+   Link:<a href="https://www.strongerbyscience.com/goal-setting/" target="_blank" rel="noopener noreferrer nofollow">https://www.strongerbyscience.com/goal-setting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An Evidence-Based Approach to Goal Setting and Behavior ChangeImplementation intention is defined as “an if–then plan that specifies when...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5e7b4e85d3bf7f133c923435/PHEBI_Achieving_Behaviour_Change_Local_Government.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5e7b4e85d3bf7f133c923435/PHEBI_Achieving_Behaviour_Change_Local_Government.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Teenagers need social support from friends and family to exercise. Need the opportunity to interact with friends during exercise. Mothers...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5e7b4e85d3bf7f133c923435/PHEBI_Achieving_Behaviour_Change_Local_Government.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5e7b4e85d3bf7f133c923435/PHEBI_Achieving_Behaviour_Change_Local_Government.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Teenagers need social support from friends and family to exercise. Need the opportunity to interact with friends during exercise. Mothers...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/lifeandstyle/2023/nov/27/the-buddy-boost-how-accountability-partners-make-you-healthy-happy-and-more-successful" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/lifeandstyle/2023/nov/27/the-buddy-boost-how-accountability-partners-make-you-healthy-happy-and-more-successful</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The buddy boost: how &#x27;accountability partners&#x27; make you...27 Nov 2023 — The idea of a friend who helps you commit to your goals is growi...</p></details>
+   Link:<a href="https://www.theguardian.com/lifeandstyle/2023/nov/27/the-buddy-boost-how-accountability-partners-make-you-healthy-happy-and-more-successful" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/lifeandstyle/2023/nov/27/the-buddy-boost-how-accountability-partners-make-you-healthy-happy-and-more-successful</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The buddy boost: how &#x27;accountability partners&#x27; make you...27 Nov 2023 — The idea of a friend who helps you commit to your goals is growi...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ovid.com  
    Title: ccp0000260~unique effects of setting goals on behavior change  
-   Link: <a href="https://www.ovid.com/journals/jccpy/pdf/10.1037/ccp0000260~unique-effects-of-setting-goals-on-behavior-change" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/jccpy/pdf/10.1037/ccp0000260~unique-effects-of-setting-goals-on-behavior-change</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unique Effects of Setting Goals on Behavior Changeby T Epton · 2017 · Cited by 488 — The aims of this systematic review and meta-analysis...</p></details>
+   Link:<a href="https://www.ovid.com/journals/jccpy/pdf/10.1037/ccp0000260~unique-effects-of-setting-goals-on-behavior-change" target="_blank" rel="noopener noreferrer nofollow">https://www.ovid.com/journals/jccpy/pdf/10.1037/ccp0000260~unique-effects-of-setting-goals-on-behavior-change</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unique Effects of Setting Goals on Behavior Changeby T Epton · 2017 · Cited by 488 — The aims of this systematic review and meta-analysis...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: nice.org.uk  
    Title: behaviour change individual approaches pdf 1996366337989  
-   Link: <a href="https://www.nice.org.uk/guidance/ph49/resources/behaviour-change-individual-approaches-pdf-1996366337989" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/ph49/resources/behaviour-change-individual-approaches-pdf-1996366337989</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour change: individual approaches2 Jan 2014 — This guideline covers changing health-damaging behaviours among people aged 16 and ov...</p></details>
+   Link:<a href="https://www.nice.org.uk/guidance/ph49/resources/behaviour-change-individual-approaches-pdf-1996366337989" target="_blank" rel="noopener noreferrer nofollow">https://www.nice.org.uk/guidance/ph49/resources/behaviour-change-individual-approaches-pdf-1996366337989</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behaviour change: individual approaches2 Jan 2014 — This guideline covers changing health-damaging behaviours among people aged 16 and ov...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: acefitness.org  
-   Link: <a href="https://www.acefitness.org/continuing-education/prosource/june-2016/5920/coaching-behavior-change-why-self-monitoring-is-a-key-ingredient-in-successful-behavior-change/?srsltid=AfmBOoosFksCqvg4jauLxrCa_yurRIZqgrhAx8obO-cRdsssDVJJN3jL" target="_blank" rel="noopener noreferrer nofollow">https://www.acefitness.org/continuing-education/prosource/june-2016/5920/coaching-behavior-change-why-self-monitoring-is-a-key-ingredient-in-successful-behavior-change/?srsltid=AfmBOoosFksCqvg4jauLxrCa_yurRIZqgrhAx8obO-cRdsssDVJJN3jL</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>as of behavior change, including weight loss, diabetes and blood pressure...Read more...</p></details>
+   Link:<a href="https://www.acefitness.org/continuing-education/prosource/june-2016/5920/coaching-behavior-change-why-self-monitoring-is-a-key-ingredient-in-successful-behavior-change/?srsltid=AfmBOoosFksCqvg4jauLxrCa_yurRIZqgrhAx8obO-cRdsssDVJJN3jL" target="_blank" rel="noopener noreferrer nofollow">https://www.acefitness.org/continuing-education/prosource/june-2016/5920/coaching-behavior-change-why-self-monitoring-is-a-key-ingredient-in-successful-behavior-change/?srsltid=AfmBOoosFksCqvg4jauLxrCa_yurRIZqgrhAx8obO-cRdsssDVJJN3jL</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>as of behavior change, including weight loss, diabetes and blood pressure...Read more...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/08870446.2023.2241777" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/08870446.2023.2241777</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of [action plans](&amp;#123;&amp;#123; &#x27;action-plans/&#x27; | relative_url &amp;#125;&amp;#125;) on habit and intention strength...by AL Rebar · 2025 · Cited by 23 — When behaviour change is intentional, a...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/08870446.2023.2241777" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/08870446.2023.2241777</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of [action plans](&amp;#123;&amp;#123; &#x27;action-plans/&#x27; | relative_url &amp;#125;&amp;#125;) on habit and intention strength...by AL Rebar · 2025 · Cited by 23 — When behaviour change is intentional, a...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: sweetinstitute.com  
    Title: social support and behavioral change and motivation  
-   Link: <a href="https://sweetinstitute.com/social-support-and-behavioral-change-and-motivation/" target="_blank" rel="noopener noreferrer nofollow">https://sweetinstitute.com/social-support-and-behavioral-change-and-motivation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Jan 2025 — Leveraging social support can enhance self-efficacy, create accountability, and foster positive behaviors, ultimately leadi...</p></details>
+   Link:<a href="https://sweetinstitute.com/social-support-and-behavioral-change-and-motivation/" target="_blank" rel="noopener noreferrer nofollow">https://sweetinstitute.com/social-support-and-behavioral-change-and-motivation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>23 Jan 2025 — Leveraging social support can enhance self-efficacy, create accountability, and foster positive behaviors, ultimately leadi...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2071-1050/15/16/12457" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2071-1050/15/16/12457</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This meta-analysis aims to determine the effectiveness of II interventions in improving PA among university students...</p></details>
+   Link:<a href="https://www.mdpi.com/2071-1050/15/16/12457" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2071-1050/15/16/12457</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This meta-analysis aims to determine the effectiveness of II interventions in improving PA among university students...</p></details>

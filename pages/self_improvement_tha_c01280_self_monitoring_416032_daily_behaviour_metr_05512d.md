@@ -271,7 +271,7 @@ image: /assets/images/self_improvement_tha_c01280_self_monitoring_416032_daily_b
 If you want self-monitoring to improve behaviour without becoming obsessive, track actions rather than outcomes. A good daily metric records something you can directly do today: writing for 20 minutes, walking for 30 minutes, [saving]({{ 'saving/' | relative_url }}) £10, or putting your phone away before bed. A poor daily metric records a result that is delayed, noisy or only partly under your control, such as body weight, productivity output, income, mood or a sleep score.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032_daily_behaviour_metr_05512d-Illustration-1-dark.svg" | relative_url }}" alt="Daily Metrics illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032_daily_behaviour_metr_05512d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_self_monitoring_416032_daily_behaviour_metr_05512d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This distinction matters because [behaviour change]({{ 'behaviour-change/' | relative_url }}) research consistently treats self-monitoring of behaviour as a separate technique from monitoring outcomes. The former creates immediate [feedback]({{ 'feedback/' | relative_url }}) about actions; the latter measures consequences that may take days, weeks or months to respond. Tracking remains useful when it helps you make decisions. It becomes less useful when it turns into a daily judgement of progress. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK580337/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIResults of the behaviour change technique synthesis</span><span class="citation-popover-snippet">by J Baker · 2022 — Self-monitoring of outcome(s) of behaviour (behavior change technique 2.4). Establish a method for the person to...</span></span></span>
+This distinction matters because [behaviour change]({{ 'behaviour-change/' | relative_url }}) research consistently treats self-monitoring of behaviour as a separate technique from monitoring outcomes. The former creates immediate [feedback]({{ 'feedback/' | relative_url }}) about actions; the latter measures consequences that may take days, weeks or months to respond. Tracking remains useful when it helps you make decisions. It becomes less useful when it turns into a daily judgement of progress.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK580337/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIResults of the behaviour change technique synthesis</span><span class="citation-popover-snippet">by J Baker · 2022 — Self-monitoring of outcome(s) of behaviour (behavior change technique 2.4). Establish a method for the person to...</span></span></span>
 
 ## Behaviour Metrics Versus Outcome Metrics
 
@@ -281,7 +281,7 @@ If the answer is yes, you are probably looking at a behaviour metric. If the ans
 
 GoalBehaviour MetricOutcome MetricLose weightAte planned mealsScale weightImprove fitnessCompleted workoutBody fat percentageSleep betterPhone out of bedroom by 10 pmSleep scoreBuild savingsTransferred money to savingsNet worthAdvance careerSent one application or proposalSalary increaseWrite a bookWrote 500 wordsBook completed
 
-The Behaviour Change Technique Taxonomy, a widely used framework in behaviour-change research, explicitly separates “self-monitoring of behaviour” from “self-monitoring of outcomes of behaviour”. The distinction exists because actions and results provide different kinds of information. Actions tell you what to repeat or change. Outcomes tell you whether the overall strategy is working. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK580337/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIResults of the behaviour change technique synthesis</span><span class="citation-popover-snippet">by J Baker · 2022 — Self-monitoring of outcome(s) of behaviour (behavior change technique 2.4). Establish a method for the person to...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://bmjleader.bmj.com/content/leader/7/4/301/embed/inline-supplementary-material-1.pdf?download=true" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmjleader.bmj.com">[2bmjleader.bmj.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmjleader.bmj.com</span><span class="citation-popover-title">inline supplementary material 1</span><span class="citation-popover-snippet">Feedback on behaviour, 2.3. Self-monitoring of behaviour, 2.4. Self-monitoring of outcome(s) of behaviour, 2.5. Monitoring of...</span></span></span>
+The Behaviour Change Technique Taxonomy, a widely used framework in behaviour-change research, explicitly separates “self-monitoring of behaviour” from “self-monitoring of outcomes of behaviour”. The distinction exists because actions and results provide different kinds of information. Actions tell you what to repeat or change. Outcomes tell you whether the overall strategy is working.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK580337/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIResults of the behaviour change technique synthesis</span><span class="citation-popover-snippet">by J Baker · 2022 — Self-monitoring of outcome(s) of behaviour (behavior change technique 2.4). Establish a method for the person to...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://bmjleader.bmj.com/content/leader/7/4/301/embed/inline-supplementary-material-1.pdf?download=true" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmjleader.bmj.com">[2bmjleader.bmj.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmjleader.bmj.com</span><span class="citation-popover-title">inline supplementary material 1</span><span class="citation-popover-snippet">Feedback on behaviour, 2.3. Self-monitoring of behaviour, 2.4. Self-monitoring of outcome(s) of behaviour, 2.5. Monitoring of...</span></span></span>
 
 For daily tracking, behaviour metrics usually provide cleaner feedback. If you exercised today, that fact does not change because of water retention, market conditions, poor weather or a difficult week at work. The behaviour happened or it did not.
 
@@ -295,7 +295,7 @@ When a daily tracker focuses on outcomes, these normal fluctuations can create t
 
 Behaviour metrics reduce this problem because they shorten the feedback loop. The tracker answers a practical question: “Did I perform the action I intended to perform?” That makes the system fairer and easier to sustain over time.
 
-Research on goal monitoring shows that monitoring progress tends to improve goal attainment, especially when records are maintained consistently and physically recorded. However, the usefulness of monitoring depends on what is being monitored. Tracking actions provides information that can be acted upon immediately. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Does monitoring goal progress promote goal attainment?</span><span class="citation-popover-snippet">B Harkin · 2016 · Cited by 712 — The findings suggest that monitoring goal progress is an effective self-regulation strategy, and...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/journals/releases/bul-bul0000025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">more...</span></span></span>
+Research on goal monitoring shows that monitoring progress tends to improve goal attainment, especially when records are maintained consistently and physically recorded. However, the usefulness of monitoring depends on what is being monitored. Tracking actions provides information that can be acted upon immediately.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Does monitoring goal progress promote goal attainment?</span><span class="citation-popover-snippet">B Harkin · 2016 · Cited by 712 — The findings suggest that monitoring goal progress is an effective self-regulation strategy, and...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.apa.org/pubs/journals/releases/bul-bul0000025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apa.org">[American Psychological Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apa.org</span><span class="citation-popover-snippet">more...</span></span></span>
 
 ## Examples Across Fitness, Work, Money and Sleep
 
@@ -317,7 +317,7 @@ More useful daily signals include:
 
 The outcome measures—weight, body composition, race times or strength increases—can then be reviewed weekly or monthly rather than treated as daily verdicts.
 
-Habit-formation research suggests that repeated performance of a behaviour in a stable context is what gradually creates [automaticity]({{ 'automaticity/' | relative_url }}). Tracking the behaviour itself therefore aligns with the mechanism that produces lasting change. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Time to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 95 — The premise of habit formation involv...</span></span></span>
+Habit-formation research suggests that repeated performance of a behaviour in a stable context is what gradually creates [automaticity]({{ 'automaticity/' | relative_url }}). Tracking the behaviour itself therefore aligns with the mechanism that produces lasting change.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Time to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 95 — The premise of habit formation involv...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/idhDz9miZ3w" title="The Science of How Your Brain Forms Habits (and How to Take Control)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=idhDz9miZ3w" target="_blank" rel="noopener noreferrer">The Science of How Your Brain Forms Habits (and How to Take Control)</a></p><p class="youtube-embed-meta">Channel: Dr. Tracey Marks &middot; Views: 178.5K &middot; Uploaded: April 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=idhDz9miZ3w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=idhDz9miZ3w">Open on YouTube</a></p></div></div></div>
 
@@ -446,181 +446,181 @@ Ask:
 * Did I transfer money into savings?
 * Did I put my phone away before bed?
 
-The daily tracker should measure commitment to the process, not proof of the result. Outcomes still matter, but they are better used as periodic reviews of whether the chosen behaviours are working. By keeping the daily signal small, controllable and close to the action itself, self-monitoring remains a tool for adjustment rather than a source of constant judgement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK580337/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIResults of the behaviour change technique synthesis</span><span class="citation-popover-snippet">by J Baker · 2022 — Self-monitoring of outcome(s) of behaviour (behavior change technique 2.4). Establish a method for the person to...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Does monitoring goal progress promote goal attainment?</span><span class="citation-popover-snippet">B Harkin · 2016 · Cited by 712 — The findings suggest that monitoring goal progress is an effective self-regulation strategy, and...</span></span></span>
+The daily tracker should measure commitment to the process, not proof of the result. Outcomes still matter, but they are better used as periodic reviews of whether the chosen behaviours are working. By keeping the daily signal small, controllable and close to the action itself, self-monitoring remains a tool for adjustment rather than a source of constant judgement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncbi.nlm.nih.gov/books/NBK580337/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncbi.nlm.nih.gov">[NCBI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncbi.nlm.nih.gov</span><span class="citation-popover-title">NCBIResults of the behaviour change technique synthesis</span><span class="citation-popover-snippet">by J Baker · 2022 — Self-monitoring of outcome(s) of behaviour (behavior change technique 2.4). Establish a method for the person to...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med Does monitoring goal progress promote goal attainment?</span><span class="citation-popover-snippet">B Harkin · 2016 · Cited by 712 — The findings suggest that monitoring goal progress is an effective self-regulation strategy, and...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What should you track every day?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What should you track every day?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Strongly supports tracking daily actions rather than outcomes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Strongly supports tracking daily actions rather than outcomes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
-        </h4>
-        <p class="fr-book-author">By B. J. Fogg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
+</h4>
+<p class="fr-book-author">By B. J. Fogg</p>
         
-        <p class="fr-book-desc">Provides practical daily behaviour metrics.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides practical daily behaviour metrics.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Better+Than+Before+by+Gretchen+Rubin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Better Than Before on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zk-TEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Better Than Before" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Better+Than+Before+by+Gretchen+Rubin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Better Than Before">Better Than Before</a>
-        </h4>
-        <p class="fr-book-author">By Gretchen Rubin</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Better+Than+Before+by+Gretchen+Rubin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Better Than Before on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zk-TEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Better Than Before" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Better+Than+Before+by+Gretchen+Rubin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Better Than Before">Better Than Before</a>
+</h4>
+<p class="fr-book-author">By Gretchen Rubin</p>
         
-        <p class="fr-book-desc">Focuses on maintaining daily consistency.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Better+Than+Before+by+Gretchen+Rubin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on maintaining daily consistency.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Better+Than+Before+by+Gretchen+Rubin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
-        </h4>
-        <p class="fr-book-author">By Charles Duhigg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
+</h4>
+<p class="fr-book-author">By Charles Duhigg</p>
         
-        <p class="fr-book-desc">Explains repeatable daily routines.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains repeatable daily routines.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Better+Than+Before&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Better Than Before</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Better+Than+Before&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Better Than Before</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-    </div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daily-metrics-what-should-you-track-every-day-self-improvement-that-works-you-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for If I Had Legs I&#x27;d Kick You official Poster"><img src="{{ '/assets/images/marketplace-covers/f3999df96f268dd242f7.jpg' | relative_url }}" alt="Listing image for If I Had Legs I&#x27;d Kick You official Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daily-metrics-what-should-you-track-every-day-self-improvement-that-works-you-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">If I Had Legs I&#x27;d Kick You official Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daily-metrics-what-should-you-track-every-day-self-improvement-that-works-you-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you poster">Search <span data-ebay-domain-label>eBay.com</span>: you poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daily-metrics-what-should-you-track-every-day-self-improvement-that-works-you-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daily-metrics-what-should-you-track-every-day-self-improvement-that-works-you-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for If I Had Legs I&#x27;d Kick You official Poster"><img src="{{ '/assets/images/marketplace-covers/f3999df96f268dd242f7.jpg' | relative_url }}" alt="Listing image for If I Had Legs I&#x27;d Kick You official Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daily-metrics-what-should-you-track-every-day-self-improvement-that-works-you-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">If I Had Legs I&#x27;d Kick You official Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daily-metrics-what-should-you-track-every-day-self-improvement-that-works-you-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you poster">Search<span data-ebay-domain-label>eBay.com</span>: you poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daily-metrics-what-should-you-track-every-day-self-improvement-that-works-you-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daily-metrics-what-should-you-track-every-day-self-improvement-that-works-you-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poster for Ariana Grande’s music video for ‘hate that i made you love me.’"><img src="{{ '/assets/images/marketplace-covers/d77e8b29d04d6f11aeb2.jpg' | relative_url }}" alt="Listing image for Poster for Ariana Grande’s music video for ‘hate that i made you love me.’" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daily-metrics-what-should-you-track-every-day-self-improvement-that-works-you-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Poster for Ariana Grande’s music video for ‘hate that i made you love me.’</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daily-metrics-what-should-you-track-every-day-self-improvement-that-works-you-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you poster">Search <span data-ebay-domain-label>eBay.com</span>: you poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daily-metrics-what-should-you-track-every-day-self-improvement-that-works-you-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daily-metrics-what-should-you-track-every-day-self-improvement-that-works-you-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poster for Ariana Grande’s music video for ‘hate that i made you love me.’"><img src="{{ '/assets/images/marketplace-covers/d77e8b29d04d6f11aeb2.jpg' | relative_url }}" alt="Listing image for Poster for Ariana Grande’s music video for ‘hate that i made you love me.’" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daily-metrics-what-should-you-track-every-day-self-improvement-that-works-you-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Poster for Ariana Grande’s music video for ‘hate that i made you love me.’</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daily-metrics-what-should-you-track-every-day-self-improvement-that-works-you-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you poster">Search<span data-ebay-domain-label>eBay.com</span>: you poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daily-metrics-what-should-you-track-every-day-self-improvement-that-works-you-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daily-metrics-what-should-you-track-every-day-self-improvement-that-works-you-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for YOU ONLY LIVE TWICE (1967) one sheet 27&quot;x41&quot; style &quot;A&quot; James Bond movie poster!"><img src="{{ '/assets/images/marketplace-covers/4677a7e0478d91744a72.jpg' | relative_url }}" alt="Listing image for YOU ONLY LIVE TWICE (1967) one sheet 27&quot;x41&quot; style &quot;A&quot; James Bond movie poster!" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daily-metrics-what-should-you-track-every-day-self-improvement-that-works-you-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">YOU ONLY LIVE TWICE (1967) one sheet 27&quot;x41&quot; style &quot;A&quot; James Bond movie poster!</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daily-metrics-what-should-you-track-every-day-self-improvement-that-works-you-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you poster">Search <span data-ebay-domain-label>eBay.com</span>: you poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daily-metrics-what-should-you-track-every-day-self-improvement-that-works-you-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daily-metrics-what-should-you-track-every-day-self-improvement-that-works-you-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for YOU ONLY LIVE TWICE (1967) one sheet 27&quot;x41&quot; style &quot;A&quot; James Bond movie poster!"><img src="{{ '/assets/images/marketplace-covers/4677a7e0478d91744a72.jpg' | relative_url }}" alt="Listing image for YOU ONLY LIVE TWICE (1967) one sheet 27&quot;x41&quot; style &quot;A&quot; James Bond movie poster!" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daily-metrics-what-should-you-track-every-day-self-improvement-that-works-you-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">YOU ONLY LIVE TWICE (1967) one sheet 27&quot;x41&quot; style &quot;A&quot; James Bond movie poster!</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daily-metrics-what-should-you-track-every-day-self-improvement-that-works-you-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you poster">Search<span data-ebay-domain-label>eBay.com</span>: you poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daily-metrics-what-should-you-track-every-day-self-improvement-that-works-you-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daily-metrics-what-should-you-track-every-day-self-improvement-that-works-you-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Staying Positive Doesn&#x27;t Mean You Have to be Happy - NEW Motivational POSTER"><img src="{{ '/assets/images/marketplace-covers/4d50f146273cd68b9fee.jpg' | relative_url }}" alt="Listing image for Staying Positive Doesn&#x27;t Mean You Have to be Happy - NEW Motivational POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daily-metrics-what-should-you-track-every-day-self-improvement-that-works-you-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Staying Positive Doesn&#x27;t Mean You Have to be Happy - NEW Motivational POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daily-metrics-what-should-you-track-every-day-self-improvement-that-works-you-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you poster">Search <span data-ebay-domain-label>eBay.com</span>: you poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daily-metrics-what-should-you-track-every-day-self-improvement-that-works-you-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daily-metrics-what-should-you-track-every-day-self-improvement-that-works-you-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daily-metrics-what-should-you-track-every-day-self-improvement-that-works-you-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Staying Positive Doesn&#x27;t Mean You Have to be Happy - NEW Motivational POSTER"><img src="{{ '/assets/images/marketplace-covers/4d50f146273cd68b9fee.jpg' | relative_url }}" alt="Listing image for Staying Positive Doesn&#x27;t Mean You Have to be Happy - NEW Motivational POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daily-metrics-what-should-you-track-every-day-self-improvement-that-works-you-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Staying Positive Doesn&#x27;t Mean You Have to be Happy - NEW Motivational POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daily-metrics-what-should-you-track-every-day-self-improvement-that-works-you-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for you poster">Search<span data-ebay-domain-label>eBay.com</span>: you poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daily-metrics-what-should-you-track-every-day-self-improvement-that-works-you-poster-book-books-dvd&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=daily-metrics-what-should-you-track-every-day-self-improvement-that-works-you-poster-book-books-dvd&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -636,7 +636,7 @@ The daily tracker should measure commitment to the process, not proof of the res
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -656,7 +656,7 @@ The daily tracker should measure commitment to the process, not proof of the res
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -688,7 +688,7 @@ The daily tracker should measure commitment to the process, not proof of the res
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -718,7 +718,7 @@ The daily tracker should measure commitment to the process, not proof of the res
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -776,114 +776,114 @@ The daily tracker should measure commitment to the process, not proof of the res
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ncbi.nlm.nih.gov  
    Title: NCBIResults of the behaviour change technique synthesis  
-   Link: <a href="https://www.ncbi.nlm.nih.gov/books/NBK580337/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK580337/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by J Baker · 2022 — Self-monitoring of outcome(s) of behaviour (behavior change technique 2.4). Establish a method for the person to...</p></details>
+   Link:<a href="https://www.ncbi.nlm.nih.gov/books/NBK580337/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncbi.nlm.nih.gov/books/NBK580337/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by J Baker · 2022 — Self-monitoring of outcome(s) of behaviour (behavior change technique 2.4). Establish a method for the person to...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: bmjleader.bmj.com  
    Title: inline supplementary material 1  
-   Link: <a href="https://bmjleader.bmj.com/content/leader/7/4/301/embed/inline-supplementary-material-1.pdf?download=true" target="_blank" rel="noopener noreferrer nofollow">https://bmjleader.bmj.com/content/leader/7/4/301/embed/inline-supplementary-material-1.pdf?download=true</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Feedback on behaviour, 2.3. Self-monitoring of behaviour, 2.4. Self-monitoring of outcome(s) of behaviour, 2.5. Monitoring of...</p></details>
+   Link:<a href="https://bmjleader.bmj.com/content/leader/7/4/301/embed/inline-supplementary-material-1.pdf?download=true" target="_blank" rel="noopener noreferrer nofollow">https://bmjleader.bmj.com/content/leader/7/4/301/embed/inline-supplementary-material-1.pdf?download=true</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Feedback on behaviour, 2.3. Self-monitoring of behaviour, 2.4. Self-monitoring of outcome(s) of behaviour, 2.5. Monitoring of...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Time to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 95 — The premise of habit formation involv...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Time to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 95 — The premise of habit formation involv...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-regulatory behavior change [techniques](&amp;#123;&amp;#123; &#x27;techniques/&#x27; | relative_url &amp;#125;&amp;#125;) in interventions to...by B Spring · 2020 · Cited by 115 — From the taxonomies, the team se...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7429262/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-regulatory behavior change [techniques](&amp;#123;&amp;#123; &#x27;techniques/&#x27; | relative_url &amp;#125;&amp;#125;) in interventions to...by B Spring · 2020 · Cited by 115 — From the taxonomies, the team se...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: self.inc  
-   Link: <a href="https://www.self.inc/" target="_blank" rel="noopener noreferrer nofollow">https://www.self.inc/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Build Credit, Build Savings and Access CashBuild credit and savings with Self. The Credit Builder Account and Self Visa® Credit Ca...</p></details>
+   Link:<a href="https://www.self.inc/" target="_blank" rel="noopener noreferrer nofollow">https://www.self.inc/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Build Credit, Build Savings and Access CashBuild credit and savings with Self. The Credit Builder Account and Self Visa® Credit Ca...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med Does monitoring goal progress promote goal attainment?  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26479070/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>B Harkin · 2016 · Cited by 712 — The findings suggest that monitoring goal progress is an effective self-regulation strategy, and...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26479070/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26479070/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>B Harkin · 2016 · Cited by 712 — The findings suggest that monitoring goal progress is an effective self-regulation strategy, and...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: apa.org  
-   Link: <a href="https://www.apa.org/pubs/journals/releases/bul-bul0000025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/journals/releases/bul-bul0000025.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
+   Link:<a href="https://www.apa.org/pubs/journals/releases/bul-bul0000025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.apa.org/pubs/journals/releases/bul-bul0000025.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/31923898/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31923898/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Intentions for Exercise and Physical Activityby J Kompf · 2020 · Cited by 34 — Implementation intentions are an effective behavior change...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/31923898/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/31923898/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Intentions for Exercise and Physical Activityby J Kompf · 2020 · Cited by 34 — Implementation intentions are an effective behavior change...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Self" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Self</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SelfIn philosophy, the self is an individual&#x27;s own being, knowledge, and values, and the relationship between these attributes. The fi...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Self" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Self</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SelfIn philosophy, the self is an individual&#x27;s own being, knowledge, and values, and the relationship between these attributes. The fi...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: scienceforwork.com  
    Title: goal monitoring  
-   Link: <a href="https://scienceforwork.com/blog/goal-monitoring/" target="_blank" rel="noopener noreferrer nofollow">https://scienceforwork.com/blog/goal-monitoring/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A meta-analysis of the experimental evidence.” Psychological Bulletin 142.2 (2016):...Read more...</p></details>
+   Link:<a href="https://scienceforwork.com/blog/goal-monitoring/" target="_blank" rel="noopener noreferrer nofollow">https://scienceforwork.com/blog/goal-monitoring/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A meta-analysis of the experimental evidence.” Psychological Bulletin 142.2 (2016):...Read more...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: psychiatry.ucsd.edu  
-   Link: <a href="https://psychiatry.ucsd.edu/research/programs-centers/instep/tools-resource/definitions/team-processes/action-phase/goal-progress.html" target="_blank" rel="noopener noreferrer nofollow">https://psychiatry.ucsd.edu/research/programs-centers/instep/tools-resource/definitions/team-processes/action-phase/goal-progress.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Goal Progress MonitoringMeta-analysis, found that targeted interventions are successful at increases [frequency](&amp;#123;&amp;#123; &#x27;frequency/&#x27; | relative_url &amp;#125;&amp;#125;) of progress monitoring beh...</p></details>
+   Link:<a href="https://psychiatry.ucsd.edu/research/programs-centers/instep/tools-resource/definitions/team-processes/action-phase/goal-progress.html" target="_blank" rel="noopener noreferrer nofollow">https://psychiatry.ucsd.edu/research/programs-centers/instep/tools-resource/definitions/team-processes/action-phase/goal-progress.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Goal Progress MonitoringMeta-analysis, found that targeted interventions are successful at increases [frequency](&amp;#123;&amp;#123; &#x27;frequency/&#x27; | relative_url &amp;#125;&amp;#125;) of progress monitoring beh...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/332067663_Meta-Analysis_and_Quality_of_Self-Monitoring_Behavior_Interventions_with_Children_and_Adolescents" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/332067663_Meta-Analysis_and_Quality_of_Self-Monitoring_Behavior_Interventions_with_Children_and_Adolescents</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Meta-Analysis and Quality of Self-Monitoring...12 Mar 2019 — Self-monitoring is an intervention that has been used for decades to...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/332067663_Meta-Analysis_and_Quality_of_Self-Monitoring_Behavior_Interventions_with_Children_and_Adolescents" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/332067663_Meta-Analysis_and_Quality_of_Self-Monitoring_Behavior_Interventions_with_Children_and_Adolescents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Meta-Analysis and Quality of Self-Monitoring...12 Mar 2019 — Self-monitoring is an intervention that has been used for decades to...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aftertone.io  
-   Link: <a href="https://www.aftertone.io/science/self-monitoring-and-progress-tracking" target="_blank" rel="noopener noreferrer nofollow">https://www.aftertone.io/science/self-monitoring-and-progress-tracking</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(2016) across 138 studies found that monitoring progress towards a goal increases attainment by 33% compared to setting goals...Read more...</p></details>
+   Link:<a href="https://www.aftertone.io/science/self-monitoring-and-progress-tracking" target="_blank" rel="noopener noreferrer nofollow">https://www.aftertone.io/science/self-monitoring-and-progress-tracking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(2016) across 138 studies found that monitoring progress towards a goal increases attainment by 33% compared to setting goals...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ouci.dntb.gov.ua  
    Title: dntb.gov.ua Self-tracking of daily physical activity using a fitness tracker  
-   Link: <a href="https://ouci.dntb.gov.ua/works/9JNGEJ19/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/works/9JNGEJ19/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>dntb.gov.uaSelf-tracking of daily physical activity using a fitness tracker...AbstractActivity self-tracking technologies have become a...</p></details>
+   Link:<a href="https://ouci.dntb.gov.ua/works/9JNGEJ19/" target="_blank" rel="noopener noreferrer nofollow">https://ouci.dntb.gov.ua/works/9JNGEJ19/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>dntb.gov.uaSelf-tracking of daily physical activity using a fitness tracker...AbstractActivity self-tracking technologies have become a...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: eprints.whiterose.ac.uk  
    Title: whiterose.ac.uk Does Monitoring Goal Progress Promote Goal Attainment?  
-   Link: <a href="https://eprints.whiterose.ac.uk/id/eprint/87431/" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/87431/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by B Harkin · 2016 · Cited by 738 —... Monitoring Goal Progress Promote Goal Attainment? A Meta-Analysis of the Experimental Evidence. P...</p></details>
+   Link:<a href="https://eprints.whiterose.ac.uk/id/eprint/87431/" target="_blank" rel="noopener noreferrer nofollow">https://eprints.whiterose.ac.uk/id/eprint/87431/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by B Harkin · 2016 · Cited by 738 —... Monitoring Goal Progress Promote Goal Attainment? A Meta-Analysis of the Experimental Evidence. P...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
    Title: Second, it discusses four main outcomes of fitness tracking behaviour  
-   Link: <a href="https://www.researchgate.net/publication/343443200_Self-tracking_behaviour_in_physical_activity_a_systematic_review_of_drivers_and_outcomes_of_fitness_tracking" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/343443200_Self-tracking_behaviour_in_physical_activity_a_systematic_review_of_drivers_and_outcomes_of_fitness_tracking</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-tracking behaviour in physical activity: a systematic...5 Aug 2020 — First, it identifies 19 drivers of fitness tracking technology...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/343443200_Self-tracking_behaviour_in_physical_activity_a_systematic_review_of_drivers_and_outcomes_of_fitness_tracking" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/343443200_Self-tracking_behaviour_in_physical_activity_a_systematic_review_of_drivers_and_outcomes_of_fitness_tracking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-tracking behaviour in physical activity: a systematic...5 Aug 2020 — First, it identifies 19 drivers of fitness tracking technology...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: theoryandtechniquetool.humanbehaviourchange.org  
    Title: The Theory and Techniques Tool Self-monitoring of behaviour  
-   Link: <a href="https://theoryandtechniquetool.humanbehaviourchange.org/tool" target="_blank" rel="noopener noreferrer nofollow">https://theoryandtechniquetool.humanbehaviourchange.org/tool</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Theory and Techniques ToolSelf-monitoring of behaviour. +. 2.4. Self-monitoring of outcomes of behaviour. +. 2.5. Monitoring of outcome(s...</p></details>
+   Link:<a href="https://theoryandtechniquetool.humanbehaviourchange.org/tool" target="_blank" rel="noopener noreferrer nofollow">https://theoryandtechniquetool.humanbehaviourchange.org/tool</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Theory and Techniques ToolSelf-monitoring of behaviour. +. 2.4. Self-monitoring of outcomes of behaviour. +. 2.5. Monitoring of outcome(s...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: semanticscholar.org  
    Title: Does monitoring goal progress promote goal attainment?  
-   Link: <a href="https://www.semanticscholar.org/paper/Does-monitoring-goal-progress-promote-goal-A-of-the-Harkin-Webb/71c6265bf7a8ded9084ff21a417cd63d6f4119ea" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Does-monitoring-goal-progress-promote-goal-A-of-the-Harkin-Webb/71c6265bf7a8ded9084ff21a417cd63d6f4119ea</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>findings suggest that monitoring goal progress is an effective self-regulation strategy, and that interventions that increase th...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/Does-monitoring-goal-progress-promote-goal-A-of-the-Harkin-Webb/71c6265bf7a8ded9084ff21a417cd63d6f4119ea" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Does-monitoring-goal-progress-promote-goal-A-of-the-Harkin-Webb/71c6265bf7a8ded9084ff21a417cd63d6f4119ea</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>findings suggest that monitoring goal progress is an effective self-regulation strategy, and that interventions that increase th...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: GOV.UK  
    Title: behaviour change techniques review descriptive studies  
-   Link: <a href="https://www.gov.uk/guidance/behaviour-change-techniques-review-descriptive-studies" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/behaviour-change-techniques-review-descriptive-studies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>change techniques review: descriptive studies6 Jul 2020 — A behaviour change techniques (BCTs) review uses established classifications of...</p></details>
+   Link:<a href="https://www.gov.uk/guidance/behaviour-change-techniques-review-descriptive-studies" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/behaviour-change-techniques-review-descriptive-studies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>change techniques review: descriptive studies6 Jul 2020 — A behaviour change techniques (BCTs) review uses established classifications of...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: phwwhocc.co.uk  
-   Link: <a href="https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Observe or record outcomes of behaviour with the person&#x27;s knowledge as part of a...</p></details>
+   Link:<a href="https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://phwwhocc.co.uk/wp-content/uploads/2024/02/Identifying-and-Applying-Behaviour-Change-Techniques-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Observe or record outcomes of behaviour with the person&#x27;s knowledge as part of a...</p></details>

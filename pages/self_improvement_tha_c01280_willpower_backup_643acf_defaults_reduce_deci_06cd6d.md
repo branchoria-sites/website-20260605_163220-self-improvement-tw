@@ -271,7 +271,7 @@ image: /assets/images/self_improvement_tha_c01280_willpower_backup_643acf_defaul
 Many self-improvement plans fail because they ask for the same decision over and over again. Each morning you decide whether to exercise. Each lunch break you decide what to eat. Each payday you decide whether to save. When energy, mood or attention are low, these decisions stop being simple choices and become negotiations with yourself.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_defaults_reduce_deci_06cd6d-Illustration-1-dark.svg" | relative_url }}" alt="Better Defaults illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_defaults_reduce_deci_06cd6d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_defaults_reduce_deci_06cd6d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-A more reliable approach is to create [defaults]({{ 'defaults/' | relative_url }}): pre-made answers that take effect unless there is a good reason to change them. Defaults reduce the number of decisions that must be made under pressure. Instead of relying on [willpower]({{ 'willpower/' | relative_url }}) to win the same argument every day, you decide once and let the decision repeat automatically. Research on choice architecture and default effects shows that people strongly tend to follow pre-selected options, making defaults one of the most powerful tools for turning intentions into consistent behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/default-optionsetting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behavioraleconomics.com">[BehavioralEconomics.com &#124; The BE Hub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behavioraleconomics.com</span><span class="citation-popover-title">default optionsetting</span><span class="citation-popover-snippet">The BE HubDefault (option/setting)4 Dec 2024 — Default options are pre-set courses of action that take effect if nothing is specified by...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/behavioural-public-policy/article/when-and-why-defaults-influence-decisions-a-metaanalysis-of-default-effects/67AF6972CFB52698A60B6BD94B70C2C0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentWhen and why defaults influence decisions: a meta...by JONM JACHIMOWICZ · 2019 · Cited by 675 — O...</span></span></span>
+A more reliable approach is to create [defaults]({{ 'defaults/' | relative_url }}): pre-made answers that take effect unless there is a good reason to change them. Defaults reduce the number of decisions that must be made under pressure. Instead of relying on [willpower]({{ 'willpower/' | relative_url }}) to win the same argument every day, you decide once and let the decision repeat automatically. Research on choice architecture and default effects shows that people strongly tend to follow pre-selected options, making defaults one of the most powerful tools for turning intentions into consistent behaviour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/default-optionsetting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behavioraleconomics.com">[BehavioralEconomics.com &#124; The BE Hub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behavioraleconomics.com</span><span class="citation-popover-title">default optionsetting</span><span class="citation-popover-snippet">The BE HubDefault (option/setting)4 Dec 2024 — Default options are pre-set courses of action that take effect if nothing is specified by...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/behavioural-public-policy/article/when-and-why-defaults-influence-decisions-a-metaanalysis-of-default-effects/67AF6972CFB52698A60B6BD94B70C2C0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentWhen and why defaults influence decisions: a meta...by JONM JACHIMOWICZ · 2019 · Cited by 675 — O...</span></span></span>
 
 ## Why Repeated Choices Drain Plans
 
@@ -279,7 +279,7 @@ Within the broader idea that willpower should be a backup rather than the main e
 
 Every recurring choice creates an opportunity for delay, bargaining and exceptions. The question is rarely, “Should I abandon this goal forever?” More often it becomes, “Should I skip just today?” That conversation may happen dozens of times a week.
 
-Research on decision fatigue suggests that the quality of decisions can deteriorate after long periods of choosing and evaluating options. Planning, self-regulation and consistent follow-through become harder when mental resources are stretched. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8740589/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe effectiveness of nudging: A meta-analysis of choice</span><span class="citation-popover-snippet">by S Mertens · 2021 · Cited by 1053 — Our results show that choice architecture interventions overall promote behavior change with a s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedecisionlab.com/reference-guide/economics/the-paradox-of-choice" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Paradox of ChoiceResearchers Polman and Vohs suggest this is because decision fatigue reduces our self-regulatory resources, which ar...</span></span></span>
+Research on decision fatigue suggests that the quality of decisions can deteriorate after long periods of choosing and evaluating options. Planning, self-regulation and consistent follow-through become harder when mental resources are stretched.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8740589/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe effectiveness of nudging: A meta-analysis of choice</span><span class="citation-popover-snippet">by S Mertens · 2021 · Cited by 1053 — Our results show that choice architecture interventions overall promote behavior change with a s...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedecisionlab.com/reference-guide/economics/the-paradox-of-choice" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Paradox of ChoiceResearchers Polman and Vohs suggest this is because decision fatigue reduces our self-regulatory resources, which ar...</span></span></span>
 
 The practical consequence is that a habit requiring constant fresh decisions is fragile. A habit supported by defaults is more stable because fewer decisions occur in the first place.
 
@@ -312,7 +312,7 @@ A useful default might be:
 
 The goal is not dietary perfection. The goal is to remove dozens of low-value decisions that repeatedly tempt people into convenience choices they later regret.
 
-Many high performers and athletes use simplified meal routines for exactly this reason. The benefit is not that the chosen meal is magically superior. The benefit is that the decision no longer consumes attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.realsimple.com/the-science-behind-decision-fatigue-11926544" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: realsimple.com">[Real Simple]</a><span class="citation-popover" role="note"><span class="citation-popover-source">realsimple.com</span><span class="citation-popover-snippet">Mental health professionals describe how even simple choices, like what to wear or what to eat, can drain cognitive resources and impair...</span></span></span>
+Many high performers and athletes use simplified meal routines for exactly this reason. The benefit is not that the chosen meal is magically superior. The benefit is that the decision no longer consumes attention.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.realsimple.com/the-science-behind-decision-fatigue-11926544" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: realsimple.com">[Real Simple]</a><span class="citation-popover" role="note"><span class="citation-popover-source">realsimple.com</span><span class="citation-popover-snippet">Mental health professionals describe how even simple choices, like what to wear or what to eat, can drain cognitive resources and impair...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-zMWJw0dK7g" title="Behavioural Economics: The Power of Default Choices" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-zMWJw0dK7g" target="_blank" rel="noopener noreferrer">Behavioural Economics: The Power of Default Choices</a></p><p class="youtube-embed-meta">Channel: tutor2u &middot; Views: 2.3K &middot; Uploaded: January 2025 &middot; Length: 4 minutes 10 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-zMWJw0dK7g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-zMWJw0dK7g">Open on YouTube</a></p></div></div></div>
 
@@ -320,7 +320,7 @@ Many high performers and athletes use simplified meal routines for exactly this 
 
 Personal finance provides some of the clearest evidence for the power of defaults.
 
-Automatic enrolment into retirement savings plans dramatically increases participation compared with systems that require people to opt in. Studies of automatic enrolment and related programmes such as Save More Tomorrow show that changing the default can produce large and persistent increases in [saving]({{ 'saving/' | relative_url }}) behaviour without removing individual choice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/economics/the-paradox-of-choice" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Paradox of ChoiceResearchers Polman and Vohs suggest this is because decision fatigue reduces our self-regulatory resources, which ar...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.anderson.ucla.edu/documents/areas/fac/accounting/smartjpe226.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anderson.ucla.edu">[UCLA Anderson School of Management]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anderson.ucla.edu</span><span class="citation-popover-snippet">UCLA Anderson School of ManagementUsing Behavioral Economics to Increase Employee Saving.by RH Thaler · 2003 · Cited by 4400 — In this pa...</span></span></span>
+Automatic enrolment into retirement savings plans dramatically increases participation compared with systems that require people to opt in. Studies of automatic enrolment and related programmes such as Save More Tomorrow show that changing the default can produce large and persistent increases in [saving]({{ 'saving/' | relative_url }}) behaviour without removing individual choice.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/economics/the-paradox-of-choice" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Paradox of ChoiceResearchers Polman and Vohs suggest this is because decision fatigue reduces our self-regulatory resources, which ar...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.anderson.ucla.edu/documents/areas/fac/accounting/smartjpe226.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: anderson.ucla.edu">[UCLA Anderson School of Management]</a><span class="citation-popover" role="note"><span class="citation-popover-source">anderson.ucla.edu</span><span class="citation-popover-snippet">UCLA Anderson School of ManagementUsing Behavioral Economics to Increase Employee Saving.by RH Thaler · 2003 · Cited by 4400 — In this pa...</span></span></span>
 
 The lesson for personal improvement is straightforward:
 
@@ -355,17 +355,17 @@ A scheduled study block transforms the question from “Will I study today?” i
 <img src="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_defaults_reduce_deci_06cd6d-Illustration-2-dark.svg" | relative_url }}" alt="Better Defaults illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_defaults_reduce_deci_06cd6d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_defaults_reduce_deci_06cd6d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Defaults Are So Powerful
 
-Defaults are a central concept in behavioural economics because people frequently accept the option that requires the least effort, uncertainty or active intervention. Large-scale research shows that default settings have substantial effects across many domains, from savings and healthcare choices to enrolment decisions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/behavioural-public-policy/article/when-and-why-defaults-influence-decisions-a-metaanalysis-of-default-effects/67AF6972CFB52698A60B6BD94B70C2C0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentWhen and why defaults influence decisions: a meta...by JONM JACHIMOWICZ · 2019 · Cited by 675 — O...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6119549/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDecision Fatigue: A Conceptual Analysis</span><span class="citation-popover-snippet">by GA Pignatiello · 2018 · Cited by 335 — Theoretical evidence suggests the ego depletion experienced by those suffering from decision...</span></span></span>
+Defaults are a central concept in behavioural economics because people frequently accept the option that requires the least effort, uncertainty or active intervention. Large-scale research shows that default settings have substantial effects across many domains, from savings and healthcare choices to enrolment decisions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cambridge.org/core/journals/behavioural-public-policy/article/when-and-why-defaults-influence-decisions-a-metaanalysis-of-default-effects/67AF6972CFB52698A60B6BD94B70C2C0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge.org">[Cambridge University Press &amp; Assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge.org</span><span class="citation-popover-snippet">Cambridge University Press &amp; AssessmentWhen and why defaults influence decisions: a meta...by JONM JACHIMOWICZ · 2019 · Cited by 675 — O...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6119549/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDecision Fatigue: A Conceptual Analysis</span><span class="citation-popover-snippet">by GA Pignatiello · 2018 · Cited by 335 — Theoretical evidence suggests the ego depletion experienced by those suffering from decision...</span></span></span>
 
-Several mechanisms make defaults effective: <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/psychology/defaults" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[thedecisionlab.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">DefaultsIn their book, Thaler and Sunstein explore several real-world cases of where defaults have been hugely effective. One commonly ci...</span></span></span>
+Several mechanisms make defaults effective:<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/psychology/defaults" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[thedecisionlab.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">DefaultsIn their book, Thaler and Sunstein explore several real-world cases of where defaults have been hugely effective. One commonly ci...</span></span></span>
 
 **They reduce friction.** The desired action already has momentum behind it.
 
 **They reduce uncertainty.** A pre-decided option removes the need to evaluate alternatives repeatedly.
 
-**They reduce cognitive load.** Fewer decisions leave more attention available for work that actually matters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universityxp.com/blog/2023/6/27/what-is-choice-architecture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universityxp.com">[University XP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universityxp.com</span><span class="citation-popover-title">what is choice architecture</span><span class="citation-popover-snippet">University XPWhat is Choice Architecture?Jun 27, 2023 — Overall, the goal of choice architecture is to reduce the cognitive load of users...</span></span></span>
+**They reduce cognitive load.** Fewer decisions leave more attention available for work that actually matters.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universityxp.com/blog/2023/6/27/what-is-choice-architecture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universityxp.com">[University XP]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universityxp.com</span><span class="citation-popover-title">what is choice architecture</span><span class="citation-popover-snippet">University XPWhat is Choice Architecture?Jun 27, 2023 — Overall, the goal of choice architecture is to reduce the cognitive load of users...</span></span></span>
 
-**They exploit inertia in a useful direction.** Human beings often stick with existing arrangements. Defaults deliberately place good behaviours on the side of that tendency rather than fighting against it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/default-optionsetting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behavioraleconomics.com">[BehavioralEconomics.com &#124; The BE Hub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behavioraleconomics.com</span><span class="citation-popover-title">default optionsetting</span><span class="citation-popover-snippet">The BE HubDefault (option/setting)4 Dec 2024 — Default options are pre-set courses of action that take effect if nothing is specified by...</span></span></span>
+**They exploit inertia in a useful direction.** Human beings often stick with existing arrangements. Defaults deliberately place good behaviours on the side of that tendency rather than fighting against it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/default-optionsetting/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behavioraleconomics.com">[BehavioralEconomics.com &#124; The BE Hub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behavioraleconomics.com</span><span class="citation-popover-title">default optionsetting</span><span class="citation-popover-snippet">The BE HubDefault (option/setting)4 Dec 2024 — Default options are pre-set courses of action that take effect if nothing is specified by...</span></span></span>
 
 The key insight is that inertia exists whether you design for it or not. A default simply gives inertia a destination.
 
@@ -431,269 +431,269 @@ Defaults accomplish this by converting repeated decisions into pre-made answers.
 In a system where willpower is only a backup, defaults do much of the everyday work. The less often you have to persuade yourself to do the right thing, the more likely you are to do it consistently.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Stop Renegotiating the Same Good Choice. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Stop Renegotiating the Same Good Choice. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Emphasises systems, environment design, defaults and reducing reliance on daily willpower.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Emphasises systems, environment design, defaults and reducing reliance on daily willpower.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nudge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Wf1AEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Nudge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nudge">Nudge</a>
-        </h4>
-        <p class="fr-book-author">By Richard H. Thaler, Cass R. Sunstein</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Nudge on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Wf1AEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Nudge" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nudge">Nudge</a>
+</h4>
+<p class="fr-book-author">By Richard H. Thaler, Cass R. Sunstein</p>
         
-        <p class="fr-book-desc">Directly explains default effects and choice architecture behind pre-made decisions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly explains default effects and choice architecture behind pre-made decisions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Nudge+by+Richard+H.+Thaler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
-        </h4>
-        <p class="fr-book-author">By B. J. Fogg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
+</h4>
+<p class="fr-book-author">By B. J. Fogg</p>
         
-        <p class="fr-book-desc">Focuses on making desired actions easy and automatic rather than repeatedly negotiated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on making desired actions easy and automatic rather than repeatedly negotiated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
-        </h4>
-        <p class="fr-book-author">By Charles Duhigg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
+</h4>
+<p class="fr-book-author">By Charles Duhigg</p>
         
-        <p class="fr-book-desc">Shows how repeated choices can be replaced by automatic behavioural patterns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how repeated choices can be replaced by automatic behavioural patterns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Nudge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nudge</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Nudge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Nudge</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12"><img src="{{ '/assets/images/marketplace-covers/cd56f2d58299dbf89c56.jpg' | relative_url }}" alt="Listing image for Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Vintage Self Improvement Art Poster Tin Metal Signs Home Décor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weekly+pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-weekly-pill-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 7 Day Weekly Pill Box 28 Compartment Tablet Organizer Medicine Storage Dispenser"><img src="{{ '/assets/images/marketplace-covers/0b51ec759ab0f750145c.jpg' | relative_url }}" alt="Listing image for 7 Day Weekly Pill Box 28 Compartment Tablet Organizer Medicine Storage Dispenser" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weekly+pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-weekly-pill-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">7 Day Weekly Pill Box 28 Compartment Tablet Organizer Medicine Storage Dispenser</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weekly+pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-weekly-pill-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weekly pill organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: weekly pill organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weekly+pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-weekly-pill-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weekly+pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-weekly-pill-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 7 Day Weekly Pill Box 28 Compartment Tablet Organizer Medicine Storage Dispenser"><img src="{{ '/assets/images/marketplace-covers/0b51ec759ab0f750145c.jpg' | relative_url }}" alt="Listing image for 7 Day Weekly Pill Box 28 Compartment Tablet Organizer Medicine Storage Dispenser" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weekly+pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-weekly-pill-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">7 Day Weekly Pill Box 28 Compartment Tablet Organizer Medicine Storage Dispenser</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weekly+pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-weekly-pill-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weekly pill organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: weekly pill organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weekly+pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-weekly-pill-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weekly+pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-weekly-pill-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weekly 7 Day Pill Box 28 Compartment Tablet Organizer Medicine Storage Dispenser"><img src="{{ '/assets/images/marketplace-covers/c135034cc9a1a45c4032.jpg' | relative_url }}" alt="Listing image for Weekly 7 Day Pill Box 28 Compartment Tablet Organizer Medicine Storage Dispenser" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weekly+pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-weekly-pill-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Weekly 7 Day Pill Box 28 Compartment Tablet Organizer Medicine Storage Dispenser</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weekly+pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-weekly-pill-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weekly pill organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: weekly pill organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weekly+pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-weekly-pill-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weekly+pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-weekly-pill-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weekly 7 Day Pill Box 28 Compartment Tablet Organizer Medicine Storage Dispenser"><img src="{{ '/assets/images/marketplace-covers/c135034cc9a1a45c4032.jpg' | relative_url }}" alt="Listing image for Weekly 7 Day Pill Box 28 Compartment Tablet Organizer Medicine Storage Dispenser" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weekly+pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-weekly-pill-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Weekly 7 Day Pill Box 28 Compartment Tablet Organizer Medicine Storage Dispenser</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weekly+pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-weekly-pill-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weekly pill organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: weekly pill organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weekly+pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-weekly-pill-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weekly+pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-weekly-pill-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weekly 7 Days Pill Box 28 Compartments Pill Organizer Plastic Medicine Storage"><img src="{{ '/assets/images/marketplace-covers/8409cc08a9323ae2e9ce.jpg' | relative_url }}" alt="Listing image for Weekly 7 Days Pill Box 28 Compartments Pill Organizer Plastic Medicine Storage" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weekly+pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-weekly-pill-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Weekly 7 Days Pill Box 28 Compartments Pill Organizer Plastic Medicine Storage</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weekly+pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-weekly-pill-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weekly pill organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: weekly pill organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weekly+pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-weekly-pill-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weekly+pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-weekly-pill-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weekly 7 Days Pill Box 28 Compartments Pill Organizer Plastic Medicine Storage"><img src="{{ '/assets/images/marketplace-covers/8409cc08a9323ae2e9ce.jpg' | relative_url }}" alt="Listing image for Weekly 7 Days Pill Box 28 Compartments Pill Organizer Plastic Medicine Storage" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weekly+pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-weekly-pill-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Weekly 7 Days Pill Box 28 Compartments Pill Organizer Plastic Medicine Storage</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weekly+pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-weekly-pill-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weekly pill organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: weekly pill organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weekly+pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-weekly-pill-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weekly+pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-weekly-pill-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weekly Pill Organizer - 7 Day Medication Storage Box with 4 Compartments"><img src="{{ '/assets/images/marketplace-covers/4fcb02563effeddd3e8a.jpg' | relative_url }}" alt="Listing image for Weekly Pill Organizer - 7 Day Medication Storage Box with 4 Compartments" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weekly+pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-weekly-pill-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Weekly Pill Organizer - 7 Day Medication Storage Box with 4 Compartments</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weekly+pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-weekly-pill-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weekly pill organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: weekly pill organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=weekly+pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-weekly-pill-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=weekly+pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-weekly-pill-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=weekly+pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-weekly-pill-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weekly Pill Organizer - 7 Day Medication Storage Box with 4 Compartments"><img src="{{ '/assets/images/marketplace-covers/4fcb02563effeddd3e8a.jpg' | relative_url }}" alt="Listing image for Weekly Pill Organizer - 7 Day Medication Storage Box with 4 Compartments" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weekly+pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-weekly-pill-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Weekly Pill Organizer - 7 Day Medication Storage Box with 4 Compartments</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=weekly+pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-weekly-pill-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for weekly pill organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: weekly pill organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=weekly+pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-weekly-pill-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=weekly+pill+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-defaults-stop-renegotiating-the-same-good-choice-self-improvement-that-works-weekly-pill-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -709,7 +709,7 @@ In a system where willpower is only a backup, defaults do much of the everyday w
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -729,7 +729,7 @@ In a system where willpower is only a backup, defaults do much of the everyday w
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -761,7 +761,7 @@ In a system where willpower is only a backup, defaults do much of the everyday w
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -791,7 +791,7 @@ In a system where willpower is only a backup, defaults do much of the everyday w
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -849,143 +849,143 @@ In a system where willpower is only a backup, defaults do much of the everyday w
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: behavioraleconomics.com  
    Title: default optionsetting  
-   Link: <a href="https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/default-optionsetting/" target="_blank" rel="noopener noreferrer nofollow">https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/default-optionsetting/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The BE HubDefault (option/setting)4 Dec 2024 — Default options are pre-set courses of action that take effect if nothing is specified by...</p></details>
+   Link:<a href="https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/default-optionsetting/" target="_blank" rel="noopener noreferrer nofollow">https://www.behavioraleconomics.com/resources/mini-encyclopedia-of-be/default-optionsetting/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The BE HubDefault (option/setting)4 Dec 2024 — Default options are pre-set courses of action that take effect if nothing is specified by...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cambridge.org  
-   Link: <a href="https://www.cambridge.org/core/journals/behavioural-public-policy/article/when-and-why-defaults-influence-decisions-a-metaanalysis-of-default-effects/67AF6972CFB52698A60B6BD94B70C2C0" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/behavioural-public-policy/article/when-and-why-defaults-influence-decisions-a-metaanalysis-of-default-effects/67AF6972CFB52698A60B6BD94B70C2C0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentWhen and why defaults influence decisions: a meta...by JONM JACHIMOWICZ · 2019 · Cited by 675 — O...</p></details>
+   Link:<a href="https://www.cambridge.org/core/journals/behavioural-public-policy/article/when-and-why-defaults-influence-decisions-a-metaanalysis-of-default-effects/67AF6972CFB52698A60B6BD94B70C2C0" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridge.org/core/journals/behavioural-public-policy/article/when-and-why-defaults-influence-decisions-a-metaanalysis-of-default-effects/67AF6972CFB52698A60B6BD94B70C2C0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge University Press &amp; AssessmentWhen and why defaults influence decisions: a meta...by JONM JACHIMOWICZ · 2019 · Cited by 675 — O...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe effectiveness of nudging: A meta-analysis of choice  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8740589/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8740589/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Mertens · 2021 · Cited by 1053 — Our results show that choice architecture interventions overall promote behavior change with a s...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8740589/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8740589/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by S Mertens · 2021 · Cited by 1053 — Our results show that choice architecture interventions overall promote behavior change with a s...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCDecision Fatigue: A Conceptual Analysis  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6119549/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6119549/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by GA Pignatiello · 2018 · Cited by 335 — Theoretical evidence suggests the [ego depletion](&amp;#123;&amp;#123; &#x27;ego-depletion/&#x27; | relative_url &amp;#125;&amp;#125;) experienced by those suffering from decision...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6119549/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC6119549/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by GA Pignatiello · 2018 · Cited by 335 — Theoretical evidence suggests the [ego depletion](&amp;#123;&amp;#123; &#x27;ego-depletion/&#x27; | relative_url &amp;#125;&amp;#125;) experienced by those suffering from decision...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: anderson.ucla.edu  
-   Link: <a href="https://www.anderson.ucla.edu/documents/areas/fac/accounting/smartjpe226.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.anderson.ucla.edu/documents/areas/fac/accounting/smartjpe226.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UCLA Anderson School of ManagementUsing Behavioral Economics to Increase Employee Saving.by RH Thaler · 2003 · Cited by 4400 — In this pa...</p></details>
+   Link:<a href="https://www.anderson.ucla.edu/documents/areas/fac/accounting/smartjpe226.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.anderson.ucla.edu/documents/areas/fac/accounting/smartjpe226.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UCLA Anderson School of ManagementUsing Behavioral Economics to Increase Employee Saving.by RH Thaler · 2003 · Cited by 4400 — In this pa...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe Behavioral Foundations of Default Effects  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10735255/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10735255/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioral Foundations of Default Effects - PMC - NIHby Z Brot-Goldberg · 2023 · Cited by 71 — We show in two natural experiments that de...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10735255/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10735255/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioral Foundations of Default Effects - PMC - NIHby Z Brot-Goldberg · 2023 · Cited by 71 — We show in two natural experiments that de...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: universityxp.com  
    Title: what is choice architecture  
-   Link: <a href="https://www.universityxp.com/blog/2023/6/27/what-is-choice-architecture" target="_blank" rel="noopener noreferrer nofollow">https://www.universityxp.com/blog/2023/6/27/what-is-choice-architecture</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>University XPWhat is Choice Architecture?Jun 27, 2023 — Overall, the goal of choice architecture is to reduce the cognitive load of users...</p></details>
+   Link:<a href="https://www.universityxp.com/blog/2023/6/27/what-is-choice-architecture" target="_blank" rel="noopener noreferrer nofollow">https://www.universityxp.com/blog/2023/6/27/what-is-choice-architecture</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>University XPWhat is Choice Architecture?Jun 27, 2023 — Overall, the goal of choice architecture is to reduce the cognitive load of users...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
    Title: Behavioral Economics: The Power of Default Choices  
-   Link: <a href="https://www.youtube.com/watch?v=-zMWJw0dK7g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-zMWJw0dK7g</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioural Economics - Choice Architecture &amp; Nudging...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-zMWJw0dK7g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-zMWJw0dK7g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behavioural Economics - Choice Architecture &amp; Nudging...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: Behavioural Economics  
-   Link: <a href="https://www.youtube.com/watch?v=ZJHS_PFCJug" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZJHS_PFCJug</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Architecture of Autonomy: Why True Freedom Requires Both System 1 and System 2 Nudges...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZJHS_PFCJug" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZJHS_PFCJug</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Architecture of Autonomy: Why True Freedom Requires Both System 1 and System 2 Nudges...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/reference-guide/economics/the-paradox-of-choice" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/economics/the-paradox-of-choice</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Paradox of ChoiceResearchers Polman and Vohs suggest this is because decision fatigue reduces our self-regulatory resources, which ar...</p></details>
+   Link:<a href="https://thedecisionlab.com/reference-guide/economics/the-paradox-of-choice" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/economics/the-paradox-of-choice</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Paradox of ChoiceResearchers Polman and Vohs suggest this is because decision fatigue reduces our self-regulatory resources, which ar...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: realsimple.com  
-   Link: <a href="https://www.realsimple.com/the-science-behind-decision-fatigue-11926544" target="_blank" rel="noopener noreferrer nofollow">https://www.realsimple.com/the-science-behind-decision-fatigue-11926544</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mental health professionals describe how even simple choices, like what to wear or what to eat, can drain cognitive resources and impair...</p></details>
+   Link:<a href="https://www.realsimple.com/the-science-behind-decision-fatigue-11926544" target="_blank" rel="noopener noreferrer nofollow">https://www.realsimple.com/the-science-behind-decision-fatigue-11926544</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mental health professionals describe how even simple choices, like what to wear or what to eat, can drain cognitive resources and impair...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/intervention/defaults-improve-savings" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/intervention/defaults-improve-savings</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabDefaults improve savingsBy defaulting to an automatic 401(k) enrollment, the differences between demographic groups, whic...</p></details>
+   Link:<a href="https://thedecisionlab.com/intervention/defaults-improve-savings" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/intervention/defaults-improve-savings</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabDefaults improve savingsBy defaulting to an automatic 401(k) enrollment, the differences between demographic groups, whic...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/choice-architecture" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/choice-architecture</a>  
+   Link:<a href="https://thedecisionlab.com/reference-guide/psychology/choice-architecture" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/choice-architecture</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/defaults" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/defaults</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DefaultsIn their book, Thaler and Sunstein explore several real-world cases of where defaults have been hugely effective. One commonly ci...</p></details>
+   Link:<a href="https://thedecisionlab.com/reference-guide/psychology/defaults" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/defaults</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DefaultsIn their book, Thaler and Sunstein explore several real-world cases of where defaults have been hugely effective. One commonly ci...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Choice" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Choice</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ChoiceA choice is the range of different things from which a being can choose. The arrival at a choice may incorporate motivators and...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Choice" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Choice</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ChoiceA choice is the range of different things from which a being can choose. The arrival at a choice may incorporate motivators and...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: insidebe.com  
    Title: Choice Architecture  
-   Link: <a href="https://insidebe.com/articles/choice-architecture/" target="_blank" rel="noopener noreferrer nofollow">https://insidebe.com/articles/choice-architecture/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This can result in decision fatigue, sticking to the default option, or even avoiding making a...Read more...</p></details>
+   Link:<a href="https://insidebe.com/articles/choice-architecture/" target="_blank" rel="noopener noreferrer nofollow">https://insidebe.com/articles/choice-architecture/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This can result in decision fatigue, sticking to the default option, or even avoiding making a...Read more...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: journals.uchicago.edu  
-   Link: <a href="https://www.journals.uchicago.edu/doi/10.1086/380085" target="_blank" rel="noopener noreferrer nofollow">https://www.journals.uchicago.edu/doi/10.1086/380085</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chicago JournalsUsing Behavioral Economics to Increase Employee SavingThe program is called Save More Tomorrow™ (or SMarT), and the basic...</p></details>
+   Link:<a href="https://www.journals.uchicago.edu/doi/10.1086/380085" target="_blank" rel="noopener noreferrer nofollow">https://www.journals.uchicago.edu/doi/10.1086/380085</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chicago JournalsUsing Behavioral Economics to Increase Employee SavingThe program is called Save More Tomorrow™ (or SMarT), and the basic...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40milijanakomad/cognitive-load-saturation-and-decision-fatigue-design-c5ef7c70e474" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40milijanakomad/cognitive-load-saturation-and-decision-fatigue-design-c5ef7c70e474</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Load Saturation and Decision Fatigue DesignThis paper examines cognitive load saturation and decision fatigue as system-level d...</p></details>
+   Link:<a href="https://medium.com/%40milijanakomad/cognitive-load-saturation-and-decision-fatigue-design-c5ef7c70e474" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40milijanakomad/cognitive-load-saturation-and-decision-fatigue-design-c5ef7c70e474</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Load Saturation and Decision Fatigue DesignThis paper examines cognitive load saturation and decision fatigue as system-level d...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: financialplanningassociation.org  
-   Link: <a href="https://www.financialplanningassociation.org/learning/publications/journal/MAR24-benefits-behavioral-nudges-using-choice-architecture-improve-decisions-and-shape-outcomes-OPEN" target="_blank" rel="noopener noreferrer nofollow">https://www.financialplanningassociation.org/learning/publications/journal/MAR24-benefits-behavioral-nudges-using-choice-architecture-improve-decisions-and-shape-outcomes-OPEN</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Benefits of Behavioral Nudges: Using Choice...by SJ Eckert · 2024 · Cited by 2 — In 2017, Thaler built on this proposal by calling f...</p></details>
+   Link:<a href="https://www.financialplanningassociation.org/learning/publications/journal/MAR24-benefits-behavioral-nudges-using-choice-architecture-improve-decisions-and-shape-outcomes-OPEN" target="_blank" rel="noopener noreferrer nofollow">https://www.financialplanningassociation.org/learning/publications/journal/MAR24-benefits-behavioral-nudges-using-choice-architecture-improve-decisions-and-shape-outcomes-OPEN</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Benefits of Behavioral Nudges: Using Choice...by SJ Eckert · 2024 · Cited by 2 — In 2017, Thaler built on this proposal by calling f...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/24104390_Save_More_Tomorrow_TM_Using_Behavioral_Economics_to_Increase_Employee_Saving" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/24104390_Save_More_Tomorrow_TM_Using_Behavioral_Economics_to_Increase_Employee_Saving</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Using Behavioral Economics to Increase Employee SavingIn this paper, we propose such a prescriptive savings program, called Save More Tom...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/24104390_Save_More_Tomorrow_TM_Using_Behavioral_Economics_to_Increase_Employee_Saving" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/24104390_Save_More_Tomorrow_TM_Using_Behavioral_Economics_to_Increase_Employee_Saving</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Using Behavioral Economics to Increase Employee SavingIn this paper, we propose such a prescriptive savings program, called Save More Tom...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/choice" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/choice</a>  
+   Link:<a href="https://www.merriam-webster.com/dictionary/choice" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/choice</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: yukaichou.com  
-   Link: <a href="https://yukaichou.com/behavioral-analysis/nudge-theory-thaler-sunstein-choice-architecture/" target="_blank" rel="noopener noreferrer nofollow">https://yukaichou.com/behavioral-analysis/nudge-theory-thaler-sunstein-choice-architecture/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thaler&#x27;s most famous applied work — the Save More Tomorrow plan with Shlomo Benartzi — is a commitment device wearing a nudge&#x27;s hat...</p></details>
+   Link:<a href="https://yukaichou.com/behavioral-analysis/nudge-theory-thaler-sunstein-choice-architecture/" target="_blank" rel="noopener noreferrer nofollow">https://yukaichou.com/behavioral-analysis/nudge-theory-thaler-sunstein-choice-architecture/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Thaler&#x27;s most famous applied work — the Save More Tomorrow plan with Shlomo Benartzi — is a commitment device wearing a nudge&#x27;s hat...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: zekefranco.medium.com  
    Title: choice architecture  
-   Link: <a href="https://zekefranco.medium.com/choice-architecture-introduction-to-designing-for-decision-making-3c2fd32cbc32" target="_blank" rel="noopener noreferrer nofollow">https://zekefranco.medium.com/choice-architecture-introduction-to-designing-for-decision-making-3c2fd32cbc32</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Architecture: Introduction to Designing for Decision...Choice architecture is the holistic presentation and framing of information throu...</p></details>
+   Link:<a href="https://zekefranco.medium.com/choice-architecture-introduction-to-designing-for-decision-making-3c2fd32cbc32" target="_blank" rel="noopener noreferrer nofollow">https://zekefranco.medium.com/choice-architecture-introduction-to-designing-for-decision-making-3c2fd32cbc32</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Architecture: Introduction to Designing for Decision...Choice architecture is the holistic presentation and framing of information throu...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: research.ed.ac.uk  
    Title: RobertsonRose TJSP 2019 UnderstandingDefaultBehaviourWorkplacePensions  
-   Link: <a href="https://www.research.ed.ac.uk/files/115207744/RobertsonRose_TJSP_2019_UnderstandingDefaultBehaviourWorkplacePensions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.research.ed.ac.uk/files/115207744/RobertsonRose_TJSP_2019_UnderstandingDefaultBehaviourWorkplacePensions.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>default behaviour in workplace pensionsby L Robertson-Rose · 2021 · Cited by 21 — This article examines the retirement savings behaviour...</p></details>
+   Link:<a href="https://www.research.ed.ac.uk/files/115207744/RobertsonRose_TJSP_2019_UnderstandingDefaultBehaviourWorkplacePensions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.research.ed.ac.uk/files/115207744/RobertsonRose_TJSP_2019_UnderstandingDefaultBehaviourWorkplacePensions.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>default behaviour in workplace pensionsby L Robertson-Rose · 2021 · Cited by 21 — This article examines the retirement savings behaviour...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: super-productivity.com  
-   Link: <a href="https://super-productivity.com/blog/decision-fatigue-for-developers/" target="_blank" rel="noopener noreferrer nofollow">https://super-productivity.com/blog/decision-fatigue-for-developers/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Decision Fatigue for Developers: Why Afternoon Code...Feb 2, 2026 — Decision fatigue silently degrades your code quality...</p></details>
+   Link:<a href="https://super-productivity.com/blog/decision-fatigue-for-developers/" target="_blank" rel="noopener noreferrer nofollow">https://super-productivity.com/blog/decision-fatigue-for-developers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Decision Fatigue for Developers: Why Afternoon Code...Feb 2, 2026 — Decision fatigue silently degrades your code quality...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: marketingsociety.com  
    Title: default settings most powerful tool behavioural scientist’s toolbox  
-   Link: <a href="https://www.marketingsociety.com/the-gym/default-settings-most-powerful-tool-behavioural-scientist%E2%80%99s-toolbox" target="_blank" rel="noopener noreferrer nofollow">https://www.marketingsociety.com/the-gym/default-settings-most-powerful-tool-behavioural-scientist%E2%80%99s-toolbox</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Default settings24 Apr 2019 — By defaults, we mean that when people are presented with default options already set, or are automatically...</p></details>
+   Link:<a href="https://www.marketingsociety.com/the-gym/default-settings-most-powerful-tool-behavioural-scientist%E2%80%99s-toolbox" target="_blank" rel="noopener noreferrer nofollow">https://www.marketingsociety.com/the-gym/default-settings-most-powerful-tool-behavioural-scientist%E2%80%99s-toolbox</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Default settings24 Apr 2019 — By defaults, we mean that when people are presented with default options already set, or are automatically...</p></details>

@@ -502,7 +502,7 @@ image: /assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97-ov
 
 ## Introduction
 
-Saving before spending is a practical self-improvement policy: decide the saving rule in advance, automate it as close to payday as possible, and let the remaining balance become the money available for ordinary spending. It works because it changes the moment of choice. Instead of asking a tired future self to resist purchases after money is visible and tempting, it makes saving the default before those temptations arrive. The core tools are simple: split pay into savings and spending accounts, schedule transfers, add friction to impulse buys, and review balances often enough to adjust the system. Evidence from automatic enrolment, [payroll saving]({{ 'payroll-saving/' | relative_url }}), emergency-savings research and behavioural economics suggests that [defaults]({{ 'defaults/' | relative_url }}) can strongly increase participation in saving, though they can also leave people under-saving if the default amount is too low or if saving pushes them into avoidable debt. NBER <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aeaweb.org/articles?id=10.1257%2Faer.20171676" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeaweb.org">[American Economic Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeaweb.org</span><span class="citation-popover-title">American Economic Association Why Do Defaults Affect Behavior?</span><span class="citation-popover-snippet">Experimental Evidence...by J Blumenstock · 2018 · Cited by 216 — We report on an experiment examining why default options impact behavio...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://maps.org.uk/en/work-with-us/financial-wellbeing-in-the-workplace/payroll-deducted-saving-schemes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maps.org.uk">[MaPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maps.org.uk</span><span class="citation-popover-snippet">Payroll-deducted saving schemesThis Nest Insight report, funded by MaPS and other partners, brings together evidence from trials with...</span></span></span>
+Saving before spending is a practical self-improvement policy: decide the saving rule in advance, automate it as close to payday as possible, and let the remaining balance become the money available for ordinary spending. It works because it changes the moment of choice. Instead of asking a tired future self to resist purchases after money is visible and tempting, it makes saving the default before those temptations arrive. The core tools are simple: split pay into savings and spending accounts, schedule transfers, add friction to impulse buys, and review balances often enough to adjust the system. Evidence from automatic enrolment, [payroll saving]({{ 'payroll-saving/' | relative_url }}), emergency-savings research and behavioural economics suggests that [defaults]({{ 'defaults/' | relative_url }}) can strongly increase participation in saving, though they can also leave people under-saving if the default amount is too low or if saving pushes them into avoidable debt. NBER<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aeaweb.org/articles?id=10.1257%2Faer.20171676" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeaweb.org">[American Economic Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeaweb.org</span><span class="citation-popover-title">American Economic Association Why Do Defaults Affect Behavior?</span><span class="citation-popover-snippet">Experimental Evidence...by J Blumenstock · 2018 · Cited by 216 — We report on an experiment examining why default options impact behavio...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://maps.org.uk/en/work-with-us/financial-wellbeing-in-the-workplace/payroll-deducted-saving-schemes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maps.org.uk">[MaPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maps.org.uk</span><span class="citation-popover-snippet">Payroll-deducted saving schemesThis Nest Insight report, funded by MaPS and other partners, brings together evidence from trials with...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97-overview.webp" | relative_url }}" alt="Overview image for Saving" loading="eager" decoding="sync" fetchpriority="high">
 This is not about moralising spending. It is about designing a money routine that survives ordinary life: delayed trains, tired evenings, online offers, [social pressure]({{ 'social-pressure/' | relative_url }}), irregular bills and the quiet optimism that “there will be something left at the end of the month”. Saving before spending replaces that hope with a working default.
@@ -511,11 +511,11 @@ This is not about moralising spending. It is about designing a money routine tha
 
 The common “save what remains” method asks savings to compete with every other desire in the month. Rent, food and bills come first, but so do takeaways, subscriptions, gifts, small upgrades and purchases that felt harmless at the time. By the end, saving becomes a residual category: whatever escaped attention.
 
-Saving before spending reverses the order. The decision is made once, in a calm moment, then repeated automatically. The Consumer Financial Protection Bureau describes automatic transfers from pay or current accounts as a way to “pay yourself first” before funds are committed elsewhere, and its emergency-savings guidance treats automatic deposit as one of the easiest ways to build a reserve. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.consumerfinance.gov/data-research/research-reports/emergency-savings-financial-security-insights-from-making-ends-meet-survey-and-consumer-credit-panel/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumerfinance.gov">[Consumer Financial Protection Bureau]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumerfinance.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Saving before spending reverses the order. The decision is made once, in a calm moment, then repeated automatically. The Consumer Financial Protection Bureau describes automatic transfers from pay or current accounts as a way to “pay yourself first” before funds are committed elsewhere, and its emergency-savings guidance treats automatic deposit as one of the easiest ways to build a reserve.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.consumerfinance.gov/data-research/research-reports/emergency-savings-financial-security-insights-from-making-ends-meet-survey-and-consumer-credit-panel/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumerfinance.gov">[Consumer Financial Protection Bureau]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumerfinance.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The behavioural reason is straightforward. People are not equally disciplined at every point in the month. A payday balance feels abundant; later, a low balance feels restrictive. If savings leave immediately, the spending balance gives a truer signal of what is available. The account stops pretending that future rent, insurance, annual costs and emergency needs are all free money.
 
-A useful saving-before-spending rule has three parts: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0304387824001548" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A useful saving-before-spending rule has three parts:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0304387824001548" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -530,9 +530,9 @@ The point is not that everyone can save the same amount. It is that the saving d
 <img src="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97-Illustration-1-dark.svg" | relative_url }}" alt="Saving illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Defaults and transfers: make the desired action automatic
 
-The strongest case for saving before spending comes from default design. When a good action is automatic unless someone opts out, participation often rises sharply. In retirement saving, automatic enrolment has been one of the clearest examples. Classic research on 401(k) plans found that automatic enrolment increased participation because employees were enrolled unless they actively chose otherwise; later experimental work on salary-linked savings found [default enrolment]({{ 'default-lessons/' | relative_url }}) increased participation by 40 percentage points, an effect comparable to a large matching incentive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nber.org/papers/w32100" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nber.org">[NBER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nber.org</span><span class="citation-popover-snippet">Open source on nber.org.</span></span></span>
+The strongest case for saving before spending comes from default design. When a good action is automatic unless someone opts out, participation often rises sharply. In retirement saving, automatic enrolment has been one of the clearest examples. Classic research on 401(k) plans found that automatic enrolment increased participation because employees were enrolled unless they actively chose otherwise; later experimental work on salary-linked savings found [default enrolment]({{ 'default-lessons/' | relative_url }}) increased participation by 40 percentage points, an effect comparable to a large matching incentive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nber.org/papers/w32100" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nber.org">[NBER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nber.org</span><span class="citation-popover-snippet">Open source on nber.org.</span></span></span>
 
-The UK’s workplace pension system shows the same principle at national scale. Automatic enrolment made pension saving a workplace norm by putting eligible workers into qualifying schemes unless they opted out. Government evaluation described the policy as a major change in workplace saving behaviour after staged implementation across employers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/automatic-enrolment-evaluation-report-2019/automatic-enrolment-evaluation-report-2019" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">automatic enrolment evaluation report 2019</span><span class="citation-popover-snippet">automatic enrolment evaluation report 2019</span></span></span>
+The UK’s workplace pension system shows the same principle at national scale. Automatic enrolment made pension saving a workplace norm by putting eligible workers into qualifying schemes unless they opted out. Government evaluation described the policy as a major change in workplace saving behaviour after staged implementation across employers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/automatic-enrolment-evaluation-report-2019/automatic-enrolment-evaluation-report-2019" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">automatic enrolment evaluation report 2019</span><span class="citation-popover-snippet">automatic enrolment evaluation report 2019</span></span></span>
 
 For everyday self-improvement, the lesson is not “copy pension policy exactly”. It is that defaults work because they remove repeated effort. A person who has to choose saving every month faces twelve opportunities to forget, postpone or bargain down the amount. A person with an automatic transfer faces one setup decision, then occasional review.
 
@@ -547,7 +547,7 @@ Practical default choices include:
 
 </div>
 
-Payroll-linked saving is especially relevant because it moves the saving decision upstream. The Money and Pensions Service describes payroll saving as an automatic deduction from wages that makes saving easy and routine, similar in feel to pension contributions. Nest Insight’s workplace emergency-savings programme found that opt-out payroll saving can be a powerful way to help workers save consistently, and evidence submitted to Parliament stated that building accessible emergency savings alongside pensions did not appear to increase pension opt-outs or reduce pension contributions in those trials. <span class="citation-chip-wrap"><a class="citation-chip" href="https://maps.org.uk/en/work-with-us/financial-wellbeing-in-the-workplace/payroll-deducted-saving-schemes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maps.org.uk">[MaPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maps.org.uk</span><span class="citation-popover-snippet">Payroll-deducted saving schemesThis Nest Insight report, funded by MaPS and other partners, brings together evidence from trials with...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nestinsight.org.uk/wp-content/uploads/2025/03/Easier-to-Save.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nestinsight.org.uk">[NEST Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nestinsight.org.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Payroll-linked saving is especially relevant because it moves the saving decision upstream. The Money and Pensions Service describes payroll saving as an automatic deduction from wages that makes saving easy and routine, similar in feel to pension contributions. Nest Insight’s workplace emergency-savings programme found that opt-out payroll saving can be a powerful way to help workers save consistently, and evidence submitted to Parliament stated that building accessible emergency savings alongside pensions did not appear to increase pension opt-outs or reduce pension contributions in those trials.<span class="citation-chip-wrap"><a class="citation-chip" href="https://maps.org.uk/en/work-with-us/financial-wellbeing-in-the-workplace/payroll-deducted-saving-schemes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: maps.org.uk">[MaPS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">maps.org.uk</span><span class="citation-popover-snippet">Payroll-deducted saving schemesThis Nest Insight report, funded by MaPS and other partners, brings together evidence from trials with...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nestinsight.org.uk/wp-content/uploads/2025/03/Easier-to-Save.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nestinsight.org.uk">[NEST Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nestinsight.org.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The important implementation detail is timing. A transfer scheduled three weeks after payday is not the same intervention as one scheduled on payday morning. Saving before spending works because it reaches the money before the spending [environment]({{ 'environment/' | relative_url }}) does.
 
@@ -559,7 +559,7 @@ Automatic saving is only half the system. The other half is stopping saved money
 
 This is where friction helps. Friction is any small barrier that slows a purchase long enough for intention to catch up with impulse. Online retail, digital wallets, stored cards and buy-now-pay-later products are designed to reduce friction. That can be convenient for necessary purchases, but it also weakens the pause in which a person might ask, “Do I actually want this, and does it fit my plan?”
 
-Evidence on modern payment systems supports that concern. Research on buy-now-pay-later adoption found that customers using BNPL at a retailer increased online order size by 6.42% on average, and the CFPB has identified consumer risks around BNPL including debt accumulation, inconsistent protections and overextension. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0022435924000654" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Evidence on modern payment systems supports that concern. Research on buy-now-pay-later adoption found that customers using BNPL at a retailer increased online order size by 6.42% on average, and the CFPB has identified consumer risks around BNPL including debt accumulation, inconsistent protections and overextension.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S0022435924000654" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Friction does not need to be dramatic. The aim is not to make life miserable, but to make unplanned spending less automatic than saving. Useful barriers include:
 
@@ -582,9 +582,9 @@ Saving before spending works best when balances give clear [feedback]({{ 'feedba
 
 Separate balances make the system observable. A spending account shows what is available for the rest of the month. A bills account shows whether known obligations are covered. A savings account shows whether the buffer is growing. That visibility matters because self-improvement improves through feedback, not through guilt.
 
-Emergency-savings research is a useful anchor here. The CFPB’s work links emergency savings with greater financial security and examines how consumers’ financial profiles vary by emergency-savings level. Its practical guidance emphasises that even a minor financial shock can become lasting debt when people lack savings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.consumerfinance.gov/data-research/research-reports/emergency-savings-financial-security-insights-from-making-ends-meet-survey-and-consumer-credit-panel/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumerfinance.gov">[Consumer Financial Protection Bureau]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumerfinance.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Emergency-savings research is a useful anchor here. The CFPB’s work links emergency savings with greater financial security and examines how consumers’ financial profiles vary by emergency-savings level. Its practical guidance emphasises that even a minor financial shock can become lasting debt when people lack savings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.consumerfinance.gov/data-research/research-reports/emergency-savings-financial-security-insights-from-making-ends-meet-survey-and-consumer-credit-panel/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumerfinance.gov">[Consumer Financial Protection Bureau]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumerfinance.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-A 2025 Vanguard report found that having at least $2,000 in emergency savings was associated with a 21% higher financial well-being score compared with having none, and that three to six months of expenses was associated with a further increase. The figures are from an association, not proof that savings alone caused the whole improvement, but they make the practical point vivid: a visible buffer changes how financially safe life feels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://corporate.vanguard.com/content/dam/corp/research/pdf/relationship_between_emergency_savings_financial_well_being_financial_stress.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: corporate.vanguard.com">[Vanguard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">corporate.vanguard.com</span><span class="citation-popover-title">PDF] The relationship between emergency savings, financial well-being</span><span class="citation-popover-snippet">PDF] The relationship between emergency savings, financial well-being</span></span></span>
+A 2025 Vanguard report found that having at least $2,000 in emergency savings was associated with a 21% higher financial well-being score compared with having none, and that three to six months of expenses was associated with a further increase. The figures are from an association, not proof that savings alone caused the whole improvement, but they make the practical point vivid: a visible buffer changes how financially safe life feels.<span class="citation-chip-wrap"><a class="citation-chip" href="https://corporate.vanguard.com/content/dam/corp/research/pdf/relationship_between_emergency_savings_financial_well_being_financial_stress.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: corporate.vanguard.com">[Vanguard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">corporate.vanguard.com</span><span class="citation-popover-title">PDF] The relationship between emergency savings, financial well-being</span><span class="citation-popover-snippet">PDF] The relationship between emergency savings, financial well-being</span></span></span>
 
 Good balance feedback answers three questions:
 
@@ -602,11 +602,11 @@ This is why balance review should be routine but not obsessive. A weekly check i
 
 ## The best version is flexible, not heroic
 
-Saving before spending fails when it is set up as a heroic promise rather than a working policy. A transfer that is too high may create a satisfying savings balance and a hidden credit-card problem. Research on pension automatic enrolment has raised exactly this caution: additional retirement saving can be partly offset by increases in unsecured debt in some settings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nber.org/system/files/working_papers/w8651/w8651.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nber.org">[NBER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nber.org</span><span class="citation-popover-snippet">Open source on nber.org.</span></span></span>
+Saving before spending fails when it is set up as a heroic promise rather than a working policy. A transfer that is too high may create a satisfying savings balance and a hidden credit-card problem. Research on pension automatic enrolment has raised exactly this caution: additional retirement saving can be partly offset by increases in unsecured debt in some settings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nber.org/system/files/working_papers/w8651/w8651.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nber.org">[NBER]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nber.org</span><span class="citation-popover-snippet">Open source on nber.org.</span></span></span>
 
 That does not mean automatic saving is bad. It means the amount must fit the full household picture. Saving £200 while borrowing £200 at high interest is not progress unless there is a very specific reason. For many people, the first target should be a small emergency buffer, then expensive debt reduction, then longer-term saving and investing.
 
-There is also a default-rate problem. Defaults are powerful, but they can anchor people at the wrong level. Chicago Booth’s discussion of automatic enrolment notes that many plans historically used low initial contribution rates, and people often stayed with the default even when a higher rate might have suited them better. Automatic enrolment gets people started; it does not guarantee adequacy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chicagobooth.edu/review/behavioral-economics-retirement-savings-crisis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chicagobooth.edu">[Chicago Booth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chicagobooth.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+There is also a default-rate problem. Defaults are powerful, but they can anchor people at the wrong level. Chicago Booth’s discussion of automatic enrolment notes that many plans historically used low initial contribution rates, and people often stayed with the default even when a higher rate might have suited them better. Automatic enrolment gets people started; it does not guarantee adequacy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.chicagobooth.edu/review/behavioral-economics-retirement-savings-crisis" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: chicagobooth.edu">[Chicago Booth]</a><span class="citation-popover" role="note"><span class="citation-popover-source">chicagobooth.edu</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 A better design is adjustable by rule:
 
@@ -620,7 +620,7 @@ A better design is adjustable by rule:
 
 </div>
 
-The Save More Tomorrow approach is useful here. Thaler and Benartzi’s programme asked employees to commit in advance to increasing future saving, often timed with pay rises, so the increase did not feel like an immediate cut in take-home pay. The broader lesson is practical: future increases can be easier to accept than present sacrifices. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jstor.org/stable/10.1086/380085" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Save More Tomorrow approach is useful here. Thaler and Benartzi’s programme asked employees to commit in advance to increasing future saving, often timed with pay rises, so the increase did not feel like an immediate cut in take-home pay. The broader lesson is practical: future increases can be easier to accept than present sacrifices.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jstor.org/stable/10.1086/380085" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jstor.org">[JSTOR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jstor.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97-Illustration-3-dark.svg" | relative_url }}" alt="Saving illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_saving_before_spendi_b6bd97-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What this looks like in real life
@@ -639,7 +639,7 @@ The first mistake is saving into the same account used for daily spending. The l
 
 The second mistake is automating too late. If the transfer runs after two weeks of spending, it is no longer “save before spending”; it is “save if untouched money remains”. The trigger should sit next to income.
 
-The third mistake is using round-up saving as the main strategy. Round-ups can be a pleasant extra, but they are still tied to spending. A study of round-up savings found that enrolment could increase discretionary spending, which is the opposite of what many savers intend. A fixed payday transfer is cleaner because it does not require more purchases to create more savings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aeaweb.org/articles?id=10.1257%2Faer.20171676" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeaweb.org">[American Economic Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeaweb.org</span><span class="citation-popover-title">American Economic Association Why Do Defaults Affect Behavior?</span><span class="citation-popover-snippet">Experimental Evidence...by J Blumenstock · 2018 · Cited by 216 — We report on an experiment examining why default options impact behavio...</span></span></span>
+The third mistake is using round-up saving as the main strategy. Round-ups can be a pleasant extra, but they are still tied to spending. A study of round-up savings found that enrolment could increase discretionary spending, which is the opposite of what many savers intend. A fixed payday transfer is cleaner because it does not require more purchases to create more savings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aeaweb.org/articles?id=10.1257%2Faer.20171676" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aeaweb.org">[American Economic Association]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aeaweb.org</span><span class="citation-popover-title">American Economic Association Why Do Defaults Affect Behavior?</span><span class="citation-popover-snippet">Experimental Evidence...by J Blumenstock · 2018 · Cited by 216 — We report on an experiment examining why default options impact behavio...</span></span></span>
 
 The fourth mistake is ignoring debt. If automatic saving causes overdraft fees, missed payments or high-interest borrowing, the rule needs redesign. Saving before spending should improve resilience, not create a more complicated version of the same shortfall.
 
@@ -656,269 +656,269 @@ The best system is simple enough to run automatically and flexible enough to sur
 The result is a quieter form of self improvement: fewer dramatic resolutions, fewer end-of-month regrets, and a financial environment that makes the intended behaviour more likely before willpower is even tested.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How to Save Before You Spend. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How to Save Before You Spend. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Psychology+of+Money+by+Morgan+Housel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of Money on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5HrrDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Psychology of Money" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Psychology+of+Money+by+Morgan+Housel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Money">The Psychology of Money</a>
-        </h4>
-        <p class="fr-book-author">By Morgan Housel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Psychology+of+Money+by+Morgan+Housel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of Money on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5HrrDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Psychology of Money" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Psychology+of+Money+by+Morgan+Housel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Money">The Psychology of Money</a>
+</h4>
+<p class="fr-book-author">By Morgan Housel</p>
         
-        <p class="fr-book-desc">Strong emphasis on saving behaviour and financial decision-making.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Psychology+of+Money+by+Morgan+Housel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong emphasis on saving behaviour and financial decision-making.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Psychology+of+Money+by+Morgan+Housel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Automatic+Millionaire+by+David+Bach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Automatic Millionaire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3DNoY93VQ6EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Automatic Millionaire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Automatic+Millionaire+by+David+Bach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Automatic Millionaire">The Automatic Millionaire</a>
-        </h4>
-        <p class="fr-book-author">By David Bach</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Automatic+Millionaire+by+David+Bach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Automatic Millionaire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3DNoY93VQ6EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Automatic Millionaire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Automatic+Millionaire+by+David+Bach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Automatic Millionaire">The Automatic Millionaire</a>
+</h4>
+<p class="fr-book-author">By David Bach</p>
         
-        <p class="fr-book-desc">Directly promotes saving before spending through automation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Automatic+Millionaire+by+David+Bach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly promotes saving before spending through automation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Automatic+Millionaire+by+David+Bach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=I+Will+Teach+You+to+Be+Rich+by+Ramit+Sethi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open I Will Teach You to Be Rich on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cZ94EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for I Will Teach You to Be Rich" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=I+Will+Teach+You+to+Be+Rich+by+Ramit+Sethi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="I Will Teach You to Be Rich">I Will Teach You to Be Rich</a>
-        </h4>
-        <p class="fr-book-author">By Ramit Sethi</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=I+Will+Teach+You+to+Be+Rich+by+Ramit+Sethi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open I Will Teach You to Be Rich on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cZ94EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for I Will Teach You to Be Rich" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=I+Will+Teach+You+to+Be+Rich+by+Ramit+Sethi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="I Will Teach You to Be Rich">I Will Teach You to Be Rich</a>
+</h4>
+<p class="fr-book-author">By Ramit Sethi</p>
         
-        <p class="fr-book-desc">Includes practical systems for automatic saving and budgeting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=I+Will+Teach+You+to+Be+Rich+by+Ramit+Sethi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes practical systems for automatic saving and budgeting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=I+Will+Teach+You+to+Be+Rich+by+Ramit+Sethi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
-        </h4>
-        <p class="fr-book-author">By Carol S. Dweck</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
-        <p class="fr-book-desc">Addresses beliefs and learning approaches that support improvement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mindset on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fdjqz0TPL2wC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mindset" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mindset">Mindset</a>
+</h4>
+<p class="fr-book-author">By Carol S. Dweck</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 11 Google Books ratings</p>
+<p class="fr-book-desc">Addresses beliefs and learning approaches that support improvement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mindset+by+Carol+S.+Dweck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Psychology+of+Money&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Psychology of Money</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Automatic+Millionaire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Automatic Millionaire</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=I+Will+Teach+You+to+Be+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">I Will Teach You to Be Rich</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Psychology+of+Money&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Psychology of Money</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Automatic+Millionaire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Automatic Millionaire</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=I+Will+Teach+You+to+Be+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">I Will Teach You to Be Rich</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1951 Rest As You Ride. in Money Saving Coaches Go Union Pacific - 11x17 Poster"><img src="{{ '/assets/images/marketplace-covers/7773315acb71fe25f4e0.jpg' | relative_url }}" alt="Listing image for 1951 Rest As You Ride. in Money Saving Coaches Go Union Pacific - 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">1951 Rest As You Ride. in Money Saving Coaches Go Union Pacific - 11x17 Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for money saving poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: money saving poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1951 Rest As You Ride. in Money Saving Coaches Go Union Pacific - 11x17 Poster"><img src="{{ '/assets/images/marketplace-covers/7773315acb71fe25f4e0.jpg' | relative_url }}" alt="Listing image for 1951 Rest As You Ride. in Money Saving Coaches Go Union Pacific - 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">1951 Rest As You Ride. in Money Saving Coaches Go Union Pacific - 11x17 Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for money saving poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: money saving poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Saving and Growing Money Poster Wall Art Print pick size A4/A3/A2/90x60cm"><img src="{{ '/assets/images/marketplace-covers/3303b74456d8fb77a1b7.jpg' | relative_url }}" alt="Listing image for Saving and Growing Money Poster Wall Art Print pick size A4/A3/A2/90x60cm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Saving and Growing Money Poster Wall Art Print pick size A4/A3/A2/90x60cm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for money saving poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: money saving poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Saving and Growing Money Poster Wall Art Print pick size A4/A3/A2/90x60cm"><img src="{{ '/assets/images/marketplace-covers/3303b74456d8fb77a1b7.jpg' | relative_url }}" alt="Listing image for Saving and Growing Money Poster Wall Art Print pick size A4/A3/A2/90x60cm" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Saving and Growing Money Poster Wall Art Print pick size A4/A3/A2/90x60cm</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for money saving poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: money saving poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Saving Money In Jars Wealth Accumul Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4619122d4adb7852c2fc.jpg' | relative_url }}" alt="Listing image for Saving Money In Jars Wealth Accumul Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Saving Money In Jars Wealth Accumul Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for money saving poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: money saving poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Saving Money In Jars Wealth Accumul Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/4619122d4adb7852c2fc.jpg' | relative_url }}" alt="Listing image for Saving Money In Jars Wealth Accumul Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Saving Money In Jars Wealth Accumul Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for money saving poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: money saving poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1951 Rest As You Ride. in Money Saving Coaches Go Union Pacific - 11x17 Poster"><img src="{{ '/assets/images/marketplace-covers/7f777e136d6619021095.jpg' | relative_url }}" alt="Listing image for 1951 Rest As You Ride. in Money Saving Coaches Go Union Pacific - 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">1951 Rest As You Ride. in Money Saving Coaches Go Union Pacific - 11x17 Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for money saving poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: money saving poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1951 Rest As You Ride. in Money Saving Coaches Go Union Pacific - 11x17 Poster"><img src="{{ '/assets/images/marketplace-covers/7f777e136d6619021095.jpg' | relative_url }}" alt="Listing image for 1951 Rest As You Ride. in Money Saving Coaches Go Union Pacific - 11x17 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">1951 Rest As You Ride. in Money Saving Coaches Go Union Pacific - 11x17 Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for money saving poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: money saving poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=money+saving+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=saving-how-to-save-before-you-spend-self-improvement-that-works-money-saving-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -934,7 +934,7 @@ The result is a quieter form of self improvement: fewer dramatic resolutions, fe
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -954,7 +954,7 @@ The result is a quieter form of self improvement: fewer dramatic resolutions, fe
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -986,7 +986,7 @@ The result is a quieter form of self improvement: fewer dramatic resolutions, fe
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -1016,7 +1016,7 @@ The result is a quieter form of self improvement: fewer dramatic resolutions, fe
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -1074,202 +1074,202 @@ The result is a quieter form of self improvement: fewer dramatic resolutions, fe
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nber.org  
-   Link: <a href="https://www.nber.org/papers/w32100" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/papers/w32100</a>  
+   Link:<a href="https://www.nber.org/papers/w32100" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/papers/w32100</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nber.org  
-   Link: <a href="https://www.nber.org/system/files/working_papers/w8651/w8651.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/system/files/working_papers/w8651/w8651.pdf</a>  
+   Link:<a href="https://www.nber.org/system/files/working_papers/w8651/w8651.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/system/files/working_papers/w8651/w8651.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
    Title: automatic enrolment evaluation report 2019  
-   Link: <a href="https://www.gov.uk/government/publications/automatic-enrolment-evaluation-report-2019/automatic-enrolment-evaluation-report-2019" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/automatic-enrolment-evaluation-report-2019/automatic-enrolment-evaluation-report-2019</a>  
+   Link:<a href="https://www.gov.uk/government/publications/automatic-enrolment-evaluation-report-2019/automatic-enrolment-evaluation-report-2019" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/automatic-enrolment-evaluation-report-2019/automatic-enrolment-evaluation-report-2019</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: thepensionsregulator.gov.uk  
-   Link: <a href="https://www.thepensionsregulator.gov.uk/en/document-library/automatic-enrolment-detailed-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.thepensionsregulator.gov.uk/en/document-library/automatic-enrolment-detailed-guidance</a>  
+   Link:<a href="https://www.thepensionsregulator.gov.uk/en/document-library/automatic-enrolment-detailed-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.thepensionsregulator.gov.uk/en/document-library/automatic-enrolment-detailed-guidance</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/writtenevidence/161491/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/161491/html/</a>  
+   Link:<a href="https://committees.parliament.uk/writtenevidence/161491/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/161491/html/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0022435924000654" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0022435924000654</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0022435924000654" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0022435924000654</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: corporate.vanguard.com  
    Title: [PDF] The relationship between emergency savings, financial well-being  
-   Link: <a href="https://corporate.vanguard.com/content/dam/corp/research/pdf/relationship_between_emergency_savings_financial_well_being_financial_stress.pdf" target="_blank" rel="noopener noreferrer nofollow">https://corporate.vanguard.com/content/dam/corp/research/pdf/relationship_between_emergency_savings_financial_well_being_financial_stress.pdf</a>  
+   Link:<a href="https://corporate.vanguard.com/content/dam/corp/research/pdf/relationship_between_emergency_savings_financial_well_being_financial_stress.pdf" target="_blank" rel="noopener noreferrer nofollow">https://corporate.vanguard.com/content/dam/corp/research/pdf/relationship_between_emergency_savings_financial_well_being_financial_stress.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: jstor.org  
-   Link: <a href="https://www.jstor.org/stable/10.1086/380085" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/10.1086/380085</a>  
+   Link:<a href="https://www.jstor.org/stable/10.1086/380085" target="_blank" rel="noopener noreferrer nofollow">https://www.jstor.org/stable/10.1086/380085</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/writtenevidence/64033/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/64033/html/</a>  
+   Link:<a href="https://committees.parliament.uk/writtenevidence/64033/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/64033/html/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/writtenevidence/161491/pdf/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/161491/pdf/</a>  
+   Link:<a href="https://committees.parliament.uk/writtenevidence/161491/pdf/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/161491/pdf/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/writtenevidence/66747/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/66747/html/</a>  
+   Link:<a href="https://committees.parliament.uk/writtenevidence/66747/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/66747/html/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304387824001548" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0304387824001548</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0304387824001548" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0304387824001548</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167268119302744" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0167268119302744</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/abs/pii/S0167268119302744" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0167268119302744</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0167268124004906" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0167268124004906</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0167268124004906" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0167268124004906</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0167629622000881" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0167629622000881</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S0167629622000881" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0167629622000881</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2405844024117744" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2405844024117744</a>  
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2405844024117744" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2405844024117744</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nber.org  
-   Link: <a href="https://www.nber.org/system/files/working_papers/w18220/w18220.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/system/files/working_papers/w18220/w18220.pdf</a>  
+   Link:<a href="https://www.nber.org/system/files/working_papers/w18220/w18220.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nber.org/system/files/working_papers/w18220/w18220.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/6358e5a08fa8f557d9a2d573/workplace-pensions-and-automatic-enrolment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6358e5a08fa8f557d9a2d573/workplace-pensions-and-automatic-enrolment.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/6358e5a08fa8f557d9a2d573/workplace-pensions-and-automatic-enrolment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/6358e5a08fa8f557d9a2d573/workplace-pensions-and-automatic-enrolment.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/publications/understanding-member-engagement-with-workplace-pensions/summary-understanding-member-engagement-with-workplace-pensions" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/understanding-member-engagement-with-workplace-pensions/summary-understanding-member-engagement-with-workplace-pensions</a>  
+   Link:<a href="https://www.gov.uk/government/publications/understanding-member-engagement-with-workplace-pensions/summary-understanding-member-engagement-with-workplace-pensions" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/understanding-member-engagement-with-workplace-pensions/summary-understanding-member-engagement-with-workplace-pensions</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: aeaweb.org  
    Title: American Economic Association Why Do Defaults Affect Behavior?  
-   Link: <a href="https://www.aeaweb.org/articles?id=10.1257%2Faer.20171676" target="_blank" rel="noopener noreferrer nofollow">https://www.aeaweb.org/articles?id=10.1257%2Faer.20171676</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Experimental Evidence...by J Blumenstock · 2018 · Cited by 216 — We report on an experiment examining why default options impact behavio...</p></details>
+   Link:<a href="https://www.aeaweb.org/articles?id=10.1257%2Faer.20171676" target="_blank" rel="noopener noreferrer nofollow">https://www.aeaweb.org/articles?id=10.1257%2Faer.20171676</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Experimental Evidence...by J Blumenstock · 2018 · Cited by 216 — We report on an experiment examining why default options impact behavio...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: maps.org.uk  
-   Link: <a href="https://maps.org.uk/en/work-with-us/financial-wellbeing-in-the-workplace/payroll-deducted-saving-schemes" target="_blank" rel="noopener noreferrer nofollow">https://maps.org.uk/en/work-with-us/financial-wellbeing-in-the-workplace/payroll-deducted-saving-schemes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Payroll-deducted saving schemesThis Nest Insight report, funded by MaPS and other partners, brings together evidence from trials with...</p></details>
+   Link:<a href="https://maps.org.uk/en/work-with-us/financial-wellbeing-in-the-workplace/payroll-deducted-saving-schemes" target="_blank" rel="noopener noreferrer nofollow">https://maps.org.uk/en/work-with-us/financial-wellbeing-in-the-workplace/payroll-deducted-saving-schemes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Payroll-deducted saving schemesThis Nest Insight report, funded by MaPS and other partners, brings together evidence from trials with...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: consumerfinance.gov  
-   Link: <a href="https://www.consumerfinance.gov/data-research/research-reports/emergency-savings-financial-security-insights-from-making-ends-meet-survey-and-consumer-credit-panel/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerfinance.gov/data-research/research-reports/emergency-savings-financial-security-insights-from-making-ends-meet-survey-and-consumer-credit-panel/</a>  
+   Link:<a href="https://www.consumerfinance.gov/data-research/research-reports/emergency-savings-financial-security-insights-from-making-ends-meet-survey-and-consumer-credit-panel/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerfinance.gov/data-research/research-reports/emergency-savings-financial-security-insights-from-making-ends-meet-survey-and-consumer-credit-panel/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: consumerfinance.gov  
    Title: looking easy way save money make it automatic  
-   Link: <a href="https://www.consumerfinance.gov/about-us/blog/looking-easy-way-save-money-make-it-automatic/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerfinance.gov/about-us/blog/looking-easy-way-save-money-make-it-automatic/</a>  
+   Link:<a href="https://www.consumerfinance.gov/about-us/blog/looking-easy-way-save-money-make-it-automatic/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerfinance.gov/about-us/blog/looking-easy-way-save-money-make-it-automatic/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: consumerfinance.gov  
    Title: how save emergencies and future  
-   Link: <a href="https://www.consumerfinance.gov/about-us/blog/how-save-emergencies-and-future/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerfinance.gov/about-us/blog/how-save-emergencies-and-future/</a>  
+   Link:<a href="https://www.consumerfinance.gov/about-us/blog/how-save-emergencies-and-future/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerfinance.gov/about-us/blog/how-save-emergencies-and-future/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: nestinsight.org.uk  
-   Link: <a href="https://www.nestinsight.org.uk/wp-content/uploads/2025/03/Easier-to-Save.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nestinsight.org.uk/wp-content/uploads/2025/03/Easier-to-Save.pdf</a>  
+   Link:<a href="https://www.nestinsight.org.uk/wp-content/uploads/2025/03/Easier-to-Save.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nestinsight.org.uk/wp-content/uploads/2025/03/Easier-to-Save.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: files.consumerfinance.gov  
-   Link: <a href="https://files.consumerfinance.gov/f/documents/cfpb_buy-now-pay-later-market-trends-consumer-impacts_report_2022-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.consumerfinance.gov/f/documents/cfpb_buy-now-pay-later-market-trends-consumer-impacts_report_2022-09.pdf</a>  
+   Link:<a href="https://files.consumerfinance.gov/f/documents/cfpb_buy-now-pay-later-market-trends-consumer-impacts_report_2022-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://files.consumerfinance.gov/f/documents/cfpb_buy-now-pay-later-market-trends-consumer-impacts_report_2022-09.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: consumerfinance.gov  
-   Link: <a href="https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/</a>  
+   Link:<a href="https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerfinance.gov/an-essential-guide-to-building-an-emergency-fund/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: chicagobooth.edu  
-   Link: <a href="https://www.chicagobooth.edu/review/behavioral-economics-retirement-savings-crisis" target="_blank" rel="noopener noreferrer nofollow">https://www.chicagobooth.edu/review/behavioral-economics-retirement-savings-crisis</a>  
+   Link:<a href="https://www.chicagobooth.edu/review/behavioral-economics-retirement-savings-crisis" target="_blank" rel="noopener noreferrer nofollow">https://www.chicagobooth.edu/review/behavioral-economics-retirement-savings-crisis</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: aeaweb.org  
    Title: American Economic Association The Impossibility of Saving by Spending  
-   Link: <a href="https://www.aeaweb.org/conference/2023/program/paper/D8QD5Z29" target="_blank" rel="noopener noreferrer nofollow">https://www.aeaweb.org/conference/2023/program/paper/D8QD5Z29</a>  
+   Link:<a href="https://www.aeaweb.org/conference/2023/program/paper/D8QD5Z29" target="_blank" rel="noopener noreferrer nofollow">https://www.aeaweb.org/conference/2023/program/paper/D8QD5Z29</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: consumerfinance.gov  
    Title: consumer financial protection bureau releases research saving habits  
-   Link: <a href="https://www.consumerfinance.gov/about-us/newsroom/consumer-financial-protection-bureau-releases-research-saving-habits/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerfinance.gov/about-us/newsroom/consumer-financial-protection-bureau-releases-research-saving-habits/</a>  
+   Link:<a href="https://www.consumerfinance.gov/about-us/newsroom/consumer-financial-protection-bureau-releases-research-saving-habits/" target="_blank" rel="noopener noreferrer nofollow">https://www.consumerfinance.gov/about-us/newsroom/consumer-financial-protection-bureau-releases-research-saving-habits/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: nestinsight.org.uk  
-   Link: <a href="https://www.nestinsight.org.uk/?p=7352" target="_blank" rel="noopener noreferrer nofollow">https://www.nestinsight.org.uk/?p=7352</a>  
+   Link:<a href="https://www.nestinsight.org.uk/?p=7352" target="_blank" rel="noopener noreferrer nofollow">https://www.nestinsight.org.uk/?p=7352</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: nestinsight.org.uk  
-   Link: <a href="https://www.nestinsight.org.uk/research-projects/workplace-emergency-savings/" target="_blank" rel="noopener noreferrer nofollow">https://www.nestinsight.org.uk/research-projects/workplace-emergency-savings/</a>  
+   Link:<a href="https://www.nestinsight.org.uk/research-projects/workplace-emergency-savings/" target="_blank" rel="noopener noreferrer nofollow">https://www.nestinsight.org.uk/research-projects/workplace-emergency-savings/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: professionalpensions.com  
    Title: nest insight publishes sidecar savings trial findings  
-   Link: <a href="https://www.professionalpensions.com/news/4113006/nest-insight-publishes-sidecar-savings-trial-findings" target="_blank" rel="noopener noreferrer nofollow">https://www.professionalpensions.com/news/4113006/nest-insight-publishes-sidecar-savings-trial-findings</a>  
+   Link:<a href="https://www.professionalpensions.com/news/4113006/nest-insight-publishes-sidecar-savings-trial-findings" target="_blank" rel="noopener noreferrer nofollow">https://www.professionalpensions.com/news/4113006/nest-insight-publishes-sidecar-savings-trial-findings</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: slvfed.bank  
    Title: emergency savings  
-   Link: <a href="https://www.slvfed.bank/blog/post/emergency-savings" target="_blank" rel="noopener noreferrer nofollow">https://www.slvfed.bank/blog/post/emergency-savings</a>  
+   Link:<a href="https://www.slvfed.bank/blog/post/emergency-savings" target="_blank" rel="noopener noreferrer nofollow">https://www.slvfed.bank/blog/post/emergency-savings</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: linkedin.com  
    Title: nest insight workplace emergency savings activity 7330151491258769408 Uj78  
-   Link: <a href="https://www.linkedin.com/posts/nest-insight_workplace-emergency-savings-activity-7330151491258769408-Uj78" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/nest-insight_workplace-emergency-savings-activity-7330151491258769408-Uj78</a>  
+   Link:<a href="https://www.linkedin.com/posts/nest-insight_workplace-emergency-savings-activity-7330151491258769408-Uj78" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/nest-insight_workplace-emergency-savings-activity-7330151491258769408-Uj78</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: pnc.com  
    Title: pay yourself first  
-   Link: <a href="https://www.pnc.com/insights/personal-finance/save/pay-yourself-first.html" target="_blank" rel="noopener noreferrer nofollow">https://www.pnc.com/insights/personal-finance/save/pay-yourself-first.html</a>  
+   Link:<a href="https://www.pnc.com/insights/personal-finance/save/pay-yourself-first.html" target="_blank" rel="noopener noreferrer nofollow">https://www.pnc.com/insights/personal-finance/save/pay-yourself-first.html</a>  
 
 ### Additional References
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: clear.dol.gov  
-   Link: <a href="https://clear.dol.gov/study/save-more-tomorrow%E2%84%A2-using-behavioral-economics-increase-employee-saving-thaler-benartzi-2004" target="_blank" rel="noopener noreferrer nofollow">https://clear.dol.gov/study/save-more-tomorrow%E2%84%A2-using-behavioral-economics-increase-employee-saving-thaler-benartzi-2004</a>  
+   Link:<a href="https://clear.dol.gov/study/save-more-tomorrow%E2%84%A2-using-behavioral-economics-increase-employee-saving-thaler-benartzi-2004" target="_blank" rel="noopener noreferrer nofollow">https://clear.dol.gov/study/save-more-tomorrow%E2%84%A2-using-behavioral-economics-increase-employee-saving-thaler-benartzi-2004</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: clear.dol.gov  
    Title: better or worse default effects and 401k savings behavior choi et al 2004  
-   Link: <a href="https://clear.dol.gov/study/better-or-worse-default-effects-and-401k-savings-behavior-choi-et-al-2004" target="_blank" rel="noopener noreferrer nofollow">https://clear.dol.gov/study/better-or-worse-default-effects-and-401k-savings-behavior-choi-et-al-2004</a>  
+   Link:<a href="https://clear.dol.gov/study/better-or-worse-default-effects-and-401k-savings-behavior-choi-et-al-2004" target="_blank" rel="noopener noreferrer nofollow">https://clear.dol.gov/study/better-or-worse-default-effects-and-401k-savings-behavior-choi-et-al-2004</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/362685652_Rein_it_in_Nudge-based_interventions_to_cope_with_online_impulse_buying_among_young_adults" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362685652_Rein_it_in_Nudge-based_interventions_to_cope_with_online_impulse_buying_among_young_adults</a>  
+   Link:<a href="https://www.researchgate.net/publication/362685652_Rein_it_in_Nudge-based_interventions_to_cope_with_online_impulse_buying_among_young_adults" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/362685652_Rein_it_in_Nudge-based_interventions_to_cope_with_online_impulse_buying_among_young_adults</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/391345734_Buy_Now_Pay_Later_An_Analysis_of_Consumer_Financial_Protection_Bureau_Research_and_Regulatory_Actions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391345734_Buy_Now_Pay_Later_An_Analysis_of_Consumer_Financial_Protection_Bureau_Research_and_Regulatory_Actions</a>  
+   Link:<a href="https://www.researchgate.net/publication/391345734_Buy_Now_Pay_Later_An_Analysis_of_Consumer_Financial_Protection_Bureau_Research_and_Regulatory_Actions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391345734_Buy_Now_Pay_Later_An_Analysis_of_Consumer_Financial_Protection_Bureau_Research_and_Regulatory_Actions</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/349072941_A_replication_study_of_the_credit_card_effect_on_spending_behavior_and_an_extension_to_mobile_payments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349072941_A_replication_study_of_the_credit_card_effect_on_spending_behavior_and_an_extension_to_mobile_payments</a>  
+   Link:<a href="https://www.researchgate.net/publication/349072941_A_replication_study_of_the_credit_card_effect_on_spending_behavior_and_an_extension_to_mobile_payments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/349072941_A_replication_study_of_the_credit_card_effect_on_spending_behavior_and_an_extension_to_mobile_payments</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: anderson.ucla.edu  
-   Link: <a href="https://www.anderson.ucla.edu/sites/default/files/documents/areas/fac/accounting/Benartzi%20and%20Thaler%20Science.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.anderson.ucla.edu/sites/default/files/documents/areas/fac/accounting/Benartzi%20and%20Thaler%20Science.pdf</a>  
+   Link:<a href="https://www.anderson.ucla.edu/sites/default/files/documents/areas/fac/accounting/Benartzi%20and%20Thaler%20Science.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.anderson.ucla.edu/sites/default/files/documents/areas/fac/accounting/Benartzi%20and%20Thaler%20Science.pdf</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: hbs.edu  
-   Link: <a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=62774" target="_blank" rel="noopener noreferrer nofollow">https://www.hbs.edu/faculty/Pages/item.aspx?num=62774</a>  
+   Link:<a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=62774" target="_blank" rel="noopener noreferrer nofollow">https://www.hbs.edu/faculty/Pages/item.aspx?num=62774</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: fair4allfinance.org.uk  
-   Link: <a href="https://fair4allfinance.org.uk/buy-now-pay-later-and-financial-vulnerability/" target="_blank" rel="noopener noreferrer nofollow">https://fair4allfinance.org.uk/buy-now-pay-later-and-financial-vulnerability/</a>  
+   Link:<a href="https://fair4allfinance.org.uk/buy-now-pay-later-and-financial-vulnerability/" target="_blank" rel="noopener noreferrer nofollow">https://fair4allfinance.org.uk/buy-now-pay-later-and-financial-vulnerability/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/read/26874/chapter/10" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/26874/chapter/10</a>  
+   Link:<a href="https://www.nationalacademies.org/read/26874/chapter/10" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/26874/chapter/10</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/intervention/defaults-improve-savings" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/intervention/defaults-improve-savings</a>
+   Link:<a href="https://thedecisionlab.com/intervention/defaults-improve-savings" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/intervention/defaults-improve-savings</a>

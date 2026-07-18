@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /self-improvement-tha-c01280-rewards/
 description: Focused pages that expand on Rewards.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: self_improvement_tha_c01280_rewards_reinforcemen_89c68c
 parent_title: Rewards
@@ -16,7 +16,7 @@ parent_permalink: /rewards/
 
 # Explore Topics in Rewards
 
-The following pages expand on the main **[Rewards]({{ '/rewards/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Rewards]({{ '/rewards/' | relative_url }})** page and cover its key branches in.
 
 - [Congruent Rewards]({{ '/congruent-rewards/' | relative_url }})
 - [Exercise Incentives]({{ '/exercise-incentives/' | relative_url }})

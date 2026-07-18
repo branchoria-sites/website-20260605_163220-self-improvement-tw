@@ -303,9 +303,9 @@ Treating all notifications as equally important creates a false choice between t
 
 Most smartphones now [support]({{ 'support/' | relative_url }}) exception-based notification systems. Rather than leaving the device fully active overnight, users can silence almost everything while permitting specific contacts or categories of calls to break through.
 
-On iPhone, Apple allows designated contacts to bypass silencing and Focus settings through Emergency Bypass or permitted-contact settings. Calls and messages from selected people can still alert the user even when notifications are otherwise suppressed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://support.apple.com/en-bw/guide/iphone/iph21d43af5b/ios" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.apple.com">[Apple Support]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.apple.com</span><span class="citation-popover-snippet">· Select a contact, then tap Edit. · Tap Ringtone or Text Tone, then turn on...Read more...</span></span></span>
+On iPhone, Apple allows designated contacts to bypass silencing and Focus settings through Emergency Bypass or permitted-contact settings. Calls and messages from selected people can still alert the user even when notifications are otherwise suppressed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://support.apple.com/en-bw/guide/iphone/iph21d43af5b/ios" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.apple.com">[Apple Support]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.apple.com</span><span class="citation-popover-snippet">· Select a contact, then tap Edit. · Tap Ringtone or Text Tone, then turn on...Read more...</span></span></span>
 
-On Android, Do Not Disturb settings can be configured so that calls or messages from starred or favourite contacts are allowed while other interruptions remain blocked. Android also supports additional exceptions such as alarms, calendar events or repeat callers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://help.innocaption.com/en/articles/10723908-allow-calls-from-favorites-in-do-not-disturb-mode" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.innocaption.com">[InnoCaption Help Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.innocaption.com</span><span class="citation-popover-title">Inno Caption Help Center Allow calls from Favorites in Do Not Disturb mode</span><span class="citation-popover-snippet">Tap People. Tap Calls. Select Starred to ensure calls from your favorite contacts will bypass DND. Go back to the Settings app main page...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://support.google.com/android/thread/168204445/how-to-enable-starred-contacts-bypassing-do-not-disturb?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.google.com">[Google Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.google.com</span><span class="citation-popover-title">how to enable starred contacts bypassing do not disturb</span><span class="citation-popover-snippet">I can make this work for anything but the incoming calls.Read more...</span></span></span>
+On Android, Do Not Disturb settings can be configured so that calls or messages from starred or favourite contacts are allowed while other interruptions remain blocked. Android also supports additional exceptions such as alarms, calendar events or repeat callers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://help.innocaption.com/en/articles/10723908-allow-calls-from-favorites-in-do-not-disturb-mode" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: help.innocaption.com">[InnoCaption Help Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">help.innocaption.com</span><span class="citation-popover-title">Inno Caption Help Center Allow calls from Favorites in Do Not Disturb mode</span><span class="citation-popover-snippet">Tap People. Tap Calls. Select Starred to ensure calls from your favorite contacts will bypass DND. Go back to the Settings app main page...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://support.google.com/android/thread/168204445/how-to-enable-starred-contacts-bypassing-do-not-disturb?hl=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.google.com">[Google Help]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.google.com</span><span class="citation-popover-title">how to enable starred contacts bypassing do not disturb</span><span class="citation-popover-snippet">I can make this work for anything but the incoming calls.Read more...</span></span></span>
 
 A useful governance rule is to create a deliberately small overnight allow-list. For example:
 
@@ -333,7 +333,7 @@ This distinction matters because the behavioural cost of an emergency call is ac
 
 ### The Repeat-Caller Safety Net
 
-Many phones also offer a repeat-caller exception. If the same number calls twice within a short period, the second call can bypass Do Not Disturb settings. This feature exists because genuine emergencies often produce repeated attempts to make contact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lifewire.com/use-do-not-disturb-on-android-11686458" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lifewire.com">[Lifewire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lifewire.com</span><span class="citation-popover-snippet">It can be toggled on from the Quick Settings menu by swiping down from the top of the screen, or via Settings under Sound &amp; Vibration. Us...</span></span></span>
+Many phones also offer a repeat-caller exception. If the same number calls twice within a short period, the second call can bypass Do Not Disturb settings. This feature exists because genuine emergencies often produce repeated attempts to make contact.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lifewire.com/use-do-not-disturb-on-android-11686458" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lifewire.com">[Lifewire]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lifewire.com</span><span class="citation-popover-snippet">It can be toggled on from the Quick Settings menu by swiping down from the top of the screen, or via Settings under Sound &amp; Vibration. Us...</span></span></span>
 
 For some households, this provides a useful backup. Even if a caller is not on the approved list, persistence can still signal urgency.
 
@@ -419,269 +419,269 @@ This approach recognises an important principle of self-improvement: the goal is
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TAGF2YttsMs" title="How to Silence Phone but Still Get Messages &amp; Calls from Contacts on Android Phone (Do Not Disturb)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TAGF2YttsMs" target="_blank" rel="noopener noreferrer">How to Silence Phone but Still Get Messages &amp; Calls from Contacts on Android Phone (Do Not Disturb)</a></p><p class="youtube-embed-meta">Channel: YourSixStudios &middot; Views: 3.9K &middot; Uploaded: October 2025 &middot; Length: 2 minutes 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TAGF2YttsMs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TAGF2YttsMs">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Staying Reachable Without Staying Online. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Staying Reachable Without Staying Online. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Minimalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S4NbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Minimalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Minimalism">Digital Minimalism</a>
-        </h4>
-        <p class="fr-book-author">By Cal Newport</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Minimalism on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S4NbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Minimalism" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Minimalism">Digital Minimalism</a>
+</h4>
+<p class="fr-book-author">By Cal Newport</p>
         
-        <p class="fr-book-desc">Explores intentional connectivity rather than constant availability.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores intentional connectivity rather than constant availability.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Digital+Minimalism+by+Cal+Newport&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Break+Up+with+Your+Phone+by+Catherine+Price&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Break Up with Your Phone on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rRVHDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Break Up with Your Phone" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Break+Up+with+Your+Phone+by+Catherine+Price&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Break Up with Your Phone">How to Break Up with Your Phone</a>
-        </h4>
-        <p class="fr-book-author">By Catherine Price</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Break+Up+with+Your+Phone+by+Catherine+Price&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Break Up with Your Phone on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rRVHDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Break Up with Your Phone" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+to+Break+Up+with+Your+Phone+by+Catherine+Price&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Break Up with Your Phone">How to Break Up with Your Phone</a>
+</h4>
+<p class="fr-book-author">By Catherine Price</p>
         
-        <p class="fr-book-desc">Covers reducing phone dependence while retaining practicality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Break+Up+with+Your+Phone+by+Catherine+Price&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers reducing phone dependence while retaining practicality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+to+Break+Up+with+Your+Phone+by+Catherine+Price&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Indistractable on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_KjNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Indistractable" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Indistractable">Indistractable</a>
-        </h4>
-        <p class="fr-book-author">By Nir Eyal</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Indistractable on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_KjNDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Indistractable" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Indistractable">Indistractable</a>
+</h4>
+<p class="fr-book-author">By Nir Eyal</p>
         
-        <p class="fr-book-desc">Addresses managing interruptions and technology triggers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses managing interruptions and technology triggers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Indistractable+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why We Sleep on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZlU3DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why We Sleep" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why We Sleep">Why We Sleep</a>
-        </h4>
-        <p class="fr-book-author">By Matthew Walker</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Why We Sleep on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZlU3DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Why We Sleep" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why We Sleep">Why We Sleep</a>
+</h4>
+<p class="fr-book-author">By Matthew Walker</p>
         
-        <p class="fr-book-desc">Explains why nighttime interruptions matter.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why nighttime interruptions matter.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Why+We+Sleep+by+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Minimalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Minimalism</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Break+Up+with+Your+Phone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Break Up with Your Phone</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Indistractable&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Indistractable</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Minimalism&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Minimalism</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Break+Up+with+Your+Phone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Break Up with Your Phone</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Indistractable&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Indistractable</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+stand+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-phone-stand-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4 Pcs Folding Phone Stand Countertop Poster Card Display Organizer Rack"><img src="{{ '/assets/images/marketplace-covers/05fba191a4a1b0049bdf.jpg' | relative_url }}" alt="Listing image for 4 Pcs Folding Phone Stand Countertop Poster Card Display Organizer Rack" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+stand+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-phone-stand-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">4 Pcs Folding Phone Stand Countertop Poster Card Display Organizer Rack</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+stand+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-phone-stand-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone stand poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone stand poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+stand+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-phone-stand-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+stand+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-phone-stand-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4 Pcs Folding Phone Stand Countertop Poster Card Display Organizer Rack"><img src="{{ '/assets/images/marketplace-covers/05fba191a4a1b0049bdf.jpg' | relative_url }}" alt="Listing image for 4 Pcs Folding Phone Stand Countertop Poster Card Display Organizer Rack" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+stand+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-phone-stand-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">4 Pcs Folding Phone Stand Countertop Poster Card Display Organizer Rack</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+stand+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-phone-stand-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone stand poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: phone stand poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+stand+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-phone-stand-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+stand+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-phone-stand-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Wars Poster Bamboo Cell Phone Stand Holder"><img src="{{ '/assets/images/marketplace-covers/1c0c84d8dcfab00589d7.jpg' | relative_url }}" alt="Listing image for Star Wars Poster Bamboo Cell Phone Stand Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+stand+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-phone-stand-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Star Wars Poster Bamboo Cell Phone Stand Holder</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+stand+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-phone-stand-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone stand poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone stand poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+stand+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-phone-stand-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+stand+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-phone-stand-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Star Wars Poster Bamboo Cell Phone Stand Holder"><img src="{{ '/assets/images/marketplace-covers/1c0c84d8dcfab00589d7.jpg' | relative_url }}" alt="Listing image for Star Wars Poster Bamboo Cell Phone Stand Holder" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+stand+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-phone-stand-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Star Wars Poster Bamboo Cell Phone Stand Holder</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+stand+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-phone-stand-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone stand poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: phone stand poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+stand+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-phone-stand-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+stand+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-phone-stand-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Leather Mobile Phone Stand Cover Case Fit Google Pixel 8A UK"><img src="{{ '/assets/images/marketplace-covers/f48c1f4d3ec74b55ebfd.jpg' | relative_url }}" alt="Listing image for Leather Mobile Phone Stand Cover Case Fit Google Pixel 8A UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+stand+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-phone-stand-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Leather Mobile Phone Stand Cover Case Fit Google Pixel 8A UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+stand+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-phone-stand-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone stand poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone stand poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+stand+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-phone-stand-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+stand+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-phone-stand-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Leather Mobile Phone Stand Cover Case Fit Google Pixel 8A UK"><img src="{{ '/assets/images/marketplace-covers/f48c1f4d3ec74b55ebfd.jpg' | relative_url }}" alt="Listing image for Leather Mobile Phone Stand Cover Case Fit Google Pixel 8A UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+stand+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-phone-stand-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Leather Mobile Phone Stand Cover Case Fit Google Pixel 8A UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+stand+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-phone-stand-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone stand poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: phone stand poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+stand+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-phone-stand-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+stand+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-phone-stand-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PU Leather Phone Stand Cover Case - For Motorola Moto E13/E14/E15/G05/G15/G75 UK"><img src="{{ '/assets/images/marketplace-covers/a66009bd22e52ac83a99.jpg' | relative_url }}" alt="Listing image for PU Leather Phone Stand Cover Case - For Motorola Moto E13/E14/E15/G05/G15/G75 UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+stand+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-phone-stand-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">PU Leather Phone Stand Cover Case - For Motorola Moto E13/E14/E15/G05/G15/G75 UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+stand+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-phone-stand-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone stand poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: phone stand poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+stand+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-phone-stand-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+stand+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-phone-stand-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+stand+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-phone-stand-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PU Leather Phone Stand Cover Case - For Motorola Moto E13/E14/E15/G05/G15/G75 UK"><img src="{{ '/assets/images/marketplace-covers/a66009bd22e52ac83a99.jpg' | relative_url }}" alt="Listing image for PU Leather Phone Stand Cover Case - For Motorola Moto E13/E14/E15/G05/G15/G75 UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+stand+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-phone-stand-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">PU Leather Phone Stand Cover Case - For Motorola Moto E13/E14/E15/G05/G15/G75 UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+stand+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-phone-stand-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for phone stand poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: phone stand poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+stand+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-phone-stand-poster-book-books&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=phone+stand+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=emergencies-staying-reachable-without-staying-online-self-improvement-that-works-phone-stand-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -697,7 +697,7 @@ This approach recognises an important principle of self-improvement: the goal is
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -717,7 +717,7 @@ This approach recognises an important principle of self-improvement: the goal is
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -749,7 +749,7 @@ This approach recognises an important principle of self-improvement: the goal is
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -779,7 +779,7 @@ This approach recognises an important principle of self-improvement: the goal is
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -837,109 +837,109 @@ This approach recognises an important principle of self-improvement: the goal is
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: support.apple.com  
-   Link: <a href="https://support.apple.com/en-bw/guide/iphone/iph21d43af5b/ios" target="_blank" rel="noopener noreferrer nofollow">https://support.apple.com/en-bw/guide/iphone/iph21d43af5b/ios</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>· Select a contact, then tap Edit. · Tap Ringtone or Text Tone, then turn on...Read more...</p></details>
+   Link:<a href="https://support.apple.com/en-bw/guide/iphone/iph21d43af5b/ios" target="_blank" rel="noopener noreferrer nofollow">https://support.apple.com/en-bw/guide/iphone/iph21d43af5b/ios</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>· Select a contact, then tap Edit. · Tap Ringtone or Text Tone, then turn on...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: help.innocaption.com  
    Title: Inno Caption Help Center Allow calls from Favorites in Do Not Disturb mode  
-   Link: <a href="https://help.innocaption.com/en/articles/10723908-allow-calls-from-favorites-in-do-not-disturb-mode" target="_blank" rel="noopener noreferrer nofollow">https://help.innocaption.com/en/articles/10723908-allow-calls-from-favorites-in-do-not-disturb-mode</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tap People. Tap Calls. Select Starred to ensure calls from your favorite contacts will bypass DND. Go back to the Settings app main page...</p></details>
+   Link:<a href="https://help.innocaption.com/en/articles/10723908-allow-calls-from-favorites-in-do-not-disturb-mode" target="_blank" rel="noopener noreferrer nofollow">https://help.innocaption.com/en/articles/10723908-allow-calls-from-favorites-in-do-not-disturb-mode</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tap People. Tap Calls. Select Starred to ensure calls from your favorite contacts will bypass DND. Go back to the Settings app main page...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: support.google.com  
    Title: how to enable starred contacts bypassing do not disturb  
-   Link: <a href="https://support.google.com/android/thread/168204445/how-to-enable-starred-contacts-bypassing-do-not-disturb?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/android/thread/168204445/how-to-enable-starred-contacts-bypassing-do-not-disturb?hl=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>I can make this work for anything but the incoming calls.Read more...</p></details>
+   Link:<a href="https://support.google.com/android/thread/168204445/how-to-enable-starred-contacts-bypassing-do-not-disturb?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/android/thread/168204445/how-to-enable-starred-contacts-bypassing-do-not-disturb?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I can make this work for anything but the incoming calls.Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: lifewire.com  
-   Link: <a href="https://www.lifewire.com/use-do-not-disturb-on-android-11686458" target="_blank" rel="noopener noreferrer nofollow">https://www.lifewire.com/use-do-not-disturb-on-android-11686458</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It can be toggled on from the Quick Settings menu by swiping down from the top of the screen, or via Settings under Sound &amp; Vibration. Us...</p></details>
+   Link:<a href="https://www.lifewire.com/use-do-not-disturb-on-android-11686458" target="_blank" rel="noopener noreferrer nofollow">https://www.lifewire.com/use-do-not-disturb-on-android-11686458</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It can be toggled on from the Quick Settings menu by swiping down from the top of the screen, or via Settings under Sound &amp; Vibration. Us...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: apple.com  
-   Link: <a href="https://www.apple.com/hk/en/" target="_blank" rel="noopener noreferrer nofollow">https://www.apple.com/hk/en/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Apple (Hong Kong)Discover the innovative world of Apple and shop everything iPhone, iPad, Apple Watch, Mac, and Apple TV, plus explore ac...</p></details>
+   Link:<a href="https://www.apple.com/hk/en/" target="_blank" rel="noopener noreferrer nofollow">https://www.apple.com/hk/en/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Apple (Hong Kong)Discover the innovative world of Apple and shop everything iPhone, iPad, Apple Watch, Mac, and Apple TV, plus explore ac...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: discussions.apple.com  
-   Link: <a href="https://discussions.apple.com/thread/253638549" target="_blank" rel="noopener noreferrer nofollow">https://discussions.apple.com/thread/253638549</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>I have Emergency Bypass on for some of…Feb 5, 2022 — So, to make sure that you receive notifications from certain people, you can add the...</p></details>
+   Link:<a href="https://discussions.apple.com/thread/253638549" target="_blank" rel="noopener noreferrer nofollow">https://discussions.apple.com/thread/253638549</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I have Emergency Bypass on for some of…Feb 5, 2022 — So, to make sure that you receive notifications from certain people, you can add the...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: discussions.apple.com  
-   Link: <a href="https://discussions.apple.com/thread/255150794" target="_blank" rel="noopener noreferrer nofollow">https://discussions.apple.com/thread/255150794</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>bypass not working24 Sept 2023 — Have been thru all the past discussions, tried toggles, settings, unhide alerts to contact specific peop...</p></details>
+   Link:<a href="https://discussions.apple.com/thread/255150794" target="_blank" rel="noopener noreferrer nofollow">https://discussions.apple.com/thread/255150794</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>bypass not working24 Sept 2023 — Have been thru all the past discussions, tried toggles, settings, unhide alerts to contact specific peop...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: discussions.apple.com  
-   Link: <a href="https://discussions.apple.com/thread/255886541" target="_blank" rel="noopener noreferrer nofollow">https://discussions.apple.com/thread/255886541</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>mode Emergency Bypass for my iPhone SE.17 Dec 2024 — Tap the dropdown next to Allow Calls From and choose Allowed People Only; Optionally...</p></details>
+   Link:<a href="https://discussions.apple.com/thread/255886541" target="_blank" rel="noopener noreferrer nofollow">https://discussions.apple.com/thread/255886541</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mode Emergency Bypass for my iPhone SE.17 Dec 2024 — Tap the dropdown next to Allow Calls From and choose Allowed People Only; Optionally...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: support.google.com  
-   Link: <a href="https://support.google.com/android/answer/9069335?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/android/answer/9069335?hl=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>· Tap Sound And then Do Not Disturb preferences And then Priority only allows. · Set your...Read more...</p></details>
+   Link:<a href="https://support.google.com/android/answer/9069335?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/android/answer/9069335?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>· Tap Sound And then Do Not Disturb preferences And then Priority only allows. · Set your...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: support.google.com  
    Title: emergency bypass feature for specific contacts  
-   Link: <a href="https://support.google.com/android/thread/219866813/emergency-bypass-feature-for-specific-contacts?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/android/thread/219866813/emergency-bypass-feature-for-specific-contacts?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>· Tap and hold the do not disturb icon to open up its...Read more...</p></details>
+   Link:<a href="https://support.google.com/android/thread/219866813/emergency-bypass-feature-for-specific-contacts?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://support.google.com/android/thread/219866813/emergency-bypass-feature-for-specific-contacts?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>· Tap and hold the do not disturb icon to open up its...Read more...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: fortress.com.hk  
-   Link: <a href="https://www.fortress.com.hk/en/brands/152560/apple" target="_blank" rel="noopener noreferrer nofollow">https://www.fortress.com.hk/en/brands/152560/apple</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>APPLE ProductsShop the latest APPLE products, including Tablet PC, Smart Watch and ring, Smartphone, Keyboard and Mouse, Mobile PC and mo...</p></details>
+   Link:<a href="https://www.fortress.com.hk/en/brands/152560/apple" target="_blank" rel="noopener noreferrer nofollow">https://www.fortress.com.hk/en/brands/152560/apple</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>APPLE ProductsShop the latest APPLE products, including Tablet PC, Smart Watch and ring, Smartphone, Keyboard and Mouse, Mobile PC and mo...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: applevis.com  
-   Link: <a href="https://www.applevis.com/forum/ios-ipados/contacts-emergency-bypass" target="_blank" rel="noopener noreferrer nofollow">https://www.applevis.com/forum/ios-ipados/contacts-emergency-bypass</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Contacts on emergency bypassIn the do not disturb settings, you can set who you want to allow calls from when do not disturb is turned on...</p></details>
+   Link:<a href="https://www.applevis.com/forum/ios-ipados/contacts-emergency-bypass" target="_blank" rel="noopener noreferrer nofollow">https://www.applevis.com/forum/ios-ipados/contacts-emergency-bypass</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Contacts on emergency bypassIn the do not disturb settings, you can set who you want to allow calls from when do not disturb is turned on...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/iphone/comments/yfii4a/tip_allow_your_emergency_contacts_to_bypass/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/iphone/comments/yfii4a/tip_allow_your_emergency_contacts_to_bypass/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TIP: Allow your emergency contacts to bypass Silent Mode.While selecting a specific ringtone for one of your contacts, there is an option...</p></details>
+   Link:<a href="https://www.reddit.com/r/iphone/comments/yfii4a/tip_allow_your_emergency_contacts_to_bypass/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/iphone/comments/yfii4a/tip_allow_your_emergency_contacts_to_bypass/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TIP: Allow your emergency contacts to bypass Silent Mode.While selecting a specific ringtone for one of your contacts, there is an option...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/YouShouldKnow/comments/1cd3evk/ysk_how_to_set_your_phone_to_allow_emergency/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/YouShouldKnow/comments/1cd3evk/ysk_how_to_set_your_phone_to_allow_emergency/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>YSK how to set your phone to allow emergency contacts...On Apple IOS: Open Contacts Select a contact, then tap Edit. Tap Ringtone or Tex...</p></details>
+   Link:<a href="https://www.reddit.com/r/YouShouldKnow/comments/1cd3evk/ysk_how_to_set_your_phone_to_allow_emergency/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/YouShouldKnow/comments/1cd3evk/ysk_how_to_set_your_phone_to_allow_emergency/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>YSK how to set your phone to allow emergency contacts...On Apple IOS: Open Contacts Select a contact, then tap Edit. Tap Ringtone or Tex...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: macworld.com  
    Title: how to let important people get through ios 15s do not disturb or focus settings  
-   Link: <a href="https://www.macworld.com/article/538733/how-to-let-important-people-get-through-ios-15s-do-not-disturb-or-focus-settings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.macworld.com/article/538733/how-to-let-important-people-get-through-ios-15s-do-not-disturb-or-focus-settings.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to let important people get through iOS&#x27;s Do Not...11 Aug 2023 — Emergency Bypass, hidden in the Contacts editing screen, grants per...</p></details>
+   Link:<a href="https://www.macworld.com/article/538733/how-to-let-important-people-get-through-ios-15s-do-not-disturb-or-focus-settings.html" target="_blank" rel="noopener noreferrer nofollow">https://www.macworld.com/article/538733/how-to-let-important-people-get-through-ios-15s-do-not-disturb-or-focus-settings.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to let important people get through iOS&#x27;s Do Not...11 Aug 2023 — Emergency Bypass, hidden in the Contacts editing screen, grants per...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: sixcolors.com  
    Title: quick tip getting around do not disturb with emergency bypass for calls texts  
-   Link: <a href="https://sixcolors.com/post/2018/01/quick-tip-getting-around-do-not-disturb-with-emergency-bypass-for-calls-texts/" target="_blank" rel="noopener noreferrer nofollow">https://sixcolors.com/post/2018/01/quick-tip-getting-around-do-not-disturb-with-emergency-bypass-for-calls-texts/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Getting around Do Not Disturb with Emergency Bypass for...22 Jan 2018 — Added in iOS 10, Emergency Bypass is a way to ensure that you wi...</p></details>
+   Link:<a href="https://sixcolors.com/post/2018/01/quick-tip-getting-around-do-not-disturb-with-emergency-bypass-for-calls-texts/" target="_blank" rel="noopener noreferrer nofollow">https://sixcolors.com/post/2018/01/quick-tip-getting-around-do-not-disturb-with-emergency-bypass-for-calls-texts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Getting around Do Not Disturb with Emergency Bypass for...22 Jan 2018 — Added in iOS 10, Emergency Bypass is a way to ensure that you wi...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=IvkCdPORRH8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IvkCdPORRH8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Allow Specific Contacts to Ring in Do Not Disturb...This tutorial shows you how to let certain people call you even when your iPh...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=IvkCdPORRH8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IvkCdPORRH8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Allow Specific Contacts to Ring in Do Not Disturb...This tutorial shows you how to let certain people call you even when your iPh...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=i-6sNsTxSiM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i-6sNsTxSiM</a>  
+   Link:<a href="https://www.youtube.com/watch?v=i-6sNsTxSiM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=i-6sNsTxSiM</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/keahbone/posts/cool-phone-tip-i-just-learned-you-can-keep-your-phone-on-silent-and-still-hear-c/1270648215071366/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/keahbone/posts/cool-phone-tip-i-just-learned-you-can-keep-your-phone-on-silent-and-still-hear-c/1270648215071366/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3. Under Calls/Messages, allow from Starred contacts only. ⸻ Super handy if you don&#x27;t want...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/keahbone/posts/cool-phone-tip-i-just-learned-you-can-keep-your-phone-on-silent-and-still-hear-c/1270648215071366/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/keahbone/posts/cool-phone-tip-i-just-learned-you-can-keep-your-phone-on-silent-and-still-hear-c/1270648215071366/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3. Under Calls/Messages, allow from Starred contacts only. ⸻ Super handy if you don&#x27;t want...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: community.sony.co.uk  
    Title: sony.co.uk Do not disturb doesn't work for starred contacts  
-   Link: <a href="https://community.sony.co.uk/t5/z-series/do-not-disturb-doesn-t-work-for-starred-contacts/td-p/3450264/page/3" target="_blank" rel="noopener noreferrer nofollow">https://community.sony.co.uk/t5/z-series/do-not-disturb-doesn-t-work-for-starred-contacts/td-p/3450264/page/3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>not disturb doesn&#x27;t work for starred contacts - Page 3Solved: Do not disturb with allow priority is supposed to allow calls and texts of...</p></details>
+   Link:<a href="https://community.sony.co.uk/t5/z-series/do-not-disturb-doesn-t-work-for-starred-contacts/td-p/3450264/page/3" target="_blank" rel="noopener noreferrer nofollow">https://community.sony.co.uk/t5/z-series/do-not-disturb-doesn-t-work-for-starred-contacts/td-p/3450264/page/3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>not disturb doesn&#x27;t work for starred contacts - Page 3Solved: Do not disturb with allow priority is supposed to allow calls and texts of...</p></details>

@@ -274,14 +274,14 @@ image: /assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_comb_g
 
 ## Introduction
 
-Many goals fail for a reason that is both frustrating and surprisingly ordinary: the problem is not a lack of determination. People often respond to stalled progress by trying to become more motivated, when the real obstacle is that they lack the capability, opportunity, or [support]({{ 'support/' | relative_url }}) needed to perform the behaviour consistently. The COM-B model was developed precisely to diagnose this problem. It proposes that behaviour depends on three interacting conditions: Capability, Opportunity, and [Motivation]({{ 'motivation/' | relative_url }}). If any of these are missing, the desired behaviour becomes difficult to sustain regardless of how strong the original goal may be. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Michie · 2011 · Cited by 17077 — At the centre of a proposed new framework is a &#x27;behaviour system&#x27; involving three essential cond...</span></span></span>
+Many goals fail for a reason that is both frustrating and surprisingly ordinary: the problem is not a lack of determination. People often respond to stalled progress by trying to become more motivated, when the real obstacle is that they lack the capability, opportunity, or [support]({{ 'support/' | relative_url }}) needed to perform the behaviour consistently. The COM-B model was developed precisely to diagnose this problem. It proposes that behaviour depends on three interacting conditions: Capability, Opportunity, and [Motivation]({{ 'motivation/' | relative_url }}). If any of these are missing, the desired behaviour becomes difficult to sustain regardless of how strong the original goal may be.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Michie · 2011 · Cited by 17077 — At the centre of a proposed new framework is a &#x27;behaviour system&#x27; involving three essential cond...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_comb_goal_fixes_f4bfb0-Illustration-1-dark.svg" | relative_url }}" alt="COM B Fixes illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_comb_goal_fixes_f4bfb0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_comb_goal_fixes_f4bfb0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within a systems-design approach to self-improvement, COM-B shifts attention away from asking “How can I try harder?” and towards asking “What is preventing this behaviour from occurring reliably?” That change in perspective often reveals that repeated failure is less a character flaw than a design flaw. <span class="citation-chip-wrap"><a class="citation-chip" href="https://discovery.ucl.ac.uk/id/eprint/10095640/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.ucl.ac.uk">[UCL Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.ucl.ac.uk</span><span class="citation-popover-snippet">UCL DiscoveryA brief introduction to the COM-B Model of behaviour and the...by R West · 2020 · Cited by 635 — It identifies three factor...</span></span></span>
+Within a systems-design approach to self-improvement, COM-B shifts attention away from asking “How can I try harder?” and towards asking “What is preventing this behaviour from occurring reliably?” That change in perspective often reveals that repeated failure is less a character flaw than a design flaw.<span class="citation-chip-wrap"><a class="citation-chip" href="https://discovery.ucl.ac.uk/id/eprint/10095640/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discovery.ucl.ac.uk">[UCL Discovery]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discovery.ucl.ac.uk</span><span class="citation-popover-snippet">UCL DiscoveryA brief introduction to the COM-B Model of behaviour and the...by R West · 2020 · Cited by 635 — It identifies three factor...</span></span></span>
 
 ## Is Motivation Really the Missing Piece?
 
-The COM-B framework, developed by Susan Michie, Maartje van Stralen and Robert West, argues that behaviour emerges from the interaction of capability, opportunity and motivation. These factors influence one another over time rather than operating independently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Michie · 2011 · Cited by 17077 — At the centre of a proposed new framework is a &#x27;behaviour system&#x27; involving three essential cond...</span></span></span>
+The COM-B framework, developed by Susan Michie, Maartje van Stralen and Robert West, argues that behaviour emerges from the interaction of capability, opportunity and motivation. These factors influence one another over time rather than operating independently.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Michie · 2011 · Cited by 17077 — At the centre of a proposed new framework is a &#x27;behaviour system&#x27; involving three essential cond...</span></span></span>
 
 This matters because many people diagnose every failure as a motivation problem:
 
@@ -299,15 +299,15 @@ COM-B suggests a different interpretation. A behaviour may fail because:
 * Your [environment]({{ 'environment/' | relative_url }}) makes the behaviour difficult (opportunity).
 * Competing [rewards]({{ 'rewards/' | relative_url }}) or habits outweigh the intended action (motivation).
 
-In practice, motivation is often the most visible symptom but not the root cause. Someone who repeatedly skips exercise may genuinely want to exercise. The issue may be poor sleep, lack of transport, uncertainty about what to do in the gym, or a schedule that creates constant time pressure. Treating those barriers as a motivation deficit can lead to endless cycles of [goal setting]({{ 'goal-setting/' | relative_url }}) without meaningful progress. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/organizational-behavior/the-com-b-model-for-behavior-change" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabThe COM-B Model for Behavior ChangeThe COM-B model for behavior change cites capability (C), opportunity (O), and motivat...</span></span></span>
+In practice, motivation is often the most visible symptom but not the root cause. Someone who repeatedly skips exercise may genuinely want to exercise. The issue may be poor sleep, lack of transport, uncertainty about what to do in the gym, or a schedule that creates constant time pressure. Treating those barriers as a motivation deficit can lead to endless cycles of [goal setting]({{ 'goal-setting/' | relative_url }}) without meaningful progress.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedecisionlab.com/reference-guide/organizational-behavior/the-com-b-model-for-behavior-change" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedecisionlab.com">[The Decision Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedecisionlab.com</span><span class="citation-popover-snippet">The Decision LabThe COM-B Model for Behavior ChangeThe COM-B model for behavior change cites capability (C), opportunity (O), and motivat...</span></span></span>
 
-Research examining COM-B in health-related behaviours has found that capability and opportunity often influence behaviour through their effects on motivation. In other words, people frequently become more motivated after barriers are removed rather than before. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s12889-021-11019-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">In the physical activity model...Read more...</span></span></span>
+Research examining COM-B in health-related behaviours has found that capability and opportunity often influence behaviour through their effects on motivation. In other words, people frequently become more motivated after barriers are removed rather than before.<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s12889-021-11019-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">In the physical activity model...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lC7UK_mSSVs" title="How to get ANYONE to do ANYTHING! (COM-B explained)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lC7UK_mSSVs" target="_blank" rel="noopener noreferrer">How to get ANYONE to do ANYTHING! (COM-B explained)</a></p><p class="youtube-embed-meta">Channel: Pete Judo &middot; Views: 20.7K &middot; Uploaded: September 2022 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lC7UK_mSSVs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lC7UK_mSSVs">Open on YouTube</a></p></div></div></div>
 
 ## Capability Problems Disguised as Willpower
 
-Capability refers to having the psychological and physical ability to perform a behaviour. Psychological capability includes knowledge, planning skills, attention and decision-making. Physical capability includes strength, stamina and practical competence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.behaviourchangewheel.com/about-wheel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behaviourchangewheel.com">[behaviourchangewheel.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behaviourchangewheel.com</span><span class="citation-popover-snippet">The BCW: from behavioural diagnosis to intervention designIt uses the COM-B (&#x27;capability&#x27;, &#x27;opportunity&#x27;, &#x27;motivation&#x27; and &#x27;behaviour&#x27;) m...</span></span></span>
+Capability refers to having the psychological and physical ability to perform a behaviour. Psychological capability includes knowledge, planning skills, attention and decision-making. Physical capability includes strength, stamina and practical competence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.behaviourchangewheel.com/about-wheel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behaviourchangewheel.com">[behaviourchangewheel.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behaviourchangewheel.com</span><span class="citation-popover-snippet">The BCW: from behavioural diagnosis to intervention designIt uses the COM-B (&#x27;capability&#x27;, &#x27;opportunity&#x27;, &#x27;motivation&#x27; and &#x27;behaviour&#x27;) m...</span></span></span>
 
 A common mistake in self-improvement is assuming that repeated failure reflects insufficient effort when the behaviour actually exceeds current capability.
 
@@ -330,12 +330,12 @@ A systems approach therefore asks different questions:
 
 </div>
 
-Many “discipline” problems improve when the behaviour is made easier, smaller, or more structured. The goal remains the same, but capability is deliberately increased through training, education, repetition or simplification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.norfolk.gov.uk/article/42184/COM-B-and-the-behaviour-change-wheel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: norfolk.gov.uk">[Norfolk County Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">norfolk.gov.uk</span><span class="citation-popover-snippet">Norfolk County CouncilCOM-B and the behaviour change wheelSo at the heart of the wheel are the sources of behaviour, which can be broken...</span></span></span>
+Many “discipline” problems improve when the behaviour is made easier, smaller, or more structured. The goal remains the same, but capability is deliberately increased through training, education, repetition or simplification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.norfolk.gov.uk/article/42184/COM-B-and-the-behaviour-change-wheel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: norfolk.gov.uk">[Norfolk County Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">norfolk.gov.uk</span><span class="citation-popover-snippet">Norfolk County CouncilCOM-B and the behaviour change wheelSo at the heart of the wheel are the sources of behaviour, which can be broken...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_comb_goal_fixes_f4bfb0-Illustration-2-dark.svg" | relative_url }}" alt="COM B Fixes illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_comb_goal_fixes_f4bfb0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_goals_vs_systems_2478d2_comb_goal_fixes_f4bfb0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Opportunity Problems in Everyday Environments
 
-Opportunity refers to external conditions that make a behaviour possible. COM-B distinguishes between physical opportunity and social opportunity. Physical opportunity includes time, resources, locations and environmental cues. Social opportunity includes cultural expectations, social norms and interpersonal influence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.behaviourchangewheel.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behaviourchangewheel.com">[behaviourchangewheel.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behaviourchangewheel.com</span><span class="citation-popover-title">The Behaviour Change Wheel Book</span><span class="citation-popover-snippet">A Guide To Designing...Written by Susan Michie, Lou Atkins &amp; Robert West · Welcome to the Wheel · Psychological Capability · Physical Ca...</span></span></span>
+Opportunity refers to external conditions that make a behaviour possible. COM-B distinguishes between physical opportunity and social opportunity. Physical opportunity includes time, resources, locations and environmental cues. Social opportunity includes cultural expectations, social norms and interpersonal influence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.behaviourchangewheel.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behaviourchangewheel.com">[behaviourchangewheel.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behaviourchangewheel.com</span><span class="citation-popover-title">The Behaviour Change Wheel Book</span><span class="citation-popover-snippet">A Guide To Designing...Written by Susan Michie, Lou Atkins &amp; Robert West · Welcome to the Wheel · Psychological Capability · Physical Ca...</span></span></span>
 
 This category is especially important because people often underestimate how strongly environments shape behaviour.
 
@@ -355,7 +355,7 @@ Opportunity failures commonly appear as:
 
 </div>
 
-The [Behaviour Change]({{ 'behaviour-change/' | relative_url }}) Wheel framework surrounding COM-B explicitly identifies environmental restructuring as a major intervention strategy because changing surroundings often changes behaviour more reliably than increasing effort alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Michie · 2011 · Cited by 17077 — At the centre of a proposed new framework is a &#x27;behaviour system&#x27; involving three essential cond...</span></span></span>
+The [Behaviour Change]({{ 'behaviour-change/' | relative_url }}) Wheel framework surrounding COM-B explicitly identifies environmental restructuring as a major intervention strategy because changing surroundings often changes behaviour more reliably than increasing effort alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Michie · 2011 · Cited by 17077 — At the centre of a proposed new framework is a &#x27;behaviour system&#x27; involving three essential cond...</span></span></span>
 
 For example:
 
@@ -403,9 +403,9 @@ Examples:
 
 ### What motivation is missing?
 
-Only after examining capability and opportunity should motivation become the main focus. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thecenterforimplementation.com/toolbox/com-b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecenterforimplementation.com">[thecenterforimplementation.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecenterforimplementation.com</span><span class="citation-popover-title">The Capability, Opportunity, Motivation</span><span class="citation-popover-snippet">Behavior (COM-B)...26 Sept 2025 — The Capability, Opportunity, Motivation - Behavior (COM-B) theory is an individual-level theory of beh...</span></span></span>
+Only after examining capability and opportunity should motivation become the main focus.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thecenterforimplementation.com/toolbox/com-b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thecenterforimplementation.com">[thecenterforimplementation.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thecenterforimplementation.com</span><span class="citation-popover-title">The Capability, Opportunity, Motivation</span><span class="citation-popover-snippet">Behavior (COM-B)...26 Sept 2025 — The Capability, Opportunity, Motivation - Behavior (COM-B) theory is an individual-level theory of beh...</span></span></span>
 
-COM-B distinguishes between reflective motivation (conscious plans, evaluations and intentions) and automatic motivation (habits, impulses, emotions and learned responses). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.behaviourchangewheel.com/about-wheel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behaviourchangewheel.com">[behaviourchangewheel.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behaviourchangewheel.com</span><span class="citation-popover-snippet">The BCW: from behavioural diagnosis to intervention designIt uses the COM-B (&#x27;capability&#x27;, &#x27;opportunity&#x27;, &#x27;motivation&#x27; and &#x27;behaviour&#x27;) m...</span></span></span>
+COM-B distinguishes between reflective motivation (conscious plans, evaluations and intentions) and automatic motivation (habits, impulses, emotions and learned responses).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.behaviourchangewheel.com/about-wheel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: behaviourchangewheel.com">[behaviourchangewheel.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">behaviourchangewheel.com</span><span class="citation-popover-snippet">The BCW: from behavioural diagnosis to intervention designIt uses the COM-B (&#x27;capability&#x27;, &#x27;opportunity&#x27;, &#x27;motivation&#x27; and &#x27;behaviour&#x27;) m...</span></span></span>
 
 Possible interventions include:
 
@@ -414,7 +414,7 @@ Possible interventions include:
 * Creating [immediate rewards]({{ 'immediate-rewards/' | relative_url }}) for completion.
 * Building routines that reduce reliance on moment-to-moment decisions.
 
-The key insight is that motivation is often easier to maintain once capability and opportunity are improved. A person who knows exactly what to do and can do it in a supportive environment usually experiences less resistance than someone fighting constant barriers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s12889-021-11019-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">In the physical activity model...Read more...</span></span></span>
+The key insight is that motivation is often easier to maintain once capability and opportunity are improved. A person who knows exactly what to do and can do it in a supportive environment usually experiences less resistance than someone fighting constant barriers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s12889-021-11019-w" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">In the physical activity model...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2-KvaIsb0fM" title="Dr. Susan Michie, The Behaviour Change Wheel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2-KvaIsb0fM" target="_blank" rel="noopener noreferrer">Dr. Susan Michie, The Behaviour Change Wheel</a></p><p class="youtube-embed-meta">Channel: Knowlege Translation &middot; Views: 11.7K &middot; Uploaded: January 2019 &middot; Length: 1 hour 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2-KvaIsb0fM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2-KvaIsb0fM">Open on YouTube</a></p></div></div></div>
 
@@ -422,199 +422,199 @@ The key insight is that motivation is often easier to maintain once capability a
 
 Goal-centred thinking tends to focus on outcomes. COM-B focuses on the conditions that generate behaviour. That distinction makes it particularly useful when goals have been attempted repeatedly without success.
 
-The model treats behaviour as part of a dynamic system in which capability, opportunity and motivation influence one another through feedback loops. Success can increase confidence and motivation; improved capability can make behaviours easier; supportive environments can strengthen both. Likewise, poor environments can erode motivation and capability over time. UCL Discovery <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.habitweekly.com/models-frameworks/the-com-b-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: habitweekly.com">[2habitweekly.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">habitweekly.com</span><span class="citation-popover-snippet">The COM-B ModelThe COM-B model of behaviour change suggests that to engage in a behaviour (B), a person needs to have the capability (C)...</span></span></span>
+The model treats behaviour as part of a dynamic system in which capability, opportunity and motivation influence one another through feedback loops. Success can increase confidence and motivation; improved capability can make behaviours easier; supportive environments can strengthen both. Likewise, poor environments can erode motivation and capability over time. UCL Discovery<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.habitweekly.com/models-frameworks/the-com-b-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: habitweekly.com">[2habitweekly.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">habitweekly.com</span><span class="citation-popover-snippet">The COM-B ModelThe COM-B model of behaviour change suggests that to engage in a behaviour (B), a person needs to have the capability (C)...</span></span></span>
 
-For practical self-improvement, the lesson is straightforward: when a goal keeps failing, resist the temptation to immediately raise motivation. First diagnose the system. The most effective intervention may not be another inspiring target or a stronger commitment. It may be learning a missing skill, removing friction, changing a routine, or redesigning the environment so that the desired behaviour becomes the easier choice. That is often where lasting change begins. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Michie · 2011 · Cited by 17077 — At the centre of a proposed new framework is a &#x27;behaviour system&#x27; involving three essential cond...</span></span></span>
+For practical self-improvement, the lesson is straightforward: when a goal keeps failing, resist the temptation to immediately raise motivation. First diagnose the system. The most effective intervention may not be another inspiring target or a stronger commitment. It may be learning a missing skill, removing friction, changing a routine, or redesigning the environment so that the desired behaviour becomes the easier choice. That is often where lasting change begins.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">by S Michie · 2011 · Cited by 17077 — At the centre of a proposed new framework is a &#x27;behaviour system&#x27; involving three essential cond...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Is Motivation Really the Missing Piece?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Is Motivation Really the Missing Piece?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Shows how redesigning systems often beats relying on motivation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Shows how redesigning systems often beats relying on motivation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
-        </h4>
-        <p class="fr-book-author">By B. J. Fogg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
+</h4>
+<p class="fr-book-author">By B. J. Fogg</p>
         
-        <p class="fr-book-desc">Makes behavior easier through capability and environment design.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Makes behavior easier through capability and environment design.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Switch+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Switch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JuesBwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Switch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Switch+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Switch">Switch</a>
-        </h4>
-        <p class="fr-book-author">By Chip Heath, Dan Heath</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Switch+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Switch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JuesBwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Switch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Switch+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Switch">Switch</a>
+</h4>
+<p class="fr-book-author">By Chip Heath, Dan Heath</p>
         
-        <p class="fr-book-desc">Addresses barriers beyond willpower and motivation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Switch+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses barriers beyond willpower and motivation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Switch+by+Chip+Heath&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
-        </h4>
-        <p class="fr-book-author">By Charles Duhigg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
+</h4>
+<p class="fr-book-author">By Charles Duhigg</p>
         
-        <p class="fr-book-desc">Explains how cues and environments shape action.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how cues and environments shape action.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Switch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Switch</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Switch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Switch</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,..."><img src="https://i.ebayimg.com/images/g/~0oAAeSwKCNo8eh-/s-l225.jpg" alt="Listing image for Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,..." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,...</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,..."><img src="https://i.ebayimg.com/images/g/~0oAAeSwKCNo8eh-/s-l225.jpg" alt="Listing image for Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,..." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar – Daily, Weekly &amp; Monthly &amp; Goal Tracker,...</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar 12‑Month Undated Daily Weekly Monthly Goal Planner A4"><img src="https://i.ebayimg.com/images/g/LAMAAeSwng5pTtfM/s-l225.jpg" alt="Listing image for Habit Tracker Calendar 12‑Month Undated Daily Weekly Monthly Goal Planner A4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar 12‑Month Undated Daily Weekly Monthly Goal Planner A4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Calendar 12‑Month Undated Daily Weekly Monthly Goal Planner A4"><img src="https://i.ebayimg.com/images/g/LAMAAeSwng5pTtfM/s-l225.jpg" alt="Listing image for Habit Tracker Calendar 12‑Month Undated Daily Weekly Monthly Goal Planner A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Calendar 12‑Month Undated Daily Weekly Monthly Goal Planner A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weekly Productivity Planner Undated. Goal Setting, Habit Tracker, Monthly Review"><img src="https://i.ebayimg.com/images/g/eBAAAeSwAS9omOvh/s-l225.jpg" alt="Listing image for Weekly Productivity Planner Undated. Goal Setting, Habit Tracker, Monthly Review" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Weekly Productivity Planner Undated. Goal Setting, Habit Tracker, Monthly Review</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Weekly Productivity Planner Undated. Goal Setting, Habit Tracker, Monthly Review"><img src="https://i.ebayimg.com/images/g/eBAAAeSwAS9omOvh/s-l225.jpg" alt="Listing image for Weekly Productivity Planner Undated. Goal Setting, Habit Tracker, Monthly Review" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Weekly Productivity Planner Undated. Goal Setting, Habit Tracker, Monthly Review</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Hero A4 Tear Off Pad"><img src="https://i.ebayimg.com/images/g/SrkAAeSwBUJo0Se7/s-l225.jpg" alt="Listing image for Habit Tracker Hero A4 Tear Off Pad" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Hero A4 Tear Off Pad</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search <span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Habit Tracker Hero A4 Tear Off Pad"><img src="https://i.ebayimg.com/images/g/SrkAAeSwBUJo0Se7/s-l225.jpg" alt="Listing image for Habit Tracker Hero A4 Tear Off Pad" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">Habit Tracker Hero A4 Tear Off Pad</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for habit tracker">Search<span data-ebay-domain-label>eBay.co.uk</span>: habit tracker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=habit+tracker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=is-motivation-really-the-missing-piece-habit-tracker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="habit tracker" data-ebay-reference="is-motivation-really-the-missing-piece-habit-tracker" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -630,7 +630,7 @@ For practical self-improvement, the lesson is straightforward: when a goal keeps
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -650,7 +650,7 @@ For practical self-improvement, the lesson is straightforward: when a goal keeps
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -682,7 +682,7 @@ For practical self-improvement, the lesson is straightforward: when a goal keeps
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -734,7 +734,7 @@ For practical self-improvement, the lesson is straightforward: when a goal keeps
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -779,7 +779,7 @@ For practical self-improvement, the lesson is straightforward: when a goal keeps
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -820,107 +820,107 @@ For practical self-improvement, the lesson is straightforward: when a goal keeps
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by S Michie · 2011 · Cited by 17077 — At the centre of a proposed new framework is a &#x27;behaviour system&#x27; involving three essential cond...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC3096582/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by S Michie · 2011 · Cited by 17077 — At the centre of a proposed new framework is a &#x27;behaviour system&#x27; involving three essential cond...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: behaviourchangewheel.com  
-   Link: <a href="https://www.behaviourchangewheel.com/about-wheel" target="_blank" rel="noopener noreferrer nofollow">https://www.behaviourchangewheel.com/about-wheel</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The BCW: from behavioural diagnosis to intervention designIt uses the COM-B (&#x27;capability&#x27;, &#x27;opportunity&#x27;, &#x27;motivation&#x27; and &#x27;behaviour&#x27;) m...</p></details>
+   Link:<a href="https://www.behaviourchangewheel.com/about-wheel" target="_blank" rel="noopener noreferrer nofollow">https://www.behaviourchangewheel.com/about-wheel</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The BCW: from behavioural diagnosis to intervention designIt uses the COM-B (&#x27;capability&#x27;, &#x27;opportunity&#x27;, &#x27;motivation&#x27; and &#x27;behaviour&#x27;) m...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: habitweekly.com  
-   Link: <a href="https://www.habitweekly.com/models-frameworks/the-com-b-model" target="_blank" rel="noopener noreferrer nofollow">https://www.habitweekly.com/models-frameworks/the-com-b-model</a>  
+   Link:<a href="https://www.habitweekly.com/models-frameworks/the-com-b-model" target="_blank" rel="noopener noreferrer nofollow">https://www.habitweekly.com/models-frameworks/the-com-b-model</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1186/s12889-021-11019-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12889-021-11019-w</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In the physical activity model...Read more...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1186/s12889-021-11019-w" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12889-021-11019-w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In the physical activity model...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: behaviourchangewheel.com  
    Title: The Behaviour Change Wheel Book  
-   Link: <a href="https://www.behaviourchangewheel.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.behaviourchangewheel.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Guide To Designing...Written by Susan Michie, Lou Atkins &amp; Robert West · Welcome to the Wheel · Psychological Capability · Physical Ca...</p></details>
+   Link:<a href="https://www.behaviourchangewheel.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.behaviourchangewheel.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Guide To Designing...Written by Susan Michie, Lou Atkins &amp; Robert West · Welcome to the Wheel · Psychological Capability · Physical Ca...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: discovery.ucl.ac.uk  
-   Link: <a href="https://discovery.ucl.ac.uk/id/eprint/10095640/" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/id/eprint/10095640/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UCL DiscoveryA brief introduction to the COM-B Model of behaviour and the...by R West · 2020 · Cited by 635 — It identifies three factor...</p></details>
+   Link:<a href="https://discovery.ucl.ac.uk/id/eprint/10095640/" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/id/eprint/10095640/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UCL DiscoveryA brief introduction to the COM-B Model of behaviour and the...by R West · 2020 · Cited by 635 — It identifies three factor...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/reference-guide/organizational-behavior/the-com-b-model-for-behavior-change" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/organizational-behavior/the-com-b-model-for-behavior-change</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabThe COM-B Model for Behavior ChangeThe COM-B model for behavior change cites capability (C), opportunity (O), and motivat...</p></details>
+   Link:<a href="https://thedecisionlab.com/reference-guide/organizational-behavior/the-com-b-model-for-behavior-change" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/organizational-behavior/the-com-b-model-for-behavior-change</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Decision LabThe COM-B Model for Behavior ChangeThe COM-B model for behavior change cites capability (C), opportunity (O), and motivat...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: norfolk.gov.uk  
-   Link: <a href="https://www.norfolk.gov.uk/article/42184/COM-B-and-the-behaviour-change-wheel" target="_blank" rel="noopener noreferrer nofollow">https://www.norfolk.gov.uk/article/42184/COM-B-and-the-behaviour-change-wheel</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Norfolk County CouncilCOM-B and the behaviour change wheelSo at the heart of the wheel are the sources of behaviour, which can be broken...</p></details>
+   Link:<a href="https://www.norfolk.gov.uk/article/42184/COM-B-and-the-behaviour-change-wheel" target="_blank" rel="noopener noreferrer nofollow">https://www.norfolk.gov.uk/article/42184/COM-B-and-the-behaviour-change-wheel</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Norfolk County CouncilCOM-B and the behaviour change wheelSo at the heart of the wheel are the sources of behaviour, which can be broken...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/topics/psychology/com-b-model" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/com-b-model</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>COM-B Model - an overview | ScienceDirect TopicsThe behavior change wheel is closely linked to the COM-B model, which stands for Capabili...</p></details>
+   Link:<a href="https://www.sciencedirect.com/topics/psychology/com-b-model" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/com-b-model</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>COM-B Model - an overview | ScienceDirect TopicsThe behavior change wheel is closely linked to the COM-B model, which stands for Capabili...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: thecenterforimplementation.com  
    Title: The Capability, Opportunity, Motivation  
-   Link: <a href="https://thecenterforimplementation.com/toolbox/com-b" target="_blank" rel="noopener noreferrer nofollow">https://thecenterforimplementation.com/toolbox/com-b</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior (COM-B)...26 Sept 2025 — The Capability, Opportunity, Motivation - Behavior (COM-B) theory is an individual-level theory of beh...</p></details>
+   Link:<a href="https://thecenterforimplementation.com/toolbox/com-b" target="_blank" rel="noopener noreferrer nofollow">https://thecenterforimplementation.com/toolbox/com-b</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior (COM-B)...26 Sept 2025 — The Capability, Opportunity, Motivation - Behavior (COM-B) theory is an individual-level theory of beh...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: modelthinkers.com  
-   Link: <a href="https://modelthinkers.com/mental-model/com-b-behaviour-change-wheel" target="_blank" rel="noopener noreferrer nofollow">https://modelthinkers.com/mental-model/com-b-behaviour-change-wheel</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>COM-B &amp; Behaviour Change WheelAt its heart is the COM-B behaviour model, which posits that Behaviour occurs as an interaction between Cap...</p></details>
+   Link:<a href="https://modelthinkers.com/mental-model/com-b-behaviour-change-wheel" target="_blank" rel="noopener noreferrer nofollow">https://modelthinkers.com/mental-model/com-b-behaviour-change-wheel</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>COM-B &amp; Behaviour Change WheelAt its heart is the COM-B behaviour model, which posits that Behaviour occurs as an interaction between Cap...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: netzerogo.org.uk  
-   Link: <a href="https://netzerogo.org.uk/resources/the-behaviour-change-wheel/" target="_blank" rel="noopener noreferrer nofollow">https://netzerogo.org.uk/resources/the-behaviour-change-wheel/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Behaviour Change WheelIt uses the COM-B (&#x27;capability&#x27;, &#x27;opportunity&#x27;, &#x27;motivation&#x27;, and &#x27;behaviour&#x27;) model. This model recognises tha...</p></details>
+   Link:<a href="https://netzerogo.org.uk/resources/the-behaviour-change-wheel/" target="_blank" rel="noopener noreferrer nofollow">https://netzerogo.org.uk/resources/the-behaviour-change-wheel/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Behaviour Change WheelIt uses the COM-B (&#x27;capability&#x27;, &#x27;opportunity&#x27;, &#x27;motivation&#x27;, and &#x27;behaviour&#x27;) model. This model recognises tha...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: netzerogo.org.uk  
-   Link: <a href="https://netzerogo.org.uk/resources/the-com-b-model-of-behaviour/" target="_blank" rel="noopener noreferrer nofollow">https://netzerogo.org.uk/resources/the-com-b-model-of-behaviour/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The COM-B Model of BehaviourThe COM-B model proposes that there are three components to any Behaviour (B): Capability (C), Opportunity (O...</p></details>
+   Link:<a href="https://netzerogo.org.uk/resources/the-com-b-model-of-behaviour/" target="_blank" rel="noopener noreferrer nofollow">https://netzerogo.org.uk/resources/the-com-b-model-of-behaviour/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The COM-B Model of BehaviourThe COM-B model proposes that there are three components to any Behaviour (B): Capability (C), Opportunity (O...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: togetheragency.co.uk  
-   Link: <a href="https://togetheragency.co.uk/news/the-com-b-model-of-behaviour-change-explained" target="_blank" rel="noopener noreferrer nofollow">https://togetheragency.co.uk/news/the-com-b-model-of-behaviour-change-explained</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The COM-B model of behaviour change explainedThe COM-B model of behaviour change suggests that capability (C), opportunity (O) and motiva...</p></details>
+   Link:<a href="https://togetheragency.co.uk/news/the-com-b-model-of-behaviour-change-explained" target="_blank" rel="noopener noreferrer nofollow">https://togetheragency.co.uk/news/the-com-b-model-of-behaviour-change-explained</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The COM-B model of behaviour change explainedThe COM-B model of behaviour change suggests that capability (C), opportunity (O) and motiva...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: unicef.org  
-   Link: <a href="https://www.unicef.org/innocenti/media/3801/file/Evidence-based-Intervention-Design-Behaviour-Change-2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unicef.org/innocenti/media/3801/file/Evidence-based-Intervention-Design-Behaviour-Change-2023.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This theory is known as the. COM-B model (capability, opportunity...Read more...</p></details>
+   Link:<a href="https://www.unicef.org/innocenti/media/3801/file/Evidence-based-Intervention-Design-Behaviour-Change-2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unicef.org/innocenti/media/3801/file/Evidence-based-Intervention-Design-Behaviour-Change-2023.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This theory is known as the. COM-B model (capability, opportunity...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/21513547/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/21513547/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>behaviour change wheel: a new method for...by S Michie · 2011 · Cited by 16845 — At the centre of a proposed new framework is a &#x27;behavio...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/21513547/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/21513547/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>behaviour change wheel: a new method for...by S Michie · 2011 · Cited by 16845 — At the centre of a proposed new framework is a &#x27;behavio...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: social-change.co.uk  
-   Link: <a href="https://social-change.co.uk/files/02.09.19_COM-B_and_changing_behaviour_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://social-change.co.uk/files/02.09.19_COM-B_and_changing_behaviour_.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>O) and Motivation (M). In order to · perform a...Read more...</p></details>
+   Link:<a href="https://social-change.co.uk/files/02.09.19_COM-B_and_changing_behaviour_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://social-change.co.uk/files/02.09.19_COM-B_and_changing_behaviour_.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>O) and Motivation (M). In order to · perform a...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: thinkingaboutbehavior.substack.com  
    Title: the [limits](&#123;&#123; 'limits/' | relative_url &#125;&#125;) of com b and the behaviour  
-   Link: <a href="https://thinkingaboutbehavior.substack.com/p/the-limits-of-com-b-and-the-behaviour" target="_blank" rel="noopener noreferrer nofollow">https://thinkingaboutbehavior.substack.com/p/the-limits-of-com-b-and-the-behaviour</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>limits of COM-B and the Behaviour Change WheelCritics argue that by focusing on broad categories like Capability, Opportunity, and Motiva...</p></details>
+   Link:<a href="https://thinkingaboutbehavior.substack.com/p/the-limits-of-com-b-and-the-behaviour" target="_blank" rel="noopener noreferrer nofollow">https://thinkingaboutbehavior.substack.com/p/the-limits-of-com-b-and-the-behaviour</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>limits of COM-B and the Behaviour Change WheelCritics argue that by focusing on broad categories like Capability, Opportunity, and Motiva...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=4LjuiMymOCs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4LjuiMymOCs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CHANGE Your Behaviour Using THIS! | Patrick Elliott | #80...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4LjuiMymOCs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4LjuiMymOCs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CHANGE Your Behaviour Using THIS! | Patrick Elliott | #80...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Dr. Susan Michie, The Behaviour Change Wheel  
-   Link: <a href="https://www.youtube.com/watch?v=2-KvaIsb0fM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2-KvaIsb0fM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Want LASTING Change? Discover Robert Dilts Logical Levels of Change &amp; COM-B Model of Behavior Change...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2-KvaIsb0fM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2-KvaIsb0fM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Want LASTING Change? Discover Robert Dilts Logical Levels of Change &amp; COM-B Model of Behavior Change...</p></details>

@@ -268,16 +268,16 @@ image: /assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_se
 
 ## Introduction
 
-Many behaviour-change apps ask people to track something: steps, sleep, spending, study time, mood, calories, screen use, or medication. Yet most tracking does not automatically produce change. The evidence from digital behaviour-change research points to a more specific conclusion: self-monitoring changes habits when it helps people notice a meaningful pattern, connects that pattern to a goal, and suggests a realistic next action. When tracking becomes a passive record of past behaviour, its impact is much weaker. Studies of digital habit-formation interventions consistently find self-monitoring among the most common and useful behaviour-change [techniques]({{ 'techniques/' | relative_url }}), but usually in combination with feedback, [goal setting]({{ 'goal-setting/' | relative_url }}), prompts, and reinforcement rather than as a standalone feature. JMIR <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38787601/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 83 — The results show that the most applied behavior change...</span></span></span>
+Many behaviour-change apps ask people to track something: steps, sleep, spending, study time, mood, calories, screen use, or medication. Yet most tracking does not automatically produce change. The evidence from digital behaviour-change research points to a more specific conclusion: self-monitoring changes habits when it helps people notice a meaningful pattern, connects that pattern to a goal, and suggests a realistic next action. When tracking becomes a passive record of past behaviour, its impact is much weaker. Studies of digital habit-formation interventions consistently find self-monitoring among the most common and useful behaviour-change [techniques]({{ 'techniques/' | relative_url }}), but usually in combination with feedback, [goal setting]({{ 'goal-setting/' | relative_url }}), prompts, and reinforcement rather than as a standalone feature. JMIR<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38787601/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 83 — The results show that the most applied behavior change...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_self_monitoring_feat_747558-Illustration-1-dark.svg" | relative_url }}" alt="Tracking illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_self_monitoring_feat_747558-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_self_monitoring_feat_747558-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For self-improvement, this distinction matters. The question is not whether tracking works. The question is which kinds of tracking help people do something differently tomorrow.
 
 ## When does tracking actually change a habit?
 
-Self-monitoring works through awareness. People are often poor judges of their own behaviour patterns. Someone may believe they study regularly, exercise enough, or spend only occasionally on impulse purchases until a record reveals what is actually happening. Tracking makes invisible behaviour visible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/24/8/2429" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">A Comprehensive Review of Behavior Change Techniques...by C Del-Valle-Soto · 2024 · Cited by 38 — Users can track their own behavior...</span></span></span>
+Self-monitoring works through awareness. People are often poor judges of their own behaviour patterns. Someone may believe they study regularly, exercise enough, or spend only occasionally on impulse purchases until a record reveals what is actually happening. Tracking makes invisible behaviour visible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1424-8220/24/8/2429" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">A Comprehensive Review of Behavior Change Techniques...by C Del-Valle-Soto · 2024 · Cited by 38 — Users can track their own behavior...</span></span></span>
 
-However, awareness alone is only the first step. Habit formation depends on repeated behaviour in consistent contexts over time. Tracking becomes useful when it helps people identify where repetition is succeeding or failing and why. Research on digital habit-formation interventions shows that self-monitoring is commonly paired with goal setting, prompts, cues, and [feedback]({{ 'feedback/' | relative_url }}) because these components help convert awareness into action. JMIR <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 58 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span>
+However, awareness alone is only the first step. Habit formation depends on repeated behaviour in consistent contexts over time. Tracking becomes useful when it helps people identify where repetition is succeeding or failing and why. Research on digital habit-formation interventions shows that self-monitoring is commonly paired with goal setting, prompts, cues, and [feedback]({{ 'feedback/' | relative_url }}) because these components help convert awareness into action. JMIR<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 58 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span>
 
 Consider three versions of the same walking app:
 
@@ -291,7 +291,7 @@ Consider three versions of the same walking app:
 
 Only the third version clearly links observation to [behaviour change]({{ 'behaviour-change/' | relative_url }}). The data points toward a specific adjustment rather than merely documenting performance.
 
-This pattern appears repeatedly across reviews of digital interventions. Self-monitoring is most useful when combined with feedback that helps users interpret their data and decide what to do next. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s12966-023-01555-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Impact of feedback generation and presentation on self...by RA Krukowski · 2024 · Cited by 43 — This review underlines the impor...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 58 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span>
+This pattern appears repeatedly across reviews of digital interventions. Self-monitoring is most useful when combined with feedback that helps users interpret their data and decide what to do next.<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s12966-023-01555-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Impact of feedback generation and presentation on self...by RA Krukowski · 2024 · Cited by 43 — This review underlines the impor...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 58 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span>
 
 ## What self-monitoring can reveal
 
@@ -312,7 +312,7 @@ A daily total often tells less than the circumstances surrounding it. For exampl
 
 These observations create opportunities for targeted changes. Rather than trying to improve everything at once, the user can focus on a recurring trigger, barrier, or opportunity.
 
-Digital interventions increasingly use automatic monitoring through sensors, [wearables]({{ 'wearables/' | relative_url }}), timers, and passive data collection because reducing the effort required to track behaviour increases the likelihood that monitoring continues long enough to reveal useful patterns. Reviews of habit-focused digital interventions identify automatic monitoring as one of the most commonly used implementation methods. JMIR <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 58 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span>
+Digital interventions increasingly use automatic monitoring through sensors, [wearables]({{ 'wearables/' | relative_url }}), timers, and passive data collection because reducing the effort required to track behaviour increases the likelihood that monitoring continues long enough to reveal useful patterns. Reviews of habit-focused digital interventions identify automatic monitoring as one of the most commonly used implementation methods. JMIR<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 58 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DPRnrZH6weU" title="5 Ways to Actually Make Your Habits Stick (Evidence-Based)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DPRnrZH6weU" target="_blank" rel="noopener noreferrer">5 Ways to Actually Make Your Habits Stick (Evidence-Based)</a></p><p class="youtube-embed-meta">Channel: Mel Robbins &middot; Views: 136.3K &middot; Uploaded: January 2025 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DPRnrZH6weU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DPRnrZH6weU">Open on YouTube</a></p></div></div></div>
 
@@ -320,7 +320,7 @@ Digital interventions increasingly use automatic monitoring through sensors, [we
 
 Many habits produce delayed [rewards]({{ 'rewards/' | relative_url }}). Exercise may not change appearance quickly. [Saving]({{ 'saving/' | relative_url }}) money may not feel immediately rewarding. Learning a language may show little visible progress for weeks.
 
-Tracking can provide evidence that the process is working even when the ultimate outcome has not yet arrived. Recording completed workouts, study sessions, savings deposits, or sleep consistency creates a visible record of repetition. This matters because habit formation typically develops gradually over months rather than days. Recent reviews suggest that automaticity often takes substantially longer than popular "21-day habit" claims imply. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 58 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span>
+Tracking can provide evidence that the process is working even when the ultimate outcome has not yet arrived. Recording completed workouts, study sessions, savings deposits, or sleep consistency creates a visible record of repetition. This matters because habit formation typically develops gradually over months rather than days. Recent reviews suggest that automaticity often takes substantially longer than popular "21-day habit" claims imply.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 58 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span>
 
 In this role, tracking acts less like a scorecard and more like a reminder that the behaviour is occurring consistently enough for habit formation to develop.
 
@@ -338,9 +338,9 @@ Several common failure modes appear repeatedly:
 
 **Manual logging fatigue.** If recording behaviour becomes burdensome, engagement often declines over time.
 
-**Outcome obsession.** Users focus on results they cannot directly control, such as weight fluctuations or productivity scores, instead of tracking repeatable actions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) Time to Form a Habit: A Systematic Review and...4 Dec 2024 — Habit formation typically takes 2 to 6 months, and up to a year for s...</span></span></span>
+**Outcome obsession.** Users focus on results they cannot directly control, such as weight fluctuations or productivity scores, instead of tracking repeatable actions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">PDF) Time to Form a Habit: A Systematic Review and...4 Dec 2024 — Habit formation typically takes 2 to 6 months, and up to a year for s...</span></span></span>
 
-Research on engagement with digital health tools repeatedly identifies dropout and disengagement as major challenges. The problem is not usually that users lack data. It is that tracking demands effort while delivering insufficient value. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1227443/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersPotential associations between behavior change...by M Milne-Ives · 2023 · Cited by 70 — The aim of this systematic review was t...</span></span></span>
+Research on engagement with digital health tools repeatedly identifies dropout and disengagement as major challenges. The problem is not usually that users lack data. It is that tracking demands effort while delivering insufficient value.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1227443/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: frontiersin.org">[Frontiers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">frontiersin.org</span><span class="citation-popover-snippet">FrontiersPotential associations between behavior change...by M Milne-Ives · 2023 · Cited by 70 — The aim of this systematic review was t...</span></span></span>
 
 A useful rule is that every tracked metric should answer a practical question. If a number does not influence a decision, it may not need to be tracked.
 
@@ -349,7 +349,7 @@ A useful rule is that every tracked metric should answer a practical question. I
 
 The strongest self-monitoring features do not stop at measurement. They shorten the distance between observation and action.
 
-Research reviews examining feedback systems consistently highlight the importance of how feedback is generated and presented. Feedback is not merely additional information. It is the mechanism that helps users interpret self-monitoring data and choose a response. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s12966-023-01555-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Impact of feedback generation and presentation on self...by RA Krukowski · 2024 · Cited by 43 — This review underlines the impor...</span></span></span>
+Research reviews examining feedback systems consistently highlight the importance of how feedback is generated and presented. Feedback is not merely additional information. It is the mechanism that helps users interpret self-monitoring data and choose a response.<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s12966-023-01555-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Impact of feedback generation and presentation on self...by RA Krukowski · 2024 · Cited by 43 — This review underlines the impor...</span></span></span>
 
 The most useful designs typically answer one of three questions:
 
@@ -381,7 +381,7 @@ Example:
 
 This final step is where tracking becomes behaviour change rather than record keeping. The user is not left alone with the data. The data points toward a concrete experiment.
 
-Reviews of digital habit-formation interventions show that descriptive feedback, self-set goals, prompts, and cues frequently accompany self-monitoring because they help create this transition from observation to action. JMIR <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38787601/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 83 — The results show that the most applied behavior change...</span></span></span>
+Reviews of digital habit-formation interventions show that descriptive feedback, self-set goals, prompts, and cues frequently accompany self-monitoring because they help create this transition from observation to action. JMIR<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/38787601/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 83 — The results show that the most applied behavior change...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_self_monitoring_feat_747558-Illustration-3-dark.svg" | relative_url }}" alt="Tracking illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_self_monitoring_feat_747558-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_digital_intervention_a27f6a_self_monitoring_feat_747558-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The features most likely to help
@@ -394,7 +394,7 @@ Across digital behaviour-change research, several self-monitoring features appea
 * **Personalised feedback** that interprets data instead of simply displaying it.
 * **Goal-linked monitoring** that shows progress toward a meaningful target.
 * **Context-sensitive summaries** that identify when and where behaviours occur.
-* **Action suggestions** that translate insights into the next repeatable step. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 58 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span> [3MDPI 3JMIR]
+* **Action suggestions** that translate insights into the next repeatable step.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 58 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span> [3MDPI 3JMIR]
 
 Notably, none of these features depend on collecting the maximum possible amount of information. Their value comes from reducing uncertainty about what to do next.
 
@@ -406,197 +406,197 @@ Tracking changes habits when it supports self-regulation rather than surveillanc
 
 A step count becomes useful when it reveals inactive days that need a walking cue. A spending log becomes useful when it exposes a recurring trigger for impulse purchases. A study tracker becomes useful when it identifies the conditions under which learning actually happens.
 
-The strongest self-monitoring systems therefore act less like archives and more like mirrors. They reflect behaviour clearly enough that a person can recognise a pattern, understand its significance, and take the next small action that keeps a habit moving forward. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 58 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1660-4601/22/7/1133" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Implementation of Behavior Change Theories and...by P Cotie · 2025 · Cited by 4 — Examples of these practical strategies that can be...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s12966-023-01555-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Impact of feedback generation and presentation on self...by RA Krukowski · 2024 · Cited by 43 — This review underlines the impor...</span></span></span>
+The strongest self-monitoring systems therefore act less like archives and more like mirrors. They reflect behaviour clearly enough that a person can recognise a pattern, understand its significance, and take the next small action that keeps a habit moving forward.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCDigital Behavior Change Intervention Designs for Habit</span><span class="citation-popover-snippet">by Y Zhu · 2024 · Cited by 58 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/1660-4601/22/7/1133" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Implementation of Behavior Change Theories and...by P Cotie · 2025 · Cited by 4 — Examples of these practical strategies that can be...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1186/s12966-023-01555-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Impact of feedback generation and presentation on self...by RA Krukowski · 2024 · Cited by 43 — This review underlines the impor...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When does tracking actually change a habit?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When does tracking actually change a habit?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Connects tracking, feedback, and habit formation into practical action.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Connects tracking, feedback, and habit formation into practical action.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
-        </h4>
-        <p class="fr-book-author">By B. J. Fogg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tiny Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5TmbDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Tiny Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tiny Habits">Tiny Habits</a>
+</h4>
+<p class="fr-book-author">By B. J. Fogg</p>
         
-        <p class="fr-book-desc">Shows how monitoring can support small, repeatable actions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how monitoring can support small, repeatable actions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Tiny+Habits+by+B.+J.+Fogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Measure+What+Matters+by+John+Doerr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Measure What Matters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VEtTDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Measure What Matters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Measure+What+Matters+by+John+Doerr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Measure What Matters">Measure What Matters</a>
-        </h4>
-        <p class="fr-book-author">By John Doerr</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Measure+What+Matters+by+John+Doerr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Measure What Matters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VEtTDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Measure What Matters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Measure+What+Matters+by+John+Doerr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Measure What Matters">Measure What Matters</a>
+</h4>
+<p class="fr-book-author">By John Doerr</p>
         
-        <p class="fr-book-desc">Demonstrates how measurement becomes useful when linked to meaningful goals.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Measure+What+Matters+by+John+Doerr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates how measurement becomes useful when linked to meaningful goals.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Measure+What+Matters+by+John+Doerr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
-        </h4>
-        <p class="fr-book-author">By Charles Duhigg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
+</h4>
+<p class="fr-book-author">By Charles Duhigg</p>
         
-        <p class="fr-book-desc">Explains how awareness of behavior patterns supports change.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how awareness of behavior patterns supports change.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Measure+What+Matters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Measure What Matters</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tiny+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tiny Habits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Measure+What+Matters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Measure What Matters</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches UK"><img src="https://i.ebayimg.com/images/g/CmMAAOSwRVRmxcEg/s-l225.jpg" alt="Listing image for Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer">Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness tracker watch">Search <span data-ebay-domain-label>eBay.co.uk</span>: fitness tracker watch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches UK"><img src="https://i.ebayimg.com/images/g/CmMAAOSwRVRmxcEg/s-l225.jpg" alt="Listing image for Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer">Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness tracker watch">Search<span data-ebay-domain-label>eBay.co.uk</span>: fitness tracker watch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smart Watch Fitness Tracker Blood Pressure Heart Rate Sport Watches Men Women UK"><img src="https://i.ebayimg.com/images/g/N~kAAeSwy6lpUgmb/s-l225.jpg" alt="Listing image for Smart Watch Fitness Tracker Blood Pressure Heart Rate Sport Watches Men Women UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer">Smart Watch Fitness Tracker Blood Pressure Heart Rate Sport Watches Men Women UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness tracker watch">Search <span data-ebay-domain-label>eBay.co.uk</span>: fitness tracker watch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smart Watch Fitness Tracker Blood Pressure Heart Rate Sport Watches Men Women UK"><img src="https://i.ebayimg.com/images/g/N~kAAeSwy6lpUgmb/s-l225.jpg" alt="Listing image for Smart Watch Fitness Tracker Blood Pressure Heart Rate Sport Watches Men Women UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer">Smart Watch Fitness Tracker Blood Pressure Heart Rate Sport Watches Men Women UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness tracker watch">Search<span data-ebay-domain-label>eBay.co.uk</span>: fitness tracker watch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches UK"><img src="https://i.ebayimg.com/images/g/yRUAAeSwEJpqCCyT/s-l225.jpg" alt="Listing image for Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer">Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness tracker watch">Search <span data-ebay-domain-label>eBay.co.uk</span>: fitness tracker watch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches UK"><img src="https://i.ebayimg.com/images/g/yRUAAeSwEJpqCCyT/s-l225.jpg" alt="Listing image for Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer">Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness tracker watch">Search<span data-ebay-domain-label>eBay.co.uk</span>: fitness tracker watch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches"><img src="https://i.ebayimg.com/images/g/2SoAAOSwP~RoXSPX/s-l225.jpg" alt="Listing image for Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer">Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness tracker watch">Search <span data-ebay-domain-label>eBay.co.uk</span>: fitness tracker watch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches"><img src="https://i.ebayimg.com/images/g/2SoAAOSwP~RoXSPX/s-l225.jpg" alt="Listing image for Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer">Smart Watch Men Women Fitness Tracker Blood Pressure Heart Rate Sport Watches</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for fitness tracker watch">Search<span data-ebay-domain-label>eBay.co.uk</span>: fitness tracker watch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=fitness+tracker+watch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-tracking-actually-change-a-habit-fitness-tracker-watch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="fitness tracker watch" data-ebay-reference="when-does-tracking-actually-change-a-habit-fitness-tracker-watch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -612,7 +612,7 @@ The strongest self-monitoring systems therefore act less like archives and more 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -632,7 +632,7 @@ The strongest self-monitoring systems therefore act less like archives and more 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -664,7 +664,7 @@ The strongest self-monitoring systems therefore act less like archives and more 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -716,7 +716,7 @@ The strongest self-monitoring systems therefore act less like archives and more 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -761,7 +761,7 @@ The strongest self-monitoring systems therefore act less like archives and more 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -802,143 +802,143 @@ The strongest self-monitoring systems therefore act less like archives and more 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: jmir.org  
-   Link: <a href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e54375/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 58 — The results show that the most applied beha...</p></details>
+   Link:<a href="https://www.jmir.org/2024/1/e54375/" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e54375/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 58 — The results show that the most applied beha...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCDigital Behavior Change Intervention Designs for Habit  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by Y Zhu · 2024 · Cited by 58 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11161714/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by Y Zhu · 2024 · Cited by 58 — The results show that the most applied behavior change techniques were the self-monitoring of behavior...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/1424-8220/24/8/2429" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/24/8/2429</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Comprehensive Review of Behavior Change Techniques...by C Del-Valle-Soto · 2024 · Cited by 38 — Users can track their own behavior...</p></details>
+   Link:<a href="https://www.mdpi.com/1424-8220/24/8/2429" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/24/8/2429</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Comprehensive Review of Behavior Change Techniques...by C Del-Valle-Soto · 2024 · Cited by 38 — Users can track their own behavior...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/1660-4601/22/7/1133" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1660-4601/22/7/1133</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation of Behavior Change Theories and...by P Cotie · 2025 · Cited by 4 — Examples of these practical strategies that can be...</p></details>
+   Link:<a href="https://www.mdpi.com/1660-4601/22/7/1133" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1660-4601/22/7/1133</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Implementation of Behavior Change Theories and...by P Cotie · 2025 · Cited by 4 — Examples of these practical strategies that can be...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: link.springer.com  
-   Link: <a href="https://link.springer.com/article/10.1186/s12966-023-01555-6" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12966-023-01555-6</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Impact of feedback generation and presentation on self...by RA Krukowski · 2024 · Cited by 43 — This review underlines the impor...</p></details>
+   Link:<a href="https://link.springer.com/article/10.1186/s12966-023-01555-6" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1186/s12966-023-01555-6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Impact of feedback generation and presentation on self...by RA Krukowski · 2024 · Cited by 43 — This review underlines the impor...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12259960/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12259960/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>review and meta analysis of standalone digital...by SA Lee · 2025 · Cited by 5 — The most common behavior change techniques were 2.2 fee...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12259960/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12259960/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>review and meta analysis of standalone digital...by SA Lee · 2025 · Cited by 5 — The most common behavior change techniques were 2.2 fee...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Time to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 67 — The meta-analysis showed significant...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC11641623/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Time to Form a Habit: A Systematic Review and Meta-Analysis...by B Singh · 2024 · Cited by 67 — The meta-analysis showed significant...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Time to Form a Habit: A Systematic Review and...4 Dec 2024 — Habit formation typically takes 2 to 6 months, and up to a year for s...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/386593213_Time_to_Form_a_Habit_A_Systematic_Review_and_Meta-Analysis_of_Health_Behaviour_Habit_Formation_and_Its_Determinants</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Time to Form a Habit: A Systematic Review and...4 Dec 2024 — Habit formation typically takes 2 to 6 months, and up to a year for s...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Small changes, big impact: A mini review of habit formation...27 Apr 2025 — This mini-review explores the science of habit f...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391205475_Small_changes_big_impact_A_mini_review_of_habit_formation_and_behavioral_change_principles</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Small changes, big impact: A mini review of habit formation...27 Apr 2025 — This mini-review explores the science of habit f...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2227-9032/12/23/2488" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2227-9032/12/23/2488</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Time to Form a Habit: A Systematic Review and Meta...by B Singh · 2024 · Cited by 68 — Practitioners should counsel patients on the exte...</p></details>
+   Link:<a href="https://www.mdpi.com/2227-9032/12/23/2488" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2227-9032/12/23/2488</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Time to Form a Habit: A Systematic Review and Meta...by B Singh · 2024 · Cited by 68 — Practitioners should counsel patients on the exte...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: researchgate.net  
    Title: Digital Behavior Change Intervention Designs for Habit  
-   Link: <a href="https://www.researchgate.net/publication/380854529_Digital_Behavior_Change_Intervention_Designs_for_Habit_Formation_Systematic_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380854529_Digital_Behavior_Change_Intervention_Designs_for_Habit_Formation_Systematic_Review</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 24, 2024 — The results show that the most applied behavior change techniques were the self-monitoring of behavior, goal setting, and...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/380854529_Digital_Behavior_Change_Intervention_Designs_for_Habit_Formation_Systematic_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/380854529_Digital_Behavior_Change_Intervention_Designs_for_Habit_Formation_Systematic_Review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 24, 2024 — The results show that the most applied behavior change techniques were the self-monitoring of behavior, goal setting, and...</p></details>
    Published: May 24, 2024  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/330406744_Habit_Formation_and_Behavior_Change" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/330406744_Habit_Formation_and_Behavior_Change</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nge interventions, drawing on the most methodologically and...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/330406744_Habit_Formation_and_Behavior_Change" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/330406744_Habit_Formation_and_Behavior_Change</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nge interventions, drawing on the most methodologically and...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/391233961_The_Impact_of_Dedicated_Mobile_Apps_on_Habit_Formation_A_Systematic_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391233961_The_Impact_of_Dedicated_Mobile_Apps_on_Habit_Formation_A_Systematic_Review</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Impact of Dedicated Mobile Apps on Habit Formation28 Apr 2025 — The results show that the most applied behavior change techniques wer...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/391233961_The_Impact_of_Dedicated_Mobile_Apps_on_Habit_Formation_A_Systematic_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391233961_The_Impact_of_Dedicated_Mobile_Apps_on_Habit_Formation_A_Systematic_Review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Impact of Dedicated Mobile Apps on Habit Formation28 Apr 2025 — The results show that the most applied behavior change techniques wer...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: jmir.org  
-   Link: <a href="https://www.jmir.org/2024/1/e54375/citations" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e54375/citations</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Behavior Change Intervention Designs for Habit...24 May 2024 — Digital Behavior Change Intervention Designs for Habit Formation...</p></details>
+   Link:<a href="https://www.jmir.org/2024/1/e54375/citations" target="_blank" rel="noopener noreferrer nofollow">https://www.jmir.org/2024/1/e54375/citations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Behavior Change Intervention Designs for Habit...24 May 2024 — Digital Behavior Change Intervention Designs for Habit Formation...</p></details>
    Published: May 2024  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/38787601/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38787601/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 83 — The results show that the most applied behavior change...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/38787601/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/38787601/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 83 — The results show that the most applied behavior change...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1227443/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1227443/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersPotential associations between behavior change...by M Milne-Ives · 2023 · Cited by 70 — The aim of this systematic review was t...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1227443/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1227443/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FrontiersPotential associations between behavior change...by M Milne-Ives · 2023 · Cited by 70 — The aim of this systematic review was t...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/39088817/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/39088817/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Change Techniques Within Digital Interventions...by PC Thomas · 2024 · Cited by 14 — This study aims to define the BCTs within digital s...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/39088817/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/39088817/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Change Techniques Within Digital Interventions...by PC Thomas · 2024 · Cited by 14 — This study aims to define the BCTs within digital s...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/nature-index/topics/l4/behavior-change-and-habit-formation-in-health-contexts" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/behavior-change-and-habit-formation-in-health-contexts</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior Change and Habit Formation in Health ContextsBehaviour change and habit formation lie at the heart of promoting and sustaining h...</p></details>
+   Link:<a href="https://www.nature.com/nature-index/topics/l4/behavior-change-and-habit-formation-in-health-contexts" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/nature-index/topics/l4/behavior-change-and-habit-formation-in-health-contexts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Behavior Change and Habit Formation in Health ContextsBehaviour change and habit formation lie at the heart of promoting and sustaining h...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/digital" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/digital</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DIGITAL Definition &amp; Meaning6 days ago — The [meaning](&amp;#123;&amp;#123; &#x27;meaning/&#x27; | relative_url &amp;#125;&amp;#125;) of DIGITAL is of, relating to, or utilizing devices constructed or working by the me...</p></details>
+   Link:<a href="https://www.merriam-webster.com/dictionary/digital" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/digital</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DIGITAL Definition &amp; Meaning6 days ago — The [meaning](&amp;#123;&amp;#123; &#x27;meaning/&#x27; | relative_url &amp;#125;&amp;#125;) of DIGITAL is of, relating to, or utilizing devices constructed or working by the me...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: healthline.com  
-   Link: <a href="https://www.healthline.com/health/how-long-does-it-take-to-form-a-habit" target="_blank" rel="noopener noreferrer nofollow">https://www.healthline.com/health/how-long-does-it-take-to-form-a-habit</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Habit Formation: How Long It Takes and How to Start NowIt can take anywhere from 18 to 254 days for a person to form a new habit and an a...</p></details>
+   Link:<a href="https://www.healthline.com/health/how-long-does-it-take-to-form-a-habit" target="_blank" rel="noopener noreferrer nofollow">https://www.healthline.com/health/how-long-does-it-take-to-form-a-habit</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Habit Formation: How Long It Takes and How to Start NowIt can take anywhere from 18 to 254 days for a person to form a new habit and an a...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: ijsmsjournal.org  
-   Link: <a href="https://ijsmsjournal.org/2024/volume-7%20issue-1/ijsms-v7i1p115.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ijsmsjournal.org/2024/volume-7%20issue-1/ijsms-v7i1p115.pdf</a>  
+   Link:<a href="https://ijsmsjournal.org/2024/volume-7%20issue-1/ijsms-v7i1p115.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ijsmsjournal.org/2024/volume-7%20issue-1/ijsms-v7i1p115.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: research.polyu.edu.hk  
    Title: digital behavior change intervention designs for habit formation  
-   Link: <a href="https://research.polyu.edu.hk/en/publications/digital-behavior-change-intervention-designs-for-habit-formation-/" target="_blank" rel="noopener noreferrer nofollow">https://research.polyu.edu.hk/en/publications/digital-behavior-change-intervention-designs-for-habit-formation-/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PolyU Scholars HubDigital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 57 — The results show that the mos...</p></details>
+   Link:<a href="https://research.polyu.edu.hk/en/publications/digital-behavior-change-intervention-designs-for-habit-formation-/" target="_blank" rel="noopener noreferrer nofollow">https://research.polyu.edu.hk/en/publications/digital-behavior-change-intervention-designs-for-habit-formation-/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PolyU Scholars HubDigital Behavior Change Intervention Designs for Habit...by Y Zhu · 2024 · Cited by 57 — The results show that the mos...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: success.com  
-   Link: <a href="https://www.success.com/success-edge/the-identity-trap" target="_blank" rel="noopener noreferrer nofollow">https://www.success.com/success-edge/the-identity-trap</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Identity Trap: Why Your Brain Won&#x27;t Let You Build...1 day ago — Implementation intentions must bridge the gap between identity and a...</p></details>
+   Link:<a href="https://www.success.com/success-edge/the-identity-trap" target="_blank" rel="noopener noreferrer nofollow">https://www.success.com/success-edge/the-identity-trap</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Identity Trap: Why Your Brain Won&#x27;t Let You Build...1 day ago — Implementation intentions must bridge the gap between identity and a...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S027795362500930X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S027795362500930X</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Navigating behavioural change: insights from prompts self...by ES Collier · 2025 — Do automated digital health behaviour change interven...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S027795362500930X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S027795362500930X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Navigating behavioural change: insights from prompts self...by ES Collier · 2025 — Do automated digital health behaviour change interven...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/13153395" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/13153395</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Change Techniques in Digital Health Interventions...A systematic review of internet-based self-help therapeutic interventions to improve...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/13153395" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/13153395</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Change Techniques in Digital Health Interventions...A systematic review of internet-based self-help therapeutic interventions to improve...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/Digital-Behavior-Change-Intervention-Designs-for-Zhu-Long/31fd298628af87ecfa1cfe1b9e952ff62cf38450" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Digital-Behavior-Change-Intervention-Designs-for-Zhu-Long/31fd298628af87ecfa1cfe1b9e952ff62cf38450</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r change techniques, types of habit formation techniques...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/Digital-Behavior-Change-Intervention-Designs-for-Zhu-Long/31fd298628af87ecfa1cfe1b9e952ff62cf38450" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Digital-Behavior-Change-Intervention-Designs-for-Zhu-Long/31fd298628af87ecfa1cfe1b9e952ff62cf38450</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r change techniques, types of habit formation techniques...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: tandfonline.com  
-   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/08870446.2026.2626493" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/08870446.2026.2626493</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Determinants and strategies of self-reported habit...by R Edgren · 2026 · Cited by 1 — Theorised person related determinants of habit fo...</p></details>
+   Link:<a href="https://www.tandfonline.com/doi/full/10.1080/08870446.2026.2626493" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/08870446.2026.2626493</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Determinants and strategies of self-reported habit...by R Edgren · 2026 · Cited by 1 — Theorised person related determinants of habit fo...</p></details>

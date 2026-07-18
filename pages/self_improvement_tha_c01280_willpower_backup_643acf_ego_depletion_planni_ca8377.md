@@ -274,22 +274,22 @@ image: /assets/images/self_improvement_tha_c01280_willpower_backup_643acf_ego_de
 
 ## Introduction
 
-Should a self-improvement plan trust willpower? The safest answer is no—not because willpower is useless, but because the science behind one of its most influential explanations remains contested. For years, the theory of [ego depletion]({{ 'ego-depletion/' | relative_url }}) suggested that self-control draws from a limited resource that becomes exhausted with use. If true, this would mean that every act of restraint leaves less available for the next challenge. Subsequent replication failures, methodological disputes and theoretical revisions have made that simple story much less certain. Yet the practical lesson for [behaviour change]({{ 'behaviour-change/' | relative_url }}) has barely changed: plans work better when they reduce reliance on moment-by-moment restraint. Whether willpower is literally depleted, temporarily redirected, or simply less reliable under strain, building a system that assumes endless self-control remains a risky design choice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27474142/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Keywords: energy model; meta-analysis;...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27474142/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Keywords: energy model; meta-analysis;...Read more...</span></span></span>
+Should a self-improvement plan trust willpower? The safest answer is no—not because willpower is useless, but because the science behind one of its most influential explanations remains contested. For years, the theory of [ego depletion]({{ 'ego-depletion/' | relative_url }}) suggested that self-control draws from a limited resource that becomes exhausted with use. If true, this would mean that every act of restraint leaves less available for the next challenge. Subsequent replication failures, methodological disputes and theoretical revisions have made that simple story much less certain. Yet the practical lesson for [behaviour change]({{ 'behaviour-change/' | relative_url }}) has barely changed: plans work better when they reduce reliance on moment-by-moment restraint. Whether willpower is literally depleted, temporarily redirected, or simply less reliable under strain, building a system that assumes endless self-control remains a risky design choice.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27474142/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Keywords: energy model; meta-analysis;...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27474142/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Keywords: energy model; meta-analysis;...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_ego_depletion_planni_ca8377-Illustration-1-dark.svg" | relative_url }}" alt="Depletion Debate illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_ego_depletion_planni_ca8377-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_ego_depletion_planni_ca8377-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Should Your Plan Trust Willpower?
 
 The question matters because many self-improvement programmes quietly assume that future [motivation]({{ 'motivation/' | relative_url }}) and self-control will appear exactly when needed. Diets depend on resisting snacks at night. Study plans depend on forcing concentration after a tiring day. Budgeting systems depend on repeated spending restraint. The success of the plan is therefore tied to a psychological capacity that may fluctuate.
 
-The ego depletion debate is important not because it settles every question about [willpower]({{ 'willpower/' | relative_url }}), but because it highlights a broader planning risk: when success depends on repeatedly winning difficult internal battles, small failures can accumulate into large deviations from the intended path. Even if the strongest version of ego depletion is wrong, a plan that repeatedly demands heroic self-control remains vulnerable to fatigue, stress, distraction, competing goals and changing motivation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2352250X24000952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Self-control and limited willpower: Current status of ego...by RF Baumeister · 2024 · Cited by 123 — Ego depletion theory p...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27474142/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Keywords: energy model; meta-analysis;...Read more...</span></span></span>
+The ego depletion debate is important not because it settles every question about [willpower]({{ 'willpower/' | relative_url }}), but because it highlights a broader planning risk: when success depends on repeatedly winning difficult internal battles, small failures can accumulate into large deviations from the intended path. Even if the strongest version of ego depletion is wrong, a plan that repeatedly demands heroic self-control remains vulnerable to fatigue, stress, distraction, competing goals and changing motivation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2352250X24000952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Self-control and limited willpower: Current status of ego...by RF Baumeister · 2024 · Cited by 123 — Ego depletion theory p...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27474142/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Keywords: energy model; meta-analysis;...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mUNh-YEFGcY" title="What&#x27;s the difference between willpower and habits | Ask the Expert: Mindset" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mUNh-YEFGcY" target="_blank" rel="noopener noreferrer">What&#x27;s the difference between willpower and habits | Ask the Expert: Mindset</a></p><p class="youtube-embed-meta">Channel: Simple Online Pharmacy &middot; Views: 25 &middot; Uploaded: April 2026 &middot; Length: 1 minute 4 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mUNh-YEFGcY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mUNh-YEFGcY">Open on YouTube</a></p></div></div></div>
 
 ## What the Original Theory Claimed
 
-The original strength model of self-control, associated with Roy Baumeister and colleagues, proposed that acts of self-control draw upon a limited psychological resource. According to this model, resisting temptation, regulating emotions, suppressing impulses or forcing attention onto difficult tasks all consumed part of that resource. After enough expenditure, subsequent self-control would become less effective. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2352250X24000952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Self-control and limited willpower: Current status of ego...by RF Baumeister · 2024 · Cited by 123 — Ego depletion theory p...</span></span></span>
+The original strength model of self-control, associated with Roy Baumeister and colleagues, proposed that acts of self-control draw upon a limited psychological resource. According to this model, resisting temptation, regulating emotions, suppressing impulses or forcing attention onto difficult tasks all consumed part of that resource. After enough expenditure, subsequent self-control would become less effective.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2352250X24000952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Self-control and limited willpower: Current status of ego...by RF Baumeister · 2024 · Cited by 123 — Ego depletion theory p...</span></span></span>
 
-The appeal of the theory was obvious. It explained familiar experiences: the person who overeats after a stressful day, abandons a study session after hours of concentration, or makes impulsive decisions late in the evening. It also generated a large body of experimental research apparently showing that an initial self-control task could impair performance on a later one. Early reviews and meta-analyses suggested a substantial effect, helping ego depletion become one of the most influential ideas in self-control research. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: speakandregret.michaelinzlicht.com">[Speak and Regret]</a><span class="citation-popover" role="note"><span class="citation-popover-source">speakandregret.michaelinzlicht.com</span><span class="citation-popover-title">Speak and Regret The Collapse of Ego Depletion</span><span class="citation-popover-snippet">Speak and RegretThe Collapse of Ego Depletion - by Michael InzlichtJan 29, 2025 — While an early meta-analysis published in 2010 seemed t...</span></span></span>
+The appeal of the theory was obvious. It explained familiar experiences: the person who overeats after a stressful day, abandons a study session after hours of concentration, or makes impulsive decisions late in the evening. It also generated a large body of experimental research apparently showing that an initial self-control task could impair performance on a later one. Early reviews and meta-analyses suggested a substantial effect, helping ego depletion become one of the most influential ideas in self-control research.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: speakandregret.michaelinzlicht.com">[Speak and Regret]</a><span class="citation-popover" role="note"><span class="citation-popover-source">speakandregret.michaelinzlicht.com</span><span class="citation-popover-title">Speak and Regret The Collapse of Ego Depletion</span><span class="citation-popover-snippet">Speak and RegretThe Collapse of Ego Depletion - by Michael InzlichtJan 29, 2025 — While an early meta-analysis published in 2010 seemed t...</span></span></span>
 
 For self-improvement culture, the implication was straightforward. Willpower was treated like a fuel tank. Good days reflected a full tank; bad decisions reflected an empty one.
 
@@ -297,13 +297,13 @@ For self-improvement culture, the implication was straightforward. Willpower was
 
 ## Why Replication Problems Changed the Debate
 
-The confidence surrounding ego depletion weakened when psychology entered a broader period of scrutiny over replication and research methods. Large preregistered replication projects struggled to reproduce the classic depletion effect. One influential multilab replication involving more than 2,000 participants found an effect so small that the confidence interval included zero, [meaning]({{ 'meaning/' | relative_url }}) the data did not provide strong [support]({{ 'support/' | relative_url }}) for the original claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27474142/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Keywords: energy model; meta-analysis;...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1745691616652873" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsA Multilab Preregistered Replication of the Ego-Depletion...by MS Hagger · 2016 · Cited by 1431 — Meta-analysis of the stud...</span></span></span>
+The confidence surrounding ego depletion weakened when psychology entered a broader period of scrutiny over replication and research methods. Large preregistered replication projects struggled to reproduce the classic depletion effect. One influential multilab replication involving more than 2,000 participants found an effect so small that the confidence interval included zero, [meaning]({{ 'meaning/' | relative_url }}) the data did not provide strong [support]({{ 'support/' | relative_url }}) for the original claim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27474142/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Keywords: energy model; meta-analysis;...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1745691616652873" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsA Multilab Preregistered Replication of the Ego-Depletion...by MS Hagger · 2016 · Cited by 1431 — Meta-analysis of the stud...</span></span></span>
 
-Researchers then disagreed about what these findings meant. Critics argued that publication bias, selective reporting and methodological weaknesses may have inflated earlier estimates of ego depletion. Michael Inzlicht and other researchers increasingly questioned whether a limited-resource account adequately explained the evidence. Alternative explanations focused on shifts in motivation, attention, effort allocation or task engagement rather than depletion of a mental fuel. Michael Inzlicht <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27474142/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Keywords: energy model; meta-analysis;...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://michael-inzlicht.squarespace.com/s/is-ego-depletion-real.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: michael-inzlicht.squarespace.com">[Michael Inzlicht]</a><span class="citation-popover" role="note"><span class="citation-popover-source">michael-inzlicht.squarespace.com</span><span class="citation-popover-title">Michael Inzlicht Is Ego Depletion Real?</span><span class="citation-popover-snippet">An Analysis of ArgumentsEgo depletion originally came out of social psychology, but was quickly applied to and investigated in various fi...</span></span></span>
+Researchers then disagreed about what these findings meant. Critics argued that publication bias, selective reporting and methodological weaknesses may have inflated earlier estimates of ego depletion. Michael Inzlicht and other researchers increasingly questioned whether a limited-resource account adequately explained the evidence. Alternative explanations focused on shifts in motivation, attention, effort allocation or task engagement rather than depletion of a mental fuel. Michael Inzlicht<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27474142/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Keywords: energy model; meta-analysis;...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://michael-inzlicht.squarespace.com/s/is-ego-depletion-real.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: michael-inzlicht.squarespace.com">[Michael Inzlicht]</a><span class="citation-popover" role="note"><span class="citation-popover-source">michael-inzlicht.squarespace.com</span><span class="citation-popover-title">Michael Inzlicht Is Ego Depletion Real?</span><span class="citation-popover-snippet">An Analysis of ArgumentsEgo depletion originally came out of social psychology, but was quickly applied to and investigated in various fi...</span></span></span>
 
-Supporters of the theory did not concede complete defeat. Later work argued that some replication attempts may have used weak procedures and that small depletion effects still appear under certain conditions. A 12-lab replication published after the earlier failures reported a statistically significant effect, but the effect size was very small—far smaller than the original literature had suggested. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1745691616652873" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsA Multilab Preregistered Replication of the Ego-Depletion...by MS Hagger · 2016 · Cited by 1431 — Meta-analysis of the stud...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5621751/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Six Questions for the Resource Model of Control (and Some...by M Inzlicht · 2015 · Cited by 232 — If it turns out that ego depletion...</span></span></span>
+Supporters of the theory did not concede complete defeat. Later work argued that some replication attempts may have used weak procedures and that small depletion effects still appear under certain conditions. A 12-lab replication published after the earlier failures reported a statistically significant effect, but the effect size was very small—far smaller than the original literature had suggested.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journals.sagepub.com/doi/10.1177/1745691616652873" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journals.sagepub.com">[Sage Journals]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journals.sagepub.com</span><span class="citation-popover-snippet">Sage JournalsA Multilab Preregistered Replication of the Ego-Depletion...by MS Hagger · 2016 · Cited by 1431 — Meta-analysis of the stud...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5621751/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Six Questions for the Resource Model of Control (and Some...by M Inzlicht · 2015 · Cited by 232 — If it turns out that ego depletion...</span></span></span>
 
-As a result, the field moved away from simple certainty. The debate today is less about whether self-control ever becomes harder and more about why, when and by how much. The original image of a single depleting resource has become much harder to defend as a complete explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2352250X24000952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Self-control and limited willpower: Current status of ego...by RF Baumeister · 2024 · Cited by 123 — Ego depletion theory p...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27474142/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Keywords: energy model; meta-analysis;...Read more...</span></span></span>
+As a result, the field moved away from simple certainty. The debate today is less about whether self-control ever becomes harder and more about why, when and by how much. The original image of a single depleting resource has become much harder to defend as a complete explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S2352250X24000952" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Self-control and limited willpower: Current status of ego...by RF Baumeister · 2024 · Cited by 123 — Ego depletion theory p...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27474142/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Keywords: energy model; meta-analysis;...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_ego_depletion_planni_ca8377-Illustration-2-dark.svg" | relative_url }}" alt="Depletion Debate illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_ego_depletion_planni_ca8377-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_ego_depletion_planni_ca8377-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Planning Mistake Hidden Inside the Debate
@@ -324,7 +324,7 @@ The replication debate therefore changes the way self-control should be viewed. 
 
 The strongest practical conclusion is surprisingly modest: treat willpower as a backup system, not the engine of behaviour change.
 
-Research inspired by the process model of self-control suggests that people can intervene earlier in the chain of behaviour rather than relying solely on last-second resistance. Situation selection, environmental modification and attention management often prevent conflicts from becoming full self-control battles in the first place. PubMed <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/34113424/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[Curee In practice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med A Multilab Replication of the Ego Depletion Effect</span><span class="citation-popover-snippet">Multilab Replication of the Ego Depletion Effect - PubMedby J Dang · 2021 · Cited by 200 — A recent preregistered experiment with the Str...</span></span></span>, this means:
+Research inspired by the process model of self-control suggests that people can intervene earlier in the chain of behaviour rather than relying solely on last-second resistance. Situation selection, environmental modification and attention management often prevent conflicts from becoming full self-control battles in the first place. PubMed<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/34113424/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[Curee In practice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Med A Multilab Replication of the Ego Depletion Effect</span><span class="citation-popover-snippet">Multilab Replication of the Ego Depletion Effect - PubMedby J Dang · 2021 · Cited by 200 — A recent preregistered experiment with the Str...</span></span></span>, this means:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -336,276 +336,276 @@ Research inspired by the process model of self-control suggests that people can 
 
 </div>
 
-These strategies remain sensible regardless of where the ego depletion debate ultimately lands. If self-control is a limited resource, they conserve it. If self-control failures arise from shifts in motivation or attention, they reduce exposure to those shifts. If both mechanisms matter, they help on both fronts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27474142/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Keywords: energy model; meta-analysis;...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27474142/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Keywords: energy model; meta-analysis;...Read more...</span></span></span>
+These strategies remain sensible regardless of where the ego depletion debate ultimately lands. If self-control is a limited resource, they conserve it. If self-control failures arise from shifts in motivation or attention, they reduce exposure to those shifts. If both mechanisms matter, they help on both fronts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27474142/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Keywords: energy model; meta-analysis;...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/27474142/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Keywords: energy model; meta-analysis;...Read more...</span></span></span>
 
 The debate over ego depletion may continue, but the planning lesson is already clear. A self-improvement system becomes stronger when it assumes that future self-control will sometimes be weaker than hoped. Plans that survive imperfect motivation are usually the plans that survive real life.
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_ego_depletion_planni_ca8377-Illustration-3-dark.svg" | relative_url }}" alt="Depletion Debate illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_ego_depletion_planni_ca8377-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_willpower_backup_643acf_ego_depletion_planni_ca8377-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Should Your Plan Trust Willpower?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Should Your Plan Trust Willpower?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Willpower+Instinct+by+Kelly+McGonigal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Willpower Instinct on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4x1aDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Willpower Instinct" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Willpower+Instinct+by+Kelly+McGonigal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Willpower Instinct">The Willpower Instinct</a>
-        </h4>
-        <p class="fr-book-author">By Kelly McGonigal</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Willpower+Instinct+by+Kelly+McGonigal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Willpower Instinct on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=4x1aDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Willpower Instinct" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Willpower+Instinct+by+Kelly+McGonigal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Willpower Instinct">The Willpower Instinct</a>
+</h4>
+<p class="fr-book-author">By Kelly McGonigal</p>
         
-        <p class="fr-book-desc">Addresses the science of willpower and practical ways to avoid overreliance on it.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Willpower+Instinct+by+Kelly+McGonigal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses the science of willpower and practical ways to avoid overreliance on it.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Willpower+Instinct+by+Kelly+McGonigal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Willpower+by+Roy+F.+Baumeister&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Willpower on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HpJ1bH3RLAsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Willpower" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Willpower+by+Roy+F.+Baumeister&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Willpower">Willpower</a>
-        </h4>
-        <p class="fr-book-author">By Roy F. Baumeister, John Tierney</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Willpower+by+Roy+F.+Baumeister&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Willpower on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=HpJ1bH3RLAsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Willpower" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Willpower+by+Roy+F.+Baumeister&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Willpower">Willpower</a>
+</h4>
+<p class="fr-book-author">By Roy F. Baumeister, John Tierney</p>
         
-        <p class="fr-book-desc">Provides the classic account of willpower depletion and its implications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Willpower+by+Roy+F.+Baumeister&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the classic account of willpower depletion and its implications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Willpower+by+Roy+F.+Baumeister&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Promotes systems and environment design that reduce dependence on fluctuating willpower.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Promotes systems and environment design that reduce dependence on fluctuating willpower.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
-        </h4>
-        <p class="fr-book-author">By Charles Duhigg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Habit on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Habit">The Power of Habit</a>
+</h4>
+<p class="fr-book-author">By Charles Duhigg</p>
         
-        <p class="fr-book-desc">Explains how automatic routines can replace repeated acts of self-control.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how automatic routines can replace repeated acts of self-control.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Power+of+Habit+by+Charles+Duhigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Willpower+Instinct&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Willpower Instinct</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Willpower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Willpower</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Willpower+Instinct&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Willpower Instinct</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Willpower&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Willpower</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement"><img src="{{ '/assets/images/marketplace-covers/e1105e4ca9338f7e9fae.jpg' | relative_url }}" alt="Listing image for Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Baseball Helmet Bat and Ball Motivational Quote Poster Wall Art Self Improvement</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RIBBLEAS Organiser Desk Organizer with Drawer Minimalist Pen Holder Office Desk"><img src="{{ '/assets/images/marketplace-covers/1ee939884c2f686456eb.jpg' | relative_url }}" alt="Listing image for RIBBLEAS Organiser Desk Organizer with Drawer Minimalist Pen Holder Office Desk" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">RIBBLEAS Organiser Desk Organizer with Drawer Minimalist Pen Holder Office Desk</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RIBBLEAS Organiser Desk Organizer with Drawer Minimalist Pen Holder Office Desk"><img src="{{ '/assets/images/marketplace-covers/1ee939884c2f686456eb.jpg' | relative_url }}" alt="Listing image for RIBBLEAS Organiser Desk Organizer with Drawer Minimalist Pen Holder Office Desk" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">RIBBLEAS Organiser Desk Organizer with Drawer Minimalist Pen Holder Office Desk</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mesh Pen Pot Pencil Holder Desk Stationery Organiser Office Home Storage"><img src="{{ '/assets/images/marketplace-covers/60a4dbd611649d82c998.jpg' | relative_url }}" alt="Listing image for Mesh Pen Pot Pencil Holder Desk Stationery Organiser Office Home Storage" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Mesh Pen Pot Pencil Holder Desk Stationery Organiser Office Home Storage</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mesh Pen Pot Pencil Holder Desk Stationery Organiser Office Home Storage"><img src="{{ '/assets/images/marketplace-covers/60a4dbd611649d82c998.jpg' | relative_url }}" alt="Listing image for Mesh Pen Pot Pencil Holder Desk Stationery Organiser Office Home Storage" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Mesh Pen Pot Pencil Holder Desk Stationery Organiser Office Home Storage</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Black Samurai Warrior Pen Holder – Desk Organizer Statue, Unique Office Decor,"><img src="{{ '/assets/images/marketplace-covers/7dfaf475c242d68e5cc4.jpg' | relative_url }}" alt="Listing image for Black Samurai Warrior Pen Holder – Desk Organizer Statue, Unique Office Decor," loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Black Samurai Warrior Pen Holder – Desk Organizer Statue, Unique Office Decor,</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Black Samurai Warrior Pen Holder – Desk Organizer Statue, Unique Office Decor,"><img src="{{ '/assets/images/marketplace-covers/7dfaf475c242d68e5cc4.jpg' | relative_url }}" alt="Listing image for Black Samurai Warrior Pen Holder – Desk Organizer Statue, Unique Office Decor," loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Black Samurai Warrior Pen Holder – Desk Organizer Statue, Unique Office Decor,</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver"><img src="{{ '/assets/images/marketplace-covers/8ef2fda3ba43e1e28efb.jpg' | relative_url }}" alt="Listing image for 4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search <span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver"><img src="{{ '/assets/images/marketplace-covers/8ef2fda3ba43e1e28efb.jpg' | relative_url }}" alt="Listing image for 4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">4-Tier Mesh Desk Organiser with Sliding Trays Metal Paper File Holder - Silver</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for desk organizer">Search<span data-ebay-domain-label>eBay.co.uk</span>: desk organizer</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-desk-organizer&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=desk+organizer&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=depletion-debate-should-your-plan-trust-willpower-self-improvement-that-works-desk-organizer&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -621,7 +621,7 @@ The debate over ego depletion may continue, but the planning lesson is already c
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -641,7 +641,7 @@ The debate over ego depletion may continue, but the planning lesson is already c
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -673,7 +673,7 @@ The debate over ego depletion may continue, but the planning lesson is already c
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -703,7 +703,7 @@ The debate over ego depletion may continue, but the planning lesson is already c
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -761,113 +761,113 @@ The debate over ego depletion may continue, but the planning lesson is already c
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2352250X24000952" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352250X24000952</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Self-control and limited willpower: Current status of ego...by RF Baumeister · 2024 · Cited by 123 — Ego depletion theory p...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2352250X24000952" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352250X24000952</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Self-control and limited willpower: Current status of ego...by RF Baumeister · 2024 · Cited by 123 — Ego depletion theory p...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect Ego Depletion  
-   Link: <a href="https://www.sciencedirect.com/topics/psychology/ego-depletion" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/ego-depletion</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ego Depletion - an overviewEgo depletion is often described as a state of diminished “strength” or reduced resources that re...</p></details>
+   Link:<a href="https://www.sciencedirect.com/topics/psychology/ego-depletion" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/psychology/ego-depletion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ego Depletion - an overviewEgo depletion is often described as a state of diminished “strength” or reduced resources that re...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5621751/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5621751/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Six Questions for the Resource Model of Control (and Some...by M Inzlicht · 2015 · Cited by 232 — If it turns out that ego depletion...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5621751/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5621751/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Six Questions for the Resource Model of Control (and Some...by M Inzlicht · 2015 · Cited by 232 — If it turns out that ego depletion...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sciencedirect.com  
-   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2352250X2400071X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352250X2400071X</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>James Gross: Writing – review &amp; editing. Declaration of competing interest. The authors declare that they have no...</p></details>
+   Link:<a href="https://www.sciencedirect.com/science/article/pii/S2352250X2400071X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2352250X2400071X</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>James Gross: Writing – review &amp; editing. Declaration of competing interest. The authors declare that they have no...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/27474142/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/27474142/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Keywords: energy model; meta-analysis;...Read more...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/27474142/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/27474142/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Keywords: energy model; meta-analysis;...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med What Is Ego Depletion?  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26168503/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26168503/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Toward a Mechanistic Revision of...by M Inzlicht · 2012 · Cited by 1556 — The article highlights evidence in support of this model but a...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26168503/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26168503/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Toward a Mechanistic Revision of...by M Inzlicht · 2012 · Cited by 1556 — The article highlights evidence in support of this model but a...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: speakandregret.michaelinzlicht.com  
    Title: Speak and Regret The Collapse of Ego Depletion  
-   Link: <a href="https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion" target="_blank" rel="noopener noreferrer nofollow">https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Speak and RegretThe Collapse of Ego Depletion - by Michael InzlichtJan 29, 2025 — While an early meta-analysis published in 2010 seemed t...</p></details>
+   Link:<a href="https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion" target="_blank" rel="noopener noreferrer nofollow">https://www.speakandregret.michaelinzlicht.com/p/the-collapse-of-ego-depletion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Speak and RegretThe Collapse of Ego Depletion - by Michael InzlichtJan 29, 2025 — While an early meta-analysis published in 2010 seemed t...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/1745691616652873" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1745691616652873</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsA Multilab Preregistered Replication of the Ego-Depletion...by MS Hagger · 2016 · Cited by 1431 — Meta-analysis of the stud...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/1745691616652873" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1745691616652873</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsA Multilab Preregistered Replication of the Ego-Depletion...by MS Hagger · 2016 · Cited by 1431 — Meta-analysis of the stud...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: michael-inzlicht.squarespace.com  
    Title: Michael Inzlicht Is Ego Depletion Real?  
-   Link: <a href="https://michael-inzlicht.squarespace.com/s/is-ego-depletion-real.pdf" target="_blank" rel="noopener noreferrer nofollow">https://michael-inzlicht.squarespace.com/s/is-ego-depletion-real.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An Analysis of ArgumentsEgo depletion originally came out of social psychology, but was quickly applied to and investigated in various fi...</p></details>
+   Link:<a href="https://michael-inzlicht.squarespace.com/s/is-ego-depletion-real.pdf" target="_blank" rel="noopener noreferrer nofollow">https://michael-inzlicht.squarespace.com/s/is-ego-depletion-real.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An Analysis of ArgumentsEgo depletion originally came out of social psychology, but was quickly applied to and investigated in various fi...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: michaelinzlicht.com  
    Title: the replication crisis is not over  
-   Link: <a href="https://michaelinzlicht.com/getting-better/2020/6/26/the-replication-crisis-is-not-over" target="_blank" rel="noopener noreferrer nofollow">https://michaelinzlicht.com/getting-better/2020/6/26/the-replication-crisis-is-not-over</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>26 Jun 2020 — Ego depletion refers to the idea that self-control relies on a limited store of resources that gets depleted with use, sort...</p></details>
+   Link:<a href="https://michaelinzlicht.com/getting-better/2020/6/26/the-replication-crisis-is-not-over" target="_blank" rel="noopener noreferrer nofollow">https://michaelinzlicht.com/getting-better/2020/6/26/the-replication-crisis-is-not-over</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>26 Jun 2020 — Ego depletion refers to the idea that self-control relies on a limited store of resources that gets depleted with use, sort...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: journals.sagepub.com  
-   Link: <a href="https://journals.sagepub.com/doi/10.1177/1948550619887702" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1948550619887702</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsA Multilab Replication of the Ego Depletion Effectby J Dang · 2021 · Cited by 205 — Data from 12 labs across the globe (N =...</p></details>
+   Link:<a href="https://journals.sagepub.com/doi/10.1177/1948550619887702" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/1948550619887702</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sage JournalsA Multilab Replication of the Ego Depletion Effectby J Dang · 2021 · Cited by 205 — Data from 12 labs across the globe (N =...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med A Multilab Replication of the Ego Depletion Effect  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/34113424/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/34113424/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Multilab Replication of the Ego Depletion Effect - PubMedby J Dang · 2021 · Cited by 200 — A recent preregistered experiment with the Str...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/34113424/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/34113424/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Multilab Replication of the Ego Depletion Effect - PubMedby J Dang · 2021 · Cited by 200 — A recent preregistered experiment with the Str...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
    Title: Pub Med Situational Strategies for Self-Control  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/26817725/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26817725/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Affiliations. 1 Department of Psychology, University of Pennsylvania duckwort@psych.upenn.edu...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/26817725/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/26817725/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Affiliations. 1 Department of Psychology, University of Pennsylvania duckwort@psych.upenn.edu...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.01155/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.01155/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Multilab Preregistered Replication of the Ego-Depletion Effect. by Hagger, M. S., and Chatzisarantis, N. L. D. Perspect. Psychol. Sci...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.01155/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.01155/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Multilab Preregistered Replication of the Ego-Depletion Effect. by Hagger, M. S., and Chatzisarantis, N. L. D. Perspect. Psychol. Sci...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00197/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00197/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Debate on the Ego-Depletion Effect: Evidence from...by D Blázquez · 2017 · Cited by 66 — We will show that in the ego-depletion case...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00197/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2017.00197/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Debate on the Ego-Depletion Effect: Evidence from...by D Blázquez · 2017 · Cited by 66 — We will show that in the ego-depletion case...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.00706/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.00706/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DuckworthA. L.GendlerT. S.GrossJ. J. (2016). Situational strategies...Read more...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.00706/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2019.00706/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DuckworthA. L.GendlerT. S.GrossJ. J. (2016). Situational strategies...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: frontiersin.org  
-   Link: <a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2021.658890/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2021.658890/full</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Again, No Evidence for or Against the Existence of Ego...by C Englert · 2021 · Cited by 39 — In a recent meta-analysis, Dang (2018) repo...</p></details>
+   Link:<a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2021.658890/full" target="_blank" rel="noopener noreferrer nofollow">https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2021.658890/full</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Again, No Evidence for or Against the Existence of Ego...by C Englert · 2021 · Cited by 39 — In a recent meta-analysis, Dang (2018) repo...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: michaelinzlicht.com  
-   Link: <a href="https://michaelinzlicht.com/publications/articles-chapters/tag/ego%2Bdepletion" target="_blank" rel="noopener noreferrer nofollow">https://michaelinzlicht.com/publications/articles-chapters/tag/ego%2Bdepletion</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ego depletion — Articles and Chapters(2019). Personality and Social Psychology Review, 23, 107-131. Tags: ego depletion, self-control, re...</p></details>
+   Link:<a href="https://michaelinzlicht.com/publications/articles-chapters/tag/ego%2Bdepletion" target="_blank" rel="noopener noreferrer nofollow">https://michaelinzlicht.com/publications/articles-chapters/tag/ego%2Bdepletion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ego depletion — Articles and Chapters(2019). Personality and Social Psychology Review, 23, 107-131. Tags: ego depletion, self-control, re...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: michael-inzlicht.squarespace.com  
    Title: Integrating models of self regulation  
-   Link: <a href="https://michael-inzlicht.squarespace.com/s/Integrating-models-of-self-regulation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://michael-inzlicht.squarespace.com/s/Integrating-models-of-self-regulation.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2016a. Situational strategies for self-control. Perspect. Psychol. Sci. 11(1):35–55. Duckworth AL, Grant...Read more...</p></details>
+   Link:<a href="https://michael-inzlicht.squarespace.com/s/Integrating-models-of-self-regulation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://michael-inzlicht.squarespace.com/s/Integrating-models-of-self-regulation.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2016a. Situational strategies for self-control. Perspect. Psychol. Sci. 11(1):35–55. Duckworth AL, Grant...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: angeladuckworth.com  
-   Link: <a href="https://angeladuckworth.com/tag/self-control/" target="_blank" rel="noopener noreferrer nofollow">https://angeladuckworth.com/tag/self-control/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Angela Duckworth[https://doi.org/10.1177/1745691617690...&quot;](https://doi.org/10.1177/1745691617690...&quot;)...</p></details>
+   Link:<a href="https://angeladuckworth.com/tag/self-control/" target="_blank" rel="noopener noreferrer nofollow">https://angeladuckworth.com/tag/self-control/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Angela Duckworth[https://doi.org/10.1177/1745691617690...&quot;](https://doi.org/10.1177/1745691617690...&quot;)...</p></details>
 
 8
 
@@ -877,53 +877,53 @@ The debate over ego depletion may continue, but the planning lesson is already c
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: psychologicalscience.org  
    Title: replication project investigates self control as limited resource 2  
-   Link: <a href="https://www.psychologicalscience.org/observer/replication-project-investigates-self-control-as-limited-resource-2" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/observer/replication-project-investigates-self-control-as-limited-resource-2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Replication Project Investigates Self-Control as Limited...Aug 31, 2016 — The findings are published as part of a Registered Replication...</p></details>
+   Link:<a href="https://www.psychologicalscience.org/observer/replication-project-investigates-self-control-as-limited-resource-2" target="_blank" rel="noopener noreferrer nofollow">https://www.psychologicalscience.org/observer/replication-project-investigates-self-control-as-limited-resource-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Replication Project Investigates Self-Control as Limited...Aug 31, 2016 — The findings are published as part of a Registered Replication...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/350832721_Ego_depletion_A_review_of_criticisms_along_with_new_perspectives_for_the_replicable_investigation_of_self-control_fatigue_as_a_multicomponent_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/350832721_Ego_depletion_A_review_of_criticisms_along_with_new_perspectives_for_the_replicable_investigation_of_self-control_fatigue_as_a_multicomponent_phenomenon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Ego depletion: A review of criticisms along with new...19 Nov 2025 — The replication crisis in psychology has led to question popu...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/350832721_Ego_depletion_A_review_of_criticisms_along_with_new_perspectives_for_the_replicable_investigation_of_self-control_fatigue_as_a_multicomponent_phenomenon" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/350832721_Ego_depletion_A_review_of_criticisms_along_with_new_perspectives_for_the_replicable_investigation_of_self-control_fatigue_as_a_multicomponent_phenomenon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Ego depletion: A review of criticisms along with new...19 Nov 2025 — The replication crisis in psychology has led to question popu...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: egoprofesional.com.ar  
-   Link: <a href="https://egoprofesional.com.ar/" target="_blank" rel="noopener noreferrer nofollow">https://egoprofesional.com.ar/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EGO PROFESIONALNUESTROS PRODUCTOS · ACCESORIOS · COSMETOLOGIA · ESPEJOS · MANICURA · MAQUILLAJE · PELUQUERIA · BARBERÍA · TIJERAS · COSME...</p></details>
+   Link:<a href="https://egoprofesional.com.ar/" target="_blank" rel="noopener noreferrer nofollow">https://egoprofesional.com.ar/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EGO PROFESIONALNUESTROS PRODUCTOS · ACCESORIOS · COSMETOLOGIA · ESPEJOS · MANICURA · MAQUILLAJE · PELUQUERIA · BARBERÍA · TIJERAS · COSME...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: sanlab.uoregon.edu  
-   Link: <a href="https://sanlab.uoregon.edu/files/2014/07/Inzlicht-2014-The-neuroscience-of-%E2%80%9Cego-depletion%E2%80%9D-or-How-the-brain-can-help-us-understand-why-self-control-seems-limited-139lek1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sanlab.uoregon.edu/files/2014/07/Inzlicht-2014-The-neuroscience-of-%E2%80%9Cego-depletion%E2%80%9D-or-How-the-brain-can-help-us-understand-why-self-control-seems-limited-139lek1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the brain can help us understand why self- control seems...by M Inzlicht · Cited by 55 — Despite this, this ego depletion effect is real...</p></details>
+   Link:<a href="https://sanlab.uoregon.edu/files/2014/07/Inzlicht-2014-The-neuroscience-of-%E2%80%9Cego-depletion%E2%80%9D-or-How-the-brain-can-help-us-understand-why-self-control-seems-limited-139lek1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sanlab.uoregon.edu/files/2014/07/Inzlicht-2014-The-neuroscience-of-%E2%80%9Cego-depletion%E2%80%9D-or-How-the-brain-can-help-us-understand-why-self-control-seems-limited-139lek1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the brain can help us understand why self- control seems...by M Inzlicht · Cited by 55 — Despite this, this ego depletion effect is real...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cipp.ug.edu.pl  
-   Link: <a href="https://cipp.ug.edu.pl/Regulation-strategies-and-their-impact-on-subsequent-response-inhibition-the-moderating%2C108524%2C0%2C2.html" target="_blank" rel="noopener noreferrer nofollow">https://cipp.ug.edu.pl/Regulation-strategies-and-their-impact-on-subsequent-response-inhibition-the-moderating%2C108524%2C0%2C2.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>L., &amp; Gross J. J. (2014). Self-control and grit: Related but separable determinants of success. Current Directions in Psychological Scien...</p></details>
+   Link:<a href="https://cipp.ug.edu.pl/Regulation-strategies-and-their-impact-on-subsequent-response-inhibition-the-moderating%2C108524%2C0%2C2.html" target="_blank" rel="noopener noreferrer nofollow">https://cipp.ug.edu.pl/Regulation-strategies-and-their-impact-on-subsequent-response-inhibition-the-moderating%2C108524%2C0%2C2.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>L., &amp; Gross J. J. (2014). Self-control and grit: Related but separable determinants of success. Current Directions in Psychological Scien...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: thedecisionlab.com  
-   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/replication-crisis" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/replication-crisis</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Replication CrisisThe replication crisis highlights how psychology studies failing to reproduce have caused doubts in science and prompte...</p></details>
+   Link:<a href="https://thedecisionlab.com/reference-guide/psychology/replication-crisis" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/replication-crisis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Replication CrisisThe replication crisis highlights how psychology studies failing to reproduce have caused doubts in science and prompte...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: scispace.com  
-   Link: <a href="https://scispace.com/pdf/situational-strategies-for-self-control-3z3132dks8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/situational-strategies-for-self-control-3z3132dks8.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Situational Strategies for Self-Control.control conflicts, and the full range of self-control strategies can be organized using the proce...</p></details>
+   Link:<a href="https://scispace.com/pdf/situational-strategies-for-self-control-3z3132dks8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/situational-strategies-for-self-control-3z3132dks8.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Situational Strategies for Self-Control.control conflicts, and the full range of self-control strategies can be organized using the proce...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: chadd.org  
-   Link: <a href="https://chadd.org/wp-content/uploads/2016/12/ATTN_12_16_ManagingEmotions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://chadd.org/wp-content/uploads/2016/12/ATTN_12_16_ManagingEmotions.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strategies for Managing EmotionsA pioneer in the field, Gross views his model as a framework that can be used to think about how emotions...</p></details>
+   Link:<a href="https://chadd.org/wp-content/uploads/2016/12/ATTN_12_16_ManagingEmotions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://chadd.org/wp-content/uploads/2016/12/ATTN_12_16_ManagingEmotions.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strategies for Managing EmotionsA pioneer in the field, Gross views his model as a framework that can be used to think about how emotions...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: lunduniversity.lu.se  
-   Link: <a href="https://www.lunduniversity.lu.se/lup/publication/ad4ce668-51bf-432f-90c4-e3ce03031267" target="_blank" rel="noopener noreferrer nofollow">https://www.lunduniversity.lu.se/lup/publication/ad4ce668-51bf-432f-90c4-e3ce03031267</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>multilab preregistered replication of the ego-depletion...Commentary: A multilab preregistered replication of the ego-depletion effect...</p></details>
+   Link:<a href="https://www.lunduniversity.lu.se/lup/publication/ad4ce668-51bf-432f-90c4-e3ce03031267" target="_blank" rel="noopener noreferrer nofollow">https://www.lunduniversity.lu.se/lup/publication/ad4ce668-51bf-432f-90c4-e3ce03031267</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>multilab preregistered replication of the ego-depletion...Commentary: A multilab preregistered replication of the ego-depletion effect...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: curee.co.uk  
-   Link: <a href="https://www.curee.co.uk/files/RMHolyRosary/Resources/The_process_model_of_self_control.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.curee.co.uk/files/RMHolyRosary/Resources/The_process_model_of_self_control.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Self-Control in School-Age Children&#x27;. Education Psychologist. 49:3, 2014. pp 199-217. Other reports mentioned...Read more...</p></details>
+   Link:<a href="https://www.curee.co.uk/files/RMHolyRosary/Resources/The_process_model_of_self_control.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.curee.co.uk/files/RMHolyRosary/Resources/The_process_model_of_self_control.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Self-Control in School-Age Children&#x27;. Education Psychologist. 49:3, 2014. pp 199-217. Other reports mentioned...Read more...</p></details>

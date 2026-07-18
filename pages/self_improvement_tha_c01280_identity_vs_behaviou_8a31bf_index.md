@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /self-improvement-tha-c01280-identity/
 description: Focused pages that expand on Identity.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: self_improvement_tha_c01280_identity_vs_behaviou_8a31bf
 parent_title: Identity
@@ -16,7 +16,7 @@ parent_permalink: /identity/
 
 # Explore Topics in Identity
 
-The following pages expand on the main **[Identity]({{ '/identity/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Identity]({{ '/identity/' | relative_url }})** page and cover its key branches in.
 
 - [Proof first]({{ '/proof-first/' | relative_url }})
 - [Identity labels]({{ '/identity-labels/' | relative_url }})

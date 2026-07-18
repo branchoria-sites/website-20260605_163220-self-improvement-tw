@@ -274,7 +274,7 @@ image: /assets/images/self_improvement_tha_c01280_choice_architecture_214f66_pay
 
 ## Introduction
 
-Can payday [defaults]({{ 'defaults/' | relative_url }}) make [saving]({{ 'saving/' | relative_url }}) less fragile? In many cases, yes. The key idea is simple: move the saving decision to the beginning of the pay cycle rather than the end. When people plan to save whatever remains after a month of spending, savings compete with every other purchase. When money is transferred automatically as wages arrive, spending adapts to the smaller visible balance instead. Research on automatic enrolment, payroll-linked saving and behavioural design consistently finds that defaults increase participation and persistence because they reduce the need for repeated decisions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nestinsight.org.uk/wp-content/uploads/2024/08/How-does-pensions-automatic-enrolment-affect-savings.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nestinsight.org.uk">[NEST Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nestinsight.org.uk</span><span class="citation-popover-title">NEST Insight How does pension automatic enrolment affect savings?</span><span class="citation-popover-snippet">NEST InsightHow does pension automatic enrolment affect savings?August 5, 2024 — People saving in the auto enrolment system overwhelmingl...</span><span class="citation-popover-meta">Published: August 5, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://cris.maastrichtuniversity.nl/ws/portalfiles/portal/76426905/EV0721065ENN.en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cris.maastrichtuniversity.nl">[Maastricht University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cris.maastrichtuniversity.nl</span><span class="citation-popover-snippet">Maastricht Universityenrolment mechanisms for pension savingsAutomatic enrolment (also referred to as auto-enrolment) is a mechanism that...</span></span></span>
+Can payday [defaults]({{ 'defaults/' | relative_url }}) make [saving]({{ 'saving/' | relative_url }}) less fragile? In many cases, yes. The key idea is simple: move the saving decision to the beginning of the pay cycle rather than the end. When people plan to save whatever remains after a month of spending, savings compete with every other purchase. When money is transferred automatically as wages arrive, spending adapts to the smaller visible balance instead. Research on automatic enrolment, payroll-linked saving and behavioural design consistently finds that defaults increase participation and persistence because they reduce the need for repeated decisions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nestinsight.org.uk/wp-content/uploads/2024/08/How-does-pensions-automatic-enrolment-affect-savings.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nestinsight.org.uk">[NEST Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nestinsight.org.uk</span><span class="citation-popover-title">NEST Insight How does pension automatic enrolment affect savings?</span><span class="citation-popover-snippet">NEST InsightHow does pension automatic enrolment affect savings?August 5, 2024 — People saving in the auto enrolment system overwhelmingl...</span><span class="citation-popover-meta">Published: August 5, 2024</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://cris.maastrichtuniversity.nl/ws/portalfiles/portal/76426905/EV0721065ENN.en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cris.maastrichtuniversity.nl">[Maastricht University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cris.maastrichtuniversity.nl</span><span class="citation-popover-snippet">Maastricht Universityenrolment mechanisms for pension savingsAutomatic enrolment (also referred to as auto-enrolment) is a mechanism that...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_payday_savings_defau_a91d59-Illustration-1-dark.svg" | relative_url }}" alt="Payday saving illustration 1" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_payday_savings_defau_a91d59-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_payday_savings_defau_a91d59-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader idea of choice architecture, payday saving is one of the clearest examples of using a default to protect a long-term goal from short-term impulses. The saver still retains control and can change or stop the transfer, but the ordinary path now favours saving rather than spending.
@@ -285,9 +285,9 @@ The most important feature of an automatic savings system is often not the amoun
 
 When wages arrive, a bank balance temporarily looks larger than usual. That moment creates a mental impression of available money. If saving is delayed for a week or two, everyday spending, subscriptions, meals out and small discretionary purchases begin competing for the same funds. By month end, the original intention to save may remain, but the available cash has shrunk.
 
-A transfer scheduled on payday or immediately afterwards changes the sequence. The money earmarked for savings never becomes part of the day-to-day spending pool. Behavioural researchers often describe this as reducing friction for the desired action while increasing the effort required to reverse it. The result is not that people become more disciplined; rather, they face fewer moments where discipline is required. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cris.maastrichtuniversity.nl/ws/portalfiles/portal/76426905/EV0721065ENN.en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cris.maastrichtuniversity.nl">[Maastricht University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cris.maastrichtuniversity.nl</span><span class="citation-popover-snippet">Maastricht Universityenrolment mechanisms for pension savingsAutomatic enrolment (also referred to as auto-enrolment) is a mechanism that...</span></span></span>
+A transfer scheduled on payday or immediately afterwards changes the sequence. The money earmarked for savings never becomes part of the day-to-day spending pool. Behavioural researchers often describe this as reducing friction for the desired action while increasing the effort required to reverse it. The result is not that people become more disciplined; rather, they face fewer moments where discipline is required.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cris.maastrichtuniversity.nl/ws/portalfiles/portal/76426905/EV0721065ENN.en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cris.maastrichtuniversity.nl">[Maastricht University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cris.maastrichtuniversity.nl</span><span class="citation-popover-snippet">Maastricht Universityenrolment mechanisms for pension savingsAutomatic enrolment (also referred to as auto-enrolment) is a mechanism that...</span></span></span>
 
-The broader evidence on automatic enrolment illustrates the power of this timing effect. Automatic pension enrolment dramatically increased participation rates because people were included unless they actively opted out. The lesson extends beyond pensions: decisions made automatically before spending begins tend to survive better than decisions revisited repeatedly during the spending cycle. Institute for Fiscal Studies <span class="citation-chip-wrap"><a class="citation-chip" href="https://cris.maastrichtuniversity.nl/ws/portalfiles/portal/76426905/EV0721065ENN.en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cris.maastrichtuniversity.nl">[Maastricht University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cris.maastrichtuniversity.nl</span><span class="citation-popover-snippet">Maastricht Universityenrolment mechanisms for pension savingsAutomatic enrolment (also referred to as auto-enrolment) is a mechanism that...</span></span></span>
+The broader evidence on automatic enrolment illustrates the power of this timing effect. Automatic pension enrolment dramatically increased participation rates because people were included unless they actively opted out. The lesson extends beyond pensions: decisions made automatically before spending begins tend to survive better than decisions revisited repeatedly during the spending cycle. Institute for Fiscal Studies<span class="citation-chip-wrap"><a class="citation-chip" href="https://cris.maastrichtuniversity.nl/ws/portalfiles/portal/76426905/EV0721065ENN.en.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cris.maastrichtuniversity.nl">[Maastricht University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cris.maastrichtuniversity.nl</span><span class="citation-popover-snippet">Maastricht Universityenrolment mechanisms for pension savingsAutomatic enrolment (also referred to as auto-enrolment) is a mechanism that...</span></span></span>
 
 A practical way to think about payday saving is that it creates a smaller but more realistic spending budget. Instead of attempting to save from leftovers, it asks everyday spending to adapt to a predetermined amount.
 
@@ -297,7 +297,7 @@ A practical way to think about payday saving is that it creates a smaller but mo
 
 The mechanics matter because different methods create different levels of protection from impulsive spending.
 
-A standing order from a current account to a separate savings account is often effective because it occurs automatically on a chosen date. Once established, it requires no monthly decision. Payroll-linked saving can go even further by directing part of earnings into savings before the money reaches the main spending account. Behavioural evaluations of [payroll saving]({{ 'payroll-saving/' | relative_url }}) schemes highlight that this arrangement reduces the opportunities for intended savings to be absorbed into routine expenditure. BIT <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nestinsight.org.uk/wp-content/uploads/2024/08/How-does-pensions-automatic-enrolment-affect-savings.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nestinsight.org.uk">[NEST Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nestinsight.org.uk</span><span class="citation-popover-title">NEST Insight How does pension automatic enrolment affect savings?</span><span class="citation-popover-snippet">NEST InsightHow does pension automatic enrolment affect savings?August 5, 2024 — People saving in the auto enrolment system overwhelmingl...</span><span class="citation-popover-meta">Published: August 5, 2024</span></span></span>
+A standing order from a current account to a separate savings account is often effective because it occurs automatically on a chosen date. Once established, it requires no monthly decision. Payroll-linked saving can go even further by directing part of earnings into savings before the money reaches the main spending account. Behavioural evaluations of [payroll saving]({{ 'payroll-saving/' | relative_url }}) schemes highlight that this arrangement reduces the opportunities for intended savings to be absorbed into routine expenditure. BIT<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nestinsight.org.uk/wp-content/uploads/2024/08/How-does-pensions-automatic-enrolment-affect-savings.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nestinsight.org.uk">[NEST Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nestinsight.org.uk</span><span class="citation-popover-title">NEST Insight How does pension automatic enrolment affect savings?</span><span class="citation-popover-snippet">NEST InsightHow does pension automatic enrolment affect savings?August 5, 2024 — People saving in the auto enrolment system overwhelmingl...</span><span class="citation-popover-meta">Published: August 5, 2024</span></span></span>
 
 Visibility also matters. A savings account that sits beside the current account in the same mobile banking screen remains accessible, which is useful, but it may also feel readily available for spending. Many successful savers create a degree of separation:
 
@@ -312,7 +312,7 @@ Visibility also matters. A savings account that sits beside the current account 
 
 The objective is not to make money inaccessible. It is to create a small pause between wanting to spend and actually spending. That pause often gives long-term intentions a chance to reappear.
 
-Interestingly, evidence from retirement saving suggests that automatic saving can increase accumulated assets without necessarily causing widespread financial distress or unsustainable borrowing. Studies examining automatic enrolment have found little evidence that higher default saving rates systematically translate into increased financial hardship. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cepr.org/voxeu/columns/effect-automatic-enrolment-debt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cepr.org">[CEPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cepr.org</span><span class="citation-popover-snippet">The effect of automatic enrolment on debtby W Skimmyhorn — It finds strong evidence against the hypothesis that automatic enrolment i...</span></span></span>
+Interestingly, evidence from retirement saving suggests that automatic saving can increase accumulated assets without necessarily causing widespread financial distress or unsustainable borrowing. Studies examining automatic enrolment have found little evidence that higher default saving rates systematically translate into increased financial hardship.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cepr.org/voxeu/columns/effect-automatic-enrolment-debt" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cepr.org">[CEPR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cepr.org</span><span class="citation-popover-snippet">The effect of automatic enrolment on debtby W Skimmyhorn — It finds strong evidence against the hypothesis that automatic enrolment i...</span></span></span>
 
 <img src="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_payday_savings_defau_a91d59-Illustration-2-dark.svg" | relative_url }}" alt="Payday saving illustration 2" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_payday_savings_defau_a91d59-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_payday_savings_defau_a91d59-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to set an amount that stays adjustable
@@ -334,7 +334,7 @@ A useful approach is:
 
 </div>
 
-The experience of pension auto-enrolment offers an instructive parallel. Participation remains high partly because people are not forced to make a fresh decision every pay period. Once the default exists, inertia often works in favour of continued saving. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nestinsight.org.uk/wp-content/uploads/2024/08/How-does-pensions-automatic-enrolment-affect-savings.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nestinsight.org.uk">[NEST Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nestinsight.org.uk</span><span class="citation-popover-title">NEST Insight How does pension automatic enrolment affect savings?</span><span class="citation-popover-snippet">NEST InsightHow does pension automatic enrolment affect savings?August 5, 2024 — People saving in the auto enrolment system overwhelmingl...</span><span class="citation-popover-meta">Published: August 5, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ifs.org.uk/articles/automatic-enrolment-too-successful-nudge-boost-pension-saving" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifs.org.uk">[Institute for Fiscal Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifs.org.uk</span><span class="citation-popover-title">automatic enrolment too successful nudge boost pension saving</span><span class="citation-popover-snippet">Institute for Fiscal Studiestoo successful a nudge to boost pension saving?18 May 2020 — Automatic enrolment increased pension membership...</span><span class="citation-popover-meta">Published: May 2020</span></span></span>
+The experience of pension auto-enrolment offers an instructive parallel. Participation remains high partly because people are not forced to make a fresh decision every pay period. Once the default exists, inertia often works in favour of continued saving.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nestinsight.org.uk/wp-content/uploads/2024/08/How-does-pensions-automatic-enrolment-affect-savings.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nestinsight.org.uk">[NEST Insight]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nestinsight.org.uk</span><span class="citation-popover-title">NEST Insight How does pension automatic enrolment affect savings?</span><span class="citation-popover-snippet">NEST InsightHow does pension automatic enrolment affect savings?August 5, 2024 — People saving in the auto enrolment system overwhelmingl...</span><span class="citation-popover-meta">Published: August 5, 2024</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://ifs.org.uk/articles/automatic-enrolment-too-successful-nudge-boost-pension-saving" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifs.org.uk">[Institute for Fiscal Studies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifs.org.uk</span><span class="citation-popover-title">automatic enrolment too successful nudge boost pension saving</span><span class="citation-popover-snippet">Institute for Fiscal Studiestoo successful a nudge to boost pension saving?18 May 2020 — Automatic enrolment increased pension membership...</span><span class="citation-popover-meta">Published: May 2020</span></span></span>
 
 However, adjustability remains important. A savings default should feel easy to modify when circumstances change. Unexpected expenses, reduced income or family commitments can require a temporary reduction. The goal is not rigidity but resilience.
 
@@ -344,7 +344,7 @@ One practical rule is to automate a minimum amount that feels almost certain to 
 
 ## Why payday defaults often outperform motivation
 
-Many people assume that saving is mainly a question of financial knowledge or self-control. Yet surveys and behavioural research repeatedly find a gap between intentions and actions. People generally know saving is beneficial, but competing demands arrive earlier and more vividly than future goals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://reba.global/resource/helping-employees-turn-earnings-into-savings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reba.global">[reba.global]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reba.global</span><span class="citation-popover-snippet">How to help employees turn earnings into savings9 Dec 2025 — The answer lies in making saving simple, automatic, and achievable...</span></span></span>
+Many people assume that saving is mainly a question of financial knowledge or self-control. Yet surveys and behavioural research repeatedly find a gap between intentions and actions. People generally know saving is beneficial, but competing demands arrive earlier and more vividly than future goals.<span class="citation-chip-wrap"><a class="citation-chip" href="https://reba.global/resource/helping-employees-turn-earnings-into-savings.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reba.global">[reba.global]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reba.global</span><span class="citation-popover-snippet">How to help employees turn earnings into savings9 Dec 2025 — The answer lies in making saving simple, automatic, and achievable...</span></span></span>
 
 Payday defaults address that gap directly. They convert a recurring decision into a recurring system. Instead of asking, “Will I save this month?”, the arrangement quietly answers the question before spending begins.
 
@@ -363,178 +363,178 @@ When those three conditions are present, saving becomes less dependent on [motiv
 <img src="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_payday_savings_defau_a91d59-Illustration-3-dark.svg" | relative_url }}" alt="Payday saving illustration 3" data-theme-src-dark="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_payday_savings_defau_a91d59-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/self_improvement_tha_c01280_choice_architecture_214f66_payday_savings_defau_a91d59-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can payday defaults make saving less fragile?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can payday defaults make saving less fragile?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Automatic+Millionaire+by+David+Bach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Automatic Millionaire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3DNoY93VQ6EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Automatic Millionaire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Automatic+Millionaire+by+David+Bach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Automatic Millionaire">The Automatic Millionaire</a>
-        </h4>
-        <p class="fr-book-author">By David Bach</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Automatic+Millionaire+by+David+Bach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Automatic Millionaire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3DNoY93VQ6EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Automatic Millionaire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Automatic+Millionaire+by+David+Bach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Automatic Millionaire">The Automatic Millionaire</a>
+</h4>
+<p class="fr-book-author">By David Bach</p>
         
-        <p class="fr-book-desc">Directly promotes automatic saving and payday-style defaults.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Automatic+Millionaire+by+David+Bach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly promotes automatic saving and payday-style defaults.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Automatic+Millionaire+by+David+Bach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=I+Will+Teach+You+to+Be+Rich+by+Ramit+Sethi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open I Will Teach You to Be Rich on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cZ94EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for I Will Teach You to Be Rich" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=I+Will+Teach+You+to+Be+Rich+by+Ramit+Sethi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="I Will Teach You to Be Rich">I Will Teach You to Be Rich</a>
-        </h4>
-        <p class="fr-book-author">By Ramit Sethi</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=I+Will+Teach+You+to+Be+Rich+by+Ramit+Sethi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open I Will Teach You to Be Rich on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cZ94EAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for I Will Teach You to Be Rich" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=I+Will+Teach+You+to+Be+Rich+by+Ramit+Sethi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="I Will Teach You to Be Rich">I Will Teach You to Be Rich</a>
+</h4>
+<p class="fr-book-author">By Ramit Sethi</p>
         
-        <p class="fr-book-desc">Advocates automated transfers and default-based financial systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=I+Will+Teach+You+to+Be+Rich+by+Ramit+Sethi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Advocates automated transfers and default-based financial systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=I+Will+Teach+You+to+Be+Rich+by+Ramit+Sethi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-        </h4>
-        <p class="fr-book-author">By James Clear</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
-        <p class="fr-book-desc">Applies choice architecture ideas to everyday habits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XfFvDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
+</h4>
+<p class="fr-book-author">By James Clear</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 7 Google Books ratings</p>
+<p class="fr-book-desc">Applies choice architecture ideas to everyday habits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Psychology+of+Money+by+Morgan+Housel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of Money on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5HrrDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Psychology of Money" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Psychology+of+Money+by+Morgan+Housel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Money">The Psychology of Money</a>
-        </h4>
-        <p class="fr-book-author">By Morgan Housel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Psychology+of+Money+by+Morgan+Housel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Psychology of Money on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5HrrDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Psychology of Money" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Psychology+of+Money+by+Morgan+Housel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of Money">The Psychology of Money</a>
+</h4>
+<p class="fr-book-author">By Morgan Housel</p>
         
-        <p class="fr-book-desc">Explains behavioural forces behind saving decisions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Psychology+of+Money+by+Morgan+Housel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains behavioural forces behind saving decisions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Psychology+of+Money+by+Morgan+Housel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Automatic+Millionaire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Automatic Millionaire</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=I+Will+Teach+You+to+Be+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">I Will Teach You to Be Rich</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Automatic+Millionaire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Automatic Millionaire</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=I+Will+Teach+You+to+Be+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">I Will Teach You to Be Rich</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-    </div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payday-saving-can-payday-defaults-make-saving-less-fragile-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payday-saving-can-payday-defaults-make-saving-less-fragile-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payday-saving-can-payday-defaults-make-saving-less-fragile-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payday-saving-can-payday-defaults-make-saving-less-fragile-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payday-saving-can-payday-defaults-make-saving-less-fragile-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/a63b9e67fd6ad3abe74b.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payday-saving-can-payday-defaults-make-saving-less-fragile-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payday-saving-can-payday-defaults-make-saving-less-fragile-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payday-saving-can-payday-defaults-make-saving-less-fragile-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payday-saving-can-payday-defaults-make-saving-less-fragile-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payday-saving-can-payday-defaults-make-saving-less-fragile-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payday-saving-can-payday-defaults-make-saving-less-fragile-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payday-saving-can-payday-defaults-make-saving-less-fragile-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payday-saving-can-payday-defaults-make-saving-less-fragile-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12"><img src="{{ '/assets/images/marketplace-covers/d7bcb57c480be5c4b071.jpg' | relative_url }}" alt="Listing image for Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payday-saving-can-payday-defaults-make-saving-less-fragile-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Text Art Poster Vintage Tin Metal Sign Home Decor 8x12</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payday-saving-can-payday-defaults-make-saving-less-fragile-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payday-saving-can-payday-defaults-make-saving-less-fragile-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payday-saving-can-payday-defaults-make-saving-less-fragile-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payday-saving-can-payday-defaults-make-saving-less-fragile-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payday-saving-can-payday-defaults-make-saving-less-fragile-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payday-saving-can-payday-defaults-make-saving-less-fragile-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payday-saving-can-payday-defaults-make-saving-less-fragile-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self improvement Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/433bff18fbb7f983be10.jpg' | relative_url }}" alt="Listing image for Self improvement Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payday-saving-can-payday-defaults-make-saving-less-fragile-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self improvement Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payday-saving-can-payday-defaults-make-saving-less-fragile-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payday-saving-can-payday-defaults-make-saving-less-fragile-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payday-saving-can-payday-defaults-make-saving-less-fragile-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payday-saving-can-payday-defaults-make-saving-less-fragile-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payday-saving-can-payday-defaults-make-saving-less-fragile-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search <span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payday-saving-can-payday-defaults-make-saving-less-fragile-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payday-saving-can-payday-defaults-make-saving-less-fragile-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payday-saving-can-payday-defaults-make-saving-less-fragile-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/ae7d8ad9ff6bc4d743ff.jpg' | relative_url }}" alt="Listing image for Self Improvement Quote Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payday-saving-can-payday-defaults-make-saving-less-fragile-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Self Improvement Quote Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payday-saving-can-payday-defaults-make-saving-less-fragile-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for self improvement poster">Search<span data-ebay-domain-label>eBay.com</span>: self improvement poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payday-saving-can-payday-defaults-make-saving-less-fragile-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.com</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=self+improvement+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=payday-saving-can-payday-defaults-make-saving-less-fragile-self-improvement-that-works-self-improvement-poster&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.com</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -550,7 +550,7 @@ When those three conditions are present, saving becomes less dependent on [motiv
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -570,7 +570,7 @@ When those three conditions are present, saving becomes less dependent on [motiv
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -602,7 +602,7 @@ When those three conditions are present, saving becomes less dependent on [motiv
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-market-switch]');
   if (!sections.length) return;
@@ -632,7 +632,7 @@ When those three conditions are present, saving becomes less dependent on [motiv
     section.setAttribute('data-ebay-market-init', '1');
     var select = section.querySelector('[data-ebay-market-select]');
     var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (!select || panels.length < 2) return;
+    if (!select || panels.length< 2) return;
     var available = Array.prototype.slice.call(select.options).map(function (option) { return option.value; }).filter(Boolean);
     function selectMarket(marketId, persist) {
       panels.forEach(function (panel) {
@@ -690,101 +690,101 @@ When those three conditions are present, saving becomes less dependent on [motiv
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: bi.team  
-   Link: <a href="https://www.bi.team/wp-content/uploads/2022/10/Using-behavioural-science-to-help-employees-save-evaluation-of-a-payroll-savings-scheme.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bi.team/wp-content/uploads/2022/10/Using-behavioural-science-to-help-employees-save-evaluation-of-a-payroll-savings-scheme.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The link with payroll means that the user only...Read more...</p></details>
+   Link:<a href="https://www.bi.team/wp-content/uploads/2022/10/Using-behavioural-science-to-help-employees-save-evaluation-of-a-payroll-savings-scheme.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bi.team/wp-content/uploads/2022/10/Using-behavioural-science-to-help-employees-save-evaluation-of-a-payroll-savings-scheme.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The link with payroll means that the user only...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reba.global  
-   Link: <a href="https://reba.global/resource/helping-employees-turn-earnings-into-savings.html" target="_blank" rel="noopener noreferrer nofollow">https://reba.global/resource/helping-employees-turn-earnings-into-savings.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to help employees turn earnings into savings9 Dec 2025 — The answer lies in making saving simple, automatic, and achievable...</p></details>
+   Link:<a href="https://reba.global/resource/helping-employees-turn-earnings-into-savings.html" target="_blank" rel="noopener noreferrer nofollow">https://reba.global/resource/helping-employees-turn-earnings-into-savings.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to help employees turn earnings into savings9 Dec 2025 — The answer lies in making saving simple, automatic, and achievable...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cepr.org  
-   Link: <a href="https://cepr.org/voxeu/columns/effect-automatic-enrolment-debt" target="_blank" rel="noopener noreferrer nofollow">https://cepr.org/voxeu/columns/effect-automatic-enrolment-debt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The effect of automatic enrolment on debtby W Skimmyhorn — It finds strong evidence against the hypothesis that automatic enrolment i...</p></details>
+   Link:<a href="https://cepr.org/voxeu/columns/effect-automatic-enrolment-debt" target="_blank" rel="noopener noreferrer nofollow">https://cepr.org/voxeu/columns/effect-automatic-enrolment-debt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The effect of automatic enrolment on debtby W Skimmyhorn — It finds strong evidence against the hypothesis that automatic enrolment i...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nestinsight.org.uk  
    Title: NEST Insight How does pension automatic enrolment affect savings?  
-   Link: <a href="https://www.nestinsight.org.uk/wp-content/uploads/2024/08/How-does-pensions-automatic-enrolment-affect-savings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nestinsight.org.uk/wp-content/uploads/2024/08/How-does-pensions-automatic-enrolment-affect-savings.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NEST InsightHow does pension automatic enrolment affect savings?August 5, 2024 — People saving in the auto enrolment system overwhelmingl...</p></details>
+   Link:<a href="https://www.nestinsight.org.uk/wp-content/uploads/2024/08/How-does-pensions-automatic-enrolment-affect-savings.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nestinsight.org.uk/wp-content/uploads/2024/08/How-does-pensions-automatic-enrolment-affect-savings.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NEST InsightHow does pension automatic enrolment affect savings?August 5, 2024 — People saving in the auto enrolment system overwhelmingl...</p></details>
    Published: August 5, 2024  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cris.maastrichtuniversity.nl  
-   Link: <a href="https://cris.maastrichtuniversity.nl/ws/portalfiles/portal/76426905/EV0721065ENN.en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cris.maastrichtuniversity.nl/ws/portalfiles/portal/76426905/EV0721065ENN.en.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Maastricht Universityenrolment mechanisms for pension savingsAutomatic enrolment (also referred to as auto-enrolment) is a mechanism that...</p></details>
+   Link:<a href="https://cris.maastrichtuniversity.nl/ws/portalfiles/portal/76426905/EV0721065ENN.en.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cris.maastrichtuniversity.nl/ws/portalfiles/portal/76426905/EV0721065ENN.en.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Maastricht Universityenrolment mechanisms for pension savingsAutomatic enrolment (also referred to as auto-enrolment) is a mechanism that...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ifs.org.uk  
    Title: automatic enrolment too successful nudge boost pension saving  
-   Link: <a href="https://ifs.org.uk/articles/automatic-enrolment-too-successful-nudge-boost-pension-saving" target="_blank" rel="noopener noreferrer nofollow">https://ifs.org.uk/articles/automatic-enrolment-too-successful-nudge-boost-pension-saving</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Institute for Fiscal Studiestoo successful a nudge to boost pension saving?18 May 2020 — Automatic enrolment increased pension membership...</p></details>
+   Link:<a href="https://ifs.org.uk/articles/automatic-enrolment-too-successful-nudge-boost-pension-saving" target="_blank" rel="noopener noreferrer nofollow">https://ifs.org.uk/articles/automatic-enrolment-too-successful-nudge-boost-pension-saving</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Institute for Fiscal Studiestoo successful a nudge to boost pension saving?18 May 2020 — Automatic enrolment increased pension membership...</p></details>
    Published: May 2020  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nestinsight.org.uk  
-   Link: <a href="https://www.nestinsight.org.uk/wp-content/uploads/2025/03/Easier-to-Save.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nestinsight.org.uk/wp-content/uploads/2025/03/Easier-to-Save.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Easier to SaveIn the payroll saving model, if employees sign up to save, a portion of their pay is put into an accessible cash-savings ac...</p></details>
+   Link:<a href="https://www.nestinsight.org.uk/wp-content/uploads/2025/03/Easier-to-Save.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nestinsight.org.uk/wp-content/uploads/2025/03/Easier-to-Save.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Easier to SaveIn the payroll saving model, if employees sign up to save, a portion of their pay is put into an accessible cash-savings ac...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/automatic-vs-manual-savings-what-research-says-millie-wong-a5ihc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/automatic-vs-manual-savings-what-research-says-millie-wong-a5ihc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Automatic vs Manual Savings — What Research SaysWeek 3: Set up the automatic transfer for 2 days after payday. Start with 50% of your tar...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/automatic-vs-manual-savings-what-research-says-millie-wong-a5ihc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/automatic-vs-manual-savings-what-research-says-millie-wong-a5ihc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Automatic vs Manual Savings — What Research SaysWeek 3: Set up the automatic transfer for 2 days after payday. Start with 50% of your tar...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: vle.actuaries.org.uk  
-   Link: <a href="https://vle.actuaries.org.uk/pluginfile.php/151603/mod_resource/content/2/DC%20PAD%20Participation%20Paper%20%281%29%20-%20disc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://vle.actuaries.org.uk/pluginfile.php/151603/mod_resource/content/2/DC%20PAD%20Participation%20Paper%20%281%29%20-%20disc.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Participation Market ResearchPeople saving for longer. Automatic enrolment. 4.1. Automatic enrolment has resulted in many more people sav...</p></details>
+   Link:<a href="https://vle.actuaries.org.uk/pluginfile.php/151603/mod_resource/content/2/DC%20PAD%20Participation%20Paper%20%281%29%20-%20disc.pdf" target="_blank" rel="noopener noreferrer nofollow">https://vle.actuaries.org.uk/pluginfile.php/151603/mod_resource/content/2/DC%20PAD%20Participation%20Paper%20%281%29%20-%20disc.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Participation Market ResearchPeople saving for longer. Automatic enrolment. 4.1. Automatic enrolment has resulted in many more people sav...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: GOV.UK  
    Title: www.gov.uk Consumer rights Consumer protection and rights for goods and services  
-   Link: <a href="https://www.gov.uk/consumer-protection-rights" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/consumer-protection-rights</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rightsConsumer protection and rights for goods and services - returning faulty goods, consumer credit, credit and store cards, refunds...</p></details>
+   Link:<a href="https://www.gov.uk/consumer-protection-rights" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/consumer-protection-rights</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rightsConsumer protection and rights for goods and services - returning faulty goods, consumer credit, credit and store cards, refunds...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: bi.team  
    Title: While auto-enrolment brought people into the system, it also anchored many  
-   Link: <a href="https://www.bi.team/comment/building-on-auto-enrolment-supporting-people-to-save-for-retirement/" target="_blank" rel="noopener noreferrer nofollow">https://www.bi.team/comment/building-on-auto-enrolment-supporting-people-to-save-for-retirement/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Building on auto-enrolment: supporting people to save for...27 Nov 2025 — Yet defaults primarily address participation rather than adequacy...</p></details>
+   Link:<a href="https://www.bi.team/comment/building-on-auto-enrolment-supporting-people-to-save-for-retirement/" target="_blank" rel="noopener noreferrer nofollow">https://www.bi.team/comment/building-on-auto-enrolment-supporting-people-to-save-for-retirement/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Building on auto-enrolment: supporting people to save for...27 Nov 2025 — Yet defaults primarily address participation rather than adequacy...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: dol.gov  
    Title: automatic enrollment in retirement savings vehicles  
-   Link: <a href="https://www.dol.gov/sites/dolgov/files/ebsa/pdf_files/automatic-enrollment-in-retirement-savings-vehicles.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dol.gov/sites/dolgov/files/ebsa/pdf_files/automatic-enrollment-in-retirement-savings-vehicles.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by J Burke · 2015 · Cited by 4 — In this study, we use data from the 2008 and 2010 waves of the HRS to examine how employers&#x27; automatic e...</p></details>
+   Link:<a href="https://www.dol.gov/sites/dolgov/files/ebsa/pdf_files/automatic-enrollment-in-retirement-savings-vehicles.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dol.gov/sites/dolgov/files/ebsa/pdf_files/automatic-enrollment-in-retirement-savings-vehicles.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by J Burke · 2015 · Cited by 4 — In this study, we use data from the 2008 and 2010 waves of the HRS to examine how employers&#x27; automatic e...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: maps.org.uk  
    Title: using behavioural science to improve financial wellbeing june 2020  
-   Link: <a href="https://maps.org.uk/content/dam/maps-corporate/en/our-work/using-behavioural-science-to-improve-financial-wellbeing-june-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://maps.org.uk/content/dam/maps-corporate/en/our-work/using-behavioural-science-to-improve-financial-wellbeing-june-2020.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Financial wellbeing... Behavioural Evidence Hub97 (B-Hub) and Ideas4298, a US-based non-profit that uses insights from behavioural scienc...</p></details>
+   Link:<a href="https://maps.org.uk/content/dam/maps-corporate/en/our-work/using-behavioural-science-to-improve-financial-wellbeing-june-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://maps.org.uk/content/dam/maps-corporate/en/our-work/using-behavioural-science-to-improve-financial-wellbeing-june-2020.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Financial wellbeing... Behavioural Evidence Hub97 (B-Hub) and Ideas4298, a US-based non-profit that uses insights from behavioural scienc...</p></details>
    Published: june 2020  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: medium.com  
    Title: the system that makes saving 1 000 month automatic edcf5bccf9ba  
-   Link: <a href="https://medium.com/illumination/the-system-that-makes-saving-1-000-month-automatic-edcf5bccf9ba" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/illumination/the-system-that-makes-saving-1-000-month-automatic-edcf5bccf9ba</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The System That Makes Saving $1000/Month AutomaticStep 3 (10 minutes): Set up automatic transfers on your payday. Fixed expenses to Bills...</p></details>
+   Link:<a href="https://medium.com/illumination/the-system-that-makes-saving-1-000-month-automatic-edcf5bccf9ba" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/illumination/the-system-that-makes-saving-1-000-month-automatic-edcf5bccf9ba</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The System That Makes Saving $1000/Month AutomaticStep 3 (10 minutes): Set up automatic transfers on your payday. Fixed expenses to Bills...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: understandingsociety.ac.uk  
    Title: How does pension automatic enrolment affect savings?  
-   Link: <a href="https://www.understandingsociety.ac.uk/research/publications/publication-578339/" target="_blank" rel="noopener noreferrer nofollow">https://www.understandingsociety.ac.uk/research/publications/publication-578339/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>by C Firth · 2024 — A broad evidence base has established that the policy substantially increases pension participation rates, leading to...</p></details>
+   Link:<a href="https://www.understandingsociety.ac.uk/research/publications/publication-578339/" target="_blank" rel="noopener noreferrer nofollow">https://www.understandingsociety.ac.uk/research/publications/publication-578339/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by C Firth · 2024 — A broad evidence base has established that the policy substantially increases pension participation rates, leading to...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: indexbox.io  
    Title: britains 100 billion grid upgrade consumer costs revealed in 2026  
-   Link: <a href="https://www.indexbox.io/blog/britains-100-billion-grid-upgrade-consumer-costs-revealed-in-2026/" target="_blank" rel="noopener noreferrer nofollow">https://www.indexbox.io/blog/britains-100-billion-grid-upgrade-consumer-costs-revealed-in-2026/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Britain&#x27;s £100 Billion Grid Upgrade: Consumer Costs Revealed in 2026 | Energy Bills Analysis - News and Statistics...</p></details>
+   Link:<a href="https://www.indexbox.io/blog/britains-100-billion-grid-upgrade-consumer-costs-revealed-in-2026/" target="_blank" rel="noopener noreferrer nofollow">https://www.indexbox.io/blog/britains-100-billion-grid-upgrade-consumer-costs-revealed-in-2026/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Britain&#x27;s £100 Billion Grid Upgrade: Consumer Costs Revealed in 2026 | Energy Bills Analysis - News and Statistics...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: disputeresolutionombudsman.org  
-   Link: <a href="https://www.disputeresolutionombudsman.org/articles/who-is-a-consumer-and-why-does-it-matter" target="_blank" rel="noopener noreferrer nofollow">https://www.disputeresolutionombudsman.org/articles/who-is-a-consumer-and-why-does-it-matter</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>purchasing decisions influenced by sustainability, value for...Read more...</p></details>
+   Link:<a href="https://www.disputeresolutionombudsman.org/articles/who-is-a-consumer-and-why-does-it-matter" target="_blank" rel="noopener noreferrer nofollow">https://www.disputeresolutionombudsman.org/articles/who-is-a-consumer-and-why-does-it-matter</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>purchasing decisions influenced by sustainability, value for...Read more...</p></details>
